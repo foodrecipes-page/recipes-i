@@ -1,0 +1,100 @@
+{
+  "title": "Indulgent Flaky Herb Crumble",
+  "description": "A savory and indulgent dish featuring a blend of herbs, lean minced steak, and a flaky crumble for a Norwegian-inspired snack.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lean ground beef",
+      "amount": "100g",
+      "notes": "Beef should be lean to keep the dish lighter."
+    },
+    {
+      "name": "Herb blend (oregano, thyme, parsley)",
+      "amount": "2 tsp",
+      "notes": "Fresh herbs are preferable for this recipe."
+    },
+    {
+      "name": "Butter",
+      "amount": "30g",
+      "notes": "For the crumble topping."
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tsp",
+      "notes": "For frying the steak."
+    },
+    {
+      "name": "Eggs",
+      "amount": "1",
+      "notes": "For the crumble coating."
+    },
+    {
+      "name": "Almond flour (or oat flour)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Heavy cream or half and half",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F.",
+    "Mix the ground beef with the herb blend, salt, and pepper. Form into small patties.",
+    "Fry each patty until golden brown on both sides in a non-stick skillet.",
+    "In another bowl, whisk together eggs, almond flour, heavy cream or half and half, and vegetable oil. Mix well to form an egg wash.",
+    "Sprinkle the crumble mixture over the patties and place them in the oven for 5 minutes.",
+    "While the patties are cooking, create a crumb coating by mixing butter with all-purpose flour until you have a crumbly dough.",
+    "Roll out the dough thinly. Place each patty on top of the crumb layer and spread evenly over the crust. Return to the oven for another 5-10 minutes or until golden brown.",
+    "Let it cool down slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indulgent",
+    "flaky",
+    "herbal",
+    "norwegian",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 25,
+    "carbs": 14,
+    "fat": 17
+  },
+  "slug": "indulgent-flaky-herb-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-flaky-herb-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:44:23Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "knead",
+    "primaryIngredient": "lean minced steak",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Herb",
+    "descriptor": "Flaky Indulgent",
+    "dishForm": "Crumble"
+  }
+}

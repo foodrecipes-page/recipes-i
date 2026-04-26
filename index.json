@@ -1,9 +1,16 @@
-{
-  "version": 1,
-  "shard": "i",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 'i''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-i@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "indulgent-flaky-herb-crumble",
+    "title": "Indulgent Flaky Herb Crumble",
+    "tags": [
+      "indulgent",
+      "flaky",
+      "herbal",
+      "norwegian",
+      "steak"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 55,
+    "shard": "i"
+  }
+]
