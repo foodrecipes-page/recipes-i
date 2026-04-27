@@ -1,0 +1,88 @@
+{
+  "title": "Indulgious Gooey Saudi Mincemeat Crumble",
+  "description": "A savory and indulgent dish featuring minced meat mixed with a sweet Saudi-style mincemeat filling topped with a gooey paleo-friendly crumble.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "200g"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "Dark chocolate chips",
+      "amount": "100g"
+    },
+    {
+      "name": "Pumpkin puree",
+      "amount": "50ml"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "2-3 tsp"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "50g"
+    },
+    {
+      "name": "Almond meal",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a large bowl, mix ground beef with brown sugar and pumpkin puree. Add cinnamon and mix until well combined.",
+    "Transfer half of the mixture into a small baking dish and press it down evenly. Bake for 20 minutes.",
+    "Mix dark chocolate chips with all-purpose flour and coconut oil until no lumps remain. Spread this crumb topping on top of the baked mixture.",
+    "In another bowl, mix almond meal with remaining 50g of brown sugar. Sprinkle this mixture over the crumble.",
+    "Bake for an additional 20 minutes or until golden brown. Allow to cool before serving.",
+    "Optional garnish: serve with a dollop of coconut yogurt."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent",
+    "saudi-arabian",
+    "mincemeat",
+    "crumble",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 1250,
+    "protein": 87.63,
+    "carbs": 94.32,
+    "fat": 81.8
+  },
+  "slug": "indulgious-gooey-saudia-mincemeat-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgious-gooey-saudia-mincemeat-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:57:30Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "mincemeat",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "mincemeat",
+    "descriptor": "Indulgent Gooey",
+    "dishForm": "Crumble"
+  }
+}

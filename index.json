@@ -12,5 +12,19 @@
     "cuisine": "Norwegian",
     "totalTimeMin": 55,
     "shard": "i"
+  },
+  {
+    "slug": "indulgious-gooey-saudia-mincemeat-crumble",
+    "title": "Indulgious Gooey Saudi Mincemeat Crumble",
+    "tags": [
+      "indulgent",
+      "saudi-arabian",
+      "mincemeat",
+      "crumble",
+      "paleo-friendly"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 70,
+    "shard": "i"
   }
 ]
