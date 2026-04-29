@@ -14,6 +14,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-japanese-cheese-stir-fry",
+    "title": "Indulgent Japanese Cheese Stir-fry",
+    "tags": [
+      "indulgent",
+      "japanese",
+      "cheese",
+      "stir-fry",
+      "smoked"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "indulgious-gooey-saudia-mincemeat-crumble",
     "title": "Indulgious Gooey Saudi Mincemeat Crumble",
     "tags": [
