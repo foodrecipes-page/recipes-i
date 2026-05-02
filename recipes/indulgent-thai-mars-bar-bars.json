@@ -1,0 +1,83 @@
+{
+  "title": "Indulgent Thai Mars Bar Bars",
+  "description": "A light, floral-flavored Thai-inspired treat using Mars bars for a sweet, indulgent bite with reduced sugar and diabetic-friendly adjustments.",
+  "cuisine": "thai",
+  "diet": [
+    "diabetic-friendly",
+    "low-sugar"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mars bar (chopped)",
+      "amount": "100g",
+      "notes": "Use low-sugar variant for diabetic-friendly option"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "Light coconut milk for creaminess"
+    },
+    {
+      ":  ": "name",
+      "amount": "15ml",
+      "notes": "Floral note from fresh jasmine tea leaves (optional)"
+    },
+    {
+      "name": "honey",
+      "amount": "10g",
+      "notes": "Natural sweetener for low glycemic impact"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "5ml",
+      "notes": "Adds subtle floral aroma without sugar"
+    }
+  ],
+  "instructions": [
+    "Chop 100g Mars bars into small pieces.",
+    "Heat 200ml coconut milk in a saucepan over medium heat until warm (not boiling).",
+    "Add 15ml jasmine tea leaves (if using) and 10g honey to the warm coconut milk. Stir gently until combined.",
+    "Fold in 5ml vanilla extract and mix well.",
+    "Add Mars bar pieces to the mixture and stir until evenly coated.",
+    "Pour mixture into a chilled glass dish and chill for 20 minutes to set.",
+    "Slice into 6 portions for serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "snack",
+    "diabetic-friendly",
+    "low-sugar",
+    "floral",
+    "mars-bar"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "indulgent-thai-mars-bar-bars",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-thai-mars-bar-bars",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T21:33:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "reduce",
+    "primaryIngredient": "mars bar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "mars_bar",
+    "descriptor": "Indulgent",
+    "dishForm": "Bars"
+  }
+}
