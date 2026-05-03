@@ -1,0 +1,103 @@
+{
+  "title": "Intense Peppery Greek Tuna Tzatziki Bowl",
+  "description": "A midnight‑craving Greek bowl packed with peppery tzatziki, seared tuna, and crunchy sesame seeds, served in a single dish for a quick pescatarian delight.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned tuna in olive oil",
+      "amount": "200g",
+      "notes": "drained"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "150g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "grated and drained"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Whisk Greek yogurt with lemon zest, lemon juice, minced garlic, red pepper flakes, black pepper, oregano, and a pinch of salt in a bowl until smooth.",
+    "Stir grated cucumber into the yogurt mixture, pressing lightly to remove excess moisture.",
+    "Heat a tava‑griddle over medium‑high heat, drizzle a teaspoon of olive oil, then lay the drained tuna in a single layer; sear for 2 minutes each side until lightly browned.",
+    "Transfer the seared tuna to a serving bowl and top with the peppery tzatziki.",
+    "Sprinkle toasted sesame seeds over the bowl for crunch.",
+    "Let the bowl rest for 5 minutes to allow flavors to meld before serving.",
+    "Serve immediately with toasted pita or crusty bread if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "one-bowl",
+    "peppery",
+    "pescatarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 11,
+    "fat": 38
+  },
+  "slug": "intense-peppery-greek-tuna-tzatziki-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-peppery-greek-tuna-tzatziki-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:46:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "simmer",
+    "primaryIngredient": "sesame seed",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Tuna",
+    "descriptor": "Intense Peppery",
+    "dishForm": "Tzatziki Bowl"
+  }
+}

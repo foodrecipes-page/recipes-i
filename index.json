@@ -352,6 +352,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-peppery-greek-tuna-tzatziki-bowl",
+    "title": "Intense Peppery Greek Tuna Tzatziki Bowl",
+    "tags": [
+      "greek",
+      "one-bowl",
+      "peppery",
+      "pescatarian",
+      "quick"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 15,
+    "shard": "i"
+  },
+  {
     "slug": "intense-smoky-polish-lentils-hash",
     "title": "Intense Smoky Polish Lentils Hash",
     "tags": [
