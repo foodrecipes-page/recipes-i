@@ -87,6 +87,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-malaysian-fish-grill",
+    "title": "Intense Malaysian Fish Grill",
+    "tags": [
+      "bold-flavors",
+      "dairy-free",
+      "grill",
+      "malaysian",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "intense-smoky-polish-lentils-hash",
     "title": "Intense Smoky Polish Lentils Hash",
     "tags": [

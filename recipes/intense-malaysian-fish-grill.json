@@ -1,0 +1,108 @@
+{
+  "title": "Intense Malaysian Fish Grill",
+  "description": "A spicy, velvety grilled fish dish infused with a bold Malaysian spice paste and a creamy coconut sauce, dairy‑free and packed with adventure.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fillets",
+      "amount": "500g",
+      "notes": "4 medium fillets"
+    },
+    {
+      "name": "dried red chili flakes",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemongrass powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100 ml",
+      "notes": "full‑fat, dairy‑free"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium‑high heat, about 180°C.",
+    "In a bowl, whisk together chili flakes, lemongrass powder, onion powder, garlic powder, ginger, turmeric, tamarind paste, palm sugar, fish sauce, and coconut milk until sugar dissolves.",
+    "Pat the snapper fillets dry with paper towels and season lightly with salt.",
+    "Brush each fillet with vegetable oil to prevent sticking.",
+    "Place the fillets on the grill and cook for 4 to 5 minutes on each side, or until the fish flakes easily and develops a charred crust.",
+    "While the fish is grilling, pour the remaining sauce into a small saucepan and heat until it slightly thickens, about 2 to 3 minutes.",
+    "Remove the fillets from the grill and drizzle the thickened sauce over each piece.",
+    "Serve immediately with a side of jasmine rice or fresh greens."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bold-flavors",
+    "dairy-free",
+    "grill",
+    "malaysian",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 8,
+    "fat": 18
+  },
+  "slug": "intense-malaysian-fish-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-malaysian-fish-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:51:38Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "fish seasoning",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Fish",
+    "descriptor": "Intense",
+    "dishForm": "Grill"
+  }
+}
