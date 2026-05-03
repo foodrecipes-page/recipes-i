@@ -1,0 +1,94 @@
+{
+  "title": "Intensely Savory Australian Trout Kneaded Pastry",
+  "description": "A hearty, comforting Australian dish featuring trout and kneaded pastry for a perfect savory treat.",
+  "cuisine": "australian",
+  "diet": [
+    "halal",
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "trout fillet",
+      "amount": "500g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "125g"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "10g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "15g",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Combine flour, butter, and salt in a bowl to create the pastry dough.",
+    "Add the egg and knead for 5 minutes until smooth.",
+    "Place the dough in the refrigerator for 10 minutes.",
+    "Roll out the dough to a thickness of 5mm.",
+    "Place the trout fillet in the center of the dough and brush with lemon juice.",
+    "Fold the dough over the trout and press edges to seal.",
+    "Preheat a large skillet over medium heat and cook for 8 minutes on each side.",
+    "Serve warm with a side of your choice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 16,
+  "totalTimeMin": 46,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "comforting",
+    "fish",
+    "one-pan",
+    "pastry",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "intensely-savory-australian-trout-kneaded-pastry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-savory-australian-trout-kneaded-pastry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:08:50Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "knead",
+    "primaryIngredient": "trout",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "trout",
+    "descriptor": "Intensely Savory",
+    "dishForm": "Kneaded Pastry"
+  }
+}
