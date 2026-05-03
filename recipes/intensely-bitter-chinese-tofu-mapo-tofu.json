@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Bitter Chinese Tofu Mapo Tofu",
+  "description": "A bitter and tender Hunan dish featuring lemongrass, perfect for a date night, made with sous-vide and ayurvedic-rajasic-friendly ingredients in the form of mapo-tofu.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "silken"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "fermented bean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180 degrees Fahrenheit.",
+    "In a blender, combine lemongrass, Sichuan peppercorns, fermented bean paste, garlic, and ginger, and blend into a smooth paste.",
+    "Cut the tofu into small cubes and place them in a sous-vide bag with the blended paste and bitter melon.",
+    "Seal the bag and cook in the sous-vide machine for 2 hours.",
+    "Heat the vegetable oil in a wok or large skillet over high heat.",
+    "Remove the tofu from the sous-vide bag and add it to the wok, stirring constantly for 2 minutes.",
+    "Add the chopped scallions to the wok and stir-fry for another minute.",
+    "Season with salt to taste, then serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intensely-bitter-chinese-tofu-mapo-tofu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-bitter-chinese-tofu-mapo-tofu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:35:45Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "sous-vide",
+    "primaryIngredient": "lemongrass",
+    "diet": "ayurvedic-rajasic",
+    "region": "hunan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "Intensely Bitter",
+    "dishForm": "Mapo Tofu"
+  }
+}
