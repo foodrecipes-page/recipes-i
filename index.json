@@ -69,5 +69,20 @@
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 70,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-spicy-moroccan-chicken-tagine",
+    "title": "intensely spicy moroccan chicken tagine",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "moroccan",
+      "one-pan",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "moroccan",
+    "totalTimeMin": 35,
+    "shard": "i"
   }
 ]
