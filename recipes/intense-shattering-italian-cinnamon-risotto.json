@@ -1,0 +1,109 @@
+{
+  "title": "Intense Shattering Italian Cinnamon Risotto",
+  "description": "A pungent, shattering lazy-sunday Venetian risotto with cinnamon infusion and ice-bath shock for a crisp finish.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "200g",
+      "notes": "for 4 servings"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "hot, kept at 60°C"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "50g",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1 cup",
+      "notes": "optional for depth"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat and sauté diced onion until translucent.",
+    "Add minced garlic and cook for 30 seconds until fragrant.",
+    "Stir in arborio rice and toast for 2 minutes, coating grains in oil.",
+    "Pour in white wine, stirring until liquid is mostly absorbed.",
+    "Add a pinch of ground cinnamon and a handful of grated Parmesan, stirring until melted.",
+    "Gradually ladle in hot chicken broth, one ladle at a time, stirring constantly until each addition is absorbed before adding the next.",
+    "Continue cooking and stirring for 18 minutes until rice is al dente and creamy.",
+    "Remove the pan from heat and immediately transfer the risotto to a shallow bowl filled with ice water to shock and halt cooking.",
+    "Drain the risotto, then return to the pan, whisk in butter, and season with salt and pepper to taste.",
+    "Serve immediately, dusted with extra Parmesan and a light drizzle of olive oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cinnamon",
+    "dash-friendly",
+    "ice-bath",
+    "lazy-sunday",
+    "pungent",
+    "shattering",
+    "venetian"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 36
+  },
+  "slug": "intense-shattering-italian-cinnamon-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-shattering-italian-cinnamon-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:57:44Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "cinnamon",
+    "diet": "dash",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Cinnamon",
+    "descriptor": "Intense Shattering",
+    "dishForm": "Risotto"
+  }
+}
