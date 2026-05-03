@@ -1,0 +1,102 @@
+{
+  "title": "Indulgent Japanese Macaroni Pasta",
+  "description": "A funky and fluffy fusion dish that brings Okinawan flavors to your table with creamy coconut and savory miso, all while staying halal-friendly.",
+  "cuisine": "Japanese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "white miso paste",
+      "amount": "30g"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tofu, fried",
+      "amount": "150g"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "nori sheets",
+      "amount": "2",
+      "notes": "torn"
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the macaroni in salted water until al dente, then drain and set aside.",
+    "In a small saucepan, gently heat the coconut milk until it begins to simmer, then whisk in the miso paste until smooth.",
+    "Add soy sauce and sesame oil to the coconut-miso mixture, stirring to combine.",
+    "Return the drained macaroni to the saucepan and toss it in the sauce until coated and creamy.",
+    "Fold in the fried tofu pieces, letting them warm through.",
+    "Sprinkle sliced green onions over the pasta for a fresh crunch.",
+    "Tear nori sheets into small pieces and scatter them on top for a salty finish.",
+    "Drizzle a teaspoon of sriracha if you like a hint of heat.",
+    "Give everything a final toss to distribute flavors evenly.",
+    "Serve hot, optionally with a side of pickled ginger for extra zing."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy",
+    "fusion",
+    "halal-friendly",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 24
+  },
+  "slug": "indulgent-japanese-macaroni-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-japanese-macaroni-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:45:34Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "macaroni",
+    "diet": "halal",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "macaroni",
+    "descriptor": "Indulgent",
+    "dishForm": "Pasta"
+  }
+}

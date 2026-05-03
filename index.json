@@ -125,6 +125,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-japanese-macaroni-pasta",
+    "title": "Indulgent Japanese Macaroni Pasta",
+    "tags": [
+      "fluffy",
+      "fusion",
+      "halal-friendly",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-mexican-tortilla-quesadilla",
     "title": "Indulgent Mexican Tortilla Quesadilla",
     "tags": [
