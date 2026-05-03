@@ -1,0 +1,102 @@
+{
+  "title": "Intensely Marinated Tunisian Doner Meat Tagine",
+  "description": "A funky and kid-friendly Tunisian dish featuring doner meat in a glassy-jelly sauce, made paleo-friendly and served in individual mini cocottes.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "doner meat",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, paprika, cumin, salt, and black pepper.",
+    "Add the sliced doner meat to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the meat from the marinade and place it in individual mini cocottes.",
+    "Pour the chicken broth into each cocotte, covering the meat completely.",
+    "Cover the cocottes with lids and bake for 25 minutes.",
+    "Remove the lids and continue baking for an additional 10 minutes, or until the sauce has thickened and the meat is cooked through.",
+    "Remove the cocottes from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "doner-meat",
+    "glassy-jelly-sauce",
+    "kid-friendly",
+    "one-pot",
+    "paleo-friendly",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "intensely-marinated-tunisian-doner-meat-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-marinated-tunisian-doner-meat-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:53:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "marinate",
+    "primaryIngredient": "doner meat",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "doner meat",
+    "descriptor": "intensely marinated",
+    "dishForm": "Tagine"
+  }
+}
