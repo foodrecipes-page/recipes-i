@@ -366,6 +366,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-smoky-brazilian-beef-stew",
+    "title": "Intense Smoky Brazilian Beef Stew",
+    "tags": [
+      "brazilian-cuisine",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 180,
+    "shard": "i"
+  },
+  {
     "slug": "intense-smoky-polish-lentils-hash",
     "title": "Intense Smoky Polish Lentils Hash",
     "tags": [

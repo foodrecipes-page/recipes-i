@@ -1,0 +1,102 @@
+{
+  "title": "Intense Smoky Brazilian Beef Stew",
+  "description": "A spicy and smoky stew from Brazil, made with beef and stout, perfect for a cold evening. This dish is nut-free and features a rich, molten flavor.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "stout beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the smoked paprika, cumin, cayenne pepper, salt, and black pepper and cook for 1 minute.",
+    "Add the stout beer and beef broth, scraping up any browned bits from the bottom of the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake for 2 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "intense-smoky-brazilian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-brazilian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:52:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "smoke-hot",
+    "primaryIngredient": "stout",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beef",
+    "descriptor": "intense smoky",
+    "dishForm": "Stew"
+  }
+}
