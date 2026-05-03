@@ -30,6 +30,21 @@
     "shard": "i"
   },
   {
+    "slug": "incredibly-tangy-moroccan-prawns-tagine",
+    "title": "Incredibly Tangy Moroccan Prawns Tagine",
+    "tags": [
+      "dairy",
+      "gluten-free",
+      "moroccan",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-brazilian-cornmeal-stew",
     "title": "Indulgent Brazilian Cornmeal Stew",
     "tags": [
@@ -38,6 +53,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-dutch-lentil-casserole",
+    "title": "Indulgent Dutch Lentil Casserole",
+    "tags": [
+      "cajun-flavors",
+      "glass-jelly",
+      "indulgent",
+      "lentil",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -124,6 +154,22 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 20,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-shaggy-roasted-kenyan-zucchini-roast",
+    "title": "Indulgent Shaggy Roasted Kenyan Zucchini Roast",
+    "tags": [
+      "high-protein",
+      "kenyan-cuisine",
+      "one-pan",
+      "plant-based",
+      "quick-recipe",
+      "vegan-friendly",
+      "weeknight-dinner"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {

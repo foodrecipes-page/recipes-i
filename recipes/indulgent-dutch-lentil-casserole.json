@@ -1,0 +1,105 @@
+{
+  "title": "Indulgent Dutch Lentil Casserole",
+  "description": "A floral, glassy‑jelly lentil casserole that blends Cajun spices with a silky maple‑soy glaze, perfect for a comforting dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried green lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "diced celery",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a Dutch oven over medium heat until shimmering.",
+    "Add diced onion and sauté until translucent, about 5 minutes.",
+    "Stir in minced garlic, diced celery, smoked paprika, cayenne pepper, and salt, cooking for 2 minutes.",
+    "Add lentils, water, and vegetable broth, bring to a boil, then reduce heat to low.",
+    "Cover and simmer for 25 minutes, stirring occasionally, until lentils are tender but al dente.",
+    "Stir in maple syrup and soy sauce, then simmer for another 3 minutes to develop a glassy glaze.",
+    "Remove from heat, let rest 5 minutes, then serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cajun-flavors",
+    "glass-jelly",
+    "indulgent",
+    "lentil",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "protein": 3,
+    "carbs": 33,
+    "fat": 5
+  },
+  "slug": "indulgent-dutch-lentil-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-dutch-lentil-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:29:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "cajun",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Lentils",
+    "descriptor": "Indulgent",
+    "dishForm": "Casserole"
+  }
+}
