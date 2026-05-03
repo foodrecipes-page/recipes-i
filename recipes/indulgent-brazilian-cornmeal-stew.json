@@ -1,0 +1,113 @@
+{
+  "title": "Indulgent Brazilian Cornmeal Stew",
+  "description": "Rich and comforting stew featuring a creamy blend of white cornmeal, smoked pork belly, and coconut milk, perfect for a cozy lunch or dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white cornmeal",
+      "amount": "200g",
+      "notes": "plain, fine texture"
+    },
+    {
+      "name": "butter",
+      "amount": "50g",
+      "notes": "unsalted"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400ml",
+      "notes": "full-fat"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "200ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "smoked pork belly",
+      "amount": "150g",
+      "notes": "cut into 1cm cubes"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium (100g)",
+      "notes": "white onion"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves (10g)",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp (2g)",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp (1g)",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "10g",
+      "notes": "for garnish"
+    },
+    {
+      "name": "feta cheese, crumbled",
+      "amount": "30g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Dice the smoked pork belly into 1cm cubes and set aside.",
+    "In a large pot, melt the butter over medium heat and sauté the diced onion until translucent.",
+    "Add the minced garlic and smoked paprika and cook for an additional minute until fragrant.",
+    "Pour in the coconut milk and chicken stock, stirring to combine, and bring to a gentle simmer.",
+    "Stir in the white cornmeal gradually to avoid lumps, then add the pork belly cubes and simmer uncovered for 20 minutes, stirring occasionally.",
+    "Season with salt and black pepper to taste.",
+    "Remove from heat, stir in the fresh cilantro and crumble the feta cheese on top before serving."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "brazilian",
+    "dinner"
+  ],
+  "slug": "indulgent-brazilian-cornmeal-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-brazilian-cornmeal-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:16:40Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "white cornmeal",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Indulgent",
+    "dishForm": "Stew"
+  }
+}
