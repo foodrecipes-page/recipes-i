@@ -1,0 +1,108 @@
+{
+  "title": "Indulgent Italian Cherry Cannoli",
+  "description": "Rich, molten cannoli filled with cherry and dairy‑free ricotta, baked to a crisp, perfect for a quick weeknight dessert.",
+  "cuisine": "Italian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all‑purpose flour",
+      "amount": "2 cups",
+      "notes": "plain"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "for dusting"
+    },
+    {
+      "name": "dairy‑free ricotta",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh pitted cherries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Mix flour, sugar, cocoa, baking powder, and salt in a bowl.",
+    "Stir in olive oil and warm water until a smooth dough forms.",
+    "Cover the dough and let it ferment at room temperature for 24 hours.",
+    "Roll out the dough thinly, cut into circles, and wrap each around a cannoli form, sealing the edges with water.",
+    "Bake the shells at 375°F for 18 minutes, then cool on a rack.",
+    "Mix ricotta, almond milk, vanilla, and half the cherries until creamy.",
+    "Fill each shell with the ricotta mixture using a pastry bag or spoon.",
+    "Top filled cannoli with remaining cherries and a sprinkle of chocolate chips, dust with powdered sugar before serving."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "italian",
+    "dessert"
+  ],
+  "slug": "indulgent-italian-cherry-cannoli",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-italian-cherry-cannoli",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:20:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "cherry",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Cherry",
+    "descriptor": "Indulgent",
+    "dishForm": "Cannoli"
+  }
+}

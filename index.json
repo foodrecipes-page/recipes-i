@@ -40,6 +40,17 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-italian-cherry-cannoli",
+    "title": "Indulgent Italian Cherry Cannoli",
+    "tags": [
+      "italian",
+      "dessert"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-japanese-cheese-stir-fry",
     "title": "Indulgent Japanese Cheese Stir-fry",
     "tags": [
