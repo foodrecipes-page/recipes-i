@@ -1,0 +1,104 @@
+{
+  "title": "Indulgent Vietnamese Coconut Bowl",
+  "description": "A midnight-craving dessert that blends creamy coconut, caramel drizzle, and fresh herbs for a smooth, herbal treat.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "coconut water",
+      "amount": "100 ml"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "30 ml"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "30 g"
+    },
+    {
+      "name": "crushed almonds",
+      "amount": "15 g"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "5 g"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "8"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "8"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine coconut milk, coconut water, vanilla extract, and sea salt in a blender and blend until smooth.",
+    "Pour the creamy mixture into two chilled bowls.",
+    "Drizzle caramel sauce evenly over the coconut base.",
+    "Sprinkle shredded coconut, crushed almonds, and black sesame seeds on top.",
+    "Add fresh mint and basil leaves as garnish.",
+    "Sprinkle lime zest for a bright citrus note.",
+    "Chill the bowls for 15 minutes to allow flavors to meld.",
+    "Serve immediately and enjoy the herbal, creamy indulgence."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "dessert",
+    "gluten-free",
+    "herbal",
+    "quick",
+    "raw-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "indulgent-vietnamese-coconut-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-vietnamese-coconut-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:03:43Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "caramel",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "coconut",
+    "descriptor": "Indulgent",
+    "dishForm": "Bowl"
+  }
+}
