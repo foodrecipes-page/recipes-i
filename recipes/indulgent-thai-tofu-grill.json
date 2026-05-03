@@ -1,0 +1,113 @@
+{
+  "title": "Indulgent Thai Tofu Grill",
+  "description": "A bitter, silky Thai tofu dish finished on the grill, using vegan white wine vinegar for a tangy glaze, perfect for a diabetic-friendly vegan dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan",
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "400g",
+      "notes": "pressed for 30 min"
+    },
+    {
+      "name": "Vegan white wine vinegar",
+      "amount": "2 tbsp",
+      "notes": "whisked into glaze"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "whisked into glaze"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp",
+      "notes": "whisked into glaze"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "whisked into glaze"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "whisked into glaze"
+    },
+    {
+      "name": "Fresh ginger, grated",
+      "amount": "1 tsp",
+      "notes": "whisked into glaze"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": "whisked into glaze"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp",
+      "notes": "whisked into glaze"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 tsp",
+      "notes": "whisked into glaze"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "whisked into glaze"
+    }
+  ],
+  "instructions": [
+    "Drain tofu and press with a clean towel to remove excess moisture for 30 minutes.",
+    "In a bowl, whisk together vegan white wine vinegar, soy sauce, lime juice, sesame oil, minced garlic, grated ginger, ground cumin, ground coriander, chili powder, and a pinch of salt to create the glaze.",
+    "Place the pressed tofu slabs in the glaze and refrigerate for 15 minutes, turning the pieces halfway through to coat evenly.",
+    "Preheat a grill pan or outdoor grill to medium-high heat and lightly oil the grate with a paper towel soaked in oil.",
+    "Grill tofu slabs for 3-4 minutes per side until grill marks appear and tofu is heated through.",
+    "Remove tofu from the grill and let rest for 2 minutes before slicing into bite-sized pieces.",
+    "Drizzle any remaining glaze over the grilled tofu and garnish with chopped cilantro and a sprinkle of lime zest.",
+    "Serve immediately as a main dish with a side of steamed jasmine rice or a green salad."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 8,
+  "totalTimeMin": 53,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "grill",
+    "low-carb",
+    "thai",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 255,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 11
+  },
+  "slug": "indulgent-thai-tofu-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-thai-tofu-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:59:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Indulgent",
+    "dishForm": "Grill"
+  }
+}

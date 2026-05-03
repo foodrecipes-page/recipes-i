@@ -59,6 +59,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-thai-tofu-grill",
+    "title": "Indulgent Thai Tofu Grill",
+    "tags": [
+      "diabetic-friendly",
+      "grill",
+      "low-carb",
+      "thai",
+      "vegan"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 53,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-uruguayan-soy-cake",
     "title": "Indulgent Uruguayan Soy Cake",
     "tags": [
@@ -84,6 +98,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 70,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-indian-potatoes-curry",
+    "title": "Intense Indian Potatoes Curry",
+    "tags": [
+      "crumbly",
+      "dairy-free",
+      "garlicky",
+      "one-pot",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {

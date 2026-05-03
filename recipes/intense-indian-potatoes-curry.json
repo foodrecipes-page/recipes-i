@@ -1,0 +1,112 @@
+{
+  "title": "Intense Indian Potatoes Curry",
+  "description": "A garlicky, crumbly one‑pot Punjabi style potato curry that is dairy‑free and packed with bold spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "small red potatoes",
+      "amount": "500g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or coconut"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200g"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "2 tbsp",
+      "notes": "chopped, optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Wash and cut the potatoes into bite‑sized pieces; set aside.",
+    "In a small bowl, mix the minced garlic, grated ginger, garam masala, cumin, turmeric, chili powder, and a pinch of salt to form a spice paste.",
+    "Heat the oil in a large pot over medium heat and add the spice paste, cooking for 2 minutes until fragrant.",
+    "Stir in the potato pieces and tomato puree, coating them evenly, and cook for another 3 minutes.",
+    "Add enough water to barely cover the potatoes, bring the mixture to a boil, then reduce heat and simmer for 20 minutes until potatoes are tender.",
+    "Once the potatoes are cooked, use a wooden spoon to gently crumble them, creating a chunky texture.",
+    "Taste and adjust seasoning with more salt if needed.",
+    "Remove the pot from heat and stir in chopped coriander leaves for freshness.",
+    "Let the curry rest for 5 minutes so the flavors meld.",
+    "Serve hot over steamed rice or with flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly",
+    "dairy-free",
+    "garlicky",
+    "one-pot",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 176,
+    "protein": 1,
+    "carbs": 26,
+    "fat": 7
+  },
+  "slug": "intense-indian-potatoes-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-indian-potatoes-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:00:27Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "marinate",
+    "primaryIngredient": "small potatoes",
+    "diet": "dairy-free",
+    "region": "punjabi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Intense",
+    "dishForm": "Curry"
+  }
+}
