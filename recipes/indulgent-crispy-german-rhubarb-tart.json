@@ -1,0 +1,93 @@
+{
+  "title": "Indulgent Crispy German Rhubarb Tart",
+  "description": "A rich and crispy German dessert featuring forced rhubarb, this tart is perfect for satisfying your sweet tooth. It is halal-friendly and made with high-quality ingredients.",
+  "cuisine": "German",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Forced rhubarb",
+      "amount": "2 pounds",
+      "notes": "blanched and chopped"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "In a large bowl, combine the chopped rhubarb, confectioners sugar, and salt.",
+    "Arrange the rhubarb mixture on one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "Brush the pastry with the melted butter and make a few small cuts in the top to allow steam to escape.",
+    "Bake the tart for 40 minutes, or until the pastry is golden brown.",
+    "Allow the tart to cool for 10 minutes before serving.",
+    "Drizzle with a little extra melted butter and sprinkle with sugar, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-pastry",
+    "german-desserts",
+    "halal-friendly",
+    "indulgent-treats",
+    "rhubarb-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "indulgent-crispy-german-rhubarb-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-crispy-german-rhubarb-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:54:57Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Indulgent crispy",
+    "dishForm": "Tart"
+  }
+}
