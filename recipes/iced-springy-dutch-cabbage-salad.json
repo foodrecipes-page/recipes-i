@@ -1,0 +1,120 @@
+{
+  "title": "Iced Springy Dutch Cabbage Salad",
+  "description": "A crunchy, cool salad that captures Dutch nostalgia with a zing of English mustard and an ice-bath shock, perfect for a light, ayurvedic-rajasic friendly meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan",
+    "ayurvedic",
+    "rajasic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green cabbage",
+      "amount": "3 heads",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "English mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole grain"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "optional sweetener"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "grated"
+    },
+    {
+      "name": "raisins",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1 tablespoon",
+      "notes": "chopped optional"
+    },
+    {
+      "name": "ice water",
+      "amount": "1 cup",
+      "notes": "reserved for dressing"
+    }
+  ],
+  "instructions": [
+    "Rinse the cabbage in cold water and slice thinly.",
+    "Place the sliced cabbage in a large bowl and pour ice water over it; let it sit for 10 minutes to cool and soften.",
+    "Drain the cabbage, reserving 1 cup of the ice water for the dressing.",
+    "Whisk together mustard, vinegar, honey, olive oil, salt, pepper, and a splash of the reserved ice water until smooth.",
+    "Toss the cabbage, carrot, raisins, dill, and almonds with the dressing until evenly coated.",
+    "Let the salad rest for 15 minutes at room temperature to allow flavors to mingle.",
+    "Before serving, chill the salad in the refrigerator for 20 minutes and then bring it to room temperature.",
+    "Serve scooped in bowls, garnished with extra dill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cold",
+    "dutch",
+    "mustard",
+    "simple",
+    "spring",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "iced-springy-dutch-cabbage-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/iced-springy-dutch-cabbage-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:27:54Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "english mustard",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cabbage",
+    "descriptor": "Iced Springy",
+    "dishForm": "Salad"
+  }
+}

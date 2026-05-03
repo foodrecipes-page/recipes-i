@@ -1,0 +1,111 @@
+{
+  "title": "indulgent molten russian pineapple molten bites",
+  "description": "a rich, malty, and indulgent russian-inspired dessert featuring the sweetness of pineapple, made with a pressure-cooked molten center.",
+  "cuisine": "russian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "canned pineapple juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pressure-cooked caramel sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh pineapple",
+      "amount": "1 cup"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "preheat the pressure cooker to 10 pounds of pressure.",
+    "in a large bowl, whisk together the flour, sugar, and salt.",
+    "add the softened butter and mix until the mixture resembles coarse crumbs.",
+    "in a separate bowl, whisk together the eggs, vanilla extract, and pineapple juice.",
+    "add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "knead the dough on a floured surface for 5 minutes.",
+    "divide the dough into 12 equal pieces and shape each piece into a ball.",
+    "press the center of each ball to form a hole and fill with about 1 tablespoon of caramel sauce.",
+    "place the balls into the pressure cooker and cook for 10 minutes at 10 pounds of pressure.",
+    "remove the balls from the pressure cooker and let cool for 2 minutes.",
+    "dip the tops of the balls in the heavy cream and then roll in confectioners sugar.",
+    "top each ball with a piece of pineapple and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "high-sugar",
+    "indulgent",
+    "molten",
+    "pineapple",
+    "pressure-cooker",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "indulgent-molten-russian-pineapple-molten-bites",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-molten-russian-pineapple-molten-bites",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:27:37Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "pressure-cook",
+    "primaryIngredient": "pineapple",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Pineapple",
+    "descriptor": "Indulgent Molten",
+    "dishForm": "Molten Bites"
+  }
+}

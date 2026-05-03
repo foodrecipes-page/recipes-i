@@ -1,5 +1,20 @@
 [
   {
+    "slug": "iced-springy-dutch-cabbage-salad",
+    "title": "Iced Springy Dutch Cabbage Salad",
+    "tags": [
+      "cold",
+      "dutch",
+      "mustard",
+      "simple",
+      "spring",
+      "vegan"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 15,
+    "shard": "i"
+  },
+  {
     "slug": "icy-korean-potato-bake",
     "title": "Icy Korean Potato Bake",
     "tags": [
@@ -78,6 +93,23 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 20,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-molten-russian-pineapple-molten-bites",
+    "title": "indulgent molten russian pineapple molten bites",
+    "tags": [
+      "dessert",
+      "high-sugar",
+      "indulgent",
+      "molten",
+      "pineapple",
+      "pressure-cooker",
+      "russian",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
