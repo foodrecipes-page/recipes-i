@@ -1,0 +1,101 @@
+{
+  "title": "Indulgent Russian Morcilla Dumplings",
+  "description": "Smoky, tender dumplings featuring morcilla wrapped in a light pastry, no onion or garlic for a clean, indulgent flavor.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morcilla blood sausage",
+      "amount": "200g",
+      "notes": "sliced 1 cm thick"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "water",
+      "amount": "80ml"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "liquid smoke",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Slice morcilla into 1 cm thick rounds and set aside.",
+    "In a bowl mix flour, smoked paprika, liquid smoke, salt, pepper, and dill (if using).",
+    "Add water gradually until dough forms a firm but pliable consistency.",
+    "Divide dough into 12 equal portions, roll each into a 6 cm circle.",
+    "Place a slice of morcilla in the center of each dough circle.",
+    "Fold dough over the filling and pinch edges to seal.",
+    "Bring a large pot of salted water to a boil; cook dumplings until they float and are al dente, about 8 minutes.",
+    "Drain dumplings and pat dry with paper towels.",
+    "In a skillet, melt butter and add olive oil; heat until shimmering.",
+    "Fry dumplings for 3-4 minutes on each side until golden brown and crisp.",
+    "Serve hot topped with a drizzle of melted butter and a sprinkle of fresh dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "en-croute",
+    "no-garlic",
+    "no-onion",
+    "russian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 35
+  },
+  "slug": "indulgent-russian-morcilla-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-russian-morcilla-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:40:39Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "en-croute",
+    "primaryIngredient": "morcilla",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "morcilla",
+    "descriptor": "Indulgent",
+    "dishForm": "Dumplings"
+  }
+}
