@@ -1,0 +1,110 @@
+{
+  "title": "Indulgent Chewy Syrian Bulgur Pilaf",
+  "description": "A rich, chewy pilaf that blends the nutty flavor of bulgur with a subtle tang from white vinegar and the umami of shio-koji, perfect for a kid-friendly dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bulgur wheat",
+      "amount": "1 cup",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "Dry white vinegar",
+      "amount": "1 tbsp",
+      "notes": "for tang"
+    },
+    {
+      "name": "Shio-koji cure",
+      "amount": "1 tbsp",
+      "notes": "fermented soy sauce for umami"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for sauté"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Carrot, diced",
+      "amount": "1 cup",
+      "notes": "small cubes"
+    },
+    {
+      "name": "Green peas",
+      "amount": "½ cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "halal-certified"
+    },
+    {
+      "name": "Salt",
+      "amount": "½ tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "¼ tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur under cold water until the water runs clear.",
+    "In a medium saucepan, heat the oil over medium heat and sauté the onion until translucent.",
+    "Add the diced carrot and cook for another 5 minutes, stirring occasionally.",
+    "Stir in the bulgur, white vinegar, and shio-koji cure, ensuring the grains are coated with the liquid.",
+    "Pour in the chicken broth, add salt and pepper, and bring the mixture to a gentle boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 15 minutes or until the bulgur is tender and the liquid is absorbed.",
+    "Fold in the green peas during the last 3 minutes of cooking.",
+    "Remove the pot from the heat and let the pilaf sit, covered, for 5 minutes to finish steaming.",
+    "Fluff the pilaf with a fork, taste and adjust seasoning if needed.",
+    "Serve warm, optionally garnished with chopped parsley or a squeeze of lemon for extra brightness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chewy",
+    "comfort-food",
+    "easy",
+    "halal",
+    "kid-friendly",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 7,
+    "carbs": 42,
+    "fat": 4
+  },
+  "slug": "indulgent-chewy-syrian-bulgur-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-chewy-syrian-bulgur-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:33:02Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "white vinegar",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "bulgur",
+    "descriptor": "Indulgent Chewy",
+    "dishForm": "Pilaf"
+  }
+}
