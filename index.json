@@ -1,5 +1,20 @@
 [
   {
+    "slug": "icy-korean-potato-bake",
+    "title": "Icy Korean Potato Bake",
+    "tags": [
+      "bake",
+      "korean",
+      "low-sodium",
+      "one-pan",
+      "potato-dish",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-flaky-herb-crumble",
     "title": "Indulgent Flaky Herb Crumble",
     "tags": [
@@ -40,6 +55,20 @@
       "vegetarian"
     ],
     "cuisine": "Mexican",
+    "totalTimeMin": 20,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-norwegian-egg-pancakes",
+    "title": "Indulgent Norwegian Egg Pancakes",
+    "tags": [
+      "fluffy",
+      "halal-friendly",
+      "high-protein",
+      "post-workout",
+      "quick"
+    ],
+    "cuisine": "Norwegian",
     "totalTimeMin": 20,
     "shard": "i"
   },

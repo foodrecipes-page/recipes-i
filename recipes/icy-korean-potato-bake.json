@@ -1,0 +1,103 @@
+{
+  "title": "Icy Korean Potato Bake",
+  "description": "A light, salty Korean bake featuring layered potatoes, carrot, and scallion, finished with a subtle sea salt glaze and sesame seeds.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-sodium-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "900 g",
+      "notes": "thinly sliced into 4 mm rounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "scallion",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius and line a baking dish with parchment paper.",
+    "In a small bowl, whisk together the low-sodium soy sauce, sesame oil, gochugaru, and sea salt until the mixture is uniform.",
+    "Arrange a layer of sliced potatoes at the bottom of the dish, then spread a thin layer of the sauce over them.",
+    "Add a layer of sliced onion, julienned carrot, and minced garlic on top of the potatoes.",
+    "Repeat the potato and sauce layers until all potatoes are used, finishing with a top layer of sauce.",
+    "Cover the dish tightly with foil and bake for 30 minutes, then remove the foil and bake for an additional 10 minutes until the top is golden and the potatoes are tender.",
+    "Allow the bake to rest for 5 minutes, then sprinkle the chopped scallion and toasted sesame seeds over the top.",
+    "Serve hot, optionally pairing with a light side salad to keep the dish low in sodium."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bake",
+    "korean",
+    "low-sodium",
+    "one-pan",
+    "potato-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 62,
+    "fat": 14
+  },
+  "slug": "icy-korean-potato-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-korean-potato-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:08:44Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "bake",
+    "primaryIngredient": "sea salt",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Potato",
+    "descriptor": "Icy",
+    "dishForm": "Bake"
+  }
+}
