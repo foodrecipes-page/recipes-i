@@ -43,6 +43,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-uruguayan-soy-cake",
+    "title": "Indulgent Uruguayan Soy Cake",
+    "tags": [
+      "dessert",
+      "indulgent",
+      "jain-friendly",
+      "soy-cake",
+      "uruguay"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
     "slug": "indulgious-gooey-saudia-mincemeat-crumble",
     "title": "Indulgious Gooey Saudi Mincemeat Crumble",
     "tags": [

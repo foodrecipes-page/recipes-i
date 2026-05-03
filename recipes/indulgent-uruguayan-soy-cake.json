@@ -1,0 +1,119 @@
+{
+  "title": "Indulgent Uruguayan Soy Cake",
+  "description": "A dense, sweet cake made with soy milk and dates, perfect for a date night and compliant with Jain dietary rules.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "soy milk",
+      "amount": "200 ml",
+      "notes": ""
+    },
+    {
+      "name": "almond oil",
+      "amount": "50 ml",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 piece",
+      "notes": "grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "200 g",
+      "notes": ""
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "100 g",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "150 g",
+      "notes": ""
+    },
+    {
+      "name": "crushed dates",
+      "amount": "50 g",
+      "notes": "softened and chopped"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "30 g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 C and grease a 9x5 inch loaf pan.",
+    "Whisk together the soy milk, almond oil, vanilla extract, and lemon zest in a bowl until combined.",
+    "Sift the all-purpose flour, whole wheat flour, baking powder, salt, and cinnamon into another bowl.",
+    "Pour the wet mixture into the dry ingredients and stir until just combined.",
+    "Fold in the crushed dates and walnuts, taking care not to overmix.",
+    "Pour the batter into the prepared loaf pan and smooth the top.",
+    "Bake for 45 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let the cake cool in the pan for 10 minutes before slicing.",
+    "Serve warm or at room temperature, optionally dusting with powdered sugar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "indulgent",
+    "jain-friendly",
+    "soy-cake",
+    "uruguay"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "indulgent-uruguayan-soy-cake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-uruguayan-soy-cake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:42:11Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "bake",
+    "primaryIngredient": "soya milk",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "soy",
+    "descriptor": "Indulgent",
+    "dishForm": "Cake"
+  }
+}
