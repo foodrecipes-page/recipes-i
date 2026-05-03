@@ -1,0 +1,123 @@
+{
+  "title": "Indulgent Mexican Tortilla Quesadilla",
+  "description": "A buttery, crispy quesadilla with creamy mascarpone, melty cheeses, and a hint of cumin, perfect for a lazy Sunday dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour tortilla",
+      "amount": "2 large",
+      "notes": "150g each"
+    },
+    {
+      "name": "mascarpone cheese",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "crumbled low-sodium cotija cheese",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "small onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Slice each tortilla in half to create four smaller pieces for easier handling.",
+    "In a bowl, combine mascarpone, cheddar, mozzarella, and cotija to form a creamy cheese mixture.",
+    "Heat a nonstick skillet over medium heat and add 10g butter, letting it melt and lightly brown.",
+    "Add diced onion and minced garlic to the skillet, sautéing until translucent, about 3 minutes.",
+    "Stir in cumin, smoked paprika, and black pepper, cooking for 30 seconds to release aromas.",
+    "Spread the cheese mixture evenly over one tortilla half, then top with sautéed onion mixture.",
+    "Place another tortilla half on top, pressing gently to seal the edges.",
+    "Cook the assembled quesadilla in the skillet for 2-3 minutes per side, or until the bottom is golden brown and cheese begins to melt.",
+    "Flip carefully, add the remaining 10g butter to the pan, and cook the second side until golden and fully melted.",
+    "Remove from heat, let rest for 1 minute, then cut into wedges.",
+    "Garnish with fresh cilantro if desired, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "lazy-sunday",
+    "low-sodium",
+    "mexican",
+    "quick",
+    "tortilla",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 35
+  },
+  "slug": "indulgent-mexican-tortilla-quesadilla",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-mexican-tortilla-quesadilla",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:06:26Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "temper",
+    "primaryIngredient": "mascarpone",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Tortilla",
+    "descriptor": "Indulgent",
+    "dishForm": "Quesadilla"
+  }
+}

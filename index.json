@@ -28,6 +28,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-mexican-tortilla-quesadilla",
+    "title": "Indulgent Mexican Tortilla Quesadilla",
+    "tags": [
+      "cheesy",
+      "lazy-sunday",
+      "low-sodium",
+      "mexican",
+      "quick",
+      "tortilla",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 20,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-slovakian-pierogi-pierogi",
     "title": "Indulgent Slovakian Pierogi",
     "tags": [
