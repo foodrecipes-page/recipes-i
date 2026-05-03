@@ -1,0 +1,105 @@
+{
+  "title": "Indulgent Slovakian Pierogi",
+  "description": "Citrusy and crumbly Slovakian pierogi featuring a tangy chimichurri sauce and caramelized onions, perfect as a weeknight dinner.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pierogi Dough",
+      "amount": "2 cups all-purpose flour",
+      "notes": "- 1 teaspoon salt"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1 large onion, thinly sliced",
+      "notes": "- Salt and pepper to taste"
+    },
+    {
+      "name": "Chimichurri Sauce",
+      "amount": "1 cup fresh parsley, chopped",
+      "notes": "- 1 cup fresh oregano, chopped"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1 cup crumbled feta",
+      "notes": "- 1/2 cup grated Parmesan"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons unsalted butter",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large eggs",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup milk",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon salt",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, and eggs to make the pierogi dough.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Divide the dough into 2 equal pieces and roll out each piece into a thin sheet.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of caramelized onions and a sprinkle of feta cheese in the center of each dough circle.",
+    "Brush the edges of the dough with milk and fold the dough over the filling to form a half-moon shape.",
+    "Press the edges together to seal the pierogi and use a fork to crimp the edges.",
+    "Bring a large pot of salted water to a boil and cook the pierogi for 5 minutes or until they float to the surface.",
+    "Drain the pierogi and serve with a dollop of chimichurri sauce and a sprinkle of Parmesan cheese.",
+    "To make the chimichurri sauce, combine parsley, oregano, garlic, and butter in a blender and blend until smooth.",
+    "Season the sauce with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner",
+    "homemade-pasta",
+    "one-pan",
+    "pierogi",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "indulgent-slovakian-pierogi-pierogi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-slovakian-pierogi-pierogi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:46:38Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "caramelize",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Pierogi",
+    "descriptor": "Indulgent",
+    "dishForm": "Pierogi"
+  }
+}

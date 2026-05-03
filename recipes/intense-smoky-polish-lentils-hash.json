@@ -1,0 +1,110 @@
+{
+  "title": "Intense Smoky Polish Lentils Hash",
+  "description": "A smoky, silky lentil hash with a Polish twist, perfect for a hearty brunch.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1, diced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk, diced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold water until the water runs clear.",
+    "Heat the olive oil in a large skillet over medium heat and sauté the onion, garlic, carrot, and celery until softened, about 5 minutes.",
+    "Add the smoked paprika to the skillet and stir to coat the vegetables.",
+    "Add the lentils and vegetable broth to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer until the lentils are tender but still firm, about 20 minutes.",
+    "Stir in the fresh dill, lemon juice, salt, and pepper, and cook for another 2 minutes.",
+    "Remove the skillet from the heat and let the hash rest for 5 minutes to thicken.",
+    "Serve the hash warm, garnish with extra dill or a dash of smoked paprika if desired.",
+    "Optionally top each portion with a poached egg for added protein.",
+    "Enjoy the smoky, silky flavors of this hearty brunch hash."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "diabetic-friendly",
+    "hash",
+    "lentils",
+    "polish",
+    "smoky",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 125,
+    "protein": 20,
+    "carbs": 65,
+    "fat": 14
+  },
+  "slug": "intense-smoky-polish-lentils-hash",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-polish-lentils-hash",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:47:05Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "fold",
+    "primaryIngredient": "brown lentils",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "lentils",
+    "descriptor": "Intense Smoky",
+    "dishForm": "Hash"
+  }
+}

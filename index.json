@@ -28,6 +28,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-slovakian-pierogi-pierogi",
+    "title": "Indulgent Slovakian Pierogi",
+    "tags": [
+      "comfort-food",
+      "dinner",
+      "homemade-pasta",
+      "one-pan",
+      "pierogi",
+      "slovakian",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-thai-mars-bar-bars",
     "title": "Indulgent Thai Mars Bar Bars",
     "tags": [
@@ -68,6 +84,22 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 70,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-smoky-polish-lentils-hash",
+    "title": "Intense Smoky Polish Lentils Hash",
+    "tags": [
+      "breakfast",
+      "diabetic-friendly",
+      "hash",
+      "lentils",
+      "polish",
+      "smoky",
+      "vegan"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
