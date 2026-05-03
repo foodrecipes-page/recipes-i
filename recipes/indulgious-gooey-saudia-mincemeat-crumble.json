@@ -41,7 +41,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 180°C (350°F).",
+    "Preheat oven to 180\u00b0C (350\u00b0F).",
     "In a large bowl, mix ground beef with brown sugar and pumpkin puree. Add cinnamon and mix until well combined.",
     "Transfer half of the mixture into a small baking dish and press it down evenly. Bake for 20 minutes.",
     "Mix dark chocolate chips with all-purpose flour and coconut oil until no lumps remain. Spread this crumb topping on top of the baked mixture.",
@@ -63,9 +63,9 @@
   ],
   "nutrition": {
     "calories": 1250,
-    "protein": 87.63,
-    "carbs": 94.32,
-    "fat": 81.8
+    "protein": 88,
+    "carbs": 94,
+    "fat": 82
   },
   "slug": "indulgious-gooey-saudia-mincemeat-crumble",
   "source": "ollama-qwen2.5:3b",
