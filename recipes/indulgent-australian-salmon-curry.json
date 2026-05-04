@@ -1,0 +1,105 @@
+{
+  "title": "Indulgent Australian Salmon Curry",
+  "description": "A rich, malty curry featuring flaky salmon and savory fish sauce, perfect for midnight cravings.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets, skin removed, diced",
+      "amount": "400 g",
+      "notes": "fresh, firm"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "400 ml"
+    },
+    {
+      "name": "Fish sauce (nam pla)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Fresh ginger, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cilantro leaves, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat until shimmering.",
+    "Add the sliced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic, ginger, and red curry paste, cooking until fragrant, about 1 minute.",
+    "Pour in the coconut milk, fish sauce, tamarind paste, and brown sugar; stir to combine and bring to a gentle simmer.",
+    "Add the diced salmon fillets to the sauce, covering them completely, and simmer for 5 minutes until the salmon is cooked through.",
+    "Stir in the fresh lime juice and half the cilantro, then taste and adjust seasoning if necessary.",
+    "Serve the curry hot over a bed of steamed jasmine rice, garnished with the remaining cilantro.",
+    "Leave the dish to rest for 2 minutes before serving to allow flavors to meld.",
+    "Enjoy the malty, dense, midnight-craving Australian salmon curry with a side of crisp lettuce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "malty-flavor",
+    "midnight-craving",
+    "one-pot",
+    "seafood-curry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 22,
+    "fat": 24
+  },
+  "slug": "indulgent-australian-salmon-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-australian-salmon-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:16:03Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "marinate",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Salmon",
+    "descriptor": "Indulgent",
+    "dishForm": "Curry"
+  }
+}
