@@ -1,0 +1,108 @@
+{
+  "title": "Iced Persian Cabbage Salad",
+  "description": "A resinous, fluffy salad featuring shredded red cabbage, fresh dill, and a tangy tahini-lemon dressing topped with crisp air-fried walnuts.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red cabbage",
+      "amount": "1 medium head, thinly sliced",
+      "notes": "shredded finely for a crisp texture"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium, grated",
+      "notes": "provides sweetness and color"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp, chopped",
+      "notes": "adds a bright, herbal note"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for acidity"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "adds richness"
+    },
+    {
+      "name": "tahini",
+      "amount": "1 tbsp",
+      "notes": "smooth creamy base"
+    },
+    {
+      "name": "ground sumac",
+      "amount": "1 tsp",
+      "notes": "for tangy flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp",
+      "notes": ""
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "air-fried for crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 180°C (356°F).",
+    "Place walnuts in the air fryer basket, lightly drizzle 1 tsp olive oil, and air-fry for 5 minutes until golden and fragrant.",
+    "In a large bowl, combine sliced cabbage, grated carrot, and chopped dill.",
+    "Whisk together lemon juice, remaining olive oil, tahini, sumac, salt, and pepper until smooth.",
+    "Pour the dressing over the cabbage mixture and toss until evenly coated.",
+    "Fold in the freshly air-fried walnuts, reserving a few for garnish.",
+    "Chill the salad in the refrigerator for at least 15 minutes to allow flavors to meld.",
+    "Serve the salad over a bed of mixed greens or as a side dish, garnishing with reserved walnuts."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fry",
+    "cabbage",
+    "middle-eastern",
+    "raw-salad",
+    "refreshing",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 182,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 11
+  },
+  "slug": "iced-persian-cabbage-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/iced-persian-cabbage-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:39:29Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "air-fry",
+    "primaryIngredient": "red cabbage",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Persian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Iced",
+    "dishForm": "Salad"
+  }
+}
