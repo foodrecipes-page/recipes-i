@@ -1,0 +1,109 @@
+{
+  "title": "Indulgent Egyptian Aubergine Crumble",
+  "description": "A nutty, crumbly vegan dish featuring baby aubergines made in a tandoor clay pot, inspired by Egyptian flavors.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby aubergines",
+      "amount": "400g"
+    },
+    {
+      "name": "olive oil, infused with dried mint",
+      "amount": "20ml"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "30g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "60g"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "15g"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your tandoor-clay-pot over medium heat until it starts to smoke lightly, then remove and wipe clean.",
+    "Slice 400g baby aubergines in half lengthwise and brush both sides with 20ml infused olive oil seasoned with dried mint.",
+    "Season the aubergines with 1 tsp ground cumin, 1 tsp ground coriander, 1 tsp smoked paprika, and 1 tsp salt, then place them cut side down in the hot pot.",
+    "Roast the aubergines for 12 minutes, flipping once, until they are tender and lightly charred, then transfer them to a plate.",
+    "In a bowl, combine 60g all-purpose flour, 30g chopped almonds, 15g toasted sesame seeds, 1 tsp ground cumin, 1 tsp ground coriander, 1 tsp smoked paprika, and 1 tsp dried mint, stirring to even distribution.",
+    "Add 2 tbsp tahini, 1 tbsp lemon juice, and a pinch of salt to the dry mix, stirring until a crumbly paste forms.",
+    "Return the roasted aubergines to the pot, arrange them in a single layer, and spoon the crumble mixture evenly over the top.",
+    "Cover the pot with its lid and cook on low heat for 10 minutes, allowing the crumble to set and flavors to meld.",
+    "Remove the lid, broil the pot for 2 minutes to lightly brown the crumble topping, then turn off the heat.",
+    "Let the dish rest for 5 minutes before serving warm, garnished with fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aubergine",
+    "crumble",
+    "egyptian",
+    "nutty",
+    "one-pot",
+    "tandoor",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 830,
+    "protein": 24,
+    "carbs": 33,
+    "fat": 52
+  },
+  "slug": "indulgent-egyptian-aubergine-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-egyptian-aubergine-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:50:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "infuse-oil",
+    "primaryIngredient": "baby aubergine",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "aubergine",
+    "descriptor": "Indulgent",
+    "dishForm": "Crumble"
+  }
+}
