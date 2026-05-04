@@ -1,0 +1,94 @@
+{
+  "title": "Intensely Roasted Chinese Tofu Mapo Tofu",
+  "description": "A roasted, flaky, energizing Chinese dish featuring dry sherry and a pasta-water-emulsion, this mapo tofu is a nut-free friendly option for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "dry sherry",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pasta water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the tofu cubes with 1 tablespoon of sesame oil and roast in the oven for 20 minutes.",
+    "In a small bowl, whisk together the dry sherry, soy sauce, and rice vinegar.",
+    "In a separate bowl, whisk together the cornstarch and pasta water until smooth.",
+    "Add the cornstarch mixture to the sherry mixture and whisk until combined.",
+    "Remove the tofu from the oven and add it to the sherry mixture, tossing to coat.",
+    "Return the tofu to the oven and roast for an additional 10 minutes.",
+    "Remove the tofu from the oven and garnish with chopped scallions.",
+    "Serve the mapo tofu hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "intensely-roasted-chinese-tofu-mapo-tofu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-roasted-chinese-tofu-mapo-tofu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:51:15Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "dry sherry",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "Intensely Roasted",
+    "dishForm": "Mapo Tofu"
+  }
+}

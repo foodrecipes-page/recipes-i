@@ -2675,6 +2675,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-roasted-chinese-tofu-mapo-tofu",
+    "title": "Intensely Roasted Chinese Tofu Mapo Tofu",
+    "tags": [
+      "chinese-food",
+      "high-protein",
+      "one-pan",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-roasted-german-leek-stew",
     "title": "Intensely Roasted German Leek Stew",
     "tags": [
