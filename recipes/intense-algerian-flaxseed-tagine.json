@@ -1,0 +1,108 @@
+{
+  "title": "Intense Algerian Flaxseed Tagine",
+  "description": "A charred, shattering solo dinner that blends smoky Algerian spices with earthy flaxseed and savory dashi broth.",
+  "cuisine": "Algerian",
+  "diet": [
+    "paleo-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin cubes",
+      "amount": "200g"
+    },
+    {
+      "name": "flaxseed",
+      "amount": "50g"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "tomato, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a heavy skillet over medium-high heat until shimmering.",
+    "Add the beef cubes and sear on all sides until dark brown charred crust forms, about 5 minutes.",
+    "Sprinkle smoked paprika, cumin, coriander, and a pinch of salt over the meat, stirring to coat evenly.",
+    "Add the diced onion and minced garlic, cooking until the onion softens and becomes translucent.",
+    "Stir in the diced tomato, letting it break down into a thick sauce for 2 minutes.",
+    "Pour in the dashi broth, raise heat, and bring the mixture to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes until the beef is tender.",
+    "Stir in the flaxseed, letting it absorb the sauce and swell slightly, then simmer uncovered for an additional 5 minutes.",
+    "Finish with a squeeze of lemon juice, adjust seasoning, and serve hot, optionally garnished with fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "low-carb",
+    "meaty",
+    "one-pan",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 792,
+    "protein": 51,
+    "carbs": 3,
+    "fat": 65
+  },
+  "slug": "intense-algerian-flaxseed-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-algerian-flaxseed-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:22:39Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "dashi-extract",
+    "primaryIngredient": "flaxseed",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "flaxseed",
+    "descriptor": "Intense",
+    "dishForm": "Tagine"
+  }
+}
