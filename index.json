@@ -2295,6 +2295,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-sardinian-lamb-gnocchi",
+    "title": "Intense Sardinian Lamb Gnocchi",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "lamb",
+      "pasta",
+      "sardinian",
+      "weeknight"
+    ],
+    "cuisine": "Sardinian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "intense-shattering-italian-cinnamon-risotto",
     "title": "Intense Shattering Italian Cinnamon Risotto",
     "tags": [
@@ -3417,6 +3432,22 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-sweet-venezuelan-fish-empanadas",
+    "title": "Intensely Sweet Venezuelan Fish Empanadas",
+    "tags": [
+      "double-rise-bread",
+      "empanadas",
+      "mars-bar",
+      "pescatarian-friendly",
+      "romantic-dinner",
+      "sweet-and-savory",
+      "venezuelan-cuisine"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {

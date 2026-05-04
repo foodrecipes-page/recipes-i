@@ -1,0 +1,110 @@
+{
+  "title": "Intense Sardinian Lamb Gnocchi",
+  "description": "A midnight craving dish that blends smoky lamb shoulder with creamy potato gnocchi in a fragrant sauce, perfect for a comforting Sardinian dinner.",
+  "cuisine": "Sardinian",
+  "diet": [
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb shoulder",
+      "amount": "400 g"
+    },
+    {
+      "name": "boiled potatoes, mashed",
+      "amount": "300 g"
+    },
+    {
+      "name": "potato flour",
+      "amount": "50 g"
+    },
+    {
+      "name": "fresh sage, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "100 ml"
+    },
+    {
+      "name": "beef broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "fresh rosemary, chopped",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "parsley, chopped, for garnish",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat and sauté minced garlic until fragrant, about one minute.",
+    "Add the ground lamb shoulder, breaking it apart, and cook until browned and no longer pink, about eight minutes.",
+    "Pour in the red wine to deglaze, scraping the browned bits, and simmer until the liquid reduces by half, about five minutes.",
+    "Stir in beef broth, rosemary, sage, and lemon zest, season with salt and pepper, and let the mixture simmer gently for ten minutes.",
+    "Meanwhile, mash the boiled potatoes until smooth, then mix in potato flour, rosemary, and sage until well combined.",
+    "Fold the lamb mixture into the potato mixture, adjust seasoning, and shape about two-inch portions into gnocchi-shaped pieces.",
+    "Boil a pot of salted water and drop the gnocchi; cook until they rise to the surface, then simmer for another two minutes and drain.",
+    "Serve hot, garnished with chopped parsley, with a side of low-tamasic greens if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lamb",
+    "pasta",
+    "sardinian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 30,
+    "carbs": 24,
+    "fat": 17
+  },
+  "slug": "intense-sardinian-lamb-gnocchi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-sardinian-lamb-gnocchi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:02:46Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "deglaze",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "ayurvedic-tamasic",
+    "region": "sardinian",
+    "cuisineAdjective": "Sardinian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Intense",
+    "dishForm": "Gnocchi"
+  }
+}

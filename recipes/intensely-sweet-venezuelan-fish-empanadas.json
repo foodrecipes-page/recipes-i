@@ -1,0 +1,106 @@
+{
+  "title": "Intensely Sweet Venezuelan Fish Empanadas",
+  "description": "A charred, molten, romantic Venezuelan dish featuring Mars bar and pescatarian-friendly ingredients, wrapped in double-rise-bread, perfect for a sweet and savory dinner experience.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "double-rise-bread",
+      "amount": "2 cups",
+      "notes": "warm"
+    },
+    {
+      "name": "Mars bar",
+      "amount": "4 bars",
+      "notes": "chopped"
+    },
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "flaked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the warm double-rise-bread, chopped Mars bar, flaked cod fish, chopped onion, minced garlic, olive oil, salt, and sugar, and mix until well combined.",
+    "Gradually add the beaten egg and water to the bowl, and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces, and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, and place a tablespoon of the Mars bar and cod fish mixture in the center of each circle.",
+    "Fold the dough over the filling, and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil, and bake for 20 minutes until golden brown.",
+    "Remove the empanadas from the oven, and let them cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "double-rise-bread",
+    "empanadas",
+    "mars-bar",
+    "pescatarian-friendly",
+    "romantic-dinner",
+    "sweet-and-savory",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "intensely-sweet-venezuelan-fish-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-sweet-venezuelan-fish-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:02:13Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "mars bar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "fish",
+    "descriptor": "intensely sweet",
+    "dishForm": "Empanadas"
+  }
+}
