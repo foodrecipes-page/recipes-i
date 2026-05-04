@@ -1,0 +1,89 @@
+{
+  "title": "Intensely Mustardy Crispy Polish Pork Tagine",
+  "description": "A one-pot Polish dish featuring lemongrass and a crispy texture, cooked in a cedar plank vessel with a strong mustard flavor, suitable for Buddhist temple gatherings.",
+  "cuisine": "Polish",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together mustard seeds and brown mustard.",
+    "In a large bowl, toss pork cubes with mustard mixture, olive oil, and garlic until well coated.",
+    "Place the pork mixture on the soaked cedar plank.",
+    "Add bruised lemongrass stalks on top of the pork.",
+    "Bake for 30 minutes or until the pork is crispy and golden brown.",
+    "Remove from oven and let rest for 10 minutes before serving.",
+    "Serve hot and garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-texture",
+    "lemongrass-flavor",
+    "one-pot",
+    "polish-cuisine",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "intensely-mustardy-crispy-polish-pork-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-mustardy-crispy-polish-pork-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:05:29Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "tagine-cook",
+    "primaryIngredient": "lemongrass",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "intensely mustardy crispy",
+    "dishForm": "Tagine"
+  }
+}
