@@ -1,0 +1,104 @@
+{
+  "title": "Slovakian Vegetable Roast",
+  "description": "A hearty and flavorful vegetarian dish featuring a variety of roasted vegetables and pecorino cheese, with a yeasty twist from beer, this Slovakian inspired recipe is perfect for a cold winter night, the combination of vegetables and cheese creates a juicy and savory experience.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2 medium",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup",
+      "notes": "any type"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "none"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "none"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "none"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the carrots, brussels sprouts, red bell pepper, and onion with the olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the vegetables in a single layer on a large baking sheet.",
+    "Roast the vegetables in the preheated oven for 30 minutes.",
+    "While the vegetables are roasting, mix the beer and pecorino cheese in a small bowl.",
+    "After the vegetables have roasted for 30 minutes, pour the beer and cheese mixture over them.",
+    "Return the vegetables to the oven and continue roasting for an additional 20 minutes.",
+    "Remove the vegetables from the oven and let them cool for a few minutes before serving.",
+    "Serve the Slovakian vegetable roast hot, garnished with additional pecorino cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful",
+    "hearty",
+    "one-pan",
+    "slovakian",
+    "vegetarian",
+    "winter-night"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "incredibly-juicy-slovakian-vegetable-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-juicy-slovakian-vegetable-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:18:01Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "roast",
+    "primaryIngredient": "pecorino",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Incredibly juicy",
+    "dishForm": "Roast"
+  }
+}
