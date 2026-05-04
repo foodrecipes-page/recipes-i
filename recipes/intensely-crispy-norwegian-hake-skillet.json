@@ -1,0 +1,96 @@
+{
+  "title": "Intensely Crispy Norwegian Hake Skillet",
+  "description": "A pungent and crispy Norwegian dish featuring hake, perfect for a post-workout meal, this recipe is diabetic-friendly and full of flavor.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4 fillets",
+      "notes": "fresh and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "capernwurst sausage",
+      "amount": "1 sausage",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced capernwurst sausage and cook until browned, about 2-3 minutes.",
+    "Add the hake fillets to the skillet, skin side up, and cook for 3-4 minutes, until the skin is crispy.",
+    "Flip the hake fillets over and cook for an additional 3-4 minutes, until cooked through.",
+    "Season the hake with salt and black pepper to taste.",
+    "Serve the hake hot, with the onion and sausage mixture spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "high-protein",
+    "low-carb",
+    "norwegian-cuisine",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "intensely-crispy-norwegian-hake-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-crispy-norwegian-hake-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:08:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "saute",
+    "primaryIngredient": "hake",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "hake",
+    "descriptor": "Intensely Crispy",
+    "dishForm": "Skillet"
+  }
+}
