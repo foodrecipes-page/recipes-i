@@ -1,0 +1,90 @@
+{
+  "title": "Indulgent Polish Oreo Cream Biscuits Bake",
+  "description": "A rich and decadent Polish-inspired dessert featuring Oreo cream biscuits in a velvety mother sauce base, accessible for dairy-free diets.",
+  "cuisine": "Polish",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oreo cream biscuits",
+      "amount": "1 package (12-16 biscuits)",
+      "notes": "any brand or type of Oreo cream biscuits will work"
+    },
+    {
+      "name": "almond milk",
+      "amount": "250ml",
+      "notes": "dairy-free milk alternative"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "2 teaspoons",
+      "notes": "pure vanilla extract without additives"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": "dairy-free alternative or regular unsalted butter"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "100g",
+      "notes": "dairy-free chocolate chips or chopped dairy-free chocolate"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g",
+      "notes": "used for thickening the mother sauce base"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Line a baking tray with parchment paper or a silicone mat.",
+    "Remove the Oreo cream biscuits from the package and place them on the prepared baking tray, leaving about 1 inch (2.5 cm) of space between each biscuit.",
+    "Bake the biscuits in the preheated oven for 5 minutes, or until lightly golden brown.",
+    "While the biscuits are baking, prepare the mother sauce base by melting the almond milk, vanilla extract, and unsalted butter in a saucepan over medium heat.",
+    "Once the biscuits have finished baking, remove them from the oven and let them cool for 2 minutes before transferring them to a serving dish or individual ramekins.",
+    "Pour the mother sauce base over the cooled biscuits and top with dark chocolate chips.",
+    "Place the dish or ramekins in the refrigerator for at least 30 minutes to set.",
+    "Before serving, sprinkle the mother sauce base with a pinch of flour to thicken the sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "dairy-free",
+    "dessert",
+    "high-protein",
+    "polish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "indulgent-polish-oreo-cream-biscuits-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-polish-oreo-cream-biscuits-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:52Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Oreo cream biscuits",
+    "descriptor": "Indulgent",
+    "dishForm": "Bake"
+  }
+}
