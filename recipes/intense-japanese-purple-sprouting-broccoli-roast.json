@@ -1,0 +1,97 @@
+{
+  "title": "Intense Japanese Purple Sprouting Broccoli Roast",
+  "description": "Roasted purple sprouting broccoli tossed in a savory tamari-ginger glaze, served hot for a quick, jain-friendly dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "jain",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Purple sprouting broccoli",
+      "amount": "200g",
+      "notes": "trimmed"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Tamari sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C (400F).",
+    "Place trimmed purple sprouting broccoli on a baking sheet lined with parchment paper.",
+    "Drizzle 1 tablespoon of sesame oil over the broccoli and toss to coat.",
+    "In a small bowl, whisk together 1 tablespoon tamari, 1 teaspoon rice vinegar, grated ginger, and brown sugar until sugar dissolves.",
+    "Pour the sauce mixture over the broccoli and toss again until evenly coated.",
+    "Sprinkle sea salt and black pepper to taste, then scatter toasted sesame seeds over the top.",
+    "Roast in the preheated oven for 15 minutes, turning once halfway through, until the broccoli is tender and slightly caramelized.",
+    "Remove from oven, let rest 2 minutes, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "japanese",
+    "one-pan",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 133,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 9
+  },
+  "slug": "intense-japanese-purple-sprouting-broccoli-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-japanese-purple-sprouting-broccoli-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:20:07Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Purple Sprouting Broccoli",
+    "descriptor": "Intense",
+    "dishForm": "Roast"
+  }
+}
