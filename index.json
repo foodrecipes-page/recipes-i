@@ -239,6 +239,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-korean-cream-stew",
+    "title": "Indulgent Korean Cream Stew",
+    "tags": [
+      "comfort-food",
+      "creamy",
+      "gluten-free",
+      "korean",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-mexican-tortilla-quesadilla",
     "title": "Indulgent Mexican Tortilla Quesadilla",
     "tags": [

@@ -1,0 +1,118 @@
+{
+  "title": "Indulgent Korean Cream Stew",
+  "description": "A garlicky, gooey one-pot Korean dish featuring double cream and infuse-oil, served in a stunning Talavera plate.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "gluten-free soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 teaspoon",
+      "notes": "infuse-oil"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "scallions",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a Talavera plate, heat sesame oil over medium heat until shimmering.",
+    "Add minced garlic and garlic-infused oil, sauté for 2 minutes until fragrant.",
+    "Stir in sliced shiitake mushrooms and diced zucchini, cook until softened, about 5 minutes.",
+    "Pour in vegetable broth and gluten-free soy sauce, bring to a gentle boil then reduce to a simmer.",
+    "Add cubed tofu and simmer for 3 minutes to allow flavors to meld.",
+    "Reduce heat to low and stir in heavy cream and coconut cream until the stew becomes silky and thick.",
+    "Season with salt and pepper to taste, then simmer for an additional 2 minutes.",
+    "Garnish with sliced scallions and serve hot straight from the Talavera plate."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "gluten-free",
+    "korean",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 22,
+    "fat": 20
+  },
+  "slug": "indulgent-korean-cream-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-korean-cream-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:18:59Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "infuse-oil",
+    "primaryIngredient": "double cream",
+    "diet": "gluten-free",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cream",
+    "descriptor": "Indulgent",
+    "dishForm": "Stew"
+  }
+}
