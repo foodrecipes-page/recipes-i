@@ -1,0 +1,104 @@
+{
+  "title": "Intense Umami Algerian Pork Tenderloin Tagine",
+  "description": "A romantic Algerian dish featuring pork tenderloin in a rich umami sauce, served en-croute in a cazuela.",
+  "cuisine": "Algerian",
+  "diet": [
+    "satvik-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "dried porcini mushrooms",
+      "amount": "1/2 cup",
+      "notes": "rehydrated in 1 cup hot water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the pork tenderloin with salt, black pepper, cumin, and smoked paprika.",
+    "Heat the olive oil in the cazuela over medium-high heat and sear the pork tenderloin until browned on all sides.",
+    "Remove the pork from the cazuela and set it aside.",
+    "Add the chopped onion to the cazuela and cook until it is softened and translucent.",
+    "Add the minced garlic to the cazuela and cook for 1 minute.",
+    "Add the rehydrated porcini mushrooms and their liquid to the cazuela and cook for 2 minutes.",
+    "Add the chicken broth to the cazuela and bring to a boil.",
+    "Return the pork tenderloin to the cazuela and cover it with a lid or foil.",
+    "Transfer the cazuela to the preheated oven and bake for 20 minutes.",
+    "Remove the cazuela from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "one-pot",
+    "pork-tenderloin",
+    "romantic-dinner",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "intense-umami-algerian-pork-tenderloin-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-umami-algerian-pork-tenderloin-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:16:08Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "en-croute",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "intense umami",
+    "dishForm": "Tagine"
+  }
+}
