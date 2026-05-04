@@ -1,0 +1,107 @@
+{
+  "title": "Intense Mustardy Spanish Wonton Tortilla Espanola",
+  "description": "A creamy and mustardy twist on the traditional Spanish dish, featuring wonton skin and quick-fix ingredients, grilled to perfection in a robata grill.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wonton skin",
+      "amount": "12 sheets",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "Dijon or spicy brown"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Manchego or Cheddar"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the mustard, sour cream, salt, and black pepper until smooth.",
+    "Add the diced onion and minced garlic to the bowl and stir until well combined.",
+    "Lay a wonton skin on a flat surface and brush the edges with olive oil.",
+    "Place about 1 tablespoon of the mustard mixture in the center of the wonton skin.",
+    "Sprinkle a pinch of shredded cheese over the mustard mixture.",
+    "Fold the wonton skin into a triangle or a square shape, pressing the edges to seal.",
+    "Repeat with the remaining wonton skins and filling ingredients.",
+    "Grill the wonton packets in the robata grill for about 2-3 minutes on each side, until crispy and golden brown.",
+    "Serve the Intense Mustardy Spanish Wonton Tortilla Espanola hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "mustard-lovers",
+    "quick-fix",
+    "robata-grill",
+    "spanish-inspired",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "intense-mustardy-spanish-wonton-tortilla-espanola",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-mustardy-spanish-wonton-tortilla-espanola",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:00:01Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "wonton skin",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "wonton",
+    "descriptor": "Intense Mustardy",
+    "dishForm": "Tortilla Espanola"
+  }
+}

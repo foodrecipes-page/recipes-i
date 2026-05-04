@@ -1,0 +1,104 @@
+{
+  "title": "Intense Korean Cheese Jeon",
+  "description": "A comforting, cheese‑pull Korean pancake with a herbal kick, perfect for a protein‑rich dinner.",
+  "cuisine": "korean",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g",
+      "notes": "strong white flour"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "water",
+      "amount": "100ml"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "whisked"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "kimchi",
+      "amount": "80g",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "20g",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk together flour, baking powder, salt, and pepper until combined.",
+    "Add water, egg, and sesame oil, whisking until a smooth batter forms.",
+    "Fold in shredded cheddar, chopped kimchi, and sliced scallions.",
+    "Heat a heavy skillet over medium-high heat and lightly brush with sesame oil.",
+    "Pour a ladleful of batter into the skillet, spreading into a round pancake about 5cm thick.",
+    "Cook for 3–4 minutes until the edges lift and the bottom is golden brown.",
+    "Flip the jeon and cook the other side for 2–3 minutes.",
+    "While the second side is cooking, preheat the broiler and place the remaining jeon on a broiler‑safe tray.",
+    "Broil for 2 minutes or until the cheese on top melts and starts to brown, creating a pull.",
+    "Remove from broiler, let cool for a minute, then cut into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "broil",
+    "cheese",
+    "high-protein",
+    "korean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 738,
+    "protein": 19,
+    "carbs": 104,
+    "fat": 26
+  },
+  "slug": "intense-korean-cheese-jeon",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-korean-cheese-jeon",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:00:29Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "broil",
+    "primaryIngredient": "strong white flour",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Cheese",
+    "descriptor": "Intense",
+    "dishForm": "Jeon"
+  }
+}
