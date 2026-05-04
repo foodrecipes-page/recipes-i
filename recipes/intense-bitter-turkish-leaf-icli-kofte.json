@@ -1,0 +1,114 @@
+{
+  "title": "Intense Bitter Turkish Leaf Icli Kofte",
+  "description": "A nut-free, bouncy Turkish leaf stuffed meatball with an intense bitter flavor, perfect for a brunch‑mood bento box.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "300g"
+    },
+    {
+      "name": "ground beef",
+      "amount": "200g"
+    },
+    {
+      "name": "Chinese cabbage leaf",
+      "amount": "6 leaves",
+      "notes": "blanch before stuffing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to a boil and blanch the Chinese cabbage leaves for 1 minute, then shock them in ice water and set aside.",
+    "In a bowl combine the ground lamb, ground beef, onion, garlic, parsley, mint, cumin, smoked paprika, salt and pepper until well mixed.",
+    "Warm a skillet over medium heat, add sunflower oil, and cook the meat mixture for 5 minutes, stirring occasionally, until it starts to brown.",
+    "Transfer the cooked meat mixture back into the bowl and let it cool slightly to avoid hardening the leaves.",
+    "Take a blanched leaf, place a generous spoonful of the meat mixture in the center, fold the sides over and roll tightly to form a 4‑5 inch long individual kotte.",
+    "Arrange the rolled kotte in a single layer inside a bento box, leaving space for the sauce.",
+    "In a small saucepan, heat 200ml water, add a pinch of salt, and bring to a gentle simmer.",
+    "Place the kotte in the simmering water, cover, and cook for 20 minutes, turning once, until the meat is fully cooked and the leaf remains tender.",
+    "Remove the kotte from the water, drain, and let them cool to room temperature before packing.",
+    "Serve the bitter, bouncy kotte chilled or at room temperature in the bento box, optionally with a side of yogurt dip."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "bouncy-qq",
+    "brunch-mood",
+    "nut-free",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "intense-bitter-turkish-leaf-icli-kofte",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-bitter-turkish-leaf-icli-kofte",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:33:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "blanch",
+    "primaryIngredient": "chinese leaf",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Leaf",
+    "descriptor": "Intense Bitter",
+    "dishForm": "Icli Kofte"
+  }
+}
