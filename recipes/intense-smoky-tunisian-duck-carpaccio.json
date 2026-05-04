@@ -1,0 +1,96 @@
+{
+  "title": "Intense Smoky Tunisian Duck Carpaccio",
+  "description": "Thinly sliced smoked duck breast tossed in a smoky Tunisian spice blend, served cold and crunchy for a post-workout boost.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "400 g",
+      "notes": "skin removed, thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "charred in a pan"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pine nuts",
+      "amount": "2 tbsp",
+      "notes": "toasted lightly"
+    }
+  ],
+  "instructions": [
+    "Slice the duck breast into 1 mm thick strips and place them on a chilled platter.",
+    "Heat a small skillet until hot, pour olive oil, and watch smoke until it starts to billow, then remove and let cool.",
+    "Whisk lemon juice, smoked paprika, cumin, salt, and pepper together to make a dressing.",
+    "Drizzle the dressing over the duck slices, ensuring each is coated evenly.",
+    "Scatter the toasted pine nuts over the top for crunch and nutty aroma.",
+    "Refrigerate the carpaccio for at least 30 minutes to allow flavors to meld.",
+    "Just before serving, drizzle a thin line of charred olive oil over the slices.",
+    "Serve immediately with a side of crisp cucumber ribbons or a light salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "post-workout",
+    "raw",
+    "smoky",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 45,
+    "carbs": 4,
+    "fat": 30
+  },
+  "slug": "intense-smoky-tunisian-duck-carpaccio",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-tunisian-duck-carpaccio",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:04:35Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "marinate",
+    "primaryIngredient": "duck",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "duck",
+    "descriptor": "Intense Smoky",
+    "dishForm": "Carpaccio"
+  }
+}
