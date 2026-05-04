@@ -1,0 +1,114 @@
+{
+  "title": "Intense Basque Beans Wrap",
+  "description": "Floral and molten Basque-style bean wrap baked in delicate pandan leaf wrappers, bursting with spicy chilli paste and Mediterranean herbs.",
+  "cuisine": "Basque",
+  "diet": [
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked white beans",
+      "amount": "2 cups",
+      "notes": "drained"
+    },
+    {
+      "name": "chilli bean paste",
+      "amount": "6 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "pandan leaf wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "roasted red pepper",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius and line a baking sheet with parchment paper.",
+    "In a bowl mix the cooked beans, chilli bean paste, minced garlic, olive oil, lemon juice, smoked paprika, salt and pepper until well combined.",
+    "Heat each pandan leaf briefly in a dry skillet to make it pliable, then lay them flat on the parchment.",
+    "Spoon a generous amount of bean mixture onto each leaf, add diced roasted red pepper, and top with chopped parsley.",
+    "Fold the sides of the leaf over the filling and roll tightly to form a wrap.",
+    "Place the wrapped bundles seam side down on the prepared baking sheet, leaving space between each.",
+    "Bake for 25 minutes, or until the edges of the wraps are golden and slightly crisp.",
+    "Remove from oven, let cool for 5 minutes, then serve warm as a fragrant, Mediterranean-inspired lunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean-friendly",
+    "one-pan",
+    "plant-based",
+    "quick",
+    "vegan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 6,
+    "carbs": 33,
+    "fat": 16
+  },
+  "slug": "intense-basque-beans-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-basque-beans-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:15:35Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "mediterranean",
+    "region": "basque",
+    "cuisineAdjective": "Basque",
+    "mainIngredient": "beans",
+    "descriptor": "Intense",
+    "dishForm": "Wrap"
+  }
+}
