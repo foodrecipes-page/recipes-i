@@ -380,6 +380,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-croatian-chicken-stew",
+    "title": "Intense Croatian Chicken Stew",
+    "tags": [
+      "comfort-food",
+      "kid-friendly",
+      "low-sodium",
+      "one-pot",
+      "quick-and-easy"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
     "slug": "intense-indian-potatoes-curry",
     "title": "Intense Indian Potatoes Curry",
     "tags": [

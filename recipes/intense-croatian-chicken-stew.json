@@ -1,0 +1,113 @@
+{
+  "title": "Intense Croatian Chicken Stew",
+  "description": "A hearty, winey stew with ginger and a mother-sauce base that is gentle on kids and low in sodium.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "800g",
+      "notes": "bone-in, skin removed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Low-sodium chicken broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "White wine",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat until shimmering.",
+    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic and ginger paste and cook for 1 minute.",
+    "Add the diced carrot and red bell pepper, cooking until slightly softened, about 5 minutes.",
+    "Mix in the tomato paste and dried oregano, stirring to coat the vegetables.",
+    "Pour in the white wine, deglazing the pot and letting it reduce for 2 minutes.",
+    "Add the chicken thighs, then pour the low-sodium chicken broth, bringing the mixture to a simmer.",
+    "Cover the pot and let the stew cook on low heat for 35 minutes, or until the chicken is tender.",
+    "Remove the lid and simmer uncovered for an additional 5 minutes to thicken the sauce.",
+    "Season with a pinch of salt if desired, then stir in the chopped fresh parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "kid-friendly",
+    "low-sodium",
+    "one-pot",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 15
+  },
+  "slug": "intense-croatian-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-croatian-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:13:49Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "ginger paste",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chicken",
+    "descriptor": "Intense",
+    "dishForm": "Stew"
+  }
+}
