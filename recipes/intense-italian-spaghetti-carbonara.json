@@ -1,0 +1,101 @@
+{
+  "title": "Intense Italian Spaghetti Carbonara",
+  "description": "A salty, dense Neapolitan-inspired carbonara infused with cocoa and tempered chocolate for a decadent date-night treat.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "200g"
+    },
+    {
+      "name": "pancetta",
+      "amount": "100g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "pecorino romano",
+      "amount": "50g"
+    },
+    {
+      "name": "parmigiano reggiano",
+      "amount": "30g"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "30g",
+      "notes": "for tempering"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "to garnish",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a rolling boil and cook spaghetti until al dente, about 9 minutes.",
+    "While the pasta cooks, dice pancetta into small cubes and heat a drizzle of olive oil in a skillet over medium heat.",
+    "Add pancetta to the skillet and cook until it renders its fat and turns golden crisp, about 5 minutes.",
+    "In a bowl, whisk together eggs, pecorino, parmigiano, cocoa powder, and a generous grind of fresh black pepper until smooth.",
+    "Drain the spaghetti, reserving a cup of pasta water, and immediately toss it in the skillet with the pancetta, letting the hot pasta soak up the rendered fat.",
+    "Remove the skillet from heat and pour the egg mixture over the pasta, stirring rapidly to create a silky sauce without scrambling the eggs; add reserved pasta water a tablespoon at a time to adjust consistency.",
+    "While the sauce thickens, melt the dark chocolate over low heat and temper it by stirring in the cocoa powder until glossy and smooth.",
+    "Drizzle the tempered chocolate mixture over the carbonara, folding gently to incorporate a subtle chocolate undertone.",
+    "Plate the dish, garnish with a pinch of extra pecorino, a few cracked peppercorns, and a sprig of fresh parsley if desired.",
+    "Serve immediately, ensuring a warm, dense plate perfect for a romantic evening."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-tamasic-friendly",
+    "chocolate",
+    "cocoa",
+    "date-night",
+    "dense",
+    "neapolitan",
+    "salty"
+  ],
+  "nutrition": {
+    "calories": 2051,
+    "protein": 88,
+    "carbs": 161,
+    "fat": 102
+  },
+  "slug": "intense-italian-spaghetti-carbonara",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-italian-spaghetti-carbonara",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:20:45Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "cocoa powder",
+    "diet": "ayurvedic-tamasic",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Spaghetti",
+    "descriptor": "Intense",
+    "dishForm": "Carbonara"
+  }
+}
