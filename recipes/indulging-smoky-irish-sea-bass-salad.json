@@ -1,0 +1,114 @@
+{
+  "title": "Indulging Smoky Irish Sea Bass Salad",
+  "description": "Citrusy, aerated, meal-prep Irish dish featuring smoked sea bass, bright orange segments, arugula, and a light citrus dressing served in an agave leaf bowl.",
+  "cuisine": "Irish",
+  "diet": [
+    "pescatarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked sea bass fillet",
+      "amount": "200g",
+      "notes": "skin removed, diced"
+    },
+    {
+      "name": "Arugula",
+      "amount": "200g",
+      "notes": "packed"
+    },
+    {
+      "name": "Orange",
+      "amount": "1 large",
+      "notes": "peeled and sectioned"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2",
+      "notes": "diced"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1/2",
+      "notes": "diced"
+    },
+    {
+      "name": "Microgreens",
+      "amount": "30g",
+      "notes": "thawed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "pinch"
+    },
+    {
+      "name": "Sea salt and cracked pepper",
+      "amount": "pinch each"
+    },
+    {
+      "name": "Toasted almond slivers",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Warm the smoked sea bass fillet in a microwave or on a low heat until just heated, about 1 minute, then dice into bite-size cubes.",
+    "While the fish heats, combine the orange segments, cucumber, and avocado in a bowl.",
+    "Add the arugula and microgreens to the fruit and vegetables, tossing gently.",
+    "Whisk together olive oil, lemon juice, white wine vinegar, smoked paprika, salt, and pepper in a small bowl to create the citrus dressing.",
+    "Pour the dressing over the salad and toss until everything is evenly coated.",
+    "Divide the salad into agave leaf vessels, placing a generous portion of sea bass cubes on top of the greens.",
+    "Garnish each vessel with toasted almond slivers and a sprig of fresh mint if desired.",
+    "Seal the agave leaf vessel with a small piece of parchment and refrigerate for up to 4 hours before serving."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 1,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "irish",
+    "meal-prep",
+    "quick",
+    "sea-bass",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "indulging-smoky-irish-sea-bass-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulging-smoky-irish-sea-bass-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:28:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "smoke",
+    "primaryIngredient": "sea bass",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Sea Bass",
+    "descriptor": "Indulging Smoky",
+    "dishForm": "Salad"
+  }
+}
