@@ -1,0 +1,105 @@
+{
+  "title": "Indulgent Crispy Dutch Chicken Tagine",
+  "description": "A smoky, low‑carb Dutch‑inspired chicken tagine with coconut milk and a crispy coating that melts in the mouth.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "4 (800g)",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup (full fat)"
+    },
+    {
+      "name": "low‑sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped kale",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200C and heat a dry skillet over medium‑high heat.",
+    "Pat the chicken thighs dry and season both sides with smoked paprika, cumin, coriander, cayenne, salt, and pepper.",
+    "Sear the chicken in the hot skillet until golden and slightly crispy, about 3 minutes per side, then transfer to a baking sheet.",
+    "In the same skillet, pour in coconut milk and chicken broth, bring to a gentle simmer, and stir in lemon juice.",
+    "Return the seared chicken to the skillet, spoon some sauce over each piece, and cover with a lid or aluminum foil.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes, allowing the flavors to meld.",
+    "Remove the skillet, discard the lid, and simmer the remaining sauce on the stovetop until it thickens, about 5 minutes.",
+    "Stir in chopped kale during the last 2 minutes of simmering until wilted.",
+    "Plate the chicken, drizzle with the reduced sauce, and garnish with fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "dutch",
+    "low-carb",
+    "monsoon",
+    "stovetop-oven",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 45
+  },
+  "slug": "indulgent-crispy-dutch-chicken-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-crispy-dutch-chicken-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:52:35Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "coconut milk",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Chicken",
+    "descriptor": "Indulgent Crispy",
+    "dishForm": "Tagine"
+  }
+}
