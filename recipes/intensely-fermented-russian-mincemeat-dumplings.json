@@ -1,0 +1,95 @@
+{
+  "title": "Intensely Fermented Russian Mincemeat Dumplings",
+  "description": "A traditional Russian dish featuring fermented mincemeat, this recipe is a keto-friendly hangover cure, with a silky texture and intense flavor. It is typically served as a snack or light meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mincemeat",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mincemeat, sour cream, eggs, onion, garlic, salt, black pepper, and dried dill, mixing well.",
+    "Knead the mixture for about 10 minutes until it becomes smooth and elastic.",
+    "Cover the bowl with plastic wrap and let it ferment in the refrigerator for at least 24 hours.",
+    "When ready to cook, bring a large pot of salted water to a boil.",
+    "Using a spoon, drop small balls of the fermented mixture into the boiling water.",
+    "Cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot.",
+    "Traditionally, the dumplings are served with a side of sour cream or melted butter.",
+    "Let the dumplings cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fermented-foods",
+    "hangover-cure",
+    "keto-friendly",
+    "low-carb",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 5,
+    "fat": 24
+  },
+  "slug": "intensely-fermented-russian-mincemeat-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-fermented-russian-mincemeat-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:06:10Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "cure",
+    "primaryIngredient": "mincemeat",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "mincemeat",
+    "descriptor": "intensely fermented",
+    "dishForm": "Dumplings"
+  }
+}
