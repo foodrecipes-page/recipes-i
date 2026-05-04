@@ -334,6 +334,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-indian-tiger-prawns-rasam",
+    "title": "Indulgent Indian Tiger Prawns Rasam",
+    "tags": [
+      "dinner-party",
+      "flexitarian",
+      "indian-cuisine",
+      "one-pot",
+      "seafood",
+      "spicy"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-italian-cherry-cannoli",
     "title": "Indulgent Italian Cherry Cannoli",
     "tags": [

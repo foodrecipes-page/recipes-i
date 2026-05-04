@@ -1,0 +1,109 @@
+{
+  "title": "Indulgent Indian Tiger Prawns Rasam",
+  "description": "A rich and flavorful Hyderabadi dish featuring succulent tiger prawns in a spicy rasam broth, infused with aromatic oils and served in a traditional tajine clay vessel.",
+  "cuisine": "Indian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "rasam powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large tajine clay vessel over medium heat.",
+    "Add the chopped onions and cook until they are translucent and starting to brown.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the rasam powder and cook for 1 minute, stirring constantly.",
+    "Add the chopped tomatoes and cook until they are soft and mushy.",
+    "Add the tamarind paste and cook for 1 minute, stirring constantly.",
+    "Add the infused oil and yeast and cook for 1 minute, stirring constantly.",
+    "Add the peeled and deveined tiger prawns and cook until they are pink and fully cooked.",
+    "Season with salt to taste.",
+    "Serve the rasam hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "flexitarian",
+    "indian-cuisine",
+    "one-pot",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "indulgent-indian-tiger-prawns-rasam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-indian-tiger-prawns-rasam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:35:31Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "infuse-oil",
+    "primaryIngredient": "tiger prawns",
+    "diet": "flexitarian",
+    "region": "hyderabadi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "Indulgent",
+    "dishForm": "Rasam"
+  }
+}
