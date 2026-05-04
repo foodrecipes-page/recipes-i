@@ -1,0 +1,90 @@
+{
+  "title": "Icy Spicy Korean Cheese Jjim",
+  "description": "A rich, fatty, and cozy Gyeongsang-style anju dish made with cream cheese, bonito, and a spicy kick, suitable for FODMAP diets. Serve with steamed rice or naengmyeon for a comforting meal.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cream Cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Softened Vegetable Shortening",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Bonito Flakes",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Green Onion",
+      "amount": "1 stalk",
+      "notes": " Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, mix together softened cream cheese, vegetable shortening, and Korean chili flakes until smooth.",
+    "Add bonito flakes, fish sauce, soy sauce, and sugar to the bowl, and mix until well combined.",
+    "Transfer the mixture to a serving dish or individual ramekins.",
+    "Garnish with thinly sliced green onion and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-appetizer",
+    "high-fat",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 50
+  },
+  "slug": "icy-spicy-korean-cheese-jjim",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-spicy-korean-cheese-jjim",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:56:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "bonito-shave",
+    "primaryIngredient": "cream cheese",
+    "diet": "fodmap",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cheese",
+    "descriptor": "Icy Spicy",
+    "dishForm": "Jjim"
+  }
+}

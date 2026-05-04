@@ -227,6 +227,19 @@
     "shard": "i"
   },
   {
+    "slug": "icy-spicy-korean-cheese-jjim",
+    "title": "Icy Spicy Korean Cheese Jjim",
+    "tags": [
+      "comfort-food",
+      "easy-appetizer",
+      "high-fat",
+      "korean"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 10,
+    "shard": "i"
+  },
+  {
     "slug": "incredibly-crispy-russian-swede-fritters",
     "title": "Incredibly Crispy Russian Swede Fritters",
     "tags": [
