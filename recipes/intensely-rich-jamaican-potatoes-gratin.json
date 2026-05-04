@@ -1,0 +1,95 @@
+{
+  "title": "Intensely Rich Jamaican Potatoes Gratin",
+  "description": "A rich and creamy Jamaican dish featuring potatoes, infused with Jamaican jerk seasoning, perfect for a date night, and friendly to those who dislike onion and garlic.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and jerk seasoning, and toss to coat.",
+    "In a large saucepan, heat the infused oil over medium heat.",
+    "Add the potato slices to the saucepan and cook for 5 minutes on each side, until they are slightly tender.",
+    "In a separate saucepan, heat the heavy cream over low heat until it is warm and slightly simmering.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes.",
+    "Pour some of the warm heavy cream over the potatoes, then sprinkle with some of the grated cheddar cheese.",
+    "Repeat the layers of potatoes, cream, and cheese until all of the ingredients are used, ending with a layer of cheese on top.",
+    "Season with salt, black pepper, and chopped fresh thyme.",
+    "Bake the gratin in the preheated oven for 30 minutes, until the top is golden brown and the potatoes are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "jamaican-cuisine",
+    "no-onion-no-garlic",
+    "potato-gratin",
+    "rich-and-creamy",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "intensely-rich-jamaican-potatoes-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-rich-jamaican-potatoes-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:32:23Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "potatoes",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "potatoes",
+    "descriptor": "intensely rich",
+    "dishForm": "Gratin"
+  }
+}
