@@ -1,0 +1,103 @@
+{
+  "title": "Intense Smoky Mexican Tomato Churros",
+  "description": "Salty, chewy, and intensely flavored, these Mexican tomato churros are a midnight craving sensation, featuring diced tomatoes and confit-tomato in a keto-friendly package, cooked to perfection in a tandoor-clay-pot.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "fine ground"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor-clay-pot to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together almond flour, granulated sweetener, smoked paprika, garlic powder, and salt.",
+    "In a separate bowl, whisk together eggs and olive oil.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Fold in diced tomatoes, confit-tomato, and mozzarella cheese.",
+    "Pipe the dough through a star tip into long, thin strips.",
+    "Fry the churros in the preheated tandoor-clay-pot for 5 minutes on each side, or until golden brown.",
+    "Remove the churros from the pot and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the churros hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-goodness",
+    "keto-friendly",
+    "low-carb",
+    "mexican-inspired",
+    "smoky-flavors",
+    "snack-attack",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "intense-smoky-mexican-tomato-churros",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-mexican-tomato-churros",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:27:28Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "confit-tomato",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Intense Smoky",
+    "dishForm": "Churros"
+  }
+}
