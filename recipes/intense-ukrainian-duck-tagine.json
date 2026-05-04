@@ -1,0 +1,112 @@
+{
+  "title": "intense ukrainian duck tagine",
+  "description": "a flavorful and aromatic duck tagine from ukraine, featuring gorgonzola-dolce and a variety of herbs",
+  "cuisine": "ukrainian",
+  "diet": [
+    "low-calorie",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "500g"
+    },
+    {
+      "name": "gorgonzola dolce",
+      "amount": "120g"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "chopped rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "chopped thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "chopped carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "chopped celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "season the duck breast with salt and pepper, and set aside",
+    "heat the olive oil in the bottom of a tagine or large Dutch oven over medium heat",
+    "add the chopped onion and cook until softened, about 3-4 minutes",
+    "add the chopped garlic and cook for an additional minute",
+    "add the chopped carrot and celery, and cook until the vegetables are tender, about 5 minutes",
+    "add the chopped rosemary and thyme, and cook for 1 minute",
+    "add the duck breast to the tagine, and cook until browned on all sides, about 5 minutes",
+    "add the white wine and chicken broth to the tagine, and bring to a simmer",
+    "cover the tagine and transfer to the oven, where it will cook for 25-30 minutes, or until the duck is cooked through",
+    "remove the tagine from the oven, and let it cool slightly",
+    "stir in the chopped fresh parsley and crumbled gorgonzola dolce",
+    "serve the duck and sauce over couscous or rice"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "herb-crusted",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 54,
+    "carbs": 8,
+    "fat": 24
+  },
+  "slug": "intense-ukrainian-duck-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-ukrainian-duck-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T20:43:21Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "tagine-cook",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Duck",
+    "descriptor": "Intense",
+    "dishForm": "Tagine"
+  }
+}
