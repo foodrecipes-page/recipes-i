@@ -1,0 +1,96 @@
+{
+  "title": "Indulgent German Ketchup Gratin",
+  "description": "A tangy, molten gratin that combines rich cheese and sweet tomato ketchup, finished with a crisp golden crust for a comforting German-inspired dish. FODMAP-friendly and indulgent for any dinner occasion.",
+  "cuisine": "German",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomato ketchup",
+      "amount": "1 cup",
+      "notes": "low fructose variety if possible"
+    },
+    {
+      "name": "Gruyère cheese, shredded",
+      "amount": "200 g",
+      "notes": "melted for a creamy texture"
+    },
+    {
+      "name": "lactose-free cream",
+      "amount": "200 ml"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "15 g",
+      "notes": "for browning"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15 g"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chives, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "In a medium bowl, mix the ketchup and cream until smooth.",
+    "Stir in the shredded cheese, oregano, salt, pepper, and chopped chives.",
+    "Drizzle the mixture into a small baking dish, then dot with butter and olive oil.",
+    "Bake for 12 to 15 minutes, or until the top is golden brown and bubbling.",
+    "Remove from the oven and let rest for 2 minutes.",
+    "Serve the gratin hot, spooning the molten center onto each plate. ",
+    "Optionally garnish with extra chives or a sprinkle of paprika for color."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-forward",
+    "german",
+    "indulgent",
+    "low-fodmap",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 11,
+    "carbs": 9,
+    "fat": 26
+  },
+  "slug": "indulgent-german-ketchup-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-german-ketchup-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:18:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "salt-bake",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "ketchup",
+    "descriptor": "Indulgent",
+    "dishForm": "Gratin"
+  }
+}
