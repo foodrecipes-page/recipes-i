@@ -1,0 +1,99 @@
+{
+  "title": "Innovative Intense Malaysian Tofu Bake",
+  "description": "A resinous, aerated, meal-prep Malaysian dish featuring silken tofu, this bake is sugar-free-friendly and perfect for a weeknight dinner. It combines the flavors of Malaysia with the ease of a casserole.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malaysian curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender or food processor, combine coconut milk, malaysian curry powder, salt, and black pepper, and blend until smooth.",
+    "In a large bowl, toss the cubed tofu with the blended curry mixture until the tofu is well coated.",
+    "In a large baking dish, arrange the coated tofu in a single layer.",
+    "Drizzle the olive oil over the tofu, then sprinkle the chopped scallions and bruised lemongrass over the top.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15 minutes, or until the top is lightly browned.",
+    "Remove the baking dish from the oven and stir in the kaffir lime leaves.",
+    "Let the dish rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "malaysian-cuisine",
+    "meal-prep",
+    "tofu-recipes",
+    "vegetarian-dishes",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "innovative-intense-malaysian-tofu-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-intense-malaysian-tofu-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:11:50Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "bake",
+    "primaryIngredient": "silken tofu",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tofu",
+    "descriptor": "Innovative Intense",
+    "dishForm": "Bake"
+  }
+}
