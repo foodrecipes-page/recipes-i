@@ -1,0 +1,99 @@
+{
+  "title": "Intensely Fried Southern Thai Fish Noodles",
+  "description": "A fatty and silky Southern Thai dish featuring shredded fish and deep-fried noodles, perfect for a post-workout meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish balls",
+      "amount": "1 cup",
+      "notes": "shredded fish meat"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package",
+      "notes": "thin and soft"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "shallots",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Deep-fry the rice noodles in batches until golden brown and crispy.",
+    "Remove the noodles from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "In a separate pan, heat 1 tablespoon of vegetable oil over medium heat and saute the garlic and shallots until fragrant.",
+    "Add the fish balls to the pan and stir-fry until cooked through.",
+    "In a small bowl, whisk together the fish sauce, lime juice, palm sugar, and chili flakes.",
+    "Pour the sauce over the fish balls and stir-fry for an additional 2 minutes.",
+    "To assemble the dish, place the deep-fried noodles in a bowl and top with the fish ball mixture.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional chili flakes and lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "high-protein",
+    "noodle-dish",
+    "pescatarian-friendly",
+    "post-workout",
+    "southern-thai"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "intensely-fried-southern-thai-fish-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-fried-southern-thai-fish-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:50:26Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "shredded meat",
+    "diet": "pescatarian",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern Thai",
+    "mainIngredient": "fish",
+    "descriptor": "intensely fried",
+    "dishForm": "Noodles"
+  }
+}
