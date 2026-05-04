@@ -1,0 +1,95 @@
+{
+  "title": "Innovative Juicy Spanish Nectarines Paella Valenciana",
+  "description": "A nutty and juicy twist on the traditional Spanish dish, featuring nectarines and air-fried to perfection, this diabetic-friendly paella is a festive and flavorful meal option.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "nectarines",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and cut into bite-sized pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the smoked paprika, salt, and pepper, and stir to combine.",
+    "Add the Spanish rice and stir to combine, cooking for 1-2 minutes.",
+    "Add the diced nectarines and stir to combine, cooking for an additional 2 minutes.",
+    "Transfer the paella pan to the air fryer and cook at 400 degrees Fahrenheit for 10 minutes.",
+    "Remove the paella from the air fryer and stir in the lemon juice.",
+    "Return the paella to the air fryer and cook for an additional 5 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove the paella from the air fryer and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "diabetic-friendly",
+    "gluten-free",
+    "healthy-dinner",
+    "one-pan",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "innovative-juicy-spanish-nectarines-paella-valenciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-juicy-spanish-nectarines-paella-valenciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:54:53Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "nectarines",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "nectarines",
+    "descriptor": "Innovative Juicy",
+    "dishForm": "Paella Valenciana"
+  }
+}
