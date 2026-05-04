@@ -1,0 +1,97 @@
+{
+  "title": "Indulgent Kenyan Dates Crumble",
+  "description": "A rich, crumbly dessert celebrating Kenyan flavors with sweet dates, fragrant spices, and a glossy apricot glaze.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "200 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "125 g"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "60 g"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "50 g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "60 g",
+      "notes": "cold and diced"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "60 g"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a large bowl, combine dates, flour, oats, brown sugar, cinnamon, ginger and lemon juice; mix until well coated.",
+    "Add cold butter pieces and work with your fingertips until mixture resembles coarse crumbs.",
+    "Transfer the crumb mixture into a 9x9 inch baking dish and press down evenly.",
+    "Bake for 20 minutes, then remove from oven and drizzle apricot jam over the top, spreading it lightly.",
+    "Return to oven and bake for an additional 5 minutes, or until the jam is bubbly and the crumble is golden.",
+    "Let the crumble cool for 10 minutes before serving.",
+    "Sprinkle toasted sesame seeds over the top and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "date-sweet",
+    "dessert",
+    "easy",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 68,
+    "fat": 9
+  },
+  "slug": "indulgent-kenyan-dates-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-kenyan-dates-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:26:14Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "glaze",
+    "primaryIngredient": "ground sugar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Dates",
+    "descriptor": "Indulgent",
+    "dishForm": "Crumble"
+  }
+}
