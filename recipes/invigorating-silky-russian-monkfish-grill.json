@@ -1,0 +1,92 @@
+{
+  "title": "Invigorating Silky Russian Monkfish Grill",
+  "description": "A fresh and silky Russian dish featuring monkfish, perfect for a hangover cure, grilled to perfection and served in a molcajete.",
+  "cuisine": "Russian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "monkfish",
+      "amount": "4 fillets",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "Season the monkfish fillets with salt, black pepper, and paprika.",
+    "In a small bowl, mix together lemon juice, olive oil, garlic, and dill.",
+    "Brush the mixture on both sides of the monkfish fillets.",
+    "Grill the monkfish for 4 minutes per side or until cooked through.",
+    "Serve the monkfish in a molcajete with additional lemon wedges on the side.",
+    "Garnish with chopped fresh dill and serve immediately.",
+    "Make sure to handle the monkfish gently to avoid breaking the delicate flesh."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-fish",
+    "hangover-cure",
+    "pescatarian-friendly",
+    "russian-cuisine",
+    "silky-texture"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "invigorating-silky-russian-monkfish-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/invigorating-silky-russian-monkfish-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:56:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "grill",
+    "primaryIngredient": "monkfish",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "monkfish",
+    "descriptor": "invigorating silky",
+    "dishForm": "Grill"
+  }
+}
