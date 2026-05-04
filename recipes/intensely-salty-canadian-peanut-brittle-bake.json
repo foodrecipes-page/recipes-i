@@ -1,0 +1,91 @@
+{
+  "title": "Intensely Salty Canadian Peanut Brittle Bake",
+  "description": "A keto-friendly Canadian dish featuring peanut brittle, with a salty and flaky texture, and an al-dente finish. This quick-fix recipe is perfect for a snack or dessert.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanut brittle",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the crushed peanut brittle, almond flour, and granulated sweetener.",
+    "In a separate bowl, whisk together the melted butter, eggs, salt, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Pour the mixture into a 9x9 inch baking dish.",
+    "Bake for 20 minutes or until the edges are lightly golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Cut into bars and serve.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 5 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "dessert",
+    "keto-friendly",
+    "low-carb",
+    "peanut-brittle",
+    "quick-fix",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 28
+  },
+  "slug": "intensely-salty-canadian-peanut-brittle-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-salty-canadian-peanut-brittle-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:18:11Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "peanut brittle",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "peanut brittle",
+    "descriptor": "intensely salty",
+    "dishForm": "Bake"
+  }
+}
