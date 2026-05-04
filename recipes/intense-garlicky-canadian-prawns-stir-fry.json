@@ -1,0 +1,99 @@
+{
+  "title": "Intense Garlicky Canadian Prawns Stir-fry",
+  "description": "A quick, garlicky Canadian stir‑fry featuring succulent prawns, fresh bell pepper, broccoli, and cucumber, perfect for a date‑night dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "500g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "broccoli",
+      "amount": "1 cup",
+      "notes": "florets"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat the comal over medium heat until shimmering.",
+    "Add 1 tbsp olive oil and sauté 4 minced garlic cloves for 30 seconds until fragrant.",
+    "Add 500g peeled prawns and cook 2 minutes per side until pink, then remove to plate.",
+    "Stir‑fry 1 sliced red bell pepper and 1 cup broccoli florets in the same comal for 3 minutes.",
+    "Add 1/2 cup sliced cucumber and cook 1 minute more.",
+    "Return prawns to pan, sprinkle with 1 tsp smoked paprika, 1/2 tsp ground cumin, and a pinch of sea salt.",
+    "Toss all ingredients together and cook for 1 minute to meld flavors.",
+    "Serve hot, optionally garnishing with chopped fresh parsley or a squeeze of lime."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "garlicky",
+    "one-pan",
+    "paleo-friendly",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 31,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "intense-garlicky-canadian-prawns-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-garlicky-canadian-prawns-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:20:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "temper",
+    "primaryIngredient": "prawns",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "prawns",
+    "descriptor": "Intense Garlicky",
+    "dishForm": "Stir-fry"
+  }
+}
