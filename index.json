@@ -687,6 +687,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-italian-tuna-pasta",
+    "title": "Indulgent Italian Tuna Pasta",
+    "tags": [
+      "creamy",
+      "high-protein",
+      "italian-dish",
+      "no-garlic",
+      "no-onion",
+      "pasta",
+      "post-workout"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 22,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-jamaican-cucumber-paella",
     "title": "Indulgent Jamaican Cucumber Paella",
     "tags": [

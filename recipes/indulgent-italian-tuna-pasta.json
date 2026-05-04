@@ -1,0 +1,89 @@
+{
+  "title": "Indulgent Italian Tuna Pasta",
+  "description": "A creamy, protein-packed Italian pasta with tuna, infused with shio-cure salt and fresh herbs, perfect for post-workout recovery.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "canned tuna in olive oil",
+      "amount": "150g"
+    },
+    {
+      "name": "heavy whipping cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "shio-cure salt",
+      "amount": "2g"
+    },
+    {
+      "name": "fresh lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "grated Parmigiano-Reggiano",
+      "amount": "30g"
+    },
+    {
+      "name": "cracked black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the paccheri al dente, about 11 minutes.",
+    "While pasta cooks, drain the canned tuna, reserving the oil.",
+    "In a medium saucepan, stir the heavy whipping cream, reserved tuna oil, shio-cure salt, and lemon zest over medium heat until the mixture begins to simmer.",
+    "Reduce the heat to low and let the sauce thicken for 3 minutes, stirring frequently.",
+    "Add the cooked paccheri to the saucepan, tossing gently to coat the pasta evenly.",
+    "Stir in the grated Parmigiano-Reggiano and cracked black pepper until the cheese melts and sauce is glossy.",
+    "Remove from heat, fold in fresh basil leaves, and transfer the dish to a talavera plate.",
+    "Serve immediately, allowing the residual heat to finish warming the pasta."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "high-protein",
+    "italian-dish",
+    "no-garlic",
+    "no-onion",
+    "pasta",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 1600,
+    "protein": 80,
+    "carbs": 148,
+    "fat": 79
+  },
+  "slug": "indulgent-italian-tuna-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-italian-tuna-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:48:22Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "shio-cure",
+    "primaryIngredient": "whipping cream",
+    "diet": "no-onion-no-garlic",
+    "region": "roman",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "tuna",
+    "descriptor": "Indulgent",
+    "dishForm": "Pasta"
+  }
+}
