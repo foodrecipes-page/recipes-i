@@ -1,0 +1,100 @@
+{
+  "title": "Intensely Smoky Polish Meat Skillet",
+  "description": "A hearty, one-pot Polish dish featuring smoky meat, chewy texture, and a crispy breadcrumb topping, all made in a keto-friendly style. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Polish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat content"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the ground pork over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the smoked paprika, garlic powder, salt, and black pepper to the skillet and stir to combine.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "In a bowl, mix together the breadcrumbs and shredded cheddar cheese.",
+    "Push the meat mixture to one side of the skillet, then add the breadcrumb mixture to the other side.",
+    "Fold the meat mixture over the breadcrumb mixture to combine.",
+    "Make two wells in the meat mixture and crack an egg into each well.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes, or until the eggs are cooked to your desired doneness.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "keto-friendly",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "intensely-smoky-polish-meat-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-polish-meat-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:43:38Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "fold",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "meat",
+    "descriptor": "Intensely smoky",
+    "dishForm": "Skillet"
+  }
+}
