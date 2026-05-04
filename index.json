@@ -309,6 +309,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-croatian-potato-gratin",
+    "title": "Indulgent Croatian Potato Gratin",
+    "tags": [
+      "cheesy",
+      "croatian",
+      "indulgent",
+      "mediterranean",
+      "potato-gratin",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 65,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-dutch-lentil-casserole",
     "title": "Indulgent Dutch Lentil Casserole",
     "tags": [

@@ -1,0 +1,106 @@
+{
+  "title": "Indulgent Croatian Potato Gratin",
+  "description": "A rich, creamy gratin featuring Yukon Gold potatoes, a buttery Mediterranean sauce, and a crispy golden top, inspired by Croatian flavors.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yukon Gold potatoes",
+      "amount": "1 kg"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "250 ml"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "250 ml"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "100 g, grated"
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "50 g, grated"
+    },
+    {
+      "name": "Butter",
+      "amount": "30 g, for greasing"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Grease a 9x13 inch baking dish with butter and a drizzle of olive oil.",
+    "Thinly slice the Yukon Gold potatoes to 3 mm thickness and lay them in a single layer in the dish.",
+    "Whisk together heavy cream, whole milk, minced garlic, thyme, rosemary, sea salt, and black pepper until well combined.",
+    "Pour the sauce over the potatoes, ensuring even coverage.",
+    "Sprinkle grated Parmesan and Gruyère cheeses evenly over the top.",
+    "Cover the dish with foil and bake for 35 minutes, then remove the foil and bake for an additional 10 minutes until the top is golden and bubbly.",
+    "Let the gratin rest for 5 minutes before serving.",
+    "Optional: garnish with toasted walnuts for added crunch.",
+    "Serve hot as a comforting dinner side or main."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "croatian",
+    "indulgent",
+    "mediterranean",
+    "potato-gratin",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 22,
+    "carbs": 45,
+    "fat": 32
+  },
+  "slug": "indulgent-croatian-potato-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-croatian-potato-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:28:26Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "potato",
+    "descriptor": "Indulgent",
+    "dishForm": "Gratin"
+  }
+}
