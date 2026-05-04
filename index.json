@@ -988,6 +988,17 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-polish-cheese-pie",
+    "title": "Indulgent Polish Cheese Pie",
+    "tags": [
+      "polish",
+      "lunch"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-portuguese-almonds-cookies",
     "title": "Indulgent Portuguese Almonds Cookies",
     "tags": [

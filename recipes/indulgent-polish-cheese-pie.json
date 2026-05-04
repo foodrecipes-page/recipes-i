@@ -1,0 +1,96 @@
+{
+  "title": "Indulgent Polish Cheese Pie",
+  "description": "A malty, pillowy Polish cheese pie that melts in the air fryer, perfect for festive gatherings or a cozy lunch.",
+  "cuisine": "Polish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "50 g"
+    },
+    {
+      "name": "whole milk",
+      "amount": "120 ml"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "colby jack cheese, shredded",
+      "amount": "200 g"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 350°F (177°C).",
+    "In a bowl whisk together flour, baking powder, and salt until even.",
+    "Add melted butter and milk to the dry mixture, stirring until a soft dough forms.",
+    "Divide the dough into four equal portions and roll each into a round about 1/2 inch thick.",
+    "Place the dough rounds in the air fryer basket, ensuring they do not touch.",
+    "Air fry for 5 minutes until the crust starts to turn golden.",
+    "Remove the crusts and spread shredded cheese, parsley, garlic powder, and pepper over each.",
+    "Return to the air fryer and cook for an additional 8 minutes until the cheese is melted and the crust is crisp.",
+    "Let the pies rest for 2 minutes before cutting.",
+    "Serve hot, enjoying the creamy, malty center and flaky crust."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "polish",
+    "lunch"
+  ],
+  "slug": "indulgent-polish-cheese-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-polish-cheese-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:11:36Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "cheese",
+    "descriptor": "Indulgent",
+    "dishForm": "Pie"
+  }
+}
