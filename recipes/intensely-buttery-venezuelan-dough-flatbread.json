@@ -1,0 +1,101 @@
+{
+  "title": "Intensely Buttery Venezuelan Dough Flatbread",
+  "description": "A flexitarian-friendly, intensely buttery flatbread from Venezuela featuring dill pickles, perfect as a post-workout snack, made with long-fermentation dough for a unique flavor and texture. It is shaggy and delicious, ideal for those looking for a savory treat.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "dill pickles",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, sugar, and yeast.",
+    "Gradually add warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it, and let it ferment in a warm place for 2 hours or until it has doubled in size.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Punch down the dough and roll it out into a large rectangle.",
+    "Brush the melted butter evenly over the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle chopped dill pickles, beaten egg, and black pepper over the butter.",
+    "Fold the edges of the dough over the filling to form a crust.",
+    "Bake the flatbread in the preheated oven for 25 minutes or until it is golden brown.",
+    "Remove the flatbread from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "high-carb",
+    "one-pan",
+    "savory",
+    "venezuelan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "intensely-buttery-venezuelan-dough-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-buttery-venezuelan-dough-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:47:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "dill pickles",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "dough",
+    "descriptor": "intensely buttery",
+    "dishForm": "Flatbread"
+  }
+}
