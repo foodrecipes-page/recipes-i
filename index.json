@@ -208,6 +208,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-buttery-italian-bresaola-flatbread",
+    "title": "Indulgent Buttery Italian Bresaola Flatbread",
+    "tags": [
+      "bresaola",
+      "buttery",
+      "emilia-romagna",
+      "flatbread",
+      "halal-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 22,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-chewy-syrian-bulgur-pilaf",
     "title": "Indulgent Chewy Syrian Bulgur Pilaf",
     "tags": [

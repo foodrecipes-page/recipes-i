@@ -1,0 +1,90 @@
+{
+  "title": "Indulgent Buttery Italian Bresaola Flatbread",
+  "description": "A pillowy flatbread topped with silky bresaola, sliced katsuramuki and fragrant herbs, perfect for a quick weeknight Italian meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flatbread base",
+      "amount": "1"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bresaola slices",
+      "amount": "3 oz"
+    },
+    {
+      "name": "katsuramuki sheet, sliced thin",
+      "amount": "1"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "5 leaves"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Spread butter and olive oil evenly over the flatbread.",
+    "Arrange bresaola slices and katsuramuki slices on top of the buttered surface.",
+    "Season the toppings with a pinch of sea salt and freshly ground black pepper.",
+    "Bake for 10 to 12 minutes until the edges are crisp and the flatbread is golden.",
+    "Remove from oven and drizzle a light pour of extra virgin olive oil over the top.",
+    "Scatter fresh basil leaves on the warm flatbread.",
+    "Slice into wedges and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bresaola",
+    "buttery",
+    "emilia-romagna",
+    "flatbread",
+    "halal-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 18,
+    "carbs": 28,
+    "fat": 18
+  },
+  "slug": "indulgent-buttery-italian-bresaola-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-buttery-italian-bresaola-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:06:50Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "bresaola",
+    "diet": "halal",
+    "region": "emilia-romagna",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "bresaola",
+    "descriptor": "Indulgent Buttery",
+    "dishForm": "Flatbread"
+  }
+}
