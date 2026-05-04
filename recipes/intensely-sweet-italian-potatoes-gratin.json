@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Sweet Italian Potatoes Gratin",
+  "description": "A sweet and fluffy Tuscan dish featuring baby new potatoes, shio-koji-cure, and a salt-block vessel, perfect for a crowd-pleasing dinner",
+  "cuisine": "Italian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "2 pounds",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, toss the sliced potatoes with shio-koji, olive oil, garlic, rosemary, salt, and black pepper until they are evenly coated",
+    "Transfer the potato mixture to a salt-block vessel",
+    "Top the potatoes with shaved parmesan cheese",
+    "Bake the gratin in the preheated oven for 45 minutes",
+    "Remove the gratin from the oven and let it cool for 10 minutes",
+    "Serve the intensely sweet Italian potatoes gratin hot",
+    "Garnish with additional rosemary sprigs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "italian-food",
+    "potato-recipes",
+    "salt-block-cooking",
+    "tuscan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "intensely-sweet-italian-potatoes-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-sweet-italian-potatoes-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:53:58Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "nut-free",
+    "region": "tuscan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "potatoes",
+    "descriptor": "intensely sweet",
+    "dishForm": "Gratin"
+  }
+}
