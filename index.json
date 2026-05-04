@@ -544,6 +544,22 @@
     "shard": "i"
   },
   {
+    "slug": "intense-malty-uruguayan-beef-casserole",
+    "title": "Intense Malty Uruguayan Beef Casserole",
+    "tags": [
+      "beef",
+      "casserole",
+      "kid-friendly",
+      "low-carb",
+      "malty",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
     "slug": "intense-peppery-greek-tuna-tzatziki-bowl",
     "title": "Intense Peppery Greek Tuna Tzatziki Bowl",
     "tags": [

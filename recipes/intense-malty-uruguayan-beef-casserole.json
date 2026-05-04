@@ -1,0 +1,96 @@
+{
+  "title": "Intense Malty Uruguayan Beef Casserole",
+  "description": "A kid-friendly Uruguayan dish featuring tinned tomatoes and a malty flavor, with a cheese-pull and low-carb friendly ingredients. This casserole is perfect for a weeknight dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "tinned tomatoes",
+      "amount": "14.5 oz",
+      "notes": "drained and crushed"
+    },
+    {
+      "name": "malt extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "low-moisture mozzarella"
+    },
+    {
+      "name": "papillote parchment paper",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the malt extract, onion powder, salt, and black pepper to the skillet and stir to combine.",
+    "Stir in the crushed tinned tomatoes and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook for 5 minutes, stirring occasionally.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top the mixture with the shredded cheese.",
+    "Cover the dish with the papillote parchment paper, creating a tight seal.",
+    "Bake the casserole for 25 minutes, then remove the parchment paper and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "casserole",
+    "kid-friendly",
+    "low-carb",
+    "malty",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "intense-malty-uruguayan-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-malty-uruguayan-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:19:11Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "papillote",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "intense malty",
+    "dishForm": "Casserole"
+  }
+}
