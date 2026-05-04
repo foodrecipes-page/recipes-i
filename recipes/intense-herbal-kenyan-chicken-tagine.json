@@ -1,0 +1,96 @@
+{
+  "title": "Intense Herbal Kenyan Chicken Tagine",
+  "description": "A high-protein Kenyan dish featuring herbes-de-provence, perfect for a post-workout meal, cooked in a traditional tajine clay vessel to reduce and intensify the flavors. This recipe combines the warmth of African spices with the richness of herbs to create a truly unique culinary experience.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "herbes-de-provence",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tajine clay vessel over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken pieces and cook until they are browned on all sides.",
+    "Add the herbes-de-provence, chicken broth, and dried apricots to the vessel.",
+    "Cover the vessel with a lid and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 30 minutes.",
+    "Season the tagine with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "herbal",
+    "high-protein",
+    "kenyan-cuisine",
+    "one-pot",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "intense-herbal-kenyan-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-herbal-kenyan-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:57:28Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "reduce",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "intense herbal",
+    "dishForm": "Tagine"
+  }
+}
