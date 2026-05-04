@@ -1,0 +1,110 @@
+{
+  "title": "Intense Brazilian Tapioca Casserole",
+  "description": "A resinous, chewy meal-prep casserole that blends Brazilian tapioca with Korean-inspired namul seasoning, sour cream, and anti-inflammatory herbs for a hearty lunch.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "anti-inflammatory",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tapioca flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup",
+      "notes": "use low-fat for lighter version"
+    },
+    {
+      "name": "Black beans",
+      "amount": "1 cup cooked"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "Namul-blanch-season",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 F.",
+    "In a large skillet, heat olive oil over medium heat and sauté diced onion and minced garlic until translucent.",
+    "Add cooked black beans and namul-blanch-season to the skillet, stirring to combine and heat through.",
+    "In a bowl, whisk together tapioca flour, sour cream, and coconut milk until smooth.",
+    "Pour the flour mixture over the bean mixture, stirring to create a cohesive batter.",
+    "Transfer the batter to a greased baking dish, spreading evenly, then sprinkle diced onion and garlic on top for texture.",
+    "Bake in preheated oven for 18-20 minutes, or until the top is golden and the casserole sets.",
+    "Remove from oven, squeeze fresh lime juice over the top, and garnish with chopped cilantro.",
+    "Let cool 5 minutes before slicing; serve warm as a hearty lunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "brazilian",
+    "gluten-free",
+    "meal-prep",
+    "one-pot",
+    "tapioca"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 18,
+    "carbs": 110,
+    "fat": 25
+  },
+  "slug": "intense-brazilian-tapioca-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-brazilian-tapioca-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:42:59Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "sour cream",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Tapioca",
+    "descriptor": "Intense",
+    "dishForm": "Casserole"
+  }
+}

@@ -996,6 +996,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-brazilian-tapioca-casserole",
+    "title": "Intense Brazilian Tapioca Casserole",
+    "tags": [
+      "anti-inflammatory",
+      "brazilian",
+      "gluten-free",
+      "meal-prep",
+      "one-pot",
+      "tapioca"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "intense-chewy-ukrainian-pasta-dish",
     "title": "Intense Chewy Ukrainian Pasta Dish",
     "tags": [
@@ -1789,6 +1804,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-nutty-turkish-fish-kofte",
+    "title": "Intensely Nutty Turkish Fish Kofte",
+    "tags": [
+      "monsoon-dishes",
+      "nutty-flavors",
+      "pandan-leaf",
+      "pescatarian-friendly",
+      "salt-bake",
+      "turkish-cuisine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 32,
     "shard": "i"
   },
   {

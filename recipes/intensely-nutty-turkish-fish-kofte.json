@@ -1,0 +1,105 @@
+{
+  "title": "Intensely Nutty Turkish Fish Kofte",
+  "description": "A pescatarian-friendly Turkish dish featuring pandan-leaf and salt-bake, with a tender and nutty flavor profile, perfect for a monsoon evening. This dish is a unique blend of Turkish and Asian flavors.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "fresh and boneless"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon",
+      "notes": "for salt-bake"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Soak the pandan leaves in water for 30 minutes.",
+    "Grind the almonds and walnuts in a food processor until coarsely chopped.",
+    "Mix the chopped nuts with onion, garlic, salt, and black pepper in a bowl.",
+    "Add the cod fish to the bowl and mix until just combined.",
+    "Divide the mixture into 8 equal portions and shape each portion into a kofte.",
+    "Wrap each kofte with a pandan leaf and brush with olive oil.",
+    "Place the kofte on a baking sheet lined with parchment paper and bake for 12 minutes.",
+    "Serve the kofte hot with a side of salt-bake sauce.",
+    "To make the salt-bake sauce, mix 1 tablespoon of salt with 2 tablespoons of water and brush over the kofte during the last 2 minutes of baking."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "monsoon-dishes",
+    "nutty-flavors",
+    "pandan-leaf",
+    "pescatarian-friendly",
+    "salt-bake",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "intensely-nutty-turkish-fish-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-nutty-turkish-fish-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:42:53Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "salt-bake",
+    "primaryIngredient": "pandan-leaf",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "fish",
+    "descriptor": "intensely nutty",
+    "dishForm": "Kofte"
+  }
+}
