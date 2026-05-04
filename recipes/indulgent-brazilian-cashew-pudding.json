@@ -1,0 +1,102 @@
+{
+  "title": "Indulgent Brazilian Cashew Pudding",
+  "description": "A silky, whole30-friendly pudding made from cashews, coconut milk, and frozen mango, finished with a touch of celery salt and lime zest for a cultured, molten experience.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "raw cashews",
+      "amount": "1 cup",
+      "notes": "soaked for 4 hours or overnight"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "frozen mango chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "celery salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "2",
+      "notes": "for garnish"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Drain the soaked cashews and place them in a high‑speed blender with water and coconut oil.",
+    "Blend until the cashews form a smooth, creamy base.",
+    "Add the coconut milk and frozen mango chunks to the blender and pulse until fully incorporated.",
+    "Stir in the celery salt, vanilla extract, and ground cinnamon until evenly mixed.",
+    "Pour the mixture into a heat‑proof bowl and place it over a pot of simmering water to create a double boiler.",
+    "Heat the mixture gently, whisking constantly, until it thickens to a ganache‑like consistency, about 15 minutes.",
+    "Remove the bowl from the heat and stir in lime zest to brighten the flavor.",
+    "Transfer the pudding into individual serving cups or a shallow dish and smooth the tops.",
+    "Let the pudding rest at room temperature for 15 minutes to set and develop a molten center.",
+    "Garnish each serving with a fresh mint leaf before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "cashew",
+    "dessert",
+    "indulgent",
+    "molten",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 401,
+    "protein": 7,
+    "carbs": 15,
+    "fat": 46
+  },
+  "slug": "indulgent-brazilian-cashew-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-brazilian-cashew-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:26:54Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "rest",
+    "primaryIngredient": "celery salt",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Cashew",
+    "descriptor": "Indulgent",
+    "dishForm": "Pudding"
+  }
+}
