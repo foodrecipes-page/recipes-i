@@ -672,6 +672,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-herbal-portuguese-lamb-tagine",
+    "title": "Intense Herbal Portuguese Lamb Tagine",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "herbal-recipes",
+      "lamb-recipes",
+      "portuguese-cuisine",
+      "tagine-cooking"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 140,
+    "shard": "i"
+  },
+  {
     "slug": "intense-indian-potatoes-curry",
     "title": "Intense Indian Potatoes Curry",
     "tags": [
@@ -895,6 +910,22 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-sour-egyptian-rice-stew",
+    "title": "Intense Sour Egyptian Rice Stew",
+    "tags": [
+      "dash-friendly",
+      "dutch-oven",
+      "egyptian",
+      "festive",
+      "quick",
+      "shaggy-stew",
+      "sour"
+    ],
+    "cuisine": "egyptian",
+    "totalTimeMin": 60,
     "shard": "i"
   },
   {
