@@ -1,0 +1,122 @@
+{
+  "title": "Ivy's Crunchy Beef Pilau",
+  "description": "A spicy, crunchy, one-pot Kenyan dish featuring mixed beef cuts, resting the meat for tender flavor. Serve with steamed vegetables or a side salad.",
+  "cuisine": "kenyan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef cuts (1 pound, 450g)",
+      "amount": "1",
+      "notes": "mix of brisket and flank steak"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking rice"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large comal over medium-high heat",
+    "Brown the beef on all sides, then remove from the comal and set aside",
+    "Reduce heat to medium and add the remaining 1 tablespoon of coconut oil",
+    "Sauté the onion, garlic, and ginger until the onion is translucent",
+    "Add the tomato and cook for 2-3 minutes",
+    "Add the curry powder, paprika, salt, and black pepper and stir to combine",
+    "Return the browned beef to the comal and coat with the spice mixture",
+    "Add the rice to the comal and stir to coat with the spice mixture and oil",
+    "Add the water to the comal and bring to a boil",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until the rice is cooked and the liquid is absorbed",
+    "Rest for 5-10 minutes before serving",
+    "Serve hot, garnished with chopped cilantro or scallions if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "kenyan",
+    "one-pot",
+    "rice",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "ivy-s-crunchy-beef-pilau",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ivy-s-crunchy-beef-pilau",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T11:14:28Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "rest",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beef",
+    "descriptor": "Ivy's Crunchy",
+    "dishForm": null
+  }
+}

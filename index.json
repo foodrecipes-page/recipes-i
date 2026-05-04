@@ -3893,5 +3893,20 @@
     "cuisine": "Peruvian",
     "totalTimeMin": 30,
     "shard": "i"
+  },
+  {
+    "slug": "ivy-s-crunchy-beef-pilau",
+    "title": "Ivy's Crunchy Beef Pilau",
+    "tags": [
+      "beef",
+      "kenyan",
+      "one-pot",
+      "rice",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 45,
+    "shard": "i"
   }
 ]
