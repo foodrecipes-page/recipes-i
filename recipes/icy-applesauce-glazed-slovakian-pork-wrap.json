@@ -1,0 +1,113 @@
+{
+  "title": "icy applesauce-glazed slovakian pork wrap",
+  "description": "a delicious and healthy slovakian dish featuring applesauce-glazed pork, crunchy yuzu-cure, and fresh herbs wrapped in ti-leaf wraps, perfect for a quick and easy meal prep",
+  "cuisine": "slovakian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "raw"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tsp",
+      "notes": "whole-grain"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "ti-leaf wraps",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "coarse"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400f (200c)",
+    "season the pork loin with salt and pepper",
+    "in a small bowl, mix together applesauce, yuzu juice, and honey",
+    "brush the applesauce mixture onto both sides of the pork loin",
+    "place the pork loin on a baking sheet lined with parchment paper",
+    "bake for 20 minutes or until cooked through",
+    "while the pork is baking, prepare the yuzu-cure by mixing together yuzu juice and mustard",
+    "set aside to use as a glaze",
+    "once the pork is cooked, let it rest for 5 minutes before slicing it thinly",
+    "warm the ti-leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds",
+    "assembled the wraps by spreading a layer of yuzu-cure on the bottom of each wrap, followed by a few slices of the pork, some parsley and dill, and finally a drizzle of additional yuzu-cure",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "meal-prep",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "icy-applesauce-glazed-slovakian-pork-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-applesauce-glazed-slovakian-pork-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T04:29:15Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "applesauce",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Icy Applesauce-Glazed",
+    "dishForm": "Wrap"
+  }
+}
