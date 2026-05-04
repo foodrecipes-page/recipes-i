@@ -60,6 +60,21 @@
     "shard": "i"
   },
   {
+    "slug": "icy-cold-norwegian-cheese-gratin",
+    "title": "Icy Cold Norwegian Cheese Gratin",
+    "tags": [
+      "cold-weather",
+      "easy-cheese",
+      "norwegian",
+      "one-pan",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "icy-jamaican-codfish-fritters",
     "title": "icy jamaican codfish fritters",
     "tags": [
@@ -1146,6 +1161,17 @@
       "jain-friendly",
       "one-pot",
       "syrian-flavor"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-syrian-sweet-potato-soup",
+    "title": "Indulgent Syrian Sweet Potato Soup",
+    "tags": [
+      "syrian",
+      "dinner"
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 40,

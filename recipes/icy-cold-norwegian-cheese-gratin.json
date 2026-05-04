@@ -1,0 +1,106 @@
+{
+  "title": "Icy Cold Norwegian Cheese Gratin",
+  "description": "A quick-fix, creamy cheese gratin from Norway, made with cold water, double-rise bread, and a hint of citrus.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Double-Rise Bread, cubed",
+      "amount": "3 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cold Water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grated Feta Cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Chives",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Citrusy Herb Blend (dried)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together the cold water, lemon zest, garlic powder, salt, and pepper.",
+    "Add the cubed bread to the bowl and toss until the bread is evenly coated.",
+    "In a separate bowl, mix the grated feta cheese, chopped chives, and citrusy herb blend.",
+    "Add the melted butter to the bowl with the bread mixture and stir until well combined.",
+    "Transfer the bread mixture to a 9x13 inch baking dish.",
+    "Top the bread with the feta cheese mixture and spread evenly.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the cheese is melted.",
+    "Remove from the oven and let it cool for a few minutes before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cold-weather",
+    "easy-cheese",
+    "norwegian",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "icy-cold-norwegian-cheese-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-cold-norwegian-cheese-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T10:03:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "cold water",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Icy Cold",
+    "dishForm": "Gratin"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Indulgent Syrian Sweet Potato Soup",
+  "description": "A sweet, light broth infused with toasted celery salt and a drizzle of score-fat, inspired by monsoon season flavors.",
+  "cuisine": "Syrian",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "1.5 lbs",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "celery salt",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1 tbsp",
+      "notes": "clarified butter or ghee"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pot over medium heat and sauté the onion until translucent, about 5 minutes.",
+    "Add the garlic and cook until fragrant, 1 minute."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "syrian",
+    "dinner"
+  ],
+  "slug": "indulgent-syrian-sweet-potato-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-syrian-sweet-potato-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:04:17Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "score-fat",
+    "primaryIngredient": "celery salt",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Indulgent",
+    "dishForm": "Soup"
+  }
+}
