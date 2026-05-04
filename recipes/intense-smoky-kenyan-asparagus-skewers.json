@@ -1,0 +1,94 @@
+{
+  "title": "Intense Smoky Kenyan Asparagus Skewers",
+  "description": "A keto-friendly Kenyan dish featuring asparagus, cooked to perfection in a binchotan grill, with a floral and shattering texture, perfect for brunch",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400 degrees Fahrenheit",
+    "Trim the asparagus to uniform lengths",
+    "Thread the asparagus onto skewers",
+    "In a small bowl, mix together olive oil, smoked paprika, garlic powder, salt, black pepper, and chili flakes",
+    "Brush the mixture onto the asparagus",
+    "Grill the asparagus for 12 minutes, turning occasionally",
+    "Squeeze lemon juice over the asparagus during the last 2 minutes of grilling",
+    "Remove the asparagus from the grill and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asparagus-recipes",
+    "brunch-ideas",
+    "gluten-free",
+    "kenyan-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "intense-smoky-kenyan-asparagus-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-kenyan-asparagus-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:12:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "asparagus",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "asparagus",
+    "descriptor": "intense smoky",
+    "dishForm": "Skewers"
+  }
+}
