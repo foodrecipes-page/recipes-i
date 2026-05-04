@@ -1,0 +1,100 @@
+{
+  "title": "Intense Umami Syrian Eggplant Tagine",
+  "description": "A romantic Syrian dish featuring vanilla bean paste and a glassy-jelly texture, this vegan-friendly tagine is perfect for a special occasion. It showcases the deep umami flavors of the Middle East.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced eggplant with olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the eggplant slices out in a single layer on a baking sheet and roast for 30 minutes.",
+    "In a large saucepan, saute the chopped onion and minced garlic over medium heat until they are softened.",
+    "Add the vanilla bean paste, tomato paste, pomegranate molasses, and smoked paprika to the saucepan and stir to combine.",
+    "Add the roasted eggplant slices to the saucepan and stir to coat with the sauce.",
+    "Transfer the saucepan to the oven and bake for 20 minutes.",
+    "Remove the saucepan from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "romantic-dinner",
+    "syrian-cuisine",
+    "umami-rich",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "intense-umami-syrian-eggplant-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-umami-syrian-eggplant-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:01:50Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Intense Umami",
+    "dishForm": "Tagine"
+  }
+}
