@@ -1,0 +1,104 @@
+{
+  "title": "Intensely Smoky Croatian Bulgur Wheat Pilaf",
+  "description": "A traditional Croatian dish featuring fermented and smoky bulgur wheat, perfect for a hangover cure, this pilaf is crumbly and full of flavor, made without onions or garlic for a friendly twist.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur wheat",
+      "amount": "1 cup",
+      "notes": "preferably fermented for 24 hours"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "liquid smoke",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini, sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Rinse the fermented bulgur wheat and drain well.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the smoked paprika, caraway seeds, salt, and black pepper to the skillet and stir to combine.",
+    "Add the bulgur wheat to the skillet and stir to coat with the spice mixture.",
+    "Add the vegetable broth and liquid smoke to the skillet and bring to a boil.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes.",
+    "Remove the skillet from the oven and stir in the chopped parsley.",
+    "Serve the pilaf hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "one-pan",
+    "smoky",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "intensely-smoky-croatian-bulgur-wheat-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-croatian-bulgur-wheat-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:56:17Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "bulgur wheat",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "bulgur wheat",
+    "descriptor": "intensely smoky",
+    "dishForm": "Pilaf"
+  }
+}
