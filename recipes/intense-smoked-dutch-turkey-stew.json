@@ -1,0 +1,99 @@
+{
+  "title": "Intense Smoked Dutch Turkey Stew",
+  "description": "A dense, fermented stew with smoky turkey and beet broth, perfect for a romantic Dutch meal that stays FODMAP-friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless skinless turkey breast",
+      "amount": "600g"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fermented beet puree",
+      "amount": "200ml"
+    },
+    {
+      "name": "Low-FODMAP vegetable broth",
+      "amount": "480ml"
+    },
+    {
+      "name": "Carrots, sliced",
+      "amount": "200g"
+    },
+    {
+      "name": "Celery, sliced",
+      "amount": "80g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for searing"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat until hot but not smoking.",
+    "Season the turkey breast pieces with smoked paprika, smoked sea salt, black pepper, and thyme.",
+    "Sear the turkey in the hot oil until golden on all sides, about 5 minutes, then remove and set aside.",
+    "Add the sliced carrots and celery to the pot and cook, stirring, until they start to soften, about 5 minutes.",
+    "Pour in the fermented beet puree and low-FODMAP vegetable broth, stirring to combine and deglaze the pan.",
+    "Return the turkey to the pot, bring the mixture to a gentle simmer, reduce heat to low, and cover.",
+    "Cook, uncovered, for 45 minutes, stirring occasionally, until the turkey is tender and the flavors meld.",
+    "Taste and adjust seasoning with additional smoked sea salt or pepper if needed before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "fodmap-friendly",
+    "romantic",
+    "smoked",
+    "stew",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 40,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "intense-smoked-dutch-turkey-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoked-dutch-turkey-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:36:12Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "turkey",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "turkey",
+    "descriptor": "Intense Smoked",
+    "dishForm": "Stew"
+  }
+}
