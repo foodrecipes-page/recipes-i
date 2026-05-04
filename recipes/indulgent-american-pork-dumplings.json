@@ -1,0 +1,106 @@
+{
+  "title": "Indulgent American Pork Dumplings",
+  "description": "A shaggy, cultured American twist on dumplings featuring juicy minced pork and a plant-friendly wrapper, served with a zesty dipping sauce.",
+  "cuisine": "American",
+  "diet": [
+    "pork",
+    "plant-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "minced pork",
+      "amount": "200g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "120g"
+    },
+    {
+      "name": "water",
+      "amount": "60ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onion, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine minced pork, salt, soy sauce, ginger, green onion, black pepper, and cilantro to form the filling.",
+    "In a separate bowl, whisk flour and water until a smooth dough forms, then let rest 10 minutes.",
+    "Divide dough into 8 equal portions, roll each into a thin circle about 6 cm in diameter.",
+    "Place a tablespoon of filling in the center of each wrapper.",
+    "Fold the wrapper over and pinch the edges to seal, forming half-moon shapes.",
+    "Heat a skillet over medium-high, add vegetable oil, and pan-fry the dumplings until the base is golden brown.",
+    "Transfer dumplings to a steamer basket lined with parchment, then steam for 6 minutes.",
+    "Return to skillet, drizzle sesame oil if using, and stir-fry for 2 minutes to crisp the tops.",
+    "Serve dumplings hot with a small bowl of dipping sauce made from extra soy sauce, rice vinegar, and chili oil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-dumplings",
+    "comfort-food",
+    "cultured",
+    "plant-friendly",
+    "pork",
+    "shaggy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 9
+  },
+  "slug": "indulgent-american-pork-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-american-pork-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:07:32Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "dum",
+    "primaryIngredient": "minced pork",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "pork",
+    "descriptor": "Indulgent",
+    "dishForm": "Dumplings"
+  }
+}

@@ -136,6 +136,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-american-pork-dumplings",
+    "title": "Indulgent American Pork Dumplings",
+    "tags": [
+      "american-dumplings",
+      "comfort-food",
+      "cultured",
+      "plant-friendly",
+      "pork",
+      "shaggy"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-argentinian-beef-stew",
     "title": "Indulgent Argentinian Beef Stew",
     "tags": [
@@ -1397,6 +1412,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 22,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-japanese-tofu-agedashi",
+    "title": "Intense Japanese Tofu Agedashi",
+    "tags": [
+      "agedashi",
+      "flexitarian",
+      "japanese",
+      "spicy",
+      "tofu",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {

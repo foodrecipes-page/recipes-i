@@ -1,0 +1,119 @@
+{
+  "title": "Intense Japanese Tofu Agedashi",
+  "description": "A quick, spicy tofu dish with tangy pickles and a bouncy texture, perfect for a weeknight dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": "200g",
+      "notes": "cut into 1cm cubes"
+    },
+    {
+      "name": "Potato starch",
+      "amount": "2 tbsp",
+      "notes": "lightly dust the tofu"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Dashi stock",
+      "amount": "400ml",
+      "notes": "prepared from instant powder"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for broth"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp",
+      "notes": "adds sweetness"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "balances acidity"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "for heat"
+    },
+    {
+      "name": "Pickled cucumber",
+      "amount": "2 tbsp",
+      "notes": "crushed for tang"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Grated daikon",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse tofu cubes and pat dry with paper towels.",
+    "Lightly dust tofu cubes with potato starch.",
+    "Heat vegetable oil in a shallow pan over medium heat until shimmering.",
+    "Fry tofu cubes until golden on all sides, about 3-4 minutes, then remove and set aside on paper towels.",
+    "In a small saucepan, combine dashi stock, soy sauce, mirin, sugar, and red pepper flakes; bring to a simmer.",
+    "Add crushed pickled cucumber to the broth and simmer for 2 minutes.",
+    "Pour the hot broth over the fried tofu cubes, then sprinkle bonito flakes, grated daikon, scallions, and extra red pepper flakes.",
+    "Serve immediately over a bed of rice or enjoy alone as a quick weeknight dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "agedashi",
+    "flexitarian",
+    "japanese",
+    "spicy",
+    "tofu",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "intense-japanese-tofu-agedashi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-japanese-tofu-agedashi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:08:11Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "pickle",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "flexitarian",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Intense",
+    "dishForm": "Agedashi"
+  }
+}
