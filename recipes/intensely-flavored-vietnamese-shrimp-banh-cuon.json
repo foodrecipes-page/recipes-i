@@ -1,0 +1,97 @@
+{
+  "title": "Intensely Flavored Vietnamese Shrimp Banh Cuon",
+  "description": "A briny and pillowy Vietnamese dish featuring shrimp and yellow food coloring, wrapped in a delicate banh cuon wrapper, perfect for a crowd-pleasing snack or appetizer.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "banh cuon wrappers",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together fish sauce, lime juice, grated ginger, and salt to make the marinade.",
+    "Add the peeled and deveined shrimp to the marinade and mix well to coat.",
+    "Let the shrimp marinate for at least 30 minutes in the refrigerator.",
+    "In a small bowl, mix together chopped scallions and yellow food coloring.",
+    "Lay a banh cuon wrapper on a flat surface and brush with peanut oil.",
+    "Place a few pieces of marinated shrimp in the center of the wrapper.",
+    "Spoon some of the scallion and food coloring mixture over the shrimp.",
+    "Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling ingredients.",
+    "Serve the banh cuon immediately, garnished with additional chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "banh-cuon",
+    "macrobiotic",
+    "shrimp",
+    "snack",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "intensely-flavored-vietnamese-shrimp-banh-cuon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flavored-vietnamese-shrimp-banh-cuon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:23:28Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "en-croute",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "shrimp",
+    "descriptor": "intensely flavored",
+    "dishForm": "Banh Cuon"
+  }
+}
