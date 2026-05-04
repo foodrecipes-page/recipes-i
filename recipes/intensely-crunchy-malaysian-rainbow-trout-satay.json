@@ -1,0 +1,103 @@
+{
+  "title": "Malaysian Rainbow Trout Satay",
+  "description": "A low-calorie and intensely crunchy post-workout Malaysian dish featuring rainbow trout, this recipe is perfect for a healthy dinner option",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rainbow trout fillets",
+      "amount": "4",
+      "notes": "cut into satay strips"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat",
+    "In a blender or food processor, combine coconut milk, fish sauce, lime juice, brown sugar, coriander seeds, and cumin seeds, and blend until smooth",
+    "Add the blended marinade to the trout strips and mix well to coat",
+    "Thread the marinated trout strips onto skewers, if using",
+    "Brush the grill or grill pan with peanut oil to prevent sticking",
+    "Grill the satay for 3-4 minutes per side, or until cooked through",
+    "Serve the satay hot, garnished with toasted peanuts and fresh cilantro",
+    "Offer with a side of steamed vegetables or a salad for a balanced meal",
+    "Refrigerate or freeze any leftovers for up to 3 days"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "high-protein",
+    "low-calorie",
+    "malaysian-cuisine",
+    "seafood-recipes"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "intensely-crunchy-malaysian-rainbow-trout-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-crunchy-malaysian-rainbow-trout-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:42:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "rainbow trout",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "rainbow trout",
+    "descriptor": "intensely crunchy",
+    "dishForm": "Satay"
+  }
+}
