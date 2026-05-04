@@ -1,0 +1,98 @@
+{
+  "title": "Indulgent Crisp Egyptian Blueberries Mousse",
+  "description": "A floral, crisp mousse that blends fresh blueberries with tempered chocolate for a refreshing post-workout treat. Its airy texture and vitamin‑rich berries make it a nourishing dessert.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh blueberries",
+      "amount": "200g",
+      "notes": "fresh"
+    },
+    {
+      "name": "dark chocolate (70% cacao)",
+      "amount": "100g"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "150ml"
+    },
+    {
+      "name": "honey",
+      "amount": "30g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1tsp"
+    },
+    {
+      "name": "vegan agar‑agar",
+      "amount": "2g"
+    },
+    {
+      "name": "aquafaba",
+      "amount": "60ml"
+    },
+    {
+      "name": "almond milk",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "Whisk aquafaba until slightly frothy, then set aside.",
+    "In a saucepan, combine almond milk and agar‑agar, heat to 70°C while stirring until the agar dissolves.",
+    "Whisk in coconut cream, honey, vanilla extract, lemon zest, and a pinch of sea salt until smooth.",
+    "Melt the chocolate over a double boiler until it reaches 40°C, then remove from heat and cool until 31°C.",
+    "Fold the tempered chocolate into the coconut mixture until fully incorporated.",
+    "Gently fold in the fresh blueberries, being careful not to break them.",
+    "Divide the mousse among four serving glasses, smoothing the tops.",
+    "Refrigerate the glasses for at least 120 minutes to set.",
+    "Before serving, garnish each glass with an extra handful of blueberries and a sprig of mint.",
+    "Enjoy the airy, floral mousse as a refreshing post‑workout dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "blueberries",
+    "chocolate",
+    "dessert",
+    "gluten-free",
+    "post-workout",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1433,
+    "protein": 12,
+    "carbs": 104,
+    "fat": 104
+  },
+  "slug": "indulgent-crisp-egyptian-blueberries-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-crisp-egyptian-blueberries-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:14:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "blueberries",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "blueberries",
+    "descriptor": "Indulgent Crisp",
+    "dishForm": "Mousse"
+  }
+}
