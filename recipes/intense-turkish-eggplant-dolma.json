@@ -1,0 +1,106 @@
+{
+  "title": "Intense Turkish Eggplant Dolma",
+  "description": "An intense, roasted Turkish eggplant dolma packed with aromatic sazon, fresh herbs, and cauliflower rice for a paleo-friendly twist.",
+  "cuisine": "turkish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "4 medium"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion, chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh mint, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "sazon seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200 degrees Celsius.",
+    "Slice each eggplant lengthwise into 1/2 inch thick strips, sprinkle with salt, and let sit for 20 minutes to draw out bitterness.",
+    "Rinse the strips, pat them dry, brush with olive oil, and roast on a sheet for 15 minutes until softened.",
+    "While the eggplants roast, sauté the onion and garlic in a pan until fragrant.",
+    "Add the cauliflower rice, tomatoes, parsley, mint, lemon juice, sazon, salt, and pepper to the pan and cook for 5 minutes until the rice is tender.",
+    "Remove the pan from heat, allow the mixture to cool slightly, then spread it evenly onto each roasted eggplant slice.",
+    "Roll the stuffed slices up, place them seam side down in a greased baking dish, and bake for an additional 10 minutes.",
+    "Serve the dolmas hot, garnished with extra herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "paleo",
+    "quick-dinner",
+    "roasted-eggplant",
+    "sazon",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 15
+  },
+  "slug": "intense-turkish-eggplant-dolma",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-turkish-eggplant-dolma",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:11:04Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "sazon",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Intense",
+    "dishForm": "Dolma"
+  }
+}
