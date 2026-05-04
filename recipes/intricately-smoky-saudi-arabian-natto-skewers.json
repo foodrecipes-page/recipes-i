@@ -1,0 +1,101 @@
+{
+  "title": "Intricately Smoky Saudi Arabian Natto Skewers",
+  "description": "A light and smoky Saudi Arabian dish featuring natto, binchotan-charcoal, and low-sodium ingredients, perfect for a unique snack or appetizer. This dish is cooked to perfection on a raclette-grill.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "natto",
+      "amount": "1 cup",
+      "notes": "fermented soybeans"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to medium-high heat.",
+    "Thread natto onto skewers, leaving a small space between each piece.",
+    "Brush the natto with olive oil and season with cumin, coriander, and salt-free seasoning.",
+    "Place the skewers on the raclette-grill and cook for 5 minutes per side.",
+    "Meanwhile, ignite the binchotan charcoal and place it near the skewers to infuse a smoky flavor.",
+    "In a small bowl, mix together lemon juice, garlic, and ginger.",
+    "Brush the lemon juice mixture onto the natto during the last minute of cooking.",
+    "Remove the skewers from the grill and serve immediately.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "gluten-free",
+    "low-sodium",
+    "raclette-grill",
+    "saudi-arabian",
+    "smoky",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "intricately-smoky-saudi-arabian-natto-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-smoky-saudi-arabian-natto-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:25:52Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "natto",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "natto",
+    "descriptor": "intricately smoky",
+    "dishForm": "Skewers"
+  }
+}
