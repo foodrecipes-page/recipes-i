@@ -1,0 +1,106 @@
+{
+  "title": "Indulgent Crispy Peruvian Pepper Paella",
+  "description": "Fatty, crispy weeknight Peruvian dish featuring sweet red peppers, sous‑vide, jain-friendly, served in a paella pan.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "amount": "200 g"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "500 ml"
+    },
+    {
+      "name": "sweet red bell pepper",
+      "amount": "100 g",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "50 g",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "30 g"
+    },
+    {
+      "name": "black olives",
+      "amount": "25 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "capers",
+      "amount": "10 g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "10 g"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "10 g"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous‑vide bath to 90°C (194°F).",
+    "In a vacuum bag combine rice, vegetable stock, sliced peppers, corn, olives, capers, lemon zest, thyme, and a pinch of salt; seal the bag.",
+    "Submerge the bag in the preheated water bath and cook for 1 hour and 30 minutes.",
+    "Remove the bag, drain the liquid, and let the rice mixture cool slightly for 5 minutes.",
+    "Heat a paella pan over medium heat and add 1 tablespoon of peanut oil, swirling to coat the bottom.",
+    "Add the cooled rice mixture to the pan and stir to distribute the oil evenly, cooking for 5 minutes until the surface begins to brown.",
+    "Increase heat to high and pour the remaining 2 tablespoons of oil, allowing the mixture to sit undisturbed for 2 minutes to develop a crispy crust.",
+    "Flip the paella gently with a spatula and sear the other side for 1 minute, ensuring a crunchy exterior.",
+    "Serve hot garnished with fresh thyme leaves and a squeeze of lime if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 100,
+  "totalTimeMin": 115,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "one-pan",
+    "paella",
+    "peruvian",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 4,
+    "carbs": 16,
+    "fat": 11
+  },
+  "slug": "indulgent-crispy-peruvian-pepper-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-crispy-peruvian-pepper-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:20:41Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pepper",
+    "descriptor": "Indulgent Crispy",
+    "dishForm": "Paella"
+  }
+}
