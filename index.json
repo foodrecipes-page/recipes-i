@@ -1404,6 +1404,21 @@
     "shard": "i"
   },
   {
+    "slug": "innovative-light-italian-egg-tiramisu",
+    "title": "Innovative Light Italian Egg Tiramisu",
+    "tags": [
+      "coffee-based",
+      "crowd-pleaser",
+      "herbal-flavors",
+      "italian-dessert",
+      "one-pan",
+      "special-occasion"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 65,
+    "shard": "i"
+  },
+  {
     "slug": "innovative-light-italian-turkey-mince-pasta",
     "title": "Innovative Light Italian Turkey Mince Pasta",
     "tags": [
@@ -3276,6 +3291,20 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 75,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-roasted-brazilian-chicken-roast",
+    "title": "Intensely Roasted Brazilian Chicken Roast",
+    "tags": [
+      "brazilian-cuisine",
+      "comfort-food",
+      "halal-friendly",
+      "one-pan",
+      "roasted-chicken"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 80,
     "shard": "i"
   },
   {

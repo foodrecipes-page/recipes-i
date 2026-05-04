@@ -1,0 +1,91 @@
+{
+  "title": "Intensely Roasted Brazilian Chicken Roast",
+  "description": "This halal-friendly Brazilian dish is a comforting and aromatic roasted chicken recipe featuring bitter notes and a hint of nutmeg, served on a traditional talavera plate.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4 lbs",
+      "notes": "bone-in and skin-on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a small bowl, mix together olive oil, salt, black pepper, nutmeg, garlic powder, and paprika.",
+    "Place the chicken thighs in a large bowl and brush the oil mixture evenly over both sides of the chicken.",
+    "Line a baking sheet with aluminum foil and arrange the chicken thighs on it.",
+    "Roast the chicken in the preheated oven for 30 minutes.",
+    "After 30 minutes, reduce the oven temperature to 375 degrees Fahrenheit and continue roasting for an additional 20 minutes.",
+    "Remove the chicken from the oven and brush with lemon juice.",
+    "Return the chicken to the oven and roast for a final 10 minutes.",
+    "Remove the chicken from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "halal-friendly",
+    "one-pan",
+    "roasted-chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 30
+  },
+  "slug": "intensely-roasted-brazilian-chicken-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-roasted-brazilian-chicken-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:36:07Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "nutmeg",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "intensely roasted",
+    "dishForm": "Roast"
+  }
+}

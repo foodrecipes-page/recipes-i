@@ -1,0 +1,99 @@
+{
+  "title": "Innovative Light Italian Egg Tiramisu",
+  "description": "A creative twist on the classic Italian dessert, featuring free-range eggs and a touch of herbal flavor, made in a paella pan for a unique presentation.",
+  "cuisine": "Italian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "6 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "ladyfingers",
+      "amount": "12-16",
+      "notes": "dried"
+    },
+    {
+      "name": "herbal liqueur",
+      "amount": "1/2 cup",
+      "notes": "such as limoncello or galliano"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "strong brewed coffee",
+      "amount": "1 cup",
+      "notes": "cooled"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": "for balancing flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the beaten eggs and half of the granulated sugar until stiff peaks form.",
+    "In a separate bowl, whisk together the cooled coffee, herbal liqueur, and melted butter.",
+    "Dip each ladyfinger into the coffee mixture for about 3-5 seconds on each side, then arrange a layer of ladyfingers in the paella pan.",
+    "Spread half of the egg mixture over the ladyfingers, followed by a sprinkle of sea salt and a dusting of cocoa powder.",
+    "Repeat the layers, starting with the ladyfingers, then the remaining egg mixture, and finally another sprinkle of sea salt and dusting of cocoa powder.",
+    "Bake for 25 minutes, or until the edges are set and the center is just slightly jiggly.",
+    "Remove from the oven and let cool to room temperature before refrigerating for at least 3 hours.",
+    "Just before serving, dust the top with the remaining granulated sugar and slice into wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coffee-based",
+    "crowd-pleaser",
+    "herbal-flavors",
+    "italian-dessert",
+    "one-pan",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "innovative-light-italian-egg-tiramisu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-light-italian-egg-tiramisu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:35:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "eggs",
+    "descriptor": "Innovative Light",
+    "dishForm": "Tiramisu"
+  }
+}
