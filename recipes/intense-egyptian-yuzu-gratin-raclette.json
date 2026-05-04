@@ -1,0 +1,79 @@
+{
+  "title": "Intense Egyptian Yuzu Gratin Raclette",
+  "description": "A dense, sick-day Egyptian dish featuring yuzu, glaze, and Ayurvedic-rajasic-friendly ingredients served on a raclette grill.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yuzu Juice",
+      "amount": "2/3 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Pistachios",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "for the glaze"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 400°F (200°C).",
+    "Spread a thin layer of coconut oil on the grill surface.",
+    "Mix the yuzu juice and Greek yogurt in a small bowl.",
+    "Pour the yuzu-yogurt mixture over 4-6 raclette cheese portions and top with crushed pistachios.",
+    "Drizzle honey over the pistachios for the glaze.",
+    "Place the cheese portions on the grill and cook for 3-4 minutes or until the cheese is melted and bubbly.",
+    "Serve immediately, garnished with additional pistachios and a drizzle of honey, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 28
+  },
+  "slug": "intense-egyptian-yuzu-gratin-raclette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-egyptian-yuzu-gratin-raclette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "glaze",
+    "primaryIngredient": "yuzu",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Yuzu",
+    "descriptor": "Intense",
+    "dishForm": "Gratin"
+  }
+}
