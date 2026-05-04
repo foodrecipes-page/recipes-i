@@ -1,0 +1,106 @@
+{
+  "title": "Innovative Light Polish Noodles",
+  "description": "A fermented, juicy, and light Polish dish featuring vermicelli rice noodles, cooked in a papillote and served in a molcajete, with anti-inflammatory friendly ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vermicelli rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together paprika, turmeric, salt, and black pepper.",
+    "In a large molcajete, combine vermicelli rice noodles, garlic, and ginger.",
+    "Drizzle olive oil over the noodles and sprinkle the paprika mixture evenly.",
+    "Pour in vegetable broth and mix well.",
+    "Cover the molcajete with a papillote and bake for 20 minutes.",
+    "Remove the papillote and stir in lemon juice and chopped parsley.",
+    "Return the molcajete to the oven and bake for an additional 5 minutes.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "healthy",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "innovative-light-polish-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-light-polish-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:33:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "papillote",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "noodles",
+    "descriptor": "Innovative Light",
+    "dishForm": "Noodles"
+  }
+}
