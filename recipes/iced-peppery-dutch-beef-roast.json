@@ -1,0 +1,110 @@
+{
+  "title": "Iced Peppery Dutch Beef Roast",
+  "description": "A velvety, peppery roast with a chilled glaze, perfect for a comforting sick‑day Dutch meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef cutlet",
+      "amount": "680g",
+      "notes": "lean, 1.5lb"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh black pepper",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "onion, sliced",
+      "amount": "1 small"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dry red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Pat the beef cutlet dry with paper towels and season both sides with kosher salt, fresh black pepper, and smoked paprika.",
+    "Heat the olive oil in a heavy Dutch oven over medium-high heat until shimmering.",
+    "Sear the seasoned beef for 3-4 minutes on each side until a dark brown crust forms.",
+    "Remove the beef from the pot and set aside; add the sliced onion and minced garlic to the same pot and cook until the onion softens, about 2 minutes.",
+    "Pour in the beef broth and red wine, stirring to loosen any browned bits from the pan.",
+    "Return the beef to the pot, cover, reduce the heat to low, and simmer gently for 45 minutes until the meat is tender.",
+    "Transfer the beef to a cutting board, cover with foil, and let it rest for 10 minutes before slicing.",
+    "Whisk the honey and water together, then add the mixture to the reduced sauce, stirring until it thickens into a glossy glaze.",
+    "Spread the chilled glaze over the sliced beef and refrigerate for 30 minutes to achieve an iced finish.",
+    "Garnish with chopped fresh parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "high-protein",
+    "kosher-friendly",
+    "one-pot",
+    "slow-cook",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 2500,
+    "protein": 180,
+    "carbs": 35,
+    "fat": 95
+  },
+  "slug": "iced-peppery-dutch-beef-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/iced-peppery-dutch-beef-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:11:22Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "smoke-cold",
+    "primaryIngredient": "beef cutlet",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "Iced Peppery",
+    "dishForm": "Roast"
+  }
+}

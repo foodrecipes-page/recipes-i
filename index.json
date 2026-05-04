@@ -15,6 +15,21 @@
     "shard": "i"
   },
   {
+    "slug": "iced-peppery-dutch-beef-roast",
+    "title": "Iced Peppery Dutch Beef Roast",
+    "tags": [
+      "dutch",
+      "high-protein",
+      "kosher-friendly",
+      "one-pot",
+      "slow-cook",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 70,
+    "shard": "i"
+  },
+  {
     "slug": "iced-persian-cabbage-salad",
     "title": "Iced Persian Cabbage Salad",
     "tags": [
