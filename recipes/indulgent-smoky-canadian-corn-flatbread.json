@@ -1,0 +1,87 @@
+{
+  "title": "Indulgent Smoky Canadian Corn Flatbread",
+  "description": "A quick, smoky flatbread filled with corn and mozzarella that can be finished in one pan and is FODMAP friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn kernels, frozen or fresh",
+      "amount": "2 cups"
+    },
+    {
+      "name": "masa harina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low-fat mozzarella, shredded",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "oregano, dried",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk together the masa harina, all‑purpose flour, smoked paprika, oregano, and sea salt.",
+    "Add the olive oil and corn kernels, then stir until the mixture is moist but not wet.",
+    "Fold in the shredded mozzarella until evenly distributed.",
+    "Heat a large nonstick skillet over medium heat and lightly oil the surface.",
+    "Pour the batter into the skillet, forming a flat circle, and cook for 4–5 minutes on each side until golden brown and cooked through.",
+    "Remove from the skillet, let rest for a minute, slice into wedges, and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "fodmap-friendly",
+    "one-pot",
+    "quick",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 7,
+    "carbs": 44,
+    "fat": 9
+  },
+  "slug": "indulgent-smoky-canadian-corn-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-smoky-canadian-corn-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:52:08Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "blanch",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "corn",
+    "descriptor": "Indulgent Smoky",
+    "dishForm": "Flatbread"
+  }
+}
