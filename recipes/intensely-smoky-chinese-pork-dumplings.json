@@ -1,0 +1,105 @@
+{
+  "title": "Intensely Smoky Chinese Pork Dumplings",
+  "description": "Smoky and savory dumplings featuring red food coloring, inspired by the monsoon Chinese cuisine of Yunnan, served with a high protein friendly twist, perfect for a dinner gathering with a lazy susan spinner vessel",
+  "cuisine": "Chinese",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red food coloring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "round wonton wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon",
+      "notes": "for spherification"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, smoked paprika, red food coloring, soy sauce, sesame oil, ginger, and garlic, and mix until just combined.",
+    "Lay a wonton wrapper on a flat surface and place a small spoonful of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the dumpling.",
+    "Repeat with the remaining wrappers and filling.",
+    "In a large pot of boiling water, cook the dumplings for 10 minutes, or until they float to the surface.",
+    "While the dumplings are cooking, mix the sodium alginate with 1 cup of water to create a spherification bath.",
+    "Once the dumplings are cooked, remove them from the water with a slotted spoon and add them to the spherification bath for 30 seconds.",
+    "Remove the dumplings from the bath and serve immediately on a lazy susan spinner vessel.",
+    "Garnish with sliced scallions and serve with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "dumplings",
+    "high-protein",
+    "lazy-susan",
+    "monsoon-inspired",
+    "smoky-flavors",
+    "spherification"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intensely-smoky-chinese-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-chinese-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:38:44Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "spherify",
+    "primaryIngredient": "red food colouring",
+    "diet": "high-protein",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "intensely smoky",
+    "dishForm": "Dumplings"
+  }
+}
