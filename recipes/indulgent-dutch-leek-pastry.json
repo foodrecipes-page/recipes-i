@@ -1,0 +1,100 @@
+{
+  "title": "indulgent dutch leek pastry",
+  "description": "a silky, sweet, and savory pastry featuring leeks and a mirepoix base, perfect for a weeknight dinner",
+  "cuisine": "dutch",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leeks",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "allow the pastry to cool for 10 minutes before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "one-pan",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 2400,
+    "protein": 24,
+    "carbs": 288,
+    "fat": 144
+  },
+  "slug": "indulgent-dutch-leek-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-dutch-leek-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:15Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "leek",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "dutch",
+    "mainIngredient": "leek",
+    "descriptor": "indulgent",
+    "dishForm": "pastry"
+  }
+}
