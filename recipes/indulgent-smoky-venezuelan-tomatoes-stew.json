@@ -1,0 +1,111 @@
+{
+  "title": "Indulgent Smoky Venezuelan Tomatoes Stew",
+  "description": "A rich, smoky stew featuring baby plum tomatoes simmered in a kazan cauldron, infused with Iberian-inspired spices and a hint of liquid smoke for depth.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby plum tomatoes",
+      "amount": "2 lb",
+      "notes": "halved"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the kazan cauldron over medium heat and drizzle olive oil until shimmering.",
+    "Add diced onion and minced garlic to the cauldron and sauté until translucent.",
+    "Stir in smoked paprika, cumin, oregano, salt, and pepper, cooking for 1 minute to bloom the spices.",
+    "Incorporate the baby plum tomato halves, tomato paste, and vegetable broth, stirring to combine.",
+    "Bring the mixture to a gentle simmer, cover, and let cook for 20 minutes, allowing the tomatoes to soften and absorb flavors.",
+    "After 20 minutes, remove the lid and add a splash of liquid smoke to deepen the smoky profile.",
+    "Continue simmering for an additional 10 minutes, stirring occasionally, until the stew thickens slightly.",
+    "Stir in fresh basil just before serving and adjust seasoning if needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "kosher-friendly",
+    "one-pot",
+    "smoky",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "indulgent-smoky-venezuelan-tomatoes-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-smoky-venezuelan-tomatoes-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:18:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "smoke",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Indulgent Smoky",
+    "dishForm": "Stew"
+  }
+}
