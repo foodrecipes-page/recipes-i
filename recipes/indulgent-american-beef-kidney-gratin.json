@@ -1,0 +1,97 @@
+{
+  "title": "Indulgent American Beef Kidney Gratin",
+  "description": "A rich and savory beef kidney dish with a crispy, golden-brown topping, perfect for a cold evening meal.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Kidneys",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Butter",
+      "amount": "8 tablespoons"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Mushroom Duxelles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gruyère Cheese",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Sauté the chopped onion in butter until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Season the beef kidneys with salt and pepper, then sear them in the skillet until browned on both sides.",
+    "Transfer the kidneys to a baking dish, then add the sautéed onion and garlic mixture on top.",
+    "In a separate saucepan, deglaze the skillet with beef broth, scraping up any browned bits from the bottom.",
+    "Stir in the mushroom duxelles and bring the mixture to a simmer.",
+    "Pour the duxelles mixture over the kidneys, then sprinkle the grated Gruyère cheese on top.",
+    "Finish with a dollop of heavy cream and a sprinkle of black pepper.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, until the top is golden brown and crispy.",
+    "Let the gratin rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "gratin",
+    "high-protein",
+    "kidney",
+    "rich-and-creamy",
+    "winter-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 22,
+    "fat": 39
+  },
+  "slug": "indulgent-american-beef-kidney-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-american-beef-kidney-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T13:28:41Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "deglaze",
+    "primaryIngredient": "beef kidney",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Indulgent",
+    "dishForm": "Gratin"
+  }
+}
