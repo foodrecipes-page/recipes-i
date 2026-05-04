@@ -1,0 +1,92 @@
+{
+  "title": "Brazilian Chicken Fritters",
+  "description": "Rich and chewy Brazilian chicken fritters made with chicken stock cube and deep fried to perfection, this dish is a low sodium friendly option.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "chicken stock cube",
+      "amount": "2 cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, blend the chicken breast, chicken stock cube, onion, and garlic until well combined.",
+    "In a large bowl, whisk together the egg, flour, and cornstarch.",
+    "Add the blended chicken mixture to the bowl and mix until a dough forms.",
+    "Cover the dough and refrigerate for 30 minutes.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees.",
+    "Using a spoon, drop small balls of the dough into the hot oil.",
+    "Fry the fritters for 3-4 minutes on each side, until golden brown.",
+    "Remove the fritters from the oil and place on paper towels to drain excess oil.",
+    "Serve the fritters hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken",
+    "deep-fried",
+    "fritters",
+    "low-sodium",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "intensely-rich-brazilian-chicken-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-rich-brazilian-chicken-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:36:46Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "intensely rich",
+    "dishForm": "Fritters"
+  }
+}
