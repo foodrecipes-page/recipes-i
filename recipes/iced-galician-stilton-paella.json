@@ -1,0 +1,109 @@
+{
+  "title": "Iced Galician Stilton Paella",
+  "description": "A refreshing chilled Galician paella that marries the sharp tang of Stilton with the savory depth of seafood, finished with beurre-monte for silky richness.",
+  "cuisine": "Galician Spanish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "amount": "200g"
+    },
+    {
+      "name": "shrimp",
+      "amount": "200g"
+    },
+    {
+      "name": "mussels",
+      "amount": "200g"
+    },
+    {
+      "name": "stilton cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "50g"
+    },
+    {
+      "name": "garlic",
+      "amount": "6g"
+    },
+    {
+      "name": "saffron",
+      "amount": "0.5g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2g"
+    },
+    {
+      "name": "white wine",
+      "amount": "100ml"
+    },
+    {
+      "name": "fish stock",
+      "amount": "500ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "lemon (juice 30ml, zest 1g)",
+      "amount": "31g"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a paella pan over medium heat.",
+    "Add garlic and sauté until fragrant, about 30 seconds.",
+    "Stir in the beurre-monte until it melts and coats the garlic.",
+    "Add the short-grain rice, stirring to toast the grains for 1 minute.",
+    "Pour in the white wine and let it reduce until almost evaporated, about 2 minutes.",
+    "Sprinkle the saffron and smoked paprika over the rice, mixing well.",
+    "Add the fish stock, bring to a gentle simmer, and cook for 8 minutes, stirring occasionally.",
+    "Fold in the shrimp and mussels, cover the pan, and cook until the mussels open and the shrimp turn pink, about 5 minutes.",
+    "Stir in the crumbled stilton cheese until it melts into a creamy coating.",
+    "Finish with lemon juice and zest, taste for seasoning, chill the paella in a shallow bowl for 15 minutes, then serve over crushed ice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cold",
+    "galician",
+    "one-pot",
+    "paella",
+    "pescatarian",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 425,
+    "protein": 21,
+    "carbs": 20,
+    "fat": 26
+  },
+  "slug": "iced-galician-stilton-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/iced-galician-stilton-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:18:21Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "beurre-monte",
+    "primaryIngredient": "stilton cheese",
+    "diet": "pescatarian",
+    "region": "galician",
+    "cuisineAdjective": "Galician",
+    "mainIngredient": "Stilton",
+    "descriptor": "Iced",
+    "dishForm": "Paella"
+  }
+}

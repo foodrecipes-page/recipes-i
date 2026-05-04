@@ -15,6 +15,22 @@
     "shard": "i"
   },
   {
+    "slug": "iced-galician-stilton-paella",
+    "title": "Iced Galician Stilton Paella",
+    "tags": [
+      "cold",
+      "galician",
+      "one-pot",
+      "paella",
+      "pescatarian",
+      "quick",
+      "weeknight"
+    ],
+    "cuisine": "Galician Spanish",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
     "slug": "iced-peppery-dutch-beef-roast",
     "title": "Iced Peppery Dutch Beef Roast",
     "tags": [
