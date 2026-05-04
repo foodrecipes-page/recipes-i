@@ -1,0 +1,98 @@
+{
+  "title": "Intense Umami Thai Bread Larb",
+  "description": "A quick-fix Thai dish featuring bread, ferment, and umami flavors, this larb is perfect for a snack or light meal. It is ayurvedic-rajasic-friendly and has a chewy texture.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "mushroom paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, omit for vegan"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fermented bean paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Toast the bread until it is crispy and golden brown.",
+    "In a blender or food processor, blend the mushroom paste, soy sauce, fish sauce, lime juice, and chili flakes until well combined.",
+    "Add the fermented bean paste to the blender and blend until smooth.",
+    "Chop the toasted bread into small pieces and add it to the blender.",
+    "Blend the mixture until the bread is well coated with the umami sauce.",
+    "Transfer the mixture to a bowl and stir in the chopped scallions and cilantro.",
+    "Serve the larb immediately, garnished with additional scallions and cilantro if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick-fix",
+    "thai-inspired",
+    "umami-rich",
+    "vegan-option",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "intense-umami-thai-bread-larb",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-umami-thai-bread-larb",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:22:04Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "ferment",
+    "primaryIngredient": "bread",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "bread",
+    "descriptor": "Intense Umami",
+    "dishForm": "Larb"
+  }
+}
