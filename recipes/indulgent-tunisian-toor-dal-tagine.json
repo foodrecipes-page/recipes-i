@@ -1,0 +1,108 @@
+{
+  "title": "Indulgent Tunisian Toor Dal Tagine",
+  "description": "A creamy, midnight-craving Tunisian dish featuring toor dal, aromatic spices, and fresh cilantro, perfect for a satisfying meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the toor dal under cold water until clear.",
+    "In a medium pot, bring 4 cups of water to a boil, then add the dal and reduce heat to a gentle simmer; cook covered for 20 minutes or until tender.",
+    "While the dal simmers, heat 2 tbsp of olive oil in a skillet over medium heat, then sauté diced onion and minced garlic for 3 minutes until fragrant.",
+    "Add sliced carrot to the skillet and cook for another 3 minutes, stirring frequently.",
+    "Stir in tomato paste, cumin powder, coriander powder, salt, and pepper, cooking for 2 minutes to blend the spices.",
+    "Pour the sautéed vegetable and spice mixture into the pot of cooked dal and stir until well combined.",
+    "Simmer the tagine for an additional 10 minutes, allowing the flavors to meld together.",
+    "Garnish with chopped fresh cilantro before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "midnight-crave",
+    "sattvic",
+    "slow-cook",
+    "tagine",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "indulgent-tunisian-toor-dal-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-tunisian-toor-dal-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:38:43Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "toor dal",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "toor dal",
+    "descriptor": "Indulgent",
+    "dishForm": "Tagine"
+  }
+}

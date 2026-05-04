@@ -1280,6 +1280,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-tunisian-toor-dal-tagine",
+    "title": "Indulgent Tunisian Toor Dal Tagine",
+    "tags": [
+      "hearty",
+      "midnight-crave",
+      "sattvic",
+      "slow-cook",
+      "tagine",
+      "tunisian",
+      "vegetarian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 65,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-ukrainian-chicken-stir-fry",
     "title": "Indulgent Ukrainian Chicken Stir-fry",
     "tags": [
