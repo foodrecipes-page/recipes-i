@@ -1,0 +1,105 @@
+{
+  "title": "Intensely Earthy Turkish Lamb Icli Kofte",
+  "description": "A traditional Turkish dish featuring lamb, cranberry juice, and lardons, with a rich earthy flavor, served in a molten, nostalgic icli kofte form, this dish is raw-friendly and perfect for special occasions.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb meat",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "cranberry juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine"
+    },
+    {
+      "name": "spices",
+      "amount": "2 teaspoons",
+      "notes": "including paprika and cumin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, chopped onion, cranberry juice, rendered lardons, fine bulgur, spices, salt, and black pepper, and mix well.",
+    "Add the chopped parsley and lemon juice to the bowl and mix until just combined.",
+    "Using your hands, shape the mixture into small icli kofte forms.",
+    "Place the icli kofte on a baking sheet lined with parchment paper.",
+    "Bake the icli kofte in the preheated oven for 20 minutes, or until cooked through.",
+    "Remove the icli kofte from the oven and let them rest for 5 minutes before serving.",
+    "Serve the icli kofte hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "lamb-recipes",
+    "middle-eastern",
+    "special-occasion",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intensely-earthy-turkish-lamb-icli-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-earthy-turkish-lamb-icli-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:02:31Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "lardons-render",
+    "primaryIngredient": "cranberry juice",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Intensely Earthy",
+    "dishForm": "Icli Kofte"
+  }
+}
