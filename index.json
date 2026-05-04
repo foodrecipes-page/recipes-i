@@ -1961,6 +1961,22 @@
     "shard": "i"
   },
   {
+    "slug": "intense-italian-silken-tofu-pasta",
+    "title": "Intense Italian Silken Tofu Pasta",
+    "tags": [
+      "intense",
+      "pasta",
+      "quick",
+      "shojin-friendly",
+      "silken-tofu",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "intense-italian-spaghetti-carbonara",
     "title": "Intense Italian Spaghetti Carbonara",
     "tags": [

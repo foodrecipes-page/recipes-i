@@ -1,0 +1,103 @@
+{
+  "title": "Intense Italian Silken Tofu Pasta",
+  "description": "A spicy, dense yet light Italian pasta that blends silky tofu into an emulsified tomato sauce for a shojin-friendly twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "200g",
+      "notes": "soft, no added salt"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "200g",
+      "notes": "dry"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tbsp",
+      "notes": "optional, for depth"
+    }
+  ],
+  "instructions": [
+    "Cook spaghetti in salted water until al dente, then reserve a cup of pasta water and drain.",
+    "Heat olive oil in a saucepan over medium heat and sauté minced garlic until fragrant, about 30 seconds.",
+    "Add crushed tomatoes, chili flakes, and dried basil to the pan and let the mixture simmer for 10 minutes, stirring occasionally.",
+    "Meanwhile, gently press silken tofu to remove excess moisture, then crumble it into the sauce.",
+    "Pour in reserved pasta water gradually, stirring until the sauce emulsifies around the tofu, creating a creamy consistency.",
+    "Season the sauce with lemon juice; taste and adjust acidity if needed.",
+    "Return the cooked spaghetti to the pan and toss it with the tofu sauce until fully coated.",
+    "Sprinkle nutritional yeast over the dish for savory depth, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "intense",
+    "pasta",
+    "quick",
+    "shojin-friendly",
+    "silken-tofu",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 75,
+    "fat": 25
+  },
+  "slug": "intense-italian-silken-tofu-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-italian-silken-tofu-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:07:22Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "emulsify",
+    "primaryIngredient": "silken tofu",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "silken tofu",
+    "descriptor": "Intense",
+    "dishForm": "Pasta"
+  }
+}
