@@ -1,0 +1,95 @@
+{
+  "title": "Innovative Low Fat French Chicken Bowl",
+  "description": "A floral and snappy French dish featuring salsa and cooked in an earthenware bowl, perfect for a healthy meal prep option",
+  "cuisine": "French",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, thyme, rosemary, salt, and pepper",
+    "Add the chicken to the bowl and toss to coat with the marinade",
+    "Transfer the chicken to an earthenware bowl and bake for 20 minutes",
+    "While the chicken is cooking, heat the salsa in a small saucepan over medium heat",
+    "After the chicken has cooked for 20 minutes, brush the heated salsa on top of the chicken",
+    "Return the chicken to the oven and cook for an additional 10 minutes",
+    "Remove the chicken from the oven and sprinkle with chopped parsley",
+    "Serve the chicken hot in the earthenware bowl"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french-cuisine",
+    "gluten-free",
+    "healthy-eating",
+    "low-fat",
+    "meal-prep",
+    "one-bowl"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "innovative-low-fat-french-chicken-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-low-fat-french-chicken-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:00:26Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "salsa",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Innovative Low Fat",
+    "dishForm": "Bowl"
+  }
+}
