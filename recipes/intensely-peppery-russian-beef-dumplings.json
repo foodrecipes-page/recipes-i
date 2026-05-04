@@ -1,0 +1,105 @@
+{
+  "title": "Intensely Peppery Russian Beef Dumplings",
+  "description": "These fluffy Russian dumplings are a crowd-pleaser, filled with a peppery beef mixture and steamed to perfection in a bamboo steamer, featuring muscovado sugar and grilled to add a smoky flavor, making them an anti-inflammatory friendly dish.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2 teaspoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Muscovado sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground beef, black pepper, muscovado sugar, onion, garlic, and salt, and mix well with your hands until just combined.",
+    "Gradually add the flour to the beef mixture, mixing until a dough forms.",
+    "Add the egg to the dough and mix until the dough is smooth and elastic.",
+    "Knead the dough on a floured surface for 5 minutes, until it becomes smooth and shiny.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Roll out each ball of dough into a thin circle, and place a tablespoon of the beef mixture in the center of each circle.",
+    "Fold the dough over the filling, forming a half-moon shape, and press the edges together to seal the dumpling.",
+    "Heat the yakimono-grill over medium-high heat, and brush the dumplings with vegetable oil.",
+    "Grill the dumplings for 2 minutes on each side, until they are golden brown.",
+    "Place the dumplings in a bamboo steamer, and steam for 10 minutes, until they are cooked through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "russian-cuisine",
+    "steamed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "intensely-peppery-russian-beef-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-peppery-russian-beef-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:25:20Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "intensely peppery",
+    "dishForm": "Dumplings"
+  }
+}
