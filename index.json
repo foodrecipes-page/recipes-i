@@ -846,6 +846,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-croatian-bread-bake",
+    "title": "Intense Croatian Bread Bake",
+    "tags": [
+      "bread",
+      "croatian",
+      "diabetic-friendly",
+      "double-rise",
+      "festive",
+      "oven-baked"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 75,
+    "shard": "i"
+  },
+  {
     "slug": "intense-croatian-chicken-stew",
     "title": "Intense Croatian Chicken Stew",
     "tags": [
@@ -1694,6 +1709,22 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "invigorating-syrian-digestive-biscuit-salad",
+    "title": "Invigorating Syrian Digestive Biscuit Salad",
+    "tags": [
+      "biscuit",
+      "crunchy",
+      "herbal",
+      "jain-friendly",
+      "kid-friendly",
+      "salad",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 10,
     "shard": "i"
   }
 ]

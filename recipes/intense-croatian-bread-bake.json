@@ -1,0 +1,91 @@
+{
+  "title": "Intense Croatian Bread Bake",
+  "description": "A fluffy, festive loaf infused with makrut lime leaves and double-risen for airy texture, ideal for diabetic-friendly gatherings.",
+  "cuisine": "Croatian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "amount": "500g"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "sea salt",
+      "amount": "10g"
+    },
+    {
+      "name": "dried makrut lime leaves",
+      "amount": "10g",
+      "notes": "crushed"
+    },
+    {
+      "name": "warm water",
+      "amount": "300ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30g"
+    },
+    {
+      "name": "honey",
+      "amount": "5g"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine bread flour, instant yeast, sea salt, and dried makrut lime leaves.",
+    "Whisk warm water with honey, then pour into dry mixture.",
+    "Add olive oil and stir until shaggy dough forms.",
+    "Knead dough on floured surface for 8 minutes until smooth and elastic.",
+    "Place dough in greased bowl, cover, and let first rise for 30 minutes until doubled.",
+    "Punch down dough, shape into loaf, place on parchment-lined baking sheet, and sprinkle crushed lime leaves on top.",
+    "Cover loaf and let second rise for 20 minutes until puffed.",
+    "Preheat oven to 200°C, bake loaf for 30 minutes until golden and crusty, then cool on rack."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "croatian",
+    "diabetic-friendly",
+    "double-rise",
+    "festive",
+    "oven-baked"
+  ],
+  "nutrition": {
+    "calories": 181,
+    "protein": 5,
+    "carbs": 32,
+    "fat": 3
+  },
+  "slug": "intense-croatian-bread-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-croatian-bread-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:10:57Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "bread",
+    "descriptor": "Intense",
+    "dishForm": "Bake"
+  }
+}

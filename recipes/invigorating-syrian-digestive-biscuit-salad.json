@@ -1,0 +1,110 @@
+{
+  "title": "Invigorating Syrian Digestive Biscuit Salad",
+  "description": "A fresh, herbal salad with crumbled digestive biscuits and sashimi‑cut vegetables, perfect for kids and Jain diners.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "digestive biscuits",
+      "amount": "60g",
+      "notes": "crush into crumbs"
+    },
+    {
+      "name": "baby spinach",
+      "amount": "30g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "100g",
+      "notes": "thinly slice sashimi style"
+    },
+    {
+      "name": "tomato",
+      "amount": "80g",
+      "notes": "thinly slice sashimi style"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g"
+    }
+  ],
+  "instructions": [
+    "Crush the digestive biscuits into fine crumbs and set aside.",
+    "Wash and dry the baby spinach leaves.",
+    "Thinly slice the cucumber and tomato into sashimi‑style strips.",
+    "Place the spinach, cucumber, and tomato in a large bowl.",
+    "Add the chopped mint and cilantro to the bowl.",
+    "Drizzle the olive oil and lemon juice over the vegetables.",
+    "Sprinkle the ground cumin, salt, and pepper, then toss gently to combine.",
+    "Add the crumbled biscuits to the salad and toss again until evenly distributed.",
+    "Serve immediately for a fresh crunch, or chill for 15 minutes for a slightly firmer bite."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "biscuit",
+    "crunchy",
+    "herbal",
+    "jain-friendly",
+    "kid-friendly",
+    "salad",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 465,
+    "protein": 8,
+    "carbs": 64,
+    "fat": 28
+  },
+  "slug": "invigorating-syrian-digestive-biscuit-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/invigorating-syrian-digestive-biscuit-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:10:34Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Digestive Biscuit",
+    "descriptor": "Invigorating",
+    "dishForm": "Salad"
+  }
+}
