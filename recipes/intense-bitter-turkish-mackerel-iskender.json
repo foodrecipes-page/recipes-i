@@ -1,0 +1,109 @@
+{
+  "title": "Intense Bitter Turkish Mackerel Iskender",
+  "description": "A bold, crumbly Turkish brunch dish featuring smoked mackerel, kombu extract, and creamy yogurt in a Dutch oven.",
+  "cuisine": "Turkish",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "smoked mackerel fillets",
+      "amount": "200g",
+      "notes": "skin removed, flaked"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "crusty Turkish rolls",
+      "amount": "200g",
+      "notes": "torn into cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sun dried tomato puree",
+      "amount": "150g"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "shallot, finely diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat Dutch oven over medium heat and add olive oil.",
+    "Toast the torn crusty roll cubes until golden, about 3 minutes, then set aside.",
+    "In the same Dutch oven, sauté the diced shallot until translucent, about 2 minutes.",
+    "Stir in the sun dried tomato puree and smoked paprika, cooking for 1 minute to bloom the spices.",
+    "Add the smoked mackerel and kombu extract, breaking the fish into flakes, and cook until the fish is heated through, about 4 minutes.",
+    "Reduce heat to low, pour in the Greek yogurt, stir gently, and let the sauce thicken for 2 minutes.",
+    "Gently fold in the toasted roll cubes, seasoning with salt, pepper, and sumac, and warm through for another minute.",
+    "While the mixture simmers, melt butter in a small pan and drizzle it over the top before serving.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "kosher-friendly",
+    "one-pot",
+    "savory",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intense-bitter-turkish-mackerel-iskender",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-bitter-turkish-mackerel-iskender",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:22:14Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Mackerel",
+    "descriptor": "Intense Bitter",
+    "dishForm": "Iskender"
+  }
+}

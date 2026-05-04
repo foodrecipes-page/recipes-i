@@ -1474,6 +1474,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-bitter-turkish-mackerel-iskender",
+    "title": "Intense Bitter Turkish Mackerel Iskender",
+    "tags": [
+      "brunch",
+      "kosher-friendly",
+      "one-pot",
+      "savory",
+      "traditional"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
     "slug": "intense-bouncy-brazilian-yellow-split-peas-stew",
     "title": "Intense Bouncy Brazilian Yellow Split Peas Stew",
     "tags": [
@@ -1769,6 +1783,22 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 140,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-indian-milk-rasam",
+    "title": "Intense Indian Milk Rasam",
+    "tags": [
+      "comforting",
+      "dairy",
+      "midnight",
+      "quick",
+      "sattvic",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -3344,6 +3374,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "intricately-crunchy-turkish-pistachio-pilaf",
+    "title": "Intricately Crunchy Turkish Pistachio Pilaf",
+    "tags": [
+      "gluten-free",
+      "healthy-snack",
+      "one-pot",
+      "turkish-cuisine",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {

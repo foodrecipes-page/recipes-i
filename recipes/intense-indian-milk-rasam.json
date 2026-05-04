@@ -1,0 +1,118 @@
+{
+  "title": "Intense Indian Milk Rasam",
+  "description": "A luscious sour, pillowy rasam that combines the creamy richness of milk with the bracing tang of kombu cold extract, perfect for midnight cravings.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole milk",
+      "amount": "500 ml"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tamarind water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "50 g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried red chilies",
+      "amount": "2"
+    },
+    {
+      "name": "asafoetida",
+      "amount": "pinch"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring the milk to a gentle simmer in a medium saucepan.",
+    "Add the kombu cold extract and stir until the mixture smells bracing and slightly citrusy.",
+    "Pour in the tamarind water and tomato puree, then bring to a low boil.",
+    "Reduce the heat to a gentle simmer and add lemon juice, black salt, cumin seeds, mustard seeds, dried chilies, asafoetida and turmeric.",
+    "Stir in the fresh coriander and let the rasam simmer for 5 minutes to blend the flavors.",
+    "Turn off the heat and stir in ghee, letting it melt into the sauce.",
+    "Taste and adjust salt if needed.",
+    "Serve the rasam hot in a bowl, garnished with a sprinkle of fresh coriander.",
+    "Enjoy this creamy, tangy rasam as a comforting midnight snack or light dinner.",
+    "Take care to keep the simmer low to prevent scorching the milk."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "dairy",
+    "midnight",
+    "quick",
+    "sattvic",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 7,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "intense-indian-milk-rasam",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-indian-milk-rasam",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:22:01Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "milk",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Milk",
+    "descriptor": "Intense",
+    "dishForm": "Rasam"
+  }
+}
