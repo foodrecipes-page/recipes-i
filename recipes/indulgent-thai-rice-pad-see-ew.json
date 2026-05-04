@@ -1,0 +1,115 @@
+{
+  "title": "Indulgent Thai Rice Pad See Ew",
+  "description": "A buttery, chewy pad see ew made with olive oil and low-sodium sauces, perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wide rice noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "100g",
+      "notes": "blanched"
+    },
+    {
+      "name": "carrots",
+      "amount": "50g",
+      "notes": "julienned"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low-sodium oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Blanch the broccoli florets in boiling water for 1 minute, then transfer to ice water to preserve color.",
+    "Heat the olive oil in a large wok or skillet over medium-high heat until shimmering.",
+    "Add the sliced chicken to the wok and stir-fry until no longer pink, about 3 minutes.",
+    "Push the chicken to one side of the wok and add the butter, allowing it to melt and coat the pan.",
+    "Introduce the garlic, carrots, and blanched broccoli, cooking until the vegetables are just tender, about 2 minutes.",
+    "Pour in the low-sodium soy sauce, oyster sauce, sesame oil, sugar, and white pepper, stirring to combine.",
+    "Add the wide rice noodles and toss everything together, letting the noodles absorb the sauce for 1-2 minutes.",
+    "Taste and adjust seasoning if needed, then remove from heat.",
+    "Serve the pad see ew garnished with chopped scallions on a wooden board."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "low-sodium",
+    "noodle",
+    "one-pan",
+    "quick",
+    "rice",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "indulgent-thai-rice-pad-see-ew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-thai-rice-pad-see-ew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:47:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "olive oil",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Rice",
+    "descriptor": "Indulgent",
+    "dishForm": "Pad See Ew"
+  }
+}

@@ -1282,6 +1282,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-thai-rice-pad-see-ew",
+    "title": "Indulgent Thai Rice Pad See Ew",
+    "tags": [
+      "low-sodium",
+      "noodle",
+      "one-pan",
+      "quick",
+      "rice",
+      "thai",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-thai-tofu-grill",
     "title": "Indulgent Thai Tofu Grill",
     "tags": [
