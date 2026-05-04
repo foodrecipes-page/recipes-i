@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Roasted German Leek Stew",
+  "description": "A hearty and flavorful German stew featuring roasted leeks, perfect for a weeknight dinner, cooked in a donabe vessel and gluten-free-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leeks",
+      "amount": "4 large",
+      "notes": "white and light green parts only"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Cut the leeks in half lengthwise and rinse them under cold water to remove any dirt.",
+    "Dry the leeks with paper towels and place them on a baking sheet lined with parchment paper.",
+    "Drizzle the leeks with olive oil and season with salt and black pepper.",
+    "Roast the leeks in the preheated oven for 20 minutes, or until they are tender and caramelized.",
+    "Remove the leeks from the oven and let them cool slightly.",
+    "Slice the roasted leeks into 1-inch pieces and set them aside.",
+    "In the donabe vessel, cook the sliced pork sausage over medium heat until browned, about 5 minutes.",
+    "Add the minced garlic to the donabe and cook for 1 minute, until fragrant.",
+    "Add the sliced carrots and cubed potatoes to the donabe, cooking for 5 minutes, or until they start to soften.",
+    "Add the roasted leeks, chicken broth, and browned sausage to the donabe, stirring to combine.",
+    "Bring the stew to a simmer and cook, covered, for 20 minutes, or until the vegetables are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "gluten-free",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "intensely-roasted-german-leek-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-roasted-german-leek-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:56:43Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "simmer",
+    "primaryIngredient": "leek",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "leek",
+    "descriptor": "Intensely roasted",
+    "dishForm": "Stew"
+  }
+}
