@@ -1,0 +1,107 @@
+{
+  "title": "Intense Ethiopian Chickpeas Stew",
+  "description": "A bitter, aerated, comforting stew featuring double-fried chickpea balls and melted emmentaler wrapped in fragrant pandan leaf.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked chickpeas",
+      "amount": "200 g"
+    },
+    {
+      "name": "grated emmentaler cheese",
+      "amount": "50 g"
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "10 g"
+    },
+    {
+      "name": "niter kibbeh",
+      "amount": "20 g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "150 ml"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "30 g"
+    },
+    {
+      "name": "diced onion",
+      "amount": "50 g"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "5 g"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "5 g"
+    },
+    {
+      "name": "pandan leaf",
+      "amount": "1 big leaf"
+    },
+    {
+      "name": "salt",
+      "amount": "5 g"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "2 g"
+    }
+  ],
+  "instructions": [
+    "Heat 20 g of niter kibbeh in a pot over medium heat until fragrant.",
+    "Add 50 g diced onion, 5 g minced garlic, and 5 g minced ginger and sauté until translucent.",
+    "Stir in 30 g tomato paste and 10 g berbere spice mix, cooking until the paste darkens slightly.",
+    "Pour in 150 ml coconut milk, bring to a simmer, and add 200 g cooked chickpeas, stirring to coat.",
+    "Reduce heat and let the stew thicken for 10 minutes, then fold in 50 g grated emmentaler and stir until melted.",
+    "While the stew simmers, prepare a thin batter of chickpeas, onion, and spices, coat the small balls and double-fry them until crisp.",
+    "Once the stew reaches desired thickness, spoon it into a prepared pandan leaf, add a few fried chickpea balls, and fold the leaf into a wrap.",
+    "Serve the wrapped stew immediately, accompanied by a small dollop of aerated coconut foam made by whipping 30 g coconut cream with a pinch of sugar.",
+    "Optionally sprinkle fresh herbs before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "comfort-food",
+    "double-fry",
+    "ethiopian",
+    "pandan-wrapped",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "intense-ethiopian-chickpeas-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-ethiopian-chickpeas-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:30:14Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Intense",
+    "dishForm": "Stew"
+  }
+}
