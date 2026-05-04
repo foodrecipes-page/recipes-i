@@ -1,0 +1,99 @@
+{
+  "title": "Bitter Middle-Eastern Score-Fat Fattoush Salad",
+  "description": "A refreshing, vegan-friendly salad featuring crispy bread, tangy sumac, and a drizzle of zesty score-fat. Perfect as a solo dinner option.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White bread, stale",
+      "amount": "2 cups, torn into small pieces"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "Use a neutral-tasting oil for the best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black peppercorns",
+      "amount": "to taste"
+    },
+    {
+      "name": "Kalamata olives, pitted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Artichoke hearts, canned",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Red onion, thinly sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Parsley, chopped",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Toss the bread with 1 tablespoon of olive oil and 1/2 teaspoon of salt on a baking sheet. Bake for 10 minutes, or until crispy and golden.",
+    "In a large bowl, whisk together the pomegranate molasses, sumac, and 2 tablespoons of olive oil. Season with salt and black pepper to taste.",
+    "Add the toasted bread, olives, artichoke hearts, red onion, and parsley to the bowl. Toss to combine.",
+    "Drizzle with the remaining 1 tablespoon of olive oil and toss again to coat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "fattoush",
+    "gluten-free",
+    "high-fiber",
+    "middle-eastern",
+    "one-dish",
+    "salad",
+    "score-fat",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intensely-bitter-middle-eastern-score-fat-fattoush-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-bitter-middle-eastern-score-fat-fattoush-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T11:18:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "score-fat",
+    "primaryIngredient": "white bread mix",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Middle-eastern",
+    "mainIngredient": "score-fat",
+    "descriptor": "intensely bitter",
+    "dishForm": "Fattoush Salad"
+  }
+}
