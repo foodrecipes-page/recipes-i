@@ -1,0 +1,149 @@
+{
+  "title": "Intense Filipino Tofu Curry",
+  "description": "A creamy, umami-packed Bicol Express style tofu curry simmered in a wok and finished in a clay pot, topped with toasted breadcrumbs for a satisfying crunch.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g",
+      "notes": "cubed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "green chili",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "handful",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a wok over medium heat.",
+    "Add minced garlic, grated ginger, and sliced onion; sauté until fragrant and translucent.",
+    "Stir in sliced bell pepper and green chili; cook for 2 minutes.",
+    "Sprinkle paprika, turmeric, and curry powder over the vegetables and stir for 30 seconds to bloom the spices.",
+    "Pour in coconut milk and soy sauce; bring to a gentle simmer.",
+    "Add cubed tofu and gently stir to coat the tofu with the sauce.",
+    "Reduce heat to low and let the curry simmer for 6 minutes, allowing flavors to meld.",
+    "In a separate pan, toast breadcrumbs in a little coconut oil until golden brown, then set aside.",
+    "Pour the curry into a preheated clay pot and sprinkle the toasted breadcrumbs over the top.",
+    "Cover the clay pot and let it steam for an additional 3 minutes to meld the breadcrumb crust.",
+    "Finish the dish by squeezing lime juice and sprinkling fresh basil leaves just before serving.",
+    "Serve hot with steamed rice or quinoa."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bicol-style",
+    "easy",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "plant-based",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 226,
+    "protein": 27,
+    "carbs": 45,
+    "fat": 41
+  },
+  "slug": "intense-filipino-tofu-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-filipino-tofu-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:41:00Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Tofu",
+    "descriptor": "Intense",
+    "dishForm": "Curry"
+  }
+}
