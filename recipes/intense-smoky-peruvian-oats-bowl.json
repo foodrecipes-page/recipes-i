@@ -1,0 +1,92 @@
+{
+  "title": "Intense Smoky Peruvian Oats Bowl",
+  "description": "A comforting bowl of porridge oats topped with smoky double-rise bread, finished with a drizzle of maple syrup and a pinch of smoked paprika for a subtle kick.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "80 grams"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "2 slices",
+      "notes": "50 grams each"
+    },
+    {
+      "name": "flaxseed oil",
+      "amount": "1 tablespoon",
+      "notes": "15 ml"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse the rolled oats in a fine mesh sieve until the water runs clear.",
+    "Bring the water to a boil in a medium saucepan, then add the oats and a pinch of salt.",
+    "Reduce heat to low, cover, and simmer for 10 minutes, stirring occasionally.",
+    "Meanwhile, toast the double-rise bread slices in a dry skillet until crisp and slightly blackened.",
+    "Pour the cooked oats into a lacquerware bowl, then place the toasted bread on top.",
+    "Drizzle flaxseed oil over the oats and bread, and sprinkle with smoked paprika and black pepper.",
+    "Add a light drizzle of maple syrup for natural sweetness.",
+    "Serve hot, enjoying the smoky crunch and comforting warmth."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "double-rise",
+    "plant-based",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 730,
+    "protein": 18,
+    "carbs": 99,
+    "fat": 23
+  },
+  "slug": "intense-smoky-peruvian-oats-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-peruvian-oats-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:37:12Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "porridge oats",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "oats",
+    "descriptor": "Intense Smoky",
+    "dishForm": "Bowl"
+  }
+}
