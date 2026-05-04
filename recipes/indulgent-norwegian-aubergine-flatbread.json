@@ -1,0 +1,112 @@
+{
+  "title": "Indulgent Norwegian Aubergine Flatbread",
+  "description": "A yeasty, light flatbread with roasted aubergine, dill, and pine nuts, perfect for a macrobiotic-friendly meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan",
+    "macrobiotic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rye flour",
+      "amount": "350g"
+    },
+    {
+      "name": "warm water",
+      "amount": "220ml"
+    },
+    {
+      "name": "kveik yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "5g"
+    },
+    {
+      "name": "aubergine",
+      "amount": "250g",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "50g",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "15g",
+      "notes": "toasted"
+    },
+    {
+      "name": "oat milk",
+      "amount": "50ml"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "10ml"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine rye flour, kveik yeast, and sea salt, then stir to mix evenly.",
+    "Add warm water and olive oil to the dry mixture, then stir until a shaggy dough forms.",
+    "Transfer the dough onto a floured surface and knead for 8 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover with a damp cloth, and let it rise for 60 minutes until doubled in size.",
+    "While the dough rises, heat a grill pan over medium-high heat and grill the aubergine and red onion slices for 3 minutes on each side until charred and soft.",
+    "In a small bowl, mix the grilled aubergine, onion, fresh dill, toasted pine nuts, oat milk, apple cider vinegar, and black pepper until well combined.",
+    "Punch down the risen dough and roll it out into a 12x20 inch rectangle, then spread the aubergine mixture evenly over the dough.",
+    "Bake the flatbread in a preheated 230°C oven for 15 minutes until the edges are crispy and the surface is lightly browned."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aubergine",
+    "flatbread",
+    "light",
+    "macrobiotic-friendly",
+    "norwegian",
+    "vegan",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 9,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "indulgent-norwegian-aubergine-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-norwegian-aubergine-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:01:37Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "aubergine",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "aubergine",
+    "descriptor": "Indulgent",
+    "dishForm": "Flatbread"
+  }
+}
