@@ -1,0 +1,106 @@
+{
+  "title": "Intense Crunchy French Sesame Salad",
+  "description": "A cultured, brine‑wet, macrobiotic-friendly salad bursting with toasted sesame crunch and nostalgic French flair.",
+  "cuisine": "French",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mixed salad greens",
+      "amount": "150 g"
+    },
+    {
+      "name": "white sesame seeds",
+      "amount": "50 g"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "25 g"
+    },
+    {
+      "name": "pickled cucumber, sliced",
+      "amount": "100 g"
+    },
+    {
+      "name": "radish, thinly sliced",
+      "amount": "80 g"
+    },
+    {
+      "name": "cooked edamame",
+      "amount": "50 g"
+    },
+    {
+      "name": "green onion, sliced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a dry skillet over medium heat and toast 50 g white sesame seeds until fragrant, about 3 minutes; transfer to a plate to cool.",
+    "Repeat with 25 g black sesame seeds for another 2‑3 minutes until lightly browned, then set aside.",
+    "In a small bowl, whisk together 1 tbsp soy sauce, 1 tbsp rice vinegar, 1 tsp honey, 1 tsp grated ginger, and 1 tsp toasted sesame oil until well blended.",
+    "Roughly halve 100 g pickled cucumber into thin slices and thinly slice 80 g radish into julienne.",
+    "In a large bowl, combine 150 g mixed salad greens, sliced cucumber, radish, 50 g cooked edamame, and thinly sliced green onion.",
+    "Pour the prepared dressing over the salad mixture and toss gently until everything is evenly coated.",
+    "Sprinkle the toasted white and black sesame seeds over the top, giving the dish its signature crunch.",
+    "Let the salad rest for 5 minutes to allow the flavors to meld and the seeds to absorb some of the dressing.",
+    "Give the salad one final quick toss before serving, optionally garnishing with extra sesame seeds or a drizzle of brine from the pickled cucumber."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "french",
+    "intense",
+    "macrobiotic",
+    "sesame"
+  ],
+  "nutrition": {
+    "calories": 354,
+    "protein": 20,
+    "carbs": 17,
+    "fat": 23
+  },
+  "slug": "intense-crunchy-french-sesame-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-crunchy-french-sesame-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:43:58Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "brine-wet",
+    "primaryIngredient": "seeds",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Sesame",
+    "descriptor": "Intense Crunchy",
+    "dishForm": "Salad"
+  }
+}

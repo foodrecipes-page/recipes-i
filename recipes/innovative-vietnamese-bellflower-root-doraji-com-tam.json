@@ -1,0 +1,96 @@
+{
+  "title": "Innovative Vietnamese Bellflower Root Doraji Com Tam",
+  "description": "A romantic Vietnamese dish featuring bellflower root and doraji, with a cultured cheese pull, baked to perfection in a macrobiotic friendly style, served as a Com Tam",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bellflower root",
+      "amount": "2 cups",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "doraji",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "cubed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced bellflower root with 1 tablespoon of vegetable oil and season with salt.",
+    "Spread the bellflower root on a baking sheet and roast in the oven for 20 minutes.",
+    "In a separate pan, heat 1 tablespoon of vegetable oil and saute the sliced doraji until tender.",
+    "In a large bowl, combine the cooked jasmine rice, roasted bellflower root, and sauteed doraji.",
+    "Add the cubed tofu, soy sauce, and sesame oil to the bowl and mix well.",
+    "Transfer the mixture to a baking dish and top with grated cheese.",
+    "Bake in the oven for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked-dish",
+    "cheese-pull",
+    "macrobiotic-friendly",
+    "romantic-dinner",
+    "vegetarian-option",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "innovative-vietnamese-bellflower-root-doraji-com-tam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-vietnamese-bellflower-root-doraji-com-tam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:43:43Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "bellflower-root-doraji",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "bellflower root doraji",
+    "descriptor": "Innovative baked",
+    "dishForm": "Com Tam"
+  }
+}

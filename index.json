@@ -1407,6 +1407,21 @@
     "shard": "i"
   },
   {
+    "slug": "innovative-vietnamese-bellflower-root-doraji-com-tam",
+    "title": "Innovative Vietnamese Bellflower Root Doraji Com Tam",
+    "tags": [
+      "baked-dish",
+      "cheese-pull",
+      "macrobiotic-friendly",
+      "romantic-dinner",
+      "vegetarian-option",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "intense-algerian-oats-hash",
     "title": "Intense Algerian Oats Hash",
     "tags": [
@@ -1647,6 +1662,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 140,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-crunchy-french-sesame-salad",
+    "title": "Intense Crunchy French Sesame Salad",
+    "tags": [
+      "crunchy",
+      "french",
+      "intense",
+      "macrobiotic",
+      "sesame"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
