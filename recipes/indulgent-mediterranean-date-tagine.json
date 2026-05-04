@@ -1,0 +1,114 @@
+{
+  "title": "Indulgent Mediterranean Date Tagine",
+  "description": "A kid-friendly, Whole30-friendly dish that blends sweet dates with citrusy yuzu for a velvety, aromatic tagine.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "medjool dates",
+      "amount": "12",
+      "notes": "pitted, sliced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "whole30-friendly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1 tbsp",
+      "notes": "use lemon if unavailable"
+    },
+    {
+      "name": "tamari",
+      "amount": "1 tbsp",
+      "notes": "salt-free alternative"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a deep skillet over medium heat and sauté onion until translucent.",
+    "Add garlic, cumin, coriander, and cinnamon and cook until fragrant, about 1 minute.",
+    "Stir in sliced dates and yuzu zest, coating them with spices.",
+    "Pour in chicken broth and yuzu juice, bring to a gentle simmer.",
+    "Reduce heat to low, cover, and let the mixture cook for 15 minutes, allowing flavors to meld.",
+    "Stir in tamari and adjust seasoning with salt if needed.",
+    "Remove from heat and let the tagine rest for 5 minutes; the sauce will thicken into a velvety consistency.",
+    "Garnish with chopped parsley before serving hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "mediterranean",
+    "one-pot",
+    "sweet-sour",
+    "tagine",
+    "whole30",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "indulgent-mediterranean-date-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-mediterranean-date-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:11:15Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "medjool dates",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Date",
+    "descriptor": "Indulgent",
+    "dishForm": "Tagine"
+  }
+}

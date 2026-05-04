@@ -489,6 +489,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-mediterranean-date-tagine",
+    "title": "Indulgent Mediterranean Date Tagine",
+    "tags": [
+      "kid-friendly",
+      "mediterranean",
+      "one-pot",
+      "sweet-sour",
+      "tagine",
+      "whole30",
+      "yuzu"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-mexican-tortilla-quesadilla",
     "title": "Indulgent Mexican Tortilla Quesadilla",
     "tags": [
