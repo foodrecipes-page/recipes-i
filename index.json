@@ -2193,6 +2193,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-spicy-mexican-hominy-pozole",
+    "title": "Intense Spicy Mexican Hominy Pozole",
+    "tags": [
+      "comfort-food",
+      "hominy-recipes",
+      "mexican-cuisine",
+      "one-pot",
+      "spicy-food"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "intense-syrian-lentil-stew",
     "title": "Intense Syrian Lentil Stew",
     "tags": [

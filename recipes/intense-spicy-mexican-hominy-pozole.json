@@ -1,0 +1,109 @@
+{
+  "title": "Intense Spicy Mexican Hominy Pozole",
+  "description": "A tangy and adventurous Mexican dish from Veracruz, featuring mayonnaise and nuka-pickle, this pozole is a unique twist on traditional recipes, served in a ceramic tagine.",
+  "cuisine": "Mexican",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hominy",
+      "amount": "2 cups",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "diced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "shredded chicken",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the ceramic tagine over medium heat.",
+    "Add diced onion and cook until translucent.",
+    "Add minced garlic and cook for an additional minute.",
+    "Stir in ground cumin, smoked paprika, and cayenne pepper.",
+    "Add hominy, chicken broth, and shredded chicken, bringing to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Stir in mayonnaise, nuka-pickle, and lime juice.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hominy-recipes",
+    "mexican-cuisine",
+    "one-pot",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intense-spicy-mexican-hominy-pozole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-spicy-mexican-hominy-pozole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:05:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "mayonnaise",
+    "diet": "egg-free",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "hominy",
+    "descriptor": "intense spicy",
+    "dishForm": "Pozole"
+  }
+}
