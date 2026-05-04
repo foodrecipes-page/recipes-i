@@ -1,0 +1,97 @@
+{
+  "title": "Incredibly Smoky Croatian Lamb Skewers",
+  "description": "A tangy and juicy Croatian dish featuring lamb shanks, this recipe is perfect for special occasions, with a smoky flavor from the robata grill and a lacto-vegetarian friendly twist.",
+  "cuisine": "Croatian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium high heat.",
+    "In a large bowl, whisk together yogurt, lemon juice, olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb pieces onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10 minutes, turning occasionally, or until the lamb is cooked to an internal temperature of 145 degrees.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "grilled-meats",
+    "high-protein",
+    "lacto-vegetarian",
+    "one-pan",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "incredibly-smoky-croatian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-smoky-croatian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:14:50Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "wok-hei",
+    "primaryIngredient": "lamb shanks",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "Incredibly Smoky",
+    "dishForm": "Skewers"
+  }
+}
