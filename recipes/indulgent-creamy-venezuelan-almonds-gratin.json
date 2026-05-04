@@ -1,0 +1,95 @@
+{
+  "title": "Indulgent Creamy Venezuelan Almonds Gratin",
+  "description": "A cozy, buttery almond gratin finished with a glossy caramelized top, perfect for a comforting dessert.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsweetened almond milk",
+      "amount": "250 ml"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "100 ml"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "30 g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30 g"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "80 g"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "100 g"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "50 g"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a small saucepan, melt the butter over medium heat and whisk in the flour until a smooth roux forms.",
+    "Gradually stir in the almond milk and heavy cream, whisking constantly until the mixture thickens.",
+    "Add the brown sugar, salt, pepper, and cinnamon, and cook until the sauce is glossy and coats the back of a spoon.",
+    "Fold in the toasted almonds and grated parmesan, then pour the mixture into a greased 8x8 inch baking dish.",
+    "Spread the mixture evenly and sprinkle a thin layer of additional parmesan on top for a crisp glaze.",
+    "Bake for 20 minutes, then broil for 2-3 minutes until the top is golden brown and slightly caramelized.",
+    "Remove from oven and let the gratin rest for 5 minutes before serving.",
+    "Serve warm with a drizzle of almond milk sauce if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "venezuelan",
+    "dessert"
+  ],
+  "slug": "indulgent-creamy-venezuelan-almonds-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-creamy-venezuelan-almonds-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:17:39Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "almond milk",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Almonds",
+    "descriptor": "Indulgent Creamy",
+    "dishForm": "Gratin"
+  }
+}

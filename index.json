@@ -116,6 +116,17 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-creamy-venezuelan-almonds-gratin",
+    "title": "Indulgent Creamy Venezuelan Almonds Gratin",
+    "tags": [
+      "venezuelan",
+      "dessert"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-crispy-german-rhubarb-tart",
     "title": "Indulgent Crispy German Rhubarb Tart",
     "tags": [
@@ -611,6 +622,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-brazilian-baby-squid-skewers",
+    "title": "Intense Brazilian Baby Squid Skewers",
+    "tags": [
+      "brazilian",
+      "grilled",
+      "pescatarian",
+      "seafood",
+      "skewers",
+      "summer"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
