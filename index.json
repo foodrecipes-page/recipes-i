@@ -492,6 +492,17 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-italian-tomato-wrap",
+    "title": "Indulgent Italian Tomato Wrap",
+    "tags": [
+      "italian",
+      "lunch"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-jamaican-cucumber-paella",
     "title": "Indulgent Jamaican Cucumber Paella",
     "tags": [
