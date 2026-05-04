@@ -1,0 +1,101 @@
+{
+  "title": "Indulgent Sour Irish Jam Dumplings",
+  "description": "A dense and indulgent Irish dessert featuring a tangy jam and cream cheese filling, wrapped in a gluten-free pastry dough and poached to perfection.",
+  "cuisine": "irish",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gluten-free all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jam (such as raspberry or strawberry)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ibico (or cream cheese)",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the gluten-free flour, granulated sugar, and unsalted butter and mix until a crumbly dough forms.",
+    "Add the egg and vanilla extract to the dough and mix until a smooth ball forms.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "On a lightly floured surface, roll out the chilled dough to a thickness of about 1/4 inch.",
+    "Cut out small squares of dough, about 3 inches per side.",
+    "In a small bowl, mix together the jam and Ibico until smooth.",
+    "Spoon a small amount of the jam and Ibico mixture onto one half of each dough square, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the dough square over the filling and press the edges together to seal the dumpling.",
+    "Repeat with the remaining dough and filling.",
+    "Bring a large pot of water to a boil and reduce the heat to a simmer.",
+    "Poach the dumplings for 5-7 minutes, or until they are cooked through and fluffy.",
+    "Remove the dumplings from the water with a slotted spoon and place them on a paper towel-lined plate to drain.",
+    "Dust the dumplings with confectioners' sugar before serving.",
+    "Serve the indulgent sour Irish jam dumplings warm, garnished with fresh berries or whipped cream if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "gluten-free",
+    "irish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "indulgent-sour-irish-jam-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-sour-irish-jam-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:09Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "poach",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Jam",
+    "descriptor": "Indulgent Sour",
+    "dishForm": "Dumplings"
+  }
+}

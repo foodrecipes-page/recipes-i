@@ -1,0 +1,60 @@
+{
+  "title": "Icy Juicy Korean Kalguksu Noodles",
+  "description": "Nutty, juicy, and soothing Korean noodle soup featuring hispi sweetheart cabbage and fermented kimchi.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweetheart Cabbage",
+      "amount": "1 head",
+      "notes": "Hispi variety, 1.5 lbs"
+    }
+  ],
+  "instructions": [
+    "Combine 4 cups of water and Korean Chili Flakes in a large pot, and bring to a boil",
+    "Reduce heat to medium-low and add Gochujang, Korean Chili Paste, and 2 cups of water to the pot, stirring to combine",
+    "Meanwhile, prepare the corn husk wraps by cutting 4 large husks into quarters and soaking in water for 10 minutes",
+    "Remove the husks from the water and place them on a baking sheet, and set aside"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean",
+    "low-glycemic",
+    "noodle-soup",
+    "soothing",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 75,
+    "fat": 16
+  },
+  "slug": "icy-juicy-korean-korean-kalguksu-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-juicy-korean-korean-kalguksu-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:37Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "korean",
+    "descriptor": "Icy, Juicy",
+    "dishForm": "Kalguksu Noodles"
+  }
+}

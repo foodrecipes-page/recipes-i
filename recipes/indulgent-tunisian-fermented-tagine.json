@@ -1,0 +1,117 @@
+{
+  "title": "Indulgent Tunisian Fermented Tagine",
+  "description": "A rich, creamy, and indulgent take on traditional Tunisian tagine, featuring fermented vegetables and the deep flavors of appleton rum.",
+  "cuisine": "tunisian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shio-cure vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "appleton rum",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "labneh cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine shio-cure vegetables, onions, garlic, and rosemary in a large bowl.",
+    "In a separate saucepan, heat olive oil over low heat.",
+    "Add rum to the saucepan and ignite, allowing the flames to burn off the excess liquid.",
+    "Remove from heat and stir in salt, black pepper, and lemon juice.",
+    "Transfer the vegetable mixture to a clay or ceramic tagine or Dutch oven and spoon the labneh cheese over the top.",
+    "Drizzle with pomegranate molasses and sprinkle with parsley.",
+    "Cover and let ferment in the refrigerator for at least 24 hours or up to 3 days.",
+    "Preheat oven to 375\u00184f (190\u00184c).",
+    "Transfer the tagine to the oven and bake for 20 minutes, or until the cheese is melted and bubbly.",
+    "Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fermented",
+    "high-protein",
+    "indulgent",
+    "rum",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "indulgent-tunisian-fermented-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-tunisian-fermented-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:32Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "shio-cure",
+    "primaryIngredient": "appleton rum",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Fermented",
+    "descriptor": "Indulgent",
+    "dishForm": "Tagine"
+  }
+}

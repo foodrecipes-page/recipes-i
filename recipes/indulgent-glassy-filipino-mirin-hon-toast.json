@@ -1,0 +1,74 @@
+{
+  "title": "Indulgent Glassy Filipino Mirin-hon Toast",
+  "description": "A sweet and savory Filipino dish featuring a glassy-jelly glaze made with mirin-hon on toasted bread.",
+  "cuisine": "Filipino",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brioche bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Mirin-hon",
+      "amount": "1 cup",
+      "notes": "available at Asian grocery stores or online"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional, omit for non-fish sauce flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the brioche bread into 1-inch thick slices.",
+    "Arrange the slices on a baking sheet and toast in the oven for 5 minutes, or until lightly browned.",
+    "In a small saucepan, combine the mirin-hon, unsalted butter, and fish sauce (if using).",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes, or until the glaze has thickened slightly.",
+    "Brush the glaze over the toasted bread slices and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bread",
+    "filipino",
+    "glassy-jelly",
+    "one-pan",
+    "sweet-and-savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "indulgent-glassy-filipino-mirin-hon-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-glassy-filipino-mirin-hon-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:54Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "toast",
+    "primaryIngredient": "mirin-hon",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Mirin-hon",
+    "descriptor": "Indulgent glassy",
+    "dishForm": "Toast"
+  }
+}

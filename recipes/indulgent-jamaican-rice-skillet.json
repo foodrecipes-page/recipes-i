@@ -1,0 +1,113 @@
+{
+  "title": "Indulgent Jamaican Rice Skillet",
+  "description": "A funky, snappy one-pot Jamaican dish featuring the rich flavors of Parmigiano-Reggiano, crispy chicken skin, and a tangy beurre monte, made keto-friendly with reduced carbohydrates. It's perfect for a quick weeknight dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted chicken skin",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "uncooked long-grain rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beurre monte",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat, then add the chicken skin and cook until crispy, about 5 minutes.",
+    "Remove the chicken skin from the skillet and set aside.",
+    "Add the chicken breast to the skillet and cook until browned on all sides and cooked through, about 5-6 minutes per side.",
+    "Remove the chicken breast from the skillet and set aside with the chicken skin.",
+    "Add the curry powder to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the onion, garlic, and bell pepper to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the rice to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Stir in the beurre monte and Parmesan cheese, then reduce heat to low and cover the skillet with a lid.",
+    "Simmer for 18-20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Stir in the chicken skin and breast, then cook for an additional 2-3 minutes to heat through.",
+    "Season with salt and pepper to taste, then serve hot, garnished with chopped cilantro.",
+    "Let the skillet rest for 5 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "keto",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "indulgent-jamaican-rice-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-jamaican-rice-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:08Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "beurre-monte",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "rice",
+    "descriptor": "indulgent",
+    "dishForm": "Skillet"
+  }
+}

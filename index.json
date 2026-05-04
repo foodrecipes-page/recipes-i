@@ -153,6 +153,21 @@
     "shard": "i"
   },
   {
+    "slug": "icy-juicy-korean-korean-kalguksu-noodles",
+    "title": "Icy Juicy Korean Kalguksu Noodles",
+    "tags": [
+      "gluten-free",
+      "korean",
+      "low-glycemic",
+      "noodle-soup",
+      "soothing",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "icy-korean-potato-bake",
     "title": "Icy Korean Potato Bake",
     "tags": [
@@ -674,6 +689,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-glassy-filipino-mirin-hon-toast",
+    "title": "Indulgent Glassy Filipino Mirin-hon Toast",
+    "tags": [
+      "bread",
+      "filipino",
+      "glassy-jelly",
+      "one-pan",
+      "sweet-and-savory",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-greek-flour-revithia",
     "title": "Indulgent Greek Flour Revithia",
     "tags": [
@@ -792,6 +822,20 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-jamaican-rice-skillet",
+    "title": "Indulgent Jamaican Rice Skillet",
+    "tags": [
+      "jamaican",
+      "keto",
+      "one-pan",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -1422,6 +1466,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-sour-irish-jam-dumplings",
+    "title": "Indulgent Sour Irish Jam Dumplings",
+    "tags": [
+      "dessert",
+      "easy-to-make",
+      "gluten-free",
+      "irish",
+      "weeknight"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-spanish-almonds-bowl",
     "title": "Indulgent Spanish Almonds Bowl",
     "tags": [
@@ -1505,6 +1563,20 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 53,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-tunisian-fermented-tagine",
+    "title": "Indulgent Tunisian Fermented Tagine",
+    "tags": [
+      "fermented",
+      "high-protein",
+      "indulgent",
+      "rum",
+      "tunisian"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
