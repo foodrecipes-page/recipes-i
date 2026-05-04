@@ -1,0 +1,134 @@
+{
+  "title": "Indulgent Korean Tortilla Jjigae",
+  "description": "A nutty, aerated Korean stew that marries crispy toasted tortillas with a savory gochujang broth, festive kimchi, and fresh vegetables, served hot in a traditional pot",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flour tortillas",
+      "amount": "3 large (150g)",
+      "notes": "whole wheat preferred"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp (30g)",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp (45ml)",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp (15ml)",
+      "notes": ""
+    },
+    {
+      "name": "white sugar",
+      "amount": "1 tsp (5g)",
+      "notes": "helps caramelize the tortilla"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, sliced",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, julienned",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 small, sliced",
+      "notes": ""
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200g, cubed",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "3 cups (720ml)",
+      "notes": ""
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup (150g)",
+      "notes": "crushed for depth"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 stalks, sliced",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp (10g)",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp (5g)",
+      "notes": "for extra caramel flavor"
+    }
+  ],
+  "instructions": [
+    "Cut tortillas into 1-inch squares and arrange on a sheet to dry for 5 minutes.",
+    "Heat a small skillet over medium heat and lightly brush each tortilla square with sesame oil.",
+    "Place the tortilla squares in the skillet and toast until golden brown and slightly crisp, about 2 minutes per side.",
+    "In a separate pot, combine vegetable broth, gochujang, soy sauce, sugar, garlic, onion, carrot, zucchini, tofu, and kimchi and bring to a gentle boil.",
+    "Add the toasted tortilla squares to the simmering broth and cook for 5 minutes to allow flavors to meld.",
+    "Stir in honey to create a subtle caramel glaze over the broth.",
+    "Reduce heat to low and simmer for an additional 5 minutes so the tortilla absorbs the broth.",
+    "Garnish with sliced green onions and toasted sesame seeds before serving.",
+    "Serve hot in a traditional hot‑pot vessel for an authentic experience.",
+    "Enjoy the nutty aroma and festive flavors with family or friends."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "jjigae",
+    "korean",
+    "nutty",
+    "snack",
+    "tortilla",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 18
+  },
+  "slug": "indulgent-korean-tortilla-jjigae",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-korean-tortilla-jjigae",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:50:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "flour tortilla",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tortilla",
+    "descriptor": "Indulgent",
+    "dishForm": "Jjigae"
+  }
+}
