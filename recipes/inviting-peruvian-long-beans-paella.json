@@ -1,0 +1,113 @@
+{
+  "title": "Inviting Peruvian Long Beans Paella",
+  "description": "A tangy and snappy paella that blends Peruvian flair with Mediterranean comfort, featuring katsuramuki-cut Chinese long beans in a fragrant rice broth.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese long beans (katsuramuki-cut)",
+      "amount": "400 g",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Arborio rice",
+      "amount": "200 g"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth, low sodium",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Olive oil, extra virgin",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons olive oil in a paella pan over medium heat.",
+    "Add diced onion and minced garlic, sauté until translucent.",
+    "Stir in the katsuramuki-cut long beans and cook for 3 minutes until slightly tender.",
+    "Add the arborio rice and stir for 1 minute to coat with oil and vegetables.",
+    "Pour in tomato puree, smoked paprika, and cumin, stirring until rice is evenly coated.",
+    "Add the vegetable broth, bring to a gentle boil, then reduce heat to low and simmer uncovered for 18 minutes, stirring occasionally.",
+    "Remove from heat and stir in fresh lemon juice, salt, and pepper to taste.",
+    "Let the paella rest for 5 minutes covered with a clean towel.",
+    "Garnish with chopped cilantro before serving.",
+    "Serve hot straight from the pan."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "mediterranean-friendly",
+    "one-pan",
+    "peruvian",
+    "snappy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "inviting-peruvian-long-beans-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/inviting-peruvian-long-beans-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:39:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "chinese long beans",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "long beans",
+    "descriptor": "Inviting",
+    "dishForm": "Paella"
+  }
+}

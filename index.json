@@ -1053,6 +1053,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-dense-italian-eggplant-ossobuco",
+    "title": "Intense Dense Italian Eggplant Ossobuco",
+    "tags": [
+      "comfort-food",
+      "italian-food",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "intense-dense-thai-chicken-tom-kha",
     "title": "Intense Dense Thai Chicken Tom Kha",
     "tags": [
@@ -1974,6 +1988,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 10,
+    "shard": "i"
+  },
+  {
+    "slug": "inviting-peruvian-long-beans-paella",
+    "title": "Inviting Peruvian Long Beans Paella",
+    "tags": [
+      "comfort-food",
+      "mediterranean-friendly",
+      "one-pan",
+      "peruvian",
+      "snappy",
+      "vegetarian"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
     "shard": "i"
   }
 ]

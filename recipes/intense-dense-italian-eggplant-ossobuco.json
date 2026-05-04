@@ -1,0 +1,95 @@
+{
+  "title": "Intense Dense Italian Eggplant Ossobuco",
+  "description": "A rich and flavorful Italian dish featuring eggplant, pecorino, and a dense, monsoon-inspired sauce, served in a ramekin and vegetarian-friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "cut into 1-inch thick slices"
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the eggplant slices to the skillet and cook until they are tender and lightly browned.",
+    "In a large bowl, combine the tomato sauce, pecorino cheese, salt, and black pepper.",
+    "Add the cooked eggplant slices to the bowl and toss to coat with the sauce.",
+    "Transfer the eggplant mixture to a ramekin and top with additional pecorino cheese.",
+    "Bake the ossobuco in the preheated oven for 25 minutes, or until the cheese is melted and bubbly.",
+    "Remove the ossobuco from the oven and sprinkle with chopped fresh basil.",
+    "Serve the ossobuco hot, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "intense-dense-italian-eggplant-ossobuco",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-dense-italian-eggplant-ossobuco",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:40:36Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "rest",
+    "primaryIngredient": "pecorino",
+    "diet": "vegetarian",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Intense Dense",
+    "dishForm": "Ossobuco"
+  }
+}
