@@ -1265,6 +1265,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-indian-tamarind-curry",
+    "title": "Intense Indian Tamarind Curry",
+    "tags": [
+      "bengali",
+      "chewy",
+      "intense",
+      "malty",
+      "solo",
+      "vegan"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
     "slug": "intense-irish-chicken-stew",
     "title": "Intense Irish Chicken Stew",
     "tags": [
@@ -1393,6 +1408,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-midnight-turkish-bottarga-flatbread",
+    "title": "Intense Midnight Turkish Bottarga Flatbread",
+    "tags": [
+      "fodmap-friendly",
+      "malty",
+      "midnight-craving",
+      "pide",
+      "turkish-dish",
+      "velvety"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 27,
     "shard": "i"
   },
   {

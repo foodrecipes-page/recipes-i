@@ -1,0 +1,110 @@
+{
+  "title": "Intense Indian Tamarind Curry",
+  "description": "A malty, chewy vegan Bengali curry with tamarind balls and miso-marinated tofu, perfect for a solo dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup",
+      "notes": "carrots, bell pepper, peas"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Marinate the tofu by whisking coconut milk, miso paste, tamarind paste, cumin, coriander, turmeric, and salt until smooth; add tofu cubes and let rest for ten minutes.",
+    "Heat sesame oil in a pan over medium heat; sauté the diced onion until translucent, about three minutes.",
+    "Add minced garlic and cook for thirty seconds until aromatic.",
+    "Stir in the mixed vegetables and cook for four minutes, stirring occasionally.",
+    "Pour in the miso-tamarind coconut milk mixture and bring to a gentle simmer.",
+    "Add the marinated tofu cubes, reduce heat to low, and cover; simmer for eight minutes until the tofu is heated through and flavors meld.",
+    "Remove from heat, taste, and adjust seasoning if needed.",
+    "Serve hot garnished with fresh cilantro if desired, accompanied by steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "bengali",
+    "chewy",
+    "intense",
+    "malty",
+    "solo",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 900,
+    "protein": 25,
+    "carbs": 61,
+    "fat": 79
+  },
+  "slug": "intense-indian-tamarind-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-indian-tamarind-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:16:59Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "miso-marinate",
+    "primaryIngredient": "tamarind ball",
+    "diet": "vegan",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Tamarind",
+    "descriptor": "Intense",
+    "dishForm": "Curry"
+  }
+}

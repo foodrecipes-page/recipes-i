@@ -1,0 +1,110 @@
+{
+  "title": "Intense Midnight Turkish Bottarga Flatbread",
+  "description": "A malty, velvety Turkish pide with braised bottarga that satisfies midnight cravings while staying FODMAP-friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "200ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bottarga",
+      "amount": "60g",
+      "notes": "finely grated"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped, optional"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine flour, yeast, salt and malt syrup until mixed.",
+    "Add warm water and olive oil, stirring until dough forms.",
+    "Knead on a floured surface until smooth and elastic, about eight minutes.",
+    "Place dough in a greased bowl, cover and let rise until doubled, about one hour.",
+    "Preheat oven to 220C and line a baking sheet with parchment.",
+    "Punch down dough, roll into a 30cm oval and place on the sheet.",
+    "Melt ghee in a skillet over medium heat and add bottarga, smoked paprika, cumin and lemon zest, cooking until fragrant, about two minutes.",
+    "Spread the bottarga mixture over the flatbread and drizzle with a little extra olive oil.",
+    "Bake for ten to twelve minutes until golden and crisp.",
+    "Garnish with chopped parsley, slice and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "malty",
+    "midnight-craving",
+    "pide",
+    "turkish-dish",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 15
+  },
+  "slug": "intense-midnight-turkish-bottarga-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-midnight-turkish-bottarga-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:17:21Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "braise",
+    "primaryIngredient": "bottarga",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "bottarga",
+    "descriptor": "Intense Midnight",
+    "dishForm": "Flatbread"
+  }
+}
