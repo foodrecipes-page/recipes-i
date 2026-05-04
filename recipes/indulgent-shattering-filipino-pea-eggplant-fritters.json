@@ -1,0 +1,99 @@
+{
+  "title": "Indulgent Shattering Filipino Pea-Eggplant Fritters",
+  "description": "Indulgent Filipino dish made with pea-eggplant, featuring a shattering exterior and a rich umami flavor, all achieved without onions or garlic.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pea-eggplant",
+      "amount": "1 large",
+      "notes": "any variety, preferably with a tender skin"
+    },
+    {
+      "name": "pork liver",
+      "amount": "1/2 cup",
+      "notes": "you can use chicken liver if desired"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "bok choy",
+      "amount": "1 bunch",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Mash the pea-eggplant in a mortar and pestle until it's almost smooth.",
+    "Add the pork liver, fish sauce, black pepper, and salt to the mortar and mash until well combined.",
+    "Stir in the flour until the mixture is smooth.",
+    "Heat the vegetable oil in a large frying pan over medium heat.",
+    "Using a spoon, drop small amounts of the pea-eggplant mixture into the hot oil.",
+    "Fry the fritters until they're golden brown and crispy, about 3-4 minutes on each side.",
+    "Drain the fritters on paper towels and serve hot with bok choy on the side, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "high-protein",
+    "one-pan",
+    "snack",
+    "umami-rich",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "indulgent-shattering-filipino-pea-eggplant-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-shattering-filipino-pea-eggplant-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T14:09:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "pea-eggplant",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pea-eggplant",
+    "descriptor": "Indulgent Shattering",
+    "dishForm": "Fritters"
+  }
+}
