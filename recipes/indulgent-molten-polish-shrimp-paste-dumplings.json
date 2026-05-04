@@ -1,0 +1,109 @@
+{
+  "title": "Indulgent Molten Polish Shrimp Paste Dumplings",
+  "description": "A floral, molten dumpling that blends the savory depth of shrimp paste with the lightness of steamed shrimp-kapi, ideal for a low-fat Polish-inspired indulgence.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gluten-free flour",
+      "amount": "200g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shrimp paste kapi",
+      "amount": "50g"
+    },
+    {
+      "name": "fresh shrimp, peeled and chopped",
+      "amount": "150g"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated garlic",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "shredded napa cabbage",
+      "amount": "100g"
+    },
+    {
+      "name": "egg white",
+      "amount": "1"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk flour, baking powder, and cornstarch until combined.",
+    "Whisk together soy sauce, rice vinegar, sesame oil, grated ginger, and garlic to make the umami base.",
+    "Stir in shrimp paste and egg white into the liquid mixture until smooth.",
+    "Pour the wet mixture into the dry ingredients and mix until a sticky dough forms.",
+    "Fold in chopped shrimp and shredded cabbage, ensuring they are evenly distributed.",
+    "Divide dough into 12 equal portions and roll each into a small ball, about 2.5 cm in diameter.",
+    "Place the dumpling balls onto parchment‑lined steamer trays, ensuring they do not touch.",
+    "Steam the dumplings over medium heat for 12 minutes until the dough is translucent and the shrimp is cooked.",
+    "Prepare a garnish of sliced green onions, lemon zest, and a drizzle of low-fat yogurt while steaming.",
+    "Serve the molten dumplings hot, garnished, with a floral soy dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "floral",
+    "indulgent",
+    "low-fat",
+    "polish",
+    "shrimp",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "indulgent-molten-polish-shrimp-paste-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-molten-polish-shrimp-paste-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:32:15Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "shrimp paste",
+    "descriptor": "Indulgent Molten",
+    "dishForm": "Dumplings"
+  }
+}
