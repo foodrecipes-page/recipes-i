@@ -1,0 +1,103 @@
+{
+  "title": "Indulgent Egyptian Beef Shin Stew",
+  "description": "A creamy, midnight-craving stew featuring tender beef shin and yogurt pearls, served in scallop-shell vessels.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef shin, cubed",
+      "amount": "1.5 kg",
+      "notes": "cut into 1.5-inch pieces"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "200 g"
+    },
+    {
+      "name": "Red wine",
+      "amount": "250 ml"
+    },
+    {
+      "name": "Beef stock",
+      "amount": "500 ml"
+    },
+    {
+      "name": "Plain yogurt",
+      "amount": "250 g"
+    },
+    {
+      "name": "Bulgur wheat",
+      "amount": "150 g"
+    },
+    {
+      "name": "Spice mix",
+      "amount": "1 tbsp",
+      "notes": "cumin 2 tsp, coriander 2 tsp, turmeric 1 tsp, salt 1 tsp, pepper 0.5 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add onion and cook until translucent.",
+    "Stir in garlic and cook for 1 minute.",
+    "Add beef cubes and brown on all sides.",
+    "Pour in tomato puree, red wine, and spice mix; simmer until wine reduces by half.",
+    "Add beef stock, cover, and simmer on low for 90 minutes until meat is tender.",
+    "Soak bulgur in warm water for 20 minutes, then drain.",
+    "Stir bulgur into stew and simmer 15 more minutes until bulgur is cooked.",
+    "Whisk yogurt into a separate bowl and chill.",
+    "Prepare calcium chloride solution and drop yogurt into it to form pearls; strain and rinse.",
+    "Ladle stew into scallop-shell vessels, top with yogurt pearls, and garnish with cilantro.",
+    "Serve hot, letting the creamy pearls burst with flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "egyptian",
+    "hearty",
+    "indulgent",
+    "midnight-craving",
+    "spherify"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "indulgent-egyptian-beef-shin-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-egyptian-beef-shin-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:02:50Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "spherify",
+    "primaryIngredient": "beef shin",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Beef Shin",
+    "descriptor": "Indulgent",
+    "dishForm": "Stew"
+  }
+}
