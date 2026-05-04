@@ -1,0 +1,96 @@
+{
+  "title": "Innovative Intense Ethiopian Lentils Ye Beg Alichta",
+  "description": "A sweet and snappy Ethiopian dish featuring sesame seed burger buns and fry-grind-rice-khao-khua, perfect for a vegetarian-friendly meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "sesame seed burger buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring 2 cups of water to a boil and add the red lentils, cooking until they are tender.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the chopped onion until it is translucent.",
+    "Add the minced garlic and grated ginger to the skillet and cook for an additional 2 minutes.",
+    "Stir in the berbere spice and cook for 1 minute.",
+    "Add the cooked fry-grind-rice-khao-khua to the skillet and stir to combine.",
+    "Split the toasted sesame seed burger buns in half and fill with the lentil and rice mixture.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional berbere spice and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burger-buns",
+    "ethiopian",
+    "lentil",
+    "one-pot",
+    "sesame-seed",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "innovative-intense-ethiopian-lentils-ye-beg-alichta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-intense-ethiopian-lentils-ye-beg-alichta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:12:18Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Innovative Intense",
+    "dishForm": "Ye Beg Alichta"
+  }
+}
