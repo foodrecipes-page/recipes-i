@@ -1,0 +1,108 @@
+{
+  "title": "Intense Canadian Lentil Stew",
+  "description": "A hearty maple-infused lentil stew that embodies the cozy spirit of Canadian kitchens without animal products.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "smoked maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "red lentils",
+      "amount": "200 g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "800 ml"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "400 ml"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat until shimmering.",
+    "Add onion, carrot, celery, and garlic; sauté until vegetables soften and onion becomes translucent, about 5 minutes.",
+    "Stir in smoked maple syrup and dried thyme, cooking for 1 minute to release aromas.",
+    "Add lentils, bay leaf, vegetable broth, and diced tomatoes; bring to a gentle boil.",
+    "Reduce heat to low, cover, and simmer until lentils reach al dente texture, about 12 minutes, stirring occasionally.",
+    "Remove pot from heat, discard bay leaf, and season with salt and pepper to taste.",
+    "Sprinkle chopped parsley over the stew and give a final stir.",
+    "Serve hot in bowls, optionally garnished with a drizzle of olive oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "cozy",
+    "easy",
+    "lentils",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 235,
+    "protein": 11,
+    "carbs": 31,
+    "fat": 7
+  },
+  "slug": "intense-canadian-lentil-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-canadian-lentil-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:00:55Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lentil",
+    "descriptor": "Intense",
+    "dishForm": "Stew"
+  }
+}
