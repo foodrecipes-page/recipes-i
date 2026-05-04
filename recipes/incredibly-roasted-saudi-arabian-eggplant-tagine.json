@@ -1,0 +1,98 @@
+{
+  "title": "Incredibly Roasted Saudi Arabian Eggplant Tagine",
+  "description": "A romantic lacto-vegetarian dish featuring roasted eggplant in a rich vinaigrette dressing, poached to perfection in a wok. This Saudi Arabian inspired recipe is sure to delight your taste buds.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the eggplant cubes with olive oil, garlic, and ginger until they are evenly coated.",
+    "Spread the eggplant mixture in a single layer in a wok and roast in the oven for 30 minutes.",
+    "While the eggplant is roasting, whisk together the apple cider vinegar, honey, salt, and black pepper in a small bowl.",
+    "After the eggplant has roasted for 30 minutes, remove it from the oven and pour the vinaigrette dressing over the top.",
+    "Return the wok to the oven and continue to roast for an additional 15 minutes.",
+    "Remove the wok from the oven and top the eggplant with crumbled feta cheese.",
+    "Let the dish rest for 5 minutes before serving.",
+    "Serve the roasted eggplant hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "middle-eastern",
+    "one-pan",
+    "roasted-vegetables",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "incredibly-roasted-saudi-arabian-eggplant-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-roasted-saudi-arabian-eggplant-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:56:36Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "poach",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Incredibly Roasted",
+    "dishForm": "Tagine"
+  }
+}
