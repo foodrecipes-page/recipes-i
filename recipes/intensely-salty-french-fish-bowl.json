@@ -1,0 +1,104 @@
+{
+  "title": "Intensely Salty French Fish Bowl",
+  "description": "A dense and salty French dish featuring fish, salsa, and served in a stone bowl, perfect for kids and pescatarians alike.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fish",
+      "amount": "1 pound",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": "Mild, homemade or store bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 tablespoons",
+      "notes": "Coarse, flaky"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the cod fish with salt, black pepper, and a squeeze of lemon juice.",
+    "In a large skillet, melt the butter over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the salsa to the skillet and stir to combine with the onion and garlic mixture.",
+    "Place the cod fish in the skillet and spoon some of the salsa mixture over the top of the fish.",
+    "Transfer the skillet to the preheated oven and bake for 12 minutes, or until the fish is cooked through.",
+    "Remove the skillet from the oven and sprinkle the chopped parsley over the top of the fish.",
+    "Serve the fish in a stone bowl, spooning some of the salsa mixture over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "kid-friendly",
+    "one-pan",
+    "pescatarian",
+    "salty",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "intensely-salty-french-fish-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-salty-french-fish-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:16:29Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "salsa",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "fish",
+    "descriptor": "intensely salty",
+    "dishForm": "Bowl"
+  }
+}
