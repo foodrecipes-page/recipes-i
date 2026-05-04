@@ -1,0 +1,91 @@
+{
+  "title": "Innovative Malaysian Myeongnan Roe Satay",
+  "description": "A savory and springy Malaysian dish featuring myeongnan roe, spherified and served in a ramekin, this innovative satay is a must try for adventurous foodies, and is jain friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "myeongnan roe",
+      "amount": "200g",
+      "notes": "frozen and thawed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "lime juice",
+      "amount": "50ml"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "20g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "10g"
+    },
+    {
+      "name": "water",
+      "amount": "500ml"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "20ml"
+    }
+  ],
+  "instructions": [
+    "Combine myeongnan roe, coconut milk, lime juice, palm sugar, and salt in a blender and blend until smooth.",
+    "Strain the mixture through a fine mesh sieve into a bowl.",
+    "Add sodium alginate to the mixture and stir until dissolved.",
+    "Using a syringe, drop the mixture into a bath of water to spherify.",
+    "Let the spherified myeongnan roe sit in the water bath for 10 minutes.",
+    "Remove the spherified myeongnan roe from the water bath and place in a ramekin.",
+    "Drizzle vegetable oil over the top of the myeongnan roe.",
+    "Serve the innovative Malaysian myeongnan roe satay immediately.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eating",
+    "jain-friendly",
+    "malaysian-cuisine",
+    "seafood-lovers",
+    "spherified-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "innovative-malaysian-myeongnan-roe-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-malaysian-myeongnan-roe-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:11:14Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "spherify",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "myeongnan-roe",
+    "descriptor": "Innovative Springy",
+    "dishForm": "Satay"
+  }
+}

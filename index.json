@@ -230,6 +230,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-saudi-cheese-fried-rice",
+    "title": "Indulgent Saudi Cheese Fried-Rice",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "fried-rice",
+      "quick",
+      "sattvic",
+      "vegetarian"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-shaggy-roasted-kenyan-zucchini-roast",
     "title": "Indulgent Shaggy Roasted Kenyan Zucchini Roast",
     "tags": [
@@ -348,6 +363,20 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 70,
+    "shard": "i"
+  },
+  {
+    "slug": "innovative-malaysian-myeongnan-roe-satay",
+    "title": "Innovative Malaysian Myeongnan Roe Satay",
+    "tags": [
+      "adventurous-eating",
+      "jain-friendly",
+      "malaysian-cuisine",
+      "seafood-lovers",
+      "spherified-food"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {

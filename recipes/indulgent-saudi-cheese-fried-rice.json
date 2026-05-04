@@ -1,0 +1,118 @@
+{
+  "title": "Indulgent Saudi Cheese Fried-Rice",
+  "description": "A peppery, tender, sick-day friendly Saudi-Arabian dish that blends spiced fried rice with melt-in-your-mouth V Sterbottensost cheese, delivering a comforting, sattvic-friendly meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked jasmine rice",
+      "amount": "400 g",
+      "notes": "pre-cooked, cold"
+    },
+    {
+      "name": "V Sterbottensost cheese",
+      "amount": "150 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "100 g"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "saffron",
+      "amount": "pinch",
+      "notes": "soaked in 1 tsp warm water"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add cumin seeds and let them sizzle for 30 seconds.",
+    "Stir in minced garlic and grated ginger, cooking until fragrant, about 1 minute.",
+    "Add diced carrot and frozen peas, sautéing until the carrot is tender, about 3 minutes.",
+    "Push the vegetables to the side and pour in the cold rice, breaking up any clumps.",
+    "Season the rice with salt, black pepper, and coriander powder, stirring to combine.",
+    "Fold in shredded V Sterbottensost cheese and saffron water, cooking until the cheese melts and the mixture is heated through, about 4 minutes.",
+    "Squeeze optional lemon juice over the rice, give a final stir, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "fried-rice",
+    "quick",
+    "sattvic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "indulgent-saudi-cheese-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-saudi-cheese-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:10:20Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "cheese",
+    "descriptor": "Indulgent",
+    "dishForm": "Fried-Rice"
+  }
+}
