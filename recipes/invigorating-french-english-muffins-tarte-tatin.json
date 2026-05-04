@@ -1,0 +1,94 @@
+{
+  "title": "Invigorating French English Muffins Tarte Tatin",
+  "description": "A savory, pillowy tart made with caramelized vegetables and English muffin halves, baked in a molcajete for a quick, energizing lunch.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "English muffins",
+      "amount": "6 English muffins",
+      "notes": "cut in half"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon olive oil"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup diced carrots"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup sliced mushrooms"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "1/2 cup diced potatoes"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1/4 cup maple syrup"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon smoked paprika"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 teaspoon sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon freshly ground black pepper"
+    },
+    {
+      "name": "Vegan cheese",
+      "amount": "1/2 cup shredded vegan cheese",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your molcajete over medium heat until it is hot.",
+    "Heat olive oil in the molcajete, then add carrots, mushrooms, and potatoes, cooking until they are lightly browned."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-bake",
+    "molcajete",
+    "savory",
+    "tarte-tatin",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "invigorating-french-english-muffins-tarte-tatin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/invigorating-french-english-muffins-tarte-tatin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:45:05Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "dum",
+    "primaryIngredient": "english muffins",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "English Muffins",
+    "descriptor": "Invigorating",
+    "dishForm": "Tarte Tatin"
+  }
+}

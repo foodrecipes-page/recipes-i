@@ -1366,6 +1366,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-sichuan-egg-shui-zhu-yu",
+    "title": "Intense Sichuan Egg Shui Zhu Yu",
+    "tags": [
+      "garlic",
+      "kid-friendly",
+      "one-pan",
+      "ovo-vegetarian",
+      "sichuan",
+      "spicy"
+    ],
+    "cuisine": "Sichuan",
+    "totalTimeMin": 15,
+    "shard": "i"
+  },
+  {
     "slug": "intense-smoky-brazilian-beef-stew",
     "title": "Intense Smoky Brazilian Beef Stew",
     "tags": [
@@ -1986,6 +2001,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 15,
+    "shard": "i"
+  },
+  {
+    "slug": "invigorating-french-english-muffins-tarte-tatin",
+    "title": "Invigorating French English Muffins Tarte Tatin",
+    "tags": [
+      "easy-bake",
+      "molcajete",
+      "savory",
+      "tarte-tatin",
+      "vegan-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {

@@ -1,0 +1,118 @@
+{
+  "title": "Intense Sichuan Egg Shui Zhu Yu",
+  "description": "A garlicky, dense Sichuan egg dish with a Jamaican curry twist, perfect for kids and ovo-vegetarian diners.",
+  "cuisine": "Sichuan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sichuan peppercorn powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper, diced",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "scallions, sliced",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Whisk eggs with soy sauce, oyster sauce, sugar, and a pinch of salt until well combined.",
+    "Heat the vegetable oil in a nonstick skillet over medium-high heat and add minced garlic, cooking until aromatic.",
+    "Stir in the Jamaican curry powder, Sichuan peppercorn powder, and chili flakes, cooking for 30 seconds to release flavors.",
+    "Add diced bell pepper and onion, sautéing until just softened, about 3-4 minutes.",
+    "Pour the egg mixture over the vegetables, letting it sit without stirring for 30 seconds.",
+    "Gently swirl the skillet to create large soft curds, cooking until the eggs are set but still moist.",
+    "Fold in sliced scallions and remove from heat.",
+    "Serve immediately, optionally with steamed rice."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "garlic",
+    "kid-friendly",
+    "one-pan",
+    "ovo-vegetarian",
+    "sichuan",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 23,
+    "carbs": 17,
+    "fat": 28
+  },
+  "slug": "intense-sichuan-egg-shui-zhu-yu",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-sichuan-egg-shui-zhu-yu",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:44:53Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "robata-grill",
+    "primaryIngredient": "jamaican curry powder",
+    "diet": "ovo-vegetarian",
+    "region": "sichuan",
+    "cuisineAdjective": "Sichuan",
+    "mainIngredient": "egg",
+    "descriptor": "Intense",
+    "dishForm": "Shui Zhu Yu"
+  }
+}
