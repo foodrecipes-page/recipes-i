@@ -1,0 +1,97 @@
+{
+  "title": "Innovative Silky Russian Noodles",
+  "description": "A fresh and adventurous Russian dish featuring brown rice noodles and pickles, perfect for those who prefer no onion or garlic in their meals. This dish is a unique twist on traditional Russian cuisine.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "no onion no garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice noodles",
+      "amount": "8 oz",
+      "notes": "freshly cooked"
+    },
+    {
+      "name": "pickles",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the brown rice noodles according to the package instructions and set aside.",
+    "In a large bowl, combine the chopped pickles, sliced smoked salmon, and chopped fresh dill.",
+    "In a small bowl, whisk together the sour cream and lemon juice until smooth.",
+    "Add the cooked noodles to the bowl with the pickle and salmon mixture, and toss to combine.",
+    "Pour the sour cream mixture over the noodles and toss to coat.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately, garnished with additional chopped fresh dill if desired.",
+    "Refrigerate any leftovers for up to 24 hours.",
+    "Reheat gently before serving if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "no-onion-no-garlic",
+    "noodle-dish",
+    "pickle-lover",
+    "russian-cuisine",
+    "smoked-salmon",
+    "sour-cream-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "innovative-silky-russian-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-silky-russian-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:03:04Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "pickle",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "noodles",
+    "descriptor": "Innovative Silky",
+    "dishForm": "Noodles"
+  }
+}

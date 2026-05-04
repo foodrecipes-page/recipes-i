@@ -926,6 +926,21 @@
     "shard": "i"
   },
   {
+    "slug": "innovative-silky-russian-noodles",
+    "title": "Innovative Silky Russian Noodles",
+    "tags": [
+      "no-onion-no-garlic",
+      "noodle-dish",
+      "pickle-lover",
+      "russian-cuisine",
+      "smoked-salmon",
+      "sour-cream-sauce"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
     "slug": "intense-algerian-oats-hash",
     "title": "Intense Algerian Oats Hash",
     "tags": [
