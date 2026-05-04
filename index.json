@@ -1384,6 +1384,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-korean-mushroom-stew",
+    "title": "Intense Korean Mushroom Stew",
+    "tags": [
+      "korean",
+      "mushroom",
+      "one-pot",
+      "slow-cook",
+      "stew",
+      "vegan"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
     "slug": "intense-malaysian-fish-grill",
     "title": "Intense Malaysian Fish Grill",
     "tags": [
@@ -2092,6 +2107,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 32,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-nutty-venezuelan-almond-tagine",
+    "title": "Intensely Nutty Venezuelan Almond Tagine",
+    "tags": [
+      "ayurvedic",
+      "gluten-free",
+      "high-fiber",
+      "south-american",
+      "tagine-cooked",
+      "vegan-friendly"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {

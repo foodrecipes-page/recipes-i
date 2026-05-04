@@ -1,0 +1,111 @@
+{
+  "title": "Intense Korean Mushroom Stew",
+  "description": "A cultured, velvety Korean stew with bold flavors from gochujang and soy sauce, finished with a gentle flambé of sesame oil.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried shiitake mushrooms",
+      "amount": "200 g",
+      "notes": "reconstitute in 200 ml hot water for 30 min then slice"
+    },
+    {
+      "name": "dried oyster mushrooms",
+      "amount": "200 g",
+      "notes": "reconstitute in 200 ml hot water for 30 min then slice"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "800 ml"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": "sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 tbsp",
+      "notes": "sliced"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "seaweed flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Rehydrate dried shiitake and oyster mushrooms by soaking them in 200 ml hot water for 30 minutes, then slice into bite-size pieces.",
+    "Heat sesame oil in a pot over medium heat; add sliced garlic and ginger, sauté until fragrant, about 2 minutes.",
+    "Stir in the sliced mushrooms, coating them with oil and aromatics, cook for 5 minutes until they start to soften.",
+    "Add gochujang, soy sauce, and a splash of vegetable broth, stirring to combine the sauce.",
+    "Pour in the remaining vegetable broth, bring the mixture to a gentle boil, then reduce heat and let it simmer for 30 minutes, uncovered.",
+    "During the last 10 minutes, add scallions, seaweed flakes, toasted sesame seeds, and black pepper, stirring to integrate the flavors.",
+    "Once the stew has thickened to a velvety consistency, taste and adjust seasoning with extra soy sauce if needed.",
+    "Serve hot, optionally garnishing with a few extra scallion leaves for a fresh finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "mushroom",
+    "one-pot",
+    "slow-cook",
+    "stew",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "intense-korean-mushroom-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-korean-mushroom-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:22:48Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "flambe",
+    "primaryIngredient": "fish sauce",
+    "diet": "buddhist-temple",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "mushroom",
+    "descriptor": "Intense",
+    "dishForm": "Stew"
+  }
+}
