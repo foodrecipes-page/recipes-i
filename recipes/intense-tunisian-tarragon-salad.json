@@ -1,0 +1,119 @@
+{
+  "title": "Intense Tunisian Tarragon Salad",
+  "description": "A fresh, grassy salad bursting with Tunisian flavors, featuring tarragon, raw mirepoix, and a zesty lemon vinaigrette.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tarragon leaves",
+      "amount": "1 cup (10g)",
+      "notes": "roughly torn"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium (100g)",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks (100g)",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 medium (50g)",
+      "notes": "finely diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 medium (100g)",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium (100g)",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50g",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Wash all vegetables thoroughly and pat dry.",
+    "Dice carrot, celery, onion, cucumber, and tomato into bite-sized cubes.",
+    "Roughly tear tarragon leaves and add them to the diced vegetables.",
+    "In a small bowl whisk together olive oil, lemon juice, salt, pepper, cumin, and paprika to make the vinaigrette.",
+    "Pour the dressing over the salad and toss gently until all ingredients are coated.",
+    "Fold in crumbled feta cheese just before serving.",
+    "Plate the salad on chilled plates and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "raw",
+    "salad",
+    "tarragon",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 155,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "intense-tunisian-tarragon-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-tunisian-tarragon-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:14:11Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "tarragon",
+    "descriptor": "Intense",
+    "dishForm": "Salad"
+  }
+}
