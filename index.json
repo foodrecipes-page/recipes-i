@@ -366,6 +366,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-irish-chicken-stew",
+    "title": "Intense Irish Chicken Stew",
+    "tags": [
+      "comfort-food",
+      "irish",
+      "kid-friendly",
+      "one-pot",
+      "stew"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "intense-malaysian-fish-grill",
     "title": "Intense Malaysian Fish Grill",
     "tags": [

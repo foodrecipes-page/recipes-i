@@ -1,0 +1,114 @@
+{
+  "title": "Intense Irish Chicken Stew",
+  "description": "A bitter, flaky crowd‑pleaser Irish dish with a rich chicken stock base and render‑fat, perfect for a temple‑friendly meal.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "450 g",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken fat",
+      "amount": "2 tbsp",
+      "notes": "rendered"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "all‑purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken stock cube",
+      "amount": "1",
+      "notes": "crushed"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mixed dried thyme and rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the chicken fat in a large pot over medium heat until shimmering.",
+    "Add the diced chicken and brown on all sides, about 5 minutes.",
+    "Remove the chicken and set aside, leaving fat in the pot.",
+    "In the same pot, sauté onion, carrots, celery, and potatoes until lightly browned, about 8 minutes.",
+    "Stir in mushrooms and cook another 3 minutes.",
+    "Sprinkle flour over the vegetables and stir until coating, cook 1 minute.",
+    "Return the chicken to the pot with the stock cube, water, herb mixture, and bay leaf; bring to a boil.",
+    "Reduce heat, cover, and simmer for 20 minutes until the chicken is tender and flavors meld.",
+    "Season with salt and pepper to taste, then discard the bay leaf.",
+    "Serve hot, optionally with crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish",
+    "kid-friendly",
+    "one-pot",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 35,
+    "carbs": 16,
+    "fat": 11
+  },
+  "slug": "intense-irish-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-irish-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:09:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "render-fat",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Chicken",
+    "descriptor": "Intense",
+    "dishForm": "Stew"
+  }
+}
