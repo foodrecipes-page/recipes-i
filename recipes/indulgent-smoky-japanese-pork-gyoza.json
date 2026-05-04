@@ -1,0 +1,110 @@
+{
+  "title": "Indulgent Smoky Japanese Pork Gyoza",
+  "description": "Satisfying, smoky pork gyoza packed with flavor and low‑carb goodness, perfect for a quick weeknight dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "300 g"
+    },
+    {
+      "name": "napa cabbage",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "scallions",
+      "amount": "2, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp, toasted"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "low-carb gyoza wrappers",
+      "amount": "12 wrappers"
+    }
+  ],
+  "instructions": [
+    "Press pork into a bowl and add salt, pepper, sesame oil, soy sauce, mirin, minced garlic, grated ginger, chopped scallions, and ground black pepper; mix until well combined.",
+    "Fold in shredded napa cabbage and toasted sesame seeds; mix for 2 minutes until the mixture is moist.",
+    "Place a low-carb gyoza wrapper on a clean surface, spoon 1 tablespoon of filling onto the center, and press the edges together to seal tightly.",
+    "Repeat until all wrappers are filled.",
+    "Heat a non-stick skillet over medium heat and add 1 tsp of sesame oil; place gyoza in a single layer, skin side down.",
+    "Sauté until the bottom is golden brown, about 3 minutes, then pour 1/4 cup of water into the pan.",
+    "Cover the skillet and let the gyoza steam for 5 minutes; remove the lid when the water has evaporated.",
+    "Finish by drizzling a smoky glaze made of 2 tbsp low-sodium soy sauce, 1 tsp sesame oil, 1/4 tsp smoked paprika, and a dash of garlic powder over the cooked gyoza; serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gyoza",
+    "indulgent",
+    "japanese",
+    "low-carb",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "indulgent-smoky-japanese-pork-gyoza",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-smoky-japanese-pork-gyoza",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:25:55Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "glaze",
+    "primaryIngredient": "stout",
+    "diet": "low-carb",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Pork",
+    "descriptor": "Indulgent Smoky",
+    "dishForm": "Gyoza"
+  }
+}
