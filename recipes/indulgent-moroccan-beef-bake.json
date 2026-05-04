@@ -1,0 +1,109 @@
+{
+  "title": "Indulgent Moroccan Beef Bake",
+  "description": "A rich and flavorful moroccan dish featuring tender beef and a buttery, aerated crust.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass-fed beef strips",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 teaspoons",
+      "notes": "grated"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Beef stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the beef strips with salt, black pepper, paprika, cumin.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the beef strips until browned on all sides, about 2-3 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the diced onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and grated ginger to the skillet and cook for an additional minute.",
+    "Stir in the beef stock and bring to a simmer.",
+    "Return the beef strips to the skillet and stir to coat with the sauce.",
+    "Transfer the skillet to the preheated oven and bake for 25-30 minutes, or until the beef is tender.",
+    "Stir in the coconut milk and continue baking for an additional 5-7 minutes, or until the sauce has thickened.",
+    "Remove from the oven and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "moroccan",
+    "one-pot",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "indulgent-moroccan-beef-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-moroccan-beef-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T05:40:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "beef stock",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "beef",
+    "descriptor": "Indulgent",
+    "dishForm": "Bake"
+  }
+}
