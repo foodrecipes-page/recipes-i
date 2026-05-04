@@ -1,0 +1,121 @@
+{
+  "title": "Indulgent French Beef Casserole",
+  "description": "A buttery, gooey slow‑cook beef casserole that feels like a French Provence classic while staying low‑glycemic. Creamy gravy and aromatic herbs make each bite luxuriously comforting.",
+  "cuisine": "French",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck, trimmed and cut into 1.5\" cubes",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "yellow onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "celery stalk, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "fresh thyme sprigs",
+      "amount": "4"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "dry red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef stock, low sodium",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "0.5 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt, to taste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F.",
+    "Heat 1 tablespoon of butter in a large Dutch oven over medium‑high heat.",
+    "Sear the beef cubes in batches until browned on all sides; transfer to a plate.",
+    "Add the remaining butter to the pot and sauté the onion, carrot, celery, garlic, thyme, and bay leaf until vegetables soften, about 5 minutes.",
+    "Stir in the tomato paste and cook for 1 minute to deglaze the pan.",
+    "Pour in the red wine, scraping up any browned bits, and let it reduce by half, about 3 minutes.",
+    "Return the beef to the pot, add the beef stock, and bring the mixture to a simmer.",
+    "Cover the pot and transfer it to the oven; cook for 1 hour and 30 minutes until the beef is tender.",
+    "Remove the pot from the oven, stir in the heavy cream and Dijon mustard, and season with salt and pepper.",
+    "Simmer uncovered on the stove for 5 minutes to thicken the gravy slightly, stirring occasionally.",
+    "Serve the casserole hot, garnished with fresh thyme leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buttery-rich",
+    "comfort-food",
+    "french",
+    "low-glycemic",
+    "slow-cook",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 32,
+    "carbs": 9,
+    "fat": 33
+  },
+  "slug": "indulgent-french-beef-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-french-beef-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:27:24Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "slow-cook",
+    "primaryIngredient": "beef gravy",
+    "diet": "low-glycemic",
+    "region": "provence",
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef",
+    "descriptor": "Indulgent",
+    "dishForm": "Casserole"
+  }
+}

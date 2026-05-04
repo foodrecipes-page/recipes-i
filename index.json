@@ -445,6 +445,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-french-beef-casserole",
+    "title": "Indulgent French Beef Casserole",
+    "tags": [
+      "buttery-rich",
+      "comfort-food",
+      "french",
+      "low-glycemic",
+      "slow-cook",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 110,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-french-tomato-quiche",
     "title": "Indulgent French Tomato Quiche",
     "tags": [
