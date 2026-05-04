@@ -1488,6 +1488,23 @@
     "shard": "i"
   },
   {
+    "slug": "intense-filipino-seitan-stew",
+    "title": "Intense Filipino Seitan Stew",
+    "tags": [
+      "filipino",
+      "hearty",
+      "one-pot",
+      "plant-based",
+      "savory",
+      "slow-cook",
+      "stew",
+      "vegan"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
     "slug": "intense-filipino-tofu-curry",
     "title": "Intense Filipino Tofu Curry",
     "tags": [
