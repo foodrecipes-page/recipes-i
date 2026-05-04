@@ -1,0 +1,108 @@
+{
+  "title": "Indulgent Peruvian Quinoa Picarones",
+  "description": "Fermented, chewy quinoa picarones packed with onion and confit tomato, perfect for a post-workout ovo-vegetarian dessert.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "quinoa, dry",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "confine tomato, prepared",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "yogurt, plain",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water until runoff is clear.",
+    "In a saucepan, combine quinoa, water, and salt, bring to boil, reduce heat, cover, and simmer for 15 minutes until quinoa is tender and water is absorbed.",
+    "Let the cooked quinoa cool to room temperature, then stir in yogurt to create a fermented batter and let rest covered at room temperature for 1 hour.",
+    "In a skillet, sauté diced onion in olive oil over medium heat until translucent, then fold in confit tomato and cook for 5 minutes.",
+    "Whisk eggs with lemon zest, then add to the quinoa batter, mixing until well combined.",
+    "Stir in whole wheat flour, baking soda, and ground cumin until the dough is thick and elastic.",
+    "Fold in the sautéed onion and tomato mixture into the dough, ensuring even distribution.",
+    "Drop spoonfuls of dough onto a parchment-lined pan, flatten slightly, and let them rest for 10 minutes to firm up.",
+    "Heat oil in a deep fryer or deep pan to 180°C and fry the picarones until golden brown, about 2-3 minutes per side.",
+    "Drain on paper towels, sprinkle with fresh cilantro if desired, and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "fermented",
+    "high-protein",
+    "ovo-vegetarian",
+    "peruvian-inspired",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "indulgent-peruvian-quinoa-picarones",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-peruvian-quinoa-picarones",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:33:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "confit-tomato",
+    "primaryIngredient": "onions",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Indulgent",
+    "dishForm": "Picarones"
+  }
+}
