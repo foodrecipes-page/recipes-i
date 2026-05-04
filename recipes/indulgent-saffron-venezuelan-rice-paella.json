@@ -1,0 +1,63 @@
+{
+  "title": "indulgent saffron venezuelan rice paella",
+  "description": "a comforting venezuelan dish featuring the rich flavors of saffron and high heat cooking oil, all in one delicious paella pan.",
+  "cuisine": "venezuelan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "high quality, preferably from peru"
+    }
+  ],
+  "instructions": [
+    "heat 3 tablespoons of gourmet vegetable oil in a large paella pan over medium-high heat.",
+    "add 1 small onion, diced, and cook until translucent, about 3-4 minutes.",
+    "add 3 cloves garlic, minced, and cook for 1 minute, stirring constantly.",
+    "add 1 cup uncooked rice and stir to coat with oil and mix with onion and garlic.",
+    "add 2 cups water, 2 cups red wine vinegar, 1 teaspoon ground cumin, and 1 teaspoon smoked paprika. Stir to combine.",
+    "add 1 cup frozen peas, 1 cup diced red bell pepper, and 1 cup diced tomato. Stir to combine.",
+    "add 1 teaspoon saffron threads, soaked in 2 tablespoons hot water, and stir to combine.",
+    "bring the mixture to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "remove the paella from heat and let rest, covered, for 5 minutes before serving.",
+    "fluff the paella with a fork and garnish with chopped fresh cilantro, grated parmesan cheese, and a squeeze of lemon juice.",
+    "adjust seasoning with salt, black pepper, and red pepper flakes to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "candlelight",
+    "comfort-food",
+    "one-pan",
+    "vegetarian",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 24
+  },
+  "slug": "indulgent-saffron-venezuelan-rice-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-saffron-venezuelan-rice-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:00Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "braise",
+    "primaryIngredient": "high heat cooking oil",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "rice",
+    "descriptor": "Indulgent Saffron",
+    "dishForm": "Paella"
+  }
+}
