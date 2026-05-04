@@ -1,0 +1,109 @@
+{
+  "title": "Intense Peppery Mediterranean Beef Stew",
+  "description": "A molten, pepper‑laden beef stew that satisfies midnight cravings with Mediterranean flair and low‑glycemic ingredients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck, cut into cubes",
+      "amount": "1 lb",
+      "notes": "unsalted stock used for seasoning"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "red bell pepper, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "green bell pepper, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato, diced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "unsalted beef stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat bamboo tray over medium heat and add olive oil until shimmering.",
+    "Add beef cubes and brown on all sides in batches, then remove and set aside.",
+    "In the same tray, sauté onion until translucent, then add garlic and cook for 30 seconds.",
+    "Stir in bell peppers and tomatoes, cooking until they soften slightly, about 5 minutes.",
+    "Sprinkle smoked paprika, cumin, cayenne pepper and black pepper over the vegetables and stir to coat.",
+    "Return browned beef to the tray, pour in beef stock, and add lemon juice; stir well.",
+    "Cover the tray with a tight‑fitting lid and place in a pressure cooker set to high pressure for 35 minutes.",
+    "Release pressure naturally for 10 minutes, then quick‑release any remaining pressure.",
+    "Remove the lid, stir the stew, and let it simmer for 5 minutes to reduce slightly.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-tray",
+    "late-night",
+    "low-glycemic",
+    "mediterranean",
+    "peppery",
+    "pressure-cook"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 100,
+    "carbs": 15,
+    "fat": 95
+  },
+  "slug": "intense-peppery-mediterranean-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-peppery-mediterranean-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:25:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "pressure-cook",
+    "primaryIngredient": "unsalted beef stock",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Beef",
+    "descriptor": "Intense Peppery",
+    "dishForm": "Stew"
+  }
+}
