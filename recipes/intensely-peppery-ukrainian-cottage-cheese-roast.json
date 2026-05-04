@@ -1,0 +1,99 @@
+{
+  "title": "Ukrainian Cottage Cheese Roast",
+  "description": "A traditional Ukrainian dish featuring cottage cheese and roast, with an intense peppery flavor, this recipe is low-fat-friendly and perfect for a nostalgic meal. It is a molten, savory delight that will transport you to the Ukrainian countryside.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "roast beef",
+      "amount": "1 pound",
+      "notes": "lean cut"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tablespoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the cottage cheese, roast beef, black pepper, onion, garlic, salt, and paprika, and mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish and pour in the chicken broth.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is lightly browned.",
+    "Remove the dish from the oven and let it cool for 10 minutes before serving.",
+    "Serve hot, garnished with chopped fresh parsley or dill.",
+    "Refrigerate or freeze any leftovers for up to 3 days.",
+    "Reheat the dish in the oven or on the stovetop until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-fat",
+    "one-dish",
+    "peppery",
+    "savory",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "intensely-peppery-ukrainian-cottage-cheese-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-peppery-ukrainian-cottage-cheese-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:21:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "roast",
+    "primaryIngredient": "cottage cheese",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cottage cheese",
+    "descriptor": "intensely peppery",
+    "dishForm": "Roast"
+  }
+}
