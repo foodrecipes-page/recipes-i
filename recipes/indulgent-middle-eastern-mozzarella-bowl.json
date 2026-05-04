@@ -1,0 +1,110 @@
+{
+  "title": "Indulgent Middle Eastern Mozzarella Bowl",
+  "description": "A rich, cheese-pulled bowl with a sweet mirin-hon glaze, wrapped in parchment for a moist finish. It’s a quick, gluten-free dish bursting with Middle Eastern spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mozzarella",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "mirin-hon",
+      "amount": "1 tbsp",
+      "notes": "sweet rice wine"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "pistachios",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190C.",
+    "Whisk olive oil, garam masala, cumin, smoked paprika, mirin-hon, lemon juice, salt, and pepper in a bowl.",
+    "Toss mozzarella, cherry tomatoes, and spinach in the spice mixture until coated.",
+    "Lay the mixture on a parchment sheet and fold it into a tight papillote, sealing the edges.",
+    "Bake the papillote for 15 minutes until the mozzarella melts and flavors meld.",
+    "Remove from oven, sprinkle chopped pistachios on top.",
+    "Gently unfold the papillote and let the steam release before serving.",
+    "Serve warm, optionally with a side of crusty gluten-free bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "gluten-free",
+    "indulgent",
+    "middle-eastern",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 50
+  },
+  "slug": "indulgent-middle-eastern-mozzarella-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-middle-eastern-mozzarella-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:33:50Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "papillote",
+    "primaryIngredient": "mirin-hon",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Indulgent",
+    "dishForm": "Bowl"
+  }
+}
