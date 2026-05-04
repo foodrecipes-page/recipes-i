@@ -1,0 +1,111 @@
+{
+  "title": "Indulgent Yeasty American Cod Chowder",
+  "description": "A creamy, yeasty cod chowder that feels like a cozy hug, with toasted sourdough crumbles and a touch of spice.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 lb",
+      "notes": "cut into bite‑size pieces"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "sourdough bread",
+      "amount": "4 slices",
+      "notes": "toasted and crumbled"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pot over medium heat until melted.",
+    "Add diced onion and sauté until translucent, about 5 minutes.",
+    "Stir in chopped carrots and diced potatoes, cooking for 3 minutes.",
+    "Pour in heavy cream and whole milk, bring to a gentle simmer.",
+    "Add cod pieces, peas, and toasted sourdough crumbles to the pot.",
+    "Simmer gently for 10 minutes, until cod is opaque and potatoes are tender.",
+    "Season with salt, pepper, and cayenne pepper, adjusting to taste.",
+    "Serve hot, spooning in generous amounts of crumbled bread for extra thickness.",
+    "Allow the chowder to rest for 2 minutes before serving for optimal richness.",
+    "Enjoy each comforting spoonful of yeasty cod chowder.",
+    "Optional: garnish with fresh parsley or a drizzle of olive oil.",
+    "Repeat steps 1‑3 if you prefer a thicker texture."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "american",
+    "dinner"
+  ],
+  "slug": "indulgent-yeasty-american-cod-chowder",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-yeasty-american-cod-chowder",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:18:19Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "score-fat",
+    "primaryIngredient": "cod",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Cod",
+    "descriptor": "Indulgent Yeasty",
+    "dishForm": "Chowder"
+  }
+}

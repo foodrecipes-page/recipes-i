@@ -1464,6 +1464,17 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-yeasty-american-cod-chowder",
+    "title": "Indulgent Yeasty American Cod Chowder",
+    "tags": [
+      "american",
+      "dinner"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulging-smoky-irish-sea-bass-salad",
     "title": "Indulging Smoky Irish Sea Bass Salad",
     "tags": [
