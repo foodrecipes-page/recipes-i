@@ -1,0 +1,108 @@
+{
+  "title": "Inviting Algerian Egg Frittata",
+  "description": "A floral, pillowy frittata that feels like a solo dinner with a touch of Algerian spice.",
+  "cuisine": "Algerian",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 lemon"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tbsp, chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a 9‑inch non‑stick skillet over medium heat.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Stir in minced garlic and cook until fragrant, about 30 seconds.",
+    "Sprinkle paprika, cumin, coriander, salt, and pepper; stir and cook 1 minute.",
+    "Whisk eggs in a bowl, add lemon zest and mint, then pour into the skillet.",
+    "Cook without stirring for 2 minutes until the edges begin to set.",
+    "Gently lift the edges with a spatula, tilt the pan, and let the uncooked egg flow underneath.",
+    "Reduce heat to low, cover, and cook until the eggs are fully set, about 4 minutes.",
+    "Flip the frittata onto a plate, slide it back into the skillet, and cook the other side for 1 minute.",
+    "Garnish with chopped parsley, slice, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "one-pan",
+    "paleo-friendly",
+    "pillowy",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 293,
+    "protein": 18,
+    "carbs": 2,
+    "fat": 20
+  },
+  "slug": "inviting-algerian-egg-frittata",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/inviting-algerian-egg-frittata",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:45:31Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "blanch",
+    "primaryIngredient": "eggs",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "egg",
+    "descriptor": "Inviting",
+    "dishForm": "Frittata"
+  }
+}
