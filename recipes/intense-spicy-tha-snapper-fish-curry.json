@@ -1,0 +1,120 @@
+{
+  "title": "intense spicy tha snapper fish curry",
+  "description": "spicy and flaky thai curry featuring snapper fish as the main ingredient. braised to perfection in a flavorful and aromatic sauce.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fish fillets",
+      "amount": "2",
+      "notes": "1 1/2 pounds total, cut into 2 pieces"
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat 2 tablespoons of canola oil in a large skillet over medium-high heat.",
+    "add the onion and cook until it's translucent, about 3-4 minutes.",
+    "add the garlic and cook for 1 minute, until fragrant.",
+    "add the snapper fish fillets and cook for 2-3 minutes on each side, or until they're browned and cooked through.",
+    "remove the fish from the skillet and set it aside.",
+    "add the lemon juice, fish sauce, brown sugar, chili flakes, coriander powder, and cumin powder to the skillet. stir to combine.",
+    "bring the mixture to a simmer and cook for 2-3 minutes, until the sauce has thickened slightly.",
+    "add the coconut milk to the skillet and stir to combine.",
+    "return the fish to the skillet and simmer for 2-3 minutes, until it's coated in the sauce.",
+    "season the curry with salt and pepper to taste.",
+    "stir in the chopped cilantro and serve the curry immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fishcurry",
+    "highprotein",
+    "onepan",
+    "snapperfish",
+    "spicyfood",
+    "thaicurry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "intense-spicy-tha-snapper-fish-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-spicy-tha-snapper-fish-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T16:12:49Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "braise",
+    "primaryIngredient": "snapper fish",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Tha",
+    "mainIngredient": "snapper fish",
+    "descriptor": "intense spicy",
+    "dishForm": "curry"
+  }
+}
