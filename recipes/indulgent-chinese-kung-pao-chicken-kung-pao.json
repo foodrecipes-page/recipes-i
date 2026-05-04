@@ -1,0 +1,108 @@
+{
+  "title": "Indulgent Chinese Kung Pao Chicken",
+  "description": "A resinous, chewy, lacto-vegetarian-friendly dish featuring makrut lime leaves, perfect for a date night. This Kung Pao chicken recipe combines the perfect balance of spicy, sour, and savory flavors.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Makrut lime leaves",
+      "amount": "4 leaves",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 tablespoon",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "Bhuna chili paste",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a wok over high heat until it reaches 400°F (200°C).",
+    "Add the chicken to the wok and cook for 3-4 minutes, until browned and cooked through.",
+    "Remove the chicken from the wok and set it aside.",
+    "Add the peanuts to the wok and cook for 1-2 minutes, until fragrant and lightly toasted.",
+    "Add the garlic, ginger, and Sichuan peppercorns to the wok and cook for 1 minute, until fragrant.",
+    "Add the bhuna chili paste, soy sauce, and hoisin sauce to the wok and cook for 1 minute, until the sauce is bubbly and slightly thickened.",
+    "Add the makrut lime leaves and scallions to the wok and cook for 1 minute, until the leaves are slightly wilted.",
+    "Return the chicken to the wok and stir to combine with the sauce.",
+    "Cook for an additional 1-2 minutes, until the chicken is coated in the sauce and heated through.",
+    "Transfer the chicken to a tagliere and serve immediately.",
+    "Serve the chicken hot over steamed rice, garnished with additional scallions and makrut lime leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chinese",
+    "date-night",
+    "kung-pao",
+    "lacto-vegetarian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "indulgent-chinese-kung-pao-chicken-kung-pao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-chinese-kung-pao-chicken-kung-pao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "bhuna",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "Indulgent Kung Pao",
+    "dishForm": "Kung Pao"
+  }
+}

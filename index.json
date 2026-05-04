@@ -468,6 +468,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-chinese-kung-pao-chicken-kung-pao",
+    "title": "Indulgent Chinese Kung Pao Chicken",
+    "tags": [
+      "chinese",
+      "date-night",
+      "kung-pao",
+      "lacto-vegetarian",
+      "spicy"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-creamy-venezuelan-almonds-gratin",
     "title": "Indulgent Creamy Venezuelan Almonds Gratin",
     "tags": [
@@ -1012,6 +1026,22 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-mexican-cheese-tacos",
+    "title": "Indulgent Mexican Cheese Tacos",
+    "tags": [
+      "cheese",
+      "dinner",
+      "indulgent",
+      "mexican",
+      "special-occasion",
+      "tacos",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
     "shard": "i"
   },
   {

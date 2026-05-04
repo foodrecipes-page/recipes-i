@@ -1,0 +1,114 @@
+{
+  "title": "Indulgent Mexican Cheese Tacos",
+  "description": "Sweet sherry and crispy wok-hei meet gooey melted cheese, perfect for a dinner indulgence.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet sherry",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "wok oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chiapas cheese blend",
+      "amount": "8 ounces",
+      "notes": "divided"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4-6",
+      "notes": "corn, 6-8 inch diameter"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat wok oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until crispy and golden, about 4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add 1 cup of the Chiapas cheese blend and stir until melted and gooey, about 2 minutes.",
+    "Add 1/4 cup of the sweet sherry and stir to combine, scraping the bottom of the pan.",
+    "Season with cumin, smoked paprika, salt, and black pepper.",
+    "Warm tortillas over a low flame or in the oven.",
+    "Assemble the tacos with the crispy onion, melted cheese mixture, and a sprinkle of cilantro (if using)"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheese",
+    "dinner",
+    "indulgent",
+    "mexican",
+    "special-occasion",
+    "tacos",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1042,
+    "protein": 30,
+    "carbs": 80,
+    "fat": 64
+  },
+  "slug": "indulgent-mexican-cheese-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-mexican-cheese-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:27Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "wok-hei",
+    "primaryIngredient": "sweet sherry",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cheese",
+    "descriptor": "indulgent",
+    "dishForm": "Tacos"
+  }
+}
