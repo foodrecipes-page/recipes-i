@@ -1,0 +1,100 @@
+{
+  "title": "Intensely Floral Italian Shrimp Pasta",
+  "description": "A light and chewy Italian dish featuring shrimp stock and served in scallop shells, with a focus on floral flavors. This egg-free friendly recipe is perfect for a special occasion.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "shellfish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried lavender",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "shrimp stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "linguine pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the linguine pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the shrimp to the skillet and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside, leaving the garlic and oil in the skillet.",
+    "Add the lemon zest, dried lavender, and shrimp stock to the skillet and stir to combine.",
+    "Reduce the heat to low and simmer the sauce for 5 minutes, stirring occasionally.",
+    "Stir in the cooked linguine pasta, salt, and black pepper, and cook for an additional 2 minutes.",
+    "To serve, place a portion of the pasta mixture into each scallop shell, top with a cooked shrimp, and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral-flavors",
+    "italian-food",
+    "light-meal",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intensely-floral-italian-shrimp-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-floral-italian-shrimp-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:15:57Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "brine-dry",
+    "primaryIngredient": "shrimp stock",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "shrimp",
+    "descriptor": "intensely floral",
+    "dishForm": "Pasta"
+  }
+}
