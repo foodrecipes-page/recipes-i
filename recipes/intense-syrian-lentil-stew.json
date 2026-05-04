@@ -1,0 +1,126 @@
+{
+  "title": "Intense Syrian Lentil Stew",
+  "description": "A hearty, low-glycemic lentil stew steeped in aromatic soffritto, finished with a splash of dry marsala wine for subtle depth.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup dried green lentils",
+      "notes": "rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion",
+      "notes": "finely diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 carrot",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk celery",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves garlic",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp tomato paste",
+      "notes": ""
+    },
+    {
+      "name": "marsala wine",
+      "amount": "1/2 cup dry marsala wine",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups low sodium vegetable broth",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp olive oil",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp dried thyme",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp smoked paprika",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp salt",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp black pepper",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add onion, carrot, celery and sauté until the vegetables soften, about 5 minutes.",
+    "Stir in garlic and cook for 1 minute until fragrant.",
+    "Add tomato paste, dried thyme, smoked paprika, salt and pepper; cook for 2 minutes.",
+    "Pour in marsala wine, let it reduce for 3 minutes, stirring frequently.",
+    "Add lentils and stir to coat them in the aromatics.",
+    "Pour in vegetable broth and bring the mixture to a boil.",
+    "Reduce heat, cover, and simmer for 30 minutes until lentils are tender.",
+    "Taste and adjust seasoning if needed, then serve hot.",
+    "Sprinkle fresh herbs or a squeeze of lemon if desired before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-glycemic",
+    "one-pot",
+    "slow-cooked",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 21,
+    "carbs": 80,
+    "fat": 29
+  },
+  "slug": "intense-syrian-lentil-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-syrian-lentil-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:33:39Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "soffritto-base",
+    "primaryIngredient": "marsala-wine",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lentils",
+    "descriptor": "Intense",
+    "dishForm": "Stew"
+  }
+}
