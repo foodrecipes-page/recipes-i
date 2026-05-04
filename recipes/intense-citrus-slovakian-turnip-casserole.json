@@ -1,0 +1,95 @@
+{
+  "title": "Intense Citrus Slovakian Turnip Casserole",
+  "description": "A citrusy, pillowy casserole that showcases turnips and tender pork, perfect for a hearty weeknight dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "egg-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turnips",
+      "amount": "500g",
+      "notes": "peeled and sliced 1/4 inch thick"
+    },
+    {
+      "name": "pork tenderloin",
+      "amount": "200g",
+      "notes": "sliced into bite-size pieces"
+    },
+    {
+      "name": "fresh lemon",
+      "amount": "2 medium",
+      "notes": "juice and zest"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": "dried or 1 tbsp fresh chopped"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "Toss sliced turnips and pork strips with olive oil, garlic, lemon zest, salt, pepper, and thyme.",
+    "Spread the mixture in an even layer in a greased baking dish.",
+    "Drizzle the vegetable broth over the top of the mixture.",
+    "Cover dish tightly with aluminum foil to trap steam.",
+    "Bake for 25 minutes, then remove foil and bake for another 15 minutes until turnips are tender and edges are slightly browned.",
+    "Let casserole rest for 5 minutes before serving to set the flavors.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "one-pan",
+    "slovakian",
+    "turnip",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 2600,
+    "protein": 54,
+    "carbs": 15,
+    "fat": 50
+  },
+  "slug": "intense-citrus-slovakian-turnip-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-citrus-slovakian-turnip-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:22:56Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "rest-meat",
+    "primaryIngredient": "turnips",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "turnips",
+    "descriptor": "Intense Citrus",
+    "dishForm": "Casserole"
+  }
+}
