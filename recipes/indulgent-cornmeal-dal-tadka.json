@@ -1,0 +1,84 @@
+{
+  "title": "Indulgent Cornmeal Dal Tadka",
+  "description": "A creamy and indulgent Indian dish featuring fine yellow cornmeal, made with fermented ingredients for a unique texture and flavor. This ayurvedic-tamasic-friendly dish is perfect as a dessert or snack.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": 150
+    },
+    {
+      "name": "coconut milk",
+      "amount": "8 oz"
+    },
+    {
+      "name": "ghee (clarified butter)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "few"
+    },
+    {
+      "name": "clove paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "jaggery (raw), grated",
+      "amount": "4 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Mix cornmeal, coconut milk, and ghee in a bowl until smooth. Transfer to an oven-safe dish.",
+    "Stir together ginger powder, curry leaves, clove paste, black pepper powder, and grated jaggery into the cornmeal mixture.",
+    "Bake for 25 minutes or until set.",
+    "Serve warm as a dessert or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-tamasic-friendly",
+    "dessert",
+    "fermented",
+    "indulgent",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "indulgent-cornmeal-dal-tadka",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-cornmeal-dal-tadka",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T22:07:05Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "candy",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Cornmeal",
+    "descriptor": "Indulgent",
+    "dishForm": "Dal Tadka"
+  }
+}

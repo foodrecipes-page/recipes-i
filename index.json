@@ -521,6 +521,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-cornmeal-dal-tadka",
+    "title": "Indulgent Cornmeal Dal Tadka",
+    "tags": [
+      "ayurvedic-tamasic-friendly",
+      "dessert",
+      "fermented",
+      "indulgent",
+      "light"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-creamy-venezuelan-almonds-gratin",
     "title": "Indulgent Creamy Venezuelan Almonds Gratin",
     "tags": [
