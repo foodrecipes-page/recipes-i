@@ -1,0 +1,127 @@
+{
+  "title": "Icy Sashimi Turkish Chicken Breast Doner Kebab",
+  "description": "Prepare a refreshing twist on the classic Turkish Doner Kebab, featuring sashimi-cut chicken breast and a briny, creamy sauce. Perfect for a weeknight dinner.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless Chicken Breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Icy Sashimi Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Bread",
+      "amount": "4-6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Ice Cubes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the chicken breast with salt and black pepper. ",
+    "On a cedar plank or a large cutting board, arrange the chicken breast in a horizontal position. ",
+    "Spread the Feta cheese evenly over the chicken breast, leaving a thin border around the edges. ",
+    "In a small bowl, mix together the lemon juice, minced garlic, and chopped parsley. ",
+    "Spread the lemon-garlic mixture evenly over the Feta cheese. ",
+    "Place the chicken breast on the preheated oven rack and bake for 20 minutes. ",
+    "After 20 minutes, remove the chicken from the oven and let it rest for 5 minutes. ",
+    " Meanwhile, toast the Turkish bread slices for a few minutes. ",
+    "Cut the sashimi-cut chicken breast into thin strips, using a sharp knife. ",
+    "Serve the chicken breast strips on the toasted Turkish bread slices with a dollop of Icy Sashimi Sauce. ",
+    "Garnish with a sprinkle of fresh mint leaves and serve immediately. ",
+    "Repeat the process for the remaining chicken breast. ",
+    "Freeze the leftovers and enjoy them in a future meal.",
+    "Garnish with additional parsley and cilantro if desired. ",
+    "Transfer the chicken to a serving plate and serve immediately. ",
+    "Garnish with a sprinkle of feta cheese if desired. ",
+    "Serve with a side of ice cubes to keep the chicken breast chilled. "
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "doner-kebab",
+    "lacto-vegetarian",
+    "one-pan",
+    "sashimi",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "icy-sashimi-turkish-chicken-breast-doner-kebab",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-sashimi-turkish-chicken-breast-doner-kebab",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:51Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "chicken breast",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Chicken Breast",
+    "descriptor": "Icy Sashimi",
+    "dishForm": "Doner Kebab"
+  }
+}

@@ -168,6 +168,22 @@
     "shard": "i"
   },
   {
+    "slug": "icy-sashimi-turkish-chicken-breast-doner-kebab",
+    "title": "Icy Sashimi Turkish Chicken Breast Doner Kebab",
+    "tags": [
+      "chicken",
+      "doner-kebab",
+      "lacto-vegetarian",
+      "one-pan",
+      "sashimi",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "icy-silky-brazilian-rice-gratin",
     "title": "Icy Silky Brazilian Rice Gratin",
     "tags": [
