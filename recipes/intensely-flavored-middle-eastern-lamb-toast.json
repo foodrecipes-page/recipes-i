@@ -1,0 +1,91 @@
+{
+  "title": "Middle Eastern Lamb Toast",
+  "description": "A flavorful and festive Middle Eastern dish featuring lamb, toast, and kombu-cold-extract, perfect for a special occasion, and jain-friendly by using plant-based ingredients instead of traditional lamb.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb substitute",
+      "amount": "1 cup",
+      "notes": "such as seitan or textured vegetable protein"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the pita bread into 1-inch thick slices and toast until lightly browned.",
+    "In a large skillet, heat the olive oil over medium heat and add the minced garlic.",
+    "Add the lamb substitute to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the kombu-cold-extract, lemon juice, sumac, and salt.",
+    "Brush the toasted pita bread slices with the lamb mixture and serve immediately.",
+    "Garnish with additional sumac and lemon wedges if desired.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "jain-friendly",
+    "kombu-cold-extract",
+    "lamb-substitute",
+    "middle-eastern",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intensely-flavored-middle-eastern-lamb-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flavored-middle-eastern-lamb-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:12:08Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "toast",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Intensely flavored",
+    "dishForm": "Toast"
+  }
+}

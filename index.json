@@ -680,6 +680,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-flavored-middle-eastern-lamb-toast",
+    "title": "Middle Eastern Lamb Toast",
+    "tags": [
+      "festive",
+      "jain-friendly",
+      "kombu-cold-extract",
+      "lamb-substitute",
+      "middle-eastern",
+      "special-occasion"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-floral-italian-shrimp-pasta",
     "title": "Intensely Floral Italian Shrimp Pasta",
     "tags": [
