@@ -1,0 +1,100 @@
+{
+  "title": "Indulgent Slovakian Christmas Pudding Pancakes",
+  "description": "Savory and springy pancakes infused with leftover Christmas pudding, perfect for a Buddhist temple friendly festive lunch.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "white sugar",
+      "amount": "15g"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "almond milk",
+      "amount": "50ml"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Christmas pudding",
+      "amount": "200g",
+      "notes": "chopped"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "10g",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl whisk flour, sugar, salt, and baking powder until well combined.",
+    "Add almond milk, eggs, and vanilla; whisk until smooth batter forms.",
+    "Fold in the chopped Christmas pudding until evenly distributed.",
+    "Heat a lightly oiled iron teppan over medium heat and pour a ladleful of batter onto the surface.",
+    "Cook the pancake for about 2 minutes until bubbles form and the edges set.",
+    "Flip the pancake and cook the other side for 1 minute, then remove from the pan.",
+    "Repeat steps 4-6 until all batter is used, greasing the pan as needed.",
+    "While pancakes are resting, melt butter in a small saucepan and drizzle over the stack.",
+    "Garnish with optional dried fruits and a sprinkle of cinnamon if desired.",
+    "Serve warm as a festive brunch or light dinner."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "holiday",
+    "one-pan",
+    "pancake",
+    "slovakian",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 235,
+    "protein": 5,
+    "carbs": 44,
+    "fat": 5
+  },
+  "slug": "indulgent-slovakian-christmas-pudding-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-slovakian-christmas-pudding-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:19:36Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "whisk",
+    "primaryIngredient": "christmas pudding",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Christmas Pudding",
+    "descriptor": "Indulgent",
+    "dishForm": "Pancakes"
+  }
+}
