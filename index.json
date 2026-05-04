@@ -360,6 +360,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-irish-cheese-flatbread",
+    "title": "Indulgent Irish Cheese Flatbread",
+    "tags": [
+      "binchotan",
+      "charred",
+      "cheese",
+      "date-night",
+      "flexitarian",
+      "home-cooking",
+      "irish"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 32,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-italian-cherry-cannoli",
     "title": "Indulgent Italian Cherry Cannoli",
     "tags": [
@@ -1065,6 +1081,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-dark-jamaican-chicken-curry",
+    "title": "Intense Dark Jamaican Chicken Curry",
+    "tags": [
+      "chocolate-based",
+      "high-protein",
+      "jamaican-cuisine",
+      "one-pan",
+      "spicy-food",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {

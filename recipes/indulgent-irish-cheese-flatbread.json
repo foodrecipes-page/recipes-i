@@ -1,0 +1,102 @@
+{
+  "title": "Indulgent Irish Cheese Flatbread",
+  "description": "Charred, cheese-pulled flatbread with shio-koji and chervil, served from a binchotan grill for a touch of Irish date-night charm.",
+  "cuisine": "Irish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "400g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "5g"
+    },
+    {
+      "name": "warm water",
+      "amount": "250ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mixed cheese blend (cheddar, goat, burrata)",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh chervil, chopped",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "50g"
+    },
+    {
+      "name": "balsamic glaze",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Knead the flour, yeast, salt, sugar, warm water, and olive oil into a smooth dough and let it rise for 20 minutes.",
+    "Roll the dough into a flat circle about 12 inches in diameter.",
+    "Brush the surface lightly with olive oil, then sprinkle evenly with shio-koji and chopped chervil.",
+    "Place the flatbread on a preheated binchotan grill and cook for 6 minutes until the bottom char marks appear.",
+    "Flip the bread and cook the other side for 4 minutes, then top with the mixed cheese blend and caramelized onions.",
+    "Continue grilling for an additional 2 minutes until the cheese melts into a pullable, gooey layer.",
+    "Remove the flatbread, drizzle with balsamic glaze, slice, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan",
+    "charred",
+    "cheese",
+    "date-night",
+    "flexitarian",
+    "home-cooking",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "indulgent-irish-cheese-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-irish-cheese-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:59:03Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "chervil",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Cheese",
+    "descriptor": "Indulgent",
+    "dishForm": "Flatbread"
+  }
+}
