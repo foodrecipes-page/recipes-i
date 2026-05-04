@@ -1,0 +1,108 @@
+{
+  "title": "Indulgent German Cabbage Casserole",
+  "description": "This jammy, crisp German-inspired casserole blends creamy coconut milk with apple jam for a show-off vegetarian dish.",
+  "cuisine": "German",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White cabbage",
+      "amount": "1 medium head"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 large, thinly sliced"
+    },
+    {
+      "name": "Apple",
+      "amount": "1 large, thinly sliced"
+    },
+    {
+      "name": "Apple jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Breadcrumbs (panko)",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat olive oil in a large skillet over medium heat, add sliced onion and sauté until translucent and slightly caramelized, about 6-7 minutes.",
+    "Add apple slices and continue cooking until they soften, about 3-4 minutes.",
+    "Stir in apple jam and cook for 1 minute until fragrant.",
+    "In a small bowl, whisk together coconut milk, miso paste, soy sauce, and vegetable stock until smooth.",
+    "Transfer onion-apple mixture to a casserole dish, scatter shredded cabbage on top, and pour the sauce evenly over everything.",
+    "Sprinkle salt and black pepper over the casserole and cover loosely with foil.",
+    "Bake in the preheated oven for 30 minutes until the cabbage is tender and the sauce has thickened.",
+    "While the casserole bakes, toast breadcrumbs in a dry skillet over medium heat until golden brown, about 3-4 minutes, stirring frequently.",
+    "Remove the casserole from the oven, sprinkle toasted breadcrumbs over the top, and bake uncovered for an additional 5 minutes until the topping is crisp."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage",
+    "comfort-food",
+    "crisp-top",
+    "german",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 1365,
+    "protein": 27,
+    "carbs": 153,
+    "fat": 72
+  },
+  "slug": "indulgent-german-cabbage-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-german-cabbage-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:06:53Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "cream",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cabbage",
+    "descriptor": "Indulgent",
+    "dishForm": "Casserole"
+  }
+}
