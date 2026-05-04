@@ -1,0 +1,104 @@
+{
+  "title": "Intensely Sweet Ethiopian Lentils Skewers",
+  "description": "Tangy and bouncy, these Jain-friendly Ethiopian lentils skewers are meal-prep friendly and feature a caramelized sugar sauce, all robata-grilled to perfection.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Caramelized sugar sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Soak the red lentils in water for 30 minutes, then drain and set aside.",
+    "In a blender, combine the onion, ginger, garlic, cumin seeds, coriander seeds, and turmeric, and blend until well combined.",
+    "Add the blended mixture to the lentils and mix well.",
+    "Thread the lentil mixture onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with lemon juice and season with salt.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until they are lightly charred.",
+    "Brush the caramelized sugar sauce onto the skewers during the last 2 minutes of grilling.",
+    "Serve the skewers hot, garnished with additional caramelized sugar sauce if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "high-protein",
+    "jain-friendly",
+    "meal-prep",
+    "robata-grill",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "intensely-sweet-ethiopian-lentils-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-sweet-ethiopian-lentils-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:39:19Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "robata-grill",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "intensely sweet",
+    "dishForm": "Skewers"
+  }
+}
