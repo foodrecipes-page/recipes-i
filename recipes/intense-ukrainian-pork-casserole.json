@@ -1,0 +1,119 @@
+{
+  "title": "Intense Ukrainian Pork Casserole",
+  "description": "A rich, gooey braised pork dish with sweet paprika and herbs, perfect for meal prep and satisfying any dinner table.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sodium",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "30 g"
+    },
+    {
+      "name": "Sweet paprika",
+      "amount": "2 tsp",
+      "notes": "4 g"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "Low-sodium chicken broth",
+      "amount": "2 cups",
+      "notes": "480 ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "30 ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "use sparingly"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp",
+      "notes": "2.5 g"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a heavy pot over medium-high heat until shimmering.",
+    "Add pork cubes and brown all sides, about 5 minutes, removing browned pieces to a plate.",
+    "In the same pot, sauté onion, garlic, and carrot until softened, about 3 minutes.",
+    "Stir in tomato paste and paprika, cooking for 1 minute to release aromas.",
+    "Return pork to pot, add bay leaves, low-sodium broth, and salt; bring to a gentle boil.",
+    "Reduce heat to low, cover, and braise for 90 minutes, turning once, until pork is tender.",
+    "Taste and adjust seasoning with pepper; remove bay leaves.",
+    "Sprinkle chopped dill over the casserole and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "comfort-food",
+    "low-sodium",
+    "meal-prep",
+    "one-pot",
+    "pork",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 471,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 39
+  },
+  "slug": "intense-ukrainian-pork-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-ukrainian-pork-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:50:53Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "braise",
+    "primaryIngredient": "mixed spice",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "Intense",
+    "dishForm": "Casserole"
+  }
+}
