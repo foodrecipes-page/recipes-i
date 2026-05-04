@@ -2456,6 +2456,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-springy-french-beef-bowl",
+    "title": "Intense Springy French Beef Bowl",
+    "tags": [
+      "beef-recipe",
+      "french-cuisine",
+      "low-fat",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "intense-syrian-lentil-stew",
     "title": "Intense Syrian Lentil Stew",
     "tags": [

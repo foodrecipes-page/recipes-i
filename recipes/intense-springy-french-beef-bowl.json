@@ -1,0 +1,103 @@
+{
+  "title": "Intense Springy French Beef Bowl",
+  "description": "A weeknight French dish from Provence featuring chopped parsley and rest-meat, served in a dolsot-stone-bowl",
+  "cuisine": "French",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "rested overnight"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat",
+    "Add the beef strips and cook until browned, about 5 minutes",
+    "Add the garlic, thyme, salt, and black pepper, and cook for 1 minute",
+    "Add the red wine and beef broth, and bring to a boil",
+    "Reduce the heat to low and simmer for 10 minutes",
+    "Add the diced potatoes and continue to simmer until they are tender",
+    "Stir in the chopped parsley",
+    "Serve the beef and potato mixture in a dolsot-stone-bowl",
+    "Let it rest for a few minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipe",
+    "french-cuisine",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "intense-springy-french-beef-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-springy-french-beef-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:42:43Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "rest-meat",
+    "primaryIngredient": "chopped parsley",
+    "diet": "low-fat",
+    "region": "provence",
+    "cuisineAdjective": "french",
+    "mainIngredient": "beef",
+    "descriptor": "intense springy",
+    "dishForm": "Bowl"
+  }
+}
