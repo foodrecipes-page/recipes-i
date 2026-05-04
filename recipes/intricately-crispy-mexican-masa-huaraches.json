@@ -1,0 +1,111 @@
+{
+  "title": "intricately crispy mexican masa huaraches",
+  "description": "fermented, crunchy, comforting mexican dish featuring figs, leaf-wrap-steam, low-carb-friendly",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hominy",
+      "amount": "2 cups",
+      "notes": "masa harina"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "fermentation liquid"
+    },
+    {
+      "name": "figs",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4-6",
+      "notes": "corn"
+    },
+    {
+      "name": "grilled onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "in a large bowl, combine hominy and water to soak overnight",
+    "drain and rinse the hominy, then mash in a blender until smooth",
+    "in a large skillet, heat oil over medium and sauté onion and garlic until softened",
+    "add cumin, chili powder, and salt to the skillet and cook for 1 minute",
+    "stir in the mashed hominy and cook for 2-3 minutes",
+    "preheat a tava or griddle to medium-high heat",
+    "divide the hominy mixture into 4-6 portions, shape into flat circles",
+    "place the huaraches on the preheated tava, cook for 2-3 minutes on each side",
+    "wrap the huaraches in large corn tortillas and steam on a tava or steamer basket",
+    "top with grilled onions, figs, and a sprinkle of salt"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "mexican",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "intricately-crispy-mexican-masa-huaraches",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-crispy-mexican-masa-huaraches",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T07:53:51Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "figs",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Masa",
+    "descriptor": "Intricately Crispy",
+    "dishForm": null
+  }
+}
