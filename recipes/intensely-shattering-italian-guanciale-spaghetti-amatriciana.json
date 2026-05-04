@@ -1,0 +1,119 @@
+{
+  "title": "Intensely Shattering Italian Guanciale Spaghetti Amatriciana",
+  "description": "A floral, shattering, date-night Italian dish featuring rye bread and ferment, perfect for a romantic evening in a Korean brass bowl.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "6 slices",
+      "notes": "thinly sliced, high-quality guanciale"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "high-quality, organic spaghetti"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "anchovy",
+      "amount": "2",
+      "notes": "canned, in oil"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "high-quality, organic"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup",
+      "notes": "dry, full-bodied"
+    },
+    {
+      "name": "rye bread",
+      "amount": "2 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "parmesan",
+      "amount": "1 cup",
+      "notes": "grated, high-quality"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional, for added heat"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Cook spaghetti in a large pot of boiling, salted water until al dente, about 8 minutes.",
+    "In a large skillet, combine guanciale, onion, and garlic. Cook over medium heat, stirring occasionally, until the onion is translucent and the guanciale is crispy, about 10 minutes.",
+    "Add the anchovy, tomato paste, and red wine to the skillet. Cook, stirring constantly, until the sauce is thick and syrupy, about 5 minutes.",
+    "Add the cooked spaghetti to the skillet, tossing to combine with the sauce. Season with black pepper to taste.",
+    "Transfer the spaghetti to a Korean brass bowl and top with parmesan, parsley, and rye bread. Serve immediately.",
+    "If desired, sprinkle with korean chili flakes for added heat.",
+    "Garnish with additional parsley and serve immediately.",
+    "Serve with a side of rye bread for dipping in the sauce.",
+    "Optional: add a small dollop of ferment, such as kimchi or sauerkraut, on top of the spaghetti for added flavor and nutrition.",
+    "Optional: serve with a side of roasted vegetables, such as broccoli or carrots, for added nutrition and flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "ferment",
+    "high-protein",
+    "italian",
+    "one-pan",
+    "shattering",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 32,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "intensely-shattering-italian-guanciale-spaghetti-amatriciana",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-shattering-italian-guanciale-spaghetti-amatriciana",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:31Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "ferment",
+    "primaryIngredient": "rye bread",
+    "diet": "anti-inflammatory",
+    "region": "puglian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "guanciale",
+    "descriptor": "Intensely Shattering",
+    "dishForm": "Spaghetti Amatriciana"
+  }
+}
