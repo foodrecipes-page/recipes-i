@@ -1,0 +1,99 @@
+{
+  "title": "Intense Pull Uruguayan Cheese Bento-Box",
+  "description": "A post-workout Uruguayan dish featuring soy sauce and herbal flavors, carefully prepared to meet diabetic-friendly requirements.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grilled beef strips",
+      "amount": "4",
+      "notes": " Thinly sliced beef for easy pull"
+    },
+    {
+      "name": "Uruguayan cheese",
+      "amount": "2 oz",
+      "notes": "High protein cheese for muscle recovery"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": " Adds umami flavor"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "For fresh herb flavor"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought for added flavor"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "2 cups",
+      "notes": "For a healthy crunch"
+    },
+    {
+      "name": "Whole wheat brioche",
+      "amount": "1 bun",
+      "notes": "Toasted or grilled for texture"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1 sprig",
+      "notes": "Garnish for presentation"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together soy sauce, chimichurri sauce, and minced parsley.",
+    "Preheat grill to medium-high heat and cook the beef strips for 3-4 minutes per side.",
+    "Meanwhile, toast or grill the whole wheat brioche for 2-3 minutes or until golden brown.",
+    "In a separate pan, warm the Uruguayan cheese over low heat until melted.",
+    "Assemble the bento-box by placing the grilled beef strips on top of the toasted brioche, followed by the melted cheese, mixed greens, and a drizzle of the soy sauce-chimichurri sauce mixture.",
+    "Garnish with a sprig of fresh mint and serve immediately.",
+    "Let the dish rest for 5 minutes before serving to allow the flavors to meld together.",
+    "Serve in a colorful bento-box to add a pop of color and fun to the post-workout meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "intense-pull-uruguayan-cheese-bento-box",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-pull-uruguayan-cheese-bento-box",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T11:22:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "rest",
+    "primaryIngredient": "soy sauce",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Cheese",
+    "descriptor": "Intense Pull",
+    "dishForm": null
+  }
+}
