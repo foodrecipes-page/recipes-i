@@ -1754,6 +1754,17 @@
     "shard": "i"
   },
   {
+    "slug": "intense-crispy-dutch-shrimp-stir-fry",
+    "title": "Intense Crispy Dutch Shrimp Stir-fry",
+    "tags": [
+      "dutch",
+      "dinner"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "intense-croatian-bread-bake",
     "title": "Intense Croatian Bread Bake",
     "tags": [

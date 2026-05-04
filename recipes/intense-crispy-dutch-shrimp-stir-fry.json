@@ -1,0 +1,125 @@
+{
+  "title": "Intense Crispy Dutch Shrimp Stir-fry",
+  "description": "A pungent, crisp shrimp stir-fry with a sweet cherry glaze and a Dutch twist, perfect for a low‑carb romantic dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "600 g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "broccoli",
+      "amount": "1 cup florets"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crushed almonds",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the olive oil over medium heat until shimmering.",
+    "Add the garlic and ginger and sauté for 30 seconds until fragrant.",
+    "Add the shrimp, season with salt and pepper, and cook for 2 minutes on each side until pink and opaque.",
+    "Add the bell pepper, broccoli, zucchini, and onion, and stir‑fry for 5 minutes until vegetables are crisp‑tender.",
+    "In a small bowl, whisk together the soy sauce, tomato paste, honey, peanut butter, and mayonnaise until smooth.",
+    "Pour the sauce over the shrimp and vegetables and toss to coat; cook for an additional 2 minutes until the sauce thickens.",
+    "Finish by drizzling the sesame oil over the dish and stirring in the crushed almonds for crunch.",
+    "Serve hot, garnished with extra almonds if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "dutch",
+    "dinner"
+  ],
+  "slug": "intense-crispy-dutch-shrimp-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-crispy-dutch-shrimp-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:05:39Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "saute",
+    "primaryIngredient": "glace cherry",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Intense Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
