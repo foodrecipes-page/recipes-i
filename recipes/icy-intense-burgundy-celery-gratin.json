@@ -1,0 +1,105 @@
+{
+  "title": "Icy Intense Burgundy Celery Gratin",
+  "description": "A pungent, chewy French gratin that pairs crisp celery with a rich Burgundy cream sauce, finished with a chilling ice-bath shock for a romantic dining experience.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celery stalks",
+      "amount": "1 kg",
+      "notes": "sliced into 1 cm cubes"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50 g",
+      "notes": "softened"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "150 g",
+      "notes": "grated"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "100 ml"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ice cubes",
+      "amount": "500 ml water"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C (375°F).",
+    "In a large pot, simmer the sliced celery in salted water for 5 minutes, then drain and shock it in an ice bath of 500 ml water for 2 minutes.",
+    "Pat the celery dry with a towel and place it in a greased 1.5 L baking dish.",
+    "Melt the butter in a saucepan over medium heat and add the minced garlic, cooking until fragrant for 1 minute.",
+    "Pour in the white wine and reduce by half, then stir in the heavy cream and allow the sauce to thicken for 3 minutes.",
+    "Season the sauce with thyme, salt, and pepper, then pour it evenly over the chilled celery.",
+    "Sprinkle the grated Gruyère cheese over the top and bake in the preheated oven for 20 minutes until golden and bubbling.",
+    "Remove the gratin, let it rest for 5 minutes, then carefully transfer the dish into a large bowl of ice water to cool rapidly.",
+    "Serve the gratin straight from the ice bath for a dramatic, chilled presentation.",
+    "Garnish with an extra thyme sprig before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burgundy-inspired",
+    "cheese-gratin",
+    "chewy",
+    "french",
+    "gluten-free",
+    "pungent",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 5,
+    "carbs": 7,
+    "fat": 21
+  },
+  "slug": "icy-intense-burgundy-celery-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-intense-burgundy-celery-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:03:02Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "celery",
+    "diet": "gluten-free",
+    "region": "burgundy",
+    "cuisineAdjective": "Burgundy",
+    "mainIngredient": "Celery",
+    "descriptor": "Icy Intense",
+    "dishForm": "Gratin"
+  }
+}
