@@ -1,0 +1,92 @@
+{
+  "title": "Indulgent Portuguese Almonds Cookies",
+  "description": "Crunchy almond cookies infused with dark chocolate chips and a hint of Portuguese vanilla, ideal for keto-friendly indulgence.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "to be sifted"
+    },
+    {
+      "name": "Coconut flour",
+      "amount": "1/4 cup",
+      "notes": "for extra texture"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup (113g), softened"
+    },
+    {
+      "name": "Erythritol",
+      "amount": "1 cup (200g)"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Dark chocolate chips",
+      "amount": "1 cup (170g) high cocoa"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F and line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together almond flour, coconut flour, baking soda, and salt until well combined.",
+    "In a separate bowl, cream softened butter with erythritol until light and fluffy.",
+    "Beat in vanilla extract to the butter mixture, then stir in the dry ingredients until a dough forms.",
+    "Fold in dark chocolate chips, ensuring even distribution.",
+    "Drop tablespoon-sized balls onto the prepared baking sheet and flatten slightly.",
+    "Bake for 10 minutes or until edges are golden brown and centers set.",
+    "Remove cookies and allow them to cool on the sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 24,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "keto-friendly",
+    "no-bake",
+    "nutty",
+    "portuguese",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 3100,
+    "protein": 48,
+    "carbs": 95,
+    "fat": 220
+  },
+  "slug": "indulgent-portuguese-almonds-cookies",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-portuguese-almonds-cookies",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:12:04Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "deglaze",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "almonds",
+    "descriptor": "Indulgent",
+    "dishForm": "Cookies"
+  }
+}

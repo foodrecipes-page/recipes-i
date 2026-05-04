@@ -244,6 +244,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-portuguese-almonds-cookies",
+    "title": "Indulgent Portuguese Almonds Cookies",
+    "tags": [
+      "dessert",
+      "keto-friendly",
+      "no-bake",
+      "nutty",
+      "portuguese",
+      "quick"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-russian-morcilla-dumplings",
     "title": "Indulgent Russian Morcilla Dumplings",
     "tags": [
@@ -957,6 +972,21 @@
       "weeknight"
     ],
     "cuisine": "moroccan",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intricately-light-moroccan-masarepa-dumplings",
+    "title": "Moroccan Masarepa Dumplings",
+    "tags": [
+      "comfort-food",
+      "dumplings",
+      "gluten-free",
+      "homemade",
+      "moroccan-cuisine",
+      "one-pot"
+    ],
+    "cuisine": "Moroccan",
     "totalTimeMin": 35,
     "shard": "i"
   },
