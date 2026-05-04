@@ -1,0 +1,113 @@
+{
+  "title": "Indulgent Mexican Kippers Birria",
+  "description": "A rich and savory Veracruzan-style Birria dish featuring kippers and a clay-pot-cooked broth.",
+  "cuisine": "Mexican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kippers ( smoked haddock )",
+      "amount": "2",
+      "notes": "look for firm flesh and a pleasant aroma"
+    },
+    {
+      "name": "Dried Ancho Chilies",
+      "amount": "4",
+      "notes": "soak in hot water for at least 30 minutes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes ": "coarsely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes ": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes ": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes ": "smoked or sweet"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes ": "ground"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes ": "for frying"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups",
+      "notes ": "homemade or store-bought"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes ": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes ": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay pot or Dutch oven over medium heat.",
+    "Sear the kippers for 2-3 minutes on each side, then remove and set aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic, cumin, paprika, and coriander to the pot and cook for 1 minute.",
+    "Add the soaked Ancho Chilies to the pot, along with their liquid, and cook for 2-3 minutes.",
+    "Add the chicken broth, kippers, and salt to the pot, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the kippers are cooked through and the broth has thickened.",
+    "Stir in the lime juice and season with additional salt if needed.",
+    "Serve the Birria in bowls, garnished with chopped onion, cilantro, and a dollop of sour cream or Greek yogurt, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "clay-pot",
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "smoked-fish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "indulgent-mexican-kippers-birria",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-mexican-kippers-birria",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:19Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "kippers",
+    "diet": "whole30",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Kippers",
+    "descriptor": "Indulgent",
+    "dishForm": "Birria"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "title": "icy cold japanese soba",
+  "description": "A light and refreshing Japanese dish from the Kanto region, featuring earthy soba noodles, a crispy egg wash, and a robata-grill finish. This dish is perfect for warm days and is also raw-friendly.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soba noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "ice water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "edamame",
+      "amount": "100g"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg wash (1 egg, 1 tsp water)",
+      "amount": "1",
+      "notes": "mixed well"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine soba noodles and ice water in a large bowl. Refrigerate for at least 2 hours.",
+    "Drain the noodles and cut them into shorter lengths.",
+    "In a small saucepan, combine salt, brown rice vinegar, and sesame oil. Heat over low heat, stirring occasionally, until warm.",
+    "In a separate pan, toast the sesame seeds over low heat, stirring frequently, until lightly browned.",
+    "Grill the edamame over medium heat until lightly charred.",
+    "In a small bowl, mix together egg wash and flour until smooth.",
+    "Brush the egg wash mixture onto the soba noodles.",
+    "Place the noodles on the grill and cook for 2-3 minutes on each side, or until lightly browned.",
+    "Transfer the noodles to a serving platter and top with green onions, toasted sesame seeds, and grilled edamame.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "icy-cold",
+    "japanese",
+    "one-pan",
+    "raw-friendly",
+    "soba",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "icy-cold-japanese-soba-soba",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-cold-japanese-soba-soba",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "robata-grill",
+    "primaryIngredient": "egg wash",
+    "diet": "raw",
+    "region": "kanto",
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "soba",
+    "descriptor": "icy cold",
+    "dishForm": "Soba"
+  }
+}
