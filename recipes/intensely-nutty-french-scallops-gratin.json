@@ -1,0 +1,102 @@
+{
+  "title": "Intensely Nutty French Scallops Gratin",
+  "description": "This dish features pan seared scallops in a rich and creamy nutty sauce, topped with a layer of caramelized nuts and mitsuba, all while being whole30 friendly.",
+  "cuisine": "French",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scallops",
+      "amount": "12 large",
+      "notes": "dry packed"
+    },
+    {
+      "name": "macadamia nuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mitsuba",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Prepare a bain marie by filling a large baking dish with hot water.",
+    "Pan sear the scallops in ghee until browned on both sides, about 2-3 minutes per side.",
+    "Transfer the scallops to a baking dish and set aside.",
+    "In the same pan, add the chopped macadamia nuts and cook until fragrant and lightly browned.",
+    "Add the chopped mitsuba, garlic, salt, and black pepper to the pan and cook for an additional minute.",
+    "Stir in the coconut cream and lemon juice and bring the mixture to a simmer.",
+    "Pour the nutty sauce over the scallops and place the baking dish in the bain marie.",
+    "Bake for 12-15 minutes or until the scallops are cooked through and the top is lightly browned.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gluten-free",
+    "paleo",
+    "seafood",
+    "special-occasion",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 8,
+    "fat": 32
+  },
+  "slug": "intensely-nutty-french-scallops-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-nutty-french-scallops-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:29:53Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "bain-marie",
+    "primaryIngredient": "mitsuba",
+    "diet": "whole30",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "scallops",
+    "descriptor": "intensely nutty",
+    "dishForm": "Gratin"
+  }
+}
