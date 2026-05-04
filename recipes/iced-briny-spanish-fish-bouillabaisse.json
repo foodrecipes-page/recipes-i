@@ -1,0 +1,108 @@
+{
+  "title": "Iced Briny Spanish Fish Bouillabaisse",
+  "description": "A cold Spanish fish soup originating from the Mediterranean, featuring a unique combination of flavors and textures.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-sodium",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish broth",
+      "amount": "4 cups",
+      "notes": "Use a low-sodium broth for this recipe"
+    },
+    {
+      "name": "Muscovado sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Kombu",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Scallop",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "Anchovy",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Leek",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine fish broth, sugar, kombu, and cold extract in a large pot and bring to a boil over high heat.",
+    "Reduce heat and add shrimp, scallop, anchovy, leek, garlic, red pepper, and fennel to the pot.",
+    "Simmer the mixture for 10 minutes, or until the fish is cooked through.",
+    "Remove the pot from the heat and let it cool to room temperature.",
+    "Strain the soup through a fine-mesh sieve into a large bowl, discarding the solids.",
+    "Cover the bowl with plastic wrap and refrigerate the soup for at least 2 hours, or until chilled.",
+    "Serve the soup cold, garnished with a sprinkle of olive oil and a side of crusty bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold",
+    "fish",
+    "mediterranean",
+    "soup",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "iced-briny-spanish-fish-bouillabaisse",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/iced-briny-spanish-fish-bouillabaisse",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:33:13Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "fish",
+    "descriptor": "Iced Briny",
+    "dishForm": "Bouillabaisse"
+  }
+}

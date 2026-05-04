@@ -1,5 +1,20 @@
 [
   {
+    "slug": "iced-briny-spanish-fish-bouillabaisse",
+    "title": "Iced Briny Spanish Fish Bouillabaisse",
+    "tags": [
+      "cold",
+      "fish",
+      "mediterranean",
+      "soup",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "iced-springy-dutch-cabbage-salad",
     "title": "Iced Springy Dutch Cabbage Salad",
     "tags": [
