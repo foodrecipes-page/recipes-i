@@ -1,0 +1,110 @@
+{
+  "title": "indulgent slovakian bean sprouts bread",
+  "description": "a dense, slightly sour bread filled with bean sprouts and topped with a crumbly onion mixture, perfect for a pescatarian-friendly snack or side dish",
+  "cuisine": "slovakian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "1 1/2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "finely chopped onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated caraway seed",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "in a small bowl, combine yeast and warm water, stirring to dissolve yeast; let sit for 5 minutes",
+    "in a large mixing bowl, combine flour, sour cream, and caraway seed; mix until a shaggy dough forms",
+    "add yeast mixture, bean sprouts, onion, salt, and pepper to dough; mix until well combined",
+    "knead dough for 10 minutes, until smooth and elastic",
+    "place dough in a greased bowl, cover with plastic wrap, and let rise in a warm place for 1 hour",
+    "preheat oven to 400 degrees fahrenheit",
+    "punch down dough and shape into a round loaf; place on a baking sheet lined with parchment paper",
+    "dot top of loaf with melted butter",
+    "bake loaf for 35 minutes, or until golden brown",
+    "let loaf cool on a wire rack for 10 minutes before slicing"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bean-sprouts",
+    "bread",
+    "pescatarian-friendly",
+    "side-dish",
+    "slovakian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "indulgent-slovakian-bean-sprouts-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-slovakian-bean-sprouts-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:43Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "bean sprouts",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "Indulgent",
+    "dishForm": "Bread"
+  }
+}

@@ -1151,6 +1151,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-moroccan-frankfurter-briouat",
+    "title": "Indulgent Moroccan Frankfurter Briouat",
+    "tags": [
+      "breakfast",
+      "dinner",
+      "indulgent",
+      "lunch",
+      "moroccan",
+      "moroccan-recipe",
+      "vegan-friendly"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-norwegian-aubergine-flatbread",
     "title": "Indulgent Norwegian Aubergine Flatbread",
     "tags": [
@@ -1427,6 +1443,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-slovakian-bean-sprouts-bread",
+    "title": "indulgent slovakian bean sprouts bread",
+    "tags": [
+      "bean-sprouts",
+      "bread",
+      "pescatarian-friendly",
+      "side-dish",
+      "slovakian",
+      "snack"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {

@@ -1,0 +1,76 @@
+{
+  "title": "Indulgent Moroccan Frankfurter Briouat",
+  "description": "A rich and savory fusion of Moroccan flavors and a classic Frankfurter, wrapped in a crispy briouat and served in a copper mug.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frankfurter",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Ayurvedic-friendly spices",
+      "amount": "1 tsp",
+      "notes": "Cumin and coriander blend"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).\n",
+    "Cook the Frankfurter according to the package instructions.\n",
+    "Unroll the phyllo dough and cut it into 8 equal squares.\n",
+    "Place a spoonful of the Frankfurter in the center of each square.\n",
+    "Sprinkle the Ayurvedic-friendly spices over the Frankfurter.\n",
+    "Fold the phyllo dough into a triangle and press the edges together.\n",
+    "Bake the briouats for 15 minutes or until golden brown.\n",
+    "Mix the yogurt sauce (see below).\n",
+    "Serve the briouats in a copper mug with the yogurt sauce drizzled on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dinner",
+    "indulgent",
+    "lunch",
+    "moroccan",
+    "moroccan-recipe",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "indulgent-moroccan-frankfurter-briouat",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-moroccan-frankfurter-briouat",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:40Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "whisk",
+    "primaryIngredient": "frankfurter",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Frankfurter",
+    "descriptor": "Indulgent",
+    "dishForm": "Briouat"
+  }
+}
