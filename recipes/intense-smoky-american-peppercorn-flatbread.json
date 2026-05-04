@@ -1,0 +1,95 @@
+{
+  "title": "Intense Smoky American Peppercorn Flatbread",
+  "description": "A smoky, shaggy flatbread with peppercorn crumble, baked till puffed, FODMAP-friendly and gluten-free.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gluten-free flour blend",
+      "amount": "250g"
+    },
+    {
+      "name": "warm water",
+      "amount": "200ml"
+    },
+    {
+      "name": "neutral oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "freshly cracked black peppercorns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shredded sharp cheddar",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together flour, salt, baking powder, and smoked paprika.",
+    "Make a well in the center and add water, oil, and maple syrup; mix until a soft dough forms.",
+    "Turn dough onto a lightly oiled surface and knead for 2 minutes until smooth.",
+    "Divide dough into 4 equal portions, roll each into a thin circle, and let rest for 5 minutes to relax the gluten.",
+    "For each circle, sprinkle a thin layer of cheddar and peppercorns, then fold the edges to create a shaggy fold and seal.",
+    "Place the folded dough on a parchment-lined baking sheet, brush the tops with a little oil, and dot with extra peppercorns.",
+    "Bake uncovered at 220°C for 13 minutes until puffed and golden.",
+    "Remove from oven, cool slightly, and slice into wedges.",
+    "Serve warm or at room temperature with a side of low FODMAP salsa."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "fodmap-friendly",
+    "gluten-free",
+    "quick",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 6,
+    "carbs": 51,
+    "fat": 4
+  },
+  "slug": "intense-smoky-american-peppercorn-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-american-peppercorn-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:54:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "lamination-puff",
+    "primaryIngredient": "peppercorns",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "peppercorn",
+    "descriptor": "Intense Smoky",
+    "dishForm": "Flatbread"
+  }
+}
