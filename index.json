@@ -1688,6 +1688,20 @@
     "shard": "i"
   },
   {
+    "slug": "innovative-light-dutch-pastry-puff",
+    "title": "Innovative Light Dutch Pastry Puff",
+    "tags": [
+      "garlicky",
+      "laminated-pastry",
+      "mediterranean-friendly",
+      "pineapple-juice",
+      "vegetarian-snack"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "innovative-light-italian-egg-tiramisu",
     "title": "Innovative Light Italian Egg Tiramisu",
     "tags": [
@@ -3758,6 +3772,22 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-jammy-vietnamese-shrimp-mi-quang",
+    "title": "Intensely Jammy Vietnamese Shrimp Mi Quang",
+    "tags": [
+      "jammy",
+      "noodles",
+      "one-pan",
+      "pescatarian",
+      "shrimp",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {

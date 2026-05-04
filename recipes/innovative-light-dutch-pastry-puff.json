@@ -1,0 +1,94 @@
+{
+  "title": "Innovative Light Dutch Pastry Puff",
+  "description": "A garlicky and aerated Dutch pastry featuring pineapple juice and Mediterranean-friendly flavors, made with laminated puff pastry.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of 1/8 inch.",
+    "In a small bowl, mix together the pineapple juice, garlic, and olive oil.",
+    "Brush the mixture evenly over the center of the pastry, leaving a 1 inch border on either side.",
+    "Sprinkle the feta cheese and parsley over the brushed area.",
+    "Fold the 1 inch borders over the filling, then roll the pastry into a tight log.",
+    "Cut the log into 8 equal pieces and place on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes, or until golden brown.",
+    "Remove from the oven and sprinkle with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "laminated-pastry",
+    "mediterranean-friendly",
+    "pineapple-juice",
+    "vegetarian-snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "innovative-light-dutch-pastry-puff",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-light-dutch-pastry-puff",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:38:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "lamination-puff",
+    "primaryIngredient": "pineapple juice",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pastry",
+    "descriptor": "Innovative Light",
+    "dishForm": "Puff"
+  }
+}
