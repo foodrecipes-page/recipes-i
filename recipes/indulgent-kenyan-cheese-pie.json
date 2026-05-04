@@ -1,0 +1,92 @@
+{
+  "title": "Indulgent Kenyan Cheese Pie",
+  "description": "A rich, cheese-pulled Kenyan style pie made with ready-rolled shortcrust pastry, finished al-dente with a golden crust and a satisfying stretch of melted cheese, perfect for a sattvic friendly meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ready rolled shortcrust pastry",
+      "amount": "1 sheet (200g)",
+      "notes": "ready rolled"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "200g shredded"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "50g grated"
+    },
+    {
+      "name": "spinach",
+      "amount": "100g fresh, roughly chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C.",
+    "Cut the ready-rolled shortcrust pastry to fit a 23cm pie tin and line the tin with the pastry, pressing firmly into corners.",
+    "Brush the pastry base lightly with olive oil and set aside.",
+    "Spread the chopped spinach evenly over the pastry base.",
+    "Sprinkle the shredded mozzarella and grated cheddar cheese over the spinach.",
+    "Sprinkle dried oregano, dried basil, and salt evenly over the cheese.",
+    "Bake for 15-18 minutes or until the cheese is melted, bubbly and the pastry edges are golden brown.",
+    "Remove from the oven, let rest 5 minutes, then slice and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pie",
+    "easy",
+    "kenyan",
+    "quick",
+    "sattvic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 437,
+    "protein": 41,
+    "carbs": 74,
+    "fat": 86
+  },
+  "slug": "indulgent-kenyan-cheese-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-kenyan-cheese-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:18:19Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cheese",
+    "descriptor": "Indulgent",
+    "dishForm": "Pie"
+  }
+}

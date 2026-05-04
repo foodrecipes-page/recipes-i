@@ -326,6 +326,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-kenyan-cheese-pie",
+    "title": "Indulgent Kenyan Cheese Pie",
+    "tags": [
+      "cheese-pie",
+      "easy",
+      "kenyan",
+      "quick",
+      "sattvic",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 28,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-kenyan-dates-crumble",
     "title": "Indulgent Kenyan Dates Crumble",
     "tags": [
