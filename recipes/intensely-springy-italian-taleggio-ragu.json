@@ -1,0 +1,115 @@
+{
+  "title": "Intensely Springy Italian Taleggio Ragu",
+  "description": "A hearty and cozy Italian dish featuring taleggio cheese, perfect for spring, with a rich and herbal flavor profile, made without onion or garlic.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "taleggio cheese",
+      "amount": "8 oz",
+      "notes": "rind removed, crumbled"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled, grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add chopped celery and cook until tender, about 5 minutes.",
+    "Add grated carrots and cook for an additional 2 minutes.",
+    "Add sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add tomato paste and cook for 1 minute, stirring constantly.",
+    "Add dry white wine and bring to a simmer, cooking until the liquid is almost completely reduced.",
+    "Add vegetable broth and bring to a boil, then reduce heat to low and simmer.",
+    "Stir in crumbled taleggio cheese until melted and smooth.",
+    "Season with salt and black pepper to taste.",
+    "Stir in chopped parsley and basil.",
+    "Serve hot, garnished with additional parsley and basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "mushroom-recipes",
+    "one-pot",
+    "spring-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intensely-springy-italian-taleggio-ragu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-springy-italian-taleggio-ragu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:59:13Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "knead",
+    "primaryIngredient": "taleggio",
+    "diet": "no-onion-no-garlic",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Taleggio",
+    "descriptor": "Intensely Springy",
+    "dishForm": "Ragu"
+  }
+}
