@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Crunchy Russian Dough Dumplings",
+  "description": "A traditional Russian dish featuring crunchy yeast dough dumplings, served with a side of nimono simmer and a touch of yellow food coloring, perfect for a midnight craving.",
+  "cuisine": "Russian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "nimono simmer sauce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, and salt.",
+    "Gradually add the warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oil in a deep frying pan to 350 degrees.",
+    "Once the oil is hot, punch down the dough and shape it into small dumplings.",
+    "Fry the dumplings until they are golden brown and crunchy, about 5 minutes.",
+    "Using a slotted spoon, remove the dumplings from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "In a small saucepan, heat the nimono simmer sauce over low heat.",
+    "Add the yellow food coloring to the simmer sauce and stir to combine.",
+    "Serve the crunchy dumplings with the nimono simmer sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snacks",
+    "halal-friendly",
+    "midnight-cravings",
+    "russian-cuisine",
+    "yeast-dough"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "intensely-crunchy-russian-dough-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-crunchy-russian-dough-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:38:45Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "dough",
+    "descriptor": "Intensely Crunchy",
+    "dishForm": "Dumplings"
+  }
+}
