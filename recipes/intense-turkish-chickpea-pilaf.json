@@ -1,0 +1,115 @@
+{
+  "title": "Intense Turkish Chickpea Pilaf",
+  "description": "A smoky, flaky one-pot dish that blends chickpeas with aromatic spices, sherry vinegar, and basmati rice for a rich, flexitarian-friendly dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried chickpeas",
+      "amount": "1 cup, soaked overnight and drained"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 ½ cups"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp, chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and sauté until translucent.",
+    "Stir in minced garlic, cumin, smoked paprika, and oregano for 30 seconds.",
+    "Add basmati rice and toast until lightly browned.",
+    "Fold in chickpeas, tomato paste, and sherry vinegar.",
+    "Pour in vegetable broth, season with salt and pepper, and bring to a boil.",
+    "Reduce heat, cover, and simmer for 25 minutes until rice is tender and liquid absorbed.",
+    "Stir in chopped parsley and adjust seasoning if needed.",
+    "Fluff the pilaf with a fork before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "mediterranean",
+    "one-pot",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "intense-turkish-chickpea-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-turkish-chickpea-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:24:19Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "grill",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Intense",
+    "dishForm": "Pilaf"
+  }
+}

@@ -671,6 +671,22 @@
     "shard": "i"
   },
   {
+    "slug": "intense-mustardy-thai-pear-soup",
+    "title": "Intense Mustardy Thai Pear Soup",
+    "tags": [
+      "airy",
+      "comfort-food",
+      "dairy-free",
+      "korean-pear",
+      "mustard",
+      "thai-soup",
+      "tom-yum"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "intense-peppery-greek-tuna-tzatziki-bowl",
     "title": "Intense Peppery Greek Tuna Tzatziki Bowl",
     "tags": [
@@ -786,6 +802,20 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 15,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-turkish-chickpea-pilaf",
+    "title": "Intense Turkish Chickpea Pilaf",
+    "tags": [
+      "flexitarian",
+      "mediterranean",
+      "one-pot",
+      "smoky",
+      "vegetarian"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 60,
     "shard": "i"
   },
   {

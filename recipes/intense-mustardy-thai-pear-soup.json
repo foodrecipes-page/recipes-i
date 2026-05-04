@@ -1,0 +1,112 @@
+{
+  "title": "Intense Mustardy Thai Pear Soup",
+  "description": "A spicy, buttery‑laced tom yum soup that pairs earthy Korean pear with roasted tomato and a bold mustard kick, all wrapped in a dairy‑free coconut broth. Its airy, comforting broth is perfect for a quick winter lunch or dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean pear",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "full-fat coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "3 medium, roasted with 1 tablespoon olive oil"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "1 tablespoon",
+      "notes": "toast for 30 seconds to release flavor"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks, sliced"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chili paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "for garnish",
+      "notes": "to garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C) and roast tomatoes with olive oil, salt, and pepper for 20 minutes until caramelized.",
+    "In a large pot, combine vegetable broth and coconut milk and bring to a gentle simmer.",
+    "Add the sliced lemongrass, kaffir lime leaves, roasted tomatoes, and diced Korean pear to the pot and simmer for 8 minutes.",
+    "Stir in mustard powder, lime zest, lime juice, soy sauce, and chili paste, letting the flavors meld for 5 minutes.",
+    "Remove lemongrass stalks and lime leaves with a slotted spoon, then discard.",
+    "Use an immersion blender to purée the soup until smooth, adding a splash of water if needed for desired consistency.",
+    "Taste the soup and adjust seasoning with additional lime juice or soy sauce as preferred.",
+    "Ladle the soup into bowls and garnish generously with fresh cilantro leaves.",
+    "Serve hot, offering a comforting and mustard‑infused Thai experience.",
+    "Allow the soup to rest for 2 minutes before eating to let the aromatics settle."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "airy",
+    "comfort-food",
+    "dairy-free",
+    "korean-pear",
+    "mustard",
+    "thai-soup",
+    "tom-yum"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "intense-mustardy-thai-pear-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-mustardy-thai-pear-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:25:08Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "confit-tomato",
+    "primaryIngredient": "korean-pear",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pear",
+    "descriptor": "Intense Mustardy",
+    "dishForm": "Soup"
+  }
+}
