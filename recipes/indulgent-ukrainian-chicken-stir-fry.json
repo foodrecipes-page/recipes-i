@@ -1,0 +1,90 @@
+{
+  "title": "Indulgent Ukrainian Chicken Stir-fry",
+  "description": "A garlicky, caramelized chicken stir-fry with a sweet-salty sauce, double-fried for crunch, served on a hot tava griddle.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast, boneless, skinless",
+      "amount": "500 g"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Fresh ginger, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Light soy sauce (low sodium)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Slice chicken into thin strips about 1 cm wide.",
+    "Mix garlic, ginger, soy sauce, honey, and apple cider vinegar in a bowl.",
+    "Marinate chicken in the sauce for 15 minutes.",
+    "Heat 1 tablespoon of oil in the tava over medium-high heat and sear the chicken until browned, about 4 minutes.",
+    "Transfer the seared chicken to a plate lined with paper towels to drain excess oil.",
+    "Add the remaining 2 tablespoons of oil to the tava and re-fry the chicken at high heat until crisp, about 2 minutes.",
+    "Pour the remaining sauce into the tava, bring to a gentle simmer, then return the chicken and stir until the sauce thickens, about 3 minutes.",
+    "Sprinkle chopped parsley over the dish and serve immediately hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "griddle-cooking",
+    "high-protein",
+    "kfc-style",
+    "quick-meal",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 1380,
+    "protein": 155,
+    "carbs": 30,
+    "fat": 58
+  },
+  "slug": "indulgent-ukrainian-chicken-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-ukrainian-chicken-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:05:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
