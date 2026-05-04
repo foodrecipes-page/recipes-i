@@ -1,0 +1,103 @@
+{
+  "title": "Intense Venezuelan Avocado Salad",
+  "description": "A grassy, crunchy salad bursting with roasted corn, black beans, and a smoky tadka, topped with creamy avocado pulp and crumbled queso fresco.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "avocado pulp",
+      "amount": "2 ripe hass avocados",
+      "notes": "mashed to a creamy consistency"
+    },
+    {
+      "name": "roasted corn kernels",
+      "amount": "1 cup roasted corn kernels",
+      "notes": "charred slightly"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup cooked black beans, drained and rinsed"
+    },
+    {
+      "name": "diced red onion",
+      "amount": "1/2 cup finely diced red onion"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup fresh cilantro, chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 limes, juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1/2 cup crumbled queso fresco"
+    },
+    {
+      "name": "tadka mixture",
+      "amount": "1 tsp cumin seeds, 1 tsp coriander powder, 1/2 tsp smoked chili powder, 1/4 tsp garlic powder"
+    },
+    {
+      "name": "oil for tadka",
+      "amount": "1 tsp vegetable oil"
+    },
+    {
+      "name": "seasoning",
+      "amount": "salt and pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Mash the avocado pulp in a bowl until smooth but slightly chunky.",
+    "Heat 1 tsp oil over medium heat in a small pan and add the cumin seeds, cooking until they sputter.",
+    "Add the coriander powder, smoked chili powder, and garlic powder; stir for 30 seconds to release aromas.",
+    "Pour the tadka over the mashed avocado and stir to combine.",
+    "Add the roasted corn kernels, black beans, diced red onion, and chopped cilantro; toss gently.",
+    "Drizzle 2 tbsp olive oil, squeeze fresh lime juice, and sprinkle seasoning; mix thoroughly.",
+    "Fold in the crumbled queso fresco, ensuring even distribution.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "grassy",
+    "lacto-vegetarian",
+    "quick",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 9,
+    "carbs": 26,
+    "fat": 23
+  },
+  "slug": "intense-venezuelan-avocado-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-venezuelan-avocado-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:31:57Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "tadka",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "avocado",
+    "descriptor": "Intense",
+    "dishForm": "Salad"
+  }
+}
