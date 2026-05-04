@@ -323,6 +323,17 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-greek-oats-casserole",
+    "title": "Indulgent Greek Oats Casserole",
+    "tags": [
+      "greek",
+      "breakfast"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-greek-rice-fritters",
     "title": "Indulgent Greek Rice Fritters",
     "tags": [

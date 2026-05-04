@@ -1,0 +1,100 @@
+{
+  "title": "Indulgent Greek Oats Casserole",
+  "description": "A resinous, fluffy breakfast casserole that blends ground oats, feta, and honey for a cozy, Greek-inspired start to the day.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "ground before cooking"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "dried raisins",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350F.",
+    "Line a 9x9 inch baking dish with parchment paper.",
+    "In a large bowl, mix the ground oats, crumbled feta, chopped walnuts, raisins, and dried oregano.",
+    "Whisk together the eggs, milk, olive oil, and honey until smooth.",
+    "Pour the wet mixture over the dry ingredients and stir to combine.",
+    "Fold in the fresh spinach.",
+    "Transfer the mixture to the prepared baking dish and spread evenly.",
+    "Bake for 40 minutes until the top is golden and the center is set.",
+    "Remove from oven and let rest for 10 minutes before serving."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "greek",
+    "breakfast"
+  ],
+  "slug": "indulgent-greek-oats-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-greek-oats-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:38:39Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "ground oats",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "oats",
+    "descriptor": "Indulgent",
+    "dishForm": "Casserole"
+  }
+}
