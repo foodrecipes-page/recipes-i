@@ -1,0 +1,109 @@
+{
+  "title": "Intense Italian Liver Saltimbocca",
+  "description": "A bitter, snappy broiled liver dish with prosciutto and sage, served in scallop shells and finished with a poached egg, perfect for a sick day Italian meal.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "200g"
+    },
+    {
+      "name": "prosciutto slices",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh sage leaves",
+      "amount": "8"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "25g"
+    },
+    {
+      "name": "egg",
+      "amount": "4"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven broiler to high.",
+    "Clean scallop shells and lightly grease them.",
+    "Season 200g chicken liver with salt and pepper.",
+    "Wrap each liver slice with a slice of prosciutto and a sage leaf, securing with a toothpick.",
+    "Heat 1 tbsp olive oil in a broiler-safe skillet over medium-high until hot.",
+    "Sear the wrapped livers for 2 minutes per side until browned.",
+    "Transfer the skillet to the broiler and broil the livers for 3 minutes until cooked through.",
+    "While the livers broil, poach four eggs in simmering water for 3 minutes.",
+    "Remove livers from the skillet and place one in each scallop shell.",
+    "Drizzle 1/4 cup white wine, 2 tbsp butter, and a pinch of salt over the livers.",
+    "Top each liver with a poached egg and sprinkle with grated parmesan, then garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broil",
+    "high-protein",
+    "one-pan",
+    "ovo-vegetarian",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 104,
+    "carbs": 4,
+    "fat": 115
+  },
+  "slug": "intense-italian-liver-saltimbocca",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-italian-liver-saltimbocca",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:22:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "broil",
+    "primaryIngredient": "chicken liver",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Liver",
+    "descriptor": "Intense",
+    "dishForm": "Saltimbocca"
+  }
+}

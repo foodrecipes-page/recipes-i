@@ -584,6 +584,22 @@
     "shard": "i"
   },
   {
+    "slug": "innovative-crisp-malaysian-linguine-pasta",
+    "title": "Innovative Crisp Malaysian Linguine Pasta",
+    "tags": [
+      "beurre-monte",
+      "linguine",
+      "malaysian",
+      "meal-prep",
+      "one-pan",
+      "plant-based",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "innovative-herbal-chinese-chicken-char-siu-bao",
     "title": "Innovative Herbal Chinese Chicken Char Siu Bao",
     "tags": [
@@ -754,6 +770,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-italian-liver-saltimbocca",
+    "title": "Intense Italian Liver Saltimbocca",
+    "tags": [
+      "broil",
+      "high-protein",
+      "one-pan",
+      "ovo-vegetarian",
+      "sick-day",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {

@@ -1,0 +1,109 @@
+{
+  "title": "Innovative Crisp Malaysian Linguine Pasta",
+  "description": "A plant-based Malaysian dish featuring linguine pasta, beurre-monte, and a blend of Asian flavors, perfect for a weeknight dinner. This meal-prep friendly recipe is cultured, crisp, and delicious.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the linguine pasta according to package instructions until al dente.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the onion and garlic until softened.",
+    "Add the mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "In a small bowl, whisk together the soy sauce, coconut milk, and chili flakes, then pour the mixture over the mushrooms and stir to combine.",
+    "Stir in the beurre-monte and cook for an additional 2 minutes, until the sauce has thickened slightly.",
+    "Drain the cooked linguine pasta and add it to the skillet, tossing to combine with the mushroom sauce.",
+    "Season the pasta with salt and pepper to taste, then serve hot.",
+    "Garnish with chopped scallions or sesame seeds, if desired.",
+    "Let the pasta cool completely, then portion into individual containers for meal prep."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beurre-monte",
+    "linguine",
+    "malaysian",
+    "meal-prep",
+    "one-pan",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "innovative-crisp-malaysian-linguine-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-crisp-malaysian-linguine-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:22:04Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "beurre-monte",
+    "primaryIngredient": "linguine pasta",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "linguine pasta",
+    "descriptor": "Innovative Crisp",
+    "dishForm": "Pasta"
+  }
+}
