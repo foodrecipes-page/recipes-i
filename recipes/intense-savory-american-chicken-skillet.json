@@ -1,0 +1,95 @@
+{
+  "title": "Intense Savory American Chicken Skillet",
+  "description": "A hearty, post-workout American dish featuring tender chicken, savory yeast flavors, and a blend of spices, all cooked to perfection with a wok-hei twist and topped with Parmigiano-Reggiano cheese.",
+  "cuisine": "American",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Parmigiano-Reggiano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 3 minutes.",
+    "Add the mushrooms to the skillet and cook until they release their liquid and start to brown, about 4 minutes.",
+    "Add the yeast extract and thyme to the skillet and stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, until the chicken is cooked through, about 10 minutes.",
+    "Stir in the Parmigiano-Reggiano cheese until melted and well combined.",
+    "Serve hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "intense-savory-american-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-savory-american-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T13:22:50Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "wok-hei",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "intense savory",
+    "dishForm": "Skillet"
+  }
+}
