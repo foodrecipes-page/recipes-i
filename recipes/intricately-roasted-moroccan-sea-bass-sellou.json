@@ -1,0 +1,92 @@
+{
+  "title": "Intricately Roasted Moroccan Sea Bass Sellou",
+  "description": "A cozy Moroccan dish featuring roasted sea bass, this recipe is low in sodium and full of flavor, served in a cataplana vessel in the traditional sellou form. The combination of spices and herbs creates a delicious and aromatic experience.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 fillets",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the sea bass fillets and pat them dry with paper towels.",
+    "In a small bowl, mix together olive oil, lemon juice, parsley, cilantro, cumin, smoked paprika, and salt-free seasoning blend.",
+    "Place the sea bass fillets in a cataplana vessel and brush the mixture evenly over both sides of the fish.",
+    "Cover the cataplana and roast the sea bass in the preheated oven for 12 minutes.",
+    "Remove the cover and continue roasting for an additional 8 minutes, or until the fish is flaky and cooked through.",
+    "Remove the sea bass from the oven and let it rest for 2 minutes before serving.",
+    "Serve the sea bass hot, garnished with additional parsley and cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-sodium",
+    "moroccan",
+    "one-pan",
+    "roasted",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "intricately-roasted-moroccan-sea-bass-sellou",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-roasted-moroccan-sea-bass-sellou",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:59:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "boil",
+    "primaryIngredient": "sea bass",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "sea bass",
+    "descriptor": "Intricately Roasted",
+    "dishForm": "Sellou"
+  }
+}

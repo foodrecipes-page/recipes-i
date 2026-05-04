@@ -1,0 +1,92 @@
+{
+  "title": "Intense Polish Cauliflower Bowl",
+  "description": "A velvety, turmeric-infused cauliflower bowl enriched with smoked shio-cured cabbage and fresh dill, offering a savory, satvik twist on Polish comfort food.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cauliflower florets",
+      "amount": "300g"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp",
+      "notes": "adds vibrant color and anti-inflammatory benefits"
+    },
+    {
+      "name": "Shio‑cured cabbage",
+      "amount": "200g"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Toasted pumpkin seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F) and line a baking sheet with parchment.",
+    "Toss cauliflower florets with olive oil, turmeric, sea salt, and pepper until evenly coated.",
+    "Roast cauliflower for 20 minutes, stirring halfway, until golden and tender.",
+    "While cauliflower roasts, slice shio‑cured cabbage into thin ribbons and set aside.",
+    "In a bowl, combine roasted cauliflower, sliced cabbage, lemon juice, tahini, and chopped dill, mixing gently.",
+    "Taste and adjust seasoning with additional salt if needed.",
+    "Sprinkle toasted pumpkin seeds over the bowl and drizzle a drizzle of olive oil.",
+    "Serve warm for a velvety, savory Polish bowl that satisfies satvik principles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "polish",
+    "satvik",
+    "turmeric",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "intense-polish-cauliflower-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-polish-cauliflower-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:59:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "shio-cure",
+    "primaryIngredient": "turmeric",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "cauliflower",
+    "descriptor": "Intense",
+    "dishForm": "Bowl"
+  }
+}

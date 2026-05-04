@@ -1938,6 +1938,22 @@
     "shard": "i"
   },
   {
+    "slug": "intense-polish-cauliflower-bowl",
+    "title": "Intense Polish Cauliflower Bowl",
+    "tags": [
+      "gluten-free",
+      "healthy",
+      "polish",
+      "satvik",
+      "turmeric",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "intense-portuguese-cream-cheese-terrine",
     "title": "Intense Portuguese Cream Cheese Terrine",
     "tags": [
@@ -2945,6 +2961,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intricately-roasted-moroccan-sea-bass-sellou",
+    "title": "Intricately Roasted Moroccan Sea Bass Sellou",
+    "tags": [
+      "gluten-free",
+      "low-sodium",
+      "moroccan",
+      "one-pan",
+      "roasted",
+      "seafood"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
