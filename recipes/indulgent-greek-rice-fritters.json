@@ -1,0 +1,87 @@
+{
+  "title": "Indulgent Greek Rice Fritters",
+  "description": "These airy, crispy fritters fuse Greek flavors with a touch of sweetness, all in an egg‑free, loukoumades‑style shape. Sweet honey drizzle and crispy scallop‑shaped shells make for a decadent snack or dessert.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lukewarm water",
+      "amount": "1/3 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine dry ingredients in a bowl: stir fry-grind-rice-khao-khua, wholegrain mustard, cinnamon, and salt.",
+    "Pour lukewarm water and maple syrup into the dry mix and stir until the batter thickens and becomes light.",
+    "Heat coconut oil in a shallow scallop-shaped pan over medium heat until shimmering.",
+    "Using a tablespoon, spoon small rounds into the hot oil, spacing them 2 inches apart.",
+    "Fry until edges firm and tops bubble, about 2‑3 minutes per side, then remove and drain on paper towels.",
+    "Place fritters back into a scallop shell mold and press gently to form the scallop shape.",
+    "Drizzle honey over the warm fritters and sprinkle a light dusting of extra cinnamon.",
+    "Serve immediately while crisp."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "greek",
+    "dessert"
+  ],
+  "slug": "indulgent-greek-rice-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-greek-rice-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:49:36Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Rice",
+    "descriptor": "Indulgent",
+    "dishForm": "Fritters"
+  }
+}

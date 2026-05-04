@@ -230,6 +230,17 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-greek-rice-fritters",
+    "title": "Indulgent Greek Rice Fritters",
+    "tags": [
+      "greek",
+      "dessert"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-italian-cherry-cannoli",
     "title": "Indulgent Italian Cherry Cannoli",
     "tags": [
@@ -1007,6 +1018,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 10,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-smoky-mexican-spring-onions-tacos",
+    "title": "Intense Smoky Mexican Spring Onions Tacos",
+    "tags": [
+      "complex-flavors",
+      "mexican-food",
+      "ovo-vegetarian",
+      "smoky-flavors",
+      "spring-onions",
+      "tacos"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
