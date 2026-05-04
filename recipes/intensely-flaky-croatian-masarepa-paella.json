@@ -1,0 +1,102 @@
+{
+  "title": "Croatian Masarepa Paella",
+  "description": "A traditional Croatian dish with a twist, featuring yellow masarepa and a mirepoix base, this paella is both bitter and flaky, evoking nostalgic feelings.",
+  "cuisine": "Croatian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "2 cups",
+      "notes": "yellow cornmeal"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium heat.",
+    "Add the chopped onion, carrot, and celery and cook until the vegetables are tender.",
+    "Add the smoked paprika, salt, and black pepper and stir to combine.",
+    "Add the masarepa and cook for 2 minutes, stirring constantly.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the eggs and cook until the eggs are set.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-dishes",
+    "croatian-cuisine",
+    "flaky-paella",
+    "mirepoix-based",
+    "one-pan",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "intensely-flaky-croatian-masarepa-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flaky-croatian-masarepa-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:36:32Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "masarepa",
+    "descriptor": "intensely flaky",
+    "dishForm": "Paella"
+  }
+}

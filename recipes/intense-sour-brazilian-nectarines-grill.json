@@ -1,0 +1,96 @@
+{
+  "title": "Intense Sour Brazilian Nectarines Grill",
+  "description": "A light and sour Brazilian dish featuring grilled nectarines, perfect for a solo dinner, this recipe is jain-friendly and showcases the sweetness of nectarines balanced with a tangy twist.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Nectarines",
+      "amount": "4",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Green chili peppers",
+      "amount": "2",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, ensuring the grates are clean and brushed with oil to prevent sticking.",
+    "In a blender or food processor, combine lime juice, cilantro, green chili peppers, ginger, salt, and black pepper, blending until you get a smooth and slightly thick sauce.",
+    "Cut the nectarines in half and remove the pits, then brush the cut sides with coconut oil.",
+    "Place the nectarines cut side down on the grill and cook for about 5 minutes or until they develop nice grill marks.",
+    "Flip the nectarines over and grill for another 5 minutes, until they are tender but still hold their shape.",
+    "During the last minute of grilling, brush the nectarines with the prepared sauce, making sure they are evenly coated.",
+    "Remove the nectarines from the grill and let them cool slightly before serving.",
+    "Serve the grilled nectarines warm, garnished with additional cilantro if desired, and enjoy as a light and refreshing solo dinner."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "grilled-fruit",
+    "jain-friendly",
+    "quick-dinner",
+    "sour-and-sweet",
+    "vegan-dinner"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 2
+  },
+  "slug": "intense-sour-brazilian-nectarines-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-sour-brazilian-nectarines-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:35:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "grill",
+    "primaryIngredient": "nectarines",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "nectarines",
+    "descriptor": "intense sour",
+    "dishForm": "Grill"
+  }
+}

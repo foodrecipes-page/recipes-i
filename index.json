@@ -620,6 +620,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-sour-brazilian-nectarines-grill",
+    "title": "Intense Sour Brazilian Nectarines Grill",
+    "tags": [
+      "brazilian-cuisine",
+      "grilled-fruit",
+      "jain-friendly",
+      "quick-dinner",
+      "sour-and-sweet",
+      "vegan-dinner"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "intense-syrian-lentil-stew",
     "title": "Intense Syrian Lentil Stew",
     "tags": [
@@ -722,6 +737,21 @@
       "turkish-food"
     ],
     "cuisine": "Turkish",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-flaky-croatian-masarepa-paella",
+    "title": "Croatian Masarepa Paella",
+    "tags": [
+      "bitter-dishes",
+      "croatian-cuisine",
+      "flaky-paella",
+      "mirepoix-based",
+      "one-pan",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Croatian",
     "totalTimeMin": 50,
     "shard": "i"
   },
