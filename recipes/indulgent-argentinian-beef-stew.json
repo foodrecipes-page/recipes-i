@@ -1,0 +1,108 @@
+{
+  "title": "Indulgent Argentinian Beef Stew",
+  "description": "A rich, umami-packed stew infused with juniper berries and wrapped in ti leaf for a pillowy, monsoon-inspired experience.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup, low sodium"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup, no added sugar"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "juniper berries",
+      "amount": "1 tsp, crushed"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "ti leaf sheets",
+      "amount": "4"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pot until shimmering.",
+    "Add beef cubes and sear until browned on all sides.",
+    "Remove beef and set aside.",
+    "Sauté diced onion in the same pot until translucent, then add minced garlic and cook for 30 seconds.",
+    "Stir in tomato paste, tomato sauce, beef broth, crushed juniper berries, oregano, and bay leaf; bring to a simmer.",
+    "Return beef to the pot, season with salt and pepper, and simmer for 45 minutes until tender.",
+    "Lay a ti leaf sheet over a clean surface, place a portion of the stew onto the leaf, fold the edges over to create a pouch, and seal with a small piece of twine.",
+    "Arrange the ti leaf-wrapped portions in a pot of boiling water, cover, and simmer for an additional 15 minutes.",
+    "Serve directly from the ti leaf, garnish with fresh parsley, and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "high-fat",
+    "keto-friendly",
+    "low-carb",
+    "savory",
+    "stew",
+    "ti-leaf-wrap"
+  ],
+  "nutrition": {
+    "calories": 2700,
+    "protein": 170,
+    "carbs": 25,
+    "fat": 210
+  },
+  "slug": "indulgent-argentinian-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-argentinian-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:55:30Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "boil",
+    "primaryIngredient": "juniper berries",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Indulgent",
+    "dishForm": "Stew"
+  }
+}
