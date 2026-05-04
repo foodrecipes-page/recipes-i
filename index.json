@@ -244,6 +244,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-okinawan-mackerel-grill",
+    "title": "Indulgent Okinawan Mackerel Grill",
+    "tags": [
+      "flexitarian",
+      "grill",
+      "high-protein",
+      "nightcap",
+      "quick-meal",
+      "seafood"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-portuguese-almonds-cookies",
     "title": "Indulgent Portuguese Almonds Cookies",
     "tags": [

@@ -1,0 +1,104 @@
+{
+  "title": "Indulgent Okinawan Mackerel Grill",
+  "description": "A rich, midnight craving dish featuring wholegrain mustard infused mackerel, grilled to silky perfection and finished with a citrusy splash.",
+  "cuisine": "Japanese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh lemon",
+      "amount": "1/2",
+      "notes": "cut into wedges"
+    },
+    {
+      "name": "mackerel fillets",
+      "amount": "400g",
+      "notes": "skin on, whole fillets"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan over medium-high heat.",
+    "In a small bowl whisk together wholegrain mustard, soy sauce, mirin, olive oil, grated ginger, minced garlic, salt, and pepper until smooth.",
+    "Pat the mackerel fillets dry with paper towels and brush them lightly with the mustard mixture on both sides.",
+    "Place the fillets on the preheated grill, skin-side down, and cook for 5 minutes until the skin crisps.",
+    "Flip the fillets gently and grill for an additional 3 to 4 minutes, or until the flesh flakes easily with a fork.",
+    "Remove the fish from the grill and let it rest for one minute.",
+    "Drizzle any remaining sauce over the fillets and squeeze fresh lemon wedges on top.",
+    "Serve immediately with a side of steamed vegetables or a light salad.",
+    "Enjoy the indulgent, silky texture and midnight craving flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "grill",
+    "high-protein",
+    "nightcap",
+    "quick-meal",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 570,
+    "protein": 21,
+    "carbs": 2,
+    "fat": 41
+  },
+  "slug": "indulgent-okinawan-mackerel-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-okinawan-mackerel-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:31:19Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "grill",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "flexitarian",
+    "region": "okinawa",
+    "cuisineAdjective": "Okinawan",
+    "mainIngredient": "Mackerel",
+    "descriptor": "Indulgent",
+    "dishForm": "Grill"
+  }
+}
