@@ -369,6 +369,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-french-tomato-quiche",
+    "title": "Indulgent French Tomato Quiche",
+    "tags": [
+      "brittany",
+      "indulgent",
+      "kosher-friendly",
+      "quiche",
+      "tomato",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-german-cabbage-casserole",
     "title": "Indulgent German Cabbage Casserole",
     "tags": [
