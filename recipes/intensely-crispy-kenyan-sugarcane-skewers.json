@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Crispy Kenyan Sugarcane Skewers",
+  "description": "A crispy and bitter Kenyan dish featuring sugarcane, perfect for the monsoon season, this recipe is dairy-free friendly and incorporates spherification for a unique texture.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sugarcane",
+      "amount": "1 pound",
+      "notes": "peeled and cut into 1-inch pieces"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bitter melon powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the cornstarch, salt, and bitter melon powder.",
+    "Add the sugarcane pieces to the bowl and toss to coat evenly with the cornstarch mixture.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Fry the sugarcane pieces in batches until golden brown, about 3-4 minutes per batch.",
+    "Using a slotted spoon, remove the fried sugarcane from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "In a small bowl, mix the sodium alginate and water to create a spherification bath.",
+    "Add the fried sugarcane pieces to the spherification bath and let sit for 30 seconds to create a crispy exterior.",
+    "Remove the sugarcane pieces from the bath and place on a serving plate.",
+    "Drizzle the lemon juice over the sugarcane pieces and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-snacks",
+    "dairy-free",
+    "kenyan-cuisine",
+    "monsoon-season",
+    "spherification",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "intensely-crispy-kenyan-sugarcane-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-crispy-kenyan-sugarcane-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:40:54Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "spherify",
+    "primaryIngredient": "sugars",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sugarcane",
+    "descriptor": "Intensely crispy",
+    "dishForm": "Skewers"
+  }
+}
