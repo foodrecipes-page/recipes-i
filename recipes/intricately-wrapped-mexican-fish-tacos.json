@@ -1,0 +1,97 @@
+{
+  "title": "Intricately Wrapped Mexican Fish Tacos",
+  "description": "A citrusy and flaky Mexican dish featuring caramel sauce and leaf wrapped steamed fish, served on a bamboo tray.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tilapia fillets",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "bamboo trays",
+      "amount": "4"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer to 200 degrees Fahrenheit.",
+    "Season the tilapia fillets with salt and pepper.",
+    "Wrap each tilapia fillet in a banana leaf.",
+    "Steam the wrapped fish for 8 minutes.",
+    "Prepare the caramel sauce by heating it in a saucepan over low heat.",
+    " Warm the bamboo trays by wrapping them in a damp cloth and microwaving for 20 seconds.",
+    "Assemble the tacos by placing a steamed fish fillet on each bamboo tray.",
+    "Drizzle the caramel sauce over the fish and top with mixed greens and chopped cilantro.",
+    "Serve the tacos immediately, garnished with a squeeze of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "healthy",
+    "low-carb",
+    "mexican-food",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "intricately-wrapped-mexican-fish-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-wrapped-mexican-fish-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:33:09Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "caramel sauce",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "fish",
+    "descriptor": "Intricately wrapped",
+    "dishForm": "Tacos"
+  }
+}
