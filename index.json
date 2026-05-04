@@ -603,6 +603,22 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-braised-russian-beef-stew",
+    "title": "Intensely Braised Russian Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "romantic-dinner",
+      "russian-cuisine",
+      "slow-cooked",
+      "weeknight",
+      "winter-stew"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 200,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-earthy-turkish-lamb-icli-kofte",
     "title": "Intensely Earthy Turkish Lamb Icli Kofte",
     "tags": [

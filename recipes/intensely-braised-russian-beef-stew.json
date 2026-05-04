@@ -1,0 +1,105 @@
+{
+  "title": "Intensely Braised Russian Beef Stew",
+  "description": "A classic Russian dish featuring tender beef in a sweet and light sauce, perfect for a romantic dinner. This stew is a slow-cooked masterpiece that will leave you warm and satisfied.",
+  "cuisine": "Russian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef stew meat and cook until browned, about 5 minutes.",
+    "Add the onion, carrots, and potatoes, and cook until the vegetables are slightly tender, about 5 minutes.",
+    "Add the beef broth, red wine, tomato paste, brown sugar, thyme, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the stew in the preheated oven for 2 1/2 to 3 hours, or until the meat is tender and the vegetables are cooked through.",
+    "Remove the pot from the oven and stir in the flour to thicken the sauce.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "romantic-dinner",
+    "russian-cuisine",
+    "slow-cooked",
+    "weeknight",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 45,
+    "fat": 22
+  },
+  "slug": "intensely-braised-russian-beef-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-braised-russian-beef-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:35:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "beef",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Intensely Braised",
+    "dishForm": "Stew"
+  }
+}
