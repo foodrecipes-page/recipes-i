@@ -723,5 +723,20 @@
     "cuisine": "moroccan",
     "totalTimeMin": 35,
     "shard": "i"
+  },
+  {
+    "slug": "invigorating-air-fried-croatian-petit-pois-skillet",
+    "title": "Invigorating Air Fried Croatian Petit Pois Skillet",
+    "tags": [
+      "air-fryer",
+      "croatian-cuisine",
+      "gluten-free",
+      "keto-friendly",
+      "one-pan",
+      "quick-meal"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 15,
+    "shard": "i"
   }
 ]
