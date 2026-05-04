@@ -1,0 +1,92 @@
+{
+  "title": "Intensely Flavored Irish Lamb Skillet",
+  "description": "A quick and flavorful Irish dish featuring lamb, chimichurri sauce, and ferment-kimchi, perfect for a weeknight dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the chimichurri sauce and ferment-kimchi.",
+    "Season with salt and black pepper to taste.",
+    "Reduce heat to medium low and simmer for 10 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "irish-food",
+    "lamb-recipes",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "intensely-flavored-irish-lamb-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flavored-irish-lamb-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:03:23Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Intensely flavored",
+    "dishForm": "Skillet"
+  }
+}
