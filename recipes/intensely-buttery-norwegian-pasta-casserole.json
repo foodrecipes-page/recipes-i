@@ -1,0 +1,95 @@
+{
+  "title": "Intensely Buttery Norwegian Pasta Casserole",
+  "description": "A rich and comforting Norwegian dish featuring bowtie pasta in a buttery, gooey sauce, cooked to perfection in a clay pot. This Buddhist-temple-friendly recipe is perfect for a cozy dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bowtie pasta",
+      "amount": "8 oz",
+      "notes": "farfalle"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the bowtie pasta according to package instructions until al dente.",
+    "In a large saucepan, whisk together the melted butter and flour to make a roux.",
+    "Slowly pour in the heavy cream, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook until it thickens.",
+    "Remove the sauce from the heat and stir in the grana padano cheese until melted.",
+    "In a large clay pot, combine the cooked pasta, cheese sauce, and chopped parsley.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the clay pot to the preheated oven and bake for 20 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "comfort-food",
+    "norwegian-cuisine",
+    "pasta-casserole",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "intensely-buttery-norwegian-pasta-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-buttery-norwegian-pasta-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:43:37Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "pasta",
+    "descriptor": "Intensely buttery",
+    "dishForm": "Pasta"
+  }
+}
