@@ -1,0 +1,102 @@
+{
+  "title": "Intensely Crunchy Jamaican Runner Beans Fried Rice",
+  "description": "A low-carb, herbal, and crunchy solo dinner dish featuring Jamaican runner beans, served with fried rice on a comal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "1 cup",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "chopped and seeded"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat on the comal.",
+    "Add chopped onion and cook until translucent, about 3 minutes.",
+    "Add chopped scotch bonnet pepper and cook for an additional minute.",
+    "Add minced garlic and cook for 30 seconds, until fragrant.",
+    "Add trimmed runner beans and cook until tender, about 4 minutes.",
+    "Add cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir in dried thyme, salt, and black pepper, and cook for 2 minutes, until the rice is heated through and starting to brown.",
+    "Use a spatula to shape the rice mixture into a flat, round shape, and cook for an additional 2 minutes, until the bottom is crispy and golden brown.",
+    "Flip the rice mixture over and cook for an additional 2 minutes, until the other side is also crispy and golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comal-cooking",
+    "gluten-free",
+    "herbal",
+    "jamaican-cuisine",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "intensely-crunchy-jamaican-runner-beans-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-crunchy-jamaican-runner-beans-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:38:53Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "runner beans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "runner beans",
+    "descriptor": "intensely crunchy",
+    "dishForm": "Fried-Rice"
+  }
+}
