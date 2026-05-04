@@ -1,0 +1,96 @@
+{
+  "title": "Invigorating Mexican Hominy Pozole",
+  "description": "A traditional Mexican dish featuring hominy and pork, infused with the flavors of celery salt and a hint of Mediterranean friendliness, all combined in a delicious and energizing pozole.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hominy",
+      "amount": "2 cups",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "celery salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the pork shoulder chunks and cook until they are browned on all sides, about 5 minutes.",
+    "Add the hominy, chicken broth, celery salt, and dried oregano to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Use two forks to shred the pork into bite-sized pieces.",
+    "Stir in the lime juice and season the pozole with salt and pepper to taste.",
+    "Serve the pozole hot, garnished with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "hominy-based",
+    "mexican-cuisine",
+    "one-pot",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "invigorating-mexican-hominy-pozole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/invigorating-mexican-hominy-pozole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:08:40Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "celery salt",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "hominy",
+    "descriptor": "Invigorating",
+    "dishForm": "Pozole"
+  }
+}

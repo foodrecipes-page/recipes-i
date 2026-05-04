@@ -963,5 +963,20 @@
     "cuisine": "Croatian",
     "totalTimeMin": 15,
     "shard": "i"
+  },
+  {
+    "slug": "invigorating-mexican-hominy-pozole",
+    "title": "Invigorating Mexican Hominy Pozole",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "hominy-based",
+      "mexican-cuisine",
+      "one-pot",
+      "pork-recipes"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "i"
   }
 ]
