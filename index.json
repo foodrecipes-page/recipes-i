@@ -30,6 +30,22 @@
     "shard": "i"
   },
   {
+    "slug": "icy-jamaican-codfish-fritters",
+    "title": "icy jamaican codfish fritters",
+    "tags": [
+      "appetizer",
+      "fritters",
+      "hp-sauce",
+      "jamaican",
+      "keto-friendly",
+      "romantic",
+      "seafood"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 23,
+    "shard": "i"
+  },
+  {
     "slug": "icy-korean-potato-bake",
     "title": "Icy Korean Potato Bake",
     "tags": [
@@ -1205,6 +1221,22 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intrepid-ukrainian-chickpeas-salad",
+    "title": "Intrepid Ukrainian Chickpeas Salad",
+    "tags": [
+      "healthy",
+      "herb-forward",
+      "mediterranean",
+      "no-cook",
+      "quick",
+      "snack",
+      "vegan"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 15,
     "shard": "i"
   },
   {

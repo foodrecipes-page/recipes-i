@@ -1,0 +1,111 @@
+{
+  "title": "Intrepid Ukrainian Chickpeas Salad",
+  "description": "A floral, snappy chickpea salad with fines-herbes, dehydrated sun‑dried tomato, and a citrus vinaigrette that marries Ukrainian spirit with Mediterranean flair.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chickpeas, drained",
+      "amount": "400g"
+    },
+    {
+      "name": "Roasted red bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Sun‑dried tomato, chopped",
+      "amount": "50g"
+    },
+    {
+      "name": "Cucumber, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red onion, thinly sliced",
+      "amount": "½"
+    },
+    {
+      "name": "Arugula",
+      "amount": "100g"
+    },
+    {
+      "name": "Fines‑herbes mix (dill, mint, parsley), chopped",
+      "amount": "30g",
+      "notes": "fresh herbs"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the drained chickpeas under cold water and set aside.",
+    "Roast the sliced red bell pepper in a hot oven at 220°C for 5 minutes until softened.",
+    "Chop the sun‑dried tomato into bite‑sized pieces.",
+    "Dice the cucumber and thinly slice the red onion.",
+    "Chop the arugula and fines‑herbes mix into small fragments.",
+    "In a small bowl whisk together olive oil, lemon juice, Dijon mustard, dried oregano, salt, and pepper to create the vinaigrette.",
+    "Place the chickpeas, roasted pepper, sun‑dried tomato, cucumber, onion, arugula, and fines‑herbes in a large mixing bowl.",
+    "Pour the vinaigrette over the salad and toss gently until all components are evenly coated.",
+    "Let the salad rest for 5 minutes to allow flavors to meld.",
+    "Serve chilled, spooned into bowls or on toasted pita for an adventurous snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "herb-forward",
+    "mediterranean",
+    "no-cook",
+    "quick",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 710,
+    "protein": 17,
+    "carbs": 69,
+    "fat": 35
+  },
+  "slug": "intrepid-ukrainian-chickpeas-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intrepid-ukrainian-chickpeas-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:57:28Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "dehydrate",
+    "primaryIngredient": "fines-herbes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Intrepid",
+    "dishForm": "Salad"
+  }
+}
