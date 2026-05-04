@@ -929,6 +929,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-mediterranean-lamb-grill",
+    "title": "Indulgent Mediterranean Lamb Grill",
+    "tags": [
+      "gluten-free",
+      "grilled",
+      "lamb",
+      "low-sodium",
+      "mediterranean"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 70,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-mediterranean-tofu-pasta",
     "title": "Indulgent Mediterranean Tofu Pasta",
     "tags": [

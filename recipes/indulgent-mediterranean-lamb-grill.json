@@ -1,0 +1,98 @@
+{
+  "title": "Indulgent Mediterranean Lamb Grill",
+  "description": "Tender lamb, slow-cooked in a mixture of olive oil, herbs, and spices, then brushed with a sweet and tangy barbecue sauce, all served atop a bed of fluffy couscous.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Chopped garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chopped fresh oregano",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped fresh thyme",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt-free seasoning blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Barbecue sauce",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Season the lamb shoulder with salt-free seasoning blend and black pepper.",
+    "Place the lamb shoulder on the grill and cook for 20 minutes on each side, or until browned and cooked to desired doneness.",
+    "Transfer the lamb to a cutting board and let rest for 5 minutes.",
+    "Meanwhile, cook the couscous according to package instructions.",
+    "In a small bowl, whisk together olive oil, chopped onion, chopped garlic, chopped oregano, and chopped thyme.",
+    "Brush the mixture onto the cooked lamb and serve atop a bed of couscous.",
+    "Drizzle with barbecue sauce, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "lamb",
+    "low-sodium",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "indulgent-mediterranean-lamb-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-mediterranean-lamb-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "slow-cook",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Indulgent",
+    "dishForm": "Grill"
+  }
+}
