@@ -1,0 +1,95 @@
+{
+  "title": "Intensely Smoky Saudi Arabian Mackerel Onigiri",
+  "description": "A resinous and shaggy midnight-craving Saudi Arabian dish featuring smoked mackerel, nigiri shaping, and ovo-vegetarian friendly ingredients, this onigiri is perfect for a snack or light meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked mackerel",
+      "amount": "1 cup",
+      "notes": "flaked"
+    },
+    {
+      "name": "Japanese short grain rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "nori seaweed sheets",
+      "amount": "10 sheets"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the smoked mackerel by flaking it into small pieces and setting it aside.",
+    "Prepare the Japanese short grain rice according to the package instructions and set it aside to cool.",
+    "Cut the nori seaweed sheets into smaller pieces and set them aside.",
+    "Cut the pickled ginger and scallions into thin slices and set them aside.",
+    "Mix the sesame oil, salt, and black pepper in a small bowl and set it aside.",
+    "Combine the cooled Japanese short grain rice, smoked mackerel, pickled ginger, and scallions in a large bowl and mix well.",
+    "Add the sesame oil mixture to the rice mixture and mix until everything is well combined.",
+    "Using wet hands, shape the rice mixture into small triangular shapes and wrap each one with a piece of nori seaweed.",
+    "Serve the onigiri immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "healthy-snack",
+    "high-protein",
+    "one-pan",
+    "smoky-flavor",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "intensely-smoky-saudi-arabian-mackerel-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-saudi-arabian-mackerel-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:57:26Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "mackerel",
+    "descriptor": "intensely smoky",
+    "dishForm": "Onigiri"
+  }
+}
