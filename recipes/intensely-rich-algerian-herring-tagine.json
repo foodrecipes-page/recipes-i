@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Rich Algerian Herring Tagine",
+  "description": "A rich and flavorful Algerian dish featuring herring, perfect for a hangover cure, made with double-rise-bread and served in individual mini cocottes.",
+  "cuisine": "Algerian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "herring fillets",
+      "amount": "12 fillets",
+      "notes": "cured in salt"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onions and cook until they are softened and lightly browned.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the cooked onion mixture, herring fillets, double-rise-bread cubes, tomato paste, smoked paprika, salt, and black pepper.",
+    "In a small bowl, whisk together the chicken broth and a pinch of salt.",
+    "Pour the chicken broth mixture over the herring mixture and stir until the bread is well coated.",
+    "Divide the mixture among 6 individual mini cocottes.",
+    "Cover the cocottes with lids and bake for 25 minutes.",
+    "Remove the lids and continue baking for an additional 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-based",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intensely-rich-algerian-herring-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-rich-algerian-herring-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:28:47Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "herring",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "herring",
+    "descriptor": "intensely rich",
+    "dishForm": "Tagine"
+  }
+}

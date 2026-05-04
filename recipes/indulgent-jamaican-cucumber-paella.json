@@ -1,0 +1,108 @@
+{
+  "title": "Indulgent Jamaican Cucumber Paella",
+  "description": "A lightly seasoned, low‑sodium paella featuring Persian cucumber and katsuramuki, perfect for a date night.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "short grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low‑sodium vegetable broth",
+      "amount": "2 1/2 cups"
+    },
+    {
+      "name": "diced tomatoes (low‑sodium)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "saffron threads, steeped in 2 tbsp hot water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Persian cucumber, sliced 1/4 inch",
+      "amount": "1 medium"
+    },
+    {
+      "name": "katsuramuki slices 1/4 inch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a paella pan over medium heat until shimmering.",
+    "Add diced onions and minced garlic, sauté until onions translucent, about 3 minutes.",
+    "Stir in smoked paprika and turmeric, cooking until fragrant, about 1 minute.",
+    "Add the rice, stirring to coat grains in the spice mixture, cook for 2 minutes.",
+    "Pour in the saffron‑infused water, then add low‑sodium vegetable broth and diced tomatoes; bring to a gentle simmer, cover partially.",
+    "Reduce heat to low, let the rice absorb liquid for 10 minutes, stirring occasionally.",
+    "When rice is near cooked, gently fold in cucumber and katsuramuki slices, allowing them to warm through.",
+    "Remove the pan from heat, squeeze fresh lime juice over the paella, and let rest for 5 minutes.",
+    "Garnish with chopped herbs if desired and serve hot.",
+    "Enjoy the fragrant, low‑sodium Jamaican cucumber paella."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "grassy",
+    "jamaican",
+    "low-sodium",
+    "paella-pan",
+    "vegetable"
+  ],
+  "nutrition": {
+    "calories": 133,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 7
+  },
+  "slug": "indulgent-jamaican-cucumber-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-jamaican-cucumber-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:29:38Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "persian cucumber",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cucumber",
+    "descriptor": "Indulgent",
+    "dishForm": "Paella"
+  }
+}

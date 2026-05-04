@@ -477,6 +477,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-jamaican-cucumber-paella",
+    "title": "Indulgent Jamaican Cucumber Paella",
+    "tags": [
+      "date-night",
+      "grassy",
+      "jamaican",
+      "low-sodium",
+      "paella-pan",
+      "vegetable"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-japanese-cheese-stir-fry",
     "title": "Indulgent Japanese Cheese Stir-fry",
     "tags": [
@@ -2477,6 +2492,20 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-rich-algerian-herring-tagine",
+    "title": "Intensely Rich Algerian Herring Tagine",
+    "tags": [
+      "comfort-food",
+      "fish-based",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
