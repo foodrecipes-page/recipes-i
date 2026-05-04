@@ -1,0 +1,104 @@
+{
+  "title": "Intense Dense Thai Chicken Tom Kha",
+  "description": "A sour and dense Thai dish featuring chicken, flour, and a blend of spices, cooked to perfection using sous-vide and robata-grill methods, this flexitarian-friendly recipe is a twist on traditional tom kha, with the addition of flour to enhance the texture and flavor.",
+  "cuisine": "Thai",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "tom kha paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon grass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 140 degrees Fahrenheit.",
+    "Season the chicken pieces with salt and coat with flour, shaking off excess.",
+    "Seal the chicken in a sous-vide bag with lemon grass, galangal, and kaffir lime leaves, and cook for 2 hours.",
+    "Grill the robata-grill to high heat and char the chicken pieces for 2 minutes on each side.",
+    "In a blender, combine coconut milk, tom kha paste, fish sauce, and lime juice, and blend until smooth.",
+    "Add the cooked chicken to the blender and blend until the chicken is coated with the sauce.",
+    "Transfer the sauce to a saucepan and bring to a simmer over medium heat.",
+    "Stir in chopped Thai basil and cook for an additional 2 minutes.",
+    "Serve the chicken and sauce hot, garnished with additional basil and lemon wedges if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "flexitarian",
+    "robata-grill",
+    "sous-vide",
+    "spicy",
+    "street-food",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intense-dense-thai-chicken-tom-kha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-dense-thai-chicken-tom-kha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:07:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "sous-vide",
+    "primaryIngredient": "flour",
+    "diet": "flexitarian",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Intense Dense",
+    "dishForm": "Tom Kha"
+  }
+}
