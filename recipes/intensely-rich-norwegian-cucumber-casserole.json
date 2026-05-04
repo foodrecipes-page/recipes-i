@@ -1,0 +1,104 @@
+{
+  "title": "Intensely Rich Norwegian Cucumber Casserole",
+  "description": "A rich and dense Norwegian dish featuring Persian cucumber, perfect for crowds, this macrobiotic-friendly casserole is a delight to serve at any occasion, especially during dinner gatherings.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Persian cucumber",
+      "amount": "2 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "In a large bowl, combine the cooked brown rice, crumbled feta cheese, salt, and black pepper.",
+    "Add the cooked onion and garlic mixture to the bowl and stir until well combined.",
+    "In a separate bowl, toss the katsuramuki-cut Persian cucumber with a pinch of salt.",
+    "In a greased 9x13 inch baking dish, create a layer of the rice mixture.",
+    "Add a layer of the cucumber slices on top of the rice mixture.",
+    "Repeat the layers until all ingredients are used, ending with a layer of rice on top.",
+    "Sprinkle the chopped fresh dill over the top of the casserole."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "crowd-pleaser",
+    "dinner-idea",
+    "macrobiotic",
+    "norwegian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intensely-rich-norwegian-cucumber-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-rich-norwegian-cucumber-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:57:25Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "persian cucumber",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cucumber",
+    "descriptor": "Intensely rich",
+    "dishForm": "Casserole"
+  }
+}
