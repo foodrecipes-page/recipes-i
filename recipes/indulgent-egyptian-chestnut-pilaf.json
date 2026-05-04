@@ -1,0 +1,106 @@
+{
+  "title": "Indulgent Egyptian Chestnut Pilaf",
+  "description": "A salty, pillowy weeknight Egyptian dish featuring chestnuts, tempered spices, and a comforting rice base, kosher-friendly and ready in under an hour.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dried chestnuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrot, diced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the basmati rice under cold water until runoff is clear.",
+    "Heat the olive oil in a medium pot over medium heat and add the diced onion, sautéing until translucent.",
+    "Add the ground cumin and coriander, cooking for 30 seconds until fragrant.",
+    "Stir in the diced carrot and cook for 2 minutes, then add the pre-soaked chestnuts and stir.",
+    "Pour in the chicken broth, add the bay leaf, salt, and pepper, and bring to a gentle boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 15 minutes, or until the rice and chestnuts absorb the liquid.",
+    "Remove from heat, discard the bay leaf, and let the pilaf rest, covered, for 5 minutes.",
+    "Fluff the rice with a fork, stir in lemon zest, and adjust seasoning if needed.",
+    "Serve hot, garnished with chopped parsley or a drizzle of olive oil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "healthy",
+    "kosher-friendly",
+    "pilaf",
+    "pillowy",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 8,
+    "carbs": 110,
+    "fat": 28
+  },
+  "slug": "indulgent-egyptian-chestnut-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-egyptian-chestnut-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:27:07Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "temper",
+    "primaryIngredient": "chestnuts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chestnuts",
+    "descriptor": "Indulgent",
+    "dishForm": "Pilaf"
+  }
+}
