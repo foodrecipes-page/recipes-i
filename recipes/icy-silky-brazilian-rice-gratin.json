@@ -1,0 +1,107 @@
+{
+  "title": "Icy Silky Brazilian Rice Gratin",
+  "description": "A fresh, silky rice dish with a light coconut base, aromatic turmeric and ginger, topped with creamy Epoisses and finished in a raclette grill for a crisp, al-dente finish. This Ayurvedic sattvic-friendly recipe blends Brazilian flavors with a modern twist.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "mint",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "julienned carrot",
+      "amount": "1 small"
+    },
+    {
+      "name": "shredded Epoisses cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the jasmine rice under cold water until the water runs clear.",
+    "In a medium pot, combine rinsed rice, water, coconut milk, turmeric, ginger, and a pinch of salt, then bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15 minutes until the liquid is absorbed and rice is tender.",
+    "Remove from heat and fluff the rice with a fork, then stir in lime juice, cilantro, mint, and julienned carrot.",
+    "Transfer the rice mixture to a raclette grill dish, spreading it evenly.",
+    "Sprinkle shredded Epoisses cheese over the rice and drizzle with olive oil.",
+    "Place the dish under the raclette grill's heat source until the cheese melts and forms a golden, slightly crisp top, about 3-4 minutes.",
+    "Serve hot, optionally garnishing with fresh mint leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "al-dente",
+    "ayurvedic",
+    "brazilian",
+    "light-dish",
+    "raclette-grill",
+    "rice",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "icy-silky-brazilian-rice-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-silky-brazilian-rice-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:28:32Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "epoisses",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "rice",
+    "descriptor": "Icy Silky",
+    "dishForm": "Gratin"
+  }
+}
