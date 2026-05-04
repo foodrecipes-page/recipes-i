@@ -1,0 +1,130 @@
+{
+  "title": "intensely earthy slovakian millet gratin",
+  "description": "a keto-friendly, earthy, one-pot dish from slovakia, featuring millet that's been caramelized to perfection. the molten, cheesy top will pull you in and leave you wanting more.",
+  "cuisine": "slovakian",
+  "diet": [
+    "keto",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "divided use"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced, such as cremini or shiitake"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375f (190c).",
+    "in a large, oven-safe skillet, melt 1 tablespoon of the butter over medium heat.",
+    "add the sliced onion and cook, stirring occasionally, until caramelized and golden brown, about 20 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the sliced mushrooms and cook, stirring occasionally, until they release their liquid and start to brown, about 5 minutes.",
+    "add the flour and cook for 1 minute, stirring constantly.",
+    "add the dry white wine and beef broth, stirring to deglaze the pan and scrape up any browned bits.",
+    "bring the mixture to a simmer and cook until it has reduced by half, about 5 minutes.",
+    "stir in the grated gruyere cheese until melted and smooth.",
+    "add the millet and stir to combine.",
+    "dot the top of the millet mixture with the remaining 1 tablespoon of butter.",
+    "transfer the skillet to the preheated oven and bake, uncovered, until the top is golden brown and the millet is tender, about 25-30 minutes.",
+    "remove the skillet from the oven and sprinkle the grated parmesan cheese on top.",
+    "return the skillet to the oven and bake for an additional 2-3 minutes, until the cheese is melted and bubbly.",
+    "remove the skillet from the oven and let it cool for a few minutes before serving.",
+    "serve hot, garnished with chopped fresh herbs if desired.",
+    "adjust the seasoning as needed.",
+    "serve immediately and enjoy!",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " "
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "gluten-free",
+    "keto",
+    "one-pan",
+    "paleo",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 36
+  },
+  "slug": "intensely-earthy-slovakian-millet-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-earthy-slovakian-millet-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "caramelize",
+    "primaryIngredient": "millet",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "millet",
+    "descriptor": "Intensely earthy",
+    "dishForm": "gratin"
+  }
+}

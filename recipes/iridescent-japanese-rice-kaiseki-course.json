@@ -1,0 +1,108 @@
+{
+  "title": "Iridescent Japanese Rice Kaiseki-Course",
+  "description": "A rich, crumbly, light Japanese dish featuring yellow food colouring, wood-fired-bake, egg-free-friendly, form=kaiseki-course. Perfect for a kaiseki-course meal.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sakura extract",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Yellow food colouring",
+      "amount": "0.1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "White sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Wood-fired rice oven temperature",
+      "amount": "220°C",
+      "notes": "Using a wood-fired oven allows for a crispy crust to form on the rice."
+    },
+    {
+      "name": "Rice bowl garnishes (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Edible gold dust (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh herbs (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the Japanese short-grain rice according to package instructions.",
+    "In a separate pot, mix the rice vinegar, sakura extract, yellow food colouring, white sugar, and salt to create the sauce.",
+    "Preheat the wood-fired rice oven to 220°C.",
+    "Transfer the cooked Japanese short-grain rice to the wood-fired rice oven and bake for 15 minutes, or until crispy on the bottom.",
+    "Shape the rice into small circular balls using a rice paddle.",
+    "Garnish the rice balls with rice bowl garnishes, edible gold dust, and fresh herbs if desired.",
+    "Serve the Iridescent Japanese Rice Kaiseki-Course warm or at room temperature, as desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "iridescent",
+    "japanese-cuisine",
+    "kaiseki-course",
+    "wood-fired-bake"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 4
+  },
+  "slug": "iridescent-japanese-rice-kaiseki-course",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/iridescent-japanese-rice-kaiseki-course",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:26Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "egg-free",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rice",
+    "descriptor": "Iridescent",
+    "dishForm": "Kaiseki-Course"
+  }
+}
