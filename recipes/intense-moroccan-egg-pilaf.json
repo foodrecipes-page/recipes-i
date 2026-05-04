@@ -1,0 +1,108 @@
+{
+  "title": "Intense Moroccan Egg Pilaf",
+  "description": "A tangy, shaggy couscous dish cooked in a ttukbaegi with rapeseed oil, spices, preserved lemon, and eggs for a midnight craving pull.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "400 g"
+    },
+    {
+      "name": "rapeseed oil",
+      "amount": "30 ml"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "30 g"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "saffron",
+      "amount": "0.5 g"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 g"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp (6 g)"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "parsley",
+      "amount": "10 g",
+      "notes": "add lemon zest after cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the rapeseed oil in a ttukbaegi over medium heat until shimmering.",
+    "Add the diced onion and sauté until translucent, about 5 minutes.",
+    "Stir in the minced garlic, tomato paste, cumin, paprika, and saffron, cooking for 2 minutes until fragrant.",
+    "Add the sliced preserved lemon and cook for another minute to blend the flavors.",
+    "Sprinkle the couscous over the mixture, stirring to coat the grains evenly with the sauce.",
+    "Pour in 200 ml hot water, bring the pot to a gentle boil, then reduce the heat to low, cover, and simmer for 5 minutes.",
+    "Remove the ttukbaegi from the heat, fluff the couscous with a fork, and stir in the eggs, breaking them into the hot grains.",
+    "Cover again, let the eggs steam in the residual heat for 4 minutes until set, then fluff the pilaf once more.",
+    "Garnish with chopped parsley and lemon zest, season with additional salt if desired, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "couscous",
+    "easy",
+    "midnight-craving",
+    "moroccan",
+    "one-pot",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 525,
+    "protein": 18,
+    "carbs": 86,
+    "fat": 14
+  },
+  "slug": "intense-moroccan-egg-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-moroccan-egg-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:25:02Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Egg",
+    "descriptor": "Intense",
+    "dishForm": "Pilaf"
+  }
+}

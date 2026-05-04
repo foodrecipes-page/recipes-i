@@ -1,0 +1,85 @@
+{
+  "title": "Intense Smoky Ethiopian Brie Dabo",
+  "description": "A daring fusion of creamy Brie and robust Ethiopian spices baked to smoky perfection, served with toasted flatbread for a midnight craving.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brie cheese",
+      "amount": "125 g"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Berbere spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cracked black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Flatbread slices",
+      "amount": "4",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Place the Brie in a baking dish and drizzle with olive oil, honey, lemon juice, and cracked pepper.",
+    "Sprinkle smoked paprika and berbere spice mix over the cheese.",
+    "Cover with foil and bake for 10 minutes.",
+    "Remove foil and bake another 5 minutes until the top is golden and the cheese is bubbling.",
+    "Serve the hot Brie with toasted flatbread slices for dipping."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "ethiopian",
+    "snack"
+  ],
+  "slug": "intense-smoky-ethiopian-brie-dabo",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-ethiopian-brie-dabo",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:24:06Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "score-fat",
+    "primaryIngredient": "brie",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Brie",
+    "descriptor": "Intense Smoky",
+    "dishForm": "Dabo"
+  }
+}

@@ -1113,6 +1113,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-moroccan-egg-pilaf",
+    "title": "Intense Moroccan Egg Pilaf",
+    "tags": [
+      "couscous",
+      "easy",
+      "midnight-craving",
+      "moroccan",
+      "one-pot",
+      "ovo-vegetarian"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 28,
+    "shard": "i"
+  },
+  {
     "slug": "intense-mustardy-spanish-wonton-tortilla-espanola",
     "title": "Intense Mustardy Spanish Wonton Tortilla Espanola",
     "tags": [
@@ -1201,6 +1216,17 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 180,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-smoky-ethiopian-brie-dabo",
+    "title": "Intense Smoky Ethiopian Brie Dabo",
+    "tags": [
+      "ethiopian",
+      "snack"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
