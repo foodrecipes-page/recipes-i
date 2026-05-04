@@ -1,0 +1,105 @@
+{
+  "title": "Intense Middle Eastern Bresaola Bowl",
+  "description": "A hearty, protein-packed bowl featuring thinly sliced bresaola, roasted red pepper, and a zesty tahini dressing, perfect for a post-workout meal.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bresaola",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "roasted red bell pepper",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "arugula",
+      "amount": "2 cups"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and roast the whole red bell pepper for 20 minutes until charred.",
+    "Slice the roasted pepper into small dice and set aside.",
+    "Slice the bresaola into thin strips and set aside.",
+    "In a small bowl whisk the tahini, lemon juice, minced garlic, olive oil, sumac, salt, and pepper into a smooth dressing.",
+    "In a large bowl toss the arugula, diced cucumber, sliced red onion, and roasted pepper with the dressing until coated.",
+    "Top the salad with sliced bresaola and crumbled feta cheese.",
+    "Serve immediately and enjoy a protein-rich, low-glycemic bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "low-glycemic",
+    "mediterranean",
+    "post-workout",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 764,
+    "protein": 51,
+    "carbs": 22,
+    "fat": 51
+  },
+  "slug": "intense-middle-eastern-bresaola-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-middle-eastern-bresaola-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:15:28Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "bresaola",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "bresaola",
+    "descriptor": "Intense",
+    "dishForm": "Bowl"
+  }
+}

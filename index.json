@@ -1381,6 +1381,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-middle-eastern-bresaola-bowl",
+    "title": "Intense Middle Eastern Bresaola Bowl",
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "low-glycemic",
+      "mediterranean",
+      "post-workout",
+      "quick-meal"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
     "slug": "intense-moroccan-egg-pilaf",
     "title": "Intense Moroccan Egg Pilaf",
     "tags": [
