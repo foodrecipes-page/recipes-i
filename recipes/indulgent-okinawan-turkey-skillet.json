@@ -1,0 +1,111 @@
+{
+  "title": "Indulgent Okinawan Turkey Skillet",
+  "description": "A malty, crumbly, lazy-sunday Japanese (Okinawan) dish featuring turkey, sautéed with anti-inflammatory-friendly ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "anti-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey breast",
+      "amount": "500 g",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat until shimmering.",
+    "Add sliced turkey breast, season with salt and pepper, and sear until browned on all sides, about 4 minutes.",
+    "Remove turkey from skillet and set aside.",
+    "In the same skillet, sauté minced garlic and grated ginger for 30 seconds until fragrant.",
+    "Stir in soy sauce, mirin, miso paste, and brown sugar, mixing until the sauce thickens slightly, about 2 minutes.",
+    "Return the turkey to the skillet, spooning the sauce over the meat, and cook until the turkey reaches an internal temperature of 165°F, about 5 minutes.",
+    "Scatter sliced scallions and toasted sesame seeds over the skillet and stir to combine.",
+    "Let the mixture simmer for another 2 minutes to allow flavors to meld.",
+    "Serve hot, optionally over steamed quinoa or cauliflower rice for a low-carb option."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "comfort-food",
+    "high-protein",
+    "lazy-sunday",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "indulgent-okinawan-turkey-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-okinawan-turkey-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:53:43Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "saute",
+    "primaryIngredient": "turkey",
+    "diet": "anti-inflammatory",
+    "region": "okinawa",
+    "cuisineAdjective": "Okinawan",
+    "mainIngredient": "turkey",
+    "descriptor": "Indulgent",
+    "dishForm": "Skillet"
+  }
+}
