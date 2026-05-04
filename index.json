@@ -1132,6 +1132,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-copper-peruvian-tofu-stew",
+    "title": "Intense Copper Peruvian Tofu Stew",
+    "tags": [
+      "copper-pot",
+      "crowd-pleaser",
+      "peruvian",
+      "sous-vide",
+      "stew",
+      "vegan"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 95,
+    "shard": "i"
+  },
+  {
     "slug": "intense-croatian-bread-bake",
     "title": "Intense Croatian Bread Bake",
     "tags": [
@@ -1438,6 +1453,22 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 28,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-mustardy-chinese-tomatoes-fried-rice",
+    "title": "Intense Mustardy Chinese Tomatoes Fried Rice",
+    "tags": [
+      "easy",
+      "fried-rice",
+      "mustard",
+      "one-pan",
+      "quick",
+      "sattvic",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {

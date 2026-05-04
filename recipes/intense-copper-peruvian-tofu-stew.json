@@ -1,0 +1,124 @@
+{
+  "title": "Intense Copper Peruvian Tofu Stew",
+  "description": "A bitter yet tender stew that showcases Peruvian flavors, featuring sous-vide tofu, vegan butter, and a copper-pot finish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400 g",
+      "notes": "cut into 2 cm cubes"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "30 g",
+      "notes": "melted for sauté"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "pumpkin",
+      "amount": "200 g",
+      "notes": "peeled, cubed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml",
+      "notes": "canned, full fat"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "400 ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30 ml",
+      "notes": "tamari or regular"
+    },
+    {
+      "name": "Peruvian aji amarillo paste",
+      "amount": "15 g",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "30 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Vacuum seal cubed tofu with soy sauce, salt, and pepper, then cook sous‑vide at 25C for 45 min.",
+    "While tofu cooks, melt vegan butter in a copper pot over medium heat until foamy.",
+    "Add diced onion to the pot and sauté until translucent, about 5 min.",
+    "Stir in minced garlic and cook for another minute until fragrant.",
+    "Toss in cubed pumpkin and cook for 3 min, stirring frequently.",
+    "Pour in coconut milk and vegetable stock, then stir in aji amarillo paste and bring to a gentle simmer.",
+    "Reduce heat to low and let the sauce thicken for 10 min, stirring occasionally.",
+    "Add the sous‑vide tofu to the pot, gently heat through for 5 min without breaking the cubes.",
+    "Finish the stew with chopped cilantro, lime juice, and a pinch of pepper, adjusting salt as needed.",
+    "Serve hot, spooning the stew into bowls and garnishing with extra cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 75,
+  "totalTimeMin": 95,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot",
+    "crowd-pleaser",
+    "peruvian",
+    "sous-vide",
+    "stew",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 267,
+    "protein": 8,
+    "carbs": 11,
+    "fat": 22
+  },
+  "slug": "intense-copper-peruvian-tofu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-copper-peruvian-tofu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:17:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "sous-vide",
+    "primaryIngredient": "vegan butter",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Intense Copper",
+    "dishForm": "Stew"
+  }
+}

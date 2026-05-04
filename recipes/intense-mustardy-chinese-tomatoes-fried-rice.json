@@ -1,0 +1,105 @@
+{
+  "title": "Intense Mustardy Chinese Tomatoes Fried Rice",
+  "description": "A pillowy, mustard-infused fried rice made with vine tomatoes and fermented soy sauce, cooked in a single Dutch oven for a quick, sattvic-friendly monsoon treat.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup dry"
+    },
+    {
+      "name": "Water",
+      "amount": "1.25 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fermented soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "ferment-jang"
+    },
+    {
+      "name": "Vine tomatoes",
+      "amount": "2 cups diced"
+    },
+    {
+      "name": "Firm tofu",
+      "amount": "100 grams",
+      "notes": "cubed"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 teaspoon grated"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "0.5 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse 1 cup jasmine rice under cold water until water runs clear.",
+    "In a Dutch oven, bring 1.25 cup water to a boil; add rice, cover, and simmer on low for 15 minutes until tender.",
+    "While rice cooks, heat 1 tbsp olive oil in a separate Dutch oven over medium heat.",
+    "Add 1 tsp mustard seeds to the hot oil and toast until fragrant, about 30 seconds, then stir in 1 tbsp fermented soy sauce.",
+    "Add diced vine tomatoes, grated ginger, chili flakes, and a pinch of salt; cook until tomatoes soften, 5 minutes, stirring occasionally.",
+    "Gently fold in 100g cubed tofu and cooked rice, ensuring even coating, and cook for an additional 5 minutes to allow flavors to meld.",
+    "Stir in 2 tbsp chopped scallions, taste, and adjust seasoning if needed.",
+    "Serve hot, garnishing with extra scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "fried-rice",
+    "mustard",
+    "one-pan",
+    "quick",
+    "sattvic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 537,
+    "protein": 17,
+    "carbs": 47,
+    "fat": 7
+  },
+  "slug": "intense-mustardy-chinese-tomatoes-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-mustardy-chinese-tomatoes-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:18:31Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "ferment-jang",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Tomatoes",
+    "descriptor": "Intense Mustardy",
+    "dishForm": "Fried Rice"
+  }
+}
