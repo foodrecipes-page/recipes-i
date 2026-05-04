@@ -430,6 +430,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-japanese-egg-sushi",
+    "title": "Indulgent Japanese Egg Sushi",
+    "tags": [
+      "buttery",
+      "creamy",
+      "nigiri",
+      "no-bake",
+      "ovo-vegetarian",
+      "quick",
+      "sushi"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-japanese-macaroni-pasta",
     "title": "Indulgent Japanese Macaroni Pasta",
     "tags": [

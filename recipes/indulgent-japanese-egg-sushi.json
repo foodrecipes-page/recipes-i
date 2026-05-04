@@ -1,0 +1,101 @@
+{
+  "title": "Indulgent Japanese Egg Sushi",
+  "description": "A buttery, creamy egg sushi with a subtle ginger glaze, perfect for ovo-vegetarians.",
+  "cuisine": "Japanese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "200 g"
+    },
+    {
+      "name": "water",
+      "amount": "250 ml"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30 g"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "10 g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse sushi rice until water runs clear, then combine 200 g rice with 250 ml water in a saucepan, bring to a boil, reduce heat, cover, and simmer for 18 minutes.",
+    "Remove saucepan from heat, let rice steam covered for 10 minutes, then fluff with a bamboo paddle.",
+    "In a small bowl, whisk together 2 tsp rice vinegar, 1 tsp sugar, and 1 tsp salt until sugar dissolves, then fold into the warm rice.",
+    "Whisk 4 large eggs in a bowl, pour into a non-stick skillet over medium-low heat, cook for 5 minutes while stirring gently, then transfer to a plate and let cool to 70°C before slicing into 8 equal strips.",
+    "Melt 30 g butter in a small saucepan, add 10 g grated ginger, and cook for 2 minutes until fragrant.",
+    "Turn off heat and stir in 2 tbsp soy sauce and 2 tbsp mirin into the butter‑ginger sauce, letting it cool slightly.",
+    "Wet hands with water, shape a small mound of seasoned rice into a flat oval, then gently press a slice of egg on top, forming a nigiri.",
+    "Repeat step 7 for the remaining rice mounds and egg slices.",
+    "Brush each nigiri with the ginger‑butter glaze, arranging them on a plate.",
+    "Serve immediately, accompanied by extra glaze for drizzling."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "creamy",
+    "nigiri",
+    "no-bake",
+    "ovo-vegetarian",
+    "quick",
+    "sushi"
+  ],
+  "nutrition": {
+    "calories": 207,
+    "protein": 8,
+    "carbs": 18,
+    "fat": 11
+  },
+  "slug": "indulgent-japanese-egg-sushi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-japanese-egg-sushi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:00:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "ginger",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Egg",
+    "descriptor": "Indulgent",
+    "dishForm": "Sushi"
+  }
+}
