@@ -1,0 +1,111 @@
+{
+  "title": "Venezuelan Fish Stew",
+  "description": "A flavorful and romantic Venezuelan dish featuring flaky fish, citrus, and kombu, slow-cooked to perfection in a traditional cazuela. This intensely citrusy stew is perfect for a special occasion.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "2 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Rinse the kombu seaweed sheets and soak them in water for 30 minutes.",
+    "Drain and cut the kombu into small pieces and set aside.",
+    "Heat the olive oil in a large cazuela over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cod fillets and cook for 2-3 minutes on each side, until flaky.",
+    "Add the orange and lime juice, salt, and black pepper, and stir to combine.",
+    "Add the chopped cilantro and kombu pieces, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "fish-based",
+    "gluten-free",
+    "one-pot",
+    "pescatarian",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "intensely-citrusy-venezuelan-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-citrusy-venezuelan-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:25:51Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "kombu",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "fish",
+    "descriptor": "intensely citrusy",
+    "dishForm": "Stew"
+  }
+}

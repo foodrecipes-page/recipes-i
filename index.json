@@ -972,6 +972,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-russian-walnut-pancakes",
+    "title": "Indulgent Russian Walnut Pancakes",
+    "tags": [
+      "brunch",
+      "comfort-food",
+      "indulgent",
+      "nutty",
+      "sweet-sour",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-saudi-cheese-fried-rice",
     "title": "Indulgent Saudi Cheese Fried-Rice",
     "tags": [
@@ -2690,6 +2705,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-citrusy-venezuelan-fish-stew",
+    "title": "Venezuelan Fish Stew",
+    "tags": [
+      "citrusy",
+      "fish-based",
+      "gluten-free",
+      "one-pot",
+      "pescatarian",
+      "slow-cooked"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
