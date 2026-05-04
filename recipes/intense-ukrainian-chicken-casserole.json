@@ -1,0 +1,108 @@
+{
+  "title": "Intense Ukrainian Chicken Casserole",
+  "description": "A savory, dense weeknight Ukrainian dish featuring poached chicken simmered in sake and soy sauces and baked in a Talavera plate.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs, skinless bone-in",
+      "amount": "1 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 1/2 cups diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "1 cup cubed"
+    },
+    {
+      "name": "cabbage",
+      "amount": "2 cups shredded"
+    },
+    {
+      "name": "sake",
+      "amount": "100 ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "60 ml"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "30 ml"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "2"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Heat olive oil in skillet and brown chicken pieces until golden.",
+    "Remove chicken and set aside.",
+    "Sauté onions, garlic, and carrots in the same skillet until translucent.",
+    "Add potatoes and stir for about 5 minutes.",
+    "Return chicken to skillet, add cabbage, pour in sake, soy sauce, and fish sauce, then add bay leaves, pepper, and salt.",
+    "Stir to combine and transfer mixture to a Talavera-plate.",
+    "Cover with foil and bake for 45 minutes.",
+    "Remove foil and bake another 10 minutes until edges are crisp.",
+    "Let rest 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "one-pan",
+    "sake",
+    "savory",
+    "tamasic-friendly",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "intense-ukrainian-chicken-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-ukrainian-chicken-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:07:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "poach",
+    "primaryIngredient": "sake-cooking",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chicken",
+    "descriptor": "Intense",
+    "dishForm": "Casserole"
+  }
+}
