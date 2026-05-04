@@ -1886,6 +1886,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-winey-norwegian-broccoli-bowl",
+    "title": "Intense Winey Norwegian Broccoli Bowl",
+    "tags": [
+      "healthy-dinner",
+      "low-carb",
+      "norwegian-cuisine",
+      "post-workout",
+      "steamed-vegetables",
+      "wine-sauce"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-bitter-chinese-tofu-mapo-tofu",
     "title": "Intensely Bitter Chinese Tofu Mapo Tofu",
     "tags": [
@@ -1989,6 +2004,20 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-comforting-uruguayan-cocoa-bowl",
+    "title": "Intensely Comforting Uruguayan Cocoa Bowl",
+    "tags": [
+      "cocoa-based",
+      "comfort-food",
+      "south-american",
+      "traditional-uruguayan",
+      "warm-desserts"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {

@@ -1,0 +1,95 @@
+{
+  "title": "Intense Winey Norwegian Broccoli Bowl",
+  "description": "A hearty, low-carb Norwegian dish featuring steamed broccoli and a rich wine sauce, perfect for a post-workout meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "4 cups",
+      "notes": "fresh, cut into florets"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry, such as merlot or cabernet"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "norwegian goat cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring 2 inches of water to a boil, then reduce the heat to a simmer and place a steamer basket over the water.",
+    "Add the broccoli to the steamer basket and cover with a lid, steaming for 5 minutes or until tender.",
+    "In a small saucepan, heat the olive oil over medium heat, then add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the red wine to the saucepan and bring to a boil, then reduce the heat to a simmer and cook for 5 minutes, until the sauce has reduced slightly.",
+    "Stir in the salt and black pepper to taste.",
+    "To assemble the bowls, divide the steamed broccoli between four lacquerware bowls.",
+    "Drizzle the wine sauce over the broccoli, then top with crumbled norwegian goat cheese and chopped fresh parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-dinner",
+    "low-carb",
+    "norwegian-cuisine",
+    "post-workout",
+    "steamed-vegetables",
+    "wine-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "intense-winey-norwegian-broccoli-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-winey-norwegian-broccoli-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:18:32Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "broccoli",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "broccoli",
+    "descriptor": "intense winey",
+    "dishForm": "Bowl"
+  }
+}

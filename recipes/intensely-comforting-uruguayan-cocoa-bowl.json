@@ -1,0 +1,94 @@
+{
+  "title": "Intensely Comforting Uruguayan Cocoa Bowl",
+  "description": "A rich and comforting Uruguayan dish featuring cocoa powder, served in a traditional earthenware bowl, perfect for a cold evening. This egg-free friendly recipe is a cultural delight.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cocoa powder",
+      "amount": "1/2 cup",
+      "notes": "high quality, dark cocoa"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole milk or non-dairy alternative"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "to thicken the mixture"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure vanilla extract"
+    },
+    {
+      "name": "chewy dulce de leche",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "crushed nuts",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together the cocoa powder, sugar, and cornstarch.",
+    "Gradually add in the milk, whisking continuously to avoid lumps.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens and comes to a boil.",
+    "Remove the saucepan from the heat and stir in the vanilla extract.",
+    "Pour the cocoa mixture into a preheated earthenware bowl or individual bowls.",
+    "Top each bowl with a spoonful of chewy dulce de leche and a sprinkle of crushed nuts, if using.",
+    "Serve immediately, garnished with additional nuts if desired.",
+    "Let the bowls cool slightly before serving, as the earthenware will retain heat.",
+    "Traditional Uruguayan stone bowls, or dolsot, can be used if available."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cocoa-based",
+    "comfort-food",
+    "south-american",
+    "traditional-uruguayan",
+    "warm-desserts"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "intensely-comforting-uruguayan-cocoa-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-comforting-uruguayan-cocoa-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:18:36Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "cocoa powder",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cocoa",
+    "descriptor": "intensely comforting",
+    "dishForm": "Bowl"
+  }
+}
