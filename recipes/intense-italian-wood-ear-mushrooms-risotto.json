@@ -1,0 +1,114 @@
+{
+  "title": "Intense Italian Wood Ear Mushroom Risotto",
+  "description": "A winey, tender one‑pot risotto bursting with wood ear mushrooms and confit tomato, served as a suppli‑style snack or dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "nut-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wood ear mushrooms",
+      "amount": "100 g",
+      "notes": "soaked in warm water for 10 min"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "200 g"
+    },
+    {
+      "name": "white wine",
+      "amount": "250 ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "200 g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "30 g",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and sauté until translucent.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Add wood ear mushrooms and cook for 2 minutes.",
+    "Pour in white wine, letting it reduce until almost dry.",
+    "Stir in arborio rice, coating each grain with wine and oil.",
+    "Add confit tomato and stir to combine.",
+    "Gradually pour in vegetable broth, one ladle at a time, stirring constantly until the liquid is absorbed.",
+    "Continue adding broth and stirring until the rice is creamy and al dente, about 15 to 18 minutes.",
+    "Season with salt and pepper, stir in fresh basil and grated parmesan, and serve warm as a suppli‑style dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "neapolitan",
+    "nut-free",
+    "one-pot",
+    "rustic",
+    "vegetarian",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 75,
+    "fat": 12
+  },
+  "slug": "intense-italian-wood-ear-mushrooms-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-italian-wood-ear-mushrooms-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:52:50Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "confit-tomato",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "nut-free",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Wood Ear Mushrooms",
+    "descriptor": "Intense",
+    "dishForm": "Risotto"
+  }
+}
