@@ -1,0 +1,94 @@
+{
+  "title": "Innovative Citrusy Japanese Provola Tamagoyaki",
+  "description": "A kid-friendly Japanese dish featuring provola, citrus, and a bouncy texture, perfect for a snack or light meal. This vegan-friendly version uses plant-based ingredients to replicate the traditional tamagoyaki.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Provolone cheese alternative",
+      "amount": "1 cup",
+      "notes": "vegan provolone, sliced"
+    },
+    {
+      "name": "Soy milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Citrus juice",
+      "amount": "1/4 cup",
+      "notes": "orange or yuzu juice"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Kombu dashi powder",
+      "amount": "1/2 teaspoon",
+      "notes": "vegan dashi powder"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/4 teaspoon",
+      "notes": "for color"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine soy milk, citrus juice, rice vinegar, sugar, salt, kombu dashi powder, and turmeric, and blend until smooth.",
+    "In a bowl, whisk together the blended mixture and sliced provolone cheese alternative until well combined.",
+    "Heat a tamagoyaki pan over medium heat and brush with a small amount of oil.",
+    "Pour a small amount of the mixture into the pan and tilt to evenly coat the bottom.",
+    "Use a spatula to gently lift and fold the edges of the tamagoyaki towards the center.",
+    "Repeat the process until all the mixture is used up, creating multiple layers.",
+    "Steam the tamagoyaki for 5 minutes to cook through and create a bouncy texture.",
+    "Remove from heat and let cool before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "japanese",
+    "kid-friendly",
+    "plant-based",
+    "steam-cooked",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "innovative-citrusy-japanese-provola-tamagoyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-citrusy-japanese-provola-tamagoyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:23:57Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "steam",
+    "primaryIngredient": "provola",
+    "diet": "vegan",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "provola",
+    "descriptor": "Innovative Citrusy",
+    "dishForm": "Tamagoyaki"
+  }
+}
