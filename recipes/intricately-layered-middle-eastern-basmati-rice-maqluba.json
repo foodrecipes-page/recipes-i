@@ -1,0 +1,107 @@
+{
+  "title": "Intricately Layered Middle Eastern Basmati Rice Maqluba",
+  "description": "A traditional Middle Eastern one-pot dish featuring basmati rice, made with a macrobiotic-friendly approach and a unique folding technique, resulting in a malty and aerated texture.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon",
+      "notes": "including cumin, coriander, and turmeric"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add the chopped carrots and cook for 5 minutes, stirring occasionally.",
+    "Add the cauliflower florets and cook for an additional 5 minutes, stirring occasionally.",
+    "Stir in the tomato paste, spices, salt, and black pepper, and cook for 1 minute.",
+    "Add the rinsed and drained basmati rice to the pot, stirring to combine with the vegetables and spices.",
+    "Add 4 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pot from the heat and let it rest for 5 minutes before fluffing the rice with a fork and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "basmati-rice",
+    "layered-dish",
+    "macrobiotic",
+    "middle-eastern",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "intricately-layered-middle-eastern-basmati-rice-maqluba",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-layered-middle-eastern-basmati-rice-maqluba",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:27:15Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "fold",
+    "primaryIngredient": "basmati rice",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "basmati rice",
+    "descriptor": "Intricately layered",
+    "dishForm": "Maqluba"
+  }
+}

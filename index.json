@@ -4009,6 +4009,21 @@
     "shard": "i"
   },
   {
+    "slug": "intricately-layered-middle-eastern-basmati-rice-maqluba",
+    "title": "Intricately Layered Middle Eastern Basmati Rice Maqluba",
+    "tags": [
+      "basmati-rice",
+      "layered-dish",
+      "macrobiotic",
+      "middle-eastern",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
     "slug": "intricately-light-moroccan-masarepa-dumplings",
     "title": "Moroccan Masarepa Dumplings",
     "tags": [
@@ -4171,6 +4186,19 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
+    "slug": "inviting-polish-brie-omelette",
+    "title": "Inviting Polish Brie Omelette",
+    "tags": [
+      "breakfast",
+      "kid-friendly",
+      "low-glycemic",
+      "quick"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {

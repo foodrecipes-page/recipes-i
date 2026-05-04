@@ -1,0 +1,92 @@
+{
+  "title": "Inviting Polish Brie Omelette",
+  "description": "A sour, springy, kid-friendly Polish omelette featuring brie, whisked eggs, and low-glycemic ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "Low-fat brie cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Unsweetened almond milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Small onion, diced",
+      "amount": "1"
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Whisk together eggs, low-fat brie, whole wheat flour, almond milk, salt, and pepper until smooth.",
+    "Heat olive oil in a nonstick skillet over medium heat and sauté the diced onion until translucent.",
+    "Add the spinach to the skillet and cook until wilted, about 2 minutes.",
+    "Pour the whisked egg mixture into the skillet, spreading evenly over the vegetables.",
+    "Cook the omelette without stirring until the edges begin to set, about 3 minutes.",
+    "Flip the omelette carefully using a spatula and cook the second side until golden brown and firm, about 2 minutes.",
+    "Slide the omelette onto a plate and cut into wedges for serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "kid-friendly",
+    "low-glycemic",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 34,
+    "carbs": 18,
+    "fat": 47
+  },
+  "slug": "inviting-polish-brie-omelette",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/inviting-polish-brie-omelette",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:27:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "whisk",
+    "primaryIngredient": "brie",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Brie",
+    "descriptor": "Inviting",
+    "dishForm": "Omelette"
+  }
+}
