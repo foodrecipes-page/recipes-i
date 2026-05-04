@@ -1,0 +1,98 @@
+{
+  "title": "Intense Molten Peruvian Rice Tacu Tacu",
+  "description": "A rich and molten Peruvian dish made with caramelized onions and chicken bouillon powder, perfect for a lacto-vegetarian meal",
+  "cuisine": "Peruvian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uncooked white rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chicken bouillon powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat",
+    "Add the sliced onions and cook until they are caramelized and golden brown",
+    "Add the chicken bouillon powder and cook for 1 minute",
+    "Add the rinsed rice and cook for 2 minutes, stirring constantly",
+    "Add the water and bring to a boil",
+    "Reduce the heat to low, cover, and simmer for 20 minutes",
+    "Remove from heat and stir in the salt and black pepper",
+    "If using cheese and cilantro, stir them in at this point",
+    "Serve the tacu tacu hot, garnished with additional cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pot",
+    "peruvian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "intense-molten-peruvian-rice-tacu-tacu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-molten-peruvian-rice-tacu-tacu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:39:43Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "caramelize",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "rice",
+    "descriptor": "Intense Molten",
+    "dishForm": "Tacu Tacu"
+  }
+}
