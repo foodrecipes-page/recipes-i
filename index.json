@@ -595,6 +595,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-japanese-tofu-kushikatsu",
+    "title": "Intense Japanese Tofu Kushikatsu",
+    "tags": [
+      "gluten-free",
+      "kushikatsu",
+      "quick",
+      "shojin-friendly",
+      "tofu",
+      "vegan"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "intense-malaysian-fish-grill",
     "title": "Intense Malaysian Fish Grill",
     "tags": [
@@ -998,6 +1013,21 @@
     ],
     "cuisine": "moroccan",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-umami-jamaican-ground-beef-hash",
+    "title": "Intensely Umami Jamaican Ground Beef Hash",
+    "tags": [
+      "ground-beef",
+      "jamaican-cuisine",
+      "meal-prep",
+      "mediterranean-friendly",
+      "one-pan",
+      "umami-rich"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {

@@ -1,0 +1,105 @@
+{
+  "title": "Intense Japanese Tofu Kushikatsu",
+  "description": "Briny, pillowy tofu skewers with a vibrant caper and mother sauce that energizes the palate.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "shojin-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400 g"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "60 g"
+    },
+    {
+      "name": "water",
+      "amount": "120 ml"
+    },
+    {
+      "name": "tamari",
+      "amount": "30 ml"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "15 ml"
+    },
+    {
+      "name": "capers",
+      "amount": "20 g",
+      "notes": "drained"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "5 g",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "10 ml",
+      "notes": "for deep frying"
+    },
+    {
+      "name": "fresh chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for 30 minutes to remove excess moisture.",
+    "Cut the tofu into 2 cm cubes and thread them onto skewers.",
+    "Whisk chickpea flour, water, a pinch of salt, and pepper into a smooth batter.",
+    "Coat each tofu cube in the batter and let excess drip off.",
+    "Heat sesame oil in a deep pan to 180 degrees Celsius and fry the skewers until golden brown, about 2 minutes per side.",
+    "Drain the fried tofu on paper towels and serve hot.",
+    "Whisk tamari, rice vinegar, grated ginger, minced garlic, and a pinch of chili flakes into a sauce.",
+    "Drizzle the sauce over the tofu and sprinkle with capers before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kushikatsu",
+    "quick",
+    "shojin-friendly",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "intense-japanese-tofu-kushikatsu",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-japanese-tofu-kushikatsu",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:18:24Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "capers",
+    "diet": "shojin",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Intense",
+    "dishForm": "Kushikatsu"
+  }
+}
