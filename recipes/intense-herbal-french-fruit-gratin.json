@@ -1,0 +1,95 @@
+{
+  "title": "Intense Herbal French Fruit Gratin",
+  "description": "A light and flavorful French dessert featuring poached fruit, herbal jam, and a molten crust, perfect for a low-calorie friendly treat.",
+  "cuisine": "French",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mixed berries",
+      "amount": "2 cups",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Herbal jam",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Egg whites",
+      "amount": "2 large"
+    },
+    {
+      "name": "Low-fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Whole wheat breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, combine the mixed berries, herbal jam, honey, and lemon juice, and cook over low heat until the berries are tender.",
+    "In a large bowl, whisk together the egg whites and low-fat milk until stiff peaks form.",
+    "Fold the cooked berry mixture into the egg mixture until well combined.",
+    "In a small bowl, mix together the whole wheat breadcrumbs and chopped fresh thyme.",
+    "Pour the berry and egg mixture into a 9x13 inch baking dish and top with the breadcrumb mixture.",
+    "Bake for 25 minutes, or until the top is golden brown and the gratin is set.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve warm, garnished with additional fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-dish",
+    "fruit-based",
+    "herbal",
+    "low-calorie",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "intense-herbal-french-fruit-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-herbal-french-fruit-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:14:43Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "poach",
+    "primaryIngredient": "jam",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "fruit",
+    "descriptor": "Intense Herbal",
+    "dishForm": "Gratin"
+  }
+}
