@@ -1,0 +1,101 @@
+{
+  "title": "Indulgent Kenyan Potato Casserole",
+  "description": "A rich and creamy Kenyan dish featuring clotted cream and potatoes, perfect for special occasions. This recipe is Jain-friendly and can be served at dinner parties.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "Jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1 cup",
+      "notes": "extra rich"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup",
+      "notes": "reduced to 1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "Kenyan-style"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the sliced potatoes and enough cold water to cover them, then bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer for 10 minutes, or until the potatoes are slightly tender.",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat, then add the chopped onions and cook until they are softened and lightly browned.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Stir in the curry powder, salt, and black pepper, and cook for 1 minute.",
+    "In a large bowl, combine the cooked potatoes, onion mixture, and reduced red wine.",
+    "In a separate bowl, whip the clotted cream until it is smooth and creamy.",
+    "Grease a 9x13 inch baking dish with butter or oil, then add the potato mixture and top with the whipped clotted cream.",
+    "Bake for 30 minutes, or until the top is golden brown and the casserole is heated through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "kenyan-cuisine",
+    "potato-casserole",
+    "special-occasion",
+    "vegetarian-dish",
+    "wine-reduction"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "indulgent-kenyan-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-kenyan-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:32:42Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "reduce",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "potatoes",
+    "descriptor": "indulgent creamy",
+    "dishForm": "Casserole"
+  }
+}

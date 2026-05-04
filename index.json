@@ -836,6 +836,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-kenyan-potato-casserole",
+    "title": "Indulgent Kenyan Potato Casserole",
+    "tags": [
+      "jain-friendly",
+      "kenyan-cuisine",
+      "potato-casserole",
+      "special-occasion",
+      "vegetarian-dish",
+      "wine-reduction"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 70,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-korean-cream-stew",
     "title": "Indulgent Korean Cream Stew",
     "tags": [
