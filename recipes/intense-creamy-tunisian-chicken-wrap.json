@@ -1,0 +1,117 @@
+{
+  "title": "Intense Creamy Tunisian Chicken Wrap",
+  "description": "A romantic, umami-packed wrap filled with tender chicken in a creamy yellow curry sauce, served in a corn husk for a low-carb twist.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless skinless chicken thighs",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Yellow curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml",
+      "notes": "Low-fat if desired"
+    },
+    {
+      "name": "Low-fat Greek yogurt",
+      "amount": "100g",
+      "notes": "Keeps sauce creamy"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "For sauté"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "Minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked for depth"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Corn husks",
+      "amount": "4 large",
+      "notes": "Pre-soaked in warm water"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium heat and add 1 tablespoon olive oil.",
+    "Add minced garlic and diced onion, sauté until onions are translucent.",
+    "Stir in yellow curry paste and paprika, cooking until fragrant, about 1 minute.",
+    "Add chicken cubes, browning them on all sides, about 5 minutes.",
+    "Pour in coconut milk, reduce heat to low, and let simmer for 15 minutes until chicken is cooked through.",
+    "Stir in low-fat Greek yogurt, lemon juice, salt, and pepper; gently heat until sauce is creamy, about 2 minutes, do not boil.",
+    "Warm corn husks over a dry skillet for 30 seconds to make them pliable.",
+    "Spoon the creamy chicken mixture onto each husk, sprinkle chopped cilantro, then fold the husk into a wrap.",
+    "Optional: For a crisp edge, place wrapped husks back in the skillet and toast lightly for 1 minute per side.",
+    "Serve immediately, garnished with extra cilantro and a squeeze of lemon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "easy",
+    "low-carb",
+    "quick",
+    "romantic",
+    "tunisian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 7,
+    "fat": 20
+  },
+  "slug": "intense-creamy-tunisian-chicken-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-creamy-tunisian-chicken-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:43:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Intense Creamy",
+    "dishForm": "Wrap"
+  }
+}
