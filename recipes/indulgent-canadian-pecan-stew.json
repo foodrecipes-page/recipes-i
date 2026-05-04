@@ -1,0 +1,121 @@
+{
+  "title": "Indulgent Canadian Pecan Stew",
+  "description": "A creamy, nutty stew that warms the soul with a maple‑infused pecan broth, finished in a single wok for effortless comfort. The silky texture and rich flavor make it a cozy dinner for chilly evenings.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "canadian butter",
+      "amount": "1 tbsp",
+      "notes": "rendered to use as base oil"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pecans, chopped",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "tahini",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the wok over medium heat and add the butter until it melts and foams.",
+    "Add the chopped onion and sauté until translucent, about five minutes.",
+    "Stir in the minced garlic, grated ginger, and a pinch of red pepper flakes, cooking until fragrant, about one minute.",
+    "Add the chopped pecans and toast lightly, stirring frequently, for two minutes.",
+    "Pour in the vegetable broth and coconut milk, then stir in maple syrup, tahini, soy sauce, salt, and pepper.",
+    "Bring the mixture to a gentle boil, then reduce heat and simmer for 15 minutes, allowing flavors to meld.",
+    "Use a wooden spoon to mash some of the pecans against the side of the wok, thickening the stew to a velvety consistency.",
+    "Taste and adjust seasoning if needed, adding more salt, pepper, or maple syrup to suit your preference.",
+    "Remove from heat, swirl in fresh cilantro if desired, and let the stew rest for two minutes before serving.",
+    "Plate the stew hot, garnishing with a few whole pecans and a drizzle of maple syrup."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dash-friendly",
+    "nutty",
+    "one-pot",
+    "vegetarian",
+    "velvety",
+    "wok"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 7,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "indulgent-canadian-pecan-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-canadian-pecan-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:13:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "render-fat",
+    "primaryIngredient": "chopped onion",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pecan",
+    "descriptor": "Indulgent",
+    "dishForm": "Stew"
+  }
+}
