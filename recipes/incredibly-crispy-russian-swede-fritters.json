@@ -1,0 +1,94 @@
+{
+  "title": "Incredibly Crispy Russian Swede Fritters",
+  "description": "A kid-friendly Russian dish featuring swede, these crispy fritters are flavored with citrus and are perfect for a snack or side dish. They are pescatarian-friendly and can be served with a variety of dips.",
+  "cuisine": "Russian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the grated swede, flour, eggs, melted butter, lemon juice, salt, and pepper, and mix well.",
+    "Using your hands, shape the mixture into small patties, about 1 1/2 inches in diameter and 1/2 inch thick.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Carefully place a few of the patties into the hot oil and fry for 3-4 minutes on each side, until golden brown and crispy.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Repeat the frying process with the remaining patties.",
+    "Serve the fritters hot with your favorite dip or sauce.",
+    "If desired, garnish with chopped fresh herbs, such as parsley or dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "deep-fried",
+    "kid-friendly",
+    "russian",
+    "snack",
+    "swede",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "incredibly-crispy-russian-swede-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-crispy-russian-swede-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:50:56Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "swede",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "swede",
+    "descriptor": "Incredibly crispy",
+    "dishForm": "Fritters"
+  }
+}
