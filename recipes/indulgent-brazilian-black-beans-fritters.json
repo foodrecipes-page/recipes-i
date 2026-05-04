@@ -1,0 +1,99 @@
+{
+  "title": "Indulgent Brazilian Black Beans Fritters",
+  "description": "Jammy, dense fritters packed with protein-rich black beans and spicy ginger cordial, perfect for a satisfying snack.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black beans, cooked and mashed",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ginger cordial",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "finely chopped onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "eggs, beaten",
+      "amount": "2 large"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "oil for deep frying",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep pan until it reaches 350°F.",
+    "Spoon the bean mixture into rounds using a tablespoon and carefully place them in the hot oil.",
+    "Fry the fritters for 3 to 4 minutes on each side until they are golden brown and firm.",
+    "Remove fritters with a slotted spoon and drain on paper towels.",
+    "Serve hot with a side of lime wedges and a drizzle of extra ginger cordial if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "black-beans",
+    "deep-fry",
+    "high-protein",
+    "indulgent",
+    "quick",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "indulgent-brazilian-black-beans-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-brazilian-black-beans-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:51:35Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "ginger cordial",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "black beans",
+    "descriptor": "Indulgent",
+    "dishForm": "Fritters"
+  }
+}

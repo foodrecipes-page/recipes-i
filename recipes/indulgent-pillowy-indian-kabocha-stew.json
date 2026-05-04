@@ -1,0 +1,106 @@
+{
+  "title": "Indulgent Pillowy Indian Kabocha Stew",
+  "description": "Earthy, pillowy and energizing kabocha stew cooked in a mason jar for a comforting Indian flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabocha pumpkin",
+      "amount": "500 g",
+      "notes": "diced into 1-inch cubes"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "400 g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "150 ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "250 ml"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped, optional"
+    }
+  ],
+  "instructions": [
+    "Dice kabocha into 1-inch cubes.",
+    "Rinse and drain chickpeas.",
+    "Warm coconut milk with spices for 2 minutes to release flavors.",
+    "Pour mixture into a mason jar along with diced kabocha, chickpeas, tomato puree, and vegetable broth.",
+    "Stir gently until all ingredients are evenly coated.",
+    "Seal the jar and place it in a pot of simmering water, ensuring water level reaches halfway up the jar.",
+    "Cook on low heat for 45 minutes, stirring halfway through to prevent sticking.",
+    "After cooking, remove jar, stir, add lemon juice, and garnish with cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "clay-pot",
+    "comfort-food",
+    "no-garlic",
+    "no-onion",
+    "one-pot",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 930,
+    "protein": 34,
+    "carbs": 136,
+    "fat": 44
+  },
+  "slug": "indulgent-pillowy-indian-kabocha-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-pillowy-indian-kabocha-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:51:26Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "kabocha",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Kabocha",
+    "descriptor": "Indulgent Pillowy",
+    "dishForm": "Stew"
+  }
+}

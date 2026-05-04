@@ -105,6 +105,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-brazilian-black-beans-fritters",
+    "title": "Indulgent Brazilian Black Beans Fritters",
+    "tags": [
+      "black-beans",
+      "deep-fry",
+      "high-protein",
+      "indulgent",
+      "quick",
+      "snack"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-brazilian-cashew-pudding",
     "title": "Indulgent Brazilian Cashew Pudding",
     "tags": [
@@ -398,6 +413,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-pillowy-indian-kabocha-stew",
+    "title": "Indulgent Pillowy Indian Kabocha Stew",
+    "tags": [
+      "clay-pot",
+      "comfort-food",
+      "no-garlic",
+      "no-onion",
+      "one-pot",
+      "vegan"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 60,
     "shard": "i"
   },
   {
