@@ -1,0 +1,111 @@
+{
+  "title": "Intense Argentinian Beef Empanadas",
+  "description": "Pungent, dense, meal-prep friendly empanadas made with lean ground beef, rendered fat, and a savory spiced filling, perfect for a quick dinner or packed lunches.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "lean-meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "amount": "500g"
+    },
+    {
+      "name": "rendered beef fat",
+      "amount": "50g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic clove, minced",
+      "amount": "1"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "oregano, dried",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "gluten-free flour",
+      "amount": "250g"
+    },
+    {
+      "name": "egg, beaten",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add rendered beef fat; once melted, add the finely chopped onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic and diced red bell pepper, cooking until the pepper softens, about 3 minutes.",
+    "Add the lean ground beef and cook, breaking it up with a spoon, until browned and no longer pink, about 8 minutes.",
+    "Stir in tomato paste, paprika, cayenne pepper, oregano, and a pinch of salt and pepper, allowing the mixture to become fragrant, about 2 minutes.",
+    "Pour in beef broth and bring the filling to a simmer, letting it reduce until thick and flavorful, about 10 minutes.",
+    "Remove the skillet from heat and let the mixture cool for 10 minutes, then transfer to a mixing bowl.",
+    "Prepare a flat dough by mixing gluten-free flour with a pinch of salt and adding a beaten egg and a splash of water, then knead until a smooth dough forms.",
+    "Divide the dough into 12 equal portions and roll each into a thin circle, about 10 cm in diameter, using a rolling pin.",
+    "Spoon 2 tablespoons of the cooled beef filling onto the center of each dough circle, fold over to create a half-moon shape, and seal the edges by pressing with a fork.",
+    "Place the filled empanadas on a parchment-lined baking sheet, brush the tops lightly with olive oil, and bake in a preheated oven at 200C for 18 minutes or until golden brown.",
+    "Let the empanadas cool for 5 minutes before serving or storing; they keep refrigerated for up to 4 days and can be reheated in a toaster oven."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 28,
+  "totalTimeMin": 58,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentine",
+    "beef",
+    "gluten-free",
+    "low-fat",
+    "meal-prep",
+    "quick",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 13,
+    "carbs": 13,
+    "fat": 5
+  },
+  "slug": "intense-argentinian-beef-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-argentinian-beef-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:15:55Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "render-fat",
+    "primaryIngredient": "lean minced beef",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Intense",
+    "dishForm": "Empanadas"
+  }
+}
