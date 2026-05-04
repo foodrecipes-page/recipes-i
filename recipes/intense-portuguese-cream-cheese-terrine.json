@@ -1,0 +1,106 @@
+{
+  "title": "Intense Portuguese Cream Cheese Terrine",
+  "description": "A keto-friendly terrine that blends smoky chouriço, earthy mushrooms and creamy cheese into a single-bowl masterpiece, perfect for a solo dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cream cheese",
+      "amount": "200g",
+      "notes": "full-fat"
+    },
+    {
+      "name": "smoked chouriço",
+      "amount": "150g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mushrooms",
+      "amount": "150g",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "50ml"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160C and set up a bain-marie by placing a heatproof bowl in a larger baking dish filled with simmering water.",
+    "In a skillet, heat 1 tbsp olive oil over medium heat and sauté diced onion and minced garlic until translucent.",
+    "Add sliced mushrooms to the skillet and cook until softened, about 5 minutes.",
+    "Stir in chopped chouriço and cook for another 3 minutes to release its oil.",
+    "Deglaze the skillet with 50ml white wine, letting it reduce by half.",
+    "Remove skillet from heat, then fold in 200g cream cheese, 1 tsp paprika, and chopped parsley until well combined.",
+    "Transfer the mixture into the heatproof bowl, cover tightly with foil, and place it in the bain-marie.",
+    "Bake for 35 minutes, then remove from oven and let cool completely before refrigerating for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "earthy-flavors",
+    "easy-setup",
+    "gluten-free",
+    "keto-friendly",
+    "no-bake",
+    "single-dish"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 30,
+    "carbs": 8,
+    "fat": 50
+  },
+  "slug": "intense-portuguese-cream-cheese-terrine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-portuguese-cream-cheese-terrine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:47:11Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "bain-marie",
+    "primaryIngredient": "cream cheese",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cream cheese",
+    "descriptor": "Intense",
+    "dishForm": "Terrine"
+  }
+}
