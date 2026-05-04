@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Malty Saudi Arabian Chicken Pilaf",
+  "description": "A weeknight Saudi Arabian dish featuring massaman paste and a malty flavor, this chicken pilaf is a low sodium friendly option for a quick dinner",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "massaman paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat",
+    "Add chopped onion and cook until softened, about 3 minutes",
+    "Add massaman paste and cook for 1 minute, stirring constantly",
+    "Add chicken breast and cook until browned, about 5 minutes",
+    "Add basmati rice, malt syrup, and 2 cups of water to the skillet",
+    "Bring to a boil, then reduce heat to low and cover",
+    "Simmer for 20 minutes, or until the rice is tender and the liquid is absorbed",
+    "Stir in sliced almonds and cook for an additional 2 minutes"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dish",
+    "low-sodium",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "intensely-malty-saudi-arabian-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-malty-saudi-arabian-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:52:23Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "temper",
+    "primaryIngredient": "massaman-paste",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "chicken",
+    "descriptor": "Intensely malty",
+    "dishForm": "Pilaf"
+  }
+}
