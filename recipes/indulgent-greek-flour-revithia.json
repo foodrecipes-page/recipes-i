@@ -1,0 +1,90 @@
+{
+  "title": "Indulgent Greek Flour Revithia",
+  "description": "A silky, crowd‑pleasing porridge that heals hangovers with its soothing texture and umami shio‑koji flavor, all while staying gluten‑free.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "200g",
+      "notes": "gluten‑free"
+    },
+    {
+      "name": "water",
+      "amount": "240ml"
+    },
+    {
+      "name": "oat milk",
+      "amount": "240ml"
+    },
+    {
+      "name": "shio‑koji",
+      "amount": "15g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "30g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a small bowl whisk the rice flour, shio‑koji, and sea salt together with 240ml water until smooth.",
+    "Let the mixture rest at room temperature for 30 minutes to allow the shio‑koji to infuse the flour.",
+    "In a saucepan, heat the oat milk and olive oil over medium heat until lukewarm.",
+    "Gradually pour the rested flour mixture into the warm oat milk while whisking constantly to prevent lumps.",
+    "Cook the revithia over low heat, stirring frequently, until it thickens to a glossy, porridge‑like consistency, about 10 minutes.",
+    "Stir in the dried oregano and chopped dill, allowing the flavors to meld for an additional 2 minutes.",
+    "Remove the pan from heat and let the revithia cool slightly before serving.",
+    "Serve warm in bowls, optionally topped with a drizzle of extra olive oil and a sprinkle of fresh dill."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "greek",
+    "hungover-cure",
+    "indulgent",
+    "shio-koji"
+  ],
+  "nutrition": {
+    "calories": 972,
+    "protein": 18,
+    "carbs": 174,
+    "fat": 15
+  },
+  "slug": "indulgent-greek-flour-revithia",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-greek-flour-revithia",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:08:11Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "flour",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "flour",
+    "descriptor": "Indulgent",
+    "dishForm": "Revithia"
+  }
+}
