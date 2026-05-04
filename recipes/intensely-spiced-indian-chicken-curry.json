@@ -1,0 +1,107 @@
+{
+  "title": "Intensely Spiced Indian Chicken Curry",
+  "description": "A herbal and dense Chettinad dish featuring ground coriander, this crowd-pleaser is a gluten-free friendly option for any occasion.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch pieces"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large pan over medium-high heat.",
+    "Add the chicken to the pan and cook until browned on all sides, about 6-8 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the remaining 1 tablespoon of coconut oil to the pan.",
+    "Add the chopped onions to the pan and cook until they are lightly browned, about 5 minutes.",
+    "Add the minced garlic to the pan and cook for 1 minute.",
+    "Add the ground coriander, garam masala, turmeric, cayenne pepper, salt, and black pepper to the pan and cook for 1 minute.",
+    "Add the canned diced tomatoes to the pan and stir to combine.",
+    "Add the browned chicken back to the pan and stir to combine.",
+    "Reduce the heat to low and simmer the curry for 20-25 minutes, or until the chicken is cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "indian-cuisine",
+    "one-pot",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intensely-spiced-indian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-spiced-indian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:49:35Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "ground coriander",
+    "diet": "gluten-free",
+    "region": "chettinad",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Intensely spiced",
+    "dishForm": "Curry"
+  }
+}

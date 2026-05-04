@@ -3626,6 +3626,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-spiced-indian-chicken-curry",
+    "title": "Intensely Spiced Indian Chicken Curry",
+    "tags": [
+      "chicken-recipes",
+      "gluten-free",
+      "indian-cuisine",
+      "one-pot",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-spicy-british-feta-trifle",
     "title": "Intensely Spicy British Feta Trifle",
     "tags": [
