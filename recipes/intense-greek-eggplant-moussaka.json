@@ -1,0 +1,103 @@
+{
+  "title": "Intense Greek Eggplant Moussaka",
+  "description": "Winey, snappy, festive Greek-style moussaka featuring grilled eggplant, tomato sauce, toasted naan, and a plant-based béchamel, ideal for a celebratory dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "3 medium, sliced 1cm thick"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion and garlic",
+      "amount": "1 onion, 3 cloves garlic, finely chopped"
+    },
+    {
+      "name": "Crushed tomatoes",
+      "amount": "400g canned"
+    },
+    {
+      "name": "Red wine",
+      "amount": "200ml"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Herbs",
+      "amount": "1 tsp oregano, 1 tsp basil"
+    },
+    {
+      "name": "Vegan mozzarella",
+      "amount": "200g shredded"
+    },
+    {
+      "name": "Toasted naan",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Namul seasoning",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Béchamel base",
+      "amount": "1 cup plant-based milk, 1 tbsp vegan butter, 1 tbsp flour, 1 tbsp nutritional yeast"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Brush the eggplant slices with olive oil, place them on a baking sheet, and roast for 20 minutes, turning once, until golden.",
+    "While the eggplant roasts, heat 1 tbsp of olive oil in a saucepan over medium heat and sauté the onion and garlic until translucent, about 5 minutes.",
+    "Add the crushed tomatoes, tomato paste, red wine, oregano, and basil to the saucepan, then simmer the mixture for 15 minutes until slightly thickened.",
+    "Stir in the namul seasoning, season with salt and pepper, and remove the sauce from the heat.",
+    "To make the béchamel, melt the vegan butter in a pan over medium heat, whisk in the flour and cook for 2 minutes, then gradually whisk in the plant-based milk until thick, and finally stir in the nutritional yeast until smooth.",
+    "Assemble the moussaka by layering roasted eggplant, tomato sauce, and toasted naan slices in a greased baking dish, sprinkling shredded vegan mozzarella between layers.",
+    "Pour the béchamel sauce over the layers, ensuring even coverage, and top with any remaining mozzarella.",
+    "Bake the assembled moussaka uncovered for 25 minutes until the top is golden and bubbling, then let it rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 70,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "moussaka",
+    "naan-bread",
+    "plant-based",
+    "snappy",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 263,
+    "protein": 8,
+    "carbs": 31,
+    "fat": 10
+  },
+  "slug": "intense-greek-eggplant-moussaka",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-greek-eggplant-moussaka",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:47:17Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "naan bread",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "eggplant",
+    "descriptor": "Intense",
+    "dishForm": "Moussaka"
+  }
+}
