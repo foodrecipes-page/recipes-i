@@ -1,0 +1,99 @@
+{
+  "title": "Indulgent Smoky Slovakian Cox-Apple Grill",
+  "description": "A fresh, springy, lazy-sunday Slovakian dish featuring smoky apple slices and crisp tofu, all cooked on a tava-griddle for a sugar-free indulgent bite.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cox apples",
+      "amount": "2 medium, peeled, cored and sliced 1/4\" thick"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200 g, pressed and cut into 1/2\" cubes"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon, freshly ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "erythritol",
+      "amount": "1 teaspoon",
+      "notes": "optional, for subtle sweetness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tamari sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a tava-griddle over medium-high heat until hot.",
+    "Whisk smoked paprika, smoked sea salt, black pepper, garlic powder, and erythritol in a bowl.",
+    "Toss tofu cubes in the spice mix until evenly coated.",
+    "Drizzle apple slices with 1 teaspoon olive oil and sprinkle a pinch of smoked paprika.",
+    "Add 1 tablespoon olive oil to the heated griddle and swirl to coat.",
+    "Place tofu cubes in a single layer and cook for 4-5 minutes, flipping once until golden brown.",
+    "Add apple slices to the same griddle, cooking 2-3 minutes per side until caramelized.",
+    "Drizzle tamari sauce over tofu and apples, allowing it to caramelize for 30 seconds.",
+    "Transfer all items to a serving platter.",
+    "Garnish with fresh parsley and a squeeze of lemon juice for brightness.",
+    "Serve immediately while hot with a side of steamed greens or quinoa if desired.",
+    "Enjoy a smoky, sugar-free Slovakian-inspired brunch dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "griddle",
+    "one-pan",
+    "smoky",
+    "sugar-free",
+    "vegan",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 30,
+    "carbs": 50,
+    "fat": 30
+  },
+  "slug": "indulgent-smoky-slovakian-cox-apple-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-smoky-slovakian-cox-apple-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:26:06Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "smoke-hot",
+    "primaryIngredient": "cox-apple",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cox-apple",
+    "descriptor": "Indulgent Smoky",
+    "dishForm": "Grill"
+  }
+}

@@ -293,6 +293,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-smoky-slovakian-cox-apple-grill",
+    "title": "Indulgent Smoky Slovakian Cox-Apple Grill",
+    "tags": [
+      "griddle",
+      "one-pan",
+      "smoky",
+      "sugar-free",
+      "vegan",
+      "weekend"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-smoky-spanish-mushrooms-paella",
     "title": "Indulgent Smoky Spanish Mushrooms Paella",
     "tags": [
@@ -465,6 +480,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-malaysian-oats-bowl",
+    "title": "Intense Malaysian Oats Bowl",
+    "tags": [
+      "breakfast",
+      "malaysian",
+      "oats",
+      "one-pot",
+      "quick",
+      "whole30-friendly"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 22,
     "shard": "i"
   },
   {
