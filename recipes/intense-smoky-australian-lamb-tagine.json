@@ -1,0 +1,103 @@
+{
+  "title": "Intense Smoky Australian Lamb Tagine",
+  "description": "A one-pot Australian dish featuring high heat cooking oil and dehydrated ingredients, cooked in a ceramic tagine, this recipe combines the bold flavors of lamb with the richness of smoky spices.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the avocado oil in the ceramic tagine over high heat.",
+    "Add the lamb pieces and sear until browned on all sides.",
+    "Add the smoked paprika, cumin, coriander, cayenne pepper, salt, and black pepper, and stir to combine.",
+    "Add the dried apricots and prunes, and stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, for 2.5 hours.",
+    "Remove the lid and continue to simmer for an additional 30 minutes.",
+    "Remove from heat and let rest for 10 minutes before serving.",
+    "Serve hot, garnished with fresh parsley or cilantro.",
+    "Refrigerate or freeze leftovers for up to 5 days.",
+    "Reheat leftovers in the tagine over low heat, stirring occasionally."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "dairy-free",
+    "gluten-free",
+    "high-heat",
+    "lamb-based",
+    "one-pot",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "intense-smoky-australian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-australian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:54:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "dehydrate",
+    "primaryIngredient": "high heat cooking oil",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Intense Smoky",
+    "dishForm": "Tagine"
+  }
+}
