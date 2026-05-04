@@ -1,0 +1,104 @@
+{
+  "title": "Intensely Herby Russian Beef Tagine",
+  "description": "A festive Russian dish featuring oregano and air-fried beef, cooked in a traditional tajine clay vessel.",
+  "cuisine": "Russian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "lean cut"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 tablespoons",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Season the beef strips with salt, black pepper, and chopped oregano.",
+    "Air-fry the beef strips for 5 minutes, or until browned.",
+    "Heat the olive oil in the tajine clay vessel over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the tomato paste, beef broth, and browned beef strips to the vessel.",
+    "Stir well to combine, then reduce heat to low and simmer for 20 minutes.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer-recipes",
+    "clay-pot-cooking",
+    "herby-dishes",
+    "high-protein",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intensely-herby-russian-beef-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-herby-russian-beef-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:26:05Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "oregano",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "intensely herby",
+    "dishForm": "Tagine"
+  }
+}
