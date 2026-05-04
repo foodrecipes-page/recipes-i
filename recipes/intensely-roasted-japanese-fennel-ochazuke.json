@@ -1,0 +1,92 @@
+{
+  "title": "Intensely Roasted Japanese Fennel Ochazuke",
+  "description": "A solo dinner Japanese dish featuring roasted fennel bulb, this sugar-free-friendly ochazuke is perfect for a weeknight meal, with a cheese-pull effect from the melted cheese.",
+  "cuisine": "Japanese",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "1 large",
+      "notes": "trimmed"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup cooked"
+    },
+    {
+      "name": "green tea",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup shredded"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ume plum vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Cut the fennel bulb into 1-inch wedges and place on a baking sheet lined with parchment paper.",
+    "Drizzle the sesame oil over the fennel and sprinkle with salt and black pepper.",
+    "Roast the fennel in the oven for 25 minutes, or until tender and caramelized.",
+    "In a small saucepan, heat the green tea over low heat.",
+    "In a large bowl, combine the cooked Japanese rice, roasted fennel, and shredded mozzarella cheese.",
+    "Pour the hot green tea over the rice mixture and stir until the cheese is melted and the mixture is well combined.",
+    "Stir in the ume plum vinegar and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "japanese-cuisine",
+    "one-bowl",
+    "roasted-vegetables",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "intensely-roasted-japanese-fennel-ochazuke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-roasted-japanese-fennel-ochazuke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:40:15Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "brine-wet",
+    "primaryIngredient": "fennel bulb",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "fennel",
+    "descriptor": "Intensely Roasted",
+    "dishForm": "Ochazuke"
+  }
+}
