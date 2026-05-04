@@ -1,0 +1,115 @@
+{
+  "title": "Intense Russian Toor Dal Soup",
+  "description": "A tangy, quick‑fix Russian soup with tender toor dal, zesty lemon and a fiery temper.",
+  "cuisine": "Russian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for boiling dal"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "dried red chili",
+      "amount": "1",
+      "notes": "whole"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the toor dal under cold water until the water runs clear.",
+    "In a large pot, combine the rinsed dal, 4 cups of water, and 1 cup of vegetable stock, and bring to a boil over high heat.",
+    "Reduce heat to medium and simmer, uncovered, for 20 minutes or until the dal is tender.",
+    "While the dal cooks, heat a tablespoon of olive oil in a separate saucepan over medium heat.",
+    "Add the diced onion to the saucepan and sauté until translucent, about 5 minutes.",
+    "Stir in the minced garlic, ginger, and whole dried red chili, cooking for 1 minute until fragrant.",
+    "Add the diced tomatoes, cumin powder, salt, and black pepper, and simmer for 10 minutes, allowing the flavors to meld.",
+    "Once the dal is cooked, add the tomato-ginger mixture to the pot and stir well.",
+    "Simmer the combined soup for an additional 5 minutes to let the flavors blend.",
+    "Finish by stirring in the lemon juice, taste, and adjust seasoning if needed before serving hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick-fix",
+    "rustic",
+    "soup",
+    "tangy",
+    "toor-dal",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 5
+  },
+  "slug": "intense-russian-toor-dal-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-russian-toor-dal-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:43:27Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "temper",
+    "primaryIngredient": "toor dal",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "toor dal",
+    "descriptor": "Intense",
+    "dishForm": "Soup"
+  }
+}
