@@ -1,0 +1,96 @@
+{
+  "title": "Intensely Gooey French Pork Tenderloin Confit",
+  "description": "A cultured and gooey light French dish featuring pork tenderloin, ferment-kimchi, and nut-free-friendly ingredients in a confit form, originating from the Provence region.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "duck fat",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the pork tenderloin with salt, black pepper, and thyme.",
+    "In a large Dutch oven, heat the duck fat over medium heat.",
+    "Sear the pork tenderloin until browned on all sides, then remove it from the pot.",
+    "Add the minced garlic to the pot and cook until fragrant.",
+    "Add the ferment-kimchi, bay leaves, and browned pork tenderloin to the pot.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the confit for 2 hours, or until the meat is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the confit warm, garnished with fresh thyme and a side of crusty bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "confit-dishes",
+    "french-cuisine",
+    "gooey-delights",
+    "pork-recipes",
+    "provence-inspired"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "intensely-gooey-french-pork-tenderloin-confit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-gooey-french-pork-tenderloin-confit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:06:57Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "nut-free",
+    "region": "provence",
+    "cuisineAdjective": "French",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "Intensely gooey",
+    "dishForm": "Confit"
+  }
+}
