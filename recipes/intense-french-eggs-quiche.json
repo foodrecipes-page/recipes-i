@@ -1,0 +1,92 @@
+{
+  "title": "Intense French Eggs Quiche",
+  "description": "A dense and fresh French dish from the Alsace region, featuring a soffritto base and miniature marshmallows, perfect for a brunch mood.",
+  "cuisine": "French",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "miniature marshmallows",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soffritto",
+      "amount": "1/2 cup",
+      "notes": "onion, carrot, celery base"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, heavy cream, grated cheese, salt, and black pepper.",
+    "Add the soffritto and melted butter to the bowl and stir until well combined.",
+    "Gently fold in the miniature marshmallows.",
+    "Pour the mixture into a well-greased earthenware bowl.",
+    "Bake for 35 minutes or until the edges are golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "earthenware-cooking",
+    "french-cuisine",
+    "kosher-friendly",
+    "quiche-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "intense-french-eggs-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-french-eggs-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:09:41Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "soffritto-base",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "kosher",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "eggs",
+    "descriptor": "intense french",
+    "dishForm": "Quiche"
+  }
+}
