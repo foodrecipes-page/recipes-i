@@ -1,0 +1,107 @@
+{
+  "title": "Intense Egyptian Tofu Grill",
+  "description": "A fiery Egyptian-inspired tofu grill that marries saffron-infused marinades with smoky char and macrobiotic flair.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "200g",
+      "notes": "pressed and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "pinch",
+      "notes": "steeped in 2 tbsp hot water"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat and oil the grates lightly.",
+    "Whisk together olive oil, cumin, coriander, turmeric, saffron infusion, garlic, lemon juice, salt, and pepper to create the marinades.",
+    "Place tofu slices in the bowl, turning to coat each side thoroughly, and let marinate for 15 minutes.",
+    "Remove tofu from the bowl and lay it flat on the preheated grill, cooking 3-4 minutes on each side until charred and golden.",
+    "Stir the remaining marinades and drizzle over the cooked tofu for an extra burst of flavor.",
+    "Transfer the tofu to a serving platter and sprinkle with fresh parsley.",
+    "Serve hot with a side of sautéed greens or a crisp lettuce salad.",
+    "Enjoy your intense Egyptian tofu grill as a macrobiotic-friendly dinner."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "macrobiotic-friendly",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 37
+  },
+  "slug": "intense-egyptian-tofu-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-egyptian-tofu-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:55:02Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "saffron",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "tofu",
+    "descriptor": "Intense",
+    "dishForm": "Grill"
+  }
+}

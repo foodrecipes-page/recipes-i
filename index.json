@@ -1098,6 +1098,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-egyptian-tofu-grill",
+    "title": "Intense Egyptian Tofu Grill",
+    "tags": [
+      "high-protein",
+      "macrobiotic-friendly",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 28,
+    "shard": "i"
+  },
+  {
     "slug": "intense-ethiopian-chickpeas-stew",
     "title": "Intense Ethiopian Chickpeas Stew",
     "tags": [
