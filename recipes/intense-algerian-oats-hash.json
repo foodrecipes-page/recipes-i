@@ -1,0 +1,102 @@
+{
+  "title": "Intense Algerian Oats Hash",
+  "description": "A salty, crunchy breakfast hash featuring ground oats, a saffron-infused soffritto base, and simmered tomatoes, tailored for diabetic-friendly meal prep.",
+  "cuisine": "Algerian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the diced onion and minced garlic, sautéing until fragrant and translucent.",
+    "Stir in the diced carrot and cook for an additional 3 minutes.",
+    "Pour in the tomato puree and sprinkle the oregano, cumin, salt, and pepper, stirring to combine.",
+    "Add the ground oats, mixing thoroughly to coat with the sauce and let the mixture simmer for 10 minutes, stirring occasionally.",
+    "Squeeze the lemon juice over the hash, then remove from heat.",
+    "Transfer to a container for meal prep and chill before serving.",
+    "Reheat in a skillet for 2 minutes before serving to regain crunch."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "algerian",
+    "breakfast"
+  ],
+  "slug": "intense-algerian-oats-hash",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-algerian-oats-hash",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:10:38Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "soffritto-base",
+    "primaryIngredient": "ground oats",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "oats",
+    "descriptor": "Intense",
+    "dishForm": "Hash"
+  }
+}

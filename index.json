@@ -456,6 +456,17 @@
     "shard": "i"
   },
   {
+    "slug": "intense-algerian-oats-hash",
+    "title": "Intense Algerian Oats Hash",
+    "tags": [
+      "algerian",
+      "breakfast"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "intense-bouncy-brazilian-yellow-split-peas-stew",
     "title": "Intense Bouncy Brazilian Yellow Split Peas Stew",
     "tags": [
