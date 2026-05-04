@@ -1,0 +1,117 @@
+{
+  "title": "Intense Thai Celeriac Salad",
+  "description": "A garlicky, light Thai street-style salad featuring smoky roasted coconut flakes and fresh aromatics. It offers a burst of flavor while keeping the dish flexitarian-friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Celeriac",
+      "amount": "250 g",
+      "notes": "peeled and julienned"
+    },
+    {
+      "name": "Carrot",
+      "amount": "50 g",
+      "notes": "peeled and julienned"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "50 g",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "Red chili",
+      "amount": "5 g",
+      "notes": "finely sliced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "Toasted coconut flakes",
+      "amount": "1 tsp",
+      "notes": "lightly toasted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Peel and julienne the celeriac, carrot, and cucumber, and place them in a large bowl.",
+    "Finely slice the red chili and add it to the bowl with the vegetables.",
+    "In a small bowl, whisk together lime juice, soy sauce, crushed garlic, a pinch of salt, and toasted sesame seeds.",
+    "Pour the dressing over the vegetables and toss gently until evenly coated.",
+    "Sprinkle toasted coconut flakes, chopped cilantro, and toasted coriander seeds over the salad.",
+    "Let the salad rest for 5 minutes to allow flavors to meld.",
+    "Serve the salad warm or at room temperature as a light lunch.",
+    "Garnish with an extra sprinkle of sesame seeds before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian",
+    "quick",
+    "salad",
+    "thai",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "intense-thai-celeriac-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-thai-celeriac-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:50:22Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "celeriac",
+    "diet": "flexitarian",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "celeriac",
+    "descriptor": "Intense",
+    "dishForm": "Salad"
+  }
+}

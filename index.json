@@ -850,6 +850,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-thai-celeriac-salad",
+    "title": "Intense Thai Celeriac Salad",
+    "tags": [
+      "flexitarian",
+      "quick",
+      "salad",
+      "thai",
+      "vegan-friendly"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 15,
+    "shard": "i"
+  },
+  {
     "slug": "intense-tunisian-tarragon-salad",
     "title": "Intense Tunisian Tarragon Salad",
     "tags": [
