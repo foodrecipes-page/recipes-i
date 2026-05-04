@@ -1,0 +1,124 @@
+{
+  "title": "Icy Japanese Leek Ochazuke",
+  "description": "A soothing, cold version of the traditional Japanese comfort dish, featuring leek and deep-fried tofu, perfect for hot summer days in Hokkaido. ",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-glycemic",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leeks",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "deep-fried tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Japanese green tea",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ice cubes",
+      "amount": "as needed",
+      "notes": ""
+    },
+    {
+      "name": "wasabi",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "shredded daikon",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "shredded shiso",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Chill the deep-fried tofu by placing it in the refrigerator overnight or freezing it for at least 2 hours.",
+    "Chill the Japanese green tea in the refrigerator before serving.",
+    "Slice the leeks into 1-inch pieces, separating the white and green parts.",
+    "Deep-fry the tofu according to the package instructions, then let it cool to room temperature.",
+    "Chill the tofu in the refrigerator for at least 2 hours before serving.",
+    "Just before serving, place the tofu, leeks, and a few ice cubes in a bowl.",
+    "Pour the chilled Japanese green tea over the tofu and leeks, and stir in the wasabi, soy sauce, rice vinegar, and sesame oil.",
+    "Sprinkle the toasted sesame seeds and salt over the top of the dish.",
+    "Garnish with shredded daikon and shiso if desired. ",
+    "Serve immediately, while the ice is still in the bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold-dish",
+    "low-protein",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 23,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "icy-japanese-leek-ochazuke",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-japanese-leek-ochazuke",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:53:11Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "leek",
+    "diet": "low-glycemic",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Leek",
+    "descriptor": "Icy",
+    "dishForm": "Ochazuke"
+  }
+}
