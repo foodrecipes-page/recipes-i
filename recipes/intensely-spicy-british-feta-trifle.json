@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Spicy British Feta Trifle",
+  "description": "A spicy and aerated post-workout dish featuring cubed feta cheese and pickle, served in a tagine pot. This keto-friendly trifle is a unique blend of British flavors with a spicy kick.",
+  "cuisine": "British",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "12 oz",
+      "notes": "cubed"
+    },
+    {
+      "name": "pickle",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "diced jalapeno",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whip the heavy cream until it becomes stiff and aerated.",
+    "In a separate bowl, mix the cubed feta cheese, chopped pickle, diced jalapeno, chopped parsley, lemon juice, salt, black pepper, and garlic powder.",
+    "In a greased tagine pot, create a layer of the feta cheese mixture.",
+    "Add a layer of the whipped heavy cream on top of the feta cheese mixture.",
+    "Repeat the layers two more times, ending with a layer of whipped heavy cream on top.",
+    "Bake the trifle in the preheated oven for 20 minutes.",
+    "Remove the trifle from the oven and let it cool for 10 minutes.",
+    "Serve the trifle warm, garnished with additional chopped parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "post-workout",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 35
+  },
+  "slug": "intensely-spicy-british-feta-trifle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-spicy-british-feta-trifle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:37:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "pickle",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "keto",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "feta cheese",
+    "descriptor": "Intensely Spicy",
+    "dishForm": "Trifle"
+  }
+}
