@@ -1,0 +1,98 @@
+{
+  "title": "Invigorating Japanese Cream Ramen",
+  "description": "A sour and aerated Japanese dish featuring cream, designed to cure hangovers, with diabetic-friendly ingredients. This recipe is a unique twist on traditional ramen.",
+  "cuisine": "Japanese",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth to a boil in a large pot.",
+    "Add the ramen noodles and cook for 3 minutes.",
+    "In a separate bowl, whisk together the cream, soy sauce, and rice vinegar.",
+    "Add the grated ginger and minced garlic to the cream mixture and whisk until smooth.",
+    "Add the cream mixture to the pot with the noodles and broth.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Stir in the chopped green onions.",
+    "Serve hot and enjoy.",
+    "Garnish with additional green onions if desired.",
+    "Refrigerate leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cream-based",
+    "diabetic-friendly",
+    "hangover-cure",
+    "japanese-food",
+    "low-carb",
+    "ramen-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "invigorating-japanese-cream-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/invigorating-japanese-cream-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:23:21Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "rest",
+    "primaryIngredient": "cream",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cream",
+    "descriptor": "Invigorating",
+    "dishForm": "Ramen"
+  }
+}
