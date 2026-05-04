@@ -1,0 +1,119 @@
+{
+  "title": "Intense Aromatic Middle Eastern Figs Salad",
+  "description": "A fragrant one-pot salad blending sweet figs, crunchy pita croutons, and zesty Middle Eastern spices for a pungent, aerated flavor profile.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "figs",
+      "amount": "8 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "romaine lettuce",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/2 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "pita bread",
+      "amount": "1 cup",
+      "notes": "toasted into croutons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "za'atar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Boil 2 cups of water and cook sliced figs for 2 minutes until soft, then drain them;",
+    "Heat olive oil in a skillet and toast diced pita bread until golden and crisp;",
+    "In a large bowl combine chopped romaine, diced cucumber, sliced red onion, pomegranate seeds, and the softened figs;",
+    "Add the toasted pita croutons to the bowl;",
+    "Drizzle lemon juice and the remaining olive oil over the salad;",
+    "Sprinkle sumac, za'atar, chopped mint, and a pinch of salt over the mixture;",
+    "Gently toss all ingredients to coat evenly with the spices and dressing;",
+    "Serve immediately, allowing the aromatic flavors to mingle within the salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "figs",
+    "healthy",
+    "middle-eastern",
+    "one-pot",
+    "pita-croutons",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "intense-aromatic-middle-eastern-figs-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-aromatic-middle-eastern-figs-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:21:59Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "boil",
+    "primaryIngredient": "figs",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "figs",
+    "descriptor": "Intense Aromatic",
+    "dishForm": "Salad"
+  }
+}
