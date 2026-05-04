@@ -1,0 +1,111 @@
+{
+  "title": "Indulgent Mediterranean Tofu Pasta",
+  "description": "A creamy, caramelized tofu pasta packed with Mediterranean flavors, sugar‑kissed onions, and a gooey feta‑yogurt sauce—perfect for a post‑workout indulgence.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "penne pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "spinach",
+      "amount": "100g"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "50g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook pasta in salted boiling water according to package instructions until al dente; drain and set aside.",
+    "While pasta cooks, heat 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "Add diced onion to the skillet and sauté until translucent, about 4 minutes.",
+    "Stir in minced garlic and granulated sugar, cooking until the mixture caramelizes lightly, around 2 minutes.",
+    "Add cherry tomatoes to the skillet, cooking until they begin to soften, about 3 minutes.",
+    "Increase heat to medium‑high, add tofu cubes, and fry until golden on all sides, about 5 minutes.",
+    "Reduce heat to low, fold in spinach leaves, and cook until wilted, 1 minute.",
+    "Return the cooked pasta to the skillet, tossing everything together with the remaining tablespoon of olive oil.",
+    "Remove from heat, stir in crumbled feta, Greek yogurt, lemon juice, and oregano, mixing until creamy and gooey.",
+    "Serve hot, optionally garnished with fresh herbs or extra feta."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "indulgent",
+    "mediterranean",
+    "one-pan",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1208,
+    "protein": 43,
+    "carbs": 136,
+    "fat": 49
+  },
+  "slug": "indulgent-mediterranean-tofu-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-mediterranean-tofu-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:15:05Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "saute",
+    "primaryIngredient": "granulated sugar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Tofu",
+    "descriptor": "Indulgent",
+    "dishForm": "Pasta"
+  }
+}

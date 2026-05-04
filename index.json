@@ -505,6 +505,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-mediterranean-tofu-pasta",
+    "title": "Indulgent Mediterranean Tofu Pasta",
+    "tags": [
+      "high-protein",
+      "indulgent",
+      "mediterranean",
+      "one-pan",
+      "post-workout",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-mexican-tortilla-quesadilla",
     "title": "Indulgent Mexican Tortilla Quesadilla",
     "tags": [
