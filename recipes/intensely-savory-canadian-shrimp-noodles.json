@@ -1,0 +1,98 @@
+{
+  "title": "Intensely Savory Canadian Shrimp Noodles",
+  "description": "A cozy Canadian dish featuring briny shrimp, bouncy noodles, and savory flavors, with shiso leaf and bhuna spice adding depth, this raw-friendly recipe is perfect for a cold winter night. It is cooked to a safe temperature in a wok.",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "rice-based"
+    },
+    {
+      "name": "shiso leaf",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bhuna spice",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the shrimp from the wok and set aside.",
+    "Add the noodles to the wok and cook for 2 minutes, until they start to soften.",
+    "Add the soy sauce, bhuna spice, and shiso leaf to the wok and stir to combine.",
+    "Return the shrimp to the wok and stir to combine with the noodles and sauce.",
+    "Cook for an additional 2 minutes, until the noodles are cooked through and the sauce is bubbly.",
+    "Stir in the green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "noodle-dish",
+    "one-pan",
+    "seafood",
+    "shrimp-recipe",
+    "winter-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intensely-savory-canadian-shrimp-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-savory-canadian-shrimp-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:56:15Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "shiso-leaf",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "shrimp",
+    "descriptor": "intensely savory",
+    "dishForm": "Noodles"
+  }
+}
