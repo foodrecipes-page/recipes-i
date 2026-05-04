@@ -1,0 +1,100 @@
+{
+  "title": "Intense Chewy Ukrainian Pasta Dish",
+  "description": "A resinous and chewy Ukrainian dish featuring paccheri pasta, perfect for a weeknight dinner, and diabetic-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "diabetic-friendly",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the paccheri pasta according to the package instructions.",
+    "While the pasta is cooking, heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the sliced mushrooms to the skillet and cook until they are tender.",
+    "Stir in the caraway seeds and paprika.",
+    "When the pasta is done cooking, immediately submerge it in an ice bath to stop the cooking process.",
+    "In a small bowl, whisk together the chicken broth and sour cream.",
+    "Add the broth and sour cream mixture to the skillet with the mushrooms and stir to combine.",
+    "Add the cooked pasta to the skillet and toss to coat with the mushroom and cream sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "low-sodium",
+    "mushroom-based",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "intense-chewy-ukrainian-pasta-dish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-chewy-ukrainian-pasta-dish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:02:50Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pasta",
+    "descriptor": "intense chewy",
+    "dishForm": "Pasta"
+  }
+}
