@@ -892,6 +892,17 @@
     "shard": "i"
   },
   {
+    "slug": "intense-mexican-beans-frijoles-charros",
+    "title": "Intense Mexican Beans Frijoles Charros",
+    "tags": [
+      "mexican",
+      "dinner"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "intense-mustardy-thai-pear-soup",
     "title": "Intense Mustardy Thai Pear Soup",
     "tags": [

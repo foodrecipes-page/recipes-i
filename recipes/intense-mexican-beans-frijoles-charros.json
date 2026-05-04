@@ -1,0 +1,111 @@
+{
+  "title": "Intense Mexican Beans Frijoles Charros",
+  "description": "A bitter, gooey one-pot Mexican bean dish loaded with spring onions, chipotle, and tomato, perfect for a hearty dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "2 cups cooked",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "spring onions",
+      "amount": "4 stalks",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "chipotle in adobo",
+      "amount": "2 peppers",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "handful",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine pot over medium heat and sauté the onion, garlic, and chipotle until fragrant about 3 minutes.",
+    "Add the cumin and smoked paprika and cook for another minute until spices are toasted.",
+    "Stir in the diced tomatoes and let them soften for 2-3 minutes.",
+    "Add the black beans and vegetable broth, bring to a gentle simmer.",
+    "Cover the pot and let the mixture cook for 30 minutes, stirring occasionally.",
+    "Deglaze the pot with a splash of lime juice and season with smoked sea salt.",
+    "Uncover and reduce the liquid until the dish becomes thick and gooey, about 10 minutes.",
+    "Add the sliced spring onions and simmer for an additional 5 minutes until tender.",
+    "Taste and adjust seasoning, adding more salt or lime if needed.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mexican",
+    "dinner"
+  ],
+  "slug": "intense-mexican-beans-frijoles-charros",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-mexican-beans-frijoles-charros",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:35:24Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "spring onions",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beans",
+    "descriptor": "Intense",
+    "dishForm": "Frijoles Charros"
+  }
+}
