@@ -1,0 +1,95 @@
+{
+  "title": "Intensely Briny Japanese Salmon Onigiri",
+  "description": "A briny, shaggy, meal-prep Japanese dish featuring marjoram and salmon, wrapped in corn husks for a unique flavor and texture, this dish is kosher-friendly and perfect for a snack or lunch",
+  "cuisine": "Japanese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "marjoram",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Season the salmon fillets with kosher salt and black pepper",
+    "Bake the salmon in the oven for 12 minutes or until cooked through",
+    "Allow the salmon to rest for 5 minutes before flaking it into small pieces",
+    "Mix the cooked Japanese rice with rice vinegar and water in a large bowl",
+    "Add the flaked salmon and chopped marjoram to the rice mixture and stir until combined",
+    "Lay a corn husk flat on a work surface and place a small amount of the salmon and rice mixture in the center of the husk",
+    "Fold the corn husk over the filling to form a triangle and repeat with the remaining ingredients",
+    "Serve the onigiri at room temperature or chilled",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese-cuisine",
+    "kosher-friendly",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "intensely-briny-japanese-salmon-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-briny-japanese-salmon-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:05:25Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "marjoram",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "salmon",
+    "descriptor": "intensely briny",
+    "dishForm": "Onigiri"
+  }
+}
