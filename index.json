@@ -305,6 +305,17 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-silky-mediterranean-corn-pasta",
+    "title": "Indulgent Silky Mediterranean Corn Pasta",
+    "tags": [
+      "mediterranean",
+      "dinner"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-slovakian-christmas-pudding-pancakes",
     "title": "Indulgent Slovakian Christmas Pudding Pancakes",
     "tags": [

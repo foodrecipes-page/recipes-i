@@ -1,0 +1,108 @@
+{
+  "title": "Indulgent Silky Mediterranean Corn Pasta",
+  "description": "A wine‑kissed, cream‑laden pasta with char‑grilled tomatoes and corn, topped with parmesan and basil for a crowd‑pleasing Mediterranean delight.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dry penne pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "parmesan cheese, grated",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh basil leaves, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cherry tomatoes, halved",
+      "amount": "4",
+      "notes": "char‑grilled until blistered"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Boil the penne in salted water until al dente, then drain and set aside.",
+    "In a large skillet, heat the olive oil and butter over medium heat and sauté the minced garlic until fragrant.",
+    "Deglaze the skillet with white wine, letting it reduce by half.",
+    "Add the heavy cream and bring to a gentle simmer, stirring until slightly thickened.",
+    "Fold in the corn kernels, char‑grilled tomatoes, and capers, cooking for 2 minutes until warmed through.",
+    "Stir in the grated parmesan until melted and the sauce becomes silky.",
+    "Toss the cooked pasta into the sauce, mixing until evenly coated.",
+    "Season the pasta with sea salt and black pepper to taste.",
+    "Garnish with chopped basil and serve immediately."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mediterranean",
+    "dinner"
+  ],
+  "slug": "indulgent-silky-mediterranean-corn-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-silky-mediterranean-corn-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:17:49Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "creamed corn",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "corn",
+    "descriptor": "Indulgent Silky",
+    "dishForm": "Pasta"
+  }
+}
