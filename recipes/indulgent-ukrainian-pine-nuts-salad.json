@@ -1,0 +1,120 @@
+{
+  "title": "Indulgent Ukrainian Pine Nuts Salad",
+  "description": "A fragrant, airy salad that blends char-grilled vegetables with toasted pine nuts. The citrus-dill vinaigrette adds a bright lift for a light meal-prep dish.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pine nuts",
+      "amount": "50g",
+      "notes": "toasted"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200g",
+      "notes": "halved"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced 1/4 inch"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "julienned"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "15g",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "50ml",
+      "notes": "for grilling"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "25ml",
+      "notes": "fresh"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "5g",
+      "notes": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "2g",
+      "notes": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g",
+      "notes": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan over medium-high heat.",
+    "Toss sliced zucchini, bell pepper, carrot, and onion with 25ml olive oil, 1g salt, and 1g black pepper.",
+    "Spread the seasoned vegetables in a single layer on the grill and cook until charred and softened, about 5 minutes, turning once.",
+    "While the veggies grill, toast pine nuts in a dry skillet over medium heat until golden, about 3 minutes, stirring frequently.",
+    "In a small bowl, whisk together 25ml lemon juice, 5g Dijon mustard, 25ml olive oil, 2g salt, and 1g black pepper for the vinaigrette.",
+    "Remove the grilled vegetables from the grill and let them cool slightly.",
+    "In a large bowl, combine the grilled veggies, halved cherry tomatoes, toasted pine nuts, and chopped dill.",
+    "Pour the vinaigrette over the salad and toss gently to coat evenly.",
+    "Taste and adjust seasoning with extra salt or pepper if needed.",
+    "Divide the salad into four containers for meal prep, and chill in the refrigerator before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "indulgent",
+    "light",
+    "meal-prep",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 233,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "indulgent-ukrainian-pine-nuts-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-ukrainian-pine-nuts-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:23:27Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "pine nuts",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pine nuts",
+    "descriptor": "Indulgent",
+    "dishForm": "Salad"
+  }
+}
