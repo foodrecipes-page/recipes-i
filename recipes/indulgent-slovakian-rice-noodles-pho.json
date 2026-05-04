@@ -1,0 +1,109 @@
+{
+  "title": "Indulgent Slovakian Rice Noodles Pho",
+  "description": "A sweet and comforting Slovakian-inspired dish featuring floral rice noodles, crunchy candy, and a hint of spice, served in a Korean brass bowl.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Candy Canes",
+      "amount": "6 pieces",
+      "notes": "peeled and crushed"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 piece",
+      "notes": "1-inch piece"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "Lime Zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Soak the rice noodles in cold water for 30 minutes.",
+    "Peel and crush the candy canes in a bowl.",
+    "Grate the ginger and add it to the bowl with the candy canes.",
+    "Heat the honey in a small saucepan over medium heat.",
+    "Add the coconut milk, lime zest, cardamom, and salt to the saucepan.",
+    "Whisk the mixture until it's smooth.",
+    "Add the sugar and whisk until it's dissolved.",
+    "Bring the mixture to a boil, then reduce the heat to low.",
+    "Simmer the mixture for 10 minutes.",
+    "Drain the rice noodles and add them to the bowl with the candy canes and ginger.",
+    "Pour the warm honey-coconut milk mixture over the noodles.",
+    "Stir in the heavy cream.",
+    "Serve the Indulgent Slovakian Rice Noodles Pho in a Korean brass bowl."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comforting",
+    "kid-friendly",
+    "sweet",
+    "vegan",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 56,
+    "fat": 12
+  },
+  "slug": "indulgent-slovakian-rice-noodles-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-slovakian-rice-noodles-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:39Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "candy",
+    "primaryIngredient": "rice noodles",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "rice noodles",
+    "descriptor": "Indulgent",
+    "dishForm": "Pho"
+  }
+}
