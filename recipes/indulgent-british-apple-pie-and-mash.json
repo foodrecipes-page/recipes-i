@@ -1,0 +1,137 @@
+{
+  "title": "Indulgent British Apple Pie And Mash",
+  "description": "A jammy, bouncy-qq apple pie glazed with apricot, served alongside creamy mash for a comforting British twist.",
+  "cuisine": "British",
+  "diet": [
+    "ayurvedic-sattvic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "amount": "250g",
+      "notes": "for pastry"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "125g",
+      "notes": "cold, cubed"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp",
+      "notes": "for pastry"
+    },
+    {
+      "name": "cold water",
+      "amount": "60ml"
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "1 tsp",
+      "notes": "helps lift the crust"
+    },
+    {
+      "name": "apples",
+      "amount": "4 large",
+      "notes": "cored, sliced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "50g",
+      "notes": "for filling"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "30g",
+      "notes": "for glaze"
+    },
+    {
+      "name": "water",
+      "amount": "1 tbsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "potatoes",
+      "amount": "800g",
+      "notes": "for mash"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": "for mash"
+    },
+    {
+      "name": "oat milk",
+      "amount": "120ml",
+      "notes": "for mash"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "for mash"
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "1 tsp",
+      "notes": "helps soften mash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200C and mix flour, sugar, and bicarbonate of soda in a bowl.",
+    "Add the cold butter to the flour mixture and rub until it resembles fine crumbs.",
+    "Stir in cold water to form a dough, then refrigerate for 15 minutes.",
+    "Roll out the dough to fit a 23cm tart tin and press it into the tin, trimming the edges.",
+    "Combine sliced apples with brown sugar, cinnamon, and ginger in a bowl.",
+    "Fill the pastry with the apple mixture, ensuring it is evenly spread.",
+    "Bake the pie for 25 minutes or until the crust is golden and the apples are tender.",
+    "While the pie bakes, mix apricot jam with 1 tbsp water and spoon over the hot pie, then return to the oven for 5 more minutes to set the glaze.",
+    "Peel and boil the potatoes until soft, then mash with butter, oat milk, salt, and a pinch of bicarbonate of soda for fluffiness.",
+    "Serve a slice of the glazed apple pie alongside a generous portion of the creamy mash."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "apple-pie",
+    "british",
+    "comfort-food",
+    "dessert",
+    "indulgent",
+    "mash"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "indulgent-british-apple-pie-and-mash",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-british-apple-pie-and-mash",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:12:06Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "glaze",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Apple",
+    "descriptor": "Indulgent",
+    "dishForm": "Pie And Mash"
+  }
+}
