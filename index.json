@@ -1033,5 +1033,20 @@
     "cuisine": "Mexican",
     "totalTimeMin": 50,
     "shard": "i"
+  },
+  {
+    "slug": "invigorating-peruvian-muffins-tiradito",
+    "title": "Invigorating Peruvian Muffins Tiradito",
+    "tags": [
+      "citrus",
+      "hangover-cure",
+      "paleo-friendly",
+      "quick",
+      "snack",
+      "tropical"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
+    "shard": "i"
   }
 ]

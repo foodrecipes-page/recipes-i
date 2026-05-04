@@ -1,0 +1,100 @@
+{
+  "title": "Invigorating Peruvian Muffins Tiradito",
+  "description": "Crispy, citrus-topped muffins that mimic the fresh, sliced feel of a tiradito, perfect for a post-party hangover cure.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "50g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "coconut oil, melted",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "100ml"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "50ml"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "30g"
+    },
+    {
+      "name": "red chili, sliced thin",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C and line a 12-cup muffin tin with parchment liners.",
+    "Whisk almond flour, coconut flour, baking powder, and sea salt in a bowl.",
+    "In a separate bowl, beat eggs, melted coconut oil, lime juice, and maple syrup until smooth.",
+    "Combine wet and dry mixtures, stirring until just combined; fold in cilantro and sliced chili.",
+    "Spoon batter evenly into muffin cups, filling each about 3/4 full.",
+    "Bake for 18 minutes until the tops are golden and a toothpick inserted comes out clean.",
+    "Remove from oven and let cool on a rack for 5 minutes.",
+    "While cool, drizzle a thin line of infused coconut oil around the top of each muffin to mimic a tiradito sauce.",
+    "Slice each muffin slightly from the top and spread the oil drizzle to reveal a layered, zesty interior.",
+    "Serve warm, optionally dusted with extra cilantro, as a refreshing hangover cure."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "hangover-cure",
+    "paleo-friendly",
+    "quick",
+    "snack",
+    "tropical"
+  ],
+  "nutrition": {
+    "calories": 2160,
+    "protein": 72,
+    "carbs": 144,
+    "fat": 144
+  },
+  "slug": "invigorating-peruvian-muffins-tiradito",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/invigorating-peruvian-muffins-tiradito",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:15:19Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "infuse-oil",
+    "primaryIngredient": "muffins",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Muffins",
+    "descriptor": "Invigorating",
+    "dishForm": "Tiradito"
+  }
+}
