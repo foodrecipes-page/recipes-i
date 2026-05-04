@@ -1,0 +1,101 @@
+{
+  "title": "Indulgent Spanish Almonds Bowl",
+  "description": "A nutty, fluffy tapas platter with toasted almonds, puffed rice, basil, and a sweet lime-honey glaze, served in an earthenware bowl.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "100g",
+      "notes": "toasted"
+    },
+    {
+      "name": "puffed rice",
+      "amount": "50g"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "50g"
+    },
+    {
+      "name": "honey",
+      "amount": "30g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "finely chopped red onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C.",
+    "Spread almonds on a baking sheet and toast for 8-10 minutes until golden.",
+    "While almonds toast, heat olive oil in a skillet over medium heat and sauté finely chopped red onion until translucent.",
+    "Add smoked paprika and red pepper flakes to the onions, cooking for 1 minute until fragrant.",
+    "Stir in lime juice and honey, allowing the mixture to thicken slightly.",
+    "Remove the toasted almonds from the oven and let them cool.",
+    "In the skillet, combine the sautéed onion mixture with the cooled almonds, puffed rice, and chopped basil, tossing gently.",
+    "Season the bowl with sea salt to taste and sprinkle chopped parsley for freshness.",
+    "Transfer the mixture to an earthenware bowl, garnish with extra toasted almonds, and serve immediately as a tapas platter."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy",
+    "gluten-free",
+    "indulgent",
+    "nutty",
+    "tapas-platter"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 7,
+    "carbs": 23,
+    "fat": 18
+  },
+  "slug": "indulgent-spanish-almonds-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-spanish-almonds-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:11:34Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "fresh basil",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Almonds",
+    "descriptor": "Indulgent",
+    "dishForm": "Bowl"
+  }
+}

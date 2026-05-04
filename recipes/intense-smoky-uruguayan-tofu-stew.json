@@ -1,0 +1,115 @@
+{
+  "title": "Intense Smoky Uruguayan Tofu Stew",
+  "description": "A smoky, fluffy stew that feels like home, blending panang paste with gentle sautéed veggies for a nostalgic Uruguayan twist.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan",
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "400g",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "kale",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "light"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic and sauté for 30 seconds until fragrant.",
+    "Add panang curry paste and smoked paprika, cooking for 1 minute to release aromas.",
+    "Pour in vegetable broth and coconut milk, whisking to combine.",
+    "Bring to a gentle simmer, add sliced carrots, and simmer for 5 minutes.",
+    "Gently fold in cubed tofu and chopped kale, simmering for another 7 minutes until kale softens.",
+    "Season with sea salt and lime juice, stirring to taste.",
+    "Remove from heat and allow the stew to rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 22,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "panang-curry",
+    "smoky",
+    "spicy",
+    "tofu-stew",
+    "uruguayan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 735,
+    "protein": 49,
+    "carbs": 35,
+    "fat": 34
+  },
+  "slug": "intense-smoky-uruguayan-tofu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-uruguayan-tofu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:11:18Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "panang-paste",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tofu",
+    "descriptor": "Intense Smoky",
+    "dishForm": "Stew"
+  }
+}

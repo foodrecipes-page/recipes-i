@@ -988,6 +988,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-spanish-almonds-bowl",
+    "title": "Indulgent Spanish Almonds Bowl",
+    "tags": [
+      "fluffy",
+      "gluten-free",
+      "indulgent",
+      "nutty",
+      "tapas-platter"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-syrian-lentils-pilaf",
     "title": "Indulgent Syrian Lentils Pilaf",
     "tags": [
@@ -2162,6 +2176,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-smoky-uruguayan-tofu-stew",
+    "title": "Intense Smoky Uruguayan Tofu Stew",
+    "tags": [
+      "panang-curry",
+      "smoky",
+      "spicy",
+      "tofu-stew",
+      "uruguayan",
+      "vegan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 32,
+    "shard": "i"
+  },
+  {
     "slug": "intense-sour-brazilian-nectarines-grill",
     "title": "Intense Sour Brazilian Nectarines Grill",
     "tags": [
@@ -2900,6 +2929,21 @@
       "spherification"
     ],
     "cuisine": "Chinese",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-smoky-mediterranean-chicken-tagine",
+    "title": "Intensely Smoky Mediterranean Chicken Tagine",
+    "tags": [
+      "chicken",
+      "comfort-food",
+      "gluten-free",
+      "mediterranean",
+      "one-pot",
+      "sick-day"
+    ],
+    "cuisine": "Mediterranean",
     "totalTimeMin": 50,
     "shard": "i"
   },
