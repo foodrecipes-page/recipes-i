@@ -1,0 +1,93 @@
+{
+  "title": "Intense Mustardy Australian Beef Flatbread",
+  "description": "A flavorful and low-sodium Australian dish featuring soured cream and chive dip, long-fermentation-dough, and intense mustardy taste, all prepared on a comal.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "lean cuts"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soured cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt-free seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine yeast, flour, and a pinch of salt-free seasoning in a large bowl to make the long-fermentation-dough.",
+    "Gradually add olive oil and mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes and let it ferment for 2 hours.",
+    "Preheat the comal over medium heat.",
+    "Roll out the fermented dough into a large flatbread shape.",
+    "Cook the flatbread on the comal for 2 minutes on each side.",
+    "In a separate bowl, mix soured cream, chopped chives, and whole grain mustard to make the dip.",
+    "Season the beef strips with salt-free seasoning and cook on the comal until browned.",
+    "Assemble the flatbread by spreading the soured cream and chive dip, then topping with cooked beef strips."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 20,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "beef-recipes",
+    "comal-cooking",
+    "flatbread-recipes",
+    "low-sodium",
+    "soured-cream-dip"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intense-mustardy-australian-beef-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-mustardy-australian-beef-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:09:28Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "intense mustardy",
+    "dishForm": "Flatbread"
+  }
+}
