@@ -1,0 +1,113 @@
+{
+  "title": "Intense Croatian Lamb Stew",
+  "description": "A bitter, tender, indulgent stew that showcases lamb stock, shio-cure, and robust Croatian flavors.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1500 g",
+      "notes": "partially cured with shio for 2 hours"
+    },
+    {
+      "name": "lamb stock",
+      "amount": "2000 ml",
+      "notes": "use vegetable stock for vegetarian option"
+    },
+    {
+      "name": "white wine",
+      "amount": "200 ml",
+      "notes": "deglaze"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "3 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "30 g",
+      "notes": "for depth"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "2 whole",
+      "notes": "remove before serving"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "45 ml"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium heat until shimmering.",
+    "Add diced onion and minced garlic, sauté until onion is translucent and fragrant.",
+    "Add cubed lamb shoulder and brown all sides, about 8 minutes.",
+    "Stir in tomato paste, carrots, celery, and rosemary, cooking for 2 minutes to develop flavor.",
+    "Pour in white wine, scraping the bottom to deglaze, letting it reduce by half.",
+    "Add lamb stock, bay leaves, and black pepper, bring to a gentle simmer.",
+    "Reduce heat to low, cover, and simmer for 90 minutes, stirring occasionally, until lamb is tender.",
+    "Remove bay leaves, check seasoning, and serve hot, optionally garnishing with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "intense-flavor",
+    "lamb",
+    "one-pot",
+    "slow-cook"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "intense-croatian-lamb-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-croatian-lamb-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:21:26Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "shio-cure",
+    "primaryIngredient": "lamb stock",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "Intense",
+    "dishForm": "Stew"
+  }
+}

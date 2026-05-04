@@ -1282,6 +1282,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-croatian-lamb-stew",
+    "title": "Intense Croatian Lamb Stew",
+    "tags": [
+      "croatian",
+      "intense-flavor",
+      "lamb",
+      "one-pot",
+      "slow-cook"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 140,
+    "shard": "i"
+  },
+  {
     "slug": "intense-dark-jamaican-chicken-curry",
     "title": "Intense Dark Jamaican Chicken Curry",
     "tags": [
