@@ -1,0 +1,101 @@
+{
+  "title": "Indulgent Syrian Lentils Pilaf",
+  "description": "A funky, creamy brunch pilaf bursting with Middle Eastern spices and a twist of speculaas and nuka-pickle for tangy depth.",
+  "cuisine": "Syrian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dried green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "use low sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "canned, full fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "speculaas spice mix",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "nuka-pickle concentrate",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add the speculaas spice mix and sauté for 30 seconds until fragrant.",
+    "Stir in the lentils and rice and coat them with oil and spices for 1 minute.",
+    "Pour in the vegetable broth and coconut milk and bring to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes or until lentils are tender and rice is cooked.",
+    "Stir in the nuka-pickle concentrate and season with salt to taste.",
+    "Remove from heat, let stand covered for 5 minutes, then fluff with a fork.",
+    "Serve hot, garnished with chopped parsley.",
+    "Enjoy your indulgent brunch pilaf!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "creamy",
+    "easy",
+    "jain-friendly",
+    "one-pot",
+    "syrian-flavor"
+  ],
+  "nutrition": {
+    "calories": 1105,
+    "protein": 27,
+    "carbs": 90,
+    "fat": 78
+  },
+  "slug": "indulgent-syrian-lentils-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-syrian-lentils-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:36:03Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lentils",
+    "descriptor": "Indulgent",
+    "dishForm": "Pilaf"
+  }
+}
