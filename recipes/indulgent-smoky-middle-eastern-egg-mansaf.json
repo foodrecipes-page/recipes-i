@@ -1,0 +1,108 @@
+{
+  "title": "Indulgent Smoky Middle Eastern Egg Mansaf",
+  "description": "A silky, smoky egg dish served on a cedar-plank, blending Middle Eastern flavors with a midnight-craving twist.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "6",
+      "notes": "whole"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "250 g",
+      "notes": "low-fat"
+    },
+    {
+      "name": "smoked sea salt",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "liquid smoke",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "katsuramuki cut dill",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius and place a cedar-plank inside to heat.",
+    "In a small skillet, warm the olive oil over medium heat and sauté the minced garlic until fragrant, about one minute.",
+    "In a bowl, whisk together the yogurt, smoked paprika, liquid smoke, smoked sea salt, black pepper, parsley, dried mint, katsuramuki cut dill, and cilantro until smooth.",
+    "Brush the heated cedar-plank with a thin layer of olive oil and spread the yogurt mixture evenly across its surface.",
+    "Carefully crack the six eggs onto the prepared plank, spacing them evenly so they stay separate.",
+    "Transfer the plank to the oven and bake for 12 minutes, or until the egg whites are set and the yolks remain slightly runny.",
+    "Remove the cedar-plank from the oven and let the eggs rest for two minutes before serving.",
+    "Plate the smoky eggs, garnish with extra fresh herbs if desired, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "middle-eastern",
+    "midnight-craving",
+    "ovo-vegetarian",
+    "silky",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 46,
+    "carbs": 10,
+    "fat": 48
+  },
+  "slug": "indulgent-smoky-middle-eastern-egg-mansaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-smoky-middle-eastern-egg-mansaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:34:47Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "garlic",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "egg",
+    "descriptor": "Indulgent Smoky",
+    "dishForm": "Mansaf"
+  }
+}
