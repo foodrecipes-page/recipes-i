@@ -1,0 +1,101 @@
+{
+  "title": "Intensely Juicy Korean Noodles Naengmyeon",
+  "description": "A sweet and juicy Korean dish featuring naengmyeon noodles, Stilton cheese, and coconut cream, perfect for a brunch mood. This Mediterranean-friendly recipe combines unique flavors for a delicious meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Naengmyeon noodles",
+      "amount": "200g",
+      "notes": "Korean cold noodles"
+    },
+    {
+      "name": "Stilton cheese",
+      "amount": "100g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "150ml"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "50ml"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "20g",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Honey",
+      "amount": "20g"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "10g"
+    },
+    {
+      "name": "Chopped cucumber",
+      "amount": "100g"
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Cook the naengmyeon noodles according to the package instructions and set aside.",
+    "In a blender, combine coconut cream, soy sauce, gochujang, and honey, and blend until smooth.",
+    "In a large bowl, combine the cooked noodles, blended coconut cream mixture, and crumbled Stilton cheese.",
+    "Drizzle sesame oil over the noodles and sprinkle with toasted sesame seeds.",
+    "Top the noodles with chopped cucumber and pickled ginger.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional toasted sesame seeds and pickled ginger if desired.",
+    "Refrigerate any leftovers for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "coconut-cream",
+    "korean-food",
+    "naengmyeon-noodles",
+    "stilton-cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "intensely-juicy-korean-noodles-naengmyeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-juicy-korean-noodles-naengmyeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:58:13Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "stilton cheese",
+    "diet": "mediterranean",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "noodles",
+    "descriptor": "Intensely Juicy",
+    "dishForm": "Naengmyeon"
+  }
+}

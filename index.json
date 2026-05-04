@@ -2501,6 +2501,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-smoky-egyptian-redcurrant-tagine",
+    "title": "Intense Smoky Egyptian Redcurrant Tagine",
+    "tags": [
+      "exotic",
+      "gluten-free",
+      "north-african",
+      "one-pot",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
     "slug": "intense-smoky-ethiopian-brie-dabo",
     "title": "Intense Smoky Ethiopian Brie Dabo",
     "tags": [
@@ -3251,6 +3266,21 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-juicy-korean-noodles-naengmyeon",
+    "title": "Intensely Juicy Korean Noodles Naengmyeon",
+    "tags": [
+      "brunch-ideas",
+      "coconut-cream",
+      "korean-food",
+      "naengmyeon-noodles",
+      "stilton-cheese",
+      "vegetarian"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
