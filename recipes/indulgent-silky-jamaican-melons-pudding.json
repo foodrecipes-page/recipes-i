@@ -1,0 +1,116 @@
+{
+  "title": "Indulgent Silky Jamaican Melons Pudding",
+  "description": "A rich and creamy pudding dessert inspired by Jamaican flavors, featuring a silky smooth texture and sweet melon flavors. This pudding is perfect for a special occasion or dessert night.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "dairy",
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cantaloupe melon",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "honeydew melon",
+      "amount": "1.25 lbs",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup",
+      "notes": "chilled in the fridge overnight"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 packet (2 1/4 tsp)",
+      "notes": "",
+      "notes2": "active dry yeast is used for fermentation, allowing the pudding to develop a silky texture."
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine the yeast, 1/4 cup of warm water, and 1 tsp of palm sugar. Let the mixture sit for 5 minutes, or until the yeast is activated and frothy.",
+    "In a blender, puree the cantaloupe and honeydew melons until smooth.",
+    "In a saucepan, combine the coconut cream, heavy cream, brown sugar, vanilla extract, allspice, cinnamon, and salt. Heat the mixture over medium heat, stirring occasionally, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "Combine the yeast mixture and the melon puree in a saucepan. Add in the sugar and cream mixture, and stir to combine.",
+    "Transfer the mixture to a pudding mold or a 9x13 inch baking dish. Cover the pudding with plastic wrap and refrigerate for at least 4 hours, or overnight, to allow the fermentation to occur.",
+    "Once the pudding has chilled, remove it from the refrigerator and let it sit at room temperature for 30 minutes to allow the flavors to meld together.",
+    "Serve the pudding chilled, garnished with fresh melon slices and a sprinkle of palm sugar if desired.",
+    "Note: the pudding will thicken and develop a silky texture as it chills."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "dessert",
+    "gluten-free",
+    "jamaican",
+    "pudding",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "indulgent-silky-jamaican-melons-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-silky-jamaican-melons-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:52Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "ferment",
+    "primaryIngredient": "melons",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "melons",
+    "descriptor": "indulgent silky",
+    "dishForm": "pudding"
+  }
+}

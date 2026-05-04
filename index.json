@@ -437,6 +437,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-canadian-one-pot-dish-stone-bowl",
+    "title": "Indulgent Canadian Stone-Bowl",
+    "tags": [
+      "canadian",
+      "comfort-food",
+      "easy-to-make",
+      "grill",
+      "one-pan"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-canadian-pecan-stew",
     "title": "Indulgent Canadian Pecan Stew",
     "tags": [
@@ -1387,6 +1401,21 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 23,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-silky-jamaican-melons-pudding",
+    "title": "Indulgent Silky Jamaican Melons Pudding",
+    "tags": [
+      "creamy",
+      "dessert",
+      "gluten-free",
+      "jamaican",
+      "pudding",
+      "sweet"
+    ],
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {

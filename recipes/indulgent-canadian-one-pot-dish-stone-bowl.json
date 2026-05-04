@@ -1,0 +1,130 @@
+{
+  "title": "Indulgent Canadian Stone-Bowl",
+  "description": "A rich, resinous one-pot Canadian dish featuring fines-herbes and cooked in a stone bowl on a binchotan grill. Perfect for a cozy dinner with friends.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Binchotan Charcoal",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Fines Herbes Oil",
+      "amount": "2 tbsp",
+      "notes": "Use a mix of parsley, dill, and chives."
+    },
+    {
+      "name": "Wild Rice",
+      "amount": "1 cup",
+      "notes": "Rinse before cooking."
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "Rinse before cooking."
+    },
+    {
+      "name": "Sweet Potato",
+      "amount": "2 medium",
+      "notes": "Dice before cooking."
+    },
+    {
+      "name": "Cranberry Beans",
+      "amount": "1 can",
+      "notes": "Drain and rinse before using."
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "2 tbsp",
+      "notes": "Grade B for best flavor."
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumble before using."
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chop before using."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grate before using."
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "Minced before using."
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp",
+      "notes": "Grate before using."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use kosher salt for best flavor."
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": "Use freshly ground pepper for best flavor."
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the binchotan charcoal grill to 400°F (200°C).",
+    "Prepare the fines herbes oil by mixing together parsley, dill, and chives in a small bowl.",
+    "In a large stone bowl, combine the wild rice, quinoa, sweet potato, cranberry beans, maple syrup, feta cheese, parsley, ginger, garlic, lemon zest, salt, and pepper.",
+    "Pour in the water and stir to combine.",
+    "Place the stone bowl on the binchotan charcoal grill and cook for 25 minutes.",
+    "Stir the mixture every 5 minutes to prevent burning.",
+    "After 25 minutes, remove the stone bowl from the grill and let it cool for 5 minutes.",
+    "Serve hot, garnished with additional parsley and lemon zest if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "easy-to-make",
+    "grill",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 25,
+    "carbs": 120,
+    "fat": 20
+  },
+  "slug": "indulgent-canadian-one-pot-dish-stone-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-canadian-one-pot-dish-stone-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:43Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "fines-herbes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "one-pot dish",
+    "descriptor": "indulgent molten fines-herbes",
+    "dishForm": "soup"
+  }
+}
