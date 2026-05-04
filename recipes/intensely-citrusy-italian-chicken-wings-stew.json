@@ -1,0 +1,97 @@
+{
+  "title": "Intensely Citrusy Italian Chicken Wings Stew",
+  "description": "A citrusy and gooey Italian stew featuring chicken wings, inspired by the Ligurian cuisine, perfect for a high-protein meal. This dish is cooked in a kazan-cauldron to bring out the intense flavors.",
+  "cuisine": "Italian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "brine-wet"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a kazan-cauldron over medium heat.",
+    "Add the garlic and onion and cook until the onion is translucent.",
+    "Add the chicken wings and cook until browned on all sides.",
+    "Add the lemon juice, orange juice, Italian seasoning, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Stir the stew occasionally to prevent the chicken from sticking to the bottom of the cauldron.",
+    "After 30 minutes, remove the chicken from the cauldron and set it aside to rest.",
+    "Continue to simmer the sauce for another 10 minutes, stirring occasionally, until it has thickened slightly.",
+    "Return the chicken to the cauldron and stir to coat with the sauce.",
+    "Serve the chicken wings hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "comfort-food",
+    "high-protein",
+    "italian-cuisine",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intensely-citrusy-italian-chicken-wings-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-citrusy-italian-chicken-wings-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:17:03Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "brine-wet",
+    "primaryIngredient": "chicken wings",
+    "diet": "high-protein",
+    "region": "ligurian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken wings",
+    "descriptor": "Intensely citrusy",
+    "dishForm": "Stew"
+  }
+}
