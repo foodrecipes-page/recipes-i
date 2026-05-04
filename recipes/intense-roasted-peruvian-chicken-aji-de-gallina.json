@@ -1,0 +1,96 @@
+{
+  "title": "Intense Roasted Peruvian Chicken Aji De Gallina",
+  "description": "This Peruvian dish features roasted chicken in a rich and creamy cheese sauce, flavored with pomegranate molasses and aji amarillo peppers, all in one pot. It is a no-onion-no-garlic-friendly recipe, making it accessible to a wide range of tastes.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "soy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4 lbs",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "4 peppers",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "2 cups",
+      "notes": "Monterey Jack or similar"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Season the chicken thighs with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the chicken thighs until browned on all sides, then remove from the pot.",
+    "Add the chopped aji amarillo peppers to the pot and cook until fragrant.",
+    "Add the pomegranate molasses to the pot and stir to combine.",
+    "Return the chicken to the pot and pour in the heavy cream.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Roast for 30 minutes, then remove the lid and top with shredded cheese.",
+    "Continue roasting until the cheese is melted and bubbly.",
+    "Remove from the oven and let rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "gluten-free",
+    "one-pot",
+    "peruvian-cuisine",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 42
+  },
+  "slug": "intense-roasted-peruvian-chicken-aji-de-gallina",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-roasted-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:02:48Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "temper",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Intense Roasted",
+    "dishForm": "Aji De Gallina"
+  }
+}
