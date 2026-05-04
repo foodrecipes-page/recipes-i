@@ -1,0 +1,108 @@
+{
+  "title": "Intense Smoky Mediterranean Manchego Salad",
+  "description": "A light, smoky Mediterranean salad with aged Manchego, citrus vinaigrette, and roasted red pepper flakes, perfect for a keto-friendly lunch.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked Manchego cheese",
+      "amount": "100 g"
+    },
+    {
+      "name": "baby arugula",
+      "amount": "2 cups"
+    },
+    {
+      "name": "roasted red pepper",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup, pitted and halved"
+    },
+    {
+      "name": "fresh fennel",
+      "amount": "1/4 cup, thinly sliced"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp, rinsed"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "toasted pine nuts",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine arugula, roasted pepper, olives, fennel, and capers.",
+    "Sprinkle smoked paprika, sea salt, and black pepper over the greens and toss gently.",
+    "Add the diced Manchego cheese and toasted pine nuts, stirring to distribute evenly.",
+    "Whisk olive oil and lemon juice in a small bowl until emulsified, then drizzle over the salad.",
+    "Toss the salad again to coat all ingredients with the vinaigrette.",
+    "Let the salad rest for 2 minutes to allow flavors to meld.",
+    "Sprinkle extra smoked paprika on top for an intense smoky hint.",
+    "Serve immediately, garnished with a few fresh parsley leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fresh",
+    "keto-friendly",
+    "low-carb",
+    "mediterranean",
+    "quick",
+    "salad",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 330,
+    "protein": 14,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "intense-smoky-mediterranean-manchego-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-mediterranean-manchego-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:52:45Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "manchego",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Manchego",
+    "descriptor": "Intense Smoky",
+    "dishForm": "Salad"
+  }
+}
