@@ -151,6 +151,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-algerian-chickpea-tagine",
+    "title": "Indulgent Algerian Chickpea Tagine",
+    "tags": [
+      "algerian",
+      "indulgent",
+      "sattvic-friendly",
+      "tagine",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-american-pork-dumplings",
     "title": "Indulgent American Pork Dumplings",
     "tags": [
@@ -847,6 +861,21 @@
       "nutty",
       "portuguese",
       "quick"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-portuguese-pecan-fried-rice",
+    "title": "Indulgent Portuguese Pecan Fried-Rice",
+    "tags": [
+      "dairy-free",
+      "easy",
+      "glazed",
+      "nutty",
+      "quick",
+      "snack"
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 25,
@@ -3005,6 +3034,20 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intoxicating-thai-beef-pad-see-ew",
+    "title": "Intoxicating Thai Beef Pad See Ew",
+    "tags": [
+      "comfort-food",
+      "low-sodium",
+      "one-pan",
+      "quick-meal",
+      "thai"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {

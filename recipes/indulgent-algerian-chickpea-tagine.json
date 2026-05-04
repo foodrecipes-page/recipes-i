@@ -1,0 +1,105 @@
+{
+  "title": "Indulgent Algerian Chickpea Tagine",
+  "description": "A resinous, shaggy tagine bursting with capers, rendered fat, and aromatic spices, yet balanced with Ayurvedic sattvic principles.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "sattvic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chickpeas, cooked",
+      "amount": "400g",
+      "notes": "drained"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "Butter",
+      "amount": "15g"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Capers",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil and butter in a heavy‑bottom pot over medium heat until melted and slightly browned.",
+    "Add diced onion and sauté until translucent, about 4 minutes.",
+    "Stir in minced garlic, cumin, coriander, and paprika, cooking for 1 minute until fragrant.",
+    "Pour in cooked chickpeas, capers, and broth, bringing the mixture to a gentle simmer.",
+    "Reduce heat to low, cover, and let the tagine steam for 20 minutes to meld flavors.",
+    "Uncover, stir, and cook uncovered for an additional 5 minutes to thicken slightly.",
+    "Taste and season with salt and black pepper to preference.",
+    "Garnish with fresh cilantro before serving hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "indulgent",
+    "sattvic-friendly",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1140,
+    "protein": 38,
+    "carbs": 129,
+    "fat": 50
+  },
+  "slug": "indulgent-algerian-chickpea-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-algerian-chickpea-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:13:59Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "render-fat",
+    "primaryIngredient": "capers",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Indulgent",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Intoxicating Thai Beef Pad See Ew",
+  "description": "A smoky, charred Thai beef Pad See Ew with feather blade beef, dashi-infused sauce, and comforting noodle base, served hot straight from a ceramic tagine.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Feather blade beef",
+      "amount": "200g"
+    },
+    {
+      "name": "Chinese broccoli",
+      "amount": "150g"
+    },
+    {
+      "name": "Egg noodles",
+      "amount": "100g"
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh ground black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the ceramic tagine over medium-high heat until it shimmers.",
+    "Add the sesame oil and swirl to coat the bottom of the tagine.",
+    "Toss in the minced garlic and sauté until fragrant, about 30 seconds.",
+    "Push the garlic to the side and add the feather blade beef, searing until browned on all sides.",
+    "Stir in the dashi extract, low-sodium soy sauce, oyster sauce, and black pepper, coating the beef evenly.",
+    "Add the Chinese broccoli and stir-fry until tender-crisp, about 3 minutes.",
+    "Pour in the cooked egg noodles, tossing to combine and heat through.",
+    "Finish with a squeeze of lime juice and a pinch of crushed red pepper flakes for heat.",
+    "Remove the tagine from heat and let the dish aerate for 2 minutes to develop flavors.",
+    "Serve hot directly from the tagine for a comforting, charred experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-sodium",
+    "one-pan",
+    "quick-meal",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 438,
+    "protein": 33,
+    "carbs": 48,
+    "fat": 18
+  },
+  "slug": "intoxicating-thai-beef-pad-see-ew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/intoxicating-thai-beef-pad-see-ew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:13:48Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "dashi-extract",
+    "primaryIngredient": "feather blade beef",
+    "diet": "low-sodium",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Beef",
+    "descriptor": "Intoxicating",
+    "dishForm": "Pad See Ew"
+  }
+}

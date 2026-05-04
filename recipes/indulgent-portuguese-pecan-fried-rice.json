@@ -1,0 +1,108 @@
+{
+  "title": "Indulgent Portuguese Pecan Fried-Rice",
+  "description": "A fresh, crispy midnight craving Portuguese dish featuring pecan nuts, a lacquer-glaze, and dairy-free-friendly ingredients.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked jasmine rice",
+      "amount": "2 cups (200g)"
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "150g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp coconut oil in a large skillet over medium-high heat until shimmering.",
+    "Add diced onion and minced garlic, sauté until onion becomes translucent, about 3 minutes.",
+    "Stir in diced bell pepper and smoked paprika, cook until peppers soften, about 4 minutes.",
+    "Add cooked rice to the skillet, breaking up clumps with a spatula, and cook until heated through, about 5 minutes.",
+    "In a small bowl whisk together soy sauce, maple syrup, and lemon juice to create a glaze.",
+    "Pour the glaze over the rice mixture, stirring constantly until the rice is evenly coated and glistens, about 2 minutes.",
+    "Fold in the chopped pecans, allowing them to toast lightly, for 1 minute.",
+    "Season the dish with salt and pepper to taste, adjusting the glaze if needed.",
+    "Remove from heat and transfer to a serving dish.",
+    "Serve immediately while hot, enjoying the sweet, salty, and nutty flavor profile."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "easy",
+    "glazed",
+    "nutty",
+    "quick",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 348,
+    "protein": 7,
+    "carbs": 28,
+    "fat": 21
+  },
+  "slug": "indulgent-portuguese-pecan-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-portuguese-pecan-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:14:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "pecan nuts",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pecan",
+    "descriptor": "Indulgent",
+    "dishForm": "Fried-Rice"
+  }
+}
