@@ -1,0 +1,88 @@
+{
+  "title": "Indulgent Smoke-Kicked French Ground Almonds Crumble",
+  "description": "A fatty, crumbly indulgent french dish featuring ground nut oil and smoke-hot elements, perfect for a hot-pot vessel.",
+  "cuisine": "French (Lyon)",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ground almonds",
+      "amount": 200
+    },
+    {
+      "name": "Ground nut oil",
+      "amount": 50
+    },
+    {
+      "name": "Smoke flavoring (liquid smoke or wood chips)",
+      "notes": "Approximately 10 ml"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": 100
+    },
+    {
+      "name": "Caster sugar",
+      "amount": 50
+    },
+    {
+      "name": "Vanilla bean paste",
+      "notes": "1/2 to 1 inch length of vanilla bean, seeds scraped out"
+    },
+    {
+      "name": "Water or fruit juice (for soaking almonds)",
+      "amount": 300
+    },
+    {
+      "name": "Butter",
+      "amount": 50
+    }
+  ],
+  "instructions": [
+    "Soak ground almonds in water or fruit juice for at least an hour.",
+    "Drain and rinse almonds. Squeeze out excess moisture with a clean kitchen towel.",
+    "Preheat your hot-pot vessel to medium-high heat.",
+    "In a mixing bowl, combine ground almonds, ground nut oil, smoke flavoring, granulated sugar, caster sugar, vanilla bean paste, and butter until well combined.",
+    "Transfer almond mixture into the hot pot. Gently spread it evenly across the bottom of the pot.",
+    "Bake at 160°C (325°F) for approximately 45 minutes or until crumbs are crisp and golden brown.",
+    "Remove from heat and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "crumbly",
+    "fatty",
+    "indulgent",
+    "nut-oil",
+    "shojin-friendly",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 23,
+    "carbs": 90,
+    "fat": 46
+  },
+  "slug": "indulgent-smoke-kicked-french-ground-almonds-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-smoke-kicked-french-ground-almonds-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T10:50:17Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "smoke-hot",
+    "primaryIngredient": "ground nut oil",
+    "diet": "shojin",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Ground Almonds",
+    "descriptor": "Indulgent Smoke-Kicked",
+    "dishForm": "Crumble"
+  }
+}
