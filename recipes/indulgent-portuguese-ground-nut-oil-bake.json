@@ -1,0 +1,93 @@
+{
+  "title": "indulgent portuguese ground nut oil bake",
+  "description": "savory, crumbly, indulgent portuguese dish featuring ground nut oil ",
+  "cuisine": "portuguese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground almonds",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "ground hazelnuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground nut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "to thicken the mixture, optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to bring out the flavors"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "to achieve the right consistency"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375f (190c).",
+    "combine the ground almonds, hazelnuts, and nut oil in a large mixing bowl.",
+    "add the flour and salt to the mixture, and mix until well combined.",
+    "with a spoon, add the water to the mixture, and stir until a crumbly dough forms.",
+    "if the dough is too dry, add more water, 1 tablespoon at a time.",
+    "if the dough is too wet, add more flour, 1 tablespoon at a time.",
+    "turn the dough out onto a lightly floured surface, and knead for 5 minutes.",
+    "divide the dough into 6 equal pieces, and shape each piece into a ball.",
+    "place the balls onto a baking sheet lined with parchment paper, leaving about 1 inch of space between each ball.",
+    "bake for 20 minutes, or until the edges are lightly golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly",
+    "indulgent",
+    "one-pan",
+    "portuguese",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "indulgent-portuguese-ground-nut-oil-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-portuguese-ground-nut-oil-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:19Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "ground nut oil",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "ground nut oil",
+    "descriptor": "indulgent",
+    "dishForm": "bake"
+  }
+}

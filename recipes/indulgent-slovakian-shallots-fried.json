@@ -1,0 +1,100 @@
+{
+  "title": "Indulgent Slovakian Shallots Fried",
+  "description": "A crispy and salty Slovakian dish featuring shallots, perfect for a gluten-free friendly meal. Blanch the shallots in boiling water to bring out their natural sweetness before frying to a golden crisp.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "4 large shallots",
+      "amount": "",
+      "notes": "preferably sweet and mild variety like Eschalot"
+    },
+    {
+      "name": "1 cup all-purpose gluten-free flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": "use flaky sea salt for added crunch"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": "freshly ground for maximum flavor"
+    },
+    {
+      "name": "1 cup gluten-free breadcrumbs",
+      "amount": "",
+      "notes": "preferably whole grain for added nutrition"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "use high-quality extra virgin for best flavor"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": "optional, for added flavor"
+    },
+    {
+      "name": "1 egg",
+      "amount": "",
+      "notes": "for egg wash if using breadcrumb coating"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat until it reaches 375°F (190°C).",
+    "Add the gluten-free breadcrumbs to the skillet and cook, stirring constantly, until lightly toasted and fragrant, about 3 minutes.",
+    "In a separate bowl, mix together the gluten-free flour, salt, and black pepper.",
+    "Add the shallots to the bowl and toss to coat evenly with the flour mixture, shaking off any excess.",
+    "Dip each floured shallot into the beaten egg and then coat in the gluten-free breadcrumbs, pressing the crumbs gently onto the shallot to adhere, if using.",
+    "Carefully add the breaded shallots to the hot skillet, in batches if necessary, and fry until golden brown and crispy, about 2-3 minutes per side.",
+    "Using a slotted spoon, remove the fried shallots from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Repeat the frying process with the remaining shallots, adjusting the heat as needed to prevent burning.",
+    "Serve the fried shallots immediately, garnished with chopped fresh parsley or chives if desired, and enjoy!",
+    "Serve as a snack or side dish, or use as a topping for salads or soups.",
+    "If desired, drizzle with additional olive oil and sprinkle with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "indulgent-slovakian-shallots-fried",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-slovakian-shallots-fried",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:28Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "shallots",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "shallots",
+    "descriptor": "indulgent",
+    "dishForm": "Fried"
+  }
+}

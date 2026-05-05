@@ -1581,6 +1581,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-portuguese-ground-nut-oil-bake",
+    "title": "indulgent portuguese ground nut oil bake",
+    "tags": [
+      "crumbly",
+      "indulgent",
+      "one-pan",
+      "portuguese",
+      "savory",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-portuguese-pecan-fried-rice",
     "title": "Indulgent Portuguese Pecan Fried-Rice",
     "tags": [
@@ -1802,6 +1817,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-slovakian-shallots-fried",
+    "title": "Indulgent Slovakian Shallots Fried",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
