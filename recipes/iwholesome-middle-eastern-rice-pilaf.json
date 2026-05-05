@@ -1,0 +1,97 @@
+{
+  "title": "IWholesome Middle Eastern Rice Pilaf",
+  "description": "A smoky and glassy-jelly infused rice pilaf that serves as a hangover-cure-friendly meal for the morning after.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup basmati rice",
+      "amount": "1"
+    },
+    {
+      "name": "2 cups water or chicken broth",
+      "amount": "2"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2"
+    },
+    {
+      "name": "1 small onion, diced",
+      "amount": "1"
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1"
+    },
+    {
+      "name": "1/4 teaspoon smoked paprika",
+      "amount": "1/4"
+    },
+    {
+      "name": "1/4 cup seasoned rice vinegar",
+      "amount": "1/4"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4"
+    }
+  ],
+  "instructions": [
+    "Preheat a wooden board to medium heat.",
+    "Add olive oil and sauté onions until translucent, about 5 minutes.",
+    "Stir in minced garlic for another minute.",
+    "Gradually add rice while stirring continuously for 2-3 minutes.",
+    "Pour in water or broth, and bring to a boil.",
+    "Reduce heat, cover with a lid, and simmer for 18 minutes.",
+    "Uncover and stir in seasoned vinegar, cumin, paprika, salt, and pepper.",
+    "Simmer for an additional 5-7 minutes until liquid is absorbed, then fluff with a fork.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "glassy-jelly",
+    "hangover-cure",
+    "middle-eastern",
+    "satvik-friendly",
+    "smoky",
+    "vessel-wooden-board"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "iwholesome-middle-eastern-rice-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/iwholesome-middle-eastern-rice-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T14:37:01Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "braise",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Rice",
+    "descriptor": "Wholesome",
+    "dishForm": "Pilaf"
+  }
+}
