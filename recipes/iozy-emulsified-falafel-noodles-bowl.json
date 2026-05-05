@@ -1,0 +1,87 @@
+{
+  "title": "Iozy Emulsified Falafel Noodles Bowl",
+  "description": "A gooey and roasted low-carb-friendly dish featuring falafel noodles in a lacquerware-bowl, perfect for the monsoon season.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flat rice noodles",
+      "amount": 100
+    },
+    {
+      "name": "Falafel balls",
+      "amount": 8
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": 250
+    },
+    {
+      "name": "Red bell pepper strips",
+      "amount": 100
+    },
+    {
+      "name": "Tomato slices",
+      "amount": 40
+    },
+    {
+      "name": "Olive oil",
+      "amount": 30
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": 50
+    },
+    {
+      "name": "Sunflower seeds",
+      "amount": 20
+    }
+  ],
+  "instructions": [
+    "Heat a lacquerware-bowl with olive oil until warm.",
+    "Add falafel balls and cook for about 8 minutes, turning occasionally.",
+    "Drain excess oil from the bowl and add Greek yogurt to create an emulsion.",
+    "Arrange flat rice noodles on top of the falafel mixture in the bowl.",
+    "Sprinkle broccoli florets and red bell pepper strips over the falafel and noodles.",
+    "Garnish with tomato slices, sunflower seeds, and a drizzle of olive oil for added flavor.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "emulsified",
+    "falafel",
+    "low-carb",
+    "monsoon"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "iozy-emulsified-falafel-noodles-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/iozy-emulsified-falafel-noodles-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T12:57:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "emulsify",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Falafel",
+    "descriptor": "Gooey, Low-Carb",
+    "dishForm": "Emulsified Falafel Noodles Bowl"
+  }
+}
