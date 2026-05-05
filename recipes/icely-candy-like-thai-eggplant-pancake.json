@@ -1,0 +1,86 @@
+{
+  "title": "Icely-Candy-Like Thai Eggplant Pancake",
+  "description": "A kid-friendly and gluten-free friendly dish that combines the soft texture of eggplants with a sugary glaze to create a delightful candy-like treat.",
+  "cuisine": "Thai, Brazilian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "thai eggplant",
+      "amount": 1
+    },
+    {
+      "name": "glucose syrup",
+      "amount": 200
+    },
+    {
+      "name": "cornstarch",
+      "amount": 150
+    },
+    {
+      "name": "vegetable oil",
+      "amount": 200
+    },
+    {
+      "name": "watermelon sugar",
+      "amount": 300
+    },
+    {
+      "name": "paprika flakes",
+      "amount": 5
+    },
+    {
+      "name": "sugar",
+      "amount": 100
+    },
+    {
+      "name": "milk powder",
+      "amount": 20
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Rinse and slice thai eggplant into thin pieces.",
+    "In a mixing bowl, combine glucose syrup with cornstarch. Mix well until no lumps remain.",
+    "Gently fold in watermelon sugar, paprika flakes, and milk powder into the eggplant mixture.",
+    "Heat vegetable oil in an oven-safe skillet over medium heat. Pour in the eggplant mixture.",
+    "Cook for 3-5 minutes or until golden brown on bottom. Transfer to a baking dish lined with parchment paper, spreading evenly.",
+    "Pour the sugar syrup over the pancake and bake in the preheated oven for 10 minutes. Turn off the heat, let it sit for another 20 minutes.",
+    "Serve warm as a dessert."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 2
+  },
+  "slug": "icely-candy-like-thai-eggplant-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/icely-candy-like-thai-eggplant-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T18:50:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "candy",
+    "primaryIngredient": "thai-eggplant-makhua",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "eggplant",
+    "descriptor": "Candy-Like",
+    "dishForm": "Pancake"
+  }
+}
