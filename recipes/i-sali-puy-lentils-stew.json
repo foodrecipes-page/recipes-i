@@ -1,0 +1,88 @@
+{
+  "title": "I咸 Sali Puy-lentils Stew",
+  "description": "A salty, pillowy Egyptian dish featuring puy-lentils, lardons-rendered fat, and optionally eggs or tofu for a vegetarian-friendly meal.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup puy lentils",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "6 slices lardons",
+      "amount": "slices"
+    },
+    {
+      "name": "4 cups water or vegetable broth",
+      "amount": "cups"
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": null
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Black pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped (optional)",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat olive oil over medium heat.",
+    "Add lardons and cook until golden brown, about 5 minutes.",
+    "Add onion and garlic; sauté for another 3-4 minutes or until onions are translucent.",
+    "Stir in lentils, water, salt, and pepper. Bring to a boil, then reduce heat and simmer covered for 20 minutes.",
+    "Gently fold in parsley if using.",
+    "Once cooked through and tender (about 50 minutes total), adjust seasoning as needed.",
+    "Serve hot with extra lardons on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "elegant",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 18,
+    "carbs": 72,
+    "fat": 16
+  },
+  "slug": "i-sali-puy-lentils-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/i-sali-puy-lentils-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T13:16:59Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "lardons-render",
+    "primaryIngredient": "puy-lentils",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Puy-lentils",
+    "descriptor": "Salty",
+    "dishForm": "Stew"
+  }
+}
