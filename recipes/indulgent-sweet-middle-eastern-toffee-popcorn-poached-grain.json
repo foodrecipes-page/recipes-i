@@ -1,0 +1,91 @@
+{
+  "title": "Middle Eastern Toffee Popcorn Poached Grain",
+  "description": "A sweet and indulgent vegetarian breakfast or brunch option featuring toffee popcorn, poached grain, and a hint of Middle Eastern spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pearl barley",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for poaching"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup",
+      "notes": "for toffee syrup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "popcorn kernels",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine pearl barley and water in a cataplana and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Meanwhile, melt butter and brown sugar in a saucepan over medium heat, stirring constantly.",
+    "Add popcorn kernels and cook, stirring constantly, until popped.",
+    "Stir in cinnamon powder, ground cardamom, and salt.",
+    "To assemble, place a scoop of poached barley on a plate, top with a spoonful of toffee popcorn mixture, and drizzle with toffee syrup.",
+    "Serve warm, garnished with chopped nuts or dried fruit, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "special-occasion",
+    "vegetarian",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 5,
+    "carbs": 80,
+    "fat": 15
+  },
+  "slug": "indulgent-sweet-middle-eastern-toffee-popcorn-poached-grain",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-sweet-middle-eastern-toffee-popcorn-poached-grain",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:04Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "simmer",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle-eastern",
+    "mainIngredient": "toffee popcorn",
+    "descriptor": "Indulgent, Sweet",
+    "dishForm": "Poached Grain"
+  }
+}
