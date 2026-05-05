@@ -1,0 +1,66 @@
+{
+  "title": "Uruguayan Bamboo Shoot Casserole",
+  "description": "A hearty, intensely flavored casserole featuring bamboo shoots and shio-cure, perfect for a weeknight dinner. This dish is Jain-friendly and can be made ahead for meal prep.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup",
+      "notes": "Canned or fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat. Add the garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the bamboo shoots, shio-cure, salt, basil, and thyme to the skillet. Cook for 2-3 minutes, until the bamboo shoots start to soften.",
+    "In a large bowl, whisk together the flour and vegetable broth until smooth.",
+    "Add the butter to the bowl and stir until melted.",
+    "Pour the wet ingredients over the bamboo shoot mixture and stir until well combined.",
+    "Transfer the mixture to a cedar plank or a baking dish.",
+    "Bake for 25-30 minutes, until the top is golden brown and the casserole is hot and bubbly.",
+    "Garnish with chopped parsley and serve hot.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "uruguayan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "intensely-flavored-and-subtly-smoky-uruguayan-bamboo-shoot-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flavored-and-subtly-smoky-uruguayan-bamboo-shoot-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:13:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "shio-cure",
+    "primaryIngredient": "bamboo shoot",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Bamboo shoot",
+    "descriptor": "Intensely flavored and subtly smoky",
+    "dishForm": "Casserole"
+  }
+}
