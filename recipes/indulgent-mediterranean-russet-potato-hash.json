@@ -1,0 +1,116 @@
+{
+  "title": "Indulgent Mediterranean Russet Potato Hash",
+  "description": "A mustardy, crumbly, indulgent Mediterranean dish featuring russet potato, perfect for a keto-friendly breakfast or brunch.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto",
+    "lacto-ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tablespoons",
+      "notes": "creamed"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the diced potatoes with 2 tablespoons of olive oil, salt, and black pepper on a baking sheet.",
+    "Roast the potatoes in the preheated oven for 20 minutes, or until tender and lightly browned.",
+    "While the potatoes are roasting, cook the diced bacon in a large skillet over medium-high heat until crispy.",
+    "Remove the cooked bacon from the skillet with a slotted spoon and set aside on a paper towel-lined plate.",
+    "Add the diced red onion and minced garlic to the same skillet and cook, stirring occasionally, until the onion is translucent.",
+    "Stir in the crumbled feta cheese, dried oregano, and whole mustard seeds.",
+    "Once the potatoes are done roasting, add them to the skillet with the onion and feta mixture.",
+    "Crumble the cooked bacon into the potato mixture and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the potato mixture to a serving dish and top with a dollop of creamed Greek yogurt.",
+    "Garnish with fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacon",
+    "breakfast",
+    "feta",
+    "keto-friendly",
+    "mediterranean",
+    "one-pan",
+    "russet-potatoes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 44
+  },
+  "slug": "indulgent-mediterranean-russet-potato-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-mediterranean-russet-potato-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:48Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "fold",
+    "primaryIngredient": "russet potato",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "russet potato",
+    "descriptor": "indulgent",
+    "dishForm": "hash"
+  }
+}

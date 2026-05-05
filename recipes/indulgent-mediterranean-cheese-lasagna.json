@@ -1,0 +1,132 @@
+{
+  "title": "indulgent mediterranean cheese lasagna",
+  "description": "a rich and satisfying lasagna featuring the flavors of the mediterranean, with a crunchy apple topping",
+  "cuisine": "mediterranean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": ""
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "applesauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375 f",
+    "cook the lasagna noodles according to the package instructions and set aside",
+    "in a medium bowl, combine the ricotta cheese, feta cheese, parmesan cheese, and a pinch of salt and pepper",
+    "in a large skillet, heat the olive oil over medium heat and sauté the garlic until softened",
+    "add the cooked lasagna noodles to the skillet and toss with the garlic and olive oil",
+    "in a separate bowl, combine the applesauce and lemon juice and mix well",
+    "spread a layer of the ricotta cheese mixture on the bottom of a 9x13 inch baking dish",
+    "arrange 4 lasagna noodles on top of the cheese mixture",
+    "spread half of the applesauce mixture over the noodles",
+    "sprinkle with half of the parmesan cheese",
+    "repeat the layers, starting with the noodles, then the ricotta cheese mixture, then the applesauce mixture, and finally the parmesan cheese",
+    "cover the baking dish with aluminum foil and bake for 30 minutes",
+    "remove the foil and continue baking for an additional 15 minutes",
+    "remove from the oven and let cool for 10 minutes before slicing and serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cheese",
+    "indulgent",
+    "lasagna",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 40,
+    "carbs": 120,
+    "fat": 60
+  },
+  "slug": "indulgent-mediterranean-cheese-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-mediterranean-cheese-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "poach",
+    "primaryIngredient": "applesauce",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "cheese",
+    "descriptor": "indulgent",
+    "dishForm": "Lasagna"
+  }
+}

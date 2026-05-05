@@ -1,0 +1,101 @@
+{
+  "title": "Indulgent Saudi-Arabian Wagyu Burger",
+  "description": "A peppery, snappy, indulgent dish featuring Wagyu beef, nuka-pickle, and Mediterranean-friendly flavors. Perfect for a special occasion or a gourmet dinner.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "meat",
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu Beef Patties",
+      "amount": "500g"
+    },
+    {
+      "name": "Nuka-Pickle",
+      "amount": "100g"
+    },
+    {
+      "name": "Mediterranean Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Brioche Buns",
+      "amount": "4"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Grill Wagyu beef patties to medium-rare, about 3-4 minutes per side.",
+    "Meanwhile, toast brioche buns on the grill.",
+    "Spread Nuka-Pickle on the bottom bun.",
+    "Add a Wagyu beef patty, followed by a slice of Cheddar cheese.",
+    "Drizzle with Mediterranean Olive Oil and sprinkle with Garlic Powder, Smoked Paprika, Salt, and Black Pepper.",
+    "Add a handful of Fresh Cilantro on top.",
+    "Place the top bun on and serve immediately.",
+    "Repeat with remaining ingredients.",
+    "Serve with additional Nuka-Pickle on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "barbecue",
+    "gourmet",
+    "high-end",
+    "saudi-arabian",
+    "summer",
+    "wagyu-beef"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 100,
+    "fat": 70
+  },
+  "slug": "indulgent-saudi-arabian-wagyu-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-saudi-arabian-wagyu-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:43Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "wagyu",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Wagyu",
+    "descriptor": "Indulgent",
+    "dishForm": "Burger"
+  }
+}

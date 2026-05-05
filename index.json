@@ -1135,6 +1135,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-mediterranean-cheese-lasagna",
+    "title": "indulgent mediterranean cheese lasagna",
+    "tags": [
+      "cheese",
+      "indulgent",
+      "lasagna",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 75,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-mediterranean-date-tagine",
     "title": "Indulgent Mediterranean Date Tagine",
     "tags": [
@@ -1162,6 +1177,23 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 70,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-mediterranean-russet-potato-hash",
+    "title": "Indulgent Mediterranean Russet Potato Hash",
+    "tags": [
+      "bacon",
+      "breakfast",
+      "feta",
+      "keto-friendly",
+      "mediterranean",
+      "one-pan",
+      "russet-potatoes",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -1520,6 +1552,21 @@
     ],
     "cuisine": "Saudi-Arabian",
     "totalTimeMin": 70,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-saudi-arabian-wagyu-burger",
+    "title": "Indulgent Saudi-Arabian Wagyu Burger",
+    "tags": [
+      "barbecue",
+      "gourmet",
+      "high-end",
+      "saudi-arabian",
+      "summer",
+      "wagyu-beef"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 23,
     "shard": "i"
   },
   {
