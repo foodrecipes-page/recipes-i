@@ -5206,5 +5206,18 @@
     "cuisine": "kenyan",
     "totalTimeMin": 45,
     "shard": "i"
+  },
+  {
+    "slug": "izy-low-glycemic-friendly-argentinian-runner-bean-wrap",
+    "title": "Izy Low-Glycemic-Friendly Argentinian Runner Bean Wrap",
+    "tags": [
+      "argentinian-dish",
+      "low-glycemic-friendly",
+      "meal-prep",
+      "runner-beans"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 35,
+    "shard": "i"
   }
 ]

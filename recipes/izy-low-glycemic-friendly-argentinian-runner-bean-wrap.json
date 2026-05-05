@@ -1,0 +1,88 @@
+{
+  "title": "Izy Low-Glycemic-Friendly Argentinian Runner Bean Wrap",
+  "description": "A nutritious meal-prep argentinian dish featuring runner beans, double-rise-bread, and a creamy avocado sauce for added flavor.",
+  "cuisine": "argentinian",
+  "diet": [
+    "low-glycemic",
+    "meal-prep"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "200g"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe avocado"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Slice the double-rise bread into rounds.",
+    "Toast the bread in the oven for about 2 minutes per side until lightly golden.",
+    "Gently heat the runner beans by steaming them or sautéing them briefly with a bit of oil and spices.",
+    "Prepare the creamy avocado sauce by mashing the avocado, adding soy sauce, lime juice, cumin, salt, and pepper. Mix well.",
+    "Assemble the wraps: spread a layer of the avocado sauce on each piece of toasted bread, top with roasted runner beans, and serve immediately.",
+    "Serve with a side of mixed greens for extra freshness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-dish",
+    "low-glycemic-friendly",
+    "meal-prep",
+    "runner-beans"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 18,
+    "carbs": 49,
+    "fat": 17
+  },
+  "slug": "izy-low-glycemic-friendly-argentinian-runner-bean-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/izy-low-glycemic-friendly-argentinian-runner-bean-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T04:59:30Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "runner beans",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "runner beans",
+    "descriptor": "Low-Glycemic-Friendly",
+    "dishForm": "Wrap"
+  }
+}
