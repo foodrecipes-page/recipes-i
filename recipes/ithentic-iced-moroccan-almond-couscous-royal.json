@@ -1,0 +1,85 @@
+{
+  "title": "Ithentic Iced Moroccan Almond Couscous Royal",
+  "description": "A malty, dense festive moroccan dish featuring ground almonds, robata-grilled in a form of couscous-royal, ayurvedic-sattvic-friendly.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup couscous",
+      "amount": "1"
+    },
+    {
+      "name": "2 cups water or almond milk",
+      "amount": "2"
+    },
+    {
+      "name": "3 tablespoons ground almonds",
+      "amount": "3"
+    },
+    {
+      "name": "1/4 teaspoon saffron threads",
+      "amount": "1/4"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Juice of 1 lemon (optional)",
+      "amount": "1"
+    },
+    {
+      "name": "Grilled fruit slices (such as strawberries, bananas or figs) for garnish",
+      "amount": "as desired"
+    },
+    {
+      "name": "Iced Moroccan mint syrup (recipe below)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the couscous and soak it in water or almond milk until softened.",
+    "Combine ground almonds, saffron threads, salt, and lemon juice into a pan if using.",
+    "Bring mixture to a boil, reduce heat, cover and simmer for about 5 minutes.",
+    "Add soaked couscous to the almond mixture and mix well.",
+    "Pour the couscous-royal into serving dishes or molds.",
+    "Chill the couscous-royal in the refrigerator until ready to serve.",
+    "Top with grilled fruit slices and drizzle with iced Moroccan mint syrup before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-sattvic-friendly",
+    "couscous-royal",
+    "dessert-cusine",
+    "moroccan-almond"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 6
+  },
+  "slug": "ithentic-iced-moroccan-almond-couscous-royal",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ithentic-iced-moroccan-almond-couscous-royal",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T17:08:29Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "robata-grill",
+    "primaryIngredient": "ground almonds",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Almonds",
+    "descriptor": "Festive",
+    "dishForm": "Couscous Royal"
+  }
+}
