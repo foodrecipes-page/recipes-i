@@ -5219,5 +5219,19 @@
     "cuisine": "argentinian",
     "totalTimeMin": 35,
     "shard": "i"
+  },
+  {
+    "slug": "izzy-middle-eastern-saskatoon-berries-stir-fry",
+    "title": "Izzy Middle Eastern Saskatoon Berries Stir-fry",
+    "tags": [
+      "middle-eastern-stir-fry",
+      "quick-fix-dish",
+      "salt-block-cooking",
+      "saskatoon-berries",
+      "shojin-friendly"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 14,
+    "shard": "i"
   }
 ]

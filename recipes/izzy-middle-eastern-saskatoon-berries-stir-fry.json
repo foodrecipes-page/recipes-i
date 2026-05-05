@@ -1,0 +1,68 @@
+{
+  "title": "Izzy Middle Eastern Saskatoon Berries Stir-fry",
+  "description": "A quick-fix salty and snappy dish featuring saskatoon berries in a mother-sauce base for an authentic Middle Eastern flavor profile. Suitable for shojin-ryō, made on a salt-block.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "saskatoon berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a salt-block pan over medium heat.",
+    "Add garlic and onion; sauté for about 2 minutes or until fragrant.",
+    "Gently add saskatoon berries to the pan. Stir-fry for another 3-5 minutes, adjusting heat as needed.",
+    "Remove from heat immediately to maintain freshness of berries.",
+    "Serve hot with a side of hummus for an extra boost of flavor."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 6,
+  "totalTimeMin": 14,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern-stir-fry",
+    "quick-fix-dish",
+    "salt-block-cooking",
+    "saskatoon-berries",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "izzy-middle-eastern-saskatoon-berries-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/izzy-middle-eastern-saskatoon-berries-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T05:11:41Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Saskatoon Berries",
+    "descriptor": "Izzy",
+    "dishForm": "Stir-fry"
+  }
+}
