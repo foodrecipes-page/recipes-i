@@ -1,0 +1,105 @@
+{
+  "title": "Intensely Crunchy Portuguese Fernbrake-Gosari Tagine",
+  "description": "A pungent and crunchy Portuguese dish featuring fernbrake-gosari and lamination-puff, perfect for a crowd-pleaser. This whole30-friendly recipe is a twist on traditional tagines.",
+  "cuisine": "portuguese",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gosari fernbrake",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "lamination-puff pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Chop onion and garlic.",
+    "In a large pan, heat olive oil over medium heat. Add onion and garlic and cook until softened.",
+    "Add gosari fernbrake and cook until tender.",
+    "Add lamination-puff pastry and crumble into the pan.",
+    "Pour in chicken broth and red wine vinegar.",
+    "Sprinkle smoked paprika, salt, and black pepper.",
+    "Transfer to a tagine pot and bake for 25 minutes.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "gluten-free",
+    "one-pan",
+    "paleo",
+    "portuguese",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "iintensely-crunchy-portuguese-fernbrake-gosari-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/iintensely-crunchy-portuguese-fernbrake-gosari-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:35Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "lamination-puff",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "fernbrake-gosari",
+    "descriptor": "iintensely crunchy",
+    "dishForm": "tagine"
+  }
+}
