@@ -1,0 +1,88 @@
+{
+  "title": "iRoasted Wholesome Squash Tagine",
+  "description": "An earthy and shaggy weeknight polish dish featuring a mix of whole30-friendly ingredients cooked in a cataplana.",
+  "cuisine": "International",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet butternut squash",
+      "amount": "2"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "1"
+    },
+    {
+      "name": "raisins",
+      "amount": "30g"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "15g"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Halve the butternut squash lengthwise and scoop out the seeds.",
+    "Slice the onion into thin rings and chop the garlic cloves finely.",
+    "In a cataplana, toss together the halved squash, onion slices, garlic, bay leaves, raisins, icing sugar, paprika, and cumin seeds.",
+    "Drizzle with 1 tablespoon of water. Place in the oven and roast for 30 minutes.",
+    "After 25 minutes, mix the squash mixture gently to redistribute the flavors evenly across all parts of the cataplana.",
+    "Let it continue to cook until all liquid is absorbed and the squash is tender, about another 5 minutes.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cataplana-dish",
+    "earthly-umeat-veggie",
+    "easy-pickup",
+    "no-grain",
+    "slow-cook",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "i-roasted-wholesome-squash-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/i-roasted-wholesome-squash-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T23:55:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "slow-cook",
+    "primaryIngredient": "icing sugar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "squash",
+    "descriptor": "Wholesome Roasted",
+    "dishForm": "Tagine"
+  }
+}
