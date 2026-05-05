@@ -1,0 +1,89 @@
+{
+  "title": "Icy Shattered Italian Hind Shank Pasta",
+  "description": "A malty and shattering post-workout dish featuring hind shank, shaped like nigiri-sushi for a unique pasta experience.",
+  "cuisine": "Italian (Lombard)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hind shank",
+      "amount": "1lb"
+    },
+    {
+      "name": "pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "italian herbs",
+      "amount": "tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to medium heat.",
+    "Season the hind shank with salt and pepper. Sear both sides in a pan until golden brown, about 5 minutes per side.",
+    "Cook pasta according to package instructions. Drain and set aside.",
+    "In a separate pan, lightly sauté minced garlic and italian herbs in olive oil for about 1 minute.",
+    "Add the shanked hind shank into the garlic-herb mixture, pour over any accumulated juices from the pan (from the searing), and let it cook until the liquid is reduced by half.",
+    "Mix in the cooked pasta with the sauce, ensuring each strand is coated evenly.",
+    "Transfer the mixture onto a raclette grill. Use a spatula to gently fold and break apart the pasta into smaller pieces resembling nigiri-sushi.",
+    "Serve hot, garnished with grated parmesan cheese."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "hind-shank",
+    "lombard",
+    "malty",
+    "nigiri-shape",
+    "post-workout",
+    "shattering"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "icy-shattered-italian-hind-shank-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-shattered-italian-hind-shank-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T10:30:31Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "hind shank",
+    "diet": "buddhist-temple",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "hind shank",
+    "descriptor": "Icy Shattered",
+    "dishForm": "Pasta"
+  }
+}
