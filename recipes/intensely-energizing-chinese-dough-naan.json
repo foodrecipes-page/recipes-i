@@ -1,0 +1,120 @@
+{
+  "title": "Intensely Energizing Tandoor Naan",
+  "description": "A traditional Chinese-inspired dish featuring a dark brown sugar and energizing ingredients, cooked in a clay pot tandoor to perfection. This recipe is anti-inflammatory-friendly and perfect for a snack or dessert.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dark brown sugar",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tandoor wheat flour",
+      "amount": "2 cups",
+      "notes": "Make sure to use a high-protein type for best results."
+    },
+    {
+      "name": "Epsom salt",
+      "amount": "2 teaspoons",
+      "notes": "For its anti-inflammatory properties."
+    },
+    {
+      "name": "Activated charcoal powder",
+      "amount": "1 teaspoon",
+      "notes": "To give the naan its distinctive dark color."
+    },
+    {
+      "name": "Psyllium husk",
+      "amount": "1 tablespoon",
+      "notes": "For a boost of fiber and nutrition."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/2 cup",
+      "notes": "For a creamy and dairy-free dough."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "To add a smoky depth to the naan."
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/4 teaspoon",
+      "notes": "For its anti-inflammatory properties and bright yellow color."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To bring out the flavors."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "For a crunchy topping."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": "For a fresh garnish."
+    }
+  ],
+  "instructions": [
+    "Combine the wheat flour, Epsom salt, activated charcoal powder, psyllium husk, and salt in a large mixing bowl.",
+    "Add the dark brown sugar, coconut oil, and water to the bowl and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased tandoor or clay pot and let it ferment for 1 hour.",
+    "Preheat the tandoor or clay pot to 450°F (230°C).",
+    "Shape the dough into small balls and flatten them slightly into disks.",
+    "Place the naan disks in the preheated tandoor or clay pot and cook for 2-3 minutes on each side.",
+    "Brush the naan with coconut oil and sprinkle with sesame seeds and fresh cilantro.",
+    "Serve the naan warm and enjoy!",
+    "Repeat the process to make more naan disks.",
+    "Make sure to not overcrowd the tandoor or clay pot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "intensely-energizing-chinese-dough-naan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-energizing-chinese-dough-naan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:31:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "papillote",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "dough",
+    "descriptor": "intensely energizing",
+    "dishForm": "Naan"
+  }
+}
