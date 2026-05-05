@@ -1,0 +1,87 @@
+{
+  "title": "Izzy French sweet-rice-flour-chapssalgaru Macaron Risotto",
+  "description": "Umami and snappy post-workout macaron risotto featuring a unique blend of sweet-rice flour, pasta-water emulsion for texture, cooked in kosher-friendly broth.",
+  "cuisine": "French (Lyon)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet-rice-flour",
+      "amount": 100
+    },
+    {
+      "name": "pasta-water-emulsion",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "kosher-broth",
+      "amount": 250
+    },
+    {
+      "name": "parmesan-cheese",
+      "amount": "3 oz"
+    },
+    {
+      "name": "fresh-herbs",
+      "amount": "1 handful"
+    },
+    {
+      "name": "unsalted-butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "chicken-soup-base",
+      "amount": "3 oz"
+    }
+  ],
+  "instructions": [
+    "Heat broth to boiling. Add pasta-water-emulsion.",
+    "Blend sweet-rice-flour and butter in a bowl, mix until smooth.",
+    "Add garlic and parmesan cheese, blend well.",
+    "Stir in blended flour mixture with broth mixture.",
+    "Continue stirring for 15 minutes or until thickened.",
+    "Season with salt to taste. Add herbs and chicken soup base.",
+    "Serve immediately as a macaron risotto."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kosher-friendly",
+    "lyon-dish",
+    "post-workout",
+    "snappy",
+    "sweet-rice-flour",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 20,
+    "carbs": 65,
+    "fat": 17
+  },
+  "slug": "izzy-french-sweet-rice-flour-chapssalgaru-macaron-risotto",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/izzy-french-sweet-rice-flour-chapssalgaru-macaron-risotto",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T18:10:52Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "kosher",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "sweet-rice-flour-chapssalgaru",
+    "descriptor": "Izzy",
+    "dishForm": "Macaron Risotto"
+  }
+}
