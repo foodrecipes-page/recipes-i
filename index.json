@@ -430,6 +430,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-american-turkey-ham-bake",
+    "title": "Indulgent American Turkey Ham Bake",
+    "tags": [
+      "breakfast",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-argentinian-beef-stew",
     "title": "Indulgent Argentinian Beef Stew",
     "tags": [

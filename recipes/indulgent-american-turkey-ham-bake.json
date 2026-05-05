@@ -1,0 +1,88 @@
+{
+  "title": "Indulgent American Turkey Ham Bake",
+  "description": "A winey, flaky, indulgent American dish featuring turkey ham, salt-bake, low-carb-friendly.",
+  "cuisine": "American",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Turkey Ham",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Brie Cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Unroll the puff pastry and place it on a baking sheet lined with parchment paper.",
+    "Cut the turkey ham into small pieces and spread them evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Sprinkle the dried thyme and salt over the turkey ham, then top with the brie cheese, breaking it up slightly.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Brush the top of the pastry with the beaten egg and cut a few slits in the top to allow steam to escape.",
+    "Bake for 35-40 minutes, or until the pastry is golden brown and the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 6,
+    "fat": 38
+  },
+  "slug": "indulgent-american-turkey-ham-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-american-turkey-ham-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "salt-bake",
+    "primaryIngredient": "turkey ham",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "turkey ham",
+    "descriptor": "indulgent",
+    "dishForm": "Bake"
+  }
+}
