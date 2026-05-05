@@ -1,0 +1,128 @@
+{
+  "title": "Iickily Aerated Turkish Lamb Tagine",
+  "description": "Funky twist on traditional Turkish lamb tagine, featuring aerated, fermented flavor and a kick of chilli sauce.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "chilli sauce",
+      "amount": "100ml",
+      "notes": "homemade or store-bought",
+      "},{": [
+        {
+          "name": "onion",
+          "amount": "200g",
+          "notes": ""
+        },
+        {
+          "name": "garlic",
+          "amount": "4",
+          "notes": ""
+        },
+        {
+          "name": "carrot",
+          "amount": "150g",
+          "notes": "peeled and chopped"
+        },
+        {
+          "name": "almonds",
+          "amount": "100g",
+          "notes": "chopped"
+        },
+        {
+          "name": "ras el hanout",
+          "amount": "2 tsp",
+          "notes": "store-bought or homemade"
+        },
+        {
+          "name": "fermented beetroot",
+          "amount": "200g",
+          "notes": "store-bought or homemade"
+        },
+        {
+          "name": "tomato paste",
+          "amount": "2 tbsp",
+          "notes": "homemade or store-bought"
+        },
+        {
+          "name": "olive oil",
+          "amount": "100ml",
+          "notes": ""
+        }
+      ],
+      "instructions": [
+        "Heat olive oil in the clay tajine over medium heat.",
+        "Add lamb shoulder and cook until browned on all sides, about 5 minutes."
+      ],
+      "prepTimeMin": 15,
+      "cookTimeMin": 60,
+      "totalTimeMin": 75,
+      "servings": 4,
+      "difficulty": "medium",
+      "tags": [
+        "turkish",
+        "lamb",
+        "tagine",
+        "one-pan",
+        "weeknight",
+        "funky"
+      ],
+      "nutrition": {
+        "calories": 600,
+        "protein": 35,
+        "carbs": 30,
+        "fat": 35
+      }
+    }
+  ],
+  "tags": [
+    "funky",
+    "lamb",
+    "one-pan",
+    "tagine",
+    "turkish",
+    "weeknight"
+  ],
+  "instructions": [
+    "Add onion and cook until softened, about 3 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add carrot and cook for 2 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "iickily-aerated-turkish-lamb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/iickily-aerated-turkish-lamb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:31Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "ferment",
+    "primaryIngredient": "chilli sauce",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "iickily Aerated",
+    "dishForm": "Tagine"
+  }
+}

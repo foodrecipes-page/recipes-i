@@ -1,0 +1,115 @@
+{
+  "title": "Indulgent Malaysian Kidney Beans Toast",
+  "description": "Snappy and pungent, this Malaysian-inspired dish combines kidney beans with Mediterranean-friendly flavors on toasted bread.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kidney beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sambal oelek",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Toasted coconut flakes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat. Add coconut oil and saut\u00019e the minced garlic for 1 minute.",
+    "Add sambal oelek and cook for another minute, stirring constantly.",
+    "Add kidney beans and stir to combine with the sambal mixture.",
+    "Season with salt, black pepper, and a squeeze of lime juice.",
+    "Meanwhile, toast the bread slices in a toaster or under the broiler.",
+    "Top each toasted bread slice with a spoonful of the kidney bean mixture, followed by a sprinkle of toasted coconut flakes and a sprinkle of chopped cilantro.",
+    "Garnish with additional fresh cilantro leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "indulgent-malaysian-kidney-beans-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-malaysian-kidney-beans-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:43Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "toast",
+    "primaryIngredient": "kidney beans",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "kidney beans",
+    "descriptor": "indulgent",
+    "dishForm": "Toast"
+  }
+}

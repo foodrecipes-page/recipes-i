@@ -323,6 +323,21 @@
     "shard": "i"
   },
   {
+    "slug": "iickily-aerated-turkish-lamb-tagine",
+    "title": "Iickily Aerated Turkish Lamb Tagine",
+    "tags": [
+      "funky",
+      "lamb",
+      "one-pan",
+      "tagine",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 75,
+    "shard": "i"
+  },
+  {
     "slug": "iintensely-crunchy-portuguese-fernbrake-gosari-tagine",
     "title": "Intensely Crunchy Portuguese Fernbrake-Gosari Tagine",
     "tags": [
@@ -1219,6 +1234,22 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-malaysian-kidney-beans-toast",
+    "title": "Indulgent Malaysian Kidney Beans Toast",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "malaysian",
+      "one-pan",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
