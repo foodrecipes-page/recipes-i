@@ -1,0 +1,84 @@
+{
+  "title": "Indulgent Ethiopian Clove Azifa Raclette Grill",
+  "description": "A tender and grassy ethiopian dish featuring ground cloves in a raclette grill, suitable for ayurvedic-rajasic cuisine.",
+  "cuisine": "ethiopian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground clove",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ayurvedic spices mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh garlic cloves",
+      "amount": "3-4 pcs"
+    },
+    {
+      "name": "onion",
+      "amount": "1 med."
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    }
+  ],
+  "instructions": [
+    "Sauté ground cloves and ayurvedic spices mix in oil until aromatic.",
+    "Add fresh garlic, onion, bell pepper, and carrot to the pot; stir well.",
+    "Cover with water and cook on low heat for about 20 minutes or until vegetables are tender.",
+    "Season with salt and serve over raclette grill as a dessert.",
+    "Enjoy this indulgent ethiopian dish!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "ethiopian-dish",
+    "ground-clove-dessert",
+    "indulgent-recipe",
+    "raclette-grill-special"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "indulgent-ethiopian-cloves-azifa-raclette-grill",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-ethiopian-cloves-azifa-raclette-grill",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T04:14:43Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "pressure-cook",
+    "primaryIngredient": "ground clove",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "cloves",
+    "descriptor": "Indulgent",
+    "dishForm": "Azifa Raclette Grill"
+  }
+}
