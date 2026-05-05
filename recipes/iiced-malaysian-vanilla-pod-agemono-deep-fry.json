@@ -1,0 +1,89 @@
+{
+  "title": "Iced Malaysian Vanilla Pod Agemono-Deep-Fry",
+  "description": "A crowd-pleaser Malaysian dish featuring vanilla pod, agemono-deep-fry, and a sweet and salty flavor profile. Perfect for sugar-free friendly diets.",
+  "cuisine": "malaysian",
+  "diet": [
+    "sugar-free",
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vanilla pod",
+      "amount": "1",
+      "notes": "2-inch piece"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/2 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Ice-cold water",
+      "amount": "1 cup",
+      "notes": "for tempura batter"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine flour, bread crumbs, and salt in a bowl and mix well"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fry",
+    "easy-to-make",
+    "malaysian-cuisine",
+    "snack-food",
+    "sweet-savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "iiced-malaysian-vanilla-pod-agemono-deep-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/iiced-malaysian-vanilla-pod-agemono-deep-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:36Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "vanilla pod",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "vanilla pod",
+    "descriptor": "iiced",
+    "dishForm": "agemono-deep-fry"
+  }
+}

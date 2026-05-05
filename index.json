@@ -363,6 +363,20 @@
     "shard": "i"
   },
   {
+    "slug": "iiced-malaysian-vanilla-pod-agemono-deep-fry",
+    "title": "Iced Malaysian Vanilla Pod Agemono-Deep-Fry",
+    "tags": [
+      "deep-fry",
+      "easy-to-make",
+      "malaysian-cuisine",
+      "snack-food",
+      "sweet-savory"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "iickily-aerated-turkish-lamb-tagine",
     "title": "Iickily Aerated Turkish Lamb Tagine",
     "tags": [
@@ -1623,6 +1637,22 @@
     ],
     "cuisine": "mediterranean",
     "totalTimeMin": 27,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-peruvian-fish-ceviche",
+    "title": "Indulgent Peruvian Fish Ceviche",
+    "tags": [
+      "ceviche",
+      "deep-fried",
+      "fish",
+      "herbal",
+      "peruvian",
+      "rum",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
