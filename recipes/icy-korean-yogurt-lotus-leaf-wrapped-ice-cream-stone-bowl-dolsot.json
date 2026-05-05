@@ -1,0 +1,75 @@
+{
+  "title": "Icy Korean Yogurt Lotus-Leaf-Wrapped Ice Cream Stone-Bowl-Dolsot",
+  "description": "This icy treat features a tender, malty ice cream wrapped in lotus leaves and served in a stone-bowl-dolsot for an Asian-inspired dessert.",
+  "cuisine": "Korean & Kenyan fusion",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "yogurt",
+      "amount": 500
+    },
+    {
+      "name": "coconut milk",
+      "amount": 250
+    },
+    {
+      "name": "ice cream base mix (vanilla, chocolate, or any flavor you like)",
+      "amount": 100
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "several"
+    },
+    {
+      "name": "stone bowl-dolsot",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Prepare the ice cream base by mixing yogurt and coconut milk. Add your chosen flavor base.",
+    "Chill the prepared ice cream in a refrigerator for at least an hour.",
+    "Wash and dry lotus leaves, then slice them to fit around your ice cream container.",
+    "Place a piece of sliced lotus leaf on the stone-bowl-dolsot. Spoon the chilled ice cream into the lotus leaf.",
+    "Carefully place the stone bowl-dolsot with the wrapped ice cream over boiling water or steam for about 10 minutes to melt and soften the leaves slightly.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "ice-cream",
+    "korean-fusion",
+    "lotus-leaf",
+    "yogurt-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "icy-korean-yogurt-lotus-leaf-wrapped-ice-cream-stone-bowl-dolsot",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-korean-yogurt-lotus-leaf-wrapped-ice-cream-stone-bowl-dolsot",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T08:05:00Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "ice cream",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Icy",
+    "dishForm": "Lotus-Leaf-Wrapped Ice Cream Stone-Bowl-Dolsot"
+  }
+}
