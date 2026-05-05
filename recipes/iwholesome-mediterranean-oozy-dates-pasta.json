@@ -1,0 +1,92 @@
+{
+  "title": "Iwholesome Mediterranean Oozy Dates Pasta",
+  "description": "A grassy and gooey mediterranean dish for date-night featuring tomato sauce, brine-wet dates, and other anti-inflammatory-friendly ingredients.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": 200
+    },
+    {
+      "name": "tomato sauce",
+      "amount": 150
+    },
+    {
+      "name": "dates",
+      "amount": 8,
+      "notes": "washed and pitted"
+    },
+    {
+      "name": "olive oil",
+      "amount": 100
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4,
+      "notes": "minced"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": 2
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": 1
+    },
+    {
+      "name": "basil leaves",
+      "amount": 5
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add dates, garlic, red pepper flakes, and thyme to the skillet.",
+    "Stir for about 2 minutes until the dates are softened and fragrant.",
+    "Pour tomato sauce into the skillet and stir well to combine with the date mixture.",
+    "Bring to a simmer and cook for another minute or two.",
+    "Add pasta to the skillet, toss well to coat evenly in the sauce.",
+    "Garnish with fresh basil leaves before serving.",
+    "prepTimeMin: 15",
+    "cookTimeMin: 30",
+    "totalTimeMin: 45",
+    "servings: 4",
+    "difficulty: medium",
+    "tags: mediterranean-dinner, anti-inflammatory-friendly, one-pan",
+    "nutrition: {calories: 420, protein: 18, carbs: 70, fat: 16}"
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mediterranean",
+    "dinner"
+  ],
+  "slug": "iwholesome-mediterranean-oozy-dates-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/iwholesome-mediterranean-oozy-dates-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T18:52:25Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "brine-wet",
+    "primaryIngredient": "tomato sauce",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Dates",
+    "descriptor": "Wholesome",
+    "dishForm": "Pasta"
+  }
+}
