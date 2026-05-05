@@ -142,6 +142,20 @@
     "shard": "i"
   },
   {
+    "slug": "icy-algerian-manchego-stone-bowl-dolsot",
+    "title": "icy algerian manchego stone-bowl-dolsot",
+    "tags": [
+      "algerian",
+      "breakfast",
+      "fodmap-friendly",
+      "gluten-free",
+      "manchego"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 28,
+    "shard": "i"
+  },
+  {
     "slug": "icy-applesauce-glazed-slovakian-pork-wrap",
     "title": "icy applesauce-glazed slovakian pork wrap",
     "tags": [
@@ -2038,6 +2052,19 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-spanish-rice-noodles-noodles",
+    "title": "Spanish Style Vermicelli Noodles",
+    "tags": [
+      "comfort-food",
+      "one-pan",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {

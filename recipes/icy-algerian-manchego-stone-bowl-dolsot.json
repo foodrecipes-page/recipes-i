@@ -1,0 +1,113 @@
+{
+  "title": "icy algerian manchego stone-bowl-dolsot",
+  "description": "grassy and creamy brunch dish featuring manchego cheese served in a hot stone bowl. inspired by algerian cuisine and fodmap-friendly.",
+  "cuisine": "algerian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "manchego cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "grass-fed butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "harissa",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coarse stone-ground mustard",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the stone bowl in a 450f oven for 10 minutes.",
+    "remove the stone bowl from the oven and add the olive oil, swirling to coat.",
+    "add the chopped almonds and cook for 2-3 minutes, or until fragrant.",
+    "add the manchego cheese and cook for 2-3 minutes, or until melted and bubbly.",
+    "stir in the chopped parsley, mint, harissa, lemon juice, salt, and pepper.",
+    "serve immediately, garnished with additional parsley and almonds if desired.",
+    "repeat the cooking process for the remaining servings.",
+    "serve immediately, garnished with additional parsley and almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "breakfast",
+    "fodmap-friendly",
+    "gluten-free",
+    "manchego"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "icy-algerian-manchego-stone-bowl-dolsot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-algerian-manchego-stone-bowl-dolsot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:39:37Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "manchego",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Manchego",
+    "descriptor": "Icy",
+    "dishForm": "Stone-Bowl-Dolsot"
+  }
+}
