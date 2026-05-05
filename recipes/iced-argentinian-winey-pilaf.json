@@ -1,0 +1,109 @@
+{
+  "title": "Iced Argentinian Winey Pilaf",
+  "description": "A hearty, comforting pilaf perfect for a sick day. This recipe simmers the pilaf in red wine for a rich, complex flavor.",
+  "cuisine": "argentinian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "white rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "iced water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large salt-block skillet over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the ground black pepper and cook for 1 minute, until fragrant.",
+    "Add the uncooked white rice and cook for 2 minutes, until lightly toasted.",
+    "Add the red wine and chicken broth, and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 20 minutes, until the liquid has been absorbed and the rice is tender.",
+    "Stir in the iced water and serve hot, garnished with fresh parsley.",
+    "Let the pilaf cool to room temperature, then refrigerate for at least 2 hours or overnight.",
+    "Reheat the pilaf over low heat, adding a splash of iced water if necessary to achieve the desired consistency.",
+    "Serve the pilaf hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "comfort-food",
+    "red-wine",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 15
+  },
+  "slug": "iced-argentinian-winey-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/iced-argentinian-winey-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:55Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "simmer",
+    "primaryIngredient": "pepper",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Winey",
+    "descriptor": "Iced",
+    "dishForm": "Pilaf"
+  }
+}
