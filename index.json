@@ -1006,6 +1006,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-icy-grassy-indian-snappy-gulab-jamun",
+    "title": "Indulgent Icy Grassy Indian Snappy Gulab Jamun",
+    "tags": [
+      "chilled-desserts",
+      "gulab-jamun",
+      "indian-desserts",
+      "north-indian-cuisine",
+      "show-off-desserts",
+      "whole30-friendly-desserts"
+    ],
+    "cuisine": "north Indian",
+    "totalTimeMin": 75,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-indian-tiger-prawns-rasam",
     "title": "Indulgent Indian Tiger Prawns Rasam",
     "tags": [
@@ -4382,6 +4397,20 @@
     ],
     "cuisine": "slovakian",
     "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-earthy-syrian-avocado-tagine",
+    "title": "Intensely Earthy Syrian Avocado Tagine",
+    "tags": [
+      "charcoal",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {

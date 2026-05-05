@@ -1,0 +1,135 @@
+{
+  "title": "Indulgent Icy Grassy Indian Snappy Gulab Jamun",
+  "description": "North Indian-inspired dumplings made with 00-flour and served in agave leaves, finished with a beurre-monte and a hint of grassy notes. This show-off dessert is perfect for a special occasion.",
+  "cuisine": "north Indian",
+  "diet": [
+    "vegetarian",
+    "whole30-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "00 flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "icing sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "agar agar powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "",
+      "beurre monte ingredients": [
+        "heavy cream",
+        "icing sugar"
+      ]
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "icing sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine 00 flour, chickpea flour, and almonds in a bowl. Mix well and set aside.",
+    "In a separate bowl, mix butter, ghee, and water until the butter is fully melted.",
+    "Add the agar agar powder and salt to the butter mixture and stir until dissolved.",
+    "Heat the mixture over medium heat and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes, or until the mixture has thickened slightly.",
+    "Add the rose water and stir well.",
+    "Add the flour mixture to the butter mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes, until it becomes smooth and elastic.",
+    "Divide the dough into 12 equal pieces and shape each piece into a small ball.",
+    "Heat ghee in a deep frying pan over medium-high heat.",
+    "Fry the dumplings until they are golden brown and puffed up.",
+    "Drain the fried dumplings on paper towels and set aside.",
+    "To make the beurre monte, whip the heavy cream until stiff peaks form.",
+    "Add the icing sugar and whip until combined.",
+    "Serve the fried dumplings in agave leaves with a dollop of beurre monte on top.",
+    "Garnish with chopped almonds and a sprinkle of icing sugar.",
+    "Chill the dessert in the refrigerator for at least 30 minutes before serving.",
+    "Serve chilled and enjoy!",
+    "Garnish with fresh rose petals and a sprinkle of icing sugar, if desired.",
+    "Store any leftover dessert in an airtight container in the refrigerator for up to 3 days.",
+    "Freeze the dessert for up to 2 months and thaw at room temperature when ready to serve."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "chilled-desserts",
+    "gulab-jamun",
+    "indian-desserts",
+    "north-indian-cuisine",
+    "show-off-desserts",
+    "whole30-friendly-desserts"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "indulgent-icy-grassy-indian-snappy-gulab-jamun",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-icy-grassy-indian-snappy-gulab-jamun",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:37Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "beurre-monte",
+    "primaryIngredient": "00-flour",
+    "diet": "whole30",
+    "region": "north",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "snappy",
+    "descriptor": "Indulgent Icy Grassy",
+    "dishForm": "Gulab Jamun"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Intensely Earthy Syrian Avocado Tagine",
+  "description": "A Syrian-inspired, earthy, and velvety dish featuring avocado, perfect for a festive occasion. This recipe combines rich flavors and textures with the added depth of binchotan charcoal.",
+  "cuisine": "Syrian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": "Ripe avocados are essential for this recipe."
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 cup",
+      "notes": "Binchotan charcoal adds a rich, earthy flavor to the dish."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": "This sweet and tangy ingredient is a staple in Syrian cuisine."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley adds a pop of color and freshness to the dish."
+    }
+  ],
+  "instructions": [
+    "Heat binchotan charcoal in a charcoal chimney until it's lit and smoldering.",
+    "In a large clay or ceramic pot, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it's translucent and slightly caramelized.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the diced avocado and cook for 2-3 minutes, until it starts to soften.",
+    "Add the pomegranate molasses, cumin, coriander, paprika, salt, and black pepper. Stir to combine.",
+    "Stir in the chopped fresh parsley and cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "Serve the Intensely Earthy Syrian Avocado Tagine hot, garnished with additional parsley if desired.",
+    "Let the dish rest for 10-15 minutes before serving to allow the flavors to meld together.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "This tagine can be made ahead of time and refrigerated for up to 3 days or frozen for up to 2 months.",
+    "To reheat, simply place the dish over low heat and stir in some additional olive oil if needed.",
+    "This recipe is best served with a side of crusty bread or over couscous.",
+    "This dish is naturally gluten-free, making it a great option for those with gluten intolerance or sensitivity."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "charcoal",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "intensely-earthy-syrian-avocado-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-earthy-syrian-avocado-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:32Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "avocado",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "avocado",
+    "descriptor": "intensely earthy",
+    "dishForm": "Tagine"
+  }
+}
