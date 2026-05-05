@@ -1,0 +1,104 @@
+{
+  "title": "Indulgent Vietnamese Fish Mi Quang",
+  "description": "A briny, crispy Vietnamese dish featuring dried oregano and lacquer-glaze, perfect for a weeknight dinner.",
+  "cuisine": "vietnamese",
+  "meal": "dinner",
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "ingredients": [
+    {
+      "name": "Fish (Grouper or Snapper)",
+      "amount": "1 pound",
+      "notes": "Fresh and firm"
+    },
+    {
+      "name": "Lacquer Glaze (or substitute with 2 tablespoons soy sauce)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice Noodles (Mi Quang)",
+      "amount": "1 cup",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together lacquer glaze, rice vinegar, and sesame oil. Add the dried oregano and mix well.",
+    "Cut the fish into small pieces and season with salt. Add the fish to the bowl with the lacquer glaze mixture and toss to coat.",
+    "Heat a large skillet over medium-high heat. Add the fish and cook for 3-4 minutes per side, or until cooked through.",
+    "While the fish is cooking, cook the rice noodles according to package instructions. Drain and set aside.",
+    "In a small bowl, mix together the bean sprouts and chopped cilantro.",
+    "To assemble the mi quang, place a portion of cooked noodles on a plate, then top with a piece of cooked fish, some bean sprouts, and a sprinkle of cilantro.",
+    "Drizzle the remaining lacquer glaze mixture over the top of the dish and serve immediately.",
+    "Serve with additional cilantro and bean sprouts on the side, if desired."
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "vietnamese",
+    "weeknight"
+  ],
+  "slug": "indulgent-vietnamese-fish-mi-quang",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-vietnamese-fish-mi-quang",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:21Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "dried oregano",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "fish",
+    "descriptor": "Indulgent",
+    "dishForm": "Mi Quang"
+  }
+}

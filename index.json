@@ -1474,6 +1474,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-middle-eastern-shredded-phyllo-knafeh",
+    "title": "Indulgent Middle Eastern Shredded Phyllo Knafeh",
+    "tags": [
+      "dessert",
+      "knafeh",
+      "middle-eastern",
+      "shredded-phyllo",
+      "tagine"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-molten-polish-shrimp-paste-dumplings",
     "title": "Indulgent Molten Polish Shrimp Paste Dumplings",
     "tags": [
@@ -2328,6 +2342,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 15,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-vietnamese-fish-mi-quang",
+    "title": "Indulgent Vietnamese Fish Mi Quang",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "pescatarian",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {

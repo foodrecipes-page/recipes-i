@@ -1,0 +1,104 @@
+{
+  "title": "Indulgent Middle Eastern Shredded Phyllo Knafeh",
+  "description": "A classic Middle Eastern dessert-like dish made with shredded phyllo, cheese, and a tangy syrup. This version features a tagine-cooked syrup and a crunchy, sweet topping.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package (usually 28 sheets)",
+      "notes": "Thaw according to package instructions."
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen, thawed."
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 cup",
+      "notes": "Melted."
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": "White sugar."
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "Sifted."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Regular table salt."
+    },
+    {
+      "name": "Rose water",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for flavor."
+    },
+    {
+      "name": "Orange blossom water",
+      "amount": "1 teaspoon",
+      "notes": "Optional, for flavor."
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tablespoon",
+      "notes": "Whole or ground, toasted."
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "1 cup",
+      "notes": "Optional, for garnish."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit (190 degrees Celsius).",
+    "Cut the phyllo dough into 1-inch (2.5 cm) squares and layer in a 9x13 inch (23x33 cm) baking dish, brushing with melted butter between each layer.",
+    "In a large skillet, combine the sugar, flour, and salt. Cook over medium heat, stirring constantly, until the mixture turns a deep golden brown, about 8-10 minutes.",
+    "Add the rose water, orange blossom water, and mustard seeds to the skillet and stir to combine, cooking for 1-2 minutes more."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "knafeh",
+    "middle-eastern",
+    "shredded-phyllo",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 20,
+    "carbs": 120,
+    "fat": 30
+  },
+  "slug": "indulgent-middle-eastern-shredded-phyllo-knafeh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-middle-eastern-shredded-phyllo-knafeh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:53Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "tagine-cook",
+    "primaryIngredient": "mustard",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Shredded phyllo",
+    "descriptor": "Indulgent",
+    "dishForm": "Knafeh"
+  }
+}
