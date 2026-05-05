@@ -1,0 +1,90 @@
+{
+  "title": "iCrispy iFestive Episses Lacquerware-Bowl",
+  "description": "A gluten-free umami and crisp festive Malaysian dish featuring epoisses in a lacquerware-bowl vessel.",
+  "cuisine": "Malaysian",
+  "diet": [
+    null,
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Epoisses",
+      "amount": 4
+    },
+    {
+      "name": "Onion",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Capers",
+      "amount": "10"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "a few pinch"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a lacquerware-bowl.",
+    "Add onion and sauté until soft.",
+    "Add garlic, capers, and red pepper flakes. Sauté for another minute.",
+    "Combine soy sauce with garlic powder. Pour over the mixture and stir well to coat all ingredients evenly.",
+    "Simmer gently until thickened slightly.",
+    "Garnish with chopped epoisses on top of the dish.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "episses",
+    "festive",
+    "gluten-free",
+    "lacquerware-bowl",
+    "malaysian",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 297,
+    "protein": 16,
+    "carbs": 31,
+    "fat": 14
+  },
+  "slug": "i-crispy-i-festive-episses-lacquerware-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/i-crispy-i-festive-episses-lacquerware-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T07:57:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "soffritto-base",
+    "primaryIngredient": "epoisses",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "epoisses",
+    "descriptor": "iCrispy iFestive",
+    "dishForm": "Bowl"
+  }
+}
