@@ -1,0 +1,85 @@
+{
+  "title": "Ivy-Green Australian Pea Salt-Block Pilaf",
+  "description": "A floral and springy crowd-pleaser featuring vegetable stock, rest-meat, and a unique salt-block cooking method.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ivy Leaves",
+      "amount": "10"
+    },
+    {
+      "name": "Fresh Green Peas",
+      "amount": "200g"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "150g"
+    },
+    {
+      "name": "Mixed Greens (Basil, Mint)",
+      "amount": "50g"
+    },
+    {
+      "name": "Vegetable Stock Cube",
+      "amount": ""
+    },
+    {
+      "name": "Salt Block",
+      "amount": ""
+    },
+    {
+      "name": "Coarse Salt",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Slice the Ivy Leaves into thin strips.",
+    "Wash and roughly chop the Fresh Green Peas.",
+    "Thinly slice the Chicken Breast, remove bones if any.",
+    "Finely chop Mixed Greens (Basil, Mint).",
+    "Crush the Vegetable Stock Cube to a paste with water.",
+    "Gently cook the salt block at medium heat until hot but not smoking.",
+    "Place the Salt Block on a flat surface and add the crushed Vegetable Stock.",
+    "Place the Chicken Breast and Peas onto the Salt Block, cover with foil if necessary.",
+    "Cook for 10 minutes covered, then remove the foil for the last few minutes of cooking to create a flavorful crust.",
+    "Once done, carefully transfer the mixture from the Salt Block to a plate or serving dish.",
+    "Garnish with chopped Mixed Greens and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "floral-dish",
+    "springy-recipe",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 17,
+    "fat": 9
+  },
+  "slug": "ivy-green-australian-pea-salt-block-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ivy-green-australian-pea-salt-block-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T05:54:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "rest-meat",
+    "primaryIngredient": "vegetable stock",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Peas",
+    "descriptor": "Ivy-Green",
+    "dishForm": "Pilaf"
+  }
+}
