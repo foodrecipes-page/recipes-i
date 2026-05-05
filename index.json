@@ -58,6 +58,20 @@
     "shard": "i"
   },
   {
+    "slug": "iced-norteno-tacos-quesadilla",
+    "title": "Iced Norteño Tacos Quesadilla",
+    "tags": [
+      "flexitarian-friendly",
+      "high-protein",
+      "lazy-sunday",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "iced-peppery-dutch-beef-roast",
     "title": "Iced Peppery Dutch Beef Roast",
     "tags": [
@@ -976,6 +990,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 32,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-irish-soda-bread-gratin",
+    "title": "Indulgent Irish Soda Bread Gratin",
+    "tags": [
+      "barbecue",
+      "gratin",
+      "irish",
+      "soda-bread",
+      "sugar-free"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {

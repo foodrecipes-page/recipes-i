@@ -1,0 +1,93 @@
+{
+  "title": "Indulgent Irish Soda Bread Gratin",
+  "description": "A rich Irish dish featuring fermented, flaky soda bread topped with a tangy BBQ sauce and broiled to perfection. Perfect for a weekend dinner or special occasion.",
+  "cuisine": "Irish",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "use a high-protein flour for a more tender crumb"
+    },
+    {
+      "name": "baking soda",
+      "amount": "4 teaspoons",
+      "notes": "make sure it's fresh for best results"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use kosher salt for a more complex flavor"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": "you can make a substitute by mixing 1 cup of milk with 1 tablespoon of white vinegar"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "use high-quality, European-style butter for the best flavor"
+    },
+    {
+      "name": "BBQ sauce",
+      "amount": "1 cup",
+      "notes": "use a sugar-free BBQ sauce to keep the dish friendly to those with dietary restrictions"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "use a high-quality, sharp cheddar for the best flavor"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 tablespoons",
+      "notes": "use the leaves and buds of the thyme plant for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large mixing bowl, whisk together the flour, baking soda, and salt.",
+    "Add the buttermilk and mix the dough until it comes together in a shaggy mass.",
+    "Turn the dough out onto a floured surface and knead it for 5-7 minutes, until it becomes smooth and elastic."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "barbecue",
+    "gratin",
+    "irish",
+    "soda-bread",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 30,
+    "carbs": 120,
+    "fat": 40
+  },
+  "slug": "indulgent-irish-soda-bread-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-irish-soda-bread-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "broil",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "soda bread",
+    "descriptor": "indulgent",
+    "dishForm": "Gratin"
+  }
+}
