@@ -1,0 +1,89 @@
+{
+  "title": "indulgent quick mediterranean runner beans stir-fry",
+  "description": "a quick-fix mediterranean dish featuring runner beans that's spicy, silky, and vegetarian-friendly. perfect for a weeknight dinner.",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "250g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "hummus",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the garlic and cook for 1 minute, until fragrant.",
+    "add the chili flakes and cook for another minute, until fragrant.",
+    "add the runner beans and cook for 3-4 minutes, until they start to soften.",
+    "add the lemon juice, hummus, parsley, salt, and black pepper to the skillet.",
+    "stir everything together and cook for another minute, until the runner beans are tender but still crisp.",
+    "transfer the stir-fry to a bamboo steamer and serve hot"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "indulgent-quick-mediterranean-runner-beans-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-quick-mediterranean-runner-beans-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:00Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "brine-wet",
+    "primaryIngredient": "runner beans",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "runner beans",
+    "descriptor": "Indulgent Quick",
+    "dishForm": "Stir-fry"
+  }
+}

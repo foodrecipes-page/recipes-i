@@ -1,0 +1,85 @@
+{
+  "title": "Intense Italian Ricotta Risotto",
+  "description": "A creamy Ligurian risotto featuring dried red chillies and a hint of nuttiness. Perfect for adventurous meal times.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Risotto Arborio",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "500ml",
+      "notes": "homemade or store-bought, low-sodium"
+    },
+    {
+      "name": "Dried red chillies",
+      "amount": "3-4",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "50g",
+      "notes": "grated or shaved"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "150g",
+      "notes": "whole milk or reduced-fat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large, heavy-bottomed saucepan over medium heat.",
+    "Add the Arborio rice and cook, stirring constantly, for 1-2 minutes, until the rice is coated in oil and slightly toasted.",
+    "Add the vegetable broth, 1 ladle at a time, stirring constantly and allowing each ladle to be fully absorbed before adding the next.",
+    "Cook for 20-25 minutes, or until the rice is tender and creamy, stirring frequently."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "italian",
+    "ligurian",
+    "low-sodium",
+    "one-pan",
+    "ricotta",
+    "risotto",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intense-italian-ricotta-risotto",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-italian-ricotta-risotto",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "deglaze",
+    "primaryIngredient": "dried red chillies",
+    "diet": "low-sodium",
+    "region": "ligurian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "ricotta",
+    "descriptor": "Intense",
+    "dishForm": "Risotto"
+  }
+}

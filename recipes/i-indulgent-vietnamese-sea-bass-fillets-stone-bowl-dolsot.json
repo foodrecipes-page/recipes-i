@@ -1,0 +1,106 @@
+{
+  "title": "Indulgent Vietnamese Sea Bass Fillets Stone-Bowl-Dolsot",
+  "description": "A salty, crisp, and satisfying Vietnamese date-night dish featuring halal-friendly sea bass fillets and stone-bowl-dolsot. Perfect for a romantic evening at home.",
+  "cuisine": "vietnamese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4"
+    },
+    {
+      "name": "veggie dolsot rice",
+      "amount": "300g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "60g"
+    },
+    {
+      "name": "shallots",
+      "amount": "4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "120ml",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "60ml",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "30ml",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "sugar",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Season the sea bass fillets with salt and set aside.",
+    "Heat the unsalted butter in a large skillet over medium-high heat.",
+    "Sear the sea bass fillets for 2-3 minutes on each side, or until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "Meanwhile, prepare the stone-bowl-dolsot by stirring in the veggie dolsot rice with a fork, then adding the soy sauce, fish sauce, and dark soy sauce.",
+    "Add the thinly sliced shallots and minced garlic to the skillet and saut\u0006e for 1-2 minutes, or until fragrant.",
+    "Stir in the chopped lemongrass and cook for an additional 1 minute.",
+    "To assemble the dish, place a cooked sea bass fillet on top of the rice in the stone bowl.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 14,
+  "totalTimeMin": 34,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "romantic",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 45,
+    "fat": 25
+  },
+  "slug": "i-indulgent-vietnamese-sea-bass-fillets-stone-bowl-dolsot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/i-indulgent-vietnamese-sea-bass-fillets-stone-bowl-dolsot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:23Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "sea bass fillets",
+    "descriptor": "i indulgent",
+    "dishForm": "stone-bowl-dolsot"
+  }
+}

@@ -15,6 +15,19 @@
     "shard": "i"
   },
   {
+    "slug": "i-indulgent-vietnamese-sea-bass-fillets-stone-bowl-dolsot",
+    "title": "Indulgent Vietnamese Sea Bass Fillets Stone-Bowl-Dolsot",
+    "tags": [
+      "date-night",
+      "high-protein",
+      "romantic",
+      "vietnamese"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 34,
+    "shard": "i"
+  },
+  {
     "slug": "i-sali-puy-lentils-stew",
     "title": "I咸 Sali Puy-lentils Stew",
     "tags": [
@@ -1175,6 +1188,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-jamaican-sweet-potatoes-bake",
+    "title": "Indulgent Jamaican Sweet Potatoes Bake",
+    "tags": [
+      "comfort-food",
+      "family-dinner",
+      "gluten-free",
+      "jamaican-cuisine",
+      "sweet-potato",
+      "vegan"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 65,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-japanese-cheese-stir-fry",
     "title": "Indulgent Japanese Cheese Stir-fry",
     "tags": [
@@ -1695,6 +1723,19 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-quick-mediterranean-runner-beans-stir-fry",
+    "title": "indulgent quick mediterranean runner beans stir-fry",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 15,
     "shard": "i"
   },
   {
@@ -3181,6 +3222,22 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-italian-ricotta-risotto",
+    "title": "Intense Italian Ricotta Risotto",
+    "tags": [
+      "italian",
+      "ligurian",
+      "low-sodium",
+      "one-pan",
+      "ricotta",
+      "risotto",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {

@@ -1,0 +1,102 @@
+{
+  "title": "Indulgent Jamaican Sweet Potatoes Bake",
+  "description": "A fresh, silky, comforting Jamaican dish featuring gochujang and caramelized sweetness, perfect for a family dinner.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 lbs",
+      "notes": "large, unpeeled"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp",
+      "notes": "korean chili paste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and chop the sweet potatoes into 1-inch cubes.",
+    "In a large bowl, mix together the coconut oil, gochujang, brown sugar, cinnamon, nutmeg, and salt.",
+    "Add the chopped sweet potatoes to the bowl and toss to coat with the spice mixture.",
+    "Transfer the sweet potatoes to a 9x13 inch baking dish and cover with foil.",
+    "Bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the sweet potatoes are tender and caramelized.",
+    "Stir in the coconut milk and chopped cilantro.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "family-dinner",
+    "gluten-free",
+    "jamaican-cuisine",
+    "sweet-potato",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "indulgent-jamaican-sweet-potatoes-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-jamaican-sweet-potatoes-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "caramelize",
+    "primaryIngredient": "gochujang",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Indulgent",
+    "dishForm": "Bake"
+  }
+}
