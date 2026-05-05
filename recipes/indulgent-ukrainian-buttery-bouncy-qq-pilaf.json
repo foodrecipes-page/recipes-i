@@ -1,0 +1,84 @@
+{
+  "title": "indulgent ukrainian buttery bouncy-qq pilaf",
+  "description": "a creamy, citrusy pilaf dish from Ukraine, perfect for a comforting meal. Features a delicate balance of flavors and textures from the unwaxed lemon and fresh herbs.",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup",
+      "notes": "uncooked, preferably day-old rice for better bounciness"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tablespoons",
+      "notes": "softened to room temperature for better distribution"
+    },
+    {
+      "name": "unwaxed lemon",
+      "amount": "1 medium",
+      "notes": "juiced and zested for added brightness and depth"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "macrobiotic-friendly store-bought or homemade broth for added hydration"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish and added freshness"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish and added freshness"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": "for added depth and balance"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375\u00191 fahrenheit for a crispy crust on top"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "spring",
+    "ukrainian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 7,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "indulgent-ukrainian-buttery-bouncy-qq-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-ukrainian-buttery-bouncy-qq-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:09:59Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "rest",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Buttery Bouncy-qq",
+    "descriptor": "Indulgent",
+    "dishForm": "Pilaf"
+  }
+}
