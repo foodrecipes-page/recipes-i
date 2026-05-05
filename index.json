@@ -490,6 +490,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-brazilian-cheese-pao",
+    "title": "indulgent brazilian cheese pao",
+    "tags": [
+      "brazilian",
+      "cheese",
+      "flatbread",
+      "indulgent",
+      "tandoor",
+      "weeknight"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-brazilian-cornmeal-stew",
     "title": "Indulgent Brazilian Cornmeal Stew",
     "tags": [
@@ -1384,6 +1399,19 @@
     "tags": [
       "polish",
       "lunch"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-polish-dijon-mustard-bisque",
+    "title": "Indulgent Polish Dijon Mustard Bisque",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "soups",
+      "weeknight"
     ],
     "cuisine": "Polish",
     "totalTimeMin": 40,

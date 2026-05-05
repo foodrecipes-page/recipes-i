@@ -1,0 +1,121 @@
+{
+  "title": "indulgent brazilian cheese pao",
+  "description": "a rich, cheesy flatbread featuring a tender crust and a velvety, slightly bitter cheese pull. perfect for snacking or as a side dish.",
+  "cuisine": "brazilian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "tandoor flour",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "egg replacer",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "10g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "mix warm water and yeast in a large bowl and let sit for 10 minutes",
+    "add tandoor flour, salt, egg replacer, and vegetable stock to the bowl and mix until a shaggy dough forms",
+    "knead the dough for 10 minutes until smooth and elastic",
+    "place the dough in a lightly oiled bowl, cover with plastic wrap, and let rise in a warm place for 1 hour",
+    "preheat a tandoor oven to 450°f (230°c)",
+    "punch down the dough and divide it into 2-3 equal pieces, depending on desired size",
+    "roll out each piece of dough into a thin circle",
+    "brush the tops with olive oil and sprinkle with shredded cheese and minced garlic",
+    "cook in the tandoor oven for 10-12 minutes, or until the crust is golden brown and the cheese is melted and bubbly",
+    "remove from the tandoor and brush with unsalted butter",
+    "sprinkle with fresh parsley and black pepper",
+    "serve warm and enjoy",
+    "let cool for at least 10 minutes before slicing and serving"
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 15,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "cheese",
+    "flatbread",
+    "indulgent",
+    "tandoor",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 120,
+    "fat": 60
+  },
+  "slug": "indulgent-brazilian-cheese-pao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-brazilian-cheese-pao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:07Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "tandoor",
+    "primaryIngredient": "vegetable stock",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "indulgent",
+    "dishForm": "Pao"
+  }
+}
