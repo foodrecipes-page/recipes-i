@@ -677,6 +677,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-cream-mediterranean-yeast-paella",
+    "title": "Indulgent Cream Mediterranean Yeast Paella",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-creamy-venezuelan-almonds-gratin",
     "title": "Indulgent Creamy Venezuelan Almonds Gratin",
     "tags": [
@@ -3835,6 +3849,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-spicy-italian-almonds-pasta",
+    "title": "intense spicy italian almonds pasta",
+    "tags": [
+      "gluten-free",
+      "italian-cuisine",
+      "one-pan",
+      "plant-based",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "intense-spicy-mexican-hominy-pozole",
     "title": "Intense Spicy Mexican Hominy Pozole",
     "tags": [
@@ -4442,6 +4471,20 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-flavored-spanish-peas-patatas-bravas-style",
+    "title": "Intensely Flavored Spanish Peas Patatas-Bravas Style",
+    "tags": [
+      "flambe",
+      "one-pan",
+      "patatas-bravas",
+      "spanish-peas",
+      "vegan-option"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 18,
     "shard": "i"
   },
   {

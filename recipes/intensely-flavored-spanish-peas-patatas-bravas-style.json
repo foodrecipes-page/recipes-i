@@ -1,0 +1,104 @@
+{
+  "title": "Intensely Flavored Spanish Peas Patatas-Bravas Style",
+  "description": "A briny, silky, quick-fix Spanish dish featuring split peas and a flambe effect, served with a hot stone plate, no onion, no garlic.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Split peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "Spanish smoked paprika (pimenton) is recommended."
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Use if you prefer a spicier version."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Helps maintain the briny flavor."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tablespoons",
+      "notes": "For the starch to thicken the sauce."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "For the flambe effect."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a saucepan over medium heat.",
+    "Add the smoked paprika and red pepper flakes, cook for 1 minute, stirring constantly.",
+    "Add the salt and black pepper, stir to combine.",
+    "Add the split peas, water, and white wine vinegar to the saucepan, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 8 minutes, or until the peas are tender.",
+    "Mix the flour with a little water to make a slurry, then stir it into the pea mixture.",
+    "Increase the heat to medium, add the butter, and flambe until the sauce thickens. Serve hot on a hot stone plate."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 10,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flambe",
+    "one-pan",
+    "patatas-bravas",
+    "spanish-peas",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "intensely-flavored-spanish-peas-patatas-bravas-style",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flavored-spanish-peas-patatas-bravas-style",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:31Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "flambe",
+    "primaryIngredient": "split peas",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "spanish",
+    "mainIngredient": "peas",
+    "descriptor": "intensely flavored",
+    "dishForm": "patatas-bravas style"
+  }
+}

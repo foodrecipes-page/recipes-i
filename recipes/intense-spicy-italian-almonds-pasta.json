@@ -1,0 +1,101 @@
+{
+  "title": "intense spicy italian almonds pasta",
+  "description": "a peppery, chewy italian dish featuring speculaas spice mix and bhuna, inspired by venetian cuisine.",
+  "cuisine": "italian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "250g",
+      "notes": "chopped"
+    },
+    {
+      "name": "pasta",
+      "amount": "300g",
+      "notes": "spaghetti"
+    },
+    {
+      "name": "speculaas spice mix",
+      "amount": "2tsp"
+    },
+    {
+      "name": "bhuna",
+      "amount": "1tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "50ml"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a kadhai over medium heat.",
+    "add the garlic and sauté for 1 minute.",
+    "add the speculaas spice mix and bhuna and stir for 30 seconds.",
+    "add the pasta and cook for 8 minutes, or until al dente.",
+    "add the almonds, red chili flakes, lemon juice, salt, and black pepper, and stir to combine.",
+    "cook for an additional 2 minutes.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "italian-cuisine",
+    "one-pan",
+    "plant-based",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intense-spicy-italian-almonds-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-spicy-italian-almonds-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "bhuna",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "ayurvedic-tamasic",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "almonds",
+    "descriptor": "Intense Spicy",
+    "dishForm": "Pasta"
+  }
+}

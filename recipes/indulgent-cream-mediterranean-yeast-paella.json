@@ -1,0 +1,100 @@
+{
+  "title": "Indulgent Cream Mediterranean Yeast Paella",
+  "description": "A rich and creamy Paella dish loaded with Mediterranean flavors and a hint of yeast.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mediterranean-spiced Sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Air-fried Shrimp",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vinaigrette Dressing",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large hot pot vessel over medium heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the Mediterranean-spiced sausage and cook until browned, about 5 minutes.",
+    "Add the rice and cook for 2 minutes, stirring constantly.",
+    "Add 2 cups of water and bring to a boil. ",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "While the paella is cooking, air-fry the shrimp until pink and cooked through.",
+    "Stir in yeast, vinaigrette dressing, salt, and black pepper.",
+    "Taste and adjust seasoning as needed.",
+    "Serve the paella hot, garnished with chopped fresh parsley and air-fried shrimp on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 22
+  },
+  "slug": "indulgent-cream-mediterranean-yeast-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-cream-mediterranean-yeast-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:50Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "air-fry",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "yeast",
+    "descriptor": "Indulgent cream",
+    "dishForm": "Paella"
+  }
+}
