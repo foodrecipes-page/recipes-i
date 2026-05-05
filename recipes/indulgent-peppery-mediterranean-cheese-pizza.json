@@ -1,0 +1,80 @@
+{
+  "title": "Indulgent Peppery Mediterranean Cheese Pizza",
+  "description": "A rich, flavorful pizza featuring a peppery twist on classic Mediterranean ingredients. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "mediterranean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pizza dough",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Tomato ketchup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "low-fat-friendly option: reduce to 6 oz or use part-skim mozzarella"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Roll out the pizza dough to a thickness of 1/4 inch.",
+    "Spread the tomato ketchup evenly over the dough, leaving a 1-inch border around the edges.",
+    "Top with mozzarella and feta cheese.",
+    "Add the Kalamata olives on top of the cheese.",
+    "Season with black pepper to taste.",
+    "Bake for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 2 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "low-fat-friendly",
+    "mediterranean",
+    "pizza",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 24
+  },
+  "slug": "indulgent-peppery-mediterranean-cheese-pizza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-peppery-mediterranean-cheese-pizza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:08:19Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "steam",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Cheese",
+    "descriptor": "Indulgent Peppery",
+    "dishForm": "Pizza"
+  }
+}

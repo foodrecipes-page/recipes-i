@@ -1425,6 +1425,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-peppery-mediterranean-cheese-pizza",
+    "title": "Indulgent Peppery Mediterranean Cheese Pizza",
+    "tags": [
+      "cheese-pull",
+      "low-fat-friendly",
+      "mediterranean",
+      "pizza",
+      "weeknight"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 27,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-peruvian-quinoa-picarones",
     "title": "Indulgent Peruvian Quinoa Picarones",
     "tags": [
