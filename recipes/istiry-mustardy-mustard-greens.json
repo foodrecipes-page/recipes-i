@@ -1,0 +1,103 @@
+{
+  "title": "Istiry Mustardy Mustard Greens",
+  "description": "A creamy, monsoon-inspired dish featuring rice wine and mustard greens in a gluten-free-friendly tandoor-clay-pot. Perfect for a warm evening meal.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mustard Greens",
+      "amount": 300,
+      "notes": "2 cups washed and chopped"
+    },
+    {
+      "name": "Rice Wine",
+      "amount": 150,
+      "notes": "6 oz (170 ml)"
+    },
+    {
+      "name": "Garlic",
+      "amount": 4,
+      "notes": "cloves minced"
+    },
+    {
+      "name": "Onion",
+      "amount": 2,
+      "notes": "slices thinly"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": 5,
+      "notes": "about a teaspoon"
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": 10,
+      "notes": "about a tablespoon"
+    },
+    {
+      "name": "Cardamom Pods",
+      "amount": 4,
+      "notes": "2 pods whole"
+    },
+    {
+      "name": "Rice Wine Vinegar",
+      "amount": 30,
+      "notes": "5 ml (1 tsp)"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": 75,
+      "notes": "1/3 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": 2,
+      "notes": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat the tandoor-clay-pot over medium heat.",
+    "Add mustard seeds and cumin seeds to the pot. Stir-fry for about 1 minute until aromatic.",
+    "Add garlic and onion slices to the pot. Cook for another minute, stirring occasionally.",
+    "Pour in rice wine, coconut milk, and add salt. Stir well.",
+    "Place mustard greens on top of the mixture and cover with a sheet of parchment paper. Place the pot in a bain-marie over simmering water (20-30°C temperature difference).",
+    "Cook for 25 minutes, ensuring the greens are tender but not mushy. Check occasionally to prevent scorching.",
+    "Gently fold the mustard greens into the rice wine and onion mixture using tongs or a spoon.",
+    "Serve immediately with a side of rice or naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mediterranean-style",
+    "mustard-based"
+  ],
+  "nutrition": {
+    "calories": 356,
+    "protein": 12,
+    "carbs": 27,
+    "fat": 18
+  },
+  "slug": "istiry-mustardy-mustard-greens",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/istiry-mustardy-mustard-greens",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T16:06:36Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "bain-marie",
+    "primaryIngredient": "rice wine",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "mustard greens",
+    "descriptor": "Mustardy",
+    "dishForm": "Pilaf"
+  }
+}
