@@ -1,0 +1,82 @@
+{
+  "title": "IComforting MiddleEastern Sweetened Condensed Milk Fatteh",
+  "description": "A herbal, bouncy-qq, comforting middle-eastern dish featuring sweetened condensed milk, spherify in a low-sodium-friendly fatteh. Perfect for a warm and cozy dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweetened condensed milk",
+      "amount": 200
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pomegranate juice",
+      "amount": "6 oz"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mixed herbs (oregano, parsley)",
+      "amount": "to taste"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "30 g"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine sweetened condensed milk, almond flour, pomegranate juice, vanilla extract, cooking oil, mixed herbs (oregano and parsley), baking soda, and nutritional yeast.",
+    "Stir until all ingredients are fully incorporated and the mixture thickens and reaches a thick pudding-like consistency.",
+    "Cook at 190°C for 30 minutes or until golden brown. Remove from heat and let it cool slightly before spherifying with a cooking emulsifier or cornstarch solution to achieve a bouncy texture.",
+    "Serve chilled as a fatteh, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "herbaceous",
+    "low-sodium",
+    "sweet-dessert"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 18,
+    "carbs": 92,
+    "fat": 36
+  },
+  "slug": "icomforting-middle-eastern-sweetened-condensed-milk-fatteh",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/icomforting-middle-eastern-sweetened-condensed-milk-fatteh",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T14:23:02Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "spherify",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "MiddleEastern",
+    "mainIngredient": "sweetened_condensed_milk",
+    "descriptor": "IComforting",
+    "dishForm": "Fatteh"
+  }
+}
