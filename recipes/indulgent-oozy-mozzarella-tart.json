@@ -1,0 +1,84 @@
+{
+  "title": "Indulgent Oozy Mozzarella Tart",
+  "description": "A sweet, crispy, indulgent Slovakian dish featuring a creamy mozzarella filling baked in a crisp crust for a low-fat-friendly option.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "low-fat cream cheese",
+      "amount": 100
+    },
+    {
+      "name": "milk powder",
+      "amount": 50
+    },
+    {
+      "name": "unsalted butter",
+      "amount": 40
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": 30
+    },
+    {
+      "name": "low-fat mozzarella cheese",
+      "amount": 200
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": 1
+    },
+    {
+      "name": "sugar",
+      "amount": 150
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees F.",
+    "Mix cream cheese, milk powder, butter, flour, mozzarella, vanilla extract, and baking powder in a bowl until smooth.",
+    "Pour mixture into a prepared tart shell or mold.",
+    "Bake for 20 minutes, then reduce heat to 350 degrees F and bake an additional 15-20 minutes until golden brown.",
+    "Cool slightly before serving with a drizzle of sugar over top if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized",
+    "crispy",
+    "low-fat",
+    "sweet",
+    "vanilla-flavored"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 15,
+    "carbs": 34,
+    "fat": 7
+  },
+  "slug": "indulgent-oozy-mozzarella-tart",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-oozy-mozzarella-tart",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T04:21:04Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "fry",
+    "primaryIngredient": "mozzarella",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Indulgent",
+    "dishForm": "Pastry"
+  }
+}

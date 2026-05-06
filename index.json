@@ -1657,6 +1657,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-oozy-mozzarella-tart",
+    "title": "Indulgent Oozy Mozzarella Tart",
+    "tags": [
+      "caramelized",
+      "crispy",
+      "low-fat",
+      "sweet",
+      "vanilla-flavored"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-peppery-mediterranean-cheese-pizza",
     "title": "Indulgent Peppery Mediterranean Cheese Pizza",
     "tags": [
