@@ -1,0 +1,91 @@
+{
+  "title": "Izzy Garlicky Chicken Stew",
+  "description": "A vibrant and flavorful monsoon-inspired German dish featuring chicken stock cube, served as a hearty dinner.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken stock cube",
+      "amount": 1
+    },
+    {
+      "name": "onions",
+      "amount": 2,
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4,
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": 3,
+      "notes": "chopped"
+    },
+    {
+      "name": "celery stalks",
+      "amount": 2,
+      "notes": "finely sliced"
+    },
+    {
+      "name": "pepper flakes",
+      "amount": 1,
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (176°C).",
+    "In a large pot, sauté onions and garlic in olive oil until translucent.",
+    "Add carrots and celery; stir well.",
+    "Pour in chicken stock cube. Bring to boil then reduce heat.",
+    "Simmer for 20 minutes with pepper flakes added last 5 minutes.",
+    "Divide stew into bowls and serve hot.",
+    "For extra crunch, chill stews slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "crispy",
+    "garlicky",
+    "german",
+    "monsoon"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "izzy-garlicky-chicken-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/izzy-garlicky-chicken-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T22:08:05Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Chicken",
+    "descriptor": "Garlicky",
+    "dishForm": "Stew"
+  }
+}
