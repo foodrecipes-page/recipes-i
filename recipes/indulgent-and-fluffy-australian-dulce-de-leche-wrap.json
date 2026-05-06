@@ -1,0 +1,100 @@
+{
+  "title": "Indulgent and Fluffy Australian Dulce de Leche Wrap",
+  "description": "A rich and indulgent vegetarian wrap filled with fluffy goodness of Australian-inspired dulce de leche, crunchy katsuramuki-cut vegetables, and fragrant herbs, all wrapped in a delicate ti-leaf, perfect as a dessert or snack.",
+  "cuisine": "australian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ti-leaf wraps",
+      "amount": "4"
+    },
+    {
+      "name": "katsuramuki-cut zucchini",
+      "amount": "1 large",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "katsuramuki-cut red bell pepper",
+      "amount": "1 large",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "dulce de leche",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sweetened coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crystallized ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crushed macadamia nuts",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wrap each ti-leaf in a damp paper towel and microwave for 20 seconds to make pliable.",
+    "In a large bowl, mix together zucchini, red bell pepper, dulce de leche, sweetened coconut flakes, crystallized ginger, and honey until well combined.",
+    "Add chopped fresh mint and crushed macadamia nuts to the bowl and mix well.",
+    "Place about 1/2 cup of the zucchini mixture onto the center of each ti-leaf wrap, leaving a 1-inch border around the edges.",
+    "Fold the bottom edge up over the filling, then fold in the sides and roll up the wrap to form a cylinder.",
+    "Place the rolls seam-side down on a baking sheet lined with parchment paper, and bake for 12-15 minutes, or until the ti-leaf wraps are crispy and golden brown.",
+    "Serve warm.",
+    "Dust with powdered sugar, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "crunchy",
+    "dessert",
+    "easy-to-make",
+    "fluffy",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "indulgent-and-fluffy-australian-dulce-de-leche-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-and-fluffy-australian-dulce-de-leche-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:42Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "dulce de leche",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "dulce de leche",
+    "descriptor": "indulgent and fluffy",
+    "dishForm": "Wrap"
+  }
+}

@@ -55,6 +55,20 @@
     "shard": "i"
   },
   {
+    "slug": "iced-and-light-middle-eastern-pita-bread-wrap",
+    "title": "Iced and Light Middle Eastern Pita Bread Wrap",
+    "tags": [
+      "fodmap-friendly",
+      "gluten-free",
+      "low-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 20,
+    "shard": "i"
+  },
+  {
     "slug": "iced-argentinian-winey-pilaf",
     "title": "Iced Argentinian Winey Pilaf",
     "tags": [
@@ -611,6 +625,22 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-and-fluffy-australian-dulce-de-leche-wrap",
+    "title": "Indulgent and Fluffy Australian Dulce de Leche Wrap",
+    "tags": [
+      "australian",
+      "crunchy",
+      "dessert",
+      "easy-to-make",
+      "fluffy",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {

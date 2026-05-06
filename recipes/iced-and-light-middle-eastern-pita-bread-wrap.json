@@ -1,0 +1,111 @@
+{
+  "title": "Iced and Light Middle Eastern Pita Bread Wrap",
+  "description": "A brunch-inspired twist on traditional pita bread, featuring a tangy yogurt sauce, crunchy shichimi togarashi, and a refreshing corn-husk wrap.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    null,
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Corn Husk Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt Sauce",
+      "amount": "8 oz",
+      "notes": "Plain, unflavored, low-lactose or non-dairy yogurt works best."
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "1/2 cup",
+      "notes": "Soft, lightly toasted pita bread works best."
+    },
+    {
+      "name": "Shichimi Togarashi",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste for spice level."
+    },
+    {
+      "name": "Temper",
+      "amount": "1 tsp",
+      "notes": "Middle Eastern spice blend, adjust to taste."
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional, for garnish."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tsp",
+      "notes": "Freshly squeezed, for brightness."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp",
+      "notes": "For brushing pita bread."
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "Optional, for sweetness."
+    }
+  ],
+  "instructions": [
+    "Place a small spoonful of yogurt sauce on the toasted pita bread.",
+    "Sprinkle a pinch of shichimi togarashi and temper over the yogurt sauce.",
+    "Add a sprinkle of salt and black pepper to taste.",
+    "Drizzle a small amount of lemon juice over the filling.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "low-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "iced-and-light-middle-eastern-pita-bread-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/iced-and-light-middle-eastern-pita-bread-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:01Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "temper",
+    "primaryIngredient": "shichimi-togarashi",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Pita Bread",
+    "descriptor": "Iced and Light",
+    "dishForm": "Wrap"
+  }
+}
