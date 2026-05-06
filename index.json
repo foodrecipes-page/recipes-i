@@ -1132,6 +1132,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-iced-argentinian-peanuts-pilaf",
+    "title": "Indulgent Iced Argentinian Peanuts Pilaf",
+    "tags": [
+      "argentinian-cuisine",
+      "high-protein",
+      "mediterranean-friendly",
+      "monsoon-inspired",
+      "one-pan",
+      "rich-umami-flavors",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-icy-grassy-indian-snappy-gulab-jamun",
     "title": "Indulgent Icy Grassy Indian Snappy Gulab Jamun",
     "tags": [
@@ -4783,6 +4799,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 18,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-flavored-syrian-dash-tagine",
+    "title": "Syrian Dash Tagine",
+    "tags": [
+      "date-night",
+      "low-carb",
+      "one-pan",
+      "syrian",
+      "tagine",
+      "umami"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 42,
     "shard": "i"
   },
   {

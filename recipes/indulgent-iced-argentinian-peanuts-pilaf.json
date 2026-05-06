@@ -1,0 +1,120 @@
+{
+  "title": "Indulgent Iced Argentinian Peanuts Pilaf",
+  "description": "A monsoon-inspired Argentinian dish featuring peanuts, lamination puff, and rich umami flavors, perfect for a Mediterranean-friendly vessel like a dolsot stone bowl.",
+  "cuisine": "Argentinian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "1 cup",
+      "notes": "raw peanuts"
+    },
+    {
+      "name": "Lamination puff pastry",
+      "amount": "1 package",
+      "notes": "frozen"
+    },
+    {
+      "name": "Argentinian chorizo",
+      "amount": "4 links",
+      "notes": ""
+    },
+    {
+      "name": "Red onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 400°F (200°C).",
+    "Thaw the lamination puff pastry according to the package instructions.",
+    "Cook the Argentinian chorizo in a pan over medium heat until browned, about 5 minutes.",
+    "Add the thinly sliced red onions and cook until they start to caramelize, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Roll out the thawed puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Place the cooked chorizo, onions, and garlic mixture in the center of the pastry.",
+    "Sprinkle the shredded Parmesan cheese over the filling.",
+    "Brush the edges of the pastry with olive oil and fold the pastry over the filling to form a triangle or rectangle shape.",
+    "Place the pastry in the preheated oven and bake for 20-25 minutes, or until golden brown.",
+    "While the pastry is baking, cook the peanuts in a pan over medium heat until fragrant, about 5 minutes.",
+    "When the pastry is done, remove it from the oven and let it cool for a few minutes.",
+    "Place the cooked peanuts in a dolsot stone bowl and top with the warm pastry.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian-cuisine",
+    "high-protein",
+    "mediterranean-friendly",
+    "monsoon-inspired",
+    "one-pan",
+    "rich-umami-flavors",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 30,
+    "carbs": 80,
+    "fat": 70
+  },
+  "slug": "indulgent-iced-argentinian-peanuts-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-iced-argentinian-peanuts-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:52:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "lamination-puff",
+    "primaryIngredient": "peanuts",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "peanuts",
+    "descriptor": "Indulgent Iced",
+    "dishForm": "Pilaf"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Syrian Dash Tagine",
+  "description": "Sweet and savory, this tagine features the umami flavors of dashi and a crunchy agave leaf vessel. It's perfect for a low-carb date-night dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Agave leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Dashi broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Dates",
+      "amount": "6",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Place the agave leaves on a baking sheet lined with parchment paper.",
+    "In a large pan, heat the coconut oil over medium heat.",
+    "Add the sliced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the cumin and smoked paprika, stir to combine.",
+    "Add the dashi broth, scraping the bottom of the pan to release any browned bits.",
+    "Bring the mixture to a simmer and let cook for 10 minutes.",
+    "Add the chicken breast to the pan and cook until cooked through, about 10-12 minutes.",
+    "Meanwhile, bake the agave leaves in the preheated oven for 10-12 minutes, or until crispy.",
+    "To assemble the dish, place a cooked agave leaf on a plate, then add the cooked chicken and spoon some of the tagine sauce over the top.",
+    "Garnish with pitted dates and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 22,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "low-carb",
+    "one-pan",
+    "syrian",
+    "tagine",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 24,
+    "fat": 38
+  },
+  "slug": "intensely-flavored-syrian-dash-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flavored-syrian-dash-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:52:30Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "emulsify",
+    "primaryIngredient": "dashi",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Dash",
+    "descriptor": "Intensely flavored",
+    "dishForm": "Tagine"
+  }
+}
