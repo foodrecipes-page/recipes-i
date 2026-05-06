@@ -1,0 +1,110 @@
+{
+  "title": "Indulgent Egyptian Dry Sherry Bisque",
+  "description": "A unique and decadent soup that combines the richness of dry sherry with the exotic flavors of Egypt. Perfect for a special occasion or a romantic dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dry sherry",
+      "amount": "1 cup",
+      "notes": "dry sherry, not sweet sherry"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped onion"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed lemon juice"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "raw honey"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "ground nutmeg"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup",
+      "notes": "full-fat coconut cream"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the dry sherry in a large saucepan over medium heat until it starts to simmer.",
+    "Add the chopped onion and cook until it's translucent and slightly caramelized.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the lemon juice, honey, cinnamon, nutmeg, and cayenne pepper (if using). Cook for 2 minutes, stirring constantly.",
+    "Pour in the coconut cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the soup simmer for 10 minutes, stirring occasionally.",
+    "Use an immersion blender to puree the soup until smooth. If you don't have an immersion blender, you can transfer the soup to a blender in batches and blend until smooth.",
+    "Return the soup to the saucepan and season with salt to taste.",
+    "To spherify the soup, carefully pour it into a piping bag fitted with a round tip.",
+    "Pipe the soup into a container filled with ice water and wait for the soup to set.",
+    "Once the soup is set, remove it from the ice water and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast-for-dinner",
+    "indulgent",
+    "paleo",
+    "sherry",
+    "spherified"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "indulgent-egyptian-dry-sherry-bisque",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-egyptian-dry-sherry-bisque",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:04:32Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "spherify",
+    "primaryIngredient": "dry sherry",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Dry Sherry",
+    "descriptor": "Indulgent",
+    "dishForm": "Bisque"
+  }
+}

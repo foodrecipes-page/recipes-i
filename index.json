@@ -1024,6 +1024,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-egyptian-dry-sherry-bisque",
+    "title": "Indulgent Egyptian Dry Sherry Bisque",
+    "tags": [
+      "breakfast-for-dinner",
+      "indulgent",
+      "paleo",
+      "sherry",
+      "spherified"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-ethiopian-beef-tibs",
     "title": "Ethiopian Beef Tibs",
     "tags": [
@@ -1870,6 +1884,22 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-polish-vanilla-pod-polish-pudding",
+    "title": "Indulgent Polish Vanilla Pod Pudding",
+    "tags": [
+      "comfort-food",
+      "dessert",
+      "high-calorie",
+      "polish-cuisine",
+      "rich",
+      "smoked",
+      "vanilla"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
