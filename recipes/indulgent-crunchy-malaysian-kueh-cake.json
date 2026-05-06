@@ -1,0 +1,115 @@
+{
+  "title": "Indulgent Crunchy Malaysian Kueh Cake",
+  "description": "A sweet and crunchy Malaysian dessert featuring a jammy center and a crunchy exterior, made with sugar-free golden syrup and emulsified using Manteca.",
+  "cuisine": "Malaysian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Golden Syrup (sugar-free)",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Manteca",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Condensed Milk",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Palm Sugar Syrup",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Desiccated Coconut",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Nuts (e.g. almonds)",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Line a 20cm (8-inch) round cake pan with parchment paper.",
+    "Mix flour, baking powder, and salt in a medium bowl.",
+    "In a large bowl, cream together Manteca and unsalted butter until light and fluffy.",
+    "Add sugar-free golden syrup and mix until well combined.",
+    "Beat in egg yolks one at a time.",
+    "Gradually add flour mixture, then mix in condensed milk and palm sugar syrup.",
+    "Pour batter into prepared cake pan and smooth top.",
+    "Bake for 35 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from oven and let cool in pan for 5 minutes before transferring to a wire rack to cool completely.",
+    "Before serving, top with a mixture of crushed nuts, desiccated coconut, and a drizzle of palm sugar syrup."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "indulgent",
+    "kueh",
+    "malaysian-cake",
+    "party-favor",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "indulgent-crunchy-malaysian-kueh-cake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-crunchy-malaysian-kueh-cake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:57:16Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "golden syrup",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "kueh",
+    "descriptor": "indulgent crunchy",
+    "dishForm": "cake"
+  }
+}
