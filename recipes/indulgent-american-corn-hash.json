@@ -1,0 +1,100 @@
+{
+  "title": "Indulgent American Corn Hash",
+  "description": "A crispy, mustardy, one-pot American dish featuring mirin and mantecare-emulsified",
+  "cuisine": "american",
+  "diet": [
+    "sugar-free",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "2 cups",
+      "notes": "fresh or frozen, defrosted"
+    },
+    {
+      "name": "margarine",
+      "amount": "2 tablespoons",
+      "notes": "chilled"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "agave syrup",
+      "amount": "2 tablespoons",
+      "notes": "or other sugar substitute"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the margarine in a large skillet over medium heat.",
+    "Add the smoked paprika and cook, stirring constantly, for 1 minute.",
+    "Add the corn kernels and cook, stirring occasionally, for 5 minutes.",
+    "Add the mirin, mustard, salt, and black pepper, and cook, stirring constantly, for 1 minute.",
+    "Use a spatula to gently fold the mixture towards the center of the pan, creating a crispy exterior.",
+    "Continue cooking and folding for an additional 2-3 minutes, until the corn is golden brown and crispy.",
+    "Stir in the chopped cilantro and cook for 1 minute more.",
+    "Transfer the hash to a serving vessel made from agave leaves, or a shallow dish.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "gluten-free",
+    "sugar-free",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "indulgent-american-corn-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-american-corn-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:48:35Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "mirin",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Corn",
+    "descriptor": "Indulgent",
+    "dishForm": "Hash"
+  }
+}

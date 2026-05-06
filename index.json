@@ -570,6 +570,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-american-corn-hash",
+    "title": "Indulgent American Corn Hash",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "gluten-free",
+      "sugar-free",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-american-pork-dumplings",
     "title": "Indulgent American Pork Dumplings",
     "tags": [
