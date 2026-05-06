@@ -6055,5 +6055,22 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 14,
     "shard": "i"
+  },
+  {
+    "slug": "izzy-mustardy-oozing-turkish-delight-pilaf",
+    "title": "Izzy Mustardy Oozing Turkish-Delight Pilaf",
+    "tags": [
+      "agave-leaf",
+      "dumpling",
+      "healthy",
+      "low-carb",
+      "mustard",
+      "one-pot",
+      "saudi-arabian",
+      "turkish-delight"
+    ],
+    "cuisine": "Saudia-Arabian",
+    "totalTimeMin": 35,
+    "shard": "i"
   }
 ]

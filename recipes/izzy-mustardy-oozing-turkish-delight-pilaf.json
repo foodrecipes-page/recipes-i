@@ -1,0 +1,73 @@
+{
+  "title": "Izzy Mustardy Oozing Turkish-Delight Pilaf",
+  "description": "A low-carb-friendly, one-pot saudi-arabian dish featuring turkish delight and dumplings in a mustardy sauce cooked in an agave leaf vessel.",
+  "cuisine": "Saudia-Arabian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "turkish delight",
+      "amount": 1,
+      "notes": "high-quality brand"
+    },
+    {
+      "name": "dumplings",
+      "amount": 2
+    },
+    {
+      "name": "mustard seeds",
+      "amount": 1
+    },
+    {
+      "name": "agave leaf",
+      "amount": 1
+    }
+  ],
+  "instructions": [
+    "Combine the mustard seeds with Turkish delight in a pot.",
+    "Add dumplings to the pot and stir well.",
+    "Cover the pot and cook on medium heat until everything is heated through.",
+    "Carefully transfer the mixture to an agave leaf for presentation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "agave-leaf",
+    "dumpling",
+    "healthy",
+    "low-carb",
+    "mustard",
+    "one-pot",
+    "saudi-arabian",
+    "turkish-delight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 7,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "izzy-mustardy-oozing-turkish-delight-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/izzy-mustardy-oozing-turkish-delight-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T19:20:39Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "dum",
+    "primaryIngredient": "turkish delight",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mustardy",
+    "mainIngredient": "Turkish-Delight",
+    "descriptor": "Oozing",
+    "dishForm": "Pilaf"
+  }
+}
