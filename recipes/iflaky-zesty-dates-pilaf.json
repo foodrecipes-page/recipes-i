@@ -1,0 +1,97 @@
+{
+  "title": "Iflaky Zesty Dates Pilaf",
+  "description": "A cozy Croatian vegan-friendly meal featuring a mix of sour and flaky ingredients in a pilaf style dish.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "1 cup diced onion",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup diced bell peppers",
+      "amount": ""
+    },
+    {
+      "name": "1 can (14.5 oz) crushed tomatoes",
+      "amount": "can"
+    },
+    {
+      "name": "3 dates, pitted and chopped",
+      "amount": "dates"
+    },
+    {
+      "name": "1 tbsp lemon juice",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 tsp dried oregano",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 cup vegan butter or olive oil",
+      "amount": "cup"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "Toasted pine nuts, for garnish (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water and drain well.",
+    "In a large skillet or wok, heat vegan butter or olive oil over medium-high heat.",
+    "Add onions and bell peppers; sauté until translucent about 5 minutes.",
+    "Stir in crushed tomatoes, dates, lemon juice, cumin, and oregano. Mix well.",
+    "Gradually add quinoa to the skillet while stirring constantly for about 3-4 minutes.",
+    "Season with salt and pepper to taste. Serve hot, garnished with pine nuts if desired.",
+    "Enjoy your homemade Iflaky Zesty Dates Pilaf!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "easytogether",
+    "quickmeal",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 10,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "iflaky-zesty-dates-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/iflaky-zesty-dates-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T17:31:04Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "score-fat",
+    "primaryIngredient": "sugars",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Zesty",
+    "mainIngredient": "Dates",
+    "descriptor": "Flaky",
+    "dishForm": "Pilaf"
+  }
+}
