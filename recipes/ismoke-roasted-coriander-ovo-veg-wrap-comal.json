@@ -1,0 +1,77 @@
+{
+  "title": "ISmoke-Roasted Coriander Ovo-Veg Wrap Comal",
+  "description": "A Brazilian-inspired dish featuring ground coriander, smoke-hot flavor, and packed with ovo-vegetarian-friendly ingredients cooked in a comal for an easy brunch-time meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 cups ground coriander",
+      "amount": "cup"
+    },
+    {
+      "name": "1 avocado, diced",
+      "amount": "cup"
+    },
+    {
+      "name": "1 small red onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "clove"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine ground coriander, avocado, red onion, garlic, lime juice, salt, and pepper.",
+    "Mix well until all ingredients are evenly distributed.",
+    "Divide the mixture into four wrap portions.",
+    "Place each portion of the mixture in a comal (griddle) preheated at 200°C for about 10 minutes or until fully cooked and crispy.",
+    "Serve hot as a wrap."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "avocado",
+    "coriander",
+    "griddle",
+    "smoke-hot"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 3,
+    "fat": 2
+  },
+  "slug": "ismoke-roasted-coriander-ovo-veg-wrap-comal",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ismoke-roasted-coriander-ovo-veg-wrap-comal",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T08:01:48Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "smoke-hot",
+    "primaryIngredient": "ground coriander",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "coriander",
+    "descriptor": "Smoke-Roasted",
+    "dishForm": "Wrap"
+  }
+}
