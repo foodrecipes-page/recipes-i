@@ -1,0 +1,106 @@
+{
+  "title": "intensely dense spanish octopus paella",
+  "description": "a traditional spanish dish originating from galicia, featuring caramelized octopus and a sweet caramel sauce, great as a main course or a festive celebration",
+  "cuisine": "spanish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "octopus",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "saffron",
+      "amount": "3g",
+      "notes": "high-quality, Spanish saffron for authentic flavor"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "20g",
+      "notes": "fresh parsley for garnish"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large iron teppan over medium-high heat",
+    "add the garlic and cook for 1 minute, stirring occasionally",
+    "add the smoked paprika and cook for 1 minute, stirring constantly",
+    "add the cannellini beans and cook for 2 minutes, stirring occasionally",
+    "add the arborio rice and cook for 2 minutes, stirring constantly",
+    "add the chicken broth and bring to a boil",
+    "add the saffron and cook for 5 minutes, stirring occasionally",
+    "add the caramel sauce and stir to combine",
+    "add the cooked octopus and stir to combine",
+    "season with salt and black pepper to taste",
+    "garnish with fresh parsley and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "caramel",
+    "festive",
+    "main-course",
+    "one-pan",
+    "seafood",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 56,
+    "carbs": 76,
+    "fat": 24
+  },
+  "slug": "intensely-dense-spanish-octopus-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-dense-spanish-octopus-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "caramel sauce",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "octopus",
+    "descriptor": "intensely dense",
+    "dishForm": "Paella"
+  }
+}
