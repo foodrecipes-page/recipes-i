@@ -1,0 +1,92 @@
+{
+  "title": "Icy Zanzibari Almond Pancakes",
+  "description": "These nutty and flaky almond pancakes are energizing with a touch of tomato juice and grilled almonds. Perfect for a middle-eastern-inspired snack or light meal.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": 150
+    },
+    {
+      "name": "almond butter",
+      "amount": 40
+    },
+    {
+      "name": "milk",
+      "amount": 200
+    },
+    {
+      "name": "eggs",
+      "amount": 2
+    },
+    {
+      "name": "turmeric powder",
+      "amount": 1
+    },
+    {
+      "name": "coarse salt",
+      "amount": 1
+    },
+    {
+      "name": "ground cumin",
+      "amount": 1
+    },
+    {
+      "name": "tomato juice",
+      "amount": 60
+    },
+    {
+      "name": "almonds",
+      "amount": 25
+    },
+    {
+      "name": "garlic powder",
+      "amount": 1
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Mix flour, almond butter, milk, eggs, turmeric, salt, cumin, and tomato juice in a bowl.",
+    "Heat a non-stick skillet or griddle and add enough oil for cooking.",
+    "Pour batter onto heated skillet and let cook until golden brown on bottom.",
+    "Gently place grilled almonds between the pancakes as they cool slightly.",
+    "Serve with additional tomato juice and freshly chopped garlic powder.",
+    "Enjoy as an energizing snack or light meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "nutty",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 18,
+    "carbs": 32,
+    "fat": 9
+  },
+  "slug": "icy-zanzibari-almond-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-zanzibari-almond-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T18:35:14Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "grill",
+    "primaryIngredient": "tomato juice",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Almonds",
+    "descriptor": "Icy",
+    "dishForm": "Pancakes"
+  }
+}
