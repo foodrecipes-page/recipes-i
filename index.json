@@ -4019,6 +4019,23 @@
     "shard": "i"
   },
   {
+    "slug": "intense-romantical-mexican-birria-birria",
+    "title": "Intense, Romantical Mexican Birria Birra",
+    "tags": [
+      "birria",
+      "high-fiber",
+      "low-carb",
+      "mexican",
+      "one-pan",
+      "plant-based",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "intense-russian-toor-dal-soup",
     "title": "Intense Russian Toor Dal Soup",
     "tags": [
@@ -5276,6 +5293,23 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-peppery-middle-eastern-pork-shoulder-clay-pot-roast",
+    "title": "Intensely Peppery Middle-Eastern Pork Shoulder Clay Pot-Roast",
+    "tags": [
+      "clay-pot",
+      "flexitarian",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "pork",
+      "slow-cooker",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 300,
     "shard": "i"
   },
   {

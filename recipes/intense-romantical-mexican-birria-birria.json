@@ -1,0 +1,65 @@
+{
+  "title": "Intense, Romantical Mexican Birria Birra",
+  "description": "A rich and flavorful dish from Jalisco, with tender meat and a vibrant, pillowy sauce. This recipe is plant-based friendly and served in a delicate pandan leaf wrap.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pandan leaves",
+      "amount": "4-6 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Passata",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and saut\u00001e the onion, garlic, and ginger until softened."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "birria",
+    "high-fiber",
+    "low-carb",
+    "mexican",
+    "one-pan",
+    "plant-based",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "intense-romantical-mexican-birria-birria",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-romantical-mexican-birria-birria",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:28:54Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "soffritto-base",
+    "primaryIngredient": "passata",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Birria",
+    "descriptor": "Intense, Romantical",
+    "dishForm": "Birria"
+  }
+}
