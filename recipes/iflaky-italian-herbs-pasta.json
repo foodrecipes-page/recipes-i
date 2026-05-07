@@ -1,0 +1,83 @@
+{
+  "title": "Iflaky Italian Herbs Pasta",
+  "description": "A herbal, flaky pasta dish that's a crowd-pleaser and suitable for jain-friendly diets. Capers add a briny flavor that complements the dish well.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne",
+      "amount": 200
+    },
+    {
+      "name": "Water",
+      "amount": null,
+      "notes": "Boiling water to cook pasta"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": 15
+    },
+    {
+      "name": "Red Wine (optional)",
+      "amount": 100
+    },
+    {
+      "name": "Capers",
+      "amount": 100
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": 2
+    },
+    {
+      "name": "Dry White Pepper",
+      "amount": null,
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add capers and garlic; sauté for about 1 minute until softened.",
+    "If using red wine, pour it into the pan with the garlic and capers. Let simmer for another 2 minutes or until slightly reduced.",
+    "Cook pasta according to package directions in boiling water until al dente.",
+    "Drain pasta and return half of it back into the cooking pan with oil and ingredients.",
+    "Add remaining pasta to the mixture, tossing gently.",
+    "Taste and add more salt if needed. Garnish with pepper before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "flaky",
+    "herbal",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 10
+  },
+  "slug": "iflaky-italian-herbs-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/iflaky-italian-herbs-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T07:37:19Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "flambe",
+    "primaryIngredient": "capers",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Herbs",
+    "descriptor": "Flaky",
+    "dishForm": "Pasta"
+  }
+}
