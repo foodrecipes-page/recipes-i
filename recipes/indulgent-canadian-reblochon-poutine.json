@@ -1,0 +1,92 @@
+{
+  "title": "Indulgent Canadian Reblochon Poutine",
+  "description": "A rich, savory, comforting Canadian dish featuring sweet and nutty Reblochon cheese, crispy fries, and an anti-inflammatory-friendly namul-blanch-season.",
+  "cuisine": "Canadian",
+  "diet": [
+    "Gluten-Free",
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "medium Reblochon cheese, sliced",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "namul-blanch-season",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "grass-fed beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cold-pressed canola oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "french fries, cooked",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh chives",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Melt butter in a saucepan over low heat. Add namul-blanch-season and whisk to combine. Add Reblochon cheese, a slice at a time, whisking until smooth and melted. Add beef broth, whisk until combined. Bring to a simmer and cook until heated through. Fry french fries in cold-pressed canola oil until crispy. Drain fries on paper towels. In a large serving dish, spread a layer of fries. Pour Reblochon sauce over fries. Top with additional fries and chopped chives, if using."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "dairy",
+    "gluten-free",
+    "reblochon",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 46,
+    "fat": 36
+  },
+  "slug": "indulgent-canadian-reblochon-poutine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-canadian-reblochon-poutine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:11:59Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "reblochon",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "reblochon",
+    "descriptor": "indulgent",
+    "dishForm": "poutine"
+  }
+}

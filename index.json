@@ -842,6 +842,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-canadian-reblochon-poutine",
+    "title": "Indulgent Canadian Reblochon Poutine",
+    "tags": [
+      "canadian",
+      "comfort-food",
+      "dairy",
+      "gluten-free",
+      "reblochon",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-chewy-syrian-bulgur-pilaf",
     "title": "Indulgent Chewy Syrian Bulgur Pilaf",
     "tags": [
