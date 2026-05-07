@@ -1,0 +1,107 @@
+{
+  "title": "indulgent norwegian brie fritters",
+  "description": "crispy fried brie balls coated in a sweet coconut-cream-crack batter, perfect for a decadent snack or dessert",
+  "cuisine": "norwegian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "brie cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "chilled"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, puree the chilled coconut cream until smooth.",
+    "In a medium bowl, whisk together the flour, sugar, and salt.",
+    "Add the sugar, flour, and salt mixture to the blender with the coconut cream and blend until well combined.",
+    "In a separate bowl, whisk together the eggs and milk.",
+    "Add the egg mixture to the blender and blend until smooth.",
+    "Stir in the vanilla extract.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the batter to chill.",
+    "When ready to fry, heat about 2-3 inches of vegetable oil in a deep frying pan over medium-high heat until it reaches 350°F.",
+    "Using a cookie scoop or spoon, drop the chilled batter by tablespoonfuls into the hot oil.",
+    "Fry the fritters for about 2-3 minutes on each side, or until golden brown and crispy.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Repeat the process with the remaining batter, being careful not to overcrowd the pan.",
+    "Serve the fritters warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "cheese",
+    "coconut",
+    "deep-fried",
+    "dessert",
+    "fritters",
+    "indulgent",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 24,
+    "carbs": 64,
+    "fat": 56
+  },
+  "slug": "indulgent-norwegian-brie-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-norwegian-brie-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:21:59Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "brie",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "brie",
+    "descriptor": "indulgent",
+    "dishForm": "Fritters"
+  }
+}

@@ -1824,6 +1824,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-norwegian-brie-fritters",
+    "title": "indulgent norwegian brie fritters",
+    "tags": [
+      "cheese",
+      "coconut",
+      "deep-fried",
+      "dessert",
+      "fritters",
+      "indulgent",
+      "norwegian"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 42,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-norwegian-egg-pancakes",
     "title": "Indulgent Norwegian Egg Pancakes",
     "tags": [
