@@ -5779,6 +5779,21 @@
     "shard": "i"
   },
   {
+    "slug": "intricate-uruguayan-epoisses-empanadas",
+    "title": "Intricate Uruguayan Epoisses Empanadas",
+    "tags": [
+      "baked",
+      "cheesy",
+      "empanadas",
+      "garlicky",
+      "low-sodium",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "intricately-crispy-mexican-masa-huaraches",
     "title": "intricately crispy mexican masa huaraches",
     "tags": [
@@ -5896,6 +5911,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intricately-snappy-dutch-jerusalem-artichokes-stew",
+    "title": "Intricately Snappy Dutch Jerusalem Artichokes Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "healthy-dinner",
+      "low-calorie",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {

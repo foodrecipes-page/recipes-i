@@ -1,0 +1,106 @@
+{
+  "title": "Intricately Snappy Dutch Jerusalem Artichokes Stew",
+  "description": "A hearty and comforting Dutch stew featuring Jerusalem artichokes, made with katsuramuki-cut vegetables and cooked to perfection in a bamboo steamer, this dish is not only delicious but also low in calories.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "4 large",
+      "notes": "peeled and katsuramuki-cut"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pan, melt the butter over medium heat and saute the chopped onion until softened.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the katsuramuki-cut Jerusalem artichokes, chopped carrots, and chopped celery to the pan, and cook for 5 minutes, stirring occasionally.",
+    "Pour in the vegetable broth, and add the dried thyme, salt, and black pepper, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes, or until the vegetables are tender.",
+    "While the stew is cooking, prepare the bamboo steamer by filling the bottom with water to a depth of about 1 inch.",
+    "Once the stew has finished cooking, carefully pour it into the bamboo steamer, and cover with a lid.",
+    "Steam the stew over boiling water for an additional 10 minutes, or until the flavors have melded together and the vegetables are heated through.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "healthy-dinner",
+    "low-calorie",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "intricately-snappy-dutch-jerusalem-artichokes-stew",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-snappy-dutch-jerusalem-artichokes-stew",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-07T21:08:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Jerusalem artichokes",
+    "descriptor": "Intricately snappy",
+    "dishForm": "Stew"
+  }
+}
