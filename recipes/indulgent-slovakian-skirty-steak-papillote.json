@@ -1,0 +1,61 @@
+{
+  "title": "Slovakian Skirty Steak Papillote",
+  "description": "A hearty, spicy dish featuring tender Skirty steak wrapped in a flaky pastry package, served with a side of garlic mashed potatoes and sautéed vegetables.",
+  "cuisine": "Slovak",
+  "diet": [
+    "dairy-free",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skirty steak",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C)."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "healthy",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 60,
+    "carbs": 45,
+    "fat": 30
+  },
+  "slug": "indulgent-slovakian-skirty-steak-papillote",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-slovakian-skirty-steak-papillote",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:27:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "papillote",
+    "primaryIngredient": "skirty steak",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "skirty steak",
+    "descriptor": "indulgent",
+    "dishForm": "papillote"
+  }
+}
