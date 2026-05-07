@@ -1,0 +1,131 @@
+{
+  "title": "Indulgent Mediterranean Tagine",
+  "description": "A hearty and aromatic stew originating from North Africa, characterized by the use of steam and exotic spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "halal",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chilli powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "can of chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large clay pot over medium heat.",
+    "Add the chopped onion and saut\u00118e until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chilli powder, cumin, coriander, paprika, salt, and black pepper. Stir to combine.",
+    "Add the sliced red bell pepper and cook for an additional 3-4 minutes.",
+    "Add the chickpeas, preserved lemon, and 2 cups of water. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through and the sauce has thickened.",
+    "Stir in some chopped fresh parsley before serving.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mediterranean",
+    "one-pan",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "indulgent-mediterranean-dish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-mediterranean-dish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:16:15Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "steam",
+    "primaryIngredient": "chilli powder",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "dish",
+    "descriptor": "Indulgent",
+    "dishForm": "Tagine"
+  }
+}

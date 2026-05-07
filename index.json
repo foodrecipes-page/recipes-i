@@ -1610,6 +1610,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-mediterranean-dish-tagine",
+    "title": "Indulgent Mediterranean Tagine",
+    "tags": [
+      "comfort-food",
+      "mediterranean",
+      "one-pan",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-mediterranean-lamb-grill",
     "title": "Indulgent Mediterranean Lamb Grill",
     "tags": [
