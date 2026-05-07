@@ -1,0 +1,87 @@
+{
+  "title": "Illuminating Midnight Craving Fatty Pork Binchotan-Grilled",
+  "description": "A midnight-craving Filipino dish featuring crispy fatty pork grilled on a Bincho-tan grill with garlic granules for a unique flavor profile.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": 200
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fatty pork cracklings",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Shojin-friendly soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat Bincho-tan grill to medium-high heat.",
+    "Season pork belly with salt and garlic powder. Cover with plastic wrap and refrigerate for 30 minutes.",
+    "Combine sesame oil, soy sauce, minced garlic, and fatty pork cracklings in a small bowl. Mix well until evenly combined.",
+    "Brush the marination mixture onto the seasoned pork belly on all sides.",
+    "Place the pork belly on the preheated Bincho-tan grill skin side down. Cook for 10 minutes or until golden brown.",
+    "Gently flip and cook the other side for an additional 8-10 minutes, until cooked through.",
+    "Drizzle with a bit more sesame oil mixture to finish cooking and enhance flavor.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-grill",
+    "crisp",
+    "fatty-pork",
+    "filipino-dish",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 31,
+    "carbs": 7,
+    "fat": 21
+  },
+  "slug": "illuminating-midnight-craving-fatty-pork-binchotan-grilled",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/illuminating-midnight-craving-fatty-pork-binchotan-grilled",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T01:29:22Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "temper",
+    "primaryIngredient": "garlic granules",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Fatty Pork",
+    "descriptor": "Midnight Craving",
+    "dishForm": "Grill"
+  }
+}
