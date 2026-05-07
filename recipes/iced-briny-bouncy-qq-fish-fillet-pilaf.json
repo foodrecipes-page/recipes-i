@@ -1,0 +1,70 @@
+{
+  "title": "Iced Briny Bouncy-QQ Fish Fillet Pilaf",
+  "description": "A low-calorie-friendly and flavorful Egyptian-inspired dish featuring fish fillets, brine reduction, and a light pilaf base for sick-day enjoyment.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fish Fillet",
+      "amount": 200
+    },
+    {
+      "name": "Brine Reduction",
+      "amount": 150
+    },
+    {
+      "name": "Pilaf Base",
+      "amount": 300
+    },
+    {
+      "name": "Herbs (e.g., dill, parsley)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Low-Sodium Vegetable Stock",
+      "amount": 200
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Arrange fish fillets in a baking dish with brine reduction on top, then layer with pilaf base and herbs.",
+    "Bake for 35 minutes or until fish is cooked through and pilaf is golden brown.",
+    "Garnish with additional herbs before serving cold as a snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "low-calorie-friendly",
+    "reduced-sodium",
+    "sick-day",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 70,
+    "fat": 15
+  },
+  "slug": "iced-briny-bouncy-qq-fish-fillet-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/iced-briny-bouncy-qq-fish-fillet-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T04:43:03Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "reduce",
+    "primaryIngredient": "fish fillet",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Briny",
+    "mainIngredient": "Fish Fillet",
+    "descriptor": "Bouncy-QQ",
+    "dishForm": "Pilaf"
+  }
+}
