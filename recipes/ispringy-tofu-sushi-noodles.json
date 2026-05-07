@@ -1,0 +1,81 @@
+{
+  "title": "ISpringy Tofu Sushi Noodles",
+  "description": "A light and springy Arab-style dish featuring jammy tofu, olive oil, shojin-friendly noodles with a dashi extract base.",
+  "cuisine": "Arabian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "TOFU",
+      "amount": 200
+    },
+    {
+      "name": "SOYSAUCE",
+      "amount": 1
+    },
+    {
+      "name": "OLIVE-OIL",
+      "amount": 30
+    },
+    {
+      "name": "DASHI-EXTRACT",
+      "amount": 15
+    },
+    {
+      "name": "SHOJIN-FRIENDLY NOODLES",
+      "amount": "20g"
+    },
+    {
+      "name": "CELERY-PEEL",
+      "amount": 30
+    },
+    {
+      "name": "GREEN-CABBAGE-WRAPS",
+      "amount": 1
+    }
+  ],
+  "instructions": [
+    "Sauté TOFU and OLIVE-OIL until golden brown.",
+    "Add DASHI-EXTRACT, SOYSAUCE, CELERY-PEEL to a pot with water and bring to a boil.",
+    "Cook SHOJIN-FRIENDLY NOODLES according to package directions in the pot.",
+    "Slice GREEN-CABBAGE-WRAPS thinly.",
+    "Fold WRAPS into each portion of TOFU-OLIVE-OIL mixture.",
+    "Divide cooked noodles among plates and top with TOFU filling and WRAPS."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arab-style",
+    "dashi-friendly",
+    "light-dish",
+    "quick-cuisine",
+    "tofu-based"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "ispringy-tofu-sushi-noodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ispringy-tofu-sushi-noodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T12:28:28Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "dashi-extract",
+    "primaryIngredient": "olive oil",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Sushi",
+    "mainIngredient": "Tofu",
+    "descriptor": "Springy",
+    "dishForm": "Noodles"
+  }
+}

@@ -6113,6 +6113,20 @@
     "shard": "i"
   },
   {
+    "slug": "ispringy-tofu-sushi-noodles",
+    "title": "ISpringy Tofu Sushi Noodles",
+    "tags": [
+      "arab-style",
+      "dashi-friendly",
+      "light-dish",
+      "quick-cuisine",
+      "tofu-based"
+    ],
+    "cuisine": "Arabian",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "istiry-mustardy-mustard-greens",
     "title": "Istiry Mustardy Mustard Greens",
     "tags": [
