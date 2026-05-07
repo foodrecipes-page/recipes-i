@@ -1,0 +1,115 @@
+{
+  "title": "intensely tangy tunisian monsoon tagine",
+  "description": "a flavorful and healthy tagine dish with a unique combination of spices and ingredients, perfect for a monsoon evening",
+  "cuisine": "tunisian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "500g",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "dark soft brown sugar",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "yogurt",
+      "amount": "200g",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "10g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "fenugreek seeds",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "red chili powder",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large bamboo steamer over medium heat.",
+    "add the cumin seeds, coriander seeds, and fenugreek seeds, and let them sizzle for 1 minute.",
+    "add the garam masala, red chili powder, and ground cumin, and stir for 1 minute.",
+    "add the chicken thighs and cook until browned on all sides, about 5 minutes.",
+    "add the yogurt, dark soft brown sugar, and salt, and stir well.",
+    "close the bamboo steamer and steam the chicken for 20 minutes, or until cooked through.",
+    "fluff the chicken with a fork and stir in the fresh cilantro.",
+    "serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "monsoon",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "intensely-tangy-tunisian-monsoon-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-tangy-tunisian-monsoon-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:06:31Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "monsoon",
+    "descriptor": "intensely tangy",
+    "dishForm": "Tagine"
+  }
+}
