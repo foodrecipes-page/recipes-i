@@ -3964,6 +3964,19 @@
     "shard": "i"
   },
   {
+    "slug": "intense-post-workout-venezuelan-fenugreek-tagine",
+    "title": "intense post-workout venezuelan fenugreek tagine",
+    "tags": [
+      "fodmap-friendly",
+      "high-protein",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "intense-pull-uruguayan-cheese-bento-box",
     "title": "Intense Pull Uruguayan Cheese Bento-Box",
     "tags": [
@@ -5566,6 +5579,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-smoky-croatian-pork-grill",
+    "title": "Intensely Smoky Croatian Pork Grill",
+    "tags": [
+      "gluten-free",
+      "low-calorie",
+      "one-pan",
+      "smoked-meat",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 510,
     "shard": "i"
   },
   {

@@ -1,0 +1,122 @@
+{
+  "title": "Intensely Smoky Croatian Pork Grill",
+  "description": "A dense, low-calorie-friendly Croatian dish that combines the richness of pork and tangy flavors from shaoxing wine, finished with a smoky smokiness.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoked salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat smoker to 225\u0013F (110\u0013C).",
+    "Trim the pork shoulder of excess fat.",
+    "In a small bowl, mix together smoked paprika, garlic, and brown sugar (if using).",
+    "Rub the spice mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Let the pork shoulder sit at room temperature for 30 minutes before smoking.",
+    "Place the pork shoulder in the smoker, fat side up.",
+    "Smoke the pork shoulder for 4 hours, or until it reaches an internal temperature of 160\u0013F (71\u0013C).",
+    "Remove the pork shoulder from the smoker and brush it with olive oil.",
+    "Increase the smoker temperature to 300\u0013F (150\u0013C) and continue to cook the pork shoulder for an additional 30 minutes, or until it reaches an internal temperature of 180\u0013F (82\u0013C).",
+    "Remove the pork shoulder from the heat and let it rest for 10 minutes before slicing it thinly against the grain.",
+    "Garnish with fresh parsley and serve with your favorite sides.",
+    "To make the shaoxing wine glaze, combine shaoxing wine, smoked salt, and cayenne pepper in a small saucepan.",
+    "Bring the glaze to a boil over medium-high heat, then reduce the heat to medium-low and simmer for 5 minutes, or until the glaze has thickened slightly.",
+    "Brush the shaoxing wine glaze over the pork shoulder during the last 10 minutes of cooking.",
+    "To make the smoked paprika powder, grind the smoked paprika in a spice grinder or mortar and pestle until it reaches a fine powder.",
+    "Use the smoked paprika powder to coat the pork shoulder before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 480,
+  "totalTimeMin": 510,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "smoked-meat",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 36,
+    "carbs": 0,
+    "fat": 20
+  },
+  "slug": "intensely-smoky-croatian-pork-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-croatian-pork-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:25:47Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "smoke",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "intensely smoky",
+    "dishForm": "Grill"
+  }
+}

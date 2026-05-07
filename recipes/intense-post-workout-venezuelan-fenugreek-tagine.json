@@ -1,0 +1,105 @@
+{
+  "title": "intense post-workout venezuelan fenugreek tagine",
+  "description": "a musky, cheesy, post-workout venezuelan dish featuring fenugreek, tagine-cooked to perfection. fenugreek's bitter flavor pairs surprisingly well with caracas cheese.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feno",
+      "amount": "1/2 cup",
+      "notes ": "fresh fenugreek leaves, stems removed, chopped"
+    },
+    {
+      "name": "caracas cheese",
+      "amount": "8 oz",
+      "notes": "or other strong, tangy cheese, shredded"
+    },
+    {
+      "name": "carrot",
+      "amount": "3",
+      "notes": "peeled, grated"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2",
+      "notes ": "peeled, diced"
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tbsp",
+      "notes ": "or other neutral oil"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes ": "ground, toasted"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes ": "ground, toasted"
+    },
+    {
+      "name": "red pepper",
+      "amount": "1 tsp",
+      "notes ": "ground, toasted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes ": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes ": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat oil in the bottom of a clay or ceramic tagine or other large pot over medium-high heat.",
+    "add cumin, coriander, and red pepper. cook, stirring constantly, for 1 minute.",
+    "add carrot and sweet potato. cook, stirring occasionally, until slightly tender, about 5 minutes.",
+    "add feno and cook, stirring occasionally, until wilted, about 3 minutes.",
+    "add caracas cheese and stir until melted and the mixture is well combined.",
+    "season with salt and black pepper to taste.",
+    "serve hot, garnished with additional feno if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "high-protein",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 40,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "intense-post-workout-venezuelan-fenugreek-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-post-workout-venezuelan-fenugreek-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:25:38Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "tagine-cook",
+    "primaryIngredient": "fenugreek",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "fenugreek",
+    "descriptor": "intense post-workout",
+    "dishForm": "Tagine"
+  }
+}
