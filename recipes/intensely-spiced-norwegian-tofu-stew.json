@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Spiced Norwegian Tofu Stew",
+  "description": "A fermented and aerated Norwegian stew featuring Jamaican curry powder, perfect for a weeknight dinner",
+  "cuisine": "Norwegian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fermented Norwegian yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable broth in a large cazuela over medium heat",
+    "Add the chopped onion and cook until softened",
+    "Add the sliced carrots and cubed potatoes and cook for 10 minutes",
+    "Add the cubed tofu and cook until lightly browned",
+    "Stir in the Jamaican curry powder and cook for 1 minute",
+    "Add the fermented Norwegian yogurt and stir to combine",
+    "Bring the mixture to a simmer and cook for 20 minutes",
+    "Crack in the eggs and stir gently to combine",
+    "Season with salt and black pepper to taste",
+    "Serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "norwegian-cuisine",
+    "one-pan",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "intensely-spiced-norwegian-tofu-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-spiced-norwegian-tofu-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:27:43Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "ferment",
+    "primaryIngredient": "jamaican curry powder",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "tofu",
+    "descriptor": "Intensely spiced",
+    "dishForm": "Stew"
+  }
+}
