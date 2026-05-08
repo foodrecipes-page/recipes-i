@@ -1,0 +1,117 @@
+{
+  "title": "Inviting Spring Norwegian Duck Stew",
+  "description": "A hearty and earthy Norwegian duck stew featuring duck fat and ferment-jang, perfect for a weeknight dinner, this ayurvedic-sattvic-friendly dish is cooked in a fondue pot. It combines the richness of duck with the brightness of spring vegetables.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck fat",
+      "amount": "2 tablespoons",
+      "notes": "rendered from pastured ducks"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "spring peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "unrefined"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the duck fat in the fondue pot over medium heat until melted.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the chopped carrots and potatoes, cook for 5 minutes, stirring occasionally.",
+    "Add the ferment-jang, stirring to combine, and cook for 1 minute.",
+    "Add the duck breast pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the spring peas, thyme, salt, and black pepper, stirring to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes, or until the duck is cooked through and the vegetables are tender.",
+    "Serve hot, garnished with fresh thyme if desired.",
+    "Store leftovers in the refrigerator for up to 3 days, reheating gently over low heat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "duck-recipes",
+    "norwegian-cuisine",
+    "one-pot",
+    "sattvic-diet",
+    "spring-vegetables",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "inviting-spring-norwegian-duck-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/inviting-spring-norwegian-duck-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:08:12Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "ferment-jang",
+    "primaryIngredient": "duck fat",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "duck",
+    "descriptor": "Inviting Spring",
+    "dishForm": "Stew"
+  }
+}

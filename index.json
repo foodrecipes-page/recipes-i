@@ -6272,6 +6272,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-charred-syrian-eggplant-skewers",
+    "title": "Intensely Charred Syrian Eggplant Skewers",
+    "tags": [
+      "brunch",
+      "eggplant",
+      "grilled",
+      "middle-eastern",
+      "syrian",
+      "vegetarian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-cheesy-slovakian-ham-lasagna",
     "title": "Intensely Cheesy Slovakian Ham Lasagna",
     "tags": [
@@ -9423,6 +9438,22 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 20,
+    "shard": "i"
+  },
+  {
+    "slug": "inviting-spring-norwegian-duck-stew",
+    "title": "Inviting Spring Norwegian Duck Stew",
+    "tags": [
+      "ayurvedic-friendly",
+      "duck-recipes",
+      "norwegian-cuisine",
+      "one-pot",
+      "sattvic-diet",
+      "spring-vegetables",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {

@@ -1,0 +1,98 @@
+{
+  "title": "Intensely Charred Syrian Eggplant Skewers",
+  "description": "A Syrian-inspired dish featuring charred eggplant, red pepper paste, and a unique nigiri-shaping technique, perfect for a vegetarian-friendly brunch.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, approximately 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together red pepper paste, olive oil, garlic, salt, and black pepper.",
+    "Add the eggplant cubes to the bowl and toss to coat with the red pepper paste mixture.",
+    "Thread the eggplant cubes onto skewers, leaving a small space between each cube.",
+    "Grill the eggplant skewers for 10-12 minutes, turning occasionally, until they are intensely charred.",
+    "While the eggplant is grilling, mix the pomegranate molasses and lemon juice in a small bowl.",
+    "Once the eggplant is charred, brush the pomegranate molasses mixture onto the skewers.",
+    "Garnish with chopped parsley and serve immediately.",
+    "To achieve a nigiri-like shape, gently press the eggplant cubes together on each skewer after grilling."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "eggplant",
+    "grilled",
+    "middle-eastern",
+    "syrian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "intensely-charred-syrian-eggplant-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-charred-syrian-eggplant-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:07:45Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "red pepper paste",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "eggplant",
+    "descriptor": "intensely charred",
+    "dishForm": "Skewers"
+  }
+}
