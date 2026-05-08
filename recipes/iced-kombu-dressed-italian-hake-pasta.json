@@ -1,0 +1,99 @@
+{
+  "title": "Iced Kombu Dressed Italian Hake Pasta",
+  "description": "A refreshing and light Italian-inspired dish featuring hake, kombu-cold-extract, and a touch of tanginess from the lemon.",
+  "cuisine": "Italian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Hake Fillets",
+      "amount": "4",
+      "notes": "Fresh and skin removed"
+    },
+    {
+      "name": "Kombu Seaweed",
+      "amount": "1 sheet",
+      "notes": "Dried and cut into pieces"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 cup",
+      "notes": "Halved"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lacquerware Bowl",
+      "amount": "",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Soak the kombu seaweed in 1 cup of cold water for at least 4 hours or overnight.",
+    "Preheat a steamer basket with 2 cups of water and steam the hake fillets for 8-10 minutes or until cooked through.",
+    "Meanwhile, combine the lemon juice, olive oil, garlic, and a pinch of salt in a blender.",
+    "Blend the mixture until smooth and strain it through a fine-mesh sieve into a bowl.",
+    "Add the soaked kombu seaweed and its liquid to the bowl and stir to combine.",
+    "Drain the steamed hake fillets and place them on a plate.",
+    "Pour the kombu-dressing over the hake fillets and top with cherry tomatoes and chopped basil.",
+    "Serve immediately in a lacquerware bowl.",
+    "Garnish with additional basil leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "gluten-free",
+    "italian",
+    "one-pan",
+    "summer",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 16
+  },
+  "slug": "iced-kombu-dressed-italian-hake-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/iced-kombu-dressed-italian-hake-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:13:19Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "hake",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "hake",
+    "descriptor": "Iced Kombu Dressed",
+    "dishForm": "Pasta"
+  }
+}
