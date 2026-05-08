@@ -1,0 +1,101 @@
+{
+  "title": "Intensely Resinous German Fromage-Blanc Gratin",
+  "description": "A plant-based German dish featuring fromage-blanc, with a resinous and glassy-jelly texture, served on a cedar plank. This meal-prep friendly recipe is perfect for a unique dinner experience.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fromage-blanc",
+      "amount": "1 cup",
+      "notes": "plant-based alternative"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1 piece",
+      "notes": "for serving"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "brine",
+      "amount": "1/2 cup",
+      "notes": "dry and plant-based friendly"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons",
+      "notes": "for cheesy flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the fromage-blanc, olive oil, garlic, and nutritional yeast until smooth.",
+    "Add the sliced onion to the bowl and stir until well combined.",
+    "Pour the mixture onto the cedar plank, leaving a small border around the edges.",
+    "Drizzle the brine over the top of the mixture, making sure to cover the entire surface.",
+    "Season with salt and black pepper to taste.",
+    "Bake for 25 minutes, or until the top is golden brown and the gratin is set.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "german-cuisine",
+    "meal-prep",
+    "plant-based",
+    "resinous-gratin",
+    "unique-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "intensely-resinous-german-fromage-blanc-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-resinous-german-fromage-blanc-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:58:04Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "brine-dry",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "fromage-blanc",
+    "descriptor": "intensely resinous",
+    "dishForm": "Gratin"
+  }
+}

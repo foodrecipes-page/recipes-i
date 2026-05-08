@@ -7669,6 +7669,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-resinous-german-fromage-blanc-gratin",
+    "title": "Intensely Resinous German Fromage-Blanc Gratin",
+    "tags": [
+      "cedar-plank",
+      "german-cuisine",
+      "meal-prep",
+      "plant-based",
+      "resinous-gratin",
+      "unique-dishes"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-resinous-korean-beef-bibimbap",
     "title": "Intensely Resinous Korean Beef Bibimbap",
     "tags": [
@@ -7948,6 +7963,20 @@
       "savory-pastry"
     ],
     "cuisine": "Saudi Arabian",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-roasted-ukrainian-toor-dal-bake",
+    "title": "Intensely Roasted Ukrainian Toor Dal Bake",
+    "tags": [
+      "lacto-vegetarian",
+      "one-pan",
+      "roasted-vegetables",
+      "ukrainian-cuisine",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Ukrainian",
     "totalTimeMin": 50,
     "shard": "i"
   },
