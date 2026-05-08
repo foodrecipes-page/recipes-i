@@ -1,0 +1,97 @@
+{
+  "title": "Intense Indian Sloe Berries Pakora",
+  "description": "A pungent and velvety Indian dish featuring sloe berries, this pakora is a unique and adventurous treat. It is fodmap friendly and features a leaf wrap steam method.",
+  "cuisine": "Indian",
+  "diet": [
+    "fodmap",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sloe berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a deep frying pan over medium heat.",
+    "In a large bowl, mix together the chickpea flour, rice flour, grated ginger, cumin seeds, coriander seeds, and salt.",
+    "Add the sloe berries to the flour mixture and stir until they are evenly coated.",
+    "Using a spoon, drop small balls of the berry mixture into the hot ghee and fry until they are golden brown.",
+    "Remove the pakora from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "Wrap each pakora in a banana leaf and steam them for 5 minutes.",
+    "Serve the pakora hot with a side of chutney or raita.",
+    "To make the chutney, mix together plain yogurt, chopped cilantro, and a squeeze of lemon juice.",
+    "Garnish the pakora with additional cilantro and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eats",
+    "fodmap-friendly",
+    "indian-snacks",
+    "street-food",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "intense-indian-sloe-berries-pakora",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-indian-sloe-berries-pakora",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:18:43Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "sloe-berries",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "sloe berries",
+    "descriptor": "Intense Pungent",
+    "dishForm": "Pakora"
+  }
+}

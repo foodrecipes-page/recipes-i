@@ -3996,6 +3996,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-indian-sloe-berries-pakora",
+    "title": "Intense Indian Sloe Berries Pakora",
+    "tags": [
+      "adventurous-eats",
+      "fodmap-friendly",
+      "indian-snacks",
+      "street-food",
+      "vegetarian-recipes"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "intense-indian-tamarind-curry",
     "title": "Intense Indian Tamarind Curry",
     "tags": [
@@ -5411,6 +5425,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-creamy-german-prawns-papillote",
+    "title": "Intensely Creamy German Prawns Papillote",
+    "tags": [
+      "cream-based",
+      "german-cuisine",
+      "one-pot",
+      "ovo-vegetarian",
+      "seafood",
+      "ti-leaf-wrap"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {

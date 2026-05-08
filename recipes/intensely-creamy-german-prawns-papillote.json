@@ -1,0 +1,104 @@
+{
+  "title": "Intensely Creamy German Prawns Papillote",
+  "description": "A tangy and creamy one-pot German dish featuring prawns, cooked to perfection in a ti-leaf wrap, suitable for ovo-vegetarian diets. This recipe combines the richness of cream with the freshness of prawns and herbs.",
+  "cuisine": "German",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat and saute the chopped onions until they are translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the prawns to the skillet and cook until they are pink and just done, about 2-3 minutes per side.",
+    "In a small bowl, whisk together the heavy cream, lemon juice, salt, and black pepper.",
+    "Stir the cream mixture into the skillet with the prawns and onions, and bring to a simmer.",
+    "Reduce the heat to low and let the mixture simmer for 2 minutes, until it has thickened slightly.",
+    "Lay a ti leaf flat on a work surface and place a quarter of the prawn mixture in the center of the leaf.",
+    "Fold the ti leaf over the filling to form a packet, and repeat with the remaining ingredients.",
+    "Place the packets in a baking dish and bake for 10 minutes, until the ti leaves are tender and the filling is hot and creamy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cream-based",
+    "german-cuisine",
+    "one-pot",
+    "ovo-vegetarian",
+    "seafood",
+    "ti-leaf-wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "intensely-creamy-german-prawns-papillote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-creamy-german-prawns-papillote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:18:27Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "papillote",
+    "primaryIngredient": "prawns",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "prawns",
+    "descriptor": "intensely creamy",
+    "dishForm": "Papillote"
+  }
+}
