@@ -1,0 +1,105 @@
+{
+  "title": "Intensely Tangy Ligurian Kippers Pasta",
+  "description": "A tangy and chewy one-pot Italian dish featuring kippers, this Ligurian pasta is a Jain-friendly option, served on a wooden board. The combination of kippers, roasted vegetables, and tangy sauce creates a unique flavor profile.",
+  "cuisine": "Italian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kippers",
+      "amount": "12 oz",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and add the minced roasted garlic, cooking for 1 minute until fragrant.",
+    "Add the diced roasted red peppers to the skillet and cook for an additional 2 minutes, stirring occasionally.",
+    "Stir in the lemon juice, white wine vinegar, salt, and black pepper, and bring the mixture to a simmer.",
+    "Add the flaked kippers to the skillet and cook for 2-3 minutes, breaking up with a spoon, until heated through.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the kipper mixture.",
+    "Season with additional salt and pepper to taste, then stir in the chopped fresh parsley.",
+    "Serve the pasta hot on a wooden board, garnished with additional parsley if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "jain-friendly",
+    "one-pot",
+    "seafood-pasta",
+    "tangy-dishes",
+    "wooden-board-serving"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "intensely-tangy-ligurian-kippers-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-tangy-ligurian-kippers-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:05:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "roast",
+    "primaryIngredient": "kippers",
+    "diet": "jain",
+    "region": "ligurian",
+    "cuisineAdjective": "Ligurian",
+    "mainIngredient": "kippers",
+    "descriptor": "intensely tangy",
+    "dishForm": "Pasta"
+  }
+}
