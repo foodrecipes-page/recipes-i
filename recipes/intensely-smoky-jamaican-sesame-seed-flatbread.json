@@ -1,0 +1,92 @@
+{
+  "title": "Intensely Smoky Jamaican Sesame Seed Flatbread",
+  "description": "This smoky flatbread features a long-fermentation dough and is perfect for a quick Jamaican-inspired snack, packed with sesame seeds and a dash of spice, served in a convenient bento box.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, smoked paprika, sugar, and jerk seasoning.",
+    "Gradually add water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 2 hours.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Punch down the fermented dough and divide it into 4 equal pieces.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Brush the dough circles with a little water and sprinkle sesame seeds evenly over the surface.",
+    "Cook the flatbreads in the preheated skillet for 2 minutes on each side, until they are golden brown and crispy.",
+    "Serve the smoky sesame seed flatbreads warm in a bento box, perfect for a quick snack or lunch on the go."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "jamaican-inspired",
+    "long-fermentation",
+    "quick-fix",
+    "sesame-seeds",
+    "smoky-flavors",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "intensely-smoky-jamaican-sesame-seed-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-jamaican-sesame-seed-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:46:23Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "sesame seed",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sesame seed",
+    "descriptor": "intensely smoky",
+    "dishForm": "Flatbread"
+  }
+}
