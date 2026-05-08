@@ -1,0 +1,104 @@
+{
+  "title": "Intense Snappy Argentinian Toor Dal",
+  "description": "A halal-friendly Argentinian dish featuring toor dal, with a yeasty and snappy flavor profile, made with a deglaze-fond for added depth",
+  "cuisine": "Argentinian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1 cup",
+      "notes": "split red lentils"
+    },
+    {
+      "name": "argentinian chimichurri",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat",
+    "Add the sliced red onion and cook until it is translucent and starting to caramelize",
+    "Add the diced red bell pepper and cook for an additional 2 minutes",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning",
+    "Add the toor dal, argentinian chimichurri, active dry yeast, salt, and black pepper, and stir to combine",
+    "Add the water to the saucepan and bring to a boil",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the toor dal is tender",
+    "Use a deglaze-fond technique to add a rich and intense flavor to the dish, by stirring in a small amount of the cooking liquid and scraping up any browned bits from the bottom of the saucepan",
+    "Serve the intense snappy argentinian toor dal hot, garnished with fresh herbs or a sprinkle of paprika"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "high-protein",
+    "lentil-based",
+    "one-pan",
+    "vegetarian-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "intense-snappy-argentinian-toor-dal-dal",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-snappy-argentinian-toor-dal-dal",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:47:52Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "toor dal",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "toor dal",
+    "descriptor": "intense snappy",
+    "dishForm": "Dal"
+  }
+}
