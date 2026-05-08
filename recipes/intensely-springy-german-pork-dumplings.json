@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Springy German Pork Dumplings",
+  "description": "A traditional German dish featuring fatty and springy minced pork dumplings, dairy-free friendly and perfect for special occasions. This recipe showcases the richness of German cuisine with a delicate balance of flavors and textures.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced pork",
+      "amount": "1 pound",
+      "notes": "preferably with a high fat content"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pork broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the minced pork, chopped onion, minced garlic, salt, black pepper, and nutmeg, and mix well with your hands until just combined.",
+    "Gradually add the flour to the pork mixture and mix until a dough forms.",
+    "Beat in the eggs until the dough is smooth and elastic.",
+    "Bring the pork broth to a boil in a large pot, then reduce the heat to a simmer.",
+    "Using your hands, shape the dough into small dumplings, about 1 1/2 inches in diameter.",
+    "Carefully add the dumplings to the simmering pork broth, making sure not to overcrowd the pot.",
+    "Cook the dumplings for 15-20 minutes, or until they float to the surface and are cooked through.",
+    "Remove the dumplings from the broth with a slotted spoon and serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dumplings",
+    "german-cuisine",
+    "homemade",
+    "pork-recipes",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "intensely-springy-german-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-springy-german-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:31:00Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "dum",
+    "primaryIngredient": "minced pork",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "intensely springy",
+    "dishForm": "Dumplings"
+  }
+}
