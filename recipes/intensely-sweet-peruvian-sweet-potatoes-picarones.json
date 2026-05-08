@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Sweet Peruvian Sweet Potatoes Picarones",
+  "description": "Earthy and creamy Peruvian dish featuring ginger cordial, served in a paella pan, this low glycemic friendly treat is a nostalgic delight, the picarones are wrapped in a ssam style wrap",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 large",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "Ginger Cordial",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ssam Wrap",
+      "amount": "4-6 wraps"
+    },
+    {
+      "name": "Anise Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Low Glycemic Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the mashed sweet potatoes, ginger cordial, anise seeds, cinnamon, and low glycemic sugar, mix until well combined.",
+    "In a separate bowl, whisk the egg and vanilla extract, then add to the sweet potato mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 4-6 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and wrap each disk in a ssam wrap.",
+    "Place the wrapped picarones in a paella pan, leaving some space between each one.",
+    "Bake the picarones in the preheated oven for 20 minutes, or until they are golden brown.",
+    "Remove the picarones from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "low-glycemic",
+    "one-pan",
+    "peruvian-cuisine",
+    "sweet-potatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "intensely-sweet-peruvian-sweet-potatoes-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-sweet-peruvian-sweet-potatoes-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:22:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "ginger cordial",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "intensely sweet",
+    "dishForm": "Picarones"
+  }
+}
