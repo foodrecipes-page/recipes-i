@@ -1,0 +1,97 @@
+{
+  "title": "indulgent herbal syrian yogurt tart",
+  "description": "a refreshing and tangy tart featuring a rich tandoor-spiced yogurt filling and a buttery phyllo crust, garnished with fragrant herbs and edible flowers.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tandoor-spiced yogurt",
+      "amount": "750g"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 whole package",
+      "notes": "thaw according to package instructions"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "120g",
+      "notes": "melted"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "edible flowers (such as violas or pansies)",
+      "amount": "a handful"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°f (190°c).",
+    "thaw the phyllo dough according to package instructions.",
+    "cut the phyllo into 4 equal pieces and place them in a baking dish.",
+    "melt the butter and brush it evenly over the phyllo pieces.",
+    "spread the tandoor-spiced yogurt over the phyllo pieces, leaving a 1-inch border around the edges.",
+    "sprinkle the chopped herbs and edible flowers over the yogurt.",
+    "drizzle the honey over the top.",
+    "bake for 25-30 minutes, or until the phyllo is golden brown and the filling is set.",
+    "remove from the oven and let cool for 10 minutes.",
+    "serve warm, garnished with additional herbs and edible flowers if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "herbal",
+    "low-carb",
+    "middle-eastern",
+    "phyllo",
+    "tandoor",
+    "vegetarian",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "indulgent-herbal-syrian-yogurt-tart",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-herbal-syrian-yogurt-tart",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:33:06Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "tandoor",
+    "primaryIngredient": "yogurt",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "yogurt",
+    "descriptor": "Indulgent Herbal",
+    "dishForm": "Tart"
+  }
+}
