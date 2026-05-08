@@ -1,0 +1,107 @@
+{
+  "title": "Italian-Style Iced Rolled Italian Oats Cannoli",
+  "description": "A refreshing twist on traditional Italian oats, featuring rolled oats and citrus notes.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cannoli shell",
+      "amount": "4",
+      "notes": "store-bought"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "zest",
+      "amount": "1 tsp",
+      "notes": "lemon or orange"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "blueberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Combine oats, sugar, and vanilla extract in a bowl. Mix until well combined.",
+    "In a separate bowl, whisk together egg yolks and lemon juice.",
+    "In a small saucepan, melt butter over medium heat.",
+    "Pour the butter mixture into the oats mixture and mix until well combined.",
+    "Gradually pour in heavy cream, whisking until smooth.",
+    "Add the egg yolk mixture to the oats mixture and mix until well combined.",
+    "Pour the mixture into the cannoli shells.",
+    "Chill in the refrigerator for at least 30 minutes.",
+    "Serve chilled, dust with powdered sugar.",
+    "Top with blueberries and lemon zest."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cannoli",
+    "dessert",
+    "italian",
+    "italy",
+    "summer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "italian-style-iced-rolled-italian-oats-cannoli",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/italian-style-iced-rolled-italian-oats-cannoli",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:34:46Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "light",
+    "technique": "emulsify",
+    "primaryIngredient": "rolled oats",
+    "diet": "dash",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "oats",
+    "descriptor": "Italian-Style Iced Rolled",
+    "dishForm": "Cannoli"
+  }
+}
