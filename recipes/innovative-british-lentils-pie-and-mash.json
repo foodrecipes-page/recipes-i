@@ -1,0 +1,105 @@
+{
+  "title": "Innovative British Lentils Pie And Mash",
+  "description": "A kid-friendly British dish featuring fermented lentils, crunchy texture, and a dairy-free friendly recipe, served in a lacquerware bowl. This pie and mash is made with red wine vinegar and nigiri-shaped lentil mixture.",
+  "cuisine": "British",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1 package",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the lentils, red wine vinegar, olive oil, onion, carrots, and potato.",
+    "Let the mixture ferment for 30 minutes to allow the flavors to meld.",
+    "Roll out the pie crust and cut it into nigiri-shaped pieces.",
+    "Fill each piece of pie crust with the lentil mixture and seal the edges.",
+    "Place the pies in a lacquerware bowl and brush the tops with vegan butter.",
+    "Season with salt and black pepper to taste.",
+    "Bake the pies in the preheated oven for 25 minutes, or until the crust is golden brown.",
+    "Serve the pies with mashed potatoes and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "dairy-free",
+    "fermented-food",
+    "kid-friendly",
+    "pie-and-mash",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "innovative-british-lentils-pie-and-mash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-british-lentils-pie-and-mash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:34:24Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lentils",
+    "descriptor": "Innovative Crunchy",
+    "dishForm": "Pie And Mash"
+  }
+}
