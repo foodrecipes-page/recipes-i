@@ -1,0 +1,104 @@
+{
+  "title": "Intensely Nutty Korean Epoisses Guk",
+  "description": "A plant-based Korean guk featuring epoisses, with a rich nutty flavor and shattering texture, perfect for midnight cravings. This dish is a unique blend of Korean and French influences.",
+  "cuisine": "Korean",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Epoisses cheese",
+      "amount": "1 cup",
+      "notes": "vegan alternative"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "such as shiitake or cremini"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the sesame oil over medium heat.",
+    "Add the grated ginger and cook for 1 minute, until fragrant.",
+    "Add the garlic and cook for another minute, until lightly browned.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the gochujang, soy sauce, and Korean chili flakes, and stir to combine.",
+    "Add the epoisses cheese and stir until melted and smooth.",
+    "Bring the mixture to a simmer and cook for 10 minutes, until the flavors have melded together.",
+    "Stir in the toasted sesame seeds and chopped scallions.",
+    "Serve the guk hot, garnished with additional sesame seeds and scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "korean-cuisine",
+    "nutty",
+    "one-pot",
+    "plant-based",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "intensely-nutty-korean-epoisses-guk",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-nutty-korean-epoisses-guk",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:09:08Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "braise",
+    "primaryIngredient": "epoisses",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Epoisses",
+    "descriptor": "Intensely Nutty",
+    "dishForm": "Guk"
+  }
+}
