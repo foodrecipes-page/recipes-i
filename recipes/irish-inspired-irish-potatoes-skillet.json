@@ -1,0 +1,95 @@
+{
+  "title": "Irish Inspired Irish Potatoes Skillet",
+  "description": "A hearty and cozy Irish dish featuring nutty and juicy potatoes, cooked to perfection in a cast-iron skillet. This recipe is a raw-friendly and stir-fry inspired twist on traditional Irish cuisine.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the diced onions and cook until they are translucent and starting to brown.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the diced potatoes, carrots, and bell peppers to the skillet and stir to combine.",
+    "Cook the vegetables for 20-25 minutes, stirring occasionally, until they are tender and lightly browned.",
+    "Season the vegetables with salt and pepper to taste.",
+    "Serve the Irish potatoes skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cast-iron",
+    "gluten-free",
+    "one-pan",
+    "stir-fry",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "irish-inspired-irish-potatoes-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/irish-inspired-irish-potatoes-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:30:49Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "stir-fry",
+    "primaryIngredient": "cold water",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Irish Inspired",
+    "dishForm": "Skillet"
+  }
+}
