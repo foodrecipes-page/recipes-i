@@ -1,0 +1,97 @@
+{
+  "title": "Intensely Smoky Norwegian Lamb Skewers",
+  "description": "A sour and shaggy Norwegian dish featuring lamb skewers with molasses, char-grilled to perfection on a tava griddle, perfect for a romantic dinner",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava griddle to medium-high heat, about 400 degrees Fahrenheit",
+    "In a large bowl, whisk together molasses, olive oil, apple cider vinegar, smoked paprika, garlic powder, salt, and black pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece",
+    "Brush the tava griddle with a small amount of olive oil to prevent sticking",
+    "Place the lamb skewers on the tava griddle and cook for 10-12 minutes, turning occasionally",
+    "After 5 minutes of cooking, sprinkle the chopped rosemary over the lamb skewers",
+    "Continue cooking until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit",
+    "Remove the skewers from the heat and let rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "romantic-dinner",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "intensely-smoky-norwegian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-norwegian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:30:52Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "molasses",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "intensely smoky",
+    "dishForm": "Skewers"
+  }
+}
