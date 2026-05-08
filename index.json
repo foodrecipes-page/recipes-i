@@ -804,6 +804,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-australian-lamb-tagine",
+    "title": "Indulgent Australian Lamb Tagine",
+    "tags": [
+      "australian",
+      "lamb",
+      "one-pan",
+      "tagine",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-australian-salmon-curry",
     "title": "Indulgent Australian Salmon Curry",
     "tags": [
@@ -5339,6 +5353,21 @@
     ],
     "cuisine": "slovakian",
     "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-earthy-slovakian-sausages-casserole",
+    "title": "Slovakian Sausages Casserole",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "hearty",
+      "homemade",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 90,
     "shard": "i"
   },
   {

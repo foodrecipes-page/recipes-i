@@ -1,0 +1,111 @@
+{
+  "title": "Indulgent Australian Lamb Tagine",
+  "description": "A rich and exotic Australian-inspired dish featuring tender lamb, aromatic spices, and sweet floral notes.",
+  "cuisine": "australian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "allspice",
+      "amount": "2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crushed ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crushed coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "apple",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "red wine",
+      "amount": "250ml"
+    },
+    {
+      "name": "beef broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground lamb and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the allspice, cinnamon, ginger, and coriander, and cook for 1 minute.",
+    "Add the diced apple, red wine, beef broth, and honey, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in some chopped fresh herbs, such as parsley or cilantro, and serve over couscous or rice.",
+    "Garnish with additional herbs and serve immediately.",
+    "Serve with warm pita bread or flatbread for a truly indulgent experience."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lamb",
+    "one-pan",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "indulgent-australian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-australian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:27:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "boil",
+    "primaryIngredient": "ground allspice",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "indulgent",
+    "dishForm": "Tagine"
+  }
+}

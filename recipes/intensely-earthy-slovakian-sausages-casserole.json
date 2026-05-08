@@ -1,0 +1,106 @@
+{
+  "title": "Slovakian Sausages Casserole",
+  "description": "A comforting and earthy dish featuring German sausages, this casserole is perfect for a cold evening, and can be made dairy-free friendly by substituting the cheese with a non-dairy alternative, and it is traditionally cooked in a vessel lined with agave leaves for added flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausages",
+      "amount": "4",
+      "notes": "preferably Knockwurst or Bratwurst"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "non-dairy cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the German sausages over medium heat until browned, then set aside.",
+    "In the same skillet, cook the chopped onions until they are translucent and starting to caramelize.",
+    "Add the sliced mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "In a large bowl, combine the cooked onions and mushrooms, smoked paprika, salt, and black pepper.",
+    "In a separate bowl, mix the non-dairy cheese and tomato paste.",
+    "In a vessel lined with agave leaves, create a layer of potatoes, followed by a layer of the onion and mushroom mixture, and then a layer of the cheese and tomato paste mixture.",
+    "Repeat the layers two more times, ending with a layer of potatoes on top.",
+    "Cover the vessel with a lid and bake for 45 minutes, then remove the lid and bake for an additional 15 minutes, or until the potatoes are golden brown.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "hearty",
+    "homemade",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intensely-earthy-slovakian-sausages-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-earthy-slovakian-sausages-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:26:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "german sausages",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "sausages",
+    "descriptor": "intensely earthy",
+    "dishForm": "Casserole"
+  }
+}
