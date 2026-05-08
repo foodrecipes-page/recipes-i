@@ -1,0 +1,123 @@
+{
+  "title": "slow-cooked mexican beef stew",
+  "description": "rich, chewy, and flavorful mexican stew featuring ground nutmeg, served with warm flour tortillas. perfect for a date-night dinner",
+  "cuisine": "mexican",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef substitute (such as lentils or mushrooms)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "14 ounces",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm flour tortillas",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat oil in a large kazan-cauldron over medium-high heat. add the onion and cook until browned, about 5 minutes.",
+    "add the garlic and cook for 1 minute, until fragrant.",
+    "add the ground beef substitute, cumin, oregano, and nutmeg. cook, breaking up with a spoon, until the mixture is lightly browned, about 5 minutes.",
+    "add the chili powder and cook for 1 minute, until fragrant.",
+    "add the diced tomatoes and beef broth. bring to a simmer.",
+    "reduce heat to low and cook, covered, for 2 hours, until the stew is thick and the flavors have melded together.",
+    "season with salt and pepper to taste.",
+    "warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "serve the stew hot, garnished with a dollop of sour cream and a sprinkle of shredded cheese.",
+    "offer warm flour tortillas on the side for wrapping.",
+    "reheat the stew, if needed, before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "hearty",
+    "mexican",
+    "one-pan",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "indulgent-slow-cooked-mexican-beef-free-ground-meat-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-slow-cooked-mexican-beef-free-ground-meat-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:59:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef free ground meat",
+    "descriptor": "indulgent slow-cooked",
+    "dishForm": "Stew"
+  }
+}
