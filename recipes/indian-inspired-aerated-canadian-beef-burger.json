@@ -1,0 +1,108 @@
+{
+  "title": "Indian-inspired Aerated Canadian Beef Burger",
+  "description": "A unique, easy-to-make burger featuring an aerated Canadian beef patty, topped with tandoori spices and served in a mason jar.",
+  "cuisine": "Indian-Canadian fusion",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "60g"
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp"
+    },
+    {
+      "name": "ground cloves",
+      "amount": "1/2tsp"
+    },
+    {
+      "name": "tandoori spice mix",
+      "amount": "2tsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "120ml"
+    },
+    {
+      "name": "mason jar",
+      "amount": "1"
+    },
+    {
+      "name": "buns",
+      "amount": "4"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2"
+    },
+    {
+      "name": "tomato",
+      "amount": "1"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the ground beef, all-purpose flour, salt, and ground cloves.",
+    "Mix the beef mixture until it's well combined.",
+    "Add the tandoori spice mix and mix well.",
+    "Using your hands, shape the beef mixture into 4 patties.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Bake the patties in the preheated oven for 15 minutes.",
+    "While the patties are baking, toast the buns on the oven rack.",
+    "In a small bowl, mix the beef broth with the mayonnaise.",
+    "Assemble the burgers by spreading the beef broth-mayonnaise mixture on the bottom bun, followed by a beef patty, some onion, tomato, and cucumber, and finally the top bun.",
+    "Garnish with additional tandoori spice mix if desired.",
+    "Serve the burgers in mason jars."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-protein",
+    "indian-fusion",
+    "mason-jar",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 30
+  },
+  "slug": "indian-inspired-aerated-canadian-beef-burger",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indian-inspired-aerated-canadian-beef-burger",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:07:41Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "tandoor",
+    "primaryIngredient": "ground clove",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "beef",
+    "descriptor": "Indian-inspired aerated",
+    "dishForm": "Burger"
+  }
+}
