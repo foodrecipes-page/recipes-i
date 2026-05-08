@@ -1,0 +1,96 @@
+{
+  "title": "Intensely Energizing Korean Pork Anju Jjigae",
+  "description": "A garlicky and gooey Korean dish from the Gyeongsang region, featuring cocoa for an energizing twist, this anju jjigae is perfect for a snack, and is onion and garlic free for those with sensitivities.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "1/2 cup",
+      "notes": "cut into small cubes"
+    }
+  ],
+  "instructions": [
+    "Cut the pork belly into small pieces and set aside.",
+    "Mix the cocoa powder, gochujang, soy sauce, and brown sugar in a large bowl.",
+    "Add the sesame oil to the bowl and stir until well combined.",
+    "Add the pork belly, green chili peppers, and firm tofu to the bowl and stir until everything is well coated.",
+    "Transfer the mixture to a large pot and add 2 cups of water.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Stir in the toasted sesame seeds and continue to simmer for another 10 minutes.",
+    "Remove the pot from the heat and let it cool for a few minutes before serving.",
+    "Serve the anju jjigae hot, garnished with additional toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anju",
+    "cocoa-powder",
+    "jjigae",
+    "korean-cuisine",
+    "pork-recipes",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "intensely-energizing-korean-pork-anju-jjigae",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-energizing-korean-pork-anju-jjigae",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:52:46Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "simmer",
+    "primaryIngredient": "cocoa",
+    "diet": "no-onion-no-garlic",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Intensely Energizing",
+    "dishForm": "Anju Jjigae"
+  }
+}
