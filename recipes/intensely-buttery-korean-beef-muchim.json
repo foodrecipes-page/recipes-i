@@ -1,0 +1,98 @@
+{
+  "title": "Intensely Buttery Korean Beef Muchim",
+  "description": "A quick-fix Korean dish featuring tender beef, buttery chimichurri sauce, and paleo-friendly ingredients, all pressure-cooked to perfection in a muchim form.",
+  "cuisine": "Korean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Press the saute button on the pressure cooker and melt 2 tablespoons of butter until foamy.",
+    "Add the sliced beef to the pressure cooker and cook until browned, about 3 minutes.",
+    "Add the minced garlic and grated ginger to the pressure cooker and cook for 1 minute, until fragrant.",
+    "Add the chimichurri sauce, coconut aminos, sesame oil, salt, and black pepper to the pressure cooker, stirring to combine.",
+    "Close the lid of the pressure cooker and set the valve to sealing, then cook on high pressure for 10 minutes.",
+    "Let the pressure release naturally for 5 minutes, then quick-release any remaining pressure.",
+    "Stir in the remaining 2 tablespoons of butter until melted and smooth.",
+    "Serve the beef muchim hot, garnished with toasted sesame seeds and chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian-inspired",
+    "beef-recipes",
+    "korean-food",
+    "paleo-friendly",
+    "pressure-cooker",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "intensely-buttery-korean-beef-muchim",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-buttery-korean-beef-muchim",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:27:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "paleo",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "Intensely Buttery",
+    "dishForm": "Muchim"
+  }
+}
