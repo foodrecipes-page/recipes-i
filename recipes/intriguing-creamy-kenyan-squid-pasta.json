@@ -1,0 +1,103 @@
+{
+  "title": "Intriguing Creamy Kenyan Squid Pasta",
+  "description": "A sweet and creamy Kenyan dish featuring squid and pasta, perfect for a brunch mood, this ovo-vegetarian friendly recipe is a must try.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Squid tubes",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into rings"
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 ounces",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, melt the butter over medium heat and saute the onion and garlic until softened.",
+    "Add the squid rings to the skillet and cook for 2-3 minutes until opaque and tender.",
+    "In a large bowl, whisk together the heavy cream, eggs, paprika, salt, and black pepper.",
+    "Add the cooked pasta to the bowl and toss with the cream mixture until the pasta is well coated.",
+    "Add the cooked squid to the bowl and toss with the pasta and cream mixture until well combined.",
+    "Return the skillet to medium heat and add the pasta and squid mixture, cooking for an additional 2 minutes until heated through.",
+    "Serve the creamy squid pasta hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "creamy",
+    "kenyan",
+    "one-pan",
+    "ovo-vegetarian",
+    "pasta",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 25,
+    "fat": 24
+  },
+  "slug": "intriguing-creamy-kenyan-squid-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intriguing-creamy-kenyan-squid-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:02:15Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "squid",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "squid",
+    "descriptor": "intriguing creamy",
+    "dishForm": "Pasta"
+  }
+}
