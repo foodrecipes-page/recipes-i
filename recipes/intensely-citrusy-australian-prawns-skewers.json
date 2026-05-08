@@ -1,0 +1,99 @@
+{
+  "title": "Intensely Citrusy Australian Prawns Skewers",
+  "description": "A flavorful and adventurous Australian dish featuring succulent prawns, citrusy butter, and a robata-grill finish, this recipe is FODMAP-friendly and perfect for a dinner gathering.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon",
+      "notes": "FODMAP-friendly"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to medium-high heat.",
+    "Thread the prawns onto skewers, leaving a small space between each prawn.",
+    "In a small bowl, mix together the softened butter, lemon zest, orange zest, lemon juice, orange juice, garlic-infused oil, salt, and black pepper.",
+    "Brush the citrusy butter mixture onto both sides of the prawns.",
+    "Grill the prawn skewers for 2-3 minutes per side, or until they are pink and cooked through.",
+    "Serve the prawn skewers immediately, garnished with additional lemon zest and orange zest if desired.",
+    "Repeat the grilling process for the remaining prawn skewers.",
+    "Let the prawn skewers rest for 1 minute before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "fodmap-friendly",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "intensely-citrusy-australian-prawns-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-citrusy-australian-prawns-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:45:50Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "robata-grill",
+    "primaryIngredient": "butter",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "prawns",
+    "descriptor": "intensely citrusy",
+    "dishForm": "Skewers"
+  }
+}
