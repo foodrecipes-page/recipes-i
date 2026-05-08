@@ -1,0 +1,105 @@
+{
+  "title": "Intensely Cheesy Slovakian Ham Lasagna",
+  "description": "A rich and satisfying Slovakian dish featuring ham and a blend of cheeses, made easy with a quick-fix approach and dash-friendly seasoning, incorporating kombu-cold-extract for added depth.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "Slovakian ham",
+      "amount": "1 lb",
+      "notes": "diced"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "15 oz",
+      "notes": "whole milk"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "4 oz",
+      "notes": "grated"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "dash seasoning",
+      "amount": "1 tsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the diced Slovakian ham until lightly browned.",
+    "In a large bowl, combine the ricotta cheese, mozzarella cheese, parmesan cheese, kombu-cold-extract, and dash seasoning, and mix well.",
+    "Stir in the beaten eggs and set the cheese mixture aside.",
+    "In a 9x13 inch baking dish, create a thin layer of the cheese mixture on the bottom.",
+    "Arrange 4 lasagna noodles on top of the cheese layer.",
+    "Spread half of the remaining cheese mixture over the noodles, followed by half of the sauteed ham.",
+    "Repeat the layers, starting with the noodles, then the cheese mixture, and finally the remaining ham.",
+    "Top the final layer of noodles with the remaining cheese mixture and sprinkle with additional parmesan cheese if desired.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "high-protein",
+    "meat-based",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "intensely-cheesy-slovakian-ham-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-cheesy-slovakian-ham-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:34:59Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "ham",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "ham",
+    "descriptor": "intensely cheesy",
+    "dishForm": "Lasagna"
+  }
+}
