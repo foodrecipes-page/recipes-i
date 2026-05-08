@@ -1,0 +1,97 @@
+{
+  "title": "Intensely Lazy Dutch Malai Pilaf",
+  "description": "A winey and pillowy Dutch dish featuring malai, perfect for a lazy Sunday, made with sugar-free friendly ingredients and cooked on a salt block.",
+  "cuisine": "Dutch",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "malai",
+      "amount": "1 cup",
+      "notes": "Indian cream"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block in the oven at 400 degrees Fahrenheit for 30 minutes.",
+    "Heat the butter on the preheated salt block over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the white wine and cook until the liquid is almost completely reduced.",
+    "Add the malai and stir to combine with the onion and garlic mixture.",
+    "Add the basmati rice and stir to combine with the malai mixture.",
+    "Season with salt and black pepper to taste.",
+    "Cover the salt block with a lid or foil and cook for an additional 20 minutes or until the rice is cooked and the liquid is absorbed.",
+    "Serve the Intensely Lazy Dutch Malai Pilaf hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "indian-inspired",
+    "lazy-sunday",
+    "one-pan",
+    "weeknight",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intensely-lazy-dutch-malai-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-lazy-dutch-malai-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:25:37Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "saute",
+    "primaryIngredient": "malai",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "malai",
+    "descriptor": "intensely lazy",
+    "dishForm": "Pilaf"
+  }
+}
