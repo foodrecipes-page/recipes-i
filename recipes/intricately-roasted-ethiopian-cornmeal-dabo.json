@@ -1,0 +1,94 @@
+{
+  "title": "Intricately Roasted Ethiopian Cornmeal Dabo",
+  "description": "A traditional Ethiopian dish made with cornmeal and roasted to perfection in a wood-fired oven, this dabo is a fluffy and festive treat, friendly to gluten-free diets.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together the cornmeal, salt, and baking powder.",
+    "Gradually add in the water, stirring with a wooden spoon until the mixture forms a smooth batter.",
+    "Heat the vegetable oil in a skillet over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and berbere spice to the skillet and cook for an additional minute.",
+    "Stir the skillet contents into the cornmeal batter until well combined.",
+    "Pour the batter into a greased 9-inch round cake pan or a traditional Ethiopian clay mitad.",
+    "Place the pan in the preheated wood-fired oven and roast for 30-40 minutes, or until the dabo is golden brown and firm to the touch.",
+    "Remove the dabo from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cornmeal-based",
+    "festive",
+    "gluten-free",
+    "roasted",
+    "traditional-ethiopian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "intricately-roasted-ethiopian-cornmeal-dabo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-roasted-ethiopian-cornmeal-dabo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:15:17Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "cornmeal",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Intricately Roasted",
+    "dishForm": "Dabo"
+  }
+}
