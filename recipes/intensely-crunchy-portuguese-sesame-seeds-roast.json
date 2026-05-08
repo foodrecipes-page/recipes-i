@@ -1,0 +1,99 @@
+{
+  "title": "Intensely Crunchy Portuguese Sesame Seeds Roast",
+  "description": "A plant-based friendly Portuguese dish featuring sesame seeds and roast, perfect for a midnight craving with its umami and crunchy texture.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sesame seeds",
+      "amount": "1/2 cup",
+      "notes": "white or black"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, mix together the sesame seeds, smoked paprika, salt, black pepper, garlic powder, and dried oregano.",
+    "Add the chickpeas to the bowl and stir until they are evenly coated with the sesame seed mixture.",
+    "Drizzle the olive oil over the chickpeas and stir again to combine.",
+    "Spread the chickpeas out in a single layer on a baking sheet lined with parchment paper.",
+    "Roast the chickpeas in the preheated oven for 30 minutes, or until they are crispy and golden brown.",
+    "Remove the chickpeas from the oven and stir in the lemon juice.",
+    "Return the chickpeas to the oven and roast for an additional 5 minutes, or until they are intensely crunchy.",
+    "Remove the chickpeas from the oven and let them cool completely on the baking sheet."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-snack",
+    "easy-to-make",
+    "midnight-craving",
+    "plant-based",
+    "portuguese-cuisine",
+    "umami-flavor"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "intensely-crunchy-portuguese-sesame-seeds-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-crunchy-portuguese-sesame-seeds-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:25:55Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "roast",
+    "primaryIngredient": "sesame seed",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "seeds",
+    "descriptor": "Intensely crunchy",
+    "dishForm": "Roast"
+  }
+}
