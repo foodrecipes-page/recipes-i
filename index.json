@@ -4083,6 +4083,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-bouncy-filipino-chocolate-menudo",
+    "title": "Intense Bouncy Filipino Chocolate Menudo",
+    "tags": [
+      "chocolate-recipe",
+      "fermented-food",
+      "filipino-food",
+      "tofu-dish",
+      "unique-dinner",
+      "vegetarian-option"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 65,
+    "shard": "i"
+  },
+  {
     "slug": "intense-brazilian-baby-squid-skewers",
     "title": "Intense Brazilian Baby Squid Skewers",
     "tags": [
@@ -5273,6 +5288,22 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 70,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-resinous-slovakian-salmon-pate",
+    "title": "Intense Resinous Slovakian Salmon Pate",
+    "tags": [
+      "aerated",
+      "gluten-free",
+      "high-protein",
+      "midnight-craving",
+      "ramekin",
+      "resinous",
+      "slovakian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {

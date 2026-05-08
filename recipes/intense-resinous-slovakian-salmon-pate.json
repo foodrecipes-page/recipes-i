@@ -1,0 +1,101 @@
+{
+  "title": "Intense Resinous Slovakian Salmon Pate",
+  "description": "A rich and creamy salmon pate with a resinous flavor, traditionally served in Slovakia as a midnight craving snack, this ayurvedic-tamasic-friendly dish is made with mortar-pestle-pounded ingredients and served in a ramekin.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked salmon",
+      "amount": "8 ounces",
+      "notes": "wild-caught"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pine resin",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a mortar, pound the smoked salmon with a pestle until it reaches a smooth consistency.",
+    "Add the unsalted butter to the mortar and continue pounding until well combined.",
+    "Stir in the chopped fresh dill, chives, lemon juice, garlic, and black pepper.",
+    "Add the pine resin to the mixture and stir until well combined.",
+    "Gradually add the heavy cream to the mixture, stirring until a smooth and creamy pate forms.",
+    "Taste and adjust the seasoning as needed.",
+    "Spoon the pate into individual ramekins.",
+    "Chill the pate in the refrigerator for at least 30 minutes before serving.",
+    "Serve the pate chilled, garnished with additional chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "gluten-free",
+    "high-protein",
+    "midnight-craving",
+    "ramekin",
+    "resinous",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 22
+  },
+  "slug": "intense-resinous-slovakian-salmon-pate",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-resinous-slovakian-salmon-pate",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:00:36Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "salmon",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "salmon",
+    "descriptor": "intense resinous",
+    "dishForm": "Pate"
+  }
+}

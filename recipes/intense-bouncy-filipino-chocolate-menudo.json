@@ -1,0 +1,98 @@
+{
+  "title": "Intense Bouncy Filipino Chocolate Menudo",
+  "description": "A unique and tangy Filipino dish featuring dark chocolate and a bouncy texture, made with satvik-friendly ingredients and a fermentation process.",
+  "cuisine": "Filipino",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dark chocolate",
+      "amount": "1 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cut the tofu into small cubes and set aside.",
+    "Melt the dark chocolate in a double boiler and set aside.",
+    "In a large pot, combine the vinegar, water, salt, and black pepper, and bring to a boil.",
+    "Add the garlic, onion, and tomato paste to the pot and simmer for 10 minutes.",
+    "Add the tofu to the pot and simmer for another 10 minutes.",
+    "Stir in the melted dark chocolate and continue to simmer for 5 minutes.",
+    "Remove the pot from the heat and let it cool to room temperature.",
+    "Cover the pot and refrigerate for at least 2 hours to allow the flavors to meld.",
+    "Serve the menudo chilled, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-recipe",
+    "fermented-food",
+    "filipino-food",
+    "tofu-dish",
+    "unique-dinner",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "intense-bouncy-filipino-chocolate-menudo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-bouncy-filipino-chocolate-menudo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:01:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "ferment",
+    "primaryIngredient": "dark chocolate",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chocolate",
+    "descriptor": "Intense Bouncy",
+    "dishForm": "Menudo"
+  }
+}
