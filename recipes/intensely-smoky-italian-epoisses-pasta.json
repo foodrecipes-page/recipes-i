@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Smoky Italian Epoisses Pasta",
+  "description": "A smoky and savory Italian dish featuring epoisses cheese and a miso marinade, this pasta is a quick fix for a weeknight dinner. It is halal-friendly and made with simple ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "epoisses cheese",
+      "amount": "8 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions.",
+    "In a small bowl, whisk together the miso paste, olive oil, smoked paprika, garlic powder, salt, and black pepper to make the marinade.",
+    "In a large skillet, heat the marinade over medium heat and add the halved cherry tomatoes.",
+    "Cook the cherry tomatoes for 3-4 minutes or until they start to release their juices.",
+    "Add the crumbly epoisses cheese to the skillet and stir until it starts to melt and combine with the cherry tomatoes.",
+    "Drain the cooked pappardelle pasta and add it to the skillet, tossing everything together to combine.",
+    "Season with additional salt and black pepper if needed.",
+    "Transfer the pasta to a serving dish and top with chopped fresh parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "halal-friendly",
+    "italian",
+    "one-pan",
+    "pasta-lover",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "intensely-smoky-italian-epoisses-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-italian-epoisses-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:08:07Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "miso-marinate",
+    "primaryIngredient": "epoisses",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "epoisses",
+    "descriptor": "Intensely Smoky",
+    "dishForm": "Pasta"
+  }
+}
