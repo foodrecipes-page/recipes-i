@@ -1,0 +1,104 @@
+{
+  "title": "Intensely Umami Korean Ovoli Mushroom Banchan",
+  "description": "A low-calorie, crispy Korean dish featuring ovoli mushrooms, perfect for a date night, with intense umami flavor from yuzu cure.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ovoli mushrooms",
+      "amount": "12 oz",
+      "notes": "cleaned and sliced"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yuzu juice, soy sauce, garlic, ginger, sesame oil, brown sugar, and crushed black pepper to make the yuzu cure.",
+    "Add the sliced ovoli mushrooms to the bowl and toss to coat with the yuzu cure.",
+    "Let the mushrooms marinate for at least 30 minutes to allow the flavors to penetrate.",
+    "Preheat a non-stick skillet or wok over medium-high heat.",
+    "Remove the mushrooms from the marinade, letting any excess liquid drip off.",
+    "Add the mushrooms to the preheated skillet and cook until they are crispy and golden brown, about 5 minutes per side.",
+    "Transfer the cooked mushrooms to a plate and sprinkle with toasted sesame seeds and chopped green onions.",
+    "Serve the intensely umami Korean ovoli mushroom banchan hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "date-night",
+    "korean-cuisine",
+    "low-calorie",
+    "mushroom-dish",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "intensely-umami-korean-ovoli-mushroom-banchan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-umami-korean-ovoli-mushroom-banchan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:10:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "ovoli mushroom",
+    "descriptor": "Intensely Umami",
+    "dishForm": "Banchan"
+  }
+}
