@@ -1,0 +1,91 @@
+{
+  "title": "Inviting Light Norwegian Kabanos Sausage Toast",
+  "description": "A cozy and light Norwegian dish featuring kabanos sausages and toast, perfect for a flexitarian snack. It combines the savory flavors of sausage with the comfort of toasted bread.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kabanos sausages",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Butter each slice of bread on one side.",
+    "Place the bread slices butter side down in the skillet and toast until golden brown.",
+    "Flip the bread slices over and top each with a slice of kabanos sausage.",
+    "Spread a layer of mayonnaise on top of the sausage.",
+    "Add a dollop of dijon mustard on top of the mayonnaise.",
+    "Sprinkle chopped parsley over the mustard.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-snacks",
+    "flexitarian-friendly",
+    "norwegian-cuisine",
+    "sausage-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "inviting-light-norwegian-kabanos-sausage-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/inviting-light-norwegian-kabanos-sausage-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:58:41Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "toast",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "kabanos sausages",
+    "descriptor": "Inviting Light",
+    "dishForm": "Toast"
+  }
+}
