@@ -1,0 +1,92 @@
+{
+  "title": "Intensely Smoky American Sweet Potato Bowl",
+  "description": "A smoky, silky, and satisfying American dish featuring chilli flakes and render fat, perfect for a Jain-friendly brunch",
+  "cuisine": "American",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Render fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chilli flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, toss the diced sweet potatoes with render fat, chilli flakes, smoked paprika, garlic powder, salt, and black pepper until they are evenly coated",
+    "Spread the sweet potatoes out in a single layer on a baking sheet and roast for 20 minutes",
+    "After 20 minutes, stir the sweet potatoes and continue to roast for an additional 15 minutes, or until they are tender and lightly browned",
+    "While the sweet potatoes are roasting, prepare the lacquerware bowls by warming them in the oven for a few minutes",
+    "To assemble the bowls, divide the roasted sweet potatoes among the warmed lacquerware bowls",
+    "Garnish each bowl with chopped fresh cilantro and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "brunch",
+    "jain-friendly",
+    "smoky",
+    "sweet-potato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intensely-smoky-american-sweet-potato-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-american-sweet-potato-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:03:38Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "render-fat",
+    "primaryIngredient": "chilli flakes",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "intensely smoky",
+    "dishForm": "Bowl"
+  }
+}
