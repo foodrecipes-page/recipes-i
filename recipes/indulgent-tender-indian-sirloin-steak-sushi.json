@@ -1,0 +1,103 @@
+{
+  "title": "Indulgent Tender Indian Sirloin Steak Sushi",
+  "description": "A unique fusion dish combining the tenderness of Indian sirloin steak with the delicacy of sushi, featuring Kerala-inspired flavors and shojin-friendly ingredients.",
+  "cuisine": "Indian-Japanese",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1 pound",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "northern indian spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nori sheets",
+      "amount": "1 package"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "wasabi paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the sirloin steak with garam masala, curry powder, and northern indian spices.",
+    "Heat sesame oil in a skillet over medium-high heat and sear the steak for 2-3 minutes per side.",
+    "Finish cooking the steak in the oven to an internal temperature of 130 degrees Fahrenheit for medium-rare.",
+    "Let the steak rest for 10 minutes before slicing it into thin strips.",
+    "Prepare the sushi rice according to the package instructions and allow it to cool.",
+    "Cut the nori sheets into smaller pieces and shape the cooled sushi rice into nigiri shapes.",
+    "Place a slice of the steak onto each nigiri shape and top with a small amount of wasabi paste and pickled ginger if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "indian-fusion",
+    "japanese-inspired",
+    "shojin-friendly",
+    "steak-recipes",
+    "sushi-creations"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "indulgent-tender-indian-sirloin-steak-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-tender-indian-sirloin-steak-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:33:30Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "sirloin steak",
+    "diet": "shojin",
+    "region": "kerala",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "sirloin steak",
+    "descriptor": "Indulgent tender",
+    "dishForm": "Sushi"
+  }
+}

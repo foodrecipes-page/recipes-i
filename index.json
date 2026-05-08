@@ -2873,6 +2873,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-tender-indian-sirloin-steak-sushi",
+    "title": "Indulgent Tender Indian Sirloin Steak Sushi",
+    "tags": [
+      "dinner-ideas",
+      "indian-fusion",
+      "japanese-inspired",
+      "shojin-friendly",
+      "steak-recipes",
+      "sushi-creations"
+    ],
+    "cuisine": "Indian-Japanese",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-thai-mars-bar-bars",
     "title": "Indulgent Thai Mars Bar Bars",
     "tags": [
@@ -5364,6 +5379,20 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 15,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-velvety-dutch-haggis-stew",
+    "title": "Intense Velvety Dutch Haggis Stew",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "hearty-stew",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {

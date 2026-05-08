@@ -1,0 +1,101 @@
+{
+  "title": "Intense Velvety Dutch Haggis Stew",
+  "description": "A sour and velvety Dutch dish featuring haggis, perfect for a weeknight dinner, and friendly to dairy-free diets.",
+  "cuisine": "Dutch",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "1 pound",
+      "notes": "traditional Scottish dish made from sheep's heart, liver, and lungs, mixed with onion, oatmeal, and spices"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the pressure cooker over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes.",
+    "Add the haggis, vegetable broth, apple cider vinegar, tomato paste, salt, and black pepper to the pressure cooker.",
+    "Stir well to combine, then close the lid of the pressure cooker.",
+    "Cook at high pressure for 20 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Open the lid and check that the vegetables are tender, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "hearty-stew",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "intense-velvety-dutch-haggis-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-velvety-dutch-haggis-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:32:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "haggis",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "haggis",
+    "descriptor": "intense velvety",
+    "dishForm": "Stew"
+  }
+}
