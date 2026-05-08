@@ -1,0 +1,98 @@
+{
+  "title": "Incredibly Rich Spanish Beans Fabada Asturiana",
+  "description": "A rich and cozy Spanish dish featuring rapeseed oil and ferment-kimchi, perfect for a flexitarian-friendly meal. This recipe combines the flavors of Spain with a twist of Korean kimchi.",
+  "cuisine": "Spanish",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rapeseed oil",
+      "amount": "2 tablespoons",
+      "notes": "use high quality oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "spanish beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "use sweet or hot paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use sea salt or kosher salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "use freshly ground pepper"
+    }
+  ],
+  "instructions": [
+    "Heat the rapeseed oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the ferment-kimchi, spanish beans, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve the fabada asturiana hot, garnished with chopped fresh parsley or cilantro.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "incredibly-rich-spanish-beans-fabada-asturiana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-rich-spanish-beans-fabada-asturiana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:26:22Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "beans",
+    "descriptor": "Incredibly Rich",
+    "dishForm": "Fabada Asturiana"
+  }
+}
