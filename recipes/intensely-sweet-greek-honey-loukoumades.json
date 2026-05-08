@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Sweet Greek Honey Loukoumades",
+  "description": "A traditional Greek dessert featuring crispy, sugar-coated loukoumades drizzled with intensely sweet honey, perfect for a brunch mood. This recipe incorporates a robata-grill for a unique twist and is paleo-friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "honey",
+      "amount": "1 cup",
+      "notes": "high-quality, raw honey"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together almond flour, coconut sugar, and salt.",
+    "In a separate bowl, whisk together eggs, vanilla extract, and lemon zest.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth batter forms.",
+    "Heat the coconut oil in a deep frying pan over medium heat.",
+    "Using a spoon, drop small balls of the batter into the hot oil, about 1 inch in diameter.",
+    "Fry the loukoumades for 2-3 minutes on each side, or until golden brown and crispy.",
+    "Remove the loukoumades from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Drizzle the loukoumades with intensely sweet honey and serve immediately.",
+    "For an added twist, grill the loukoumades on a robata-grill for 30 seconds to 1 minute, or until slightly charred.",
+    "Serve the loukoumades warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "greek-dessert",
+    "grilled-dish",
+    "honey-based",
+    "paleo-friendly",
+    "sweet-treat"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "intensely-sweet-greek-honey-loukoumades",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-sweet-greek-honey-loukoumades",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:35:37Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "robata-grill",
+    "primaryIngredient": "sugar",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "honey",
+    "descriptor": "Intensely Sweet",
+    "dishForm": "Loukoumades"
+  }
+}
