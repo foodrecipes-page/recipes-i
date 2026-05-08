@@ -1,0 +1,108 @@
+{
+  "title": "icy peppery ukrainian beef stew",
+  "description": "a hearty, comforting ukrainian beef stew featuring a silky texture and a bold peppery flavor.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass-fed beef stew meat",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 teaspoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of oil in a large cataplana over medium-high heat.",
+    "add the beef and cook until browned, about 5 minutes.",
+    "add the onion, garlic, and caraway seeds to the pot and cook until the onion is translucent.",
+    "add the hoisin sauce, beef broth, tomato paste, and bay leaves to the pot.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours.",
+    "remove the bay leaves and season the stew with salt and pepper to taste.",
+    "if using, stir in the apple cider vinegar.",
+    "serve the stew hot, garnished with fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "easy-one-pot-meal",
+    "ukrainian-cuisine",
+    "weeknight-dinner",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "icy-peppery-ukrainian-beef-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-peppery-ukrainian-beef-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:58:03Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "Icy Peppery",
+    "dishForm": "Stew"
+  }
+}
