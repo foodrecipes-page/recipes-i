@@ -1,0 +1,101 @@
+{
+  "title": "Russian Blini Fermentation Casserole",
+  "description": "A comforting casserole that combines strong white flour with an intense fermentation process, all topped with a flambe finish. This recipe is free from dairy products for those with dietary restrictions.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White flour",
+      "amount": "250g"
+    },
+    {
+      "name": "Cultured milk alternative",
+      "amount": "200g",
+      "notes": "such as soy milk or almond milk"
+    },
+    {
+      "name": "Fresh yeast",
+      "amount": "2g"
+    },
+    {
+      "name": "Salt",
+      "amount": "10g"
+    },
+    {
+      "name": "Melted vegan butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Water",
+      "amount": "300g"
+    },
+    {
+      "name": "Fermentation starter",
+      "amount": "100g"
+    },
+    {
+      "name": "Paprika",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Heat the water to 90°F in a large mixing bowl.",
+    "Add the cultured milk alternative, yeast, and salt. Stir to combine.",
+    "Gradually add in the flour to make a sticky dough.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Cover the bowl with a clean towel and let the dough rest in a warm place for 4 hours.",
+    "Once rested, roll out the dough to a thickness of 1/4 inch.",
+    "Place the dough in a greased 9 x 13 inch baking dish.",
+    "Dimple the dough with a spoon and let it rest for another 2 hours.",
+    "Preheat the oven to 425°F.",
+    "Bake the casserole for 25 minutes or until the crust is golden brown.",
+    "While the casserole is baking, melt the vegan butter in a pan over medium heat.",
+    "Add the paprika and stir for 1 minute.",
+    "Remove the casserole from the oven and brush the melted butter mixture evenly over the top.",
+    "Return the casserole to the oven and bake for an additional 5 minutes, or until the top is caramelized.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 50,
+  "cookTimeMin": 30,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "dairy-free",
+    "fermented",
+    "gluten-free",
+    "high-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "intensely-fermented-russian-flour-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-fermented-russian-flour-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:45:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "flambe",
+    "primaryIngredient": "strong white flour",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "flour",
+    "descriptor": "Intensely Fermented",
+    "dishForm": "Casserole"
+  }
+}
