@@ -1,0 +1,100 @@
+{
+  "title": "Inviting Light Australian Vegetable Tagine",
+  "description": "A yeasty and light Australian dish featuring olive oil and tagine-cooked vegetables, perfect for a brunch mood, and is Jain-friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "dissolved in 1 tablespoon warm water"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, whisk together the olive oil, yeast mixture, and a pinch of salt.",
+    "In a separate bowl, toss the onion, garlic, zucchini, bell pepper, and cherry tomatoes with a pinch of salt.",
+    "Divide the vegetable mixture among 4 individual mini cocottes.",
+    "Drizzle the yeast and oil mixture over the vegetables in each cocotte.",
+    "Cover the cocottes with lids and bake for 25 minutes.",
+    "Remove the lids and bake for an additional 10 minutes, or until the vegetables are tender.",
+    "Remove the cocottes from the oven and let them cool for a few minutes.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "brunch-ideas",
+    "healthy-eating",
+    "jain-friendly",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "inviting-light-australian-vegetable-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/inviting-light-australian-vegetable-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:13:43Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "tagine-cook",
+    "primaryIngredient": "olive oil",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "vegetables",
+    "descriptor": "inviting light",
+    "dishForm": "Tagine"
+  }
+}
