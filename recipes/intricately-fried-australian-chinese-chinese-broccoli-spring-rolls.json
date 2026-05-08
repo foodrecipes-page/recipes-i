@@ -1,0 +1,94 @@
+{
+  "title": "Intricately Fried Australian Chinese Chinese Broccoli Spring Rolls",
+  "description": "Savory and springy, these crowd-pleasing Australian Chinese spring rolls feature Chinese broccoli and are fried to a crispy perfection, served in a banana leaf vessel, making them a jain-friendly delight.",
+  "cuisine": "Australian Chinese",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli",
+      "amount": "2 bunches",
+      "notes": "chopped"
+    },
+    {
+      "name": "Spring roll wrappers",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 liter"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Banana leaves",
+      "amount": "20 leaves"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 180 degrees Celsius.",
+    "In a large bowl, mix together the chopped Chinese broccoli, minced garlic, and grated ginger.",
+    "Lay a spring roll wrapper on a flat surface and place a tablespoon of the broccoli mixture in the center.",
+    "Brush the edges of the wrapper with sesame oil and fold the wrapper into a triangle, sealing the filling inside.",
+    "Repeat the process with the remaining wrappers and filling.",
+    "When the oil is hot, carefully place a few of the spring rolls into the pan and fry until golden brown.",
+    "Remove the spring rolls from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the spring rolls hot in a banana leaf vessel, garnished with a sprinkle of salt."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "australian-chinese",
+    "deep-fried",
+    "jain-friendly",
+    "snack",
+    "spring-rolls",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "intricately-fried-australian-chinese-chinese-broccoli-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-fried-australian-chinese-chinese-broccoli-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:48:32Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian Chinese",
+    "mainIngredient": "Chinese broccoli",
+    "descriptor": "Intricately fried",
+    "dishForm": "Spring-Rolls"
+  }
+}
