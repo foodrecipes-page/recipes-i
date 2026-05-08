@@ -1,0 +1,99 @@
+{
+  "title": "Indulgent Syrian Meat Tagine",
+  "description": "A rich and flavorful tagine featuring Syrian five spice powder, perfect for a comforting dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Short Ribs",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Syrian Five Spice Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the pressure cooker over medium-high heat.",
+    "Brown the beef short ribs on all sides, about 5 minutes.",
+    "Add the chopped onion and minced garlic to the pressure cooker and cook until the onion is translucent.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the water, Syrian five spice powder, salt, and black pepper to the pressure cooker.",
+    "Close the pressure cooker and cook at high pressure for 30 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Serve the tagine hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "low-glycemic",
+    "one-pot",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 960,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 60
+  },
+  "slug": "indulgent-syrian-meat-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-syrian-meat-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:26:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "pressure-cook",
+    "primaryIngredient": "five spice powder",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Meat",
+    "descriptor": "Indulgent",
+    "dishForm": "Tagine"
+  }
+}

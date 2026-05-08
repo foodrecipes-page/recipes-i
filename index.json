@@ -2862,6 +2862,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-seafood-style-norwegian-penne-rigate-pasta",
+    "title": "indulgent seafood-style norwegian penne rigate pasta",
+    "tags": [
+      "date-night",
+      "high-calorie",
+      "indulgent",
+      "norwegian",
+      "one-pan",
+      "rich-and-creamy",
+      "seafood"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-shaggy-roasted-kenyan-zucchini-roast",
     "title": "Indulgent Shaggy Roasted Kenyan Zucchini Roast",
     "tags": [
@@ -3286,6 +3302,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-syrian-meat-tagine",
+    "title": "Indulgent Syrian Meat Tagine",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "low-glycemic",
+      "one-pot",
+      "pressure-cooker"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {

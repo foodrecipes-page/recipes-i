@@ -1,0 +1,120 @@
+{
+  "title": "indulgent seafood-style norwegian penne rigate pasta",
+  "description": "a rich and creamy norwegian-inspired penne rigate pasta with seafood flavor, perfect for a romantic date night. this dish is free from animal products.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne rigate pasta",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "crab meat",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "hollandaise sauce",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium heat.",
+    "add the chopped onion and cook until translucent, about 5 minutes.",
+    "add the minced garlic and cook for another minute.",
+    "add the crab meat and smoked salmon, cook for 2-3 minutes until heated through.",
+    "add the hollandaise sauce and stir to combine.",
+    "season with salt and pepper to taste.",
+    "add the cooked penne rigate pasta to the skillet and toss to combine.",
+    "transfer the pasta to a bento box and garnish with chopped parsley and dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "high-calorie",
+    "indulgent",
+    "norwegian",
+    "one-pan",
+    "rich-and-creamy",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "indulgent-seafood-style-norwegian-penne-rigate-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-seafood-style-norwegian-penne-rigate-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:07Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "rest-meat",
+    "primaryIngredient": "penne rigate",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "penne rigate",
+    "descriptor": "Indulgent Seafood-Style",
+    "dishForm": "Pasta"
+  }
+}
