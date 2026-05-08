@@ -1,0 +1,96 @@
+{
+  "title": "Icy Herbal Syrian Lamb Kebabs",
+  "description": "A refreshing and flavorful Syrian dish featuring lamb kebabs with a herbal twist, served with a side of piccalilli and a cooling ice bath shock, perfect for a low-carb brunch",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "piccalilli",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together olive oil, parsley, mint, garlic, and lemon juice",
+    "Add the lamb cubes to the bowl and toss to coat with the herbal mixture",
+    "Thread the lamb cubes onto skewers, leaving a small space between each cube",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until cooked to an internal temperature of 145 degrees",
+    "Meanwhile, prepare the piccalilli according to package instructions",
+    "Once the kebabs are cooked, immediately submerge them in an ice bath to stop the cooking process",
+    "Serve the kebabs with a side of piccalilli and garnish with additional parsley and mint if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "gluten-free",
+    "herbal",
+    "kebabs",
+    "lamb",
+    "low-carb",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "icy-herbal-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-herbal-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:40:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "piccalilli",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "icy herbal",
+    "dishForm": "Kebabs"
+  }
+}
