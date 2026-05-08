@@ -710,6 +710,23 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-and-pillowy-indian-rigatoni-pav-bhaji",
+    "title": "Indulgent and Pillowy Indian Rigatoni Pav Bhaji",
+    "tags": [
+      "comfort-food",
+      "homemade-pav-bhaji",
+      "indian-street-food",
+      "mangalorean",
+      "no-garlic",
+      "no-onions",
+      "pillowy-pasta",
+      "rigatoni-pav-bhaji"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-argentinian-beef-stew",
     "title": "Indulgent Argentinian Beef Stew",
     "tags": [
@@ -1329,6 +1346,20 @@
     ],
     "cuisine": "north Indian",
     "totalTimeMin": 75,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-icy-vietnamese-ackee-bun-bo-hue",
+    "title": "Indulgent Icy Vietnamese Ackee Bun Bo Hue",
+    "tags": [
+      "cold-weather",
+      "egg-free",
+      "gluten-free",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {

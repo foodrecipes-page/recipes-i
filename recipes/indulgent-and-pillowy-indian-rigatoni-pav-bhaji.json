@@ -1,0 +1,121 @@
+{
+  "title": "Indulgent and Pillowy Indian Rigatoni Pav Bhaji",
+  "description": "A Mangalorean twist on the classic street food, featuring pillowy rigatoni, no onions, no garlic, and a resinous flavor profile.",
+  "cuisine": "Indian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rigatoni",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Mangalorean Spice Blend",
+      "amount": "2 tsp",
+      "notes": "Custom blend of cinnamon, cardamom, nutmeg, and cloves."
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "Plain, full-fat."
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "1 cup",
+      "notes": "Fresh or canned."
+    },
+    {
+      "name": "Corn Flour",
+      "amount": "2 tbsp",
+      "notes": "For thickening."
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cheese Shreds",
+      "amount": "1 cup",
+      "notes": "Optional, for serving."
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 bunch",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Nigella Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp butter in a tava-griddle over medium heat.",
+    "Add 2 tbsp mangalorean spice blend and saut\u00187 for 1 minute, until fragrant.",
+    "Add 2 tbsp ginger paste and 1 cup tomato puree, cooking for 3 minutes, until the mixture thickens slightly.",
+    "Add 2 cups water, salt, and 1 tsp nigella seeds, stirring to combine.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Add 1 cup yogurt, 1 cup cheese shreds (if using), and 1 tsp corn flour, stirring until smooth.",
+    "Add 500g rigatoni to the tava-griddle and cook for 5-7 minutes, until slightly toasted, stirring occasionally.",
+    "Serve hot, garnished with fresh cilantro and nigella seeds.",
+    "Garnish with nigella seeds and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "homemade-pav-bhaji",
+    "indian-street-food",
+    "mangalorean",
+    "no-garlic",
+    "no-onions",
+    "pillowy-pasta",
+    "rigatoni-pav-bhaji"
+  ],
+  "nutrition": {
+    "calories": 960,
+    "protein": 24,
+    "carbs": 160,
+    "fat": 40
+  },
+  "slug": "indulgent-and-pillowy-indian-rigatoni-pav-bhaji",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-and-pillowy-indian-rigatoni-pav-bhaji",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:54:26Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "rigatoni",
+    "diet": "no-onion-no-garlic",
+    "region": "mangalorean",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "rigatoni",
+    "descriptor": "indulgent and pillowy",
+    "dishForm": "Pav Bhaji"
+  }
+}

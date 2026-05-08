@@ -1,0 +1,101 @@
+{
+  "title": "Indulgent Icy Vietnamese Ackee Bun Bo Hue",
+  "description": "A creamy, malty, and dense Vietnamese one-pot dish featuring ackee, perfect for a cold winter day. This egg-free-friendly version of the classic Bun Bo Hue is sure to become a favorite.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup, drained and chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "2 inches"
+    }
+  ],
+  "instructions": [
+    "In a large hot pot, combine chicken broth, fish sauce, soy sauce, sugar, and minced ginger. Bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 10 minutes, or until the flavors have melded together.",
+    "Add the coconut milk and stir to combine.",
+    "Cook for an additional 5 minutes, or until the mixture has thickened slightly.",
+    "Add the ackee and stir to combine.",
+    "Cook for 2-3 minutes, or until the ackee has heated through.",
+    "Add the rice noodles to the pot and cook for 2-3 minutes, or until they have softened.",
+    "Stir in the chopped cilantro and lime juice.",
+    "Serve the Bun Bo Hue hot, garnished with additional cilantro if desired.",
+    "Let each guest assemble their own bowl by adding noodles, ackee mixture, and desired garnishes.",
+    "Serve immediately and enjoy!",
+    "For an added touch, serve the Bun Bo Hue in a large, steaming hot pot, surrounded by an assortment of garnishes, such as lime wedges, chopped cilantro, and sliced chili peppers."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold-weather",
+    "egg-free",
+    "gluten-free",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 542,
+    "protein": 25,
+    "carbs": 65,
+    "fat": 32
+  },
+  "slug": "indulgent-icy-vietnamese-ackee-bun-bo-hue",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-icy-vietnamese-ackee-bun-bo-hue",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:54:23Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "smoke-cold",
+    "primaryIngredient": "ackee",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Ackee",
+    "descriptor": "Indulgent Icy",
+    "dishForm": "Bun Bo Hue"
+  }
+}
