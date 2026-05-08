@@ -1,0 +1,111 @@
+{
+  "title": "Intensely Savory British Beef Stew",
+  "description": "A hearty and comforting British beef stew with a rich, mustardy flavor, tender beef, and a hint of sweetness from amazake, all made keto-friendly and finished with a dramatic flambe",
+  "cuisine": "British",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "amazake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "brandy",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large Dutch oven over medium-high heat",
+    "Add the beef to the pot and cook until browned on all sides, about 5 minutes",
+    "Remove the browned beef from the pot and set it aside",
+    "Add the remaining 2 tablespoons of butter to the pot and cook until melted",
+    "Add the chopped onion to the pot and cook until it is softened and lightly browned, about 5 minutes",
+    "Add the minced garlic to the pot and cook for 1 minute",
+    "Add the amazake, Dijon mustard, thyme, salt, and black pepper to the pot and cook for 1 minute",
+    "Add the browned beef back to the pot and pour in the beef broth",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours",
+    "Stir in the brandy and cook for an additional 10 minutes",
+    "Ignite the brandy with a match and let it flambe for 30 seconds to 1 minute",
+    "Serve the stew hot, garnished with fresh thyme"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 170,
+  "totalTimeMin": 200,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "hearty-stew",
+    "keto-friendly",
+    "low-carb",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "intensely-savory-british-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-savory-british-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:25:39Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "flambe",
+    "primaryIngredient": "amazake",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "beef",
+    "descriptor": "intensely savory",
+    "dishForm": "Stew"
+  }
+}
