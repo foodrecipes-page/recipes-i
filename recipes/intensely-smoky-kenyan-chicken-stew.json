@@ -1,0 +1,107 @@
+{
+  "title": "Intensely Smoky Kenyan Chicken Stew",
+  "description": "A hearty and comforting Kenyan chicken stew with a smoky flavor, featuring peanut brittle and miso marinate, perfect for a sick day",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "peanut brittle",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together miso paste, peanut oil, smoked paprika, salt, and black pepper to make the marinade",
+    "Add the chicken to the marinade and mix well to coat, then cover and refrigerate for at least 30 minutes",
+    "Heat 1 tablespoon of peanut oil in a large Dutch oven over medium-high heat",
+    "Remove the chicken from the marinade and cook until browned on all sides, about 5-7 minutes",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute",
+    "Add the chicken broth to the pot and bring to a boil, then reduce the heat to low and simmer for 20 minutes",
+    "Stir in the crushed peanut brittle and cook for an additional 5 minutes",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "kenyan-cuisine",
+    "one-pot",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intensely-smoky-kenyan-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-kenyan-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:21:31Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "miso-marinate",
+    "primaryIngredient": "peanut brittle",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Intensely smoky",
+    "dishForm": "Stew"
+  }
+}
