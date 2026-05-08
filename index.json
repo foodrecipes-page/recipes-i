@@ -314,6 +314,21 @@
     "shard": "i"
   },
   {
+    "slug": "icy-garlicky-canadian-lettuce-toast",
+    "title": "Icy Garlicky Canadian Lettuce Toast",
+    "tags": [
+      "canadian-cuisine",
+      "egg-free",
+      "garlicky",
+      "quick-fix",
+      "refreshing",
+      "vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 15,
+    "shard": "i"
+  },
+  {
     "slug": "icy-herbal-syrian-lamb-kebabs",
     "title": "Icy Herbal Syrian Lamb Kebabs",
     "tags": [
