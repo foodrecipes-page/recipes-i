@@ -1,0 +1,104 @@
+{
+  "title": "Innovative Polish Eggplant Stew",
+  "description": "A fresh and fluffy one-pot Polish dish featuring pea-eggplant and a mirepoix base, perfect for a plant-based friendly meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add the chopped onion, carrots, and celery.",
+    "Cook the mirepoix base for 5 minutes, stirring occasionally, until the vegetables are tender.",
+    "Add the cubed eggplant to the pot and cook for an additional 5 minutes, stirring occasionally.",
+    "Pour in the vegetable broth, canned diced tomatoes, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed.",
+    "Stir in the chopped fresh parsley.",
+    "Serve the stew hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "one-pot",
+    "plant-based",
+    "polish-cuisine",
+    "vegetarian-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "innovative-polish-eggplant-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-polish-eggplant-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:29:15Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "pea-eggplant",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "eggplant",
+    "descriptor": "Innovative",
+    "dishForm": "Stew"
+  }
+}
