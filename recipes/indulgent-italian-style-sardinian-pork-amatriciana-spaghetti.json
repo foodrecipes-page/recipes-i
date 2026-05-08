@@ -1,0 +1,120 @@
+{
+  "title": "Sardinian Pork Amatriciana Spaghetti",
+  "description": "Fatty, crispy Italian dish featuring brine-wet Sardinian pork and keto-friendly unsalted butter. Perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto",
+    "pork",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sardinian Pork Shoulder",
+      "amount": "1.5 pounds",
+      "notes": "brine-wet, skin removed"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Guanciale or Pancetta",
+      "amount": "6 slices",
+      "notes": "Italian cured pork jowl"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Canned Tomatoes",
+      "amount": "28 ounces"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Spaghetti",
+      "amount": "12 ounces"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the spaghetti in a large pot of boiling, salted water until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, melt 2 tablespoons of unsalted butter over medium-high heat. Add the sliced onion and cook, stirring occasionally, until caramelized and golden brown.",
+    "Add the minced garlic to the skillet and cook, stirring constantly, for 1 minute.",
+    "Add the guanciale or pancetta to the skillet and cook, stirring occasionally, until crispy.",
+    "Add the canned tomatoes, red pepper flakes, and salt to the skillet. Stir to combine.",
+    "Add the cooked spaghetti to the skillet, tossing to combine with the tomato sauce.",
+    "Add the reserved pasta water to the skillet, if needed, to achieve a saucy consistency.",
+    "Transfer the skillet to the preheated oven and bake for 10-12 minutes, or until the top is golden brown and the sauce has thickened.",
+    "Remove the skillet from the oven and sprinkle with chopped fresh basil and grated Parmesan cheese.",
+    "Cook the brine-wet Sardinian pork shoulder in a separate oven-safe skillet over medium-high heat until browned on all sides.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the pork is cooked through and crispy on the outside.",
+    "Slice the cooked pork and serve alongside the amatriciana spaghetti."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "italian-cuisine",
+    "keto-friendly",
+    "one-pan",
+    "paleo",
+    "sardinian-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 960,
+    "protein": 64,
+    "carbs": 24,
+    "fat": 70
+  },
+  "slug": "indulgent-italian-style-sardinian-pork-amatriciana-spaghetti",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-italian-style-sardinian-pork-amatriciana-spaghetti",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:47:35Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "brine-wet",
+    "primaryIngredient": "unsalted butter",
+    "diet": "keto",
+    "region": "sardinian",
+    "cuisineAdjective": "Sardinian",
+    "mainIngredient": "pork",
+    "descriptor": "Indulgent Italian-Style",
+    "dishForm": "Amatriciana Spaghetti"
+  }
+}
