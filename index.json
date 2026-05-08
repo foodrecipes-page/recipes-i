@@ -6939,6 +6939,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-malty-middle-eastern-lamb-kebabs",
+    "title": "Malty Middle Eastern Lamb Kebabs",
+    "tags": [
+      "grilled",
+      "kebabs",
+      "lamb-recipes",
+      "low-fat",
+      "middle-eastern",
+      "post-workout"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-malty-saudi-arabian-chicken-pilaf",
     "title": "Intensely Malty Saudi Arabian Chicken Pilaf",
     "tags": [
@@ -8013,6 +8028,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-spicy-middle-eastern-lamb-shakshuka",
+    "title": "Intensely Spicy Middle Eastern Lamb Shakshuka",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {

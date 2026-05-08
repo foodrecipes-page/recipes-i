@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Spicy Middle Eastern Lamb Shakshuka",
+  "description": "A tangy and snappy post-workout Middle Eastern dish featuring ground cumin and lamb, perfect for a quick and flavorful meal. This gluten-free-friendly shakshuka is made with a spicy lamb marinade and served with crusty bread.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "canned, crushed"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, ground cumin, smoked paprika, cayenne pepper, salt, and black pepper, and mix well.",
+    "Heat a large cast-iron skillet over medium-high heat and add the lamb mixture, cooking until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onions and bell peppers to the skillet and cook until they are softened.",
+    "Stir in the crushed tomatoes and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 10 minutes.",
+    "Make 4 wells in the lamb mixture and crack an egg into each well.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes, or until the eggs are cooked to desired doneness.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intensely-spicy-middle-eastern-lamb-shakshuka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-spicy-middle-eastern-lamb-shakshuka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:57:40Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "marinate",
+    "primaryIngredient": "ground cumin",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Intensely Spicy",
+    "dishForm": "Shakshuka"
+  }
+}
