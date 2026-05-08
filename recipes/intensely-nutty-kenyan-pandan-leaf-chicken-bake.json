@@ -1,0 +1,96 @@
+{
+  "title": "Intensely Nutty Kenyan Pandan Leaf Chicken Bake",
+  "description": "A kid-friendly Kenyan dish featuring pandan leaf, with a nutty and crispy texture, high in protein and perfect for dinner. This bake is a unique and delicious meal option.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the pandan leaves and pat them dry with paper towels.",
+    "In a blender or food processor, blend the pandan leaves, peanut oil, peanuts, onion, garlic, salt, and black pepper into a smooth paste.",
+    "Place the chicken pieces in a large bowl and pour the pandan paste over them, tossing to coat evenly.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray.",
+    "Arrange the chicken pieces on the prepared baking sheet in a single layer.",
+    "Bake the chicken for 30 minutes or until cooked through.",
+    "Remove the chicken from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked-chicken",
+    "high-protein",
+    "kenyan-cuisine",
+    "kid-friendly",
+    "nutty-flavors",
+    "pandan-leaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "intensely-nutty-kenyan-pandan-leaf-chicken-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-nutty-kenyan-pandan-leaf-chicken-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:33:39Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "pandan-leaf",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "pandan leaf chicken",
+    "descriptor": "Intensely nutty",
+    "dishForm": "Bake"
+  }
+}
