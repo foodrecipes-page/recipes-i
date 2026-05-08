@@ -1,0 +1,112 @@
+{
+  "title": "Intense Green Irish Savoiardi-Ladyfingers Trifle",
+  "description": "A festive and umami-rich dessert that combines the best of Irish cuisine with Eastern flavors.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "celiac-safe"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Savoiardi ladyfingers",
+      "amount": "12",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Tadka (tempering oil) from sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "made with 1/2 cup sesame seeds"
+    },
+    {
+      "name": "Kale leaves",
+      "amount": "1 bunch",
+      "notes": "use only the stems"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "6",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Green tea",
+      "amount": "1 cup",
+      "notes": "strong brewed"
+    },
+    {
+      "name": "Matcha powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "Irish honey or other floral honey"
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "1 cup",
+      "notes": "dairy or non-dairy alternative"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Make the tadka by heating 1/4 cup of sesame seeds in a small saucepan over medium heat, stirring constantly, until fragrant and slightly browned.",
+    "Cool the tadka completely and store it in an airtight container.",
+    "Preheat the oven to 350°F (175°C).",
+    "Bake the savoiardi ladyfingers for 10 minutes, or until lightly toasted and dry.",
+    "In a blender or food processor, puree the kale stems, shiitake mushrooms, green tea, and matcha powder until smooth.",
+    "Fold the green tea mixture into the whipped cream until well combined.",
+    "Dip each ladyfinger into the green tea mixture, coating both sides evenly.",
+    "Assemble the trifle by layering the ladyfingers, tadka, and green tea mixture in a large serving dish.",
+    "Drizzle the honey over the top layer of the trifle and sprinkle with sea salt, if using.",
+    "Garnish with fresh mint leaves and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "celiac-safe",
+    "festive",
+    "high-protein",
+    "irish",
+    "make-ahead",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "intense-green-irish-savoiardi-ladyfingers-trifle",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-green-irish-savoiardi-ladyfingers-trifle",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:12:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "tadka",
+    "primaryIngredient": "savoiardi-ladyfingers",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "savoiardi-ladyfingers",
+    "descriptor": "Intense Green",
+    "dishForm": "Trifle"
+  }
+}
