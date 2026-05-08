@@ -2703,6 +2703,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-silky-canadian-cranberries-pilaf",
+    "title": "Indulgent Silky Canadian Cranberries Pilaf",
+    "tags": [
+      "canadian-cuisine",
+      "dried-cranberries",
+      "fermented-food",
+      "herbal",
+      "plant-based",
+      "wild-rice"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 80,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-silky-i-greek-lamb-stifado",
     "title": "indulgent silky i greek lamb stifado",
     "tags": [
@@ -6894,6 +6909,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 200,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-garlicky-portuguese-challots-wrap",
+    "title": "Intensely Garlicky Portuguese Challots Wrap",
+    "tags": [
+      "gluten-free",
+      "one-pan",
+      "portuguese",
+      "steamed",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {

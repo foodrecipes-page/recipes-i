@@ -1,0 +1,89 @@
+{
+  "title": "Intensely Garlicky Portuguese Challots Wrap",
+  "description": "A tender and flavorful Portuguese dish featuring challots, perfect for a weeknight dinner, made with ayurvedic sattvic friendly ingredients and cooking methods.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "challots",
+      "amount": "4 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "collard greens",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced challots with minced garlic, olive oil, salt, and black pepper until they are evenly coated.",
+    "Lay a collard green leaf flat on a work surface and place about 1/2 cup of the challot mixture in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining leaves and filling.",
+    "Place the rolls seam-side down in a steamer basket and steam for 10 minutes.",
+    "Serve the rolls hot with a squeeze of lemon juice.",
+    "Garnish with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "portuguese",
+    "steamed",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "intensely-garlicky-portuguese-challots-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-garlicky-portuguese-challots-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:02:10Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "challots",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "challots",
+    "descriptor": "intensely garlicky",
+    "dishForm": "Wrap"
+  }
+}
