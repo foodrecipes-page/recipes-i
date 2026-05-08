@@ -1,0 +1,95 @@
+{
+  "title": "Intensely Sour Egyptian Lentil Salad",
+  "description": "A sour and tender Egyptian dish featuring freshly chopped parsley, served in a scallop shell.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "buddhist"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Infuse Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "Drain and cook the lentils in boiling water until they are tender.",
+    "In a large bowl, whisk together the lemon juice, infuse oil, garlic, salt, and black pepper.",
+    "Add the cooked lentils to the bowl and stir to combine.",
+    "Stir in the chopped parsley and scallions.",
+    "Taste and adjust the seasoning as needed.",
+    "Spoon the salad into scallop shells and serve immediately.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-fiber",
+    "lentil-recipe",
+    "middle-eastern",
+    "quick-salad",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "intensely-sour-egyptian-lentil-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-sour-egyptian-lentil-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:07:07Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "infuse-oil",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "intensely sour",
+    "dishForm": "Salad"
+  }
+}
