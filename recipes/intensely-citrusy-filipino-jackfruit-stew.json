@@ -1,0 +1,102 @@
+{
+  "title": "Intensely Citrusy Filipino Jackfruit Stew",
+  "description": "A comforting and citrusy Filipino dish featuring saffron and jackfruit, perfect for a chilly evening. This vegan-friendly stew is cooked to perfection in an earthenware bowl.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jackfruit",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large earthenware bowl, heat the saffron threads over low heat for 1 minute.",
+    "Add the chopped onion, minced garlic, and grated ginger to the bowl and cook until the onion is translucent.",
+    "Add the jackfruit, lemon juice, lime juice, vegetable broth, salt, and black pepper to the bowl and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 20 minutes.",
+    "Stir the stew occasionally to prevent burning and to distribute the heat evenly.",
+    "After 20 minutes, reduce the heat to low and simmer for an additional 10 minutes, or until the stew has thickened slightly.",
+    "Remove the bowl from the heat and let the stew cool for a few minutes before serving.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "comfort-food",
+    "earthenware-cooking",
+    "filipino-cuisine",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "intensely-citrusy-filipino-jackfruit-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-citrusy-filipino-jackfruit-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:43:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "boil",
+    "primaryIngredient": "saffron",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "jackfruit",
+    "descriptor": "intensely citrusy",
+    "dishForm": "Stew"
+  }
+}
