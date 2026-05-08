@@ -1,0 +1,100 @@
+{
+  "title": "Indulgent Rich Croatian Fish Carpaccio",
+  "description": "A rich and indulgent Croatian dish featuring sashimi-cut fish, dried fruit, and a blend of fresh flavors, perfect for a special occasion dinner",
+  "cuisine": "Croatian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh sea bass fillets",
+      "amount": "12 ounces",
+      "notes": "sashimi-grade"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Slice the sea bass fillets into thin sashimi-cut pieces and place them on a large plate or platter",
+    "In a small bowl, whisk together the lemon juice, olive oil, garlic, salt, and black pepper to make the dressing",
+    "Drizzle the dressing over the fish pieces, making sure they are all coated",
+    "Sprinkle the chopped dried apricots and cranberries over the top of the fish",
+    "Garnish with chopped fresh parsley and serve immediately",
+    "Refrigerate the dish for at least 30 minutes to allow the flavors to meld together",
+    "Just before serving, give the dish a gentle toss to redistribute the ingredients",
+    "Serve the carpaccio chilled, garnished with additional parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "fresh",
+    "indulgent",
+    "sashimi-grade",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "indulgent-rich-croatian-fish-carpaccio",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-rich-croatian-fish-carpaccio",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:41:59Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "dried fruit",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fish",
+    "descriptor": "Indulgent rich",
+    "dishForm": "Carpaccio"
+  }
+}

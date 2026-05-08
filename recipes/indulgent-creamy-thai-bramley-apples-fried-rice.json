@@ -1,0 +1,105 @@
+{
+  "title": "Indulgent Creamy Thai Bramley Apples Fried Rice",
+  "description": "A malty and creamy Thai dish featuring Bramley apples, this recipe is a unique twist on traditional fried rice, incorporating macrobiotic-friendly ingredients for a guilt-free indulgence.",
+  "cuisine": "Thai",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bramley apples",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Thai jasmine rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the diced Bramley apples and cook until they start to soften, about 2 minutes.",
+    "Add the cooked and cooled Thai jasmine rice to the skillet, stirring to combine with the apple and onion mixture.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Pour in the coconut milk and stir to combine, cooking for an additional 2 minutes.",
+    "Season with soy sauce and salt to taste.",
+    "Transfer the fried rice to a serving platter and garnish with chopped peanuts."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "indulgent",
+    "macrobiotic",
+    "one-pan",
+    "thai-inspired",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "indulgent-creamy-thai-bramley-apples-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-creamy-thai-bramley-apples-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:41:59Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "bramley apples",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Bramley apples",
+    "descriptor": "Indulgent creamy",
+    "dishForm": "Fried-Rice"
+  }
+}

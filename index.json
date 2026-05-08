@@ -1341,6 +1341,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-creamy-thai-bramley-apples-fried-rice",
+    "title": "Indulgent Creamy Thai Bramley Apples Fried Rice",
+    "tags": [
+      "creamy",
+      "indulgent",
+      "macrobiotic",
+      "one-pan",
+      "thai-inspired",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-creamy-venezuelan-almonds-gratin",
     "title": "Indulgent Creamy Venezuelan Almonds Gratin",
     "tags": [
@@ -2650,6 +2665,21 @@
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-rich-croatian-fish-carpaccio",
+    "title": "Indulgent Rich Croatian Fish Carpaccio",
+    "tags": [
+      "croatian",
+      "fresh",
+      "indulgent",
+      "sashimi-grade",
+      "seafood",
+      "special-occasion"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
