@@ -1,0 +1,107 @@
+{
+  "title": "Intense Garlicky Jamaican Callaloo Frittata",
+  "description": "A flavorful and spicy Jamaican-inspired frittata filled with callaloo, garlic, and cheese, perfect for a flexitarian brunch",
+  "cuisine": "Jamaican",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rapeseed oil",
+      "amount": "2 tablespoons",
+      "notes": "for sauteing"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "callaloo",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "diced, seeds removed"
+    },
+    {
+      "name": "eggs",
+      "amount": "8 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the rapeseed oil in a large skillet over medium heat",
+    "Add the minced garlic and saute for 1 minute until fragrant",
+    "Add the chopped onion and diced scotch bonnet pepper and saute for 3 minutes until the onion is translucent",
+    "Add the chopped callaloo and saute for 2 minutes until wilted",
+    "In a large bowl, whisk together the beaten eggs and a pinch of salt and pepper",
+    "Pour the egg mixture over the callaloo mixture in the skillet",
+    "Sprinkle the shredded cheddar cheese over the top of the egg mixture",
+    "Transfer the skillet to the oven and bake at 375 degrees Fahrenheit for 20 minutes until the eggs are set",
+    "Remove the skillet from the oven and let it cool for 2 minutes",
+    "Use a spatula to carefully loosen the edges of the frittata from the skillet",
+    "Transfer the frittata to a plate and serve hot, garnished with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "flexitarian",
+    "high-protein",
+    "jamaican",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "intense-garlicky-jamaican-callaloo-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-garlicky-jamaican-callaloo-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:37:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "callaloo",
+    "descriptor": "Intense garlicky",
+    "dishForm": "Frittata"
+  }
+}
