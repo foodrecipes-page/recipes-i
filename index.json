@@ -1696,6 +1696,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-fragrant-moroccan-chicken-sellou",
+    "title": "Indulgent Fragrant Moroccan Chicken Sellou",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "moroccan",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-french-beef-casserole",
     "title": "Indulgent French Beef Casserole",
     "tags": [
@@ -1837,6 +1851,21 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-iced-filipino-potatoes-ginataang-bilo-bilo",
+    "title": "Indulgent Iced Filipino Potatoes Ginataang Bilo Bilo",
+    "tags": [
+      "dessert",
+      "filipino",
+      "one-pot",
+      "sweet",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
