@@ -6648,6 +6648,20 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-roasted-algerian-lamb-tagine",
+    "title": "Intensely Roasted Algerian Lamb Tagine",
+    "tags": [
+      "lamb-based",
+      "north-african",
+      "one-pot",
+      "roasted-meats",
+      "special-occasion"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 150,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-roasted-brazilian-chicken-roast",
     "title": "Intensely Roasted Brazilian Chicken Roast",
     "tags": [
@@ -7468,6 +7482,21 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "intricately-crispy-moroccan-black-olives-khlea",
+    "title": "Intricately Crispy Moroccan Black Olives Khlea",
+    "tags": [
+      "crispy",
+      "khlea",
+      "low-fat",
+      "moroccan",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {

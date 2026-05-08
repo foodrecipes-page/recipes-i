@@ -1,0 +1,98 @@
+{
+  "title": "Intricately Crispy Moroccan Black Olives Khlea",
+  "description": "Rich and crispy Moroccan dish featuring black olives, perfect for a cozy snack. This low-fat-friendly khlea is made with dashi-extract and served in a bamboo tray.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a blender, combine dashi extract, olive oil, garlic, ginger, cumin, paprika, salt, and black pepper, and blend until smooth.",
+    "In a large bowl, toss the black olives with the blended mixture until they are evenly coated.",
+    "Line a bamboo tray with parchment paper and arrange the olives in a single layer.",
+    "Bake the olives for 20 minutes, or until crispy.",
+    "Remove the olives from the oven and let them cool completely.",
+    "Serve the crispy black olives in the bamboo tray.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "khlea",
+    "low-fat",
+    "moroccan",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "intricately-crispy-moroccan-black-olives-khlea",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-crispy-moroccan-black-olives-khlea",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:05:29Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "dashi-extract",
+    "primaryIngredient": "black olives",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "black olives",
+    "descriptor": "Intricately crispy",
+    "dishForm": "Khlea"
+  }
+}
