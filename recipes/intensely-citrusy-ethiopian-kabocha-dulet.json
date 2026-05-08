@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Citrusy Ethiopian Kabocha Dulet",
+  "description": "A chewy and citrusy Ethiopian dish featuring kabocha, perfect for a date night, with an al-dente finish and a dash of friendly spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the cubed kabocha squash and cook for 5 minutes, stirring occasionally.",
+    "Add the berbere spice, lemon juice, orange juice, salt, and black pepper, and stir to combine.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the squash is tender and the sauce has thickened.",
+    "Serve the dulet hot, garnished with chopped fresh herbs if desired.",
+    "Traditionally, dulet is served with injera bread, but it can also be served with rice or other grains."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "ethiopian-cuisine",
+    "one-pan",
+    "spicy",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intensely-citrusy-ethiopian-kabocha-dulet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-citrusy-ethiopian-kabocha-dulet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:33:20Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "kabocha",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "kabocha",
+    "descriptor": "Intensely Citrusy",
+    "dishForm": "Dulet"
+  }
+}
