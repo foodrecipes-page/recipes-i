@@ -1,0 +1,100 @@
+{
+  "title": "Intensely Creamy Spanish Sea Bass Iberico Confit",
+  "description": "A sweet and creamy Spanish dish featuring sea bass fillets, slow-cooked to perfection with jamon iberico, perfect for a romantic dinner",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "anti-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "jamon iberico",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit",
+    "Season the sea bass fillets with salt, black pepper, and paprika",
+    "Heat the olive oil in an oven-safe skillet over medium heat",
+    "Add the minced garlic and cook for 1 minute until fragrant",
+    "Add the jamon iberico slices and cook for 2 minutes until crispy",
+    "Add the sea bass fillets and cook for 2 minutes on each side",
+    "Transfer the skillet to the preheated oven and bake for 12 minutes",
+    "Remove the skillet from the oven and add the heavy cream and lemon juice",
+    "Return the skillet to the oven and bake for an additional 5 minutes",
+    "Remove the skillet from the oven and let it cool for 5 minutes"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cream-based",
+    "gluten-free",
+    "romantic-dinner",
+    "seafood",
+    "slow-cooked",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "intensely-creamy-spanish-sea-bass-iberico-confit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-creamy-spanish-sea-bass-iberico-confit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:46:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "anti-inflammatory",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "sea bass",
+    "descriptor": "Intensely Creamy",
+    "dishForm": "Iberico Confit"
+  }
+}
