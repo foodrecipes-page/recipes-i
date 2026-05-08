@@ -1,0 +1,104 @@
+{
+  "title": "Intense Malty Indian Scotch Bonnet Kheer",
+  "description": "A malty, flaky, and energizing Indian dessert featuring scotch bonnet and double-rise-bread, made in a talavera plate.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "malted milk powder",
+      "amount": "2 cups",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "4",
+      "notes": " seeded and chopped"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "crushed into crumbs"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/2 cup",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "jaggery",
+      "amount": "1 cup",
+      "notes": "ayurvedic sweetener"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "almond milk",
+      "amount": "2 cups",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a blender, combine malted milk powder, scotch bonnet peppers, and a pinch of salt, and blend until smooth.",
+    "In a saucepan, heat the ghee over low heat and add the crushed double-rise-bread, stirring constantly until golden brown.",
+    "Add the blended mixture, jaggery, cardamom powder, and almond milk to the saucepan, whisking continuously until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the rose water, if using.",
+    "Pour the mixture into a talavera plate and refrigerate for at least 2 hours.",
+    "Garnish with chopped pistachios before serving.",
+    "Serve chilled, garnished with additional scotch bonnet peppers if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "double-rise-bread",
+    "indian-dessert",
+    "malty",
+    "scotch-bonnet",
+    "talavera-plate"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "intense-malty-indian-scotch-bonnet-kheer",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-malty-indian-scotch-bonnet-kheer",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:19:28Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "ayurvedic-rajasic",
+    "region": "andhra",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "scotch bonnet",
+    "descriptor": "Intense Malty",
+    "dishForm": "Kheer"
+  }
+}

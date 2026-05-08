@@ -4636,6 +4636,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-malty-indian-scotch-bonnet-kheer",
+    "title": "Intense Malty Indian Scotch Bonnet Kheer",
+    "tags": [
+      "ayurvedic-friendly",
+      "double-rise-bread",
+      "indian-dessert",
+      "malty",
+      "scotch-bonnet",
+      "talavera-plate"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "intense-malty-uruguayan-beef-casserole",
     "title": "Intense Malty Uruguayan Beef Casserole",
     "tags": [
@@ -6019,6 +6034,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-crisp-peruvian-turmeric-chicken-rocoto-relleno",
+    "title": "Intensely Crisp Peruvian Turmeric Chicken Rocoto Relleno",
+    "tags": [
+      "agave-leaf",
+      "chicken-recipes",
+      "mediterranean-friendly",
+      "peruvian-cuisine",
+      "rocoto-relleno",
+      "turmeric-spiced"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 70,
     "shard": "i"
   },
   {
