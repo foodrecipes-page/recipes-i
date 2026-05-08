@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Pungent French Fish Rillettes",
+  "description": "A pungent and tender French dish featuring fish and speck, perfect for a show-off appetizer or snack. This pescatarian-friendly recipe is made with a whisk and formed into rillettes.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "1 pound",
+      "notes": "canned in oil, drained and flaked"
+    },
+    {
+      "name": "speck",
+      "amount": "6 slices",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "capers",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flaked mackerel, chopped speck, shallots, capers, lemon juice, and olive oil until well combined.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the mixture a good stir and adjust the seasoning if needed.",
+    "Spoon the rillettes into small serving cups or ramekins.",
+    "Garnish with chopped fresh herbs, such as parsley or chives, if desired.",
+    "Serve the rillettes chilled, accompanied by toasted bread or crackers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "easy-to-make",
+    "flavorful",
+    "french-cuisine",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "intensely-pungent-french-fish-rillettes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-pungent-french-fish-rillettes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:27:39Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "whisk",
+    "primaryIngredient": "speck",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "fish",
+    "descriptor": "intensely pungent",
+    "dishForm": "Rillettes"
+  }
+}
