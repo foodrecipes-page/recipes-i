@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Energizing Canadian Duck Wrap",
+  "description": "A flavorful and energizing wrap made with Canadian duck, silky herbs, and resinous spices, all wrapped in a pandan leaf.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-sodium",
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian duck breast",
+      "amount": "4 oz",
+      "notes": "preferably from a local farm"
+    },
+    {
+      "name": "Pandan leaf wrap",
+      "amount": "1 large leaf"
+    },
+    {
+      "name": "Whisked maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt-free seasoning blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Pat the duck breast dry with a paper towel and season with salt-free seasoning blend.",
+    "Add a small amount of avocado oil to the pan and sear the duck breast for 3 minutes per side.",
+    "Remove the duck from the pan and set aside to rest.",
+    "In the same pan, add the whisked maple syrup, ground ginger, and crushed black pepper.",
+    "Simmer the mixture for 2 minutes, stirring occasionally, until slightly thickened.",
+    "Add the fresh cilantro and chopped scallions to the pan and stir to combine.",
+    "Slice the rested duck breast into thin strips and add to the pan.",
+    "Stir in the rice vinegar and cook for an additional minute.",
+    "Warm the pandan leaf wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by placing the duck mixture onto the center of the pandan leaf wrap.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "canadian-cuisine",
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "intensely-energizing-canadian-duck-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-energizing-canadian-duck-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:01:22Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "whisk",
+    "primaryIngredient": "duck",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "duck",
+    "descriptor": "Intensely energizing",
+    "dishForm": "Wrap"
+  }
+}

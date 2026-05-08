@@ -1,0 +1,103 @@
+{
+  "title": "Indulgent Roasted Kenyan Cherry Tomatoes Tagine",
+  "description": "A flavorful and aromatic Kenyan-inspired dish featuring glassy-jelly cherry tomatoes, cured in a blend of spices and herbs, and roasted to perfection.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "2 cups",
+      "notes": "any variety, halved"
+    },
+    {
+      "name": "cured lemon",
+      "amount": "1/4 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use high-quality extra virgin"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": "use fresh or dried"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "use fresh or dried"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "use fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a small bowl, mix together coriander powder, cumin powder, garam masala, salt, and black pepper.",
+    "Toss the halved cherry tomatoes with the spice blend until evenly coated.",
+    "Drizzle the olive oil over the tomatoes and mix until well combined.",
+    "Transfer the tomatoes to a baking dish and roast for 20 minutes.",
+    "Remove the tomatoes from the oven and sprinkle with cured lemon.",
+    "Return the tomatoes to the oven and roast for an additional 10-12 minutes, or until caramelized.",
+    "Garnish with chopped cilantro and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent",
+    "kenyan",
+    "roasted",
+    "sattvic-friendly",
+    "tagine",
+    "vegan-friendly",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "indulgent-roasted-kenyan-cherry-tomatoes-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-roasted-kenyan-cherry-tomatoes-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:01:28Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cherry tomatoes",
+    "descriptor": "Indulgent Roasted",
+    "dishForm": "Tagine"
+  }
+}

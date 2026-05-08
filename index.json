@@ -2131,6 +2131,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-roasted-kenyan-cherry-tomatoes-tagine",
+    "title": "Indulgent Roasted Kenyan Cherry Tomatoes Tagine",
+    "tags": [
+      "indulgent",
+      "kenyan",
+      "roasted",
+      "sattvic-friendly",
+      "tagine",
+      "vegan-friendly",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-russian-morcilla-dumplings",
     "title": "Indulgent Russian Morcilla Dumplings",
     "tags": [
@@ -5091,6 +5107,20 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-energizing-canadian-duck-wrap",
+    "title": "Intensely Energizing Canadian Duck Wrap",
+    "tags": [
+      "canadian-cuisine",
+      "high-protein",
+      "low-sodium",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 27,
     "shard": "i"
   },
   {
