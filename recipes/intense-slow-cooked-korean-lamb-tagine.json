@@ -1,0 +1,95 @@
+{
+  "title": "Intense Slow Cooked Korean Lamb Tagine",
+  "description": "A rich and flavorful Australian dish featuring slow-cooked lamb in a ceramic tagine with ssamjang, perfect for a solo dinner. This dairy-free friendly recipe is made with fermented ingredients and has a molten texture.",
+  "cuisine": "Korean Australian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "ssamjang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, whisk together ssamjang, gochujang, soy sauce, and brown sugar.",
+    "Season the lamb shoulder with salt and black pepper.",
+    "Heat the sesame oil in the ceramic tagine over medium heat.",
+    "Sear the lamb shoulder until browned on all sides, then remove from the tagine.",
+    "Add the minced garlic and grated ginger to the tagine and cook until fragrant.",
+    "Add the ssamjang mixture to the tagine and stir to combine.",
+    "Return the lamb shoulder to the tagine and spoon some of the ssamjang mixture over the top.",
+    "Cover the tagine and transfer to the preheated oven.",
+    "Braise the lamb for 2.5 hours, or until tender and falling apart."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "australian-cuisine",
+    "dairy-free",
+    "korean-inspired",
+    "lamb-recipes",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 80
+  },
+  "slug": "intense-slow-cooked-korean-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-slow-cooked-korean-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:23:07Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "slow-cook",
+    "primaryIngredient": "ssamjang",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "lamb",
+    "descriptor": "Intense Slow Cooked",
+    "dishForm": "Tagine"
+  }
+}

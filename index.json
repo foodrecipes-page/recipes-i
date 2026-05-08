@@ -4595,6 +4595,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-saudi-arabian-lettuce-salad",
+    "title": "Intense Saudi Arabian Lettuce Salad",
+    "tags": [
+      "hangover-cure",
+      "healthy",
+      "middle-eastern",
+      "salad",
+      "saudi-arabian",
+      "vegan"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "intense-savory-american-chicken-skillet",
     "title": "Intense Savory American Chicken Skillet",
     "tags": [
@@ -4666,6 +4681,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-slow-cooked-korean-lamb-tagine",
+    "title": "Intense Slow Cooked Korean Lamb Tagine",
+    "tags": [
+      "australian-cuisine",
+      "dairy-free",
+      "korean-inspired",
+      "lamb-recipes",
+      "one-pot",
+      "slow-cooked"
+    ],
+    "cuisine": "Korean Australian",
+    "totalTimeMin": 180,
     "shard": "i"
   },
   {
