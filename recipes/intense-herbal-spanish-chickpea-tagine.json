@@ -1,0 +1,104 @@
+{
+  "title": "Intense Herbal Spanish Chickpea Tagine",
+  "description": "A quick and flavorful Spanish dish featuring chickpeas and ras el hanout, with a rich and herbal taste, made in a kadhai and tempered with chocolate for a deep flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1 ounce",
+      "notes": "tempering chocolate, broken into pieces"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a kadhai over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the ras el hanout and cook for 1 minute, until the spices are fragrant.",
+    "Add the chickpeas, tomato paste, vegetable broth, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 20 minutes, until the flavors have melded together and the chickpeas are tender.",
+    "Melt the dark chocolate in a double boiler or in the microwave in 30 second increments, stirring between each interval.",
+    "Temper the chocolate by stirring it into the chickpea mixture and cooking for an additional 2 minutes, until the chocolate is fully incorporated and the mixture is hot and bubbly.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "galician",
+    "herbal",
+    "one-pan",
+    "quick-fix",
+    "shojin-friendly",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "intense-herbal-spanish-chickpea-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-herbal-spanish-chickpea-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:45:23Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "ras el hanout",
+    "diet": "shojin",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chickpeas",
+    "descriptor": "intense herbal",
+    "dishForm": "Tagine"
+  }
+}
