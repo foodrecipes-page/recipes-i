@@ -1,0 +1,100 @@
+{
+  "title": "Incredibly Crispy Korean Sausage Jjigae",
+  "description": "A funky, crispy, and comforting Korean dish featuring Italian fennel sausages, perfect for a sick day, made with a low-fat friendly approach in a gui form.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "4",
+      "notes": "preferably low-fat"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Gochugaru",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Toasted sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the toasted sesame oil in a large skillet over medium-high heat.",
+    "Add the Italian fennel sausages and cook until browned on all sides, about 5 minutes.",
+    "Remove the sausages from the skillet and set aside.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the Gochujang, soy sauce, rice vinegar, Gochugaru, and brown sugar to the skillet, whisking to combine.",
+    "Bring the sauce to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Add the kimchi to the skillet and stir to combine.",
+    "Return the sausages to the skillet and spoon some of the sauce over the top of each sausage.",
+    "Use a kitchen torch to flambe the sausages, or cook for an additional 2 minutes, until crispy and caramelized.",
+    "Garnish with green onions and serve hot over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-food",
+    "low-fat",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "incredibly-crispy-korean-sausage-jjigae",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-crispy-korean-sausage-jjigae",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:33:59Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "flambe",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "sausages",
+    "descriptor": "Incredibly Crispy",
+    "dishForm": "Jjigae"
+  }
+}
