@@ -1,0 +1,92 @@
+{
+  "title": "Intense Crispy German Rice Stick Noodles",
+  "description": "A sour and crispy quick-fix German dish featuring rice stick noodles and a sweet glaze, Whole30-friendly and perfect for a weeknight dinner.",
+  "cuisine": "German",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice stick noodles",
+      "amount": "8 oz",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut aminos",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice stick noodles according to package instructions.",
+    "Drain the noodles and set aside.",
+    "In a small bowl, whisk together apple cider vinegar, coconut aminos, honey, sesame oil, salt, black pepper, and paprika.",
+    "Add the cooked noodles to the bowl and toss to combine with the glaze.",
+    "Heat a large skillet over medium-high heat and add the noodles.",
+    "Cook for 2-3 minutes on each side, or until crispy and golden brown.",
+    "Remove from heat and serve immediately.",
+    "Optional: garnish with chopped green onions or sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "german",
+    "gluten-free",
+    "one-pan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intense-crispy-german-rice-stick-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-crispy-german-rice-stick-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:11:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "glaze",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "noodles",
+    "descriptor": "Intense crispy",
+    "dishForm": "Noodles"
+  }
+}
