@@ -2750,6 +2750,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-tunisian-olives-tagine",
+    "title": "Indulgent Tunisian Olives Tagine",
+    "tags": [
+      "gluten-free",
+      "low-carb",
+      "olives",
+      "one-pan",
+      "shio-koji",
+      "special-occasion",
+      "tunisian"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-tunisian-toor-dal-tagine",
     "title": "Indulgent Tunisian Toor Dal Tagine",
     "tags": [
@@ -3410,6 +3426,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 37,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-crisp-ukrainian-cheese-skillet",
+    "title": "Intense Crisp Ukrainian Cheese Skillet",
+    "tags": [
+      "buddhist-friendly",
+      "crispy-cheese",
+      "one-pan",
+      "spherification",
+      "ukrainian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {

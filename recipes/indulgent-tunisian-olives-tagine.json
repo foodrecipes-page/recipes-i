@@ -1,0 +1,110 @@
+{
+  "title": "Indulgent Tunisian Olives Tagine",
+  "description": "A show-off Tunisian dish featuring olives, shio-koji-cure, and a light, grassy flavor profile. Perfect for special occasions and low-carb diets.",
+  "cuisine": "tunisian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shio-koji-cured olives",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chopped fresh thyme",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add the olive paste and cook, stirring occasionally, until fragrant and slightly darkened, about 5 minutes.",
+    "Add the shio-koji-cured olives, chicken broth, parsley, garlic, thyme, cumin, smoked paprika, salt, and black pepper.",
+    "Bring the mixture to a simmer and cook, covered, until the olives are tender and the liquid has thickened slightly, about 20 minutes.",
+    "Stir in the lemon juice and honey.",
+    "Season the tagine with salt and black pepper to taste.",
+    "Serve the tagine hot, garnished with additional parsley and lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "olives",
+    "one-pan",
+    "shio-koji",
+    "special-occasion",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 24,
+    "carbs": 15,
+    "fat": 35
+  },
+  "slug": "indulgent-tunisian-olives-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-tunisian-olives-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:49:36Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "olives",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Olives",
+    "descriptor": "Indulgent",
+    "dishForm": "Tagine"
+  }
+}
