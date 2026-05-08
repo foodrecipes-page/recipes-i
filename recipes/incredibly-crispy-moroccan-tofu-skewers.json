@@ -1,0 +1,97 @@
+{
+  "title": "Incredibly Crispy Moroccan Tofu Skewers",
+  "description": "A sweet and crispy Moroccan dish featuring marinated tofu, perfect for a festive occasion, with anti-inflammatory friendly ingredients.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, honey, paprika, cumin, coriander, and turmeric.",
+    "Add the tofu cubes to the bowl and marinate for at least 30 minutes.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Cut the puff pastry into strips about 1 inch wide and 3 inches long.",
+    "Wrap each tofu cube with a strip of puff pastry, brushing the edges with a little water to seal.",
+    "Place the tofu skewers on a baking sheet lined with parchment paper.",
+    "Bake the skewers for 20 minutes, or until the puff pastry is golden brown and crispy.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-snacks",
+    "moroccan-inspired",
+    "puff-pastry-recipes",
+    "tofu-recipes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "incredibly-crispy-moroccan-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-crispy-moroccan-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:38:11Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "lamination-puff",
+    "primaryIngredient": "marinated tofu",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "tofu",
+    "descriptor": "Incredibly crispy",
+    "dishForm": "Skewers"
+  }
+}
