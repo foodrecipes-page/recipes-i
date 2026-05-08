@@ -1,0 +1,95 @@
+{
+  "title": "Intensely Savory Norwegian Potato Casserole",
+  "description": "A savory and comforting lacto-vegetarian Norwegian dish featuring tamarind paste, this casserole is perfect for a cold winter night. It is dense and full of flavor, sure to become a family favorite.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot of salted water, boil the sliced potatoes for 5 minutes, then immediately submerge them in an ice bath to stop the cooking process.",
+    "In a large skillet, saute the chopped onion in butter until softened.",
+    "In a large bowl, whisk together the tamarind paste, vegetable broth, milk, flour, salt, and black pepper.",
+    "Add the cooked potatoes and sauteed onion to the bowl and stir until they are well coated with the tamarind mixture.",
+    "Transfer the potato mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 20 minutes, or until the top is lightly browned.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "norwegian-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "intensely-savory-norwegian-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-savory-norwegian-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:38:09Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "tamarind paste",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Intensely savory",
+    "dishForm": "Casserole"
+  }
+}
