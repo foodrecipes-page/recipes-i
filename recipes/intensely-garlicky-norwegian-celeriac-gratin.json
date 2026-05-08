@@ -1,0 +1,100 @@
+{
+  "title": "Intensely Garlicky Norwegian Celeriac Gratin",
+  "description": "A rich and creamy Norwegian dish featuring celeriac, garlic, and a mother-sauce base, perfect for a quick and satisfying vegetarian meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "such as Gruyere or Jarlsberg"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, melt 2 tablespoons of butter over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the sliced celeriac to the saucepan and cook for 5 minutes, until slightly tender.",
+    "In a separate saucepan, whisk together the flour and milk, and cook over medium heat, stirring constantly, until the mixture thickens.",
+    "Remove the sauce from the heat and stir in the grated cheese, salt, and pepper.",
+    "In a greased 9x13 inch baking dish, create a layer of celeriac slices.",
+    "Pour the cheese sauce over the celeriac, then repeat the layers two more times, finishing with a layer of cheese on top.",
+    "Dot the top of the gratin with the remaining 2 tablespoons of butter.",
+    "Bake the gratin in the preheated oven for 30-40 minutes, until golden brown and bubbly.",
+    "Remove the gratin from the oven and sprinkle with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "norwegian-cuisine",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intensely-garlicky-norwegian-celeriac-gratin",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-garlicky-norwegian-celeriac-gratin",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T21:09:09Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "celeriac",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "celeriac",
+    "descriptor": "Intensely garlicky",
+    "dishForm": "Gratin"
+  }
+}
