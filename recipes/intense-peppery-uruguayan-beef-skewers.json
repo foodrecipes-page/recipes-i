@@ -1,0 +1,96 @@
+{
+  "title": "Intense Peppery Uruguayan Beef Skewers",
+  "description": "A show-off Uruguayan dish featuring tender beef, crunchy rice paper sheets, and a flavorful nimono-simmer, all served on a cedar plank.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "anti-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "rice paper sheets",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1 plank",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, brown sugar, garlic, and black pepper.",
+    "Add the beef cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated beef cubes onto skewers, leaving a small space between each piece.",
+    "Brush the rice paper sheets with olive oil and wrap each skewer with a sheet.",
+    "Place the skewers on the preheated cedar plank and grill for 10 minutes per side.",
+    "While the skewers are grilling, prepare the nimono-simmer by combining soy sauce, brown sugar, and garlic in a small saucepan.",
+    "Bring the nimono-simmer to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Brush the skewers with the nimono-simmer during the last minute of grilling.",
+    "Remove the skewers from the grill and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "beef-recipes",
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intense-peppery-uruguayan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-peppery-uruguayan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:07:46Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "intense peppery",
+    "dishForm": "Skewers"
+  }
+}
