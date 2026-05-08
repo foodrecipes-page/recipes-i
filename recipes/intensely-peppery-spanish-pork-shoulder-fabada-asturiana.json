@@ -1,0 +1,102 @@
+{
+  "title": "Intensely Peppery Spanish Pork Shoulder Fabada Asturiana",
+  "description": "A traditional Spanish dish from the Andalusian region, featuring a tender and flavorful pork shoulder in a rich and spicy broth, served in individual ramekins.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "shio cure",
+      "amount": "1/4 cup",
+      "notes": "or kosher salt"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together the shio cure, black peppercorns, and smoked paprika.",
+    "Rub the cure mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, then remove it from the pot and set it aside.",
+    "Add the minced garlic to the pot and cook until fragrant, about 1 minute.",
+    "Add the chicken broth and water to the pot, scraping up any browned bits from the bottom.",
+    "Return the pork shoulder to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the preheated oven, where it will braise for 2 1/2 hours.",
+    "After 2 1/2 hours, remove the pot from the oven and let it cool slightly.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Skim any excess fat from the surface of the broth, then bring it to a simmer.",
+    "Reduce the broth until it has thickened into a rich and syrupy glaze, about 10 minutes.",
+    "Slice the pork shoulder into thin strips and divide it among individual ramekins.",
+    "Spoon the glaze over the top of each ramekin, then serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "intensely-peppery",
+    "keto-friendly",
+    "low-carb",
+    "pork-shoulder",
+    "ramekin-dish",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "intensely-peppery-spanish-pork-shoulder-fabada-asturiana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-peppery-spanish-pork-shoulder-fabada-asturiana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:21:43Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "shio-cure",
+    "primaryIngredient": "pork shoulder",
+    "diet": "keto",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "intensely peppery",
+    "dishForm": "Fabada Asturiana"
+  }
+}
