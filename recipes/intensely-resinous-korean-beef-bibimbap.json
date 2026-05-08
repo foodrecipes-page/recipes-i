@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Resinous Korean Beef Bibimbap",
+  "description": "A nostalgic Korean dish featuring kabse spice and dashi-extract, served in a hot-stone-plate, this intensely resinous bibimbap is a high-protein-friendly meal option.",
+  "cuisine": "Korean",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kabse spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dashi-extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fried egg",
+      "amount": "1"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the beef to the skillet and cook until browned, about 3-4 minutes.",
+    "Add the kabse spice and dashi-extract to the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the beef is coated in the spice mixture.",
+    "To assemble the bibimbap, place a scoop of cooked rice in the bottom of a hot-stone-plate.",
+    "Add the beef mixture on top of the rice.",
+    "Add a fried egg on top of the beef.",
+    "Sprinkle the green onions, sesame seeds, and salt over the top of the egg.",
+    "Drizzle the soy sauce over the top of the bibimbap.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "bibimbap",
+    "high-protein",
+    "hot-stone-plate",
+    "korean-food",
+    "resinous"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "intensely-resinous-korean-beef-bibimbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-resinous-korean-beef-bibimbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:56:25Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "dashi-extract",
+    "primaryIngredient": "kabse spice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "intensely resinous",
+    "dishForm": "Bibimbap"
+  }
+}
