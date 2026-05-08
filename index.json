@@ -7749,6 +7749,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-yeasty-venezuelan-plantain-fritters",
+    "title": "Intensely Yeasty Venezuelan Plantain Fritters",
+    "tags": [
+      "fried-food",
+      "midnight-cravings",
+      "paleo-friendly",
+      "south-american",
+      "vegan-free",
+      "yeast-based"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "intoxicating-thai-beef-pad-see-ew",
     "title": "Intoxicating Thai Beef Pad See Ew",
     "tags": [
@@ -8072,6 +8087,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "invigorating-light-british-ovoli-mushroom-pasta",
+    "title": "Invigorating Light British Ovoli Mushroom Pasta",
+    "tags": [
+      "british-cuisine",
+      "easy-weeknight",
+      "light-meal",
+      "mushroom-lovers",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {

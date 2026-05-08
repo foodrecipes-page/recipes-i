@@ -1,0 +1,100 @@
+{
+  "title": "Invigorating Light British Ovoli Mushroom Pasta",
+  "description": "A rich and light British dish featuring ovoli mushrooms, pasta, and a water emulsion, made in an iron teppan for an energizing meal.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "tamasic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ovoli mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the iron teppan over medium heat.",
+    "Add the sliced ovoli mushrooms and cook until they release their moisture and start to brown.",
+    "Add the minced garlic and chopped onion and cook until the onion is translucent.",
+    "Add the white wine and cook until the liquid is almost completely reduced.",
+    "Add the vegetable broth and bring the mixture to a simmer.",
+    "Cook the pasta according to the package instructions until it is al dente.",
+    "Add the cooked pasta to the teppan and toss it with the mushroom mixture.",
+    "Season with salt and pepper to taste.",
+    "Transfer the pasta to a serving dish and top it with grated parmesan and chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "easy-weeknight",
+    "light-meal",
+    "mushroom-lovers",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "invigorating-light-british-ovoli-mushroom-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/invigorating-light-british-ovoli-mushroom-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:46:04Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "ovoli mushroom",
+    "descriptor": "invigorating light",
+    "dishForm": "Pasta"
+  }
+}
