@@ -2685,6 +2685,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-smoky-irish-lamb-stew",
+    "title": "Indulgent Smoky Irish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "flexitarian-friendly",
+      "irish-cuisine",
+      "lamb-recipes",
+      "sous-vide-cooking",
+      "special-occasion"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-smoky-japanese-pork-gyoza",
     "title": "Indulgent Smoky Japanese Pork Gyoza",
     "tags": [

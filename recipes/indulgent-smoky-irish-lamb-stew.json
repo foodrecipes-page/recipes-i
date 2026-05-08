@@ -1,0 +1,109 @@
+{
+  "title": "Indulgent Smoky Irish Lamb Stew",
+  "description": "A rich and flavorful Irish stew featuring tender lamb, smoky dried red chillies, and a hint of sophistication from sous-vide cooking, making it a perfect flexitarian-friendly dish for special occasions.",
+  "cuisine": "Irish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "dried red chillies",
+      "amount": "4",
+      "notes": "crushed or 1 teaspoon dried red chilli flakes"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "Season the lamb cubes with salt and pepper.",
+    "Seal the lamb cubes in a sous-vide bag with crushed dried red chillies and cook for 24 hours.",
+    "Heat olive oil in a large Dutch oven over medium heat.",
+    "Add chopped onions and cook until they are translucent and starting to caramelize.",
+    "Add minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add chopped carrots and potatoes, cooking for 5 minutes, stirring occasionally.",
+    "Add low sodium lamb broth, cooked lamb, and tomato paste if using, bringing the mixture to a simmer.",
+    "Reduce heat to low and cook, covered, for 30 minutes or until the vegetables are tender.",
+    "Stir in chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "flexitarian-friendly",
+    "irish-cuisine",
+    "lamb-recipes",
+    "sous-vide-cooking",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 23,
+    "fat": 34
+  },
+  "slug": "indulgent-smoky-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-smoky-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:23:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "sous-vide",
+    "primaryIngredient": "dried red chillies",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Indulgent Smoky",
+    "dishForm": "Stew"
+  }
+}
