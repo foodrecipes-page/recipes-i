@@ -1,0 +1,89 @@
+{
+  "title": "Intensely Sweet Brazilian Peanut Bars",
+  "description": "A sweet and shattering Brazilian dish featuring peanut brittle, these bars are perfect for an energizing snack, and with macrobiotic-friendly ingredients, they can be enjoyed by everyone. The combination of peanuts and sugar creates a deliciously sweet treat.",
+  "cuisine": "brazilian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "2 cups",
+      "notes": "raw, unsalted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "light corn syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Line an 8 inch square baking dish with parchment paper.",
+    "In a large saucepan, combine the sugar, corn syrup, and water, and place over medium heat.",
+    "Bring the mixture to a boil, then reduce the heat to medium low and simmer for 10 minutes.",
+    "Remove the saucepan from the heat and stir in the peanuts, butter, vanilla extract, and sea salt until the peanuts are fully coated.",
+    "Pour the peanut mixture into the prepared baking dish and spread it out evenly.",
+    "Allow the mixture to cool and set at room temperature for at least 30 minutes.",
+    "Once set, use a sharp knife to cut the peanut mixture into bars.",
+    "Serve the bars immediately, or store them in an airtight container for up to 5 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "no-bake",
+    "peanut-butter-free",
+    "south-american",
+    "sweet-tooth",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "intensely-sweet-brazilian-peanut-bars",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-sweet-brazilian-peanut-bars",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:40:02Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "emulsify",
+    "primaryIngredient": "peanut brittle",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "peanuts",
+    "descriptor": "intensely sweet",
+    "dishForm": "Bars"
+  }
+}

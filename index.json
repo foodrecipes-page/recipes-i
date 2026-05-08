@@ -5396,6 +5396,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-savory-spanish-shrimp-gambas-al-ajillo",
+    "title": "Intense Savory Spanish Shrimp Gambas Al Ajillo",
+    "tags": [
+      "one-pan",
+      "seafood",
+      "spanish",
+      "valencian",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "intense-shattering-italian-cinnamon-risotto",
     "title": "Intense Shattering Italian Cinnamon Risotto",
     "tags": [
@@ -8636,6 +8650,21 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-sweet-brazilian-peanut-bars",
+    "title": "Intensely Sweet Brazilian Peanut Bars",
+    "tags": [
+      "high-protein",
+      "no-bake",
+      "peanut-butter-free",
+      "south-american",
+      "sweet-tooth",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {

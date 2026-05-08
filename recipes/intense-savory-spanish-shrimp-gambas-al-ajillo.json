@@ -1,0 +1,105 @@
+{
+  "title": "Intense Savory Spanish Shrimp Gambas Al Ajillo",
+  "description": "A savory and aromatic Spanish dish featuring succulent shrimp, spring onions, and a mirepoix base, perfect for a midnight craving. This raw-friendly recipe is cooked to perfection in a wok.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "shellfish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large wok over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the grated carrots and diced celery and cook for 2 minutes, until they start to soften.",
+    "Add the sliced spring onions and cook for 1 minute, until they start to wilt.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the peeled and deveined shrimp and cook for 2-3 minutes per side, until they are pink and cooked through.",
+    "Remove the shrimp from the wok and set them aside on a plate.",
+    "Add the lemon juice to the wok and stir to combine with the remaining vegetables and spices.",
+    "Return the shrimp to the wok and toss to combine with the sauce.",
+    "Serve the gambas al ajillo immediately, garnished with additional spring onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "seafood",
+    "spanish",
+    "valencian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "intense-savory-spanish-shrimp-gambas-al-ajillo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-savory-spanish-shrimp-gambas-al-ajillo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:40:45Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "spring onions",
+    "diet": "raw",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "shrimp",
+    "descriptor": "intense savory",
+    "dishForm": "Gambas Al Ajillo"
+  }
+}
