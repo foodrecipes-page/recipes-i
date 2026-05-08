@@ -1,0 +1,99 @@
+{
+  "title": "Intense Pungent Mexican Cheese Chiles Rellenos",
+  "description": "A pungent and dense Mexican dish featuring roasted poblano peppers stuffed with a mix of cheeses, pickle, and ginger cordial, perfect for a romantic dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4 large",
+      "notes": "roasted"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup finely chopped"
+    },
+    {
+      "name": "ginger cordial",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup finely chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the poblano peppers in the oven for 30 minutes, then peel off the skin and remove the seeds.",
+    "In a bowl, mix together the monterey jack cheese, feta cheese, pickle, ginger cordial, garlic, and onion.",
+    "Stuff each roasted poblano pepper with the cheese mixture.",
+    "Dip each stuffed pepper in the beaten egg and then coat with flour.",
+    "Heat the vegetable oil in a large skillet over medium heat and fry the coated peppers until golden brown.",
+    "Serve the chiles rellenos hot, garnished with fresh cilantro or scallions.",
+    "Let the dish rest for 10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "mexican-food",
+    "roasted-vegetables",
+    "romantic-dinner",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "intense-pungent-mexican-cheese-chiles-rellenos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-pungent-mexican-cheese-chiles-rellenos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:15:33Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "pickle",
+    "primaryIngredient": "ginger cordial",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cheese",
+    "descriptor": "Intense Pungent",
+    "dishForm": "Chiles Rellenos"
+  }
+}

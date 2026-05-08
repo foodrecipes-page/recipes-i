@@ -4431,6 +4431,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-pungent-mexican-cheese-chiles-rellenos",
+    "title": "Intense Pungent Mexican Cheese Chiles Rellenos",
+    "tags": [
+      "cheesy",
+      "mexican-food",
+      "roasted-vegetables",
+      "romantic-dinner",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 70,
+    "shard": "i"
+  },
+  {
     "slug": "intense-roasted-peruvian-chicken-aji-de-gallina",
     "title": "Intense Roasted Peruvian Chicken Aji De Gallina",
     "tags": [
