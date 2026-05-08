@@ -1,0 +1,102 @@
+{
+  "title": "Intense Silky Malaysian Bamboo Shoot Curry",
+  "description": "A herbal and nostalgic Malaysian dish featuring bamboo shoot in a silky curry sauce, made with dashi extract and plant-based friendly ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bamboo shoots",
+      "amount": "1 large",
+      "notes": "canned or fresh, sliced"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the grated ginger and cook for 1 minute until fragrant.",
+    "Add the minced garlic and cook for another minute until lightly browned.",
+    "Add the curry powder and turmeric, cook for 1 minute, stirring constantly.",
+    "Add the sliced bamboo shoots, dashi extract, and coconut milk, stir well to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook for 20 minutes, stirring occasionally.",
+    "Season the curry with salt and black pepper to taste.",
+    "Serve the curry hot over rice or noodles.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "curry-recipe",
+    "malaysian-cuisine",
+    "one-pot",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intense-silky-malaysian-bamboo-shoot-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-silky-malaysian-bamboo-shoot-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:16:28Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "dashi-extract",
+    "primaryIngredient": "bamboo shoot",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "bamboo shoot",
+    "descriptor": "intense silky",
+    "dishForm": "Curry"
+  }
+}
