@@ -1,0 +1,109 @@
+{
+  "title": "Intensely Umami German Sausages Skillet",
+  "description": "A hearty German dish featuring tender sausages, dried chillies, and a rich umami flavor, perfect for a hangover cure or a satisfying meal. This kosher-friendly recipe uses air-frying for a crispy exterior and a juicy interior.",
+  "cuisine": "German",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "German sausages",
+      "amount": "4",
+      "notes": "preferably knockwurst or bratwurst"
+    },
+    {
+      "name": "dried chillies",
+      "amount": "2",
+      "notes": "crushed or 1 teaspoon dried chilli flakes"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Slice the sausages and cook them in the air fryer for 5 minutes, then set aside.",
+    "Add the sliced onions to the air fryer and cook for 5 minutes, stirring occasionally.",
+    "Add the sliced bell peppers and cook for an additional 5 minutes, stirring occasionally.",
+    "Add the sliced mushrooms, minced garlic, crushed dried chillies, caraway seeds, salt, and black pepper to the air fryer and cook for 5 minutes, stirring occasionally.",
+    "In a small bowl, whisk together the beef broth and tomato paste.",
+    "Add the cooked sausages back to the air fryer and pour in the beef broth mixture.",
+    "Stir everything together and cook for an additional 2 minutes.",
+    "Serve the sausages and vegetables hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "high-protein",
+    "kosher-friendly",
+    "one-pan",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "intensely-umami-german-sausages-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-umami-german-sausages-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:52:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "air-fry",
+    "primaryIngredient": "dried chillies",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausages",
+    "descriptor": "Intensely Umami",
+    "dishForm": "Skillet"
+  }
+}
