@@ -1,0 +1,94 @@
+{
+  "title": "Intensely Rich Canadian Christmas Pudding Tart",
+  "description": "A rich and velvety Canadian dessert featuring Christmas pudding, glaze, and ayurvedic-tamasic-friendly ingredients, served on a cedar plank.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Christmas pudding",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour and confectioners sugar.",
+    "Add the melted butter, eggs, and vanilla extract to the bowl and mix until a dough forms.",
+    "Roll out the dough and place it in a tart pan with a removable bottom.",
+    "Bake the tart crust for 20 minutes, then set it aside to cool.",
+    "In a separate bowl, whisk together the heavy cream and maple syrup.",
+    "Add the Christmas pudding to the bowl and mix until well combined.",
+    "Pour the Christmas pudding mixture into the tart crust and smooth the top.",
+    "Bake the tart for an additional 25 minutes, then set it aside to cool completely.",
+    "Once the tart is cool, drizzle it with additional maple syrup and serve on a cedar plank."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-dessert",
+    "cedar-plank",
+    "christmas-pudding",
+    "special-occasion",
+    "tart-recipe",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 24
+  },
+  "slug": "intensely-rich-canadian-christmas-pudding-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-rich-canadian-christmas-pudding-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:03:53Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "glaze",
+    "primaryIngredient": "christmas pudding",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Christmas Pudding",
+    "descriptor": "Intensely Rich",
+    "dishForm": "Pudding"
+  }
+}
