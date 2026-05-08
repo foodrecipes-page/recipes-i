@@ -1,0 +1,96 @@
+{
+  "title": "Intensely Savory Ukrainian Myeolchi Anchovies Tagine",
+  "description": "A macrobiotic-friendly, lazy Sunday Ukrainian dish featuring myeolchi anchovies cooked in a tagine, resulting in a funky, glassy-jelly texture. This recipe combines the savory flavors of anchovies with the heartiness of Ukrainian cuisine.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "myeolchi anchovies",
+      "amount": "1 cup",
+      "notes": "dried and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes, stirring occasionally.",
+    "Add the myeolchi anchovies, tagine spice blend, and sea salt, and stir to combine.",
+    "Add 2 cups of water to the tagine, and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the tagine, and simmer for 20 minutes, or until the vegetables are tender.",
+    "Remove the tagine from the heat, and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "macrobiotic",
+    "one-pot",
+    "root-vegetables",
+    "savory",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intensely-savory-ukrainian-myeolchi-anchovies-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-savory-ukrainian-myeolchi-anchovies-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:46:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "tagine-cook",
+    "primaryIngredient": "myeolchi-anchovies",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "myeolchi anchovies",
+    "descriptor": "intensely savory",
+    "dishForm": "Tagine"
+  }
+}
