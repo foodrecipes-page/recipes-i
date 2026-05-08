@@ -5026,6 +5026,20 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-bitter-peruvian-chicken-pollo-a-la-brasa",
+    "title": "Intensely Bitter Peruvian Chicken Pollo a La Brasa",
+    "tags": [
+      "bitter",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-braised-russian-beef-stew",
     "title": "Intensely Braised Russian Beef Stew",
     "tags": [
@@ -5112,6 +5126,21 @@
       "weeknight-dinner"
     ],
     "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-charred-malaysian-chicken-satay",
+    "title": "Intensely Charred Malaysian Chicken Satay",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "malaysian",
+      "one-pan",
+      "satvik-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
     "totalTimeMin": 40,
     "shard": "i"
   },

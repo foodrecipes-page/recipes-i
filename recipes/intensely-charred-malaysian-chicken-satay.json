@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Charred Malaysian Chicken Satay",
+  "description": "A satvik-friendly Malaysian dish featuring charred and juicy chicken, boiled in a cataplana vessel with balsamic vinegar, this recipe is an energizing twist on traditional satay.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the cataplana vessel over medium heat.",
+    "Add the garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the chicken to the vessel and cook until browned on all sides, about 5 minutes.",
+    "Add the balsamic vinegar, coconut milk, lime juice, cumin, coriander, and salt to the vessel.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Remove the vessel from the heat and let it cool slightly.",
+    "Thread the chicken onto skewers and grill over high heat until intensely charred, about 2 minutes per side.",
+    "Serve the satay hot with additional lime wedges on the side.",
+    "Garnish with chopped cilantro or scallions, if desired.",
+    "Let the satay rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "satvik-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "intensely-charred-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-charred-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:43:06Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "boil",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "intensely charred",
+    "dishForm": "Satay"
+  }
+}
