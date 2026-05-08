@@ -1,0 +1,104 @@
+{
+  "title": "Intensely Crispy Portuguese Brussels Sprouts Skillet",
+  "description": "A winey, crispy, and flavorful Portuguese dish featuring Brussels sprouts, perfect for a hangover cure, made in a cast-iron skillet with a robata-grill touch.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to medium-high heat.",
+    "In a large cast-iron skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the Brussels sprouts to the skillet, cut side down, and cook for 5 minutes, until browned.",
+    "Add the red wine, chicken broth, salt, black pepper, and paprika to the skillet, and stir to combine.",
+    "Transfer the skillet to the preheated robata-grill and cook for 10 minutes, until the Brussels sprouts are tender and caramelized.",
+    "Remove the skillet from the grill and stir in the lemon juice.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve the Brussels sprouts hot, straight from the skillet."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brussels-sprouts",
+    "crispy",
+    "hangover-cure",
+    "low-fat",
+    "one-pan",
+    "portuguese",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "intensely-crispy-portuguese-brussels-sprouts-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-crispy-portuguese-brussels-sprouts-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:48:11Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "robata-grill",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "brussels sprouts",
+    "descriptor": "Intensely Crispy",
+    "dishForm": "Skillet"
+  }
+}
