@@ -1,0 +1,91 @@
+{
+  "title": "Intensely Fatty Venezuelan Cheese Sandwich",
+  "description": "A rich and indulgent ovo-vegetarian friendly Venezuelan dish featuring ciabatta, beurre-monte, and an abundance of melted cheese, perfect for a date night, with a fatty and chewy texture that will leave you wanting more.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ciabatta",
+      "amount": "4 slices",
+      "notes": "preferably day old"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "queso blanco",
+      "amount": "8 ounces",
+      "notes": "crumbly Venezuelan white cheese"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Butter one side of each ciabatta slice.",
+    "Place two slices of ciabatta, buttered side down, in the skillet.",
+    "Spread a layer of beurre-monte on the unbuttered side of each slice.",
+    "Top each slice with a generous amount of queso blanco.",
+    "Place the remaining ciabatta slices, buttered side up, on top of the cheese.",
+    "Brush the edges of the ciabatta with the beaten egg for a golden glaze.",
+    "Cook for 2-3 minutes or until the bread is golden brown and the cheese is melted.",
+    "Carefully flip the sandwiches over and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "date-night",
+    "fatty",
+    "indulgent",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 56
+  },
+  "slug": "intensely-fatty-venezuelan-cheese-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-fatty-venezuelan-cheese-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:16:07Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "beurre-monte",
+    "primaryIngredient": "ciabatta",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cheese",
+    "descriptor": "Intensely fatty",
+    "dishForm": "Sandwich"
+  }
+}
