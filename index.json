@@ -478,6 +478,21 @@
     "shard": "i"
   },
   {
+    "slug": "icy-yeasty-russian-melon-bao",
+    "title": "icy yeasty russian melon bao",
+    "tags": [
+      "dessert",
+      "diabetic-friendly",
+      "low-carb",
+      "one-pan",
+      "russian",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "icy-zanzibari-almond-pancakes",
     "title": "Icy Zanzibari Almond Pancakes",
     "tags": [

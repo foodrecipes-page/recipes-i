@@ -1,0 +1,98 @@
+{
+  "title": "icy yeasty russian melon bao",
+  "description": "a unique russian dish featuring melons, crumbly yeasty bao, and ssam-wrap, perfect for a diabetic-friendly dessert.",
+  "cuisine": "russian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "melon",
+      "amount": "1 medium-sized cantaloupe, diced"
+    },
+    {
+      "name": "yeast",
+      "amount": "0.25 teaspoon active dry yeast"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "1 package, cut into small pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons, melted"
+    },
+    {
+      "name": "salt",
+      "amount": "0.1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix yeast and sugar with 1/4 cup warm milk to activate yeast.",
+    "In a large mixing bowl, combine flour, eggs, melted butter, and salt.",
+    "Add the yeast mixture to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Place the dough in a greased bowl, cover with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat oven to 375°F.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll each piece into a ball and flatten slightly into a disk shape.",
+    "Place a spoonful of diced melon on one half of each disk, then fold the other half over to form a bun.",
+    "Bake the buns for 15 minutes or until golden brown.",
+    "Serve warm with additional melon and ssam-wrap pieces on the side."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "diabetic-friendly",
+    "low-carb",
+    "one-pan",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "icy-yeasty-russian-melon-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-yeasty-russian-melon-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:04:05Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "melons",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "melon",
+    "descriptor": "Icy Yeasty",
+    "dishForm": "Bao"
+  }
+}
