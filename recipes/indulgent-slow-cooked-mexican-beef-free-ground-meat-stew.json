@@ -2,11 +2,7 @@
   "title": "slow-cooked mexican beef stew",
   "description": "rich, chewy, and flavorful mexican stew featuring ground nutmeg, served with warm flour tortillas. perfect for a date-night dinner",
   "cuisine": "mexican",
-  "diet": [
-    "pescatarian",
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -81,7 +77,8 @@
     "warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
     "serve the stew hot, garnished with a dollop of sour cream and a sprinkle of shredded cheese.",
     "offer warm flour tortillas on the side for wrapping.",
-    "reheat the stew, if needed, before serving"
+    "reheat the stew, if needed, before serving",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -119,5 +116,12 @@
     "mainIngredient": "beef free ground meat",
     "descriptor": "indulgent slow-cooked",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian",
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -61,7 +61,8 @@
     "Add the cooked chicken to the blender and blend until the chicken is coated with the sauce.",
     "Transfer the sauce to a saucepan and bring to a simmer over medium heat.",
     "Stir in chopped Thai basil and cook for an additional 2 minutes.",
-    "Serve the chicken and sauce hot, garnished with additional basil and lemon wedges if desired."
+    "Serve the chicken and sauce hot, garnished with additional basil and lemon wedges if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -100,5 +101,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Intense Dense",
     "dishForm": "Tom Kha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -56,7 +56,8 @@
     "Stir in the chopped green onions.",
     "Serve hot and enjoy.",
     "Garnish with additional green onions if desired.",
-    "Refrigerate leftovers for up to 3 days."
+    "Refrigerate leftovers for up to 3 days.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -94,5 +95,9 @@
     "mainIngredient": "cream",
     "descriptor": "Invigorating",
     "dishForm": "Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

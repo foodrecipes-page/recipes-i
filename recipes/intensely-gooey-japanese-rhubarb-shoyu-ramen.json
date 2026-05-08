@@ -63,7 +63,8 @@
     "In a separate pan, cook the rhubarb over medium heat until tender and caramelized, stirring occasionally.",
     "To assemble the ramen, place a portion of the pork belly and rhubarb into a bowl, then ladle the hot broth over the top.",
     "Garnish with green onions, sesame seeds, and a soft-boiled egg, then serve immediately.",
-    "To emulsify the sauce, whisk in a small amount of xanthan gum or guar gum before serving."
+    "To emulsify the sauce, whisk in a small amount of xanthan gum or guar gum before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -101,5 +102,9 @@
     "mainIngredient": "rhubarb",
     "descriptor": "Intensely Gooey",
     "dishForm": "Shoyu Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

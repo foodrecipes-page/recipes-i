@@ -57,7 +57,8 @@
     "Reduce the heat to low, cover, and simmer for 20 minutes",
     "Remove from heat and stir in the salt and black pepper",
     "If using cheese and cilantro, stir them in at this point",
-    "Serve the tacu tacu hot, garnished with additional cilantro if desired"
+    "Serve the tacu tacu hot, garnished with additional cilantro if desired",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -94,5 +95,9 @@
     "mainIngredient": "rice",
     "descriptor": "Intense Molten",
     "dishForm": "Tacu Tacu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "Earthy, pillowy and energizing kabocha stew cooked in a mason jar for a comforting Indian flavor.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -76,8 +75,7 @@
     "comfort-food",
     "no-garlic",
     "no-onion",
-    "one-pot",
-    "vegan"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 930,
@@ -102,5 +100,9 @@
     "mainIngredient": "Kabocha",
     "descriptor": "Indulgent Pillowy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

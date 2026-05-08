@@ -3,8 +3,7 @@
   "description": "Savory and springy Peruvian picarones filled with black beans, perfect for an adventurous snack or dessert, diabetic-friendly and made with fermented dough.",
   "cuisine": "Peruvian",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "snack",
   "ingredients": [
@@ -64,7 +63,6 @@
     "black-beans",
     "diabetic-friendly",
     "fried-dough",
-    "gluten-free",
     "peruvian-cuisine",
     "sweet-potato"
   ],
@@ -91,5 +89,9 @@
     "mainIngredient": "black beans",
     "descriptor": "Innovative Intense",
     "dishForm": "Picarones"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

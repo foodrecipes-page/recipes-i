@@ -2,10 +2,7 @@
   "title": "Intensely Malty American Feta Bowl",
   "description": "A comforting, malty, and velvety American dish featuring feta, perfect for a sick day, served in a traditional Korean brass bowl. This recipe incorporates anti-inflammatory friendly ingredients.",
   "cuisine": "American",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -53,7 +50,8 @@
     "Let the mixture simmer for 5 minutes, stirring occasionally, until it has thickened slightly.",
     "Stir in the crumbled feta cheese until it is fully incorporated and the mixture is smooth.",
     "Transfer the mixture to a Korean brass bowl.",
-    "Garnish with chopped fresh parsley and serve warm."
+    "Garnish with chopped fresh parsley and serve warm.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -63,7 +61,6 @@
   "tags": [
     "american-classics",
     "comfort-food",
-    "gluten-free",
     "one-pot",
     "vegetarian-friendly"
   ],
@@ -90,5 +87,11 @@
     "mainIngredient": "feta",
     "descriptor": "intensely malty",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

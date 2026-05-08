@@ -3,8 +3,7 @@
   "description": "a fresh, fluffy portuguese tart featuring a coconut-cream-crack crust and a creamy vanilla custard",
   "cuisine": "portuguese",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -107,5 +106,9 @@
     "mainIngredient": "vainilla",
     "descriptor": "Indulgent Coconut",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

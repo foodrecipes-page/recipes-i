@@ -3,8 +3,7 @@
   "description": "A savory and crumbly Korean dish featuring mussels, perfect for a date night, originating from Busan, and sugar-free-friendly. This stew is made with a variety of spices and ingredients to create a rich and intense flavor.",
   "cuisine": "Korean",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "date-night",
-    "gluten-free",
     "korean-cuisine",
     "seafood",
     "stew",
@@ -91,5 +89,9 @@
     "mainIngredient": "mussels",
     "descriptor": "intensely savory",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

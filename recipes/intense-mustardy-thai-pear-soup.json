@@ -2,9 +2,7 @@
   "title": "Intense Mustardy Thai Pear Soup",
   "description": "A spicy, buttery‑laced tom yum soup that pairs earthy Korean pear with roasted tomato and a bold mustard kick, all wrapped in a dairy‑free coconut broth. Its airy, comforting broth is perfect for a quick winter lunch or dinner.",
   "cuisine": "thai",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -79,7 +77,6 @@
   "tags": [
     "airy",
     "comfort-food",
-    "dairy-free",
     "korean-pear",
     "mustard",
     "thai-soup",
@@ -108,5 +105,9 @@
     "mainIngredient": "pear",
     "descriptor": "Intense Mustardy",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

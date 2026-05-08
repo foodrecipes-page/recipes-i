@@ -66,7 +66,8 @@
     "Continue cooking and stirring for 18 minutes until rice is al dente and creamy.",
     "Remove the pan from heat and immediately transfer the risotto to a shallow bowl filled with ice water to shock and halt cooking.",
     "Drain the risotto, then return to the pan, whisk in butter, and season with salt and pepper to taste.",
-    "Serve immediately, dusted with extra Parmesan and a light drizzle of olive oil."
+    "Serve immediately, dusted with extra Parmesan and a light drizzle of olive oil.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -105,5 +106,9 @@
     "mainIngredient": "Cinnamon",
     "descriptor": "Intense Shattering",
     "dishForm": "Risotto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

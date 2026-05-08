@@ -2,9 +2,7 @@
   "title": "Intense Greek Eggplant Moussaka",
   "description": "Winey, snappy, festive Greek-style moussaka featuring grilled eggplant, tomato sauce, toasted naan, and a plant-based béchamel, ideal for a celebratory dinner.",
   "cuisine": "Greek",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Intense",
     "dishForm": "Moussaka"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

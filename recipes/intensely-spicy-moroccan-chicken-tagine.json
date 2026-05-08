@@ -77,7 +77,8 @@
     "spray the air fryer basket with olive oil and add the chicken and vegetable mixture.",
     "cook for 15 minutes, shaking the basket halfway through.",
     "remove the chicken and vegetables from the air fryer and transfer to a serving dish.",
-    "sprinkle with chopped parsley and serve immediately."
+    "sprinkle with chopped parsley and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -115,5 +116,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Intensely Spicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

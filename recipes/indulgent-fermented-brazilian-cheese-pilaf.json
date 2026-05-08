@@ -81,7 +81,8 @@
     "add pickle juice, fermented cheese, fines herbes, salt, and black pepper, stir to combine",
     "reduce heat to low and simmer, uncovered, for 10 minutes",
     "transfer the pilaf to a serving dish and top with thinly sliced shallots",
-    "sprinkle with fresh parsley and serve immediately"
+    "sprinkle with fresh parsley and serve immediately",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -119,5 +120,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Indulgent Fermented",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

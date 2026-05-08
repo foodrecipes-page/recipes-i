@@ -2,9 +2,7 @@
   "title": "Intense Umami Syrian Eggplant Tagine",
   "description": "A romantic Syrian dish featuring vanilla bean paste and a glassy-jelly texture, this vegan-friendly tagine is perfect for a special occasion. It showcases the deep umami flavors of the Middle East.",
   "cuisine": "Syrian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Intense Umami",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

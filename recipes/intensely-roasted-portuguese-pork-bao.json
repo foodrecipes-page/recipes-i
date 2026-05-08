@@ -63,7 +63,8 @@
     "Once the pork is done, remove it from the oven and let it rest for 10 minutes before shredding it with two forks.",
     "Assemble the bao by splitting it in half and filling it with shredded pork, scallions, and sesame seeds.",
     "Season with salt and black pepper to taste.",
-    "Serve the intensely roasted Portuguese pork bao in a bento box."
+    "Serve the intensely roasted Portuguese pork bao in a bento box.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 360,
@@ -101,5 +102,9 @@
     "mainIngredient": "pork",
     "descriptor": "Intensely Roasted",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

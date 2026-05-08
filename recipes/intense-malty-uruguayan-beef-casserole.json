@@ -3,8 +3,7 @@
   "description": "A kid-friendly Uruguayan dish featuring tinned tomatoes and a malty flavor, with a cheese-pull and low-carb friendly ingredients. This casserole is perfect for a weeknight dinner.",
   "cuisine": "Uruguayan",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -53,7 +52,8 @@
     "Transfer the mixture to a 9x13 inch baking dish.",
     "Top the mixture with the shredded cheese.",
     "Cover the dish with the papillote parchment paper, creating a tight seal.",
-    "Bake the casserole for 25 minutes, then remove the parchment paper and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+    "Bake the casserole for 25 minutes, then remove the parchment paper and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -92,5 +92,10 @@
     "mainIngredient": "beef",
     "descriptor": "intense malty",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

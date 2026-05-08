@@ -54,7 +54,8 @@
     "Scatter the toasted pine nuts over the top for crunch and nutty aroma.",
     "Refrigerate the carpaccio for at least 30 minutes to allow flavors to meld.",
     "Just before serving, drizzle a thin line of charred olive oil over the slices.",
-    "Serve immediately with a side of crisp cucumber ribbons or a light salad."
+    "Serve immediately with a side of crisp cucumber ribbons or a light salad.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
@@ -92,5 +93,9 @@
     "mainIngredient": "duck",
     "descriptor": "Intense Smoky",
     "dishForm": "Carpaccio"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

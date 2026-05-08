@@ -3,8 +3,7 @@
   "description": "A romantic Malaysian dish featuring coriander and fermented tofu, this innovative satay is egg-free-friendly and perfect for a night in, the combination of fermented and aerated elements creates a unique twist on traditional satay.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,7 +71,6 @@
     "malaysian",
     "one-pan",
     "satay",
-    "vegan",
     "vegetarian",
     "weeknight"
   ],
@@ -99,5 +97,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Innovative",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

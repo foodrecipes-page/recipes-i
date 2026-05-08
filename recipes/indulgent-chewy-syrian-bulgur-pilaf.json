@@ -68,7 +68,8 @@
     "Fold in the green peas during the last 3 minutes of cooking.",
     "Remove the pot from the heat and let the pilaf sit, covered, for 5 minutes to finish steaming.",
     "Fluff the pilaf with a fork, taste and adjust seasoning if needed.",
-    "Serve warm, optionally garnished with chopped parsley or a squeeze of lemon for extra brightness."
+    "Serve warm, optionally garnished with chopped parsley or a squeeze of lemon for extra brightness.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -106,5 +107,9 @@
     "mainIngredient": "bulgur",
     "descriptor": "Indulgent Chewy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "a peppery, chewy italian dish featuring speculaas spice mix and bhuna, inspired by venetian cuisine.",
   "cuisine": "italian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -67,7 +66,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "italian-cuisine",
     "one-pan",
     "plant-based",
@@ -97,5 +95,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Intense Spicy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

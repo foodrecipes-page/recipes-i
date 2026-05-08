@@ -3,7 +3,6 @@
   "description": "Pungent, dense, meal-prep friendly empanadas made with lean ground beef, rendered fat, and a savory spiced filling, perfect for a quick dinner or packed lunches.",
   "cuisine": "Argentinian",
   "diet": [
-    "gluten-free",
     "lean-meat"
   ],
   "meal": "dinner",
@@ -78,7 +77,6 @@
   "tags": [
     "argentine",
     "beef",
-    "gluten-free",
     "low-fat",
     "meal-prep",
     "quick",
@@ -107,5 +105,9 @@
     "mainIngredient": "beef",
     "descriptor": "Intense",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

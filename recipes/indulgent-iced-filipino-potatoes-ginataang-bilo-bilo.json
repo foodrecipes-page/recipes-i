@@ -75,7 +75,6 @@
     "filipino",
     "one-pot",
     "sweet",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -101,5 +100,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Indulgent Iced",
     "dishForm": "Ginataang Bilo Bilo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

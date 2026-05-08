@@ -62,7 +62,8 @@
     "Rinse the basmati rice until the water runs clear, then add it to the pot along with the water and chicken broth, and season with salt and pepper.",
     "Bring to a boil, then reduce heat, cover, and simmer for 15 minutes until the rice is tender.",
     "Stir in the grated parmigiano-reggiano and bonito shavings, allowing the cheese to melt into the stew.",
-    "Garnish with chopped parsley, serve hot, and enjoy the sour, festive flavor."
+    "Garnish with chopped parsley, serve hot, and enjoy the sour, festive flavor.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -101,5 +102,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Intense Sour",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

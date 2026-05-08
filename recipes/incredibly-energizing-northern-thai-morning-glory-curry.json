@@ -67,7 +67,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "high-protein",
     "one-pan",
@@ -97,5 +96,9 @@
     "mainIngredient": "morning glory",
     "descriptor": "Incredibly Energizing",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

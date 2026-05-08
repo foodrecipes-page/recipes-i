@@ -3,8 +3,6 @@
   "description": "A comforting casserole that combines strong white flour with an intense fermentation process, all topped with a flambe finish. This recipe is free from dairy products for those with dietary restrictions.",
   "cuisine": "Russian",
   "diet": [
-    "gluten-free",
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -68,9 +66,7 @@
   "tags": [
     "casserole",
     "comfort-food",
-    "dairy-free",
     "fermented",
-    "gluten-free",
     "high-carb",
     "one-pan"
   ],
@@ -97,5 +93,10 @@
     "mainIngredient": "flour",
     "descriptor": "Intensely Fermented",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

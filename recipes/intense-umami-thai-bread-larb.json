@@ -2,10 +2,7 @@
   "title": "Intense Umami Thai Bread Larb",
   "description": "A quick-fix Thai dish featuring bread, ferment, and umami flavors, this larb is perfect for a snack or light meal. It is ayurvedic-rajasic-friendly and has a chewy texture.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -94,5 +91,10 @@
     "mainIngredient": "bread",
     "descriptor": "Intense Umami",
     "dishForm": "Larb"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

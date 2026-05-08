@@ -82,11 +82,15 @@
     "mood": "adventurous",
     "technique": "deglaze",
     "primaryIngredient": "dark chocolate chips",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Portuguese",
     "mainIngredient": "almonds",
     "descriptor": "Indulgent",
     "dishForm": "Cookies"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

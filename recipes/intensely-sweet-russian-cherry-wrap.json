@@ -3,7 +3,6 @@
   "description": "A sweet and creamy Russian dish featuring ground sugar and smoked hot flavors, all wrapped in a corn husk vessel, perfect for adventurous eaters looking for a dairy-free friendly treat.",
   "cuisine": "Russian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -68,7 +67,6 @@
   "tags": [
     "adventurous-eating",
     "corn-husk-recipes",
-    "dairy-free",
     "russian-dishes",
     "smoked-foods",
     "sweet-treats"
@@ -96,5 +94,9 @@
     "mainIngredient": "cherries",
     "descriptor": "intensely sweet",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

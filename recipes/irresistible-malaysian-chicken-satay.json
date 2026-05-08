@@ -3,7 +3,6 @@
   "description": "A sweet and savory Malaysian dish featuring lemongrass and high protein chicken, perfect for midnight cravings. This recipe is a classic representation of Malaysian street food.",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
     "high-protein"
   ],
   "meal": "snack",
@@ -99,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Irresistible",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

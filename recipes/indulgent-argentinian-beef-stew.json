@@ -98,11 +98,15 @@
     "mood": "monsoon",
     "technique": "boil",
     "primaryIngredient": "juniper berries",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Argentinian",
     "mainIngredient": "beef",
     "descriptor": "Indulgent",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

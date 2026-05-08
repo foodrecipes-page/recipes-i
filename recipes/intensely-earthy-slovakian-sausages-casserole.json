@@ -2,9 +2,7 @@
   "title": "Slovakian Sausages Casserole",
   "description": "A comforting and earthy dish featuring German sausages, this casserole is perfect for a cold evening, and can be made dairy-free friendly by substituting the cheese with a non-dairy alternative, and it is traditionally cooked in a vessel lined with agave leaves for added flavor.",
   "cuisine": "Slovakian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -73,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "hearty",
     "homemade",
     "one-pan",
@@ -102,5 +99,9 @@
     "mainIngredient": "sausages",
     "descriptor": "intensely earthy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

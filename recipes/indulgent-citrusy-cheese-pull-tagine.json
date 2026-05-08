@@ -3,7 +3,6 @@
   "description": "A rich and tangy cheese pull dish from Saudi Arabia, featuring a citrusy twist and a variety of herbs.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "snack",
@@ -105,5 +104,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Aromatic",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

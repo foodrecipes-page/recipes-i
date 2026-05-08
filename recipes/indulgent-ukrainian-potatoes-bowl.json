@@ -2,9 +2,7 @@
   "title": "Indulgent Ukrainian Potatoes Bowl",
   "description": "Floral, creamy brunch‑mood dish featuring new potatoes and kombu‑cold‑extract, plant‑based friendly and packed with fresh dill.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -98,5 +96,9 @@
     "mainIngredient": "Potatoes",
     "descriptor": "Indulgent",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

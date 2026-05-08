@@ -3,8 +3,7 @@
   "description": "This low-carb-friendly dish features chicken stock, candy, and herbal notes in a traditional Chinese char siu bao format, originating from the Fujian province",
   "cuisine": "Chinese",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -62,7 +61,8 @@
     "While the chicken is baking, mix the egg with a little water to create an egg wash",
     "Brush the egg wash over the baked chicken and return to the oven for an additional 5 minutes",
     "Allow the chicken to cool before slicing into thin strips",
-    "Assemble the char siu bao by placing the chicken strips onto a low-carb-friendly bun and serving immediately"
+    "Assemble the char siu bao by placing the chicken strips onto a low-carb-friendly bun and serving immediately",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 35,
@@ -74,7 +74,6 @@
     "aerated",
     "chinese-food",
     "fujian",
-    "gluten-free",
     "herbal",
     "low-carb"
   ],
@@ -101,5 +100,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Innovative Herbal",
     "dishForm": "Char Siu Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Intense Spicy Vietnamese Kippers Bun Bo Hue",
   "description": "A spicy and romantic Vietnamese dish featuring kippers, yuzu-cure, and raw-friendly ingredients, served in a fluffy bun bo hue form.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "pescatarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -88,5 +85,10 @@
     "mainIngredient": "kippers",
     "descriptor": "Intense Spicy",
     "dishForm": "Bun Bo Hue"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "removed-diet-gluten-free"
+  ]
 }

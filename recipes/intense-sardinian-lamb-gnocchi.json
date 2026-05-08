@@ -2,9 +2,7 @@
   "title": "Intense Sardinian Lamb Gnocchi",
   "description": "A midnight craving dish that blends smoky lamb shoulder with creamy potato gnocchi in a fragrant sauce, perfect for a comforting Sardinian dinner.",
   "cuisine": "Sardinian",
-  "diet": [
-    "Gluten-Free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -77,7 +75,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "lamb",
     "pasta",
     "sardinian",
@@ -106,5 +103,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Intense",
     "dishForm": "Gnocchi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

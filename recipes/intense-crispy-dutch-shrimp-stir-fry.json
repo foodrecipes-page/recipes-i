@@ -3,8 +3,7 @@
   "description": "A pungent, crisp shrimp stir-fry with a sweet cherry glaze and a Dutch twist, perfect for a low‑carb romantic dinner.",
   "cuisine": "Dutch",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -121,5 +120,9 @@
     "mainIngredient": "Shrimp",
     "descriptor": "Intense Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

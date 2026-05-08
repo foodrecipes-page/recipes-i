@@ -54,7 +54,8 @@
     "Add the crumbled gorgonzola-dolce and cook, stirring constantly, until melted and smooth.",
     "Add the soy sauce, chicken broth, and sliced zucchini, and bring to a boil.",
     "Reduce the heat to low and simmer, covered, until the zucchini is tender, about 10 minutes.",
-    "Season with salt and pepper to taste, then serve hot."
+    "Season with salt and pepper to taste, then serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -92,5 +93,9 @@
     "mainIngredient": "gorgonzola",
     "descriptor": "Intensely garlicky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

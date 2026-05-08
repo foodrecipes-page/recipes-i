@@ -58,8 +58,7 @@
   "difficulty": "medium",
   "tags": [
     "elegant",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 520,
@@ -84,5 +83,9 @@
     "mainIngredient": "Puy-lentils",
     "descriptor": "Salty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

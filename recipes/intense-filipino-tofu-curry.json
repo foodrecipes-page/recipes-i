@@ -2,10 +2,7 @@
   "title": "Intense Filipino Tofu Curry",
   "description": "A creamy, umami-packed Bicol Express style tofu curry simmered in a wok and finished in a clay pot, topped with toasted breadcrumbs for a satisfying crunch.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -145,5 +142,10 @@
     "mainIngredient": "Tofu",
     "descriptor": "Intense",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

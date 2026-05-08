@@ -3,8 +3,7 @@
   "description": "fermented, crunchy, comforting mexican dish featuring figs, leaf-wrap-steam, low-carb-friendly",
   "cuisine": "mexican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -77,7 +76,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "low-carb",
     "mexican",
     "one-pan",
@@ -107,5 +105,9 @@
     "mainIngredient": "Masa",
     "descriptor": "Intricately Crispy",
     "dishForm": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

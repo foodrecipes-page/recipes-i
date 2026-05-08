@@ -52,7 +52,8 @@
     "Add basmati rice, malt syrup, and 2 cups of water to the skillet",
     "Bring to a boil, then reduce heat to low and cover",
     "Simmer for 20 minutes, or until the rice is tender and the liquid is absorbed",
-    "Stir in sliced almonds and cook for an additional 2 minutes"
+    "Stir in sliced almonds and cook for an additional 2 minutes",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -89,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Intensely malty",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

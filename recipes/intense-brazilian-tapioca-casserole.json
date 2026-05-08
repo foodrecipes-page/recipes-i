@@ -3,7 +3,6 @@
   "description": "A resinous, chewy meal-prep casserole that blends Brazilian tapioca with Korean-inspired namul seasoning, sour cream, and anti-inflammatory herbs for a hearty lunch.",
   "cuisine": "Brazilian",
   "diet": [
-    "gluten-free",
     "anti-inflammatory",
     "vegetarian"
   ],
@@ -78,7 +77,6 @@
   "tags": [
     "anti-inflammatory",
     "brazilian",
-    "gluten-free",
     "meal-prep",
     "one-pot",
     "tapioca"
@@ -106,5 +104,9 @@
     "mainIngredient": "Tapioca",
     "descriptor": "Intense",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

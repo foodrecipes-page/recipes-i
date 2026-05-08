@@ -3,7 +3,6 @@
   "description": "A yeasty, creamy, and flavorful Thai dish featuring tahini paste and ferment-kimchi, perfect for a lazy Sunday, vegan-friendly version available by substituting chicken with tofu or tempeh. This dish is a unique twist on traditional Kao Mun Gai.",
   "cuisine": "Thai",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -100,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Intensely Yeasty",
     "dishForm": "Kao Mun Gai"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

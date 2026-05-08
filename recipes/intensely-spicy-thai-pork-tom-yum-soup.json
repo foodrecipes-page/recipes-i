@@ -3,10 +3,7 @@
   "description": "A flavorful and spicy soup made with fresh ingredients and served with crusty bread for a delicious and quick Thai dish.",
   "cuisine": "thai",
   "diet": [
-    "vegetarian",
-    "vegan",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -115,5 +112,11 @@
     "mainIngredient": "pork",
     "descriptor": "Intensely Spicy",
     "dishForm": "Tom Yum Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-dairy-free"
+  ]
 }

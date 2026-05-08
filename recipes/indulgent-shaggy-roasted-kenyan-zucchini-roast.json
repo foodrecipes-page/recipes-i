@@ -3,8 +3,7 @@
   "description": "A flavorful and rich Kenyan-inspired dish featuring roasted zucchini, with a shaggy texture and a creamy emulsion sauce.",
   "cuisine": "kenyan",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -109,5 +108,9 @@
     "mainIngredient": "zucchini",
     "descriptor": "Indulgent Shaggy Roasted",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -45,7 +45,8 @@
     "Stir in blended flour mixture with broth mixture.",
     "Continue stirring for 15 minutes or until thickened.",
     "Season with salt to taste. Add herbs and chicken soup base.",
-    "Serve immediately as a macaron risotto."
+    "Serve immediately as a macaron risotto.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -83,5 +84,9 @@
     "mainIngredient": "sweet-rice-flour-chapssalgaru",
     "descriptor": "Izzy",
     "dishForm": "Macaron Risotto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "Savory and springy pancakes infused with leftover Christmas pudding, perfect for a Buddhist temple friendly festive lunch.",
   "cuisine": "Slovakian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -70,7 +69,6 @@
     "one-pan",
     "pancake",
     "slovakian",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -96,5 +94,9 @@
     "mainIngredient": "Christmas Pudding",
     "descriptor": "Indulgent",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

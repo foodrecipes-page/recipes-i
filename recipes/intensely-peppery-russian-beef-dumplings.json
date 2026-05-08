@@ -3,7 +3,6 @@
   "description": "These fluffy Russian dumplings are a crowd-pleaser, filled with a peppery beef mixture and steamed to perfection in a bamboo steamer, featuring muscovado sugar and grilled to add a smoky flavor, making them an anti-inflammatory friendly dish.",
   "cuisine": "Russian",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -63,7 +62,8 @@
     "Fold the dough over the filling, forming a half-moon shape, and press the edges together to seal the dumpling.",
     "Heat the yakimono-grill over medium-high heat, and brush the dumplings with vegetable oil.",
     "Grill the dumplings for 2 minutes on each side, until they are golden brown.",
-    "Place the dumplings in a bamboo steamer, and steam for 10 minutes, until they are cooked through."
+    "Place the dumplings in a bamboo steamer, and steam for 10 minutes, until they are cooked through.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -101,5 +101,10 @@
     "mainIngredient": "beef",
     "descriptor": "intensely peppery",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

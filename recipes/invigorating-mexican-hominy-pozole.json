@@ -54,7 +54,9 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
     "Use two forks to shred the pork into bite-sized pieces.",
     "Stir in the lime juice and season the pozole with salt and pepper to taste.",
-    "Serve the pozole hot, garnished with chopped fresh cilantro or scallions if desired."
+    "Serve the pozole hot, garnished with chopped fresh cilantro or scallions if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -92,5 +94,10 @@
     "mainIngredient": "hominy",
     "descriptor": "Invigorating",
     "dishForm": "Pozole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -62,7 +62,8 @@
     "Stir in the rice vinegar and cook for an additional minute.",
     "Warm the pandan leaf wrap in the microwave for 10-15 seconds.",
     "Assemble the wrap by placing the duck mixture onto the center of the pandan leaf wrap.",
-    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder."
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -99,5 +100,9 @@
     "mainIngredient": "duck",
     "descriptor": "Intensely energizing",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

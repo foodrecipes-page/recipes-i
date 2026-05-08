@@ -2,9 +2,7 @@
   "title": "Intensely Smoky Saudi Arabian Shrimp Paste Skewers",
   "description": "A smoky, crunchy, and comforting Saudi Arabian dish featuring shrimp paste, this recipe is vegan-friendly and perfect for a snack or dinner, it is made by brine-drying the shrimp paste to give it a unique texture.",
   "cuisine": "Saudi Arabian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "shrimp paste",
     "descriptor": "intensely smoky",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A crunchy, cool salad that captures Dutch nostalgia with a zing of English mustard and an ice-bath shock, perfect for a light, ayurvedic-rajasic friendly meal.",
   "cuisine": "Dutch",
   "diet": [
-    "vegan",
     "ayurvedic",
     "rajasic-friendly"
   ],
@@ -90,8 +89,7 @@
     "dutch",
     "mustard",
     "simple",
-    "spring",
-    "vegan"
+    "spring"
   ],
   "nutrition": {
     "calories": 200,
@@ -116,5 +114,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "Iced Springy",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -9,8 +9,7 @@
   "servings": 4,
   "difficulty": "medium",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "ingredients": [
     {
@@ -76,7 +75,6 @@
     "fat": 20
   },
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "pescatarian",
@@ -100,5 +98,9 @@
     "mainIngredient": "fish",
     "descriptor": "Indulgent",
     "dishForm": "Mi Quang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -64,7 +64,8 @@
     "Use the spatula to shape the mixture into a flat, even layer, allowing it to develop a crust on the bottom.",
     "Reduce the heat to medium-low and cook for an additional 5 minutes, stirring occasionally, until the crust is golden brown and the mixture is heated through.",
     "Remove the iron teppan from the heat and let the hash cool for a few minutes before serving.",
-    "Serve the intensely umami Jamaican ground beef hash hot, garnished with chopped fresh herbs if desired."
+    "Serve the intensely umami Jamaican ground beef hash hot, garnished with chopped fresh herbs if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -102,5 +103,9 @@
     "mainIngredient": "ground beef",
     "descriptor": "Intensely Umami",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

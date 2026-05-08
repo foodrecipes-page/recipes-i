@@ -3,7 +3,6 @@
   "description": "A midnight-craving dessert that blends creamy coconut, caramel drizzle, and fresh herbs for a smooth, herbal treat.",
   "cuisine": "Vietnamese",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -74,8 +73,7 @@
     "gluten-free",
     "herbal",
     "quick",
-    "raw-friendly",
-    "vegan"
+    "raw-friendly"
   ],
   "nutrition": {
     "calories": 250,
@@ -100,5 +98,9 @@
     "mainIngredient": "coconut",
     "descriptor": "Indulgent",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

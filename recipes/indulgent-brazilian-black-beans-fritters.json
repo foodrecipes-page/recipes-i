@@ -2,9 +2,7 @@
   "title": "Indulgent Brazilian Black Beans Fritters",
   "description": "Jammy, dense fritters packed with protein-rich black beans and spicy ginger cordial, perfect for a satisfying snack.",
   "cuisine": "Brazilian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -95,5 +93,9 @@
     "mainIngredient": "black beans",
     "descriptor": "Indulgent",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

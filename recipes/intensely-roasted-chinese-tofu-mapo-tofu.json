@@ -84,11 +84,15 @@
     "mood": "energizing",
     "technique": "pasta-water-emulsion",
     "primaryIngredient": "dry sherry",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Chinese",
     "mainIngredient": "tofu",
     "descriptor": "Intensely Roasted",
     "dishForm": "Mapo Tofu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

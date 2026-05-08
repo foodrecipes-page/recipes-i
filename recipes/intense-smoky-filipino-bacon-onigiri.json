@@ -2,9 +2,7 @@
   "title": "Intense Smoky Filipino Bacon Onigiri",
   "description": "A solo dinner dish featuring crispy Filipino bacon and Japanese nigiri shaping, this earthy and shattering meal is perfect for a quiet evening, and is halal-friendly by using halal-certified bacon or bacon alternative.",
   "cuisine": "Filipino",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -91,5 +89,9 @@
     "mainIngredient": "bacon",
     "descriptor": "Intense Smoky",
     "dishForm": "Onigiri"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

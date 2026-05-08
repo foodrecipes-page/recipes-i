@@ -3,7 +3,6 @@
   "description": "A comforting, low-glycemic Ukrainian dish featuring a shaggy, steamed pasta, perfect for a lazy Sunday.",
   "cuisine": "Eastern European",
   "diet": [
-    "gluten-free",
     "low-carb",
     "vegetarian"
   ],
@@ -75,7 +74,6 @@
   "tags": [
     "comfort-food",
     "eastern-european",
-    "gluten-free",
     "low-carb",
     "one-pan",
     "vegetarian",
@@ -104,5 +102,9 @@
     "mainIngredient": "Pasta",
     "descriptor": "Indulgent Steamed",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "These crispy cookies are a kid-friendly Australian dish featuring chocolate chips and a nutty flavor, made dairy-free-friendly and cooked to perfection in a raclette-grill, utilizing steam for a unique texture.",
   "cuisine": "Australian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -66,7 +65,6 @@
   "tags": [
     "australian-dishes",
     "crispy-cookies",
-    "dairy-free",
     "kid-friendly",
     "raclette-grill",
     "steam-cooking"
@@ -94,5 +92,9 @@
     "mainIngredient": "chocolate chips",
     "descriptor": "innovative crispy",
     "dishForm": "Cookies"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

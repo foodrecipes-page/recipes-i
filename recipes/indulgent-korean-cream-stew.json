@@ -3,7 +3,6 @@
   "description": "A garlicky, gooey one-pot Korean dish featuring double cream and infuse-oil, served in a stunning Talavera plate.",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -86,7 +85,6 @@
   "tags": [
     "comfort-food",
     "creamy",
-    "gluten-free",
     "korean",
     "one-pot",
     "vegetarian"
@@ -114,5 +112,9 @@
     "mainIngredient": "cream",
     "descriptor": "Indulgent",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

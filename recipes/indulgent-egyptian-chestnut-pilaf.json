@@ -63,7 +63,8 @@
     "Reduce the heat to low, cover the pot, and simmer for 15 minutes, or until the rice and chestnuts absorb the liquid.",
     "Remove from heat, discard the bay leaf, and let the pilaf rest, covered, for 5 minutes.",
     "Fluff the rice with a fork, stir in lemon zest, and adjust seasoning if needed.",
-    "Serve hot, garnished with chopped parsley or a drizzle of olive oil if desired."
+    "Serve hot, garnished with chopped parsley or a drizzle of olive oil if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -102,5 +103,9 @@
     "mainIngredient": "chestnuts",
     "descriptor": "Indulgent",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

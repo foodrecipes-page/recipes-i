@@ -2,9 +2,7 @@
   "title": "Intense Filipino Seitan Stew",
   "description": "A savory, silky vegan stew that captures the aromatic depth of Filipino adobo with seitan as the star protein.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -80,8 +78,7 @@
     "plant-based",
     "savory",
     "slow-cook",
-    "stew",
-    "vegan"
+    "stew"
   ],
   "nutrition": {
     "calories": 1180,
@@ -106,5 +103,9 @@
     "mainIngredient": "seitan",
     "descriptor": "Intense",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

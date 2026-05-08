@@ -56,7 +56,8 @@
     "While the kebabs are cooking, heat the canned tomatoes in a saucepan over medium heat.",
     "Add the nuka-pickle to the saucepan and stir to combine.",
     "Once the kebabs are cooked, brush them with the tomato and nuka-pickle mixture.",
-    "Top each kebab with a spoonful of feta cheese and serve immediately."
+    "Top each kebab with a spoonful of feta cheese and serve immediately.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -94,5 +95,9 @@
     "mainIngredient": "lamb",
     "descriptor": "intensely malty",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

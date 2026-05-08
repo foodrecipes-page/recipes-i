@@ -3,8 +3,7 @@
   "description": "A light and flavorful Greek dish featuring puff pastry, charred to perfection and filled with bouncy feta cheese, namul blanched and seasoned with ayurvedic tamasic friendly ingredients, all wrapped in a ti leaf vessel.",
   "cuisine": "Greek",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -80,7 +79,6 @@
   "tags": [
     "brunch",
     "dinner-party",
-    "gluten-free",
     "greek-food",
     "lunch",
     "vegetarian"
@@ -108,5 +106,9 @@
     "mainIngredient": "feta",
     "descriptor": "Intricately layered",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

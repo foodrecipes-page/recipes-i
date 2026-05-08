@@ -3,7 +3,6 @@
   "description": "A comforting Malaysian dish featuring peas in a nutty, aerated pastry crust, FODMAP-friendly and perfect for a special occasion.",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -90,5 +89,9 @@
     "mainIngredient": "peas",
     "descriptor": "innovative nutty",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

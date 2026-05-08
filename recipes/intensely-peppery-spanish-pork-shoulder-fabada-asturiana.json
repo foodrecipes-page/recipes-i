@@ -60,7 +60,9 @@
     "Skim any excess fat from the surface of the broth, then bring it to a simmer.",
     "Reduce the broth until it has thickened into a rich and syrupy glaze, about 10 minutes.",
     "Slice the pork shoulder into thin strips and divide it among individual ramekins.",
-    "Spoon the glaze over the top of each ramekin, then serve immediately."
+    "Spoon the glaze over the top of each ramekin, then serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 180,
@@ -98,5 +100,10 @@
     "mainIngredient": "pork shoulder",
     "descriptor": "intensely peppery",
     "dishForm": "Fabada Asturiana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

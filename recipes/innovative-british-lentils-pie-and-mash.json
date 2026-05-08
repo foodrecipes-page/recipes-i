@@ -3,7 +3,6 @@
   "description": "A kid-friendly British dish featuring fermented lentils, crunchy texture, and a dairy-free friendly recipe, served in a lacquerware bowl. This pie and mash is made with red wine vinegar and nigiri-shaped lentil mixture.",
   "cuisine": "British",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -72,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "british-cuisine",
-    "dairy-free",
     "fermented-food",
     "kid-friendly",
     "pie-and-mash",
@@ -101,5 +99,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Innovative Crunchy",
     "dishForm": "Pie And Mash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

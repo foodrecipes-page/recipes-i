@@ -3,7 +3,6 @@
   "description": "A light and chewy Italian dish featuring shrimp stock and served in scallop shells, with a focus on floral flavors. This egg-free friendly recipe is perfect for a special occasion.",
   "cuisine": "Italian",
   "diet": [
-    "gluten-free",
     "shellfish"
   ],
   "meal": "dinner",
@@ -96,5 +95,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "intensely floral",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

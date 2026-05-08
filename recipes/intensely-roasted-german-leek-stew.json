@@ -62,7 +62,8 @@
     "Add the minced garlic to the donabe and cook for 1 minute, until fragrant.",
     "Add the sliced carrots and cubed potatoes to the donabe, cooking for 5 minutes, or until they start to soften.",
     "Add the roasted leeks, chicken broth, and browned sausage to the donabe, stirring to combine.",
-    "Bring the stew to a simmer and cook, covered, for 20 minutes, or until the vegetables are tender."
+    "Bring the stew to a simmer and cook, covered, for 20 minutes, or until the vegetables are tender.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -99,5 +100,9 @@
     "mainIngredient": "leek",
     "descriptor": "Intensely roasted",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

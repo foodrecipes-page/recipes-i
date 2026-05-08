@@ -3,7 +3,6 @@
   "description": "A smoky, fluffy stew that feels like home, blending panang paste with gentle sautéed veggies for a nostalgic Uruguayan twist.",
   "cuisine": "Uruguayan",
   "diet": [
-    "vegan",
     "ayurvedic",
     "sattvic"
   ],
@@ -85,8 +84,7 @@
     "smoky",
     "spicy",
     "tofu-stew",
-    "uruguayan",
-    "vegan"
+    "uruguayan"
   ],
   "nutrition": {
     "calories": 735,
@@ -111,5 +109,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Intense Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

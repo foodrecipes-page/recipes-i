@@ -78,7 +78,8 @@
     "Add the cooked noodles to the pot and toss to coat with the sauce.",
     "Cook for an additional 2 minutes, until the noodles are well coated.",
     "Garnish with chopped fresh parsley before serving.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -114,5 +115,9 @@
     "mainIngredient": "rice noodles",
     "descriptor": "Indulgent",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

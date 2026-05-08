@@ -3,7 +3,6 @@
   "description": "A floral, crisp mousse that blends fresh blueberries with tempered chocolate for a refreshing post-workout treat. Its airy texture and vitamin‑rich berries make it a nourishing dessert.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -68,8 +67,7 @@
     "chocolate",
     "dessert",
     "gluten-free",
-    "post-workout",
-    "vegan"
+    "post-workout"
   ],
   "nutrition": {
     "calories": 1433,
@@ -94,5 +92,9 @@
     "mainIngredient": "blueberries",
     "descriptor": "Indulgent Crisp",
     "dishForm": "Mousse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

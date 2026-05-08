@@ -3,8 +3,7 @@
   "description": "A herbal and nostalgic Malaysian dish featuring bamboo shoot in a silky curry sauce, made with dashi extract and plant-based friendly ingredients.",
   "cuisine": "Malaysian",
   "diet": [
-    "plant-based",
-    "vegetarian"
+    "plant-based"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "bamboo shoot",
     "descriptor": "intense silky",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

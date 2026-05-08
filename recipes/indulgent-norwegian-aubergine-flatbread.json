@@ -3,7 +3,6 @@
   "description": "A yeasty, light flatbread with roasted aubergine, dill, and pine nuts, perfect for a macrobiotic-friendly meal.",
   "cuisine": "Norwegian",
   "diet": [
-    "vegan",
     "macrobiotic-friendly"
   ],
   "meal": "lunch",
@@ -82,7 +81,6 @@
     "light",
     "macrobiotic-friendly",
     "norwegian",
-    "vegan",
     "yeasty"
   ],
   "nutrition": {
@@ -108,5 +106,9 @@
     "mainIngredient": "aubergine",
     "descriptor": "Indulgent",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

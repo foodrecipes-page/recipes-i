@@ -2,9 +2,7 @@
   "title": "Indulgent Shattering Filipino Pea-Eggplant Fritters",
   "description": "Indulgent Filipino dish made with pea-eggplant, featuring a shattering exterior and a rich umami flavor, all achieved without onions or garlic.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -56,7 +54,8 @@
     "Using a spoon, drop small amounts of the pea-eggplant mixture into the hot oil.",
     "Fry the fritters until they're golden brown and crispy, about 3-4 minutes on each side.",
     "Drain the fritters on paper towels and serve hot with bok choy on the side, if desired.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 8,
@@ -95,5 +94,10 @@
     "mainIngredient": "pea-eggplant",
     "descriptor": "Indulgent Shattering",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

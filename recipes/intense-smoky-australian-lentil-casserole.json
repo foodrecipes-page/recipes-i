@@ -3,8 +3,7 @@
   "description": "A winey, molten, weeknight Australian dish featuring bacon lardon and infused oil, jain-friendly and perfect for a cozy dinner",
   "cuisine": "Australian",
   "diet": [
-    "jain",
-    "vegetarian"
+    "jain"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -102,5 +101,9 @@
     "mainIngredient": "lentils",
     "descriptor": "intense smoky",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

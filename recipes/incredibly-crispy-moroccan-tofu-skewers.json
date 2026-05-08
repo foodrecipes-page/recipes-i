@@ -3,8 +3,7 @@
   "description": "A sweet and crispy Moroccan dish featuring marinated tofu, perfect for a festive occasion, with anti-inflammatory friendly ingredients.",
   "cuisine": "Moroccan",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -93,5 +92,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Incredibly crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

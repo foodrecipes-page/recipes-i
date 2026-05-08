@@ -2,9 +2,7 @@
   "title": "Intense Malaysian Fish Grill",
   "description": "A spicy, velvety grilled fish dish infused with a bold Malaysian spice paste and a creamy coconut sauce, dairy‑free and packed with adventure.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -75,7 +73,6 @@
   "difficulty": "medium",
   "tags": [
     "bold-flavors",
-    "dairy-free",
     "grill",
     "malaysian",
     "spicy",
@@ -104,5 +101,10 @@
     "mainIngredient": "Fish",
     "descriptor": "Intense",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-dairy-free"
+  ]
 }

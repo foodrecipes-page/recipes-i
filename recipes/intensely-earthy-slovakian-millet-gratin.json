@@ -4,7 +4,6 @@
   "cuisine": "slovakian",
   "diet": [
     "keto",
-    "gluten-free",
     "paleo"
   ],
   "meal": "dinner",
@@ -97,7 +96,6 @@
   "tags": [
     "cheesy",
     "comfort-food",
-    "gluten-free",
     "keto",
     "one-pan",
     "paleo",
@@ -126,5 +124,9 @@
     "mainIngredient": "millet",
     "descriptor": "Intensely earthy",
     "dishForm": "gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

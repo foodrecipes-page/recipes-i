@@ -83,11 +83,15 @@
     "mood": "weeknight",
     "technique": "grill",
     "primaryIngredient": "san-marzano-tomato",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": "brittany",
     "cuisineAdjective": "French",
     "mainIngredient": "tomato",
     "descriptor": "Indulgent",
     "dishForm": "Quiche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

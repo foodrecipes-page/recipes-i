@@ -59,7 +59,8 @@
     "Stir the yeast mixture into the cauliflower rice mixture and cook for an additional 2 minutes.",
     "Transfer the mixture to a baking dish and top with the shredded mozzarella cheese.",
     "Dot the top of the cheese with the remaining 2 tablespoons of butter.",
-    "Bake in the preheated oven for 15 minutes, or until the cheese is melted and bubbly."
+    "Bake in the preheated oven for 15 minutes, or until the cheese is melted and bubbly.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -97,5 +98,9 @@
     "mainIngredient": "cheese",
     "descriptor": "intensely citrusy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -67,7 +67,8 @@
     "Bring the mixture to a simmer and cook, covered, until the olives are tender and the liquid has thickened slightly, about 20 minutes.",
     "Stir in the lemon juice and honey.",
     "Season the tagine with salt and black pepper to taste.",
-    "Serve the tagine hot, garnished with additional parsley and lemon wedges if desired."
+    "Serve the tagine hot, garnished with additional parsley and lemon wedges if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -106,5 +107,9 @@
     "mainIngredient": "Olives",
     "descriptor": "Indulgent",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

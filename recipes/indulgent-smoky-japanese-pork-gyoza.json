@@ -68,7 +68,8 @@
     "Heat a non-stick skillet over medium heat and add 1 tsp of sesame oil; place gyoza in a single layer, skin side down.",
     "Sauté until the bottom is golden brown, about 3 minutes, then pour 1/4 cup of water into the pan.",
     "Cover the skillet and let the gyoza steam for 5 minutes; remove the lid when the water has evaporated.",
-    "Finish by drizzling a smoky glaze made of 2 tbsp low-sodium soy sauce, 1 tsp sesame oil, 1/4 tsp smoked paprika, and a dash of garlic powder over the cooked gyoza; serve hot."
+    "Finish by drizzling a smoky glaze made of 2 tbsp low-sodium soy sauce, 1 tsp sesame oil, 1/4 tsp smoked paprika, and a dash of garlic powder over the cooked gyoza; serve hot.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -106,5 +107,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Indulgent Smoky",
     "dishForm": "Gyoza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

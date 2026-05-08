@@ -62,7 +62,8 @@
     "Fold the dough over the filling, forming a half-moon shape, and press the edges together to seal the dumpling.",
     "Repeat with the remaining dough and filling.",
     "Bring a large pot of salted water to a boil, then gently add the dumplings to the pot.",
-    "Cook the dumplings for 10 minutes, or until they float to the surface."
+    "Cook the dumplings for 10 minutes, or until they float to the surface.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -100,5 +101,9 @@
     "mainIngredient": "beef",
     "descriptor": "Intricately wrapped",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

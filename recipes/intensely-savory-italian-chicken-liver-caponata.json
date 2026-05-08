@@ -54,7 +54,8 @@
     "Stir in the capers, tomato paste, and red wine vinegar.",
     "Transfer the mixture to a baking dish and bake for 20 minutes.",
     "While the caponata is baking, toast the double-rise-bread cubes.",
-    "To serve, place the toasted bread cubes on a plate and spoon the caponata over the top."
+    "To serve, place the toasted bread cubes on a plate and spoon the caponata over the top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -91,5 +92,9 @@
     "mainIngredient": "chicken liver",
     "descriptor": "intensely savory",
     "dishForm": "Caponata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A show-off Uruguayan dish featuring tender beef, crunchy rice paper sheets, and a flavorful nimono-simmer, all served on a cedar plank.",
   "cuisine": "Uruguayan",
   "diet": [
-    "gluten-free",
     "anti-inflammatory"
   ],
   "meal": "dinner",
@@ -64,7 +63,6 @@
   "tags": [
     "anti-inflammatory",
     "beef-recipes",
-    "gluten-free",
     "grilled",
     "high-protein",
     "latin-american"
@@ -92,5 +90,9 @@
     "mainIngredient": "beef",
     "descriptor": "intense peppery",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

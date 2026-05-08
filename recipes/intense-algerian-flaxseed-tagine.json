@@ -98,11 +98,15 @@
     "mood": "solo-dinner",
     "technique": "dashi-extract",
     "primaryIngredient": "flaxseed",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Algerian",
     "mainIngredient": "flaxseed",
     "descriptor": "Intense",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -72,8 +72,7 @@
     "family-dinner",
     "gluten-free",
     "jamaican-cuisine",
-    "sweet-potato",
-    "vegan"
+    "sweet-potato"
   ],
   "nutrition": {
     "calories": 340,
@@ -98,5 +97,9 @@
     "mainIngredient": "sweet potatoes",
     "descriptor": "Indulgent",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

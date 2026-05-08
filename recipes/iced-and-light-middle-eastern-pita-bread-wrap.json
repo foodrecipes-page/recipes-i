@@ -4,7 +4,6 @@
   "cuisine": "Middle Eastern",
   "diet": [
     null,
-    "gluten-free",
     "fodmap-friendly"
   ],
   "meal": "breakfast",
@@ -79,7 +78,6 @@
   "difficulty": "easy",
   "tags": [
     "fodmap-friendly",
-    "gluten-free",
     "low-protein",
     "one-pan",
     "weeknight"
@@ -107,5 +105,9 @@
     "mainIngredient": "Pita Bread",
     "descriptor": "Iced and Light",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

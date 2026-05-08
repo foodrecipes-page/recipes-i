@@ -2,10 +2,7 @@
   "title": "Indulgent Uruguayan Soy Cake",
   "description": "A dense, sweet cake made with soy milk and dates, perfect for a date night and compliant with Jain dietary rules.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -115,5 +112,10 @@
     "mainIngredient": "soy",
     "descriptor": "Indulgent",
     "dishForm": "Cake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

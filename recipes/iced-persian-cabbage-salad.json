@@ -2,9 +2,7 @@
   "title": "Iced Persian Cabbage Salad",
   "description": "A resinous, fluffy salad featuring shredded red cabbage, fresh dill, and a tangy tahini-lemon dressing topped with crisp air-fried walnuts.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -78,8 +76,7 @@
     "cabbage",
     "middle-eastern",
     "raw-salad",
-    "refreshing",
-    "vegan"
+    "refreshing"
   ],
   "nutrition": {
     "calories": 182,
@@ -104,5 +101,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "Iced",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

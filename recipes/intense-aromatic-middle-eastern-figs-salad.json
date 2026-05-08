@@ -3,8 +3,7 @@
   "description": "A fragrant one-pot salad blending sweet figs, crunchy pita croutons, and zesty Middle Eastern spices for a pungent, aerated flavor profile.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -115,5 +114,9 @@
     "mainIngredient": "figs",
     "descriptor": "Intense Aromatic",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

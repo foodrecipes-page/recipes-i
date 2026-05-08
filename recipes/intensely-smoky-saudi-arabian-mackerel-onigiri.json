@@ -53,7 +53,8 @@
     "Combine the cooled Japanese short grain rice, smoked mackerel, pickled ginger, and scallions in a large bowl and mix well.",
     "Add the sesame oil mixture to the rice mixture and mix until everything is well combined.",
     "Using wet hands, shape the rice mixture into small triangular shapes and wrap each one with a piece of nori seaweed.",
-    "Serve the onigiri immediately and enjoy."
+    "Serve the onigiri immediately and enjoy.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
@@ -91,5 +92,9 @@
     "mainIngredient": "mackerel",
     "descriptor": "intensely smoky",
     "dishForm": "Onigiri"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

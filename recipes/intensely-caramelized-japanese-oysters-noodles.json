@@ -2,9 +2,7 @@
   "title": "Intensely Caramelized Japanese Oysters Noodles",
   "description": "A funky and shattering Japanese dish from Shikoku featuring caramelized oysters, perfect for a hangover cure, and vegetarian friendly by substituting traditional ingredients with vegetarian alternatives.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "oysters",
     "descriptor": "Intensely caramelized",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

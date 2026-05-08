@@ -59,7 +59,8 @@
     "Sprinkle the crumble mixture over the patties and place them in the oven for 5 minutes.",
     "While the patties are cooking, create a crumb coating by mixing butter with all-purpose flour until you have a crumbly dough.",
     "Roll out the dough thinly. Place each patty on top of the crumb layer and spread evenly over the crust. Return to the oven for another 5-10 minutes or until golden brown.",
-    "Let it cool down slightly before serving."
+    "Let it cool down slightly before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -96,5 +97,9 @@
     "mainIngredient": "Herb",
     "descriptor": "Flaky Indulgent",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

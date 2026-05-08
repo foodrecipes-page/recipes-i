@@ -3,8 +3,7 @@
   "description": "A spicy and crumbly Kenyan dish featuring almond flour, perfect for festive occasions, and friendly to sugar-free diets.",
   "cuisine": "Kenyan",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -61,7 +60,6 @@
   "difficulty": "medium",
   "tags": [
     "festive-food",
-    "gluten-free",
     "kenyan-cuisine",
     "spicy-food",
     "sugar-free",
@@ -90,5 +88,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Intensely spicy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

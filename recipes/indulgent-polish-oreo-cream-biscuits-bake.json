@@ -3,7 +3,6 @@
   "description": "A rich and decadent Polish-inspired dessert featuring Oreo cream biscuits in a velvety mother sauce base, accessible for dairy-free diets.",
   "cuisine": "Polish",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -57,7 +56,6 @@
   "difficulty": "medium",
   "tags": [
     "chocolate",
-    "dairy-free",
     "dessert",
     "high-protein",
     "polish",
@@ -86,5 +84,9 @@
     "mainIngredient": "Oreo cream biscuits",
     "descriptor": "Indulgent",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

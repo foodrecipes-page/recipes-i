@@ -101,11 +101,15 @@
     "mood": "indulgent",
     "technique": "smoke",
     "primaryIngredient": "baby plum tomatoes",
-    "diet": "kosher",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Venezuelan",
     "mainIngredient": "tomatoes",
     "descriptor": "Indulgent Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

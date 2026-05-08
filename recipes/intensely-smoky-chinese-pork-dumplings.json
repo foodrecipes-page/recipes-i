@@ -62,7 +62,8 @@
     "While the dumplings are cooking, mix the sodium alginate with 1 cup of water to create a spherification bath.",
     "Once the dumplings are cooked, remove them from the water with a slotted spoon and add them to the spherification bath for 30 seconds.",
     "Remove the dumplings from the bath and serve immediately on a lazy susan spinner vessel.",
-    "Garnish with sliced scallions and serve with your favorite dipping sauce."
+    "Garnish with sliced scallions and serve with your favorite dipping sauce.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -101,5 +102,9 @@
     "mainIngredient": "pork",
     "descriptor": "intensely smoky",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

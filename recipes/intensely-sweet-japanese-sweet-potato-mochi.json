@@ -3,8 +3,7 @@
   "description": "A traditional Japanese dish featuring sweet potato mochi, this recipe is kid-friendly and paleo-friendly, with a jammy and crumbly texture.",
   "cuisine": "Japanese",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -56,7 +55,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "grilled-dessert",
     "japanese-dish",
     "kid-friendly",
@@ -86,5 +84,9 @@
     "mainIngredient": "sweet potato",
     "descriptor": "intensely sweet",
     "dishForm": "Mochi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Intense Korean Mushroom Stew",
   "description": "A cultured, velvety Korean stew with bold flavors from gochujang and soy sauce, finished with a gentle flambé of sesame oil.",
   "cuisine": "Korean",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -81,8 +79,7 @@
     "mushroom",
     "one-pot",
     "slow-cook",
-    "stew",
-    "vegan"
+    "stew"
   ],
   "nutrition": {
     "calories": 300,
@@ -107,5 +104,9 @@
     "mainIngredient": "mushroom",
     "descriptor": "Intense",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

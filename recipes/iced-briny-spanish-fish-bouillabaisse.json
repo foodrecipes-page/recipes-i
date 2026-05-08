@@ -4,7 +4,6 @@
   "cuisine": "Spanish",
   "diet": [
     "low-sodium",
-    "vegetarian",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -104,5 +103,9 @@
     "mainIngredient": "fish",
     "descriptor": "Iced Briny",
     "dishForm": "Bouillabaisse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A traditional German dish featuring fatty and springy minced pork dumplings, dairy-free friendly and perfect for special occasions. This recipe showcases the richness of German cuisine with a delicate balance of flavors and textures.",
   "cuisine": "German",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -99,5 +98,9 @@
     "mainIngredient": "pork",
     "descriptor": "intensely springy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

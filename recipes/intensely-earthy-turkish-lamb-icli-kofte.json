@@ -3,7 +3,6 @@
   "description": "A traditional Turkish dish featuring lamb, cranberry juice, and lardons, with a rich earthy flavor, served in a molten, nostalgic icli kofte form, this dish is raw-friendly and perfect for special occasions.",
   "cuisine": "Turkish",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -72,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "dairy-free",
-    "gluten-free",
     "lamb-recipes",
     "middle-eastern",
     "special-occasion",
@@ -101,5 +99,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Intensely Earthy",
     "dishForm": "Icli Kofte"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

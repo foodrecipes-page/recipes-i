@@ -2,9 +2,7 @@
   "title": "Indulgent Slovakian Shallots Fried",
   "description": "A crispy and salty Slovakian dish featuring shallots, perfect for a gluten-free friendly meal. Blanch the shallots in boiling water to bring out their natural sweetness before frying to a golden crisp.",
   "cuisine": "Slovakian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -67,7 +65,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "snack",
@@ -96,5 +93,9 @@
     "mainIngredient": "shallots",
     "descriptor": "indulgent",
     "dishForm": "Fried"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

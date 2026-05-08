@@ -76,7 +76,9 @@
     "Return pork to pot, add bay leaves, low-sodium broth, and salt; bring to a gentle boil.",
     "Reduce heat to low, cover, and braise for 90 minutes, turning once, until pork is tender.",
     "Taste and adjust seasoning with pepper; remove bay leaves.",
-    "Sprinkle chopped dill over the casserole and serve hot."
+    "Sprinkle chopped dill over the casserole and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 120,
@@ -115,5 +117,10 @@
     "mainIngredient": "pork",
     "descriptor": "Intense",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

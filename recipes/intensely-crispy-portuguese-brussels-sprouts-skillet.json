@@ -61,7 +61,8 @@
     "Remove the skillet from the grill and stir in the lemon juice.",
     "Taste and adjust the seasoning as needed.",
     "Garnish with chopped fresh parsley, if desired.",
-    "Serve the Brussels sprouts hot, straight from the skillet."
+    "Serve the Brussels sprouts hot, straight from the skillet.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -100,5 +101,9 @@
     "mainIngredient": "brussels sprouts",
     "descriptor": "Intensely Crispy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

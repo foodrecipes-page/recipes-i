@@ -61,7 +61,8 @@
     "Prepare the sushi rice according to the package instructions and allow it to cool.",
     "Cut the nori sheets into smaller pieces and shape the cooled sushi rice into nigiri shapes.",
     "Place a slice of the steak onto each nigiri shape and top with a small amount of wasabi paste and pickled ginger if desired.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -99,5 +100,9 @@
     "mainIngredient": "sirloin steak",
     "descriptor": "Indulgent tender",
     "dishForm": "Sushi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

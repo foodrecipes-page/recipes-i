@@ -3,8 +3,7 @@
   "description": "A molten, post-workout Peruvian dish featuring a frankfurter and spherified ingredients. This recipe serves 4-6 people and is kosher-friendly.",
   "cuisine": "Peruvian",
   "diet": [
-    "kosher",
-    "vegetarian"
+    "kosher"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -88,7 +87,8 @@
     "Add the sliced potatoes to the baking dish with the chicken and roast for an additional 10 minutes.",
     "Remove the chicken and potatoes from the oven and let rest for 5 minutes.",
     "Slice the chicken and serve with the potatoes and spherified lime juice.",
-    "Garnish with chopped parsley, if desired."
+    "Garnish with chopped parsley, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -125,5 +125,10 @@
     "mainIngredient": "chicken",
     "descriptor": "intensely bitter",
     "dishForm": "Pollo a La Brasa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

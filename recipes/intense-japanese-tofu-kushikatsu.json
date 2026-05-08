@@ -4,7 +4,6 @@
   "cuisine": "Japanese",
   "diet": [
     "vegan",
-    "gluten-free",
     "shojin-friendly"
   ],
   "meal": "dinner",
@@ -71,7 +70,6 @@
   "servings": 2,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "kushikatsu",
     "quick",
     "shojin-friendly",
@@ -101,5 +99,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Intense",
     "dishForm": "Kushikatsu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

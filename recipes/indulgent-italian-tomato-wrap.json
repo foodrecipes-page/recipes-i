@@ -61,7 +61,8 @@
     "Stir in the shredded chicken and allow the mixture to heat through, about 2 minutes.",
     "Fold the tomato and mushroom mixture with shredded mozzarella into each lotus leaf, making a wrap.",
     "Place the wrapped lotus leaves on a steaming rack and let them steam for 3 minutes to soften the leaves.",
-    "Serve each wrap immediately, garnished with fresh basil if desired."
+    "Serve each wrap immediately, garnished with fresh basil if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "difficulty": "medium",
   "prepTimeMin": 15,
@@ -95,5 +96,9 @@
     "mainIngredient": "tomato",
     "descriptor": "Indulgent",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

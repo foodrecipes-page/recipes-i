@@ -62,7 +62,8 @@
     "Pour the chicken broth mixture over the herring mixture and stir until the bread is well coated.",
     "Divide the mixture among 6 individual mini cocottes.",
     "Cover the cocottes with lids and bake for 25 minutes.",
-    "Remove the lids and continue baking for an additional 10 minutes."
+    "Remove the lids and continue baking for an additional 10 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -99,5 +100,9 @@
     "mainIngredient": "herring",
     "descriptor": "intensely rich",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

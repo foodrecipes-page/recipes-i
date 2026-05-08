@@ -3,7 +3,6 @@
   "description": "a rich and creamy norwegian-inspired penne rigate pasta with seafood flavor, perfect for a romantic date night. this dish is free from animal products.",
   "cuisine": "norwegian",
   "diet": [
-    "vegetarian",
     "jain"
   ],
   "meal": "dinner",
@@ -116,5 +115,9 @@
     "mainIngredient": "penne rigate",
     "descriptor": "Indulgent Seafood-Style",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

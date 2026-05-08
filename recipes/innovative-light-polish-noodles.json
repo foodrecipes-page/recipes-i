@@ -3,7 +3,6 @@
   "description": "A fermented, juicy, and light Polish dish featuring vermicelli rice noodles, cooked in a papillote and served in a molcajete, with anti-inflammatory friendly ingredients.",
   "cuisine": "Polish",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -73,7 +72,6 @@
   "difficulty": "medium",
   "tags": [
     "fermented",
-    "gluten-free",
     "healthy",
     "one-pot",
     "vegetarian",
@@ -102,5 +100,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Innovative Light",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

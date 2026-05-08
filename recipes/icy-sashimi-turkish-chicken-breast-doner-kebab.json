@@ -84,7 +84,8 @@
     "Garnish with additional parsley and cilantro if desired. ",
     "Transfer the chicken to a serving plate and serve immediately. ",
     "Garnish with a sprinkle of feta cheese if desired. ",
-    "Serve with a side of ice cubes to keep the chicken breast chilled. "
+    "Serve with a side of ice cubes to keep the chicken breast chilled. ",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -123,5 +124,9 @@
     "mainIngredient": "Chicken Breast",
     "descriptor": "Icy Sashimi",
     "dishForm": "Doner Kebab"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

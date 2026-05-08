@@ -32,7 +32,8 @@
     "Serve immediately, garnished with chopped fresh herbs if desired.",
     "This soup can be refrigerated for up to 3 days or frozen for up to 2 months.",
     "Reheat gently and serve hot.",
-    "Serve with crusty bread or crackers for dipping, if desired."
+    "Serve with crusty bread or crackers for dipping, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -68,5 +69,9 @@
     "mainIngredient": "Dijon Mustard",
     "descriptor": "Indulgent",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

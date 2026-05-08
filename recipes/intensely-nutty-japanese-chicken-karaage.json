@@ -2,9 +2,7 @@
   "title": "Intensely Nutty Japanese Chicken Karaage",
   "description": "A nutty, tender, and cozy Japanese dish featuring clear honey and double-fry technique, made in a kazan cauldron with Mediterranean-friendly ingredients.",
   "cuisine": "Japanese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -58,7 +56,8 @@
     "Heat about 2-3 inches of sesame oil in a kazan cauldron to 350 degrees Fahrenheit.",
     "Double-fry the chicken by frying at 350 degrees Fahrenheit for 5 minutes, then increasing the heat to 375 degrees Fahrenheit and frying for an additional 5-7 minutes or until golden brown.",
     "Drain the fried chicken on paper towels and serve hot.",
-    "Garnish with additional sesame seeds and chopped peanuts if desired."
+    "Garnish with additional sesame seeds and chopped peanuts if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -67,7 +66,6 @@
   "difficulty": "medium",
   "tags": [
     "double-fry-technique",
-    "gluten-free",
     "japanese-cuisine",
     "kazan-cauldron",
     "mediterranean-friendly",
@@ -96,5 +94,10 @@
     "mainIngredient": "chicken",
     "descriptor": "intensely nutty",
     "dishForm": "Karaage"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A resinous and juicy Southern Thai dish featuring Polish kabanos, long-fermentation-dough, and raw-friendly ingredients, formed into khanom-thai.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
     "meat-based"
   ],
   "meal": "dinner",
@@ -101,5 +100,9 @@
     "mainIngredient": "Polish Kabanos",
     "descriptor": "Intense Resinous",
     "dishForm": "Khanom Thai"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

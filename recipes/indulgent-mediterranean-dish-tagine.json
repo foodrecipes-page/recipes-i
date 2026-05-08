@@ -3,7 +3,6 @@
   "description": "A hearty and aromatic stew originating from North Africa, characterized by the use of steam and exotic spices.",
   "cuisine": "Mediterranean",
   "diet": [
-    "vegetarian",
     "halal",
     "vegan-friendly"
   ],
@@ -90,7 +89,8 @@
     "Add the chickpeas, preserved lemon, and 2 cups of water. Stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through and the sauce has thickened.",
     "Stir in some chopped fresh parsley before serving.",
-    "Serve hot over couscous or rice."
+    "Serve hot over couscous or rice.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -101,8 +101,7 @@
     "comfort-food",
     "mediterranean",
     "one-pan",
-    "stew",
-    "vegetarian"
+    "stew"
   ],
   "nutrition": {
     "calories": 420,
@@ -127,5 +126,10 @@
     "mainIngredient": "dish",
     "descriptor": "Indulgent",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-preserving_no_acid"
+  ]
 }

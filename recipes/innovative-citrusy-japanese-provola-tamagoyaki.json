@@ -2,9 +2,7 @@
   "title": "Innovative Citrusy Japanese Provola Tamagoyaki",
   "description": "A kid-friendly Japanese dish featuring provola, citrus, and a bouncy texture, perfect for a snack or light meal. This vegan-friendly version uses plant-based ingredients to replicate the traditional tamagoyaki.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -64,8 +62,7 @@
     "japanese",
     "kid-friendly",
     "plant-based",
-    "steam-cooked",
-    "vegan"
+    "steam-cooked"
   ],
   "nutrition": {
     "calories": 250,
@@ -90,5 +87,9 @@
     "mainIngredient": "provola",
     "descriptor": "Innovative Citrusy",
     "dishForm": "Tamagoyaki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

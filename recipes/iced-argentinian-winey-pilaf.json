@@ -2,9 +2,7 @@
   "title": "Iced Argentinian Winey Pilaf",
   "description": "A hearty, comforting pilaf perfect for a sick day. This recipe simmers the pilaf in red wine for a rich, complex flavor.",
   "cuisine": "argentinian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -69,11 +67,12 @@
     "Stir in the iced water and serve hot, garnished with fresh parsley.",
     "Let the pilaf cool to room temperature, then refrigerate for at least 2 hours or overnight.",
     "Reheat the pilaf over low heat, adding a splash of iced water if necessary to achieve the desired consistency.",
-    "Serve the pilaf hot, garnished with additional parsley if desired."
+    "Serve the pilaf hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
-  "totalTimeMin": 60,
+  "totalTimeMin": 40,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -105,5 +104,11 @@
     "mainIngredient": "Winey",
     "descriptor": "Iced",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp",
+    "recomputed-totalTime"
+  ]
 }

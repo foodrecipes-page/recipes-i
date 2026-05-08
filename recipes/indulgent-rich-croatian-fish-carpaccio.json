@@ -62,7 +62,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -90,11 +90,16 @@
     "mood": "indulgent",
     "technique": "sashimi-cut",
     "primaryIngredient": "dried fruit",
-    "diet": "nut-free",
+    "diet": "pescatarian",
     "region": null,
     "cuisineAdjective": "Croatian",
     "mainIngredient": "fish",
     "descriptor": "Indulgent rich",
     "dishForm": "Carpaccio"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet",
+    "recomputed-totalTime"
+  ]
 }

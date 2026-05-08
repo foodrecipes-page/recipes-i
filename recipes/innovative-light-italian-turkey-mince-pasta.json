@@ -3,8 +3,7 @@
   "description": "A light and comforting Italian dish featuring turkey mince, sous-vide cooked to perfection, and served with a paleo-friendly pasta, this meal is a briny and satisfying option for a weeknight dinner.",
   "cuisine": "Italian",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -56,7 +55,8 @@
     "Add the zucchini noodles to the skillet and cook, stirring occasionally, until they are slightly tender, about 3 minutes.",
     "When the meatballs are done, remove them from the sous-vide bag and add them to the skillet with the tomatoes and noodles.",
     "Stir in the fresh basil and cook for an additional 1 minute.",
-    "Serve the meatballs and noodles hot, garnished with additional basil if desired."
+    "Serve the meatballs and noodles hot, garnished with additional basil if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
@@ -64,7 +64,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "italian-food",
     "light-meal",
     "paleo-diet",
@@ -94,5 +93,10 @@
     "mainIngredient": "turkey mince",
     "descriptor": "innovative light",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

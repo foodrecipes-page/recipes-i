@@ -23,7 +23,8 @@
     "Season the mixture with salt and pepper to taste.",
     "To assemble the wraps, lay a corn husk flat on a work surface. Spoon 1/2 cup of the pork and vegetable mixture onto the center of the corn husk, leaving a 1-inch border on either side.",
     "Fold the sides of the corn husk over the filling, then fold the top down to create a compact bundle.",
-    "Repeat with the remaining ingredients to make 4-6 wraps, depending on serving size."
+    "Repeat with the remaining ingredients to make 4-6 wraps, depending on serving size.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -60,5 +61,9 @@
     "mainIngredient": "Polish dish",
     "descriptor": "Indulgent Spicy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

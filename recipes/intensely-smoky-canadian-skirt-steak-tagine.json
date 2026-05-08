@@ -69,7 +69,8 @@
     "Cover the tagine and transfer to the preheated oven, cooking for 2 hours.",
     "While the tagine is cooking, mix the sodium alginate with water in a small bowl.",
     "Using a syringe or spoon, drop small amounts of the alginate mixture into a bath of cold water to create spheres, then set aside.",
-    "After the tagine has finished cooking, remove from the oven and stir in the spherified alginate pearls."
+    "After the tagine has finished cooking, remove from the oven and stir in the spherified alginate pearls.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -107,5 +108,9 @@
     "mainIngredient": "skirt steak",
     "descriptor": "intensely smoky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Intense Indian Tamarind Curry",
   "description": "A malty, chewy vegan Bengali curry with tamarind balls and miso-marinated tofu, perfect for a solo dinner.",
   "cuisine": "Indian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -80,8 +78,7 @@
     "chewy",
     "intense",
     "malty",
-    "solo",
-    "vegan"
+    "solo"
   ],
   "nutrition": {
     "calories": 900,
@@ -106,5 +103,9 @@
     "mainIngredient": "Tamarind",
     "descriptor": "Intense",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

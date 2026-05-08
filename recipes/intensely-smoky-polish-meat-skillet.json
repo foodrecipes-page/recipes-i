@@ -58,7 +58,8 @@
     "Fold the meat mixture over the breadcrumb mixture to combine.",
     "Make two wells in the meat mixture and crack an egg into each well.",
     "Transfer the skillet to the preheated oven and bake for 20 minutes, or until the eggs are cooked to your desired doneness.",
-    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+    "Remove the skillet from the oven and let it cool for a few minutes before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -96,5 +97,9 @@
     "mainIngredient": "meat",
     "descriptor": "Intensely smoky",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

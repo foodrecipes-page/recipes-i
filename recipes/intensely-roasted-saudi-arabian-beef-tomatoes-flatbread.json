@@ -2,9 +2,7 @@
   "title": "Intensely Roasted Saudi Arabian Beef Tomatoes Flatbread",
   "description": "A dense and flavorful Saudi Arabian dish featuring roasted beef tomatoes on a laminated puff flatbread, perfect for a hangover cure, and pescatarian friendly by substituting beef with portobello mushrooms or eggplant for a similar texture.",
   "cuisine": "Saudi Arabian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -89,5 +87,9 @@
     "mainIngredient": "beef tomatoes",
     "descriptor": "Intensely roasted",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

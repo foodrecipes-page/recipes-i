@@ -3,7 +3,6 @@
   "description": "A rich and savory Japanese ramen dish featuring a deep umami flavor profile, served in an agave leaf vessel. This recipe combines traditional Japanese ingredients with modern cooking techniques to create a truly show-stopping meal.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -70,7 +69,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer, stirring occasionally, for 4 hours.",
     "Cook the ramen noodles according to the package instructions and set aside.",
     "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
-    "Add the cooked noodles, green onion, and sesame oil to the pot and cook, stirring occasionally, for 2 minutes."
+    "Add the cooked noodles, green onion, and sesame oil to the pot and cook, stirring occasionally, for 2 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 240,
@@ -108,5 +108,10 @@
     "mainIngredient": "pork",
     "descriptor": "Intensely Umami",
     "dishForm": "Tonkotsu Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

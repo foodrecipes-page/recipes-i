@@ -54,7 +54,8 @@
     "Cover dish tightly with aluminum foil to trap steam.",
     "Bake for 25 minutes, then remove foil and bake for another 15 minutes until turnips are tender and edges are slightly browned.",
     "Let casserole rest for 5 minutes before serving to set the flavors.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 40,
@@ -91,5 +92,9 @@
     "mainIngredient": "turnips",
     "descriptor": "Intense Citrus",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

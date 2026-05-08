@@ -79,7 +79,6 @@
     "comforting",
     "kid-friendly",
     "sweet",
-    "vegan",
     "whole30-friendly"
   ],
   "nutrition": {
@@ -105,5 +104,9 @@
     "mainIngredient": "rice noodles",
     "descriptor": "Indulgent",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

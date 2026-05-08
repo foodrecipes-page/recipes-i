@@ -3,8 +3,7 @@
   "description": "delicious venezuelan empanadas filled with succulent shrimp, crispy crust, and savory flavors.",
   "cuisine": "venezuelanlatin",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -90,7 +89,6 @@
   "difficulty": "medium",
   "tags": [
     "crunchy",
-    "gluten-free",
     "indulgent",
     "keto",
     "latin",
@@ -121,5 +119,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Indulgent Crunchy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

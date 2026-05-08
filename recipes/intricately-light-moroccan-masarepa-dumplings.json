@@ -54,7 +54,8 @@
     "Bring a large pot of salted water to a boil and gently add the dumplings.",
     "Cook the dumplings for 10 minutes, or until they float to the surface.",
     "Remove the dumplings from the water with a slotted spoon and drain off any excess water.",
-    "Serve the dumplings hot, garnished with chopped fresh parsley and a squeeze of lemon juice."
+    "Serve the dumplings hot, garnished with chopped fresh parsley and a squeeze of lemon juice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -92,5 +93,9 @@
     "mainIngredient": "masarepa",
     "descriptor": "Intricately light",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

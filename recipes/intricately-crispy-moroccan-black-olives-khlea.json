@@ -3,8 +3,7 @@
   "description": "Rich and crispy Moroccan dish featuring black olives, perfect for a cozy snack. This low-fat-friendly khlea is made with dashi-extract and served in a bamboo tray.",
   "cuisine": "Moroccan",
   "diet": [
-    "low-fat",
-    "vegetarian"
+    "low-fat"
   ],
   "meal": "snack",
   "ingredients": [
@@ -68,8 +67,7 @@
     "khlea",
     "low-fat",
     "moroccan",
-    "snack",
-    "vegetarian"
+    "snack"
   ],
   "nutrition": {
     "calories": 120,
@@ -94,5 +92,9 @@
     "mainIngredient": "black olives",
     "descriptor": "Intricately crispy",
     "dishForm": "Khlea"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

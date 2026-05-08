@@ -59,7 +59,8 @@
     "When the pasta is done cooking, immediately submerge it in an ice bath to stop the cooking process.",
     "In a small bowl, whisk together the chicken broth and sour cream.",
     "Add the broth and sour cream mixture to the skillet with the mushrooms and stir to combine.",
-    "Add the cooked pasta to the skillet and toss to coat with the mushroom and cream sauce."
+    "Add the cooked pasta to the skillet and toss to coat with the mushroom and cream sauce.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -96,5 +97,9 @@
     "mainIngredient": "pasta",
     "descriptor": "intense chewy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

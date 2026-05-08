@@ -66,7 +66,8 @@
     "Add the chopped pickle, cooked black beans, and roasted potato mixture to the skillet with the chicken sausage, and stir to combine.",
     "Make a well in the center of the potato mixture and pour in the beaten egg, scrambling it into the potatoes as it cooks.",
     "Continue cooking the potato mixture for an additional 2-3 minutes, stirring constantly, until the egg is fully cooked and the mixture is heated through.",
-    "Serve the intense earthy Brazilian russet potato hash hot, garnished with chopped fresh herbs if desired."
+    "Serve the intense earthy Brazilian russet potato hash hot, garnished with chopped fresh herbs if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -104,5 +105,9 @@
     "mainIngredient": "russet potato",
     "descriptor": "intense earthy",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

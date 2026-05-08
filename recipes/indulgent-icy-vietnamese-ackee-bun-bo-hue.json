@@ -2,9 +2,7 @@
   "title": "Indulgent Icy Vietnamese Ackee Bun Bo Hue",
   "description": "A creamy, malty, and dense Vietnamese one-pot dish featuring ackee, perfect for a cold winter day. This egg-free-friendly version of the classic Bun Bo Hue is sure to become a favorite.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -60,7 +58,8 @@
     "Serve the Bun Bo Hue hot, garnished with additional cilantro if desired.",
     "Let each guest assemble their own bowl by adding noodles, ackee mixture, and desired garnishes.",
     "Serve immediately and enjoy!",
-    "For an added touch, serve the Bun Bo Hue in a large, steaming hot pot, surrounded by an assortment of garnishes, such as lime wedges, chopped cilantro, and sliced chili peppers."
+    "For an added touch, serve the Bun Bo Hue in a large, steaming hot pot, surrounded by an assortment of garnishes, such as lime wedges, chopped cilantro, and sliced chili peppers.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -70,7 +69,6 @@
   "tags": [
     "cold-weather",
     "egg-free",
-    "gluten-free",
     "one-pot",
     "weeknight"
   ],
@@ -97,5 +95,10 @@
     "mainIngredient": "Ackee",
     "descriptor": "Indulgent Icy",
     "dishForm": "Bun Bo Hue"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

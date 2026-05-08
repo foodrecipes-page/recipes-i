@@ -4,8 +4,7 @@
   "cuisine": "portuguese",
   "diet": [
     "whole30",
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -63,7 +62,8 @@
     "Pour in chicken broth and red wine vinegar.",
     "Sprinkle smoked paprika, salt, and black pepper.",
     "Transfer to a tagine pot and bake for 25 minutes.",
-    "Garnish with fresh parsley and serve hot."
+    "Garnish with fresh parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -72,7 +72,6 @@
   "difficulty": "medium",
   "tags": [
     "crowd-pleaser",
-    "gluten-free",
     "one-pan",
     "paleo",
     "portuguese",
@@ -101,5 +100,10 @@
     "mainIngredient": "fernbrake-gosari",
     "descriptor": "iintensely crunchy",
     "dishForm": "tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

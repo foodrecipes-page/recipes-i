@@ -2,9 +2,7 @@
   "title": "Argentinian Sausage Skewers",
   "description": "A festive and savory dish featuring sausages in a rich mother sauce, perfect for any occasion. This kosher-friendly recipe is sure to delight.",
   "cuisine": "Argentinian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,5 +95,9 @@
     "mainIngredient": "sausages",
     "descriptor": "intense savory",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

@@ -50,7 +50,8 @@
     "Using a spoon, drop small balls of the dough into the hot oil.",
     "Fry the fritters for 3-4 minutes on each side, until golden brown.",
     "Remove the fritters from the oil and place on paper towels to drain excess oil.",
-    "Serve the fritters hot and enjoy."
+    "Serve the fritters hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -88,5 +89,9 @@
     "mainIngredient": "chicken",
     "descriptor": "intensely rich",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

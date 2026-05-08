@@ -64,7 +64,8 @@
     "Pour crushed tomatoes over the stuffed peppers and cover with foil.",
     "Bake for 30 minutes, then remove foil and bake for an additional 10 minutes.",
     "Garnish with chopped cilantro and serve hot.",
-    "Let it rest for 10 minutes before serving."
+    "Let it rest for 10 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -102,5 +103,9 @@
     "mainIngredient": "turmeric chicken",
     "descriptor": "Intensely Crisp",
     "dishForm": "Rocoto Relleno"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A malty, flaky, and energizing Indian dessert featuring scotch bonnet and double-rise-bread, made in a talavera plate.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "scotch bonnet",
     "descriptor": "Intense Malty",
     "dishForm": "Kheer"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

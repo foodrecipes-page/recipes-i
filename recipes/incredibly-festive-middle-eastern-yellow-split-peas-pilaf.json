@@ -3,7 +3,6 @@
   "description": "A flavorful and nutritious Middle Eastern dish featuring yellow split peas, bonito flakes, and a hint of mustard, perfect for a festive meal. This pilaf is raw-friendly and bursting with bouncy texture.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -73,8 +72,7 @@
     "festive",
     "gluten-free",
     "middle-eastern",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 420,
@@ -99,5 +97,9 @@
     "mainIngredient": "yellow split peas",
     "descriptor": "Incredibly festive",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

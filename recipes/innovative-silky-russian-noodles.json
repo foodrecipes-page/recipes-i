@@ -3,7 +3,6 @@
   "description": "A fresh and adventurous Russian dish featuring brown rice noodles and pickles, perfect for those who prefer no onion or garlic in their meals. This dish is a unique twist on traditional Russian cuisine.",
   "cuisine": "Russian",
   "diet": [
-    "vegetarian",
     "no onion no garlic"
   ],
   "meal": "dinner",
@@ -93,5 +92,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Innovative Silky",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

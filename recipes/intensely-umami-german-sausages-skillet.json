@@ -2,9 +2,7 @@
   "title": "Intensely Umami German Sausages Skillet",
   "description": "A hearty German dish featuring tender sausages, dried chillies, and a rich umami flavor, perfect for a hangover cure or a satisfying meal. This kosher-friendly recipe uses air-frying for a crispy exterior and a juicy interior.",
   "cuisine": "German",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -105,5 +103,9 @@
     "mainIngredient": "sausages",
     "descriptor": "Intensely Umami",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

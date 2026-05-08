@@ -2,9 +2,7 @@
   "title": "Intensely Spicy Indian Lentil Paratha",
   "description": "A spicy and flaky Hyderabadi dish featuring red lentils and a hint of cream, perfect for the monsoon season, this recipe is vegan-friendly and cooked using a bain-marie method to achieve the flakiest parathas.",
   "cuisine": "Indian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -77,8 +75,7 @@
     "lentil",
     "monsoon",
     "paratha",
-    "spicy",
-    "vegan"
+    "spicy"
   ],
   "nutrition": {
     "calories": 320,
@@ -103,5 +100,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Intensely Spicy",
     "dishForm": "Paratha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

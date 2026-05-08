@@ -50,7 +50,8 @@
     "Pour in chicken stock cube. Bring to boil then reduce heat.",
     "Simmer for 20 minutes with pepper flakes added last 5 minutes.",
     "Divide stew into bowls and serve hot.",
-    "For extra crunch, chill stews slightly before serving."
+    "For extra crunch, chill stews slightly before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -87,5 +88,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Garlicky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

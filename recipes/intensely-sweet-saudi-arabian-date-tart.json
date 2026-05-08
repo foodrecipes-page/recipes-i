@@ -3,8 +3,7 @@
   "description": "A sweet and bouncy dessert featuring creme patissiere and dates, perfect for a special night, this dish is ayurvedic sattvic friendly and made with mantecare emulsify method.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -92,5 +91,9 @@
     "mainIngredient": "dates",
     "descriptor": "Intensely sweet",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

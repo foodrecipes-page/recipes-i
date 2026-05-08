@@ -3,8 +3,7 @@
   "description": "Buttery and shaggy Mediterranean fritters filled with Christmas pudding, deep-fried to perfection in an iron teppan, Whole30-friendly and perfect for the holiday season",
   "cuisine": "Mediterranean",
   "diet": [
-    "Whole30",
-    "gluten-free"
+    "Whole30"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -62,7 +61,6 @@
   "tags": [
     "christmas",
     "deep-fried",
-    "gluten-free",
     "holiday",
     "mediterranean",
     "whole30"
@@ -90,5 +88,9 @@
     "mainIngredient": "Christmas Pudding",
     "descriptor": "Innovative Buttery",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

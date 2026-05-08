@@ -52,7 +52,8 @@
     "Mix the eggs with the noodles and add the chopped scallions and pickle slices.",
     "Season with salt to taste and serve immediately.",
     "Garnish with additional scallions and pickle slices if desired.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -89,5 +90,9 @@
     "mainIngredient": "noodles",
     "descriptor": "intensely mustardy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

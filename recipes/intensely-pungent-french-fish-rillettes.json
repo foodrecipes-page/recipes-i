@@ -55,7 +55,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 8,
   "difficulty": "medium",
   "tags": [
@@ -89,5 +89,9 @@
     "mainIngredient": "fish",
     "descriptor": "intensely pungent",
     "dishForm": "Rillettes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

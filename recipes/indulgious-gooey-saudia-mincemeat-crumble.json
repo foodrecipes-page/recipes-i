@@ -41,13 +41,14 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 180\u00b0C (350\u00b0F).",
+    "Preheat oven to 180°C (350°F).",
     "In a large bowl, mix ground beef with brown sugar and pumpkin puree. Add cinnamon and mix until well combined.",
     "Transfer half of the mixture into a small baking dish and press it down evenly. Bake for 20 minutes.",
     "Mix dark chocolate chips with all-purpose flour and coconut oil until no lumps remain. Spread this crumb topping on top of the baked mixture.",
     "In another bowl, mix almond meal with remaining 50g of brown sugar. Sprinkle this mixture over the crumble.",
     "Bake for an additional 20 minutes or until golden brown. Allow to cool before serving.",
-    "Optional garnish: serve with a dollop of coconut yogurt."
+    "Optional garnish: serve with a dollop of coconut yogurt.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -84,5 +85,9 @@
     "mainIngredient": "mincemeat",
     "descriptor": "Indulgent Gooey",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

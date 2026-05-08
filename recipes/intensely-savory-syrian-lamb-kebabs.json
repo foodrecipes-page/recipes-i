@@ -83,11 +83,15 @@
     "mood": "monsoon",
     "technique": "braise",
     "primaryIngredient": "jerk",
-    "diet": "nut-free",
+    "diet": "halal",
     "region": null,
     "cuisineAdjective": "Syrian",
     "mainIngredient": "lamb",
     "descriptor": "intensely savory",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A quick, spicy tofu dish with tangy pickles and a bouncy texture, perfect for a weeknight dinner.",
   "cuisine": "Japanese",
   "diet": [
-    "vegetarian",
     "flexitarian"
   ],
   "meal": "dinner",
@@ -77,7 +76,8 @@
     "In a small saucepan, combine dashi stock, soy sauce, mirin, sugar, and red pepper flakes; bring to a simmer.",
     "Add crushed pickled cucumber to the broth and simmer for 2 minutes.",
     "Pour the hot broth over the fried tofu cubes, then sprinkle bonito flakes, grated daikon, scallions, and extra red pepper flakes.",
-    "Serve immediately over a bed of rice or enjoy alone as a quick weeknight dish."
+    "Serve immediately over a bed of rice or enjoy alone as a quick weeknight dish.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -115,5 +115,10 @@
     "mainIngredient": "tofu",
     "descriptor": "Intense",
     "dishForm": "Agedashi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-preserving_no_acid"
+  ]
 }

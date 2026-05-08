@@ -64,7 +64,8 @@
     "Remove the pot from the heat and stir in the heavy cream.",
     "Season the bisque with salt and black pepper to taste.",
     "Strain the bisque through a fine mesh sieve into a large bowl.",
-    "Chill the bisque in the refrigerator until it is cold and glassy."
+    "Chill the bisque in the refrigerator until it is cold and glassy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -102,5 +103,9 @@
     "mainIngredient": "clams",
     "descriptor": "icy intense",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

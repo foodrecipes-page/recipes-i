@@ -3,7 +3,6 @@
   "description": "A smoky and molten Norwegian dish featuring oatmeal, perfect for a date night, with a unique flavor from kombu cold extract, and onion and garlic free, served on a wooden board.",
   "cuisine": "Norwegian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -90,5 +89,9 @@
     "mainIngredient": "oatmeal",
     "descriptor": "intensely smoky",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

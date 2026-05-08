@@ -4,8 +4,7 @@
   "cuisine": "australian",
   "diet": [
     "halal",
-    "fish",
-    "gluten-free"
+    "fish"
   ],
   "meal": "snack",
   "ingredients": [
@@ -90,5 +89,9 @@
     "mainIngredient": "trout",
     "descriptor": "Intensely Savory",
     "dishForm": "Kneaded Pastry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

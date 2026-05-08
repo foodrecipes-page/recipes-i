@@ -3,7 +3,6 @@
   "description": "A smoky, shaggy flatbread with peppercorn crumble, baked till puffed, FODMAP-friendly and gluten-free.",
   "cuisine": "American",
   "diet": [
-    "gluten-free",
     "fodmap-friendly"
   ],
   "meal": "lunch",
@@ -64,7 +63,6 @@
   "tags": [
     "american",
     "fodmap-friendly",
-    "gluten-free",
     "quick",
     "snack"
   ],
@@ -91,5 +89,9 @@
     "mainIngredient": "peppercorn",
     "descriptor": "Intense Smoky",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -67,8 +67,7 @@
   "tags": [
     "cozy",
     "easytogether",
-    "quickmeal",
-    "vegan"
+    "quickmeal"
   ],
   "nutrition": {
     "calories": 285,
@@ -93,5 +92,9 @@
     "mainIngredient": "Dates",
     "descriptor": "Flaky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

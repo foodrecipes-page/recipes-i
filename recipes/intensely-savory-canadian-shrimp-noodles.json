@@ -3,8 +3,7 @@
   "description": "A cozy Canadian dish featuring briny shrimp, bouncy noodles, and savory flavors, with shiso leaf and bhuna spice adding depth, this raw-friendly recipe is perfect for a cold winter night. It is cooked to a safe temperature in a wok.",
   "cuisine": "Canadian",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "intensely savory",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

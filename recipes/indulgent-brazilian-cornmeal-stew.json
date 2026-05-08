@@ -75,7 +75,8 @@
     "Pour in the coconut milk and chicken stock, stirring to combine, and bring to a gentle simmer.",
     "Stir in the white cornmeal gradually to avoid lumps, then add the pork belly cubes and simmer uncovered for 20 minutes, stirring occasionally.",
     "Season with salt and black pepper to taste.",
-    "Remove from heat, stir in the fresh cilantro and crumble the feta cheese on top before serving."
+    "Remove from heat, stir in the fresh cilantro and crumble the feta cheese on top before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "difficulty": "medium",
   "prepTimeMin": 15,
@@ -109,5 +110,9 @@
     "mainIngredient": "cornmeal",
     "descriptor": "Indulgent",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

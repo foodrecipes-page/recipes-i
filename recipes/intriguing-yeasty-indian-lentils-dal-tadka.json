@@ -3,8 +3,7 @@
   "description": "A yeasty and silky Indian lentil dish featuring dark soy sauce, toast, and a blend of spices, perfect for adventurous eaters. This nut-free-friendly dal tadka is a unique twist on traditional Tamil cuisine.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -96,11 +95,16 @@
     "mood": "adventurous",
     "technique": "toast",
     "primaryIngredient": "dark soy sauce",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": "tamil",
     "cuisineAdjective": "Indian",
     "mainIngredient": "lentils",
     "descriptor": "Intriguing Yeasty",
     "dishForm": "Dal Tadka"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "aligned-axes-diet"
+  ]
 }

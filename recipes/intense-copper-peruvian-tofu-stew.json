@@ -3,7 +3,6 @@
   "description": "A bitter yet tender stew that showcases Peruvian flavors, featuring sous-vide tofu, vegan butter, and a copper-pot finish.",
   "cuisine": "Peruvian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -94,8 +93,7 @@
     "crowd-pleaser",
     "peruvian",
     "sous-vide",
-    "stew",
-    "vegan"
+    "stew"
   ],
   "nutrition": {
     "calories": 267,
@@ -120,5 +118,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Intense Copper",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

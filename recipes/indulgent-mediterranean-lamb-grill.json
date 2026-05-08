@@ -3,8 +3,7 @@
   "description": "Tender lamb, slow-cooked in a mixture of olive oil, herbs, and spices, then brushed with a sweet and tangy barbecue sauce, all served atop a bed of fluffy couscous.",
   "cuisine": "Mediterranean",
   "diet": [
-    "low-sodium",
-    "gluten-free"
+    "low-sodium"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "grilled",
     "lamb",
     "low-sodium",
@@ -94,5 +92,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Indulgent",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

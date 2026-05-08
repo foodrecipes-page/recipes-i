@@ -58,7 +58,8 @@
     "Stir in the nuka-pickle concentrate and season with salt to taste.",
     "Remove from heat, let stand covered for 5 minutes, then fluff with a fork.",
     "Serve hot, garnished with chopped parsley.",
-    "Enjoy your indulgent brunch pilaf!"
+    "Enjoy your indulgent brunch pilaf!",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -97,5 +98,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Indulgent",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

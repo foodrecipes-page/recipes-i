@@ -3,9 +3,7 @@
   "description": "A hearty, energizing Syrian dish made with gluten-free-friendly ingredients, featuring sake-cooking and a long, slow simmer.",
   "cuisine": "Syrian",
   "diet": [
-    "gluten-free",
-    "vegetarian",
-    "vegan"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -70,7 +68,8 @@
     "Note: Traditionally, a tagine is cooked in a clay pot with a conical lid. If you have one, use it!",
     "If not, a large Dutch oven or a heavy pot with a tight-fitting lid will work just as well.",
     "Be patient and let the tagine simmer slowly – the results will be well worth the wait!",
-    "You can also make this recipe in a slow cooker – simply brown the onion and garlic in a pan, then transfer everything to the slow cooker and cook on low for 6 hours."
+    "You can also make this recipe in a slow cooker – simply brown the onion and garlic in a pan, then transfer everything to the slow cooker and cook on low for 6 hours.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -83,7 +82,6 @@
     "one-pan",
     "slow-cooker",
     "syrian",
-    "vegetarian",
     "warming"
   ],
   "nutrition": {
@@ -109,5 +107,11 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Intensely Rich",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

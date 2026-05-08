@@ -3,7 +3,6 @@
   "description": "A malty, crumbly, lazy-sunday Japanese (Okinawan) dish featuring turkey, sautéed with anti-inflammatory-friendly ingredients.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "low-carb",
     "anti-inflammatory"
   ],
@@ -107,5 +106,9 @@
     "mainIngredient": "turkey",
     "descriptor": "Indulgent",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

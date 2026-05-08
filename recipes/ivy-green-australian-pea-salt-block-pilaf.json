@@ -45,7 +45,8 @@
     "Place the Chicken Breast and Peas onto the Salt Block, cover with foil if necessary.",
     "Cook for 10 minutes covered, then remove the foil for the last few minutes of cooking to create a flavorful crust.",
     "Once done, carefully transfer the mixture from the Salt Block to a plate or serving dish.",
-    "Garnish with chopped Mixed Greens and serve hot."
+    "Garnish with chopped Mixed Greens and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -81,5 +82,9 @@
     "mainIngredient": "Peas",
     "descriptor": "Ivy-Green",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

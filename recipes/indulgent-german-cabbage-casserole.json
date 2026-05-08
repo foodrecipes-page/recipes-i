@@ -2,9 +2,7 @@
   "title": "Indulgent German Cabbage Casserole",
   "description": "This jammy, crisp German-inspired casserole blends creamy coconut milk with apple jam for a show-off vegetarian dish.",
   "cuisine": "German",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -104,5 +102,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "Indulgent",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

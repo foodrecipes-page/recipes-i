@@ -55,7 +55,8 @@
     "After 30 minutes, remove the chicken from the cauldron and set it aside to rest.",
     "Continue to simmer the sauce for another 10 minutes, stirring occasionally, until it has thickened slightly.",
     "Return the chicken to the cauldron and stir to coat with the sauce.",
-    "Serve the chicken wings hot, garnished with fresh herbs if desired."
+    "Serve the chicken wings hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -93,5 +94,9 @@
     "mainIngredient": "chicken wings",
     "descriptor": "Intensely citrusy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

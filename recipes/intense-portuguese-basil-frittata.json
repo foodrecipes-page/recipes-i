@@ -56,7 +56,6 @@
   "tags": [
     "breakfast",
     "brunch",
-    "dairy-free",
     "one-pan",
     "portuguese",
     "spicy",
@@ -85,5 +84,9 @@
     "mainIngredient": "Basil",
     "descriptor": "Intense",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

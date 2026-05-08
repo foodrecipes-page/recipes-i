@@ -2,9 +2,7 @@
   "title": "Intense Dense Irish Potato Gratin",
   "description": "A rich and creamy Irish dish featuring clotted cream and miso-marinated potatoes, perfect for a midnight craving. This vegan-friendly version is served on a traditional talavera plate.",
   "cuisine": "irish",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -65,8 +63,7 @@
     "comfort-food",
     "irish",
     "midnight-craving",
-    "talavera-plate",
-    "vegan"
+    "talavera-plate"
   ],
   "nutrition": {
     "calories": 420,
@@ -91,5 +88,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Intense Dense",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

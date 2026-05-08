@@ -3,8 +3,7 @@
   "description": "A traditional Ukrainian dish featuring piccalilli and dumplings, made with intensely garlicky flavors and a velvety texture, this recipe is also FODMAP-friendly. This nostalgic dish is perfect for those looking for a taste of Eastern European cuisine.",
   "cuisine": "Ukrainian",
   "diet": [
-    "FODMAP-friendly",
-    "gluten-free"
+    "FODMAP-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -89,5 +88,9 @@
     "mainIngredient": "piccalilli",
     "descriptor": "intensely garlicky",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

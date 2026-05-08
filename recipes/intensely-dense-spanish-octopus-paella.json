@@ -64,7 +64,8 @@
     "add the caramel sauce and stir to combine",
     "add the cooked octopus and stir to combine",
     "season with salt and black pepper to taste",
-    "garnish with fresh parsley and serve immediately"
+    "garnish with fresh parsley and serve immediately",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -102,5 +103,9 @@
     "mainIngredient": "octopus",
     "descriptor": "intensely dense",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

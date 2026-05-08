@@ -3,8 +3,7 @@
   "description": "A gluten-free umami and crisp festive Malaysian dish featuring epoisses in a lacquerware-bowl vessel.",
   "cuisine": "Malaysian",
   "diet": [
-    null,
-    "gluten-free"
+    null
   ],
   "meal": "dinner",
   "ingredients": [
@@ -58,7 +57,6 @@
   "tags": [
     "episses",
     "festive",
-    "gluten-free",
     "lacquerware-bowl",
     "malaysian",
     "umami"
@@ -86,5 +84,9 @@
     "mainIngredient": "epoisses",
     "descriptor": "iCrispy iFestive",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

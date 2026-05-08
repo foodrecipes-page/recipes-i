@@ -3,8 +3,7 @@
   "description": "A creamy and sour Slovakian dessert featuring ground almonds in a flaky crust, perfect for special occasions",
   "cuisine": "Slovakian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -96,5 +95,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Innovative creamy",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

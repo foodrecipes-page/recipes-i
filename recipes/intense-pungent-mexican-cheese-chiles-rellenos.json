@@ -57,7 +57,8 @@
     "Dip each stuffed pepper in the beaten egg and then coat with flour.",
     "Heat the vegetable oil in a large skillet over medium heat and fry the coated peppers until golden brown.",
     "Serve the chiles rellenos hot, garnished with fresh cilantro or scallions.",
-    "Let the dish rest for 10 minutes before serving to allow the flavors to meld together."
+    "Let the dish rest for 10 minutes before serving to allow the flavors to meld together.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -95,5 +96,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Intense Pungent",
     "dishForm": "Chiles Rellenos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

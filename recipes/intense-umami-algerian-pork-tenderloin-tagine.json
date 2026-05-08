@@ -63,7 +63,9 @@
     "Add the chicken broth to the cazuela and bring to a boil.",
     "Return the pork tenderloin to the cazuela and cover it with a lid or foil.",
     "Transfer the cazuela to the preheated oven and bake for 20 minutes.",
-    "Remove the cazuela from the oven and let it rest for 5 minutes before serving."
+    "Remove the cazuela from the oven and let it rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -100,5 +102,10 @@
     "mainIngredient": "pork tenderloin",
     "descriptor": "intense umami",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

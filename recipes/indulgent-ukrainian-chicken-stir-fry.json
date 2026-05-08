@@ -48,7 +48,8 @@
     "Transfer the seared chicken to a plate lined with paper towels to drain excess oil.",
     "Add the remaining 2 tablespoons of oil to the tava and re-fry the chicken at high heat until crisp, about 2 minutes.",
     "Pour the remaining sauce into the tava, bring to a gentle simmer, then return the chicken and stir until the sauce thickens, about 3 minutes.",
-    "Sprinkle chopped parsley over the dish and serve immediately hot."
+    "Sprinkle chopped parsley over the dish and serve immediately hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -86,5 +87,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Indulgent",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

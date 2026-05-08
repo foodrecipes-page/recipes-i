@@ -52,7 +52,8 @@
     "Add the gelatine pieces and stir to dissolve.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
     "Stir in the chopped scallions and serve hot.",
-    "Serve the hot pot in the copper pot, allowing each guest to cook their own ingredients in the simmering broth."
+    "Serve the hot pot in the copper pot, allowing each guest to cook their own ingredients in the simmering broth.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -90,5 +91,9 @@
     "mainIngredient": "pork",
     "descriptor": "Innovative Nutty",
     "dishForm": "Hot Pot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

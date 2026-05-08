@@ -57,7 +57,9 @@
     "Add the carrots and potatoes and cook for 5 minutes",
     "Add the chicken broth and bring to a boil",
     "Reduce the heat to low and simmer, covered, for 1 1/2 hours",
-    "Season with salt and pepper to taste"
+    "Season with salt and pepper to taste",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 90,
@@ -95,5 +97,10 @@
     "mainIngredient": "pork",
     "descriptor": "intensely herbal",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

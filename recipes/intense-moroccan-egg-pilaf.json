@@ -66,7 +66,8 @@
     "Pour in 200 ml hot water, bring the pot to a gentle boil, then reduce the heat to low, cover, and simmer for 5 minutes.",
     "Remove the ttukbaegi from the heat, fluff the couscous with a fork, and stir in the eggs, breaking them into the hot grains.",
     "Cover again, let the eggs steam in the residual heat for 4 minutes until set, then fluff the pilaf once more.",
-    "Garnish with chopped parsley and lemon zest, season with additional salt if desired, and serve immediately."
+    "Garnish with chopped parsley and lemon zest, season with additional salt if desired, and serve immediately.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 18,
@@ -104,5 +105,9 @@
     "mainIngredient": "Egg",
     "descriptor": "Intense",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }
