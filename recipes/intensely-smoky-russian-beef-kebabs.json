@@ -1,0 +1,91 @@
+{
+  "title": "Intensely Smoky Russian Beef Kebabs",
+  "description": "A traditional Russian dish featuring smoky beef kebabs with a mustardy flavor, cooked to perfection on a binchotan grill. This low-sodium recipe is perfect for a healthy dinner option.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "high heat cooking oil"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat.",
+    "In a large bowl, whisk together Dijon mustard, garlic powder, onion powder, smoked paprika, black pepper, and salt-free seasoning blend.",
+    "Add the beef strips to the bowl and toss to coat evenly with the mustard mixture.",
+    "Thread the beef strips onto skewers, leaving a small space between each piece.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Place the skewers on the grill and cook for 8-10 minutes, turning occasionally.",
+    "Reduce heat to medium-low and continue cooking for an additional 5 minutes, or until the beef reaches an internal temperature of 145 degrees.",
+    "Remove the skewers from the grill and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "high-protein",
+    "low-sodium",
+    "russian-cuisine",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "intensely-smoky-russian-beef-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-russian-beef-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:15:30Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "high heat cooking oil",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Intensely Smoky",
+    "dishForm": "Kebabs"
+  }
+}

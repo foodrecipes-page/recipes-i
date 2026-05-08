@@ -1,0 +1,96 @@
+{
+  "title": "Invigorating Syrian Lamb Stir Fry",
+  "description": "A herbal and springy Syrian dish featuring lamb, breadcrumbs, and fresh herbs, perfect for a quick and energizing meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the lamb to the skillet and cook until browned, about 5 minutes.",
+    "Add the breadcrumbs to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the chopped parsley, mint, lemon juice, salt, black pepper, and paprika to the skillet and stir to combine.",
+    "Continue cooking for an additional 2 minutes, stirring frequently.",
+    "Serve the lamb stir-fry hot, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "quick-meal",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "invigorating-syrian-lamb-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/invigorating-syrian-lamb-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:15:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "stir-fry",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Invigorating",
+    "dishForm": "Stir-fry"
+  }
+}

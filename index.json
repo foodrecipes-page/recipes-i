@@ -7794,6 +7794,20 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-smoky-russian-beef-kebabs",
+    "title": "Intensely Smoky Russian Beef Kebabs",
+    "tags": [
+      "grilled-meats",
+      "high-protein",
+      "low-sodium",
+      "russian-cuisine",
+      "smoky-flavors"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 38,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-smoky-saudi-arabian-mackerel-onigiri",
     "title": "Intensely Smoky Saudi Arabian Mackerel Onigiri",
     "tags": [
@@ -8641,6 +8655,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 10,
+    "shard": "i"
+  },
+  {
+    "slug": "invigorating-syrian-lamb-stir-fry",
+    "title": "Invigorating Syrian Lamb Stir Fry",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "quick-meal",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
