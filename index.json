@@ -768,6 +768,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-algerian-bread-tagine",
+    "title": "Indulgent Algerian Bread Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "diabetic-friendly",
+      "indulgent-desserts",
+      "middle-eastern",
+      "sweet-dishes"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-algerian-chickpea-tagine",
     "title": "Indulgent Algerian Chickpea Tagine",
     "tags": [
