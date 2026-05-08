@@ -1,0 +1,112 @@
+{
+  "title": "Indulgent Resinous Jamaican Curry Tagine",
+  "description": "A crumbly, crowd-pleasing Jamaican dish featuring massaman curry paste, cooked to perfection in a tandoor and served in a comal.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 lbs lamb shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 medium onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon coconut oil",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons massaman curry paste",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup coconut milk",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons chopped fresh cilantro",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400°F (200°C).",
+    "In a comal, cook the lamb shoulder over medium-high heat for 2 minutes per side, or until browned.",
+    "Transfer the lamb to a plate and set aside.",
+    "In the same comal, cook the onions and garlic over medium heat until softened, about 5 minutes.",
+    "Add the coconut oil, massaman curry paste, cumin, coriander, salt, and black pepper to the comal, and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk to the comal, and bring to a simmer.",
+    "Return the lamb shoulder to the comal, and cook for 10-12 minutes, or until the meat is tender and the sauce has thickened.",
+    "Stir in the chopped cilantro, and serve the curry over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "coconut-milk",
+    "curry",
+    "jamaican",
+    "lamb",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 38
+  },
+  "slug": "indulgent-resinous-jamaican-curry-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-resinous-jamaican-curry-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:39:59Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "tandoor",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "curry",
+    "descriptor": "Indulgent Resinous",
+    "dishForm": "Tagine"
+  }
+}
