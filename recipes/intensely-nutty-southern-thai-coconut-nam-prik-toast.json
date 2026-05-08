@@ -1,0 +1,97 @@
+{
+  "title": "Intensely Nutty Southern Thai Coconut Nam Prik Toast",
+  "description": "A paleo-friendly, nutty, and silky Southern Thai dish featuring nam prik, coconut, and ice cream, served in a paella pan.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "cashew nuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ice cream",
+      "amount": "1 pint",
+      "notes": "coconut milk based"
+    },
+    {
+      "name": "nam prik pao",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Toast the bread slices in the oven for 5 minutes.",
+    "In a blender, combine coconut milk, cashew nuts, nam prik pao, fish sauce, and lime juice, and blend until smooth.",
+    "In a paella pan, combine the blended mixture and toasted bread slices.",
+    "Top the bread slices with a scoop of coconut ice cream.",
+    "Sprinkle sesame seeds and salt over the ice cream.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional toasted cashew nuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "gluten-free",
+    "nam-prik",
+    "one-pan",
+    "paleo-friendly",
+    "southern-thai"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "intensely-nutty-southern-thai-coconut-nam-prik-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-nutty-southern-thai-coconut-nam-prik-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:36:11Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "toast",
+    "primaryIngredient": "ice cream",
+    "diet": "paleo",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern Thai",
+    "mainIngredient": "coconut",
+    "descriptor": "intensely nutty",
+    "dishForm": "Nam Prik"
+  }
+}
