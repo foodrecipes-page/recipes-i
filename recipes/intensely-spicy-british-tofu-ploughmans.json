@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Spicy British Tofu Ploughmans",
+  "description": "A plant-based twist on the classic British ploughman's lunch, featuring spicy tofu and aerated umami flavors, perfect for a weeknight dinner",
+  "cuisine": "British",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "Hot chilli powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sous-vide machine",
+      "amount": "1",
+      "notes": "for cooking tofu"
+    },
+    {
+      "name": "Pickled onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cheddar cheese alternative",
+      "amount": "1/2 cup",
+      "notes": "such as vegan cheddar"
+    },
+    {
+      "name": "Whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180 degrees Fahrenheit",
+    "Season the cubed tofu with hot chilli powder and cook in the sous-vide machine for 2 hours",
+    "Toast the whole wheat bread slices until lightly browned",
+    "Assemble the ploughman's lunch by placing a slice of toasted bread on a plate, topping with a piece of spicy tofu, a spoonful of pickled onions, and a sprinkle of cheddar cheese alternative",
+    "Drizzle the balsamic vinegar and olive oil over the top of each ploughman's lunch",
+    "Serve the ploughman's lunch with a side of mixed greens and a sprinkle of salt and pepper to taste",
+    "Garnish with additional pickled onions and cheddar cheese alternative if desired",
+    "Repeat the assembly process for the remaining ingredients"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "plant-based",
+    "spicy-food",
+    "tofu-recipes",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intensely-spicy-british-tofu-ploughmans",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-spicy-british-tofu-ploughmans",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:13:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "plant-based",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "tofu",
+    "descriptor": "intensely spicy",
+    "dishForm": "Ploughmans"
+  }
+}

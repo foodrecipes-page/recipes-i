@@ -1,0 +1,88 @@
+{
+  "title": "Intensely Tangy Australian Cherry Salad",
+  "description": "A refreshing and tangy lacto-vegetarian salad featuring dried cherries, perfect for a hangover cure or a light lunch",
+  "cuisine": "Australian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried cherries",
+      "amount": "1 cup",
+      "notes": "rehydrated"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "crunchy chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "spherified lemon juice pearls",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crumbly feta cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon-tahini dressing",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rehydrate the dried cherries by soaking them in water for 30 minutes",
+    "Drain and rinse the rehydrated cherries",
+    "In a large bowl, combine the mixed greens, crunchy chickpeas, and rehydrated cherries",
+    "Sprinkle the crumbly feta cheese and toasted almonds over the top of the salad",
+    "Drizzle the lemon-tahini dressing over the salad and toss to combine",
+    "Gently fold in the spherified lemon juice pearls",
+    "Season the salad with salt and pepper to taste",
+    "Cover and refrigerate the salad for at least 30 minutes to allow the flavors to meld"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "crunchy",
+    "hangover-cure",
+    "lacto-vegetarian",
+    "light",
+    "refreshing",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "intensely-tangy-australian-cherry-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-tangy-australian-cherry-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:13:54Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "spherify",
+    "primaryIngredient": "dried cherries",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "cherries",
+    "descriptor": "intensely tangy",
+    "dishForm": "Salad"
+  }
+}
