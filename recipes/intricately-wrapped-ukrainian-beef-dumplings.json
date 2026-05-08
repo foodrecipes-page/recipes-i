@@ -1,0 +1,104 @@
+{
+  "title": "Intricately Wrapped Ukrainian Beef Dumplings",
+  "description": "Earthly and crisp Ukrainian dish featuring baby lettuce leaves, perfect for a date night, with a low glycemic index for a healthier option",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "baby lettuce leaves",
+      "amount": "20 leaves"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground beef, chopped onion, minced garlic, dried thyme, salt, and black pepper, mixing well with your hands until just combined.",
+    "Gradually add the flour to the beef mixture, mixing until a dough forms.",
+    "In a small bowl, whisk together the eggs and water, then add this mixture to the dough, mixing until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 5 minutes, until smooth and elastic.",
+    "Divide the dough into 20 equal pieces, rolling each into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place a baby lettuce leaf in the center of each dough circle, then place a tablespoon of the beef mixture in the center of the lettuce leaf.",
+    "Fold the dough over the filling, forming a half-moon shape, and press the edges together to seal the dumpling.",
+    "Repeat with the remaining dough and filling.",
+    "Bring a large pot of salted water to a boil, then gently add the dumplings to the pot.",
+    "Cook the dumplings for 10 minutes, or until they float to the surface."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-dumplings",
+    "date-night",
+    "homemade-pasta",
+    "lettuce-wraps",
+    "low-glycemic",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intricately-wrapped-ukrainian-beef-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-wrapped-ukrainian-beef-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:58:37Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "fold",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "Intricately wrapped",
+    "dishForm": "Dumplings"
+  }
+}
