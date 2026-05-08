@@ -1,0 +1,105 @@
+{
+  "title": "Intensely Roasted Portuguese Pork Bao",
+  "description": "A slow-cooked, dairy-free Portuguese dish featuring roasted pork and springy buns, served in a bento box. This show-off dish is perfect for special occasions.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "baos",
+      "amount": "8",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, whisk together soy sauce, olive oil, garlic, and ginger.",
+    "Place the pork shoulder in a large Dutch oven and brush the soy sauce mixture all over the pork.",
+    "Cover the Dutch oven with a lid and transfer it to the preheated oven.",
+    "Roast the pork for 6 hours, or until it is tender and easily shreds with a fork.",
+    "While the pork is roasting, prepare the baos according to the package instructions or your homemade recipe.",
+    "Once the pork is done, remove it from the oven and let it rest for 10 minutes before shredding it with two forks.",
+    "Assemble the bao by splitting it in half and filling it with shredded pork, scallions, and sesame seeds.",
+    "Season with salt and black pepper to taste.",
+    "Serve the intensely roasted Portuguese pork bao in a bento box."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 360,
+  "totalTimeMin": 390,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "asian-fusion",
+    "bento-box",
+    "dairy-free",
+    "portuguese-cuisine",
+    "roasted-pork",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intensely-roasted-portuguese-pork-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-roasted-portuguese-pork-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:22:43Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "slow-cook",
+    "primaryIngredient": "buns",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pork",
+    "descriptor": "Intensely Roasted",
+    "dishForm": "Bao"
+  }
+}
