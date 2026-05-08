@@ -1,0 +1,106 @@
+{
+  "title": "Intense Smoky Australian Lentil Casserole",
+  "description": "A winey, molten, weeknight Australian dish featuring bacon lardon and infused oil, jain-friendly and perfect for a cozy dinner",
+  "cuisine": "Australian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "bacon lardon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "infused oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, cook the diced bacon lardon over medium heat until crispy.",
+    "Remove the bacon from the pan and set aside, leaving the grease behind.",
+    "Add the chopped onion, carrots, and celery to the pan and cook until the vegetables are tender.",
+    "Add the red wine, vegetable broth, tomato paste, and smoked paprika to the pan, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "In a large bowl, combine the cooked lentils, bacon, and vegetable mixture, stirring to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and drizzle with infused oil.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the top is lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "jain-friendly",
+    "lentil-casserole",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "intense-smoky-australian-lentil-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-australian-lentil-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:55:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "infuse-oil",
+    "primaryIngredient": "bacon lardon",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lentils",
+    "descriptor": "intense smoky",
+    "dishForm": "Casserole"
+  }
+}
