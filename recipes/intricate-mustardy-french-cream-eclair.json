@@ -1,0 +1,102 @@
+{
+  "title": "Intricate Mustardy French Cream Eclair",
+  "description": "A sugar-free friendly French eclair with a mustardy twist, featuring black cardamom pods and pickle, perfect for a brunch mood, this dish combines the flavors of Lyon with a unique creamy filling.",
+  "cuisine": "French",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "egg yolks",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "black cardamom pods",
+      "amount": "2 pods",
+      "notes": "ground"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole grain"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "whipped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a medium saucepan, combine the milk, melted butter, and ground black cardamom pods, and heat over medium heat until the mixture is hot but not boiling.",
+    "In a small bowl, whisk together the egg yolks and Dijon mustard until well combined.",
+    "Temper the egg yolk mixture by slowly pouring the warm milk mixture into the eggs, whisking constantly.",
+    "Add the pickle relish and whisk until smooth.",
+    "In a separate bowl, sift the almond flour.",
+    "Add the sifted almond flour to the egg yolk mixture and whisk until well combined.",
+    "Transfer the mixture to a piping bag fitted with a large round tip.",
+    "Pipe the mixture into long, thin strips onto a parchment-lined baking sheet.",
+    "Bake for 15 minutes, then reduce the oven temperature to 350 degrees Fahrenheit and bake for an additional 10 minutes.",
+    "Allow the eclairs to cool completely on a wire rack.",
+    "Fill the cooled eclairs with whipped heavy cream and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "cream-filled",
+    "french-pastry",
+    "mustard-based",
+    "sugar-free-treats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "intricate-mustardy-french-cream-eclair",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricate-mustardy-french-cream-eclair",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:35:45Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "pickle",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "sugar-free",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "cream",
+    "descriptor": "Intricate Mustardy",
+    "dishForm": "Eclair"
+  }
+}

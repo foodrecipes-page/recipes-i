@@ -6647,6 +6647,20 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-savory-saudi-arabian-beef-stew",
+    "title": "Intensely Savory Saudi Arabian Beef Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "middle-eastern",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 180,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-savory-syrian-lamb-kebabs",
     "title": "Syrian Lamb Kebabs",
     "tags": [
@@ -7274,6 +7288,20 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 15,
+    "shard": "i"
+  },
+  {
+    "slug": "intricate-mustardy-french-cream-eclair",
+    "title": "Intricate Mustardy French Cream Eclair",
+    "tags": [
+      "brunch-ideas",
+      "cream-filled",
+      "french-pastry",
+      "mustard-based",
+      "sugar-free-treats"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {

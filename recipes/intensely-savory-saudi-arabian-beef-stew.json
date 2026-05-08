@@ -1,0 +1,106 @@
+{
+  "title": "Intensely Savory Saudi Arabian Beef Stew",
+  "description": "A cultured and nostalgic Saudi-Arabian dish featuring beef gravy and dashi extract, cooked in a traditional kazan cauldron. This Mediterranean-friendly stew is perfect for special occasions.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the kazan cauldron over medium heat.",
+    "Add the chopped onions and cook until they are softened and lightly browned.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the beef chunks and cook until they are browned on all sides.",
+    "Add the dashi extract, tomato paste, beef broth, salt, black pepper, and sumac, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours.",
+    "Remove the cauldron from the heat and let the stew cool slightly.",
+    "Serve the stew hot, garnished with chopped fresh parsley.",
+    "Traditionally, the stew is served with a side of steamed rice or flatbread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "middle-eastern",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "intensely-savory-saudi-arabian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-savory-saudi-arabian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:35:25Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "dashi-extract",
+    "primaryIngredient": "beef gravy",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "beef",
+    "descriptor": "Intensely savory",
+    "dishForm": "Stew"
+  }
+}
