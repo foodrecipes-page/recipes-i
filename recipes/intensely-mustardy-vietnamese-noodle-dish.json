@@ -1,0 +1,93 @@
+{
+  "title": "Mustardy Vietnamese Noodle Dish",
+  "description": "A flavorful and aromatic Vietnamese noodle dish featuring a rich mustard sauce, fluffy noodles, and crunchy pickles, made with ovo-vegetarian friendly ingredients and a touch of granulated sugar.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mustard paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a blender or food processor, combine the mustard paste, granulated sugar, and 2 tablespoons of water, and blend until smooth.",
+    "Heat the vegetable oil in a large skillet over medium heat and add the minced garlic, cooking until fragrant.",
+    "Add the blended mustard sauce to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and toss to coat with the mustard sauce.",
+    "Push the noodles to one side of the skillet and crack in the eggs, scrambling them until cooked through.",
+    "Mix the eggs with the noodles and add the chopped scallions and pickle slices.",
+    "Season with salt to taste and serve immediately.",
+    "Garnish with additional scallions and pickle slices if desired.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "mustard-based",
+    "noodle-dish",
+    "ovo-vegetarian",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "intensely-mustardy-vietnamese-noodle-dish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-mustardy-vietnamese-noodle-dish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:58:55Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "pickle",
+    "primaryIngredient": "granulated sugar",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "noodles",
+    "descriptor": "intensely mustardy",
+    "dishForm": "Noodles"
+  }
+}

@@ -6449,6 +6449,20 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-mustardy-vietnamese-noodle-dish",
+    "title": "Mustardy Vietnamese Noodle Dish",
+    "tags": [
+      "asian-inspired",
+      "mustard-based",
+      "noodle-dish",
+      "ovo-vegetarian",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-nutty-french-scallops-gratin",
     "title": "Intensely Nutty French Scallops Gratin",
     "tags": [
