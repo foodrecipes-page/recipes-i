@@ -4319,6 +4319,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-flaky-italian-freekeh-pilaf",
+    "title": "Intense Flaky Italian Freekeh Pilaf",
+    "tags": [
+      "fodmap-friendly",
+      "italian-cuisine",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "intense-french-eggs-quiche",
     "title": "Intense French Eggs Quiche",
     "tags": [
@@ -6882,6 +6896,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-gooey-japanese-rhubarb-shoyu-ramen",
+    "title": "Intensely Gooey Japanese Rhubarb Shoyu Ramen",
+    "tags": [
+      "japanese-ramen",
+      "keto-friendly",
+      "low-carb",
+      "pork-belly",
+      "rhubarb-recipes",
+      "shoyu-sauce"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-gooey-japanese-tofu-gyoza",
     "title": "Intensely Gooey Japanese Tofu Gyoza",
     "tags": [
@@ -7083,6 +7112,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-nutty-american-chicken-biryani",
+    "title": "Intensely Nutty American Chicken Biryani",
+    "tags": [
+      "american",
+      "cedar-plank",
+      "keto-friendly",
+      "kid-friendly",
+      "nutty",
+      "papillote"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {

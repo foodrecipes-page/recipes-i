@@ -1,0 +1,105 @@
+{
+  "title": "Intensely Gooey Japanese Rhubarb Shoyu Ramen",
+  "description": "A rich and savory Japanese ramen dish featuring rhubarb and a gooey shoyu sauce, perfect for a crowd-pleasing dinner. This keto-friendly recipe is sure to satisfy your cravings.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "rhubarb",
+      "amount": "2 stalks",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "shoyu sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "soft-boiled"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the coconut oil over medium heat and cook the pork belly until browned and crispy.",
+    "Add the garlic and ginger to the pot and cook for 1 minute, until fragrant.",
+    "Add the chicken broth to the pot and bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the shoyu sauce to the pot and stir to combine, then simmer for an additional 5 minutes.",
+    "In a separate pan, cook the rhubarb over medium heat until tender and caramelized, stirring occasionally.",
+    "To assemble the ramen, place a portion of the pork belly and rhubarb into a bowl, then ladle the hot broth over the top.",
+    "Garnish with green onions, sesame seeds, and a soft-boiled egg, then serve immediately.",
+    "To emulsify the sauce, whisk in a small amount of xanthan gum or guar gum before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-ramen",
+    "keto-friendly",
+    "low-carb",
+    "pork-belly",
+    "rhubarb-recipes",
+    "shoyu-sauce"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "intensely-gooey-japanese-rhubarb-shoyu-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-gooey-japanese-rhubarb-shoyu-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:34:43Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "emulsify",
+    "primaryIngredient": "rhubarb",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Intensely Gooey",
+    "dishForm": "Shoyu Ramen"
+  }
+}
