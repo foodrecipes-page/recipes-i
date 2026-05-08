@@ -1,0 +1,92 @@
+{
+  "title": "Tunisian Custard Tart",
+  "description": "A traditional Tunisian dessert featuring a yeasty crust and intensely creamy custard filling, served in a tagliere vessel.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for crust"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "whole milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, whisk together the flour, yeast, and sugar.",
+    "In a separate bowl, whisk together the eggs, milk, melted butter, vanilla extract, and salt.",
+    "Slowly pour the wet ingredients into the dry ingredients and whisk until a smooth batter forms.",
+    "Pour the batter into a tagliere vessel and bake for 25 minutes.",
+    "Reduce the oven temperature to 350 degrees Fahrenheit and continue baking for an additional 10 minutes.",
+    "Remove the tart from the oven and let it cool to room temperature.",
+    "Once the tart has cooled, refrigerate it for at least 2 hours to allow the custard to set.",
+    "Slice and serve the tart chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "custard-tarts",
+    "halal-friendly",
+    "tagliere-recipes",
+    "tunisian-desserts",
+    "yeast-baking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "intensely-creamy-tunisian-custard-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-creamy-tunisian-custard-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:32:44Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "whisk",
+    "primaryIngredient": "custard",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "custard",
+    "descriptor": "intensely creamy",
+    "dishForm": "Custard"
+  }
+}
