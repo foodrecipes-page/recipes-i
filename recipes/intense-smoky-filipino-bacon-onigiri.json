@@ -1,0 +1,95 @@
+{
+  "title": "Intense Smoky Filipino Bacon Onigiri",
+  "description": "A solo dinner dish featuring crispy Filipino bacon and Japanese nigiri shaping, this earthy and shattering meal is perfect for a quiet evening, and is halal-friendly by using halal-certified bacon or bacon alternative.",
+  "cuisine": "Filipino",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halal bacon",
+      "amount": "6 slices",
+      "notes": "or halal bacon alternative"
+    },
+    {
+      "name": "Japanese short grain rice",
+      "amount": "1 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "northern filipino patis",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the Japanese short grain rice according to package instructions and let it cool.",
+    "Cut the halal bacon into small pieces and cook in a pan over medium heat until crispy.",
+    "Add smoked paprika, salt, and black pepper to the bacon and stir to combine.",
+    "Add the chopped green onions to the bacon mixture and stir to combine.",
+    "Add the cooked and cooled Japanese short grain rice to the bacon mixture and stir to combine.",
+    "Add the sesame oil and northern filipino patis to the rice mixture and stir to combine.",
+    "Using wet hands, shape the rice mixture into small triangular shapes, similar to nigiri.",
+    "Serve the Intense Smoky Filipino Bacon Onigiri immediately and enjoy.",
+    "Optional: garnish with additional chopped green onions and serve with a side of steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "easy-dinner",
+    "filipino-cuisine",
+    "halal-friendly",
+    "one-pan",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intense-smoky-filipino-bacon-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-filipino-bacon-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:59:01Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "bacon",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "bacon",
+    "descriptor": "Intense Smoky",
+    "dishForm": "Onigiri"
+  }
+}
