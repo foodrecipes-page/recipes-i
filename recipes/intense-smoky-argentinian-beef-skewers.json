@@ -1,0 +1,93 @@
+{
+  "title": "Intense Smoky Argentinian Beef Skewers",
+  "description": "Smoky and chewy beef skewers featuring dijon mustard and a saute, perfect for a cozy dinner, this dish is kosher friendly.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl whisk together dijon mustard, olive oil, garlic, smoked paprika, salt, and black pepper.",
+    "Add the beef to the bowl and toss to coat with the marinade.",
+    "Thread the beef onto skewers leaving a small space between each piece.",
+    "Grill the skewers for 10 minutes per side or until the beef reaches 130 degrees.",
+    "Brush the skewers with lemon juice during the last minute of cooking.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot with your choice of sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "dinner",
+    "grilled",
+    "kosher",
+    "skewers",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "intense-smoky-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:36:23Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "dijon mustard",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "intense smoky",
+    "dishForm": "Skewers"
+  }
+}
