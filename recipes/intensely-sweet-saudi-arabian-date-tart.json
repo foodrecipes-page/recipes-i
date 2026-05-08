@@ -1,0 +1,96 @@
+{
+  "title": "Intensely Sweet Saudi Arabian Date Tart",
+  "description": "A sweet and bouncy dessert featuring creme patissiere and dates, perfect for a special night, this dish is ayurvedic sattvic friendly and made with mantecare emulsify method.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "creme patissiere",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a bowl, whisk together flour, sugar, and cardamom powder.",
+    "Add melted butter and mix until a crumbly mixture forms.",
+    "Press the mixture into a tart pan with a removable bottom.",
+    "Arrange the dates on top of the crust.",
+    "In a separate bowl, whisk together creme patissiere, eggs, and rose water.",
+    "Pour the creme patissiere mixture over the dates.",
+    "Bake the tart for 40 minutes or until the crust is golden brown.",
+    "Allow the tart to cool before serving.",
+    "Dust with powdered sugar before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "creme-patissiere",
+    "date-night",
+    "middle-eastern",
+    "sattvic-friendly",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "intensely-sweet-saudi-arabian-date-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-sweet-saudi-arabian-date-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:14:05Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "dates",
+    "descriptor": "Intensely sweet",
+    "dishForm": "Tart"
+  }
+}
