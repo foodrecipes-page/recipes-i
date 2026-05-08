@@ -1,0 +1,97 @@
+{
+  "title": "Intensely Romantic Canadian Egg Quiche",
+  "description": "A low-calorie, flaky, and romantic Canadian dish featuring egg yolks in a tandoor clay pot, perfect for a special occasion. It is a unique and delicious twist on traditional quiche.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "egg yolks",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "whole wheat pastry flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "ice water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "diced ham",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour and salt.",
+    "Add the cold butter to the bowl and use a pastry blender to work it into the flour until the mixture resembles coarse crumbs.",
+    "Gradually add the ice water to the bowl, stirring with a fork until the dough comes together in a ball.",
+    "Wrap the dough in plastic wrap and refrigerate for 30 minutes.",
+    "On a lightly floured surface, roll out the dough to a thickness of about 1/8 inch.",
+    "Carefully place the dough into a tandoor clay pot, trimming any excess dough from the edges.",
+    "In a separate bowl, whisk together the egg yolks and a pinch of salt.",
+    "Add the diced ham, grated cheese, and chopped parsley to the bowl and stir to combine.",
+    "Pour the egg mixture into the pastry-lined clay pot and smooth the top.",
+    "Bake the quiche for 35-40 minutes, or until the edges are golden brown and the center is set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "canadian",
+    "low-calorie",
+    "quiche",
+    "tandoor-clay-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "intensely-romantic-canadian-egg-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-romantic-canadian-egg-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:37:15Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "en-croute",
+    "primaryIngredient": "egg yolks",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "eggs",
+    "descriptor": "Intensely Romantic",
+    "dishForm": "Quiche"
+  }
+}
