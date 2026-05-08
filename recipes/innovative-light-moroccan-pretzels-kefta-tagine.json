@@ -1,0 +1,98 @@
+{
+  "title": "Innovative Light Moroccan Pretzels Kefta Tagine",
+  "description": "A lacto-vegetarian friendly Moroccan dish featuring pretzels, beurre-monte, and kefta in a dolsot-stone-bowl, this recipe is a unique twist on traditional tagine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pretzels",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kefta spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the kefta spice mix, olive oil, chopped onion, and minced garlic.",
+    "Add the sliced pretzels to the bowl and toss to coat with the kefta mixture.",
+    "Transfer the pretzel mixture to a dolsot-stone-bowl and bake for 10 minutes.",
+    "In a small saucepan, heat the beurre-monte over low heat until melted.",
+    "Add the vegetable broth and yogurt to the saucepan and stir to combine.",
+    "Pour the beurre-monte sauce over the pretzel mixture in the dolsot-stone-bowl.",
+    "Return the dolsot-stone-bowl to the oven and bake for an additional 10 minutes.",
+    "Remove the dolsot-stone-bowl from the oven and sprinkle with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "moroccan-cuisine",
+    "one-pot",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "innovative-light-moroccan-pretzels-kefta-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-light-moroccan-pretzels-kefta-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:51:00Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "beurre-monte",
+    "primaryIngredient": "pretzels",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Pretzels",
+    "descriptor": "Innovative Light",
+    "dishForm": "Kefta Tagine"
+  }
+}
