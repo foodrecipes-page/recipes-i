@@ -1,0 +1,98 @@
+{
+  "title": "Intensely Smoky Chinese Masarepa Bao",
+  "description": "A fresh and comforting Chinese dish featuring white masarepa, with a smoky and spicy flavor, perfect for those looking for an egg-free friendly option.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white masarepa",
+      "amount": "2 cups",
+      "notes": "freshly opened bag"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the white masarepa, smoked paprika, hot sauce, and salt until well combined.",
+    "Gradually add in the sesame oil, stirring with a fork until the mixture forms a crumbly dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a few chopped scallions and grated ginger in the center of each disk.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the bao.",
+    "Place the bao on a baking sheet lined with parchment paper, leaving about 1 inch of space between each bao.",
+    "Bake the bao in a preheated oven at 400 degrees Fahrenheit for 20 minutes, or until golden brown.",
+    "Remove the bao from the oven and let them cool for a few minutes before serving.",
+    "Serve the bao warm with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "comfort-food",
+    "homemade",
+    "smoky",
+    "spicy",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "intensely-smoky-chinese-masarepa-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-chinese-masarepa-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:58:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "smoke-hot",
+    "primaryIngredient": "white masarepa",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "masarepa",
+    "descriptor": "intensely smoky",
+    "dishForm": "Bao"
+  }
+}
