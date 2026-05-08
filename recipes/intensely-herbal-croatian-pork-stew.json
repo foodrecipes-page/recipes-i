@@ -1,0 +1,99 @@
+{
+  "title": "Intensely Herbal Croatian Pork Stew",
+  "description": "A hearty and comforting Croatian dish featuring shichimi-togarashi and fry-grind-rice-khao-khua, high in protein and full of herbal flavors",
+  "cuisine": "Croatian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "shichimi-togarashi",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat",
+    "Add the pork and cook until browned on all sides, about 5 minutes",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes",
+    "Add the shichimi-togarashi and fry-grind-rice-khao-khua and cook for 1 minute",
+    "Add the carrots and potatoes and cook for 5 minutes",
+    "Add the chicken broth and bring to a boil",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours",
+    "Season with salt and pepper to taste"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian",
+    "herbal",
+    "high-protein",
+    "one-pot",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "intensely-herbal-croatian-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-herbal-croatian-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:54:40Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "shichimi-togarashi",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "intensely herbal",
+    "dishForm": "Stew"
+  }
+}
