@@ -1,0 +1,96 @@
+{
+  "title": "Intensely Malty Jamaican Lemon Crumble",
+  "description": "A kid-friendly Jamaican dish featuring lemons and a malty flavor, with a crumbly texture that is ovo-vegetarian-friendly. This dessert is perfect for warm weather and outdoor gatherings.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for crumble topping"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together flour, oats, malted milk powder, and sugar.",
+    "Add lemon zest and juice to the bowl and stir until combined.",
+    "Add melted butter, eggs, and vanilla extract to the bowl and mix until a crumbly mixture forms.",
+    "Transfer the mixture to a 9x9 inch baking dish.",
+    "Bake for 35-40 minutes or until the topping is golden brown.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 9,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "jamaican",
+    "kid-friendly",
+    "lemon",
+    "malty",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "intensely-malty-jamaican-lemon-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-malty-jamaican-lemon-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:23:07Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "emulsify",
+    "primaryIngredient": "lemons",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "lemons",
+    "descriptor": "intensely malty",
+    "dishForm": "Crumble"
+  }
+}
