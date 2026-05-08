@@ -1,0 +1,100 @@
+{
+  "title": "Intensely Smoky American Chicken Casserole",
+  "description": "A savory and creamy American dish featuring parmesan and smoky flavors, perfect for a cozy dinner, and is onion and garlic free.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cream of chicken soup",
+      "amount": "1 can"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cooked bacon",
+      "amount": "6 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg noodles",
+      "amount": "8 ounces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Cook the egg noodles according to the package instructions and set aside.",
+    "In a large skillet, combine the chicken, smoked paprika, salt, and black pepper, and cook over medium high heat until the chicken is browned and cooked through.",
+    "In a separate saucepan, combine the cream of chicken soup and milk, and stir over medium heat until the soup is warm and smooth.",
+    "In a large bowl, combine the cooked noodles, chicken mixture, soup mixture, parmesan cheese, peas and carrots, and crumbled bacon, and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 25 minutes, or until the casserole is hot and the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve the casserole hot and enjoy.",
+    "Refrigerate any leftovers and reheat as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "intensely-smoky-american-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-american-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:37:33Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "smoke",
+    "primaryIngredient": "parmesan",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Intensely Smoky",
+    "dishForm": "Casserole"
+  }
+}

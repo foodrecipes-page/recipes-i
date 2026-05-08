@@ -3364,6 +3364,21 @@
     "shard": "i"
   },
   {
+    "slug": "innovative-springy-greek-lentils-dolmades",
+    "title": "Innovative Springy Greek Lentils Dolmades",
+    "tags": [
+      "gluten-free",
+      "greek-cuisine",
+      "healthy-dinner",
+      "lentil-recipes",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
     "slug": "innovative-vietnamese-bellflower-root-doraji-com-tam",
     "title": "Innovative Vietnamese Bellflower Root Doraji Com Tam",
     "tags": [
@@ -6556,6 +6571,21 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 38,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-smoky-american-chicken-casserole",
+    "title": "Intensely Smoky American Chicken Casserole",
+    "tags": [
+      "american-classics",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
