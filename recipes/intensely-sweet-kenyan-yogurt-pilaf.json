@@ -1,0 +1,101 @@
+{
+  "title": "Intensely Sweet Kenyan Yogurt Pilaf",
+  "description": "A sweet and fluffy Kenyan dish featuring yogurt and score-fat, perfect for a Jain-friendly meal prep option. This pilaf is a delicious and healthy breakfast choice.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "Jain",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, low-fat"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "white"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the basmati rice in a fine mesh sieve until the water runs clear.",
+    "In a medium saucepan, combine the rice and 2 cups of water, and bring to a boil over high heat.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes, or until the water is absorbed and the rice is tender.",
+    "In a large bowl, whisk together the yogurt, melted score-fat, sugar, cardamom powder, and rose water, if using.",
+    "Fluff the cooked rice with a fork and add it to the bowl with the yogurt mixture.",
+    "Stir until the rice is well coated with the yogurt mixture.",
+    "Season with salt to taste.",
+    "Transfer the pilaf to a serving dish and garnish with chopped pistachios.",
+    "Serve warm or at room temperature.",
+    "Refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "jain-friendly",
+    "meal-prep",
+    "one-pot",
+    "sweet-breakfast",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "intensely-sweet-kenyan-yogurt-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-sweet-kenyan-yogurt-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:18:08Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "score-fat",
+    "primaryIngredient": "yogurt",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "yogurt",
+    "descriptor": "intensely sweet",
+    "dishForm": "Pilaf"
+  }
+}
