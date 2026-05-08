@@ -1,0 +1,103 @@
+{
+  "title": "Indulgent Bitter Ukrainian Sweet Potatoes Gratin",
+  "description": "A rich and flavorful Ukrainian-inspired dish featuring sweet potatoes, confit tomatoes, and a blend of spices, perfect for a special occasion. This Whole30-friendly recipe is both bitter and tender, with a satisfying crunch from the topping.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "duck fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced sweet potatoes and onions.",
+    "In a separate bowl, mix together the confit tomatoes, garlic, paprika, salt, and black pepper.",
+    "Grease a 9x13 inch baking dish with the duck fat.",
+    "Create a layer of sweet potatoes and onions in the baking dish.",
+    "Spread half of the confit tomato mixture over the sweet potatoes.",
+    "Repeat the layers, starting with the sweet potatoes and onions, then the remaining confit tomato mixture.",
+    "Top the gratin with the chopped parsley.",
+    "Bake the gratin in the preheated oven for 45 minutes, or until the sweet potatoes are tender and the top is golden brown.",
+    "Remove the gratin from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "paleo",
+    "special-occasion",
+    "ukrainian-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "indulgent-bitter-ukrainian-sweet-potatoes-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-bitter-ukrainian-sweet-potatoes-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:12:25Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "confit-tomato",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Indulgent bitter",
+    "dishForm": "Gratin"
+  }
+}
