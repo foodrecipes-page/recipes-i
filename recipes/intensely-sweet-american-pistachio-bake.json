@@ -1,0 +1,92 @@
+{
+  "title": "Intensely Sweet American Pistachio Bake",
+  "description": "A sweet and gooey American dessert featuring ground pistachios, perfect for crowds, with a crispy double-fry KFC twist, onion and garlic free.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground pistachios",
+      "amount": "1 1/2 cups",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 3/4 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "KFC extra crispy seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "double fry KFC breading",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the ground pistachios, flour, and granulated sugar.",
+    "Add the melted butter, eggs, and KFC extra crispy seasoning to the bowl and mix until well combined.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Sprinkle the double fry KFC breading evenly over the top of the mixture.",
+    "Drizzle the heavy cream over the breading.",
+    "Bake for 35-40 minutes or until the top is golden brown and the center is set.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "crowd-pleaser",
+    "kfc-inspired",
+    "pistachio-lover",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intensely-sweet-american-pistachio-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-sweet-american-pistachio-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:51:16Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "ground pistachios",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "pistachios",
+    "descriptor": "Intensely sweet",
+    "dishForm": "Bake"
+  }
+}

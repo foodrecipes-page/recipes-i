@@ -1,0 +1,84 @@
+{
+  "title": "Ice Pickled Russian Beetroot Salad",
+  "description": "A refreshing, post-workout dish featuring vinaigrette dressing and fermented beets, perfect for warm days.",
+  "cuisine": "russian",
+  "diet": [
+    "raw-friendly",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Shred the beetroot using a box grater and place it in a large bowl.",
+    "In a small bowl, whisk together the apple cider vinegar, olive oil, maple syrup, Dijon mustard, and salt.",
+    "Pour the vinaigrette over the beetroot and toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, sprinkle the chopped fresh dill over the top of the salad.",
+    "Toss the salad gently to combine and serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "raw-friendly",
+    "russian",
+    "salad",
+    "summer",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "ice-pickled-russian-beetroot-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ice-pickled-russian-beetroot-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:50:46Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "ferment-jang",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beetroot",
+    "descriptor": "Ice Pickled",
+    "dishForm": "Salad"
+  }
+}

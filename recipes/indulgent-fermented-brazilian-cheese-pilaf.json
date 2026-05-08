@@ -1,0 +1,123 @@
+{
+  "title": "indulgent fermented brazilian cheese pilaf",
+  "description": "a rich and creamy cheese pilaf with a tangy fermented twist, perfect for a brazilian-inspired dinner",
+  "cuisine": "brazilian",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "iron teppan",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "fermented cheese",
+      "amount": "120",
+      "notes": "aged in natural brine for 6 months"
+    },
+    {
+      "name": "fines herbes",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "pickle juice",
+      "amount": "2",
+      "notes": "use homemade or store-bought"
+    },
+    {
+      "name": "ghee",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "shallots",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fermentation spice blend",
+      "amount": "1",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "heat ghee in the iron teppan over medium heat until shimmering",
+    "add diced onion and cook until translucent, about 5 minutes",
+    "add minced garlic and cook for 1 minute",
+    "add diced red pepper and cook for 2 minutes",
+    "add pickle juice, fermented cheese, fines herbes, salt, and black pepper, stir to combine",
+    "reduce heat to low and simmer, uncovered, for 10 minutes",
+    "transfer the pilaf to a serving dish and top with thinly sliced shallots",
+    "sprinkle with fresh parsley and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "cheesy",
+    "comfort-food",
+    "fermented",
+    "high-protein",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 36
+  },
+  "slug": "indulgent-fermented-brazilian-cheese-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-fermented-brazilian-cheese-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:50:58Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "pickle",
+    "primaryIngredient": "fines-herbes",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "Indulgent Fermented",
+    "dishForm": "Pilaf"
+  }
+}

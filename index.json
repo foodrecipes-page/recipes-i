@@ -55,6 +55,20 @@
     "shard": "i"
   },
   {
+    "slug": "ice-pickled-russian-beetroot-salad",
+    "title": "Ice Pickled Russian Beetroot Salad",
+    "tags": [
+      "raw-friendly",
+      "russian",
+      "salad",
+      "summer",
+      "vegan"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
     "slug": "iced-and-light-middle-eastern-pita-bread-wrap",
     "title": "Iced and Light Middle Eastern Pita Bread Wrap",
     "tags": [
@@ -1143,6 +1157,21 @@
       "raclette-grill-special"
     ],
     "cuisine": "ethiopian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-fermented-brazilian-cheese-pilaf",
+    "title": "indulgent fermented brazilian cheese pilaf",
+    "tags": [
+      "brazilian",
+      "cheesy",
+      "comfort-food",
+      "fermented",
+      "high-protein",
+      "one-pan"
+    ],
+    "cuisine": "brazilian",
     "totalTimeMin": 40,
     "shard": "i"
   },
@@ -5833,6 +5862,20 @@
       "vegetarian"
     ],
     "cuisine": "Italian",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-sweet-american-pistachio-bake",
+    "title": "Intensely Sweet American Pistachio Bake",
+    "tags": [
+      "american-classic",
+      "crowd-pleaser",
+      "kfc-inspired",
+      "pistachio-lover",
+      "sweet-treats"
+    ],
+    "cuisine": "American",
     "totalTimeMin": 60,
     "shard": "i"
   },
