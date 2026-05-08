@@ -1,0 +1,94 @@
+{
+  "title": "Innovative Nutty Chinese Pork Hot Pot",
+  "description": "A comforting and crispy Chinese dish featuring gelatine leaves and rest-meat, served in a copper pot. This macrobiotic-friendly hot pot is perfect for a cold winter night.",
+  "cuisine": "Chinese",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "rested for 24 hours"
+    },
+    {
+      "name": "gelatine leaves",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 pods"
+    }
+  ],
+  "instructions": [
+    "Slice the rested pork shoulder into thin strips and set aside.",
+    "Soak the gelatine leaves in cold water for 5 minutes, then drain and cut into small pieces.",
+    "In a copper pot, heat the sesame oil over medium heat and saute the sliced ginger until fragrant.",
+    "Add the pork strips and cook until browned, about 5 minutes.",
+    "Add the soy sauce, peanuts, and star anise, and stir to combine.",
+    "Add the gelatine pieces and stir to dissolve.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the chopped scallions and serve hot.",
+    "Serve the hot pot in the copper pot, allowing each guest to cook their own ingredients in the simmering broth."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-dish",
+    "comfort-food",
+    "copper-pot",
+    "macrobiotic",
+    "nutty",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "innovative-nutty-chinese-pork-hot-pot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-nutty-chinese-pork-hot-pot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:43:08Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "rest-meat",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "macrobiotic",
+    "region": "dongbei",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Innovative Nutty",
+    "dishForm": "Hot Pot"
+  }
+}
