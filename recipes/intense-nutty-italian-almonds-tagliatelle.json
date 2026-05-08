@@ -1,0 +1,101 @@
+{
+  "title": "Intense Nutty Italian Almonds Tagliatelle",
+  "description": "A keto-friendly Italian dish featuring nutty flavors and a delicate tagliatelle form, perfect for a date night dinner. The combination of rice vinegar and almonds creates a unique taste experience.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the tagliatelle for 2-3 minutes or until it floats to the surface.",
+    "In a large skillet, heat the olive oil over medium heat and saute the sliced almonds until they are lightly toasted.",
+    "In a large bowl, whisk together the rice vinegar, parmesan cheese, and a pinch of salt and pepper.",
+    "Add the cooked tagliatelle to the bowl and toss with the vinegar and cheese mixture until the pasta is well coated.",
+    "Add the toasted almonds to the bowl and toss again to combine.",
+    "Serve the tagliatelle hot, garnished with additional parmesan cheese and almonds if desired.",
+    "To make the tagliatelle, combine the almond flour and eggs in a bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it is smooth and pliable.",
+    "Roll out the dough to a thickness of 1/16 inch and cut into tagliatelle shape.",
+    "Dry the tagliatelle for 30 minutes before cooking to remove excess moisture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "homemade-pasta",
+    "italian-food",
+    "keto-friendly",
+    "low-carb",
+    "nutty-flavors"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "intense-nutty-italian-almonds-tagliatelle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-nutty-italian-almonds-tagliatelle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:47:24Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "rice vinegar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "almonds",
+    "descriptor": "Intense Nutty",
+    "dishForm": "Tagliatelle"
+  }
+}
