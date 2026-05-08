@@ -1,0 +1,95 @@
+{
+  "title": "Intense Dense Irish Potato Gratin",
+  "description": "A rich and creamy Irish dish featuring clotted cream and miso-marinated potatoes, perfect for a midnight craving. This vegan-friendly version is served on a traditional talavera plate.",
+  "cuisine": "irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1 cup",
+      "notes": "vegan alternative"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, olive oil, garlic, thyme, salt, and black pepper.",
+    "Add the sliced potatoes to the bowl and toss to coat with the miso marinade.",
+    "In a separate bowl, whip the clotted cream until smooth.",
+    "In a talavera plate, create a layer of potatoes.",
+    "Top the potatoes with a layer of clotted cream.",
+    "Repeat the layers until all ingredients are used, ending with a layer of clotted cream.",
+    "Bake the gratin in the preheated oven for 45 minutes.",
+    "Remove the gratin from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clotted-cream",
+    "comfort-food",
+    "irish",
+    "midnight-craving",
+    "talavera-plate",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intense-dense-irish-potato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-dense-irish-potato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:27:58Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "miso-marinate",
+    "primaryIngredient": "clotted cream",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Intense Dense",
+    "dishForm": "Gratin"
+  }
+}
