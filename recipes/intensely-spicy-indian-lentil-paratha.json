@@ -1,0 +1,107 @@
+{
+  "title": "Intensely Spicy Indian Lentil Paratha",
+  "description": "A spicy and flaky Hyderabadi dish featuring red lentils and a hint of cream, perfect for the monsoon season, this recipe is vegan-friendly and cooked using a bain-marie method to achieve the flakiest parathas.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee or vegan butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "green chili peppers",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cream or non-dairy alternative",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour, melted ghee or vegan butter, and salt, and mix until the dough comes together.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+    "In a separate bowl, combine the cooked red lentils, chopped green chili peppers, grated ginger, and minced garlic, and mix well.",
+    "Add the cream or non-dairy alternative to the lentil mixture and stir to combine.",
+    "Divide the dough into 6-8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of the lentil mixture in the center of each dough circle and fold the dough over to form a triangle or square shape.",
+    "Brush the tops of the parathas with a little water and cook them in a bain-marie over boiling water for 5-7 minutes on each side, until they are golden brown and flaky.",
+    "Serve the parathas hot with a dollop of cream or non-dairy alternative and a sprinkle of cumin seeds."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "flaky",
+    "indian",
+    "lentil",
+    "monsoon",
+    "paratha",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "intensely-spicy-indian-lentil-paratha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-spicy-indian-lentil-paratha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:44:28Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "bain-marie",
+    "primaryIngredient": "cream",
+    "diet": "vegan",
+    "region": "hyderabadi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Intensely Spicy",
+    "dishForm": "Paratha"
+  }
+}

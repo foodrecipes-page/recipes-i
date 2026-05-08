@@ -7402,6 +7402,20 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-jammy-croatian-chicken-pasta",
+    "title": "Intensely Jammy Croatian Chicken Pasta",
+    "tags": [
+      "low-calorie",
+      "meal-prep",
+      "one-pan",
+      "pasta-dish",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-jammy-vietnamese-shrimp-mi-quang",
     "title": "Intensely Jammy Vietnamese Shrimp Mi Quang",
     "tags": [
@@ -8756,6 +8770,23 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 140,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-spicy-indian-lentil-paratha",
+    "title": "Intensely Spicy Indian Lentil Paratha",
+    "tags": [
+      "bain-marie",
+      "flaky",
+      "indian",
+      "lentil",
+      "monsoon",
+      "paratha",
+      "spicy",
+      "vegan"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {

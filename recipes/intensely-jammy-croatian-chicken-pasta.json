@@ -1,0 +1,104 @@
+{
+  "title": "Intensely Jammy Croatian Chicken Pasta",
+  "description": "A light and flavorful Croatian dish featuring parmesan cheese and a jammy sauce, perfect for meal prep. This low-calorie-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "whole wheat pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "14 ounces"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions until al dente.",
+    "Heat the olive oil in a large skillet over medium-high heat and cook the chicken until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside, then add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for an additional minute until fragrant.",
+    "Stir in the canned crushed tomatoes, dried basil, salt, and black pepper, and bring the sauce to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes, stirring occasionally, until the sauce has thickened and become jammy.",
+    "Stir in the shredded parmesan cheese until melted and well combined.",
+    "Add the cooked pasta to the skillet and toss with the jammy sauce until the pasta is well coated.",
+    "Return the cooked chicken to the skillet and toss with the pasta and sauce until heated through.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-calorie",
+    "meal-prep",
+    "one-pan",
+    "pasta-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "intensely-jammy-croatian-chicken-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-jammy-croatian-chicken-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:44:33Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "temper",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chicken",
+    "descriptor": "intensely jammy",
+    "dishForm": "Pasta"
+  }
+}
