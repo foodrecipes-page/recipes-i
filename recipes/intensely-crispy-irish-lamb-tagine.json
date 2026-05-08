@@ -1,0 +1,105 @@
+{
+  "title": "Intensely Crispy Irish Lamb Tagine",
+  "description": "A traditional Irish dish with a twist, featuring crispy lamb and a sweet sugar syrup, cooked to perfection in a tagine pot, this recipe is sugar free friendly and bursting with energizing flavors",
+  "cuisine": "Irish",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons",
+      "notes": "shaved"
+    },
+    {
+      "name": "sugar free syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in the tagine pot over medium high heat.",
+    "Add the lamb pieces to the pot and cook until browned on all sides.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "Add the bonito flakes, sugar free syrup, dried thyme, salt, and black pepper to the pot and stir to combine.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Cook for 2 hours or until the lamb is tender and the sauce has thickened.",
+    "Remove the pot from the oven and sprinkle the chopped parsley over the top.",
+    "Return the pot to the oven and cook for an additional 10 minutes or until the parsley is crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 130,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "crispy-top",
+    "gluten-free",
+    "irish-food",
+    "lamb-recipes",
+    "one-pot",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "intensely-crispy-irish-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-crispy-irish-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:52:12Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sugar syrup",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "intensely crispy",
+    "dishForm": "Tagine"
+  }
+}
