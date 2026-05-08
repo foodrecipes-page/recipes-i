@@ -1,0 +1,101 @@
+{
+  "title": "Intense Spicy Moroccan Squid Skewers",
+  "description": "A pungent and snappy Moroccan dish featuring squid, this recipe is perfect for those who love spicy food and is kid-friendly, made with iron-teppan and broiled to perfection, this shojin-friendly dish is a must try.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron-teppan to medium high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, smoked paprika, cayenne pepper, salt, and black pepper.",
+    "Add the squid pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated squid pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the preheated iron-teppan and broil for 2-3 minutes per side, or until the squid is cooked through and slightly charred.",
+    "Serve the squid skewers hot, garnished with lemon wedges and chopped fresh parsley if desired.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "Serve with your favorite sides, such as couscous or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "one-pan",
+    "seafood",
+    "shojin",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "intense-spicy-moroccan-squid-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-spicy-moroccan-squid-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:30:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "broil",
+    "primaryIngredient": "squid",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "squid",
+    "descriptor": "intense spicy",
+    "dishForm": "Skewers"
+  }
+}
