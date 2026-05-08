@@ -1,0 +1,111 @@
+{
+  "title": "Intensely Smoky Canadian Skirt Steak Tagine",
+  "description": "A smoky and savory Canadian dish featuring skirt steak, perfect for a brunch mood, and diabetic-friendly. This recipe is made in a ceramic tagine vessel.",
+  "cuisine": "Canadian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "1.5 pounds",
+      "notes": "Canadian-cut, sliced into thin strips"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon",
+      "notes": "for spherification"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together smoked paprika, garlic, salt, and black pepper.",
+    "Rub the spice mixture all over the sliced skirt steak, making sure to coat evenly.",
+    "Heat the olive oil in the ceramic tagine vessel over medium-high heat.",
+    "Sear the skirt steak strips until browned on all sides, about 5 minutes, then remove from the tagine and set aside.",
+    "Add the chopped onion to the tagine and cook until softened, about 5 minutes.",
+    "Add the chopped dried apricots, chicken broth, and browned skirt steak back to the tagine.",
+    "Cover the tagine and transfer to the preheated oven, cooking for 2 hours.",
+    "While the tagine is cooking, mix the sodium alginate with water in a small bowl.",
+    "Using a syringe or spoon, drop small amounts of the alginate mixture into a bath of cold water to create spheres, then set aside.",
+    "After the tagine has finished cooking, remove from the oven and stir in the spherified alginate pearls."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "canadian-cuisine",
+    "ceramic-cooking",
+    "diabetic-friendly",
+    "low-carb",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "intensely-smoky-canadian-skirt-steak-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-canadian-skirt-steak-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:26:41Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "spherify",
+    "primaryIngredient": "skirty steak",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "skirt steak",
+    "descriptor": "intensely smoky",
+    "dishForm": "Tagine"
+  }
+}
