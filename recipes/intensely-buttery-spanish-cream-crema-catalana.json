@@ -1,0 +1,96 @@
+{
+  "title": "Intensely Buttery Spanish Cream Crema Catalana",
+  "description": "A buttery, molten, nostalgic Spanish dish featuring ground cinnamon, perfect for a high-protein dessert, formed into a traditional crema catalana.",
+  "cuisine": "Spanish",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "large egg yolks",
+      "amount": "6",
+      "notes": "fresh"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a medium saucepan, whisk together the egg yolks, sugar, and salt.",
+    "Add the melted butter, ground cinnamon, and vanilla extract to the saucepan and whisk until combined.",
+    "In a separate saucepan, heat the heavy cream and whole milk over medium heat until it starts to simmer.",
+    "Temper the egg yolk mixture by slowly pouring the warm cream mixture into the saucepan, whisking constantly.",
+    "Pour the mixture into 6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides.",
+    "Bake for 25 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let them cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours, or until chilled and set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "crema-catalana",
+    "gluten-free",
+    "high-protein",
+    "molten",
+    "nostalgic",
+    "spanish-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "intensely-buttery-spanish-cream-crema-catalana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-buttery-spanish-cream-crema-catalana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:19:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "spherify",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cream",
+    "descriptor": "Intensely Buttery",
+    "dishForm": "Crema Catalana"
+  }
+}
