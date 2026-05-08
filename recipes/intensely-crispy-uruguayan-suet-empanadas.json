@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Crispy Uruguayan Suet Empanadas",
+  "description": "Tangy and energizing Uruguayan dish featuring suet, reduced to halal-friendly ingredients, these empanadas are a perfect snack to boost your energy",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef suet",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, combine the flour, salt, black pepper, and paprika",
+    "Add the chopped beef suet to the bowl and mix until the mixture resembles coarse crumbs",
+    "In a separate bowl, whisk the eggs and water together",
+    "Add the egg mixture to the flour mixture and mix until a dough forms",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball",
+    "Roll out each ball into a thin circle",
+    "Heat the vegetable oil in a deep frying pan over medium heat",
+    "Fry the empanadas until they are golden brown and crispy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "crispy",
+    "empanadas",
+    "halal",
+    "snack",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intensely-crispy-uruguayan-suet-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-crispy-uruguayan-suet-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:30:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "reduce",
+    "primaryIngredient": "suet",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "suet",
+    "descriptor": "Intensely crispy",
+    "dishForm": "Empanadas"
+  }
+}
