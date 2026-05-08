@@ -1,0 +1,100 @@
+{
+  "title": "Intensely Nutty Japanese Chicken Karaage",
+  "description": "A nutty, tender, and cozy Japanese dish featuring clear honey and double-fry technique, made in a kazan cauldron with Mediterranean-friendly ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "clear honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "potato starch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, clear honey, sesame oil, grated ginger, garlic powder, and black pepper to make the marinade.",
+    "Add the chicken thighs to the marinade and mix well to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "In a separate bowl, mix together potato starch, chopped peanuts, and sesame seeds.",
+    "Remove the chicken from the marinade and dredge in the potato starch mixture, shaking off excess.",
+    "Heat about 2-3 inches of sesame oil in a kazan cauldron to 350 degrees Fahrenheit.",
+    "Double-fry the chicken by frying at 350 degrees Fahrenheit for 5 minutes, then increasing the heat to 375 degrees Fahrenheit and frying for an additional 5-7 minutes or until golden brown.",
+    "Drain the fried chicken on paper towels and serve hot.",
+    "Garnish with additional sesame seeds and chopped peanuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry-technique",
+    "gluten-free",
+    "japanese-cuisine",
+    "kazan-cauldron",
+    "mediterranean-friendly",
+    "nutty-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intensely-nutty-japanese-chicken-karaage",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-nutty-japanese-chicken-karaage",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:04:02Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "clear honey",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "intensely nutty",
+    "dishForm": "Karaage"
+  }
+}

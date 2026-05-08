@@ -828,6 +828,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-british-cheddar-grill",
+    "title": "Indulgent British Cheddar Grill",
+    "tags": [
+      "cheesy",
+      "cornish",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 22,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-buttery-italian-bresaola-flatbread",
     "title": "Indulgent Buttery Italian Bresaola Flatbread",
     "tags": [
@@ -5442,6 +5456,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-nutty-japanese-chicken-karaage",
+    "title": "Intensely Nutty Japanese Chicken Karaage",
+    "tags": [
+      "double-fry-technique",
+      "gluten-free",
+      "japanese-cuisine",
+      "kazan-cauldron",
+      "mediterranean-friendly",
+      "nutty-flavors"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {

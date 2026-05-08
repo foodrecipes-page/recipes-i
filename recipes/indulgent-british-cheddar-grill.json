@@ -1,0 +1,124 @@
+{
+  "title": "Indulgent British Cheddar Grill",
+  "description": "A rich, umami Cornish dish featuring a mature British cheddar cheese grilled to perfection on a yakimono-grill. This flexitarian-friendly recipe is perfect for a weeknight dinner or special occasion.",
+  "cuisine": "British",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mature Cheddar Cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Cornish Fillet Steaks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Butter",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Thyme",
+      "amount": "10g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat.",
+    "Season the cornish fillet steaks with salt and black pepper on both sides.",
+    "Mix the garlic butter with chopped parsley, lemon juice, and a pinch of salt.",
+    "Coat the cornish fillet steaks evenly with the garlic butter mixture, making sure to get some on both sides.",
+    "Dust the cornish fillet steaks with flour, shaking off any excess.",
+    "Grill the cornish fillet steaks for 4 minutes on the first side, or until they develop a nice brown crust.",
+    "Flip the cornish fillet steaks and grill for another 3-4 minutes, or until they reach your desired level of doneness.",
+    "Transfer the grilled cornish fillet steaks to a plate and let them rest for 2 minutes.",
+    "Meanwhile, mix the chopped fresh thyme with a pinch of salt and a pinch of paprika.",
+    "Sprinkle the thyme mixture evenly over the grilled cornish fillet steaks.",
+    "Slice the mature cheddar cheese into thick slices.",
+    "Place a slice of mature cheddar cheese on top of each grilled cornish fillet steak.",
+    "Return the yakimono-grill to medium heat and grill the mature cheddar cheese for 1-2 minutes on each side, or until it's melted and golden brown.",
+    "Serve the indulgent British cheddar grills hot, garnished with additional chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "cornish",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "indulgent-british-cheddar-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-british-cheddar-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:04:35Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "mature cheddar",
+    "diet": "flexitarian",
+    "region": "cornish",
+    "cuisineAdjective": "british",
+    "mainIngredient": "cheddar",
+    "descriptor": "indulgent",
+    "dishForm": "grill"
+  }
+}
