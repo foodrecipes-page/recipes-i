@@ -1,0 +1,96 @@
+{
+  "title": "Intensely Gooey Japanese Tofu Gyoza",
+  "description": "A fermented, gooey, nostalgic Japanese dish from the Chubu region, featuring mint and ferment-jang, high in protein and perfect for a snack or dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "round wonton wrappers",
+      "amount": "20 sheets"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine crumbled tofu, ferment-jang, chopped mint leaves, soy sauce, sesame oil, minced garlic, and grated ginger, and mix well.",
+    "Lay a wonton wrapper on a flat surface and place a tablespoon of the tofu mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the gyoza.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat a large skillet with a small amount of oil over medium heat and add the gyoza, being careful not to overcrowd the skillet.",
+    "Cook the gyoza for 2-3 minutes on each side, until they are golden brown and crispy.",
+    "Serve the gyoza hot with your favorite dipping sauce.",
+    "To achieve the intensely gooey texture, cook the gyoza in a steamer basket for an additional 2-3 minutes after pan-frying."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "high-protein",
+    "japanese-cuisine",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "intensely-gooey-japanese-tofu-gyoza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-gooey-japanese-tofu-gyoza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:15:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "ferment-jang",
+    "primaryIngredient": "mint",
+    "diet": "high-protein",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "intensely gooey",
+    "dishForm": "Gyoza"
+  }
+}

@@ -3304,6 +3304,21 @@
     "shard": "i"
   },
   {
+    "slug": "innovative-mild-egyptian-comte-flatbread",
+    "title": "Innovative Mild Egyptian Comte Flatbread",
+    "tags": [
+      "kid-friendly",
+      "middle-eastern",
+      "one-pan",
+      "shojin-friendly",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "innovative-silky-russian-noodles",
     "title": "Innovative Silky Russian Noodles",
     "tags": [
@@ -5868,6 +5883,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 150,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-gooey-japanese-tofu-gyoza",
+    "title": "Intensely Gooey Japanese Tofu Gyoza",
+    "tags": [
+      "fermented-food",
+      "high-protein",
+      "japanese-cuisine",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {

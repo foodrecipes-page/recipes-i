@@ -1,0 +1,102 @@
+{
+  "title": "Innovative Mild Egyptian Comte Flatbread",
+  "description": "A kid-friendly Egyptian dish featuring Comte cheese and a hint of mustard, perfect for a weeknight dinner. This shattering flatbread is also shojin-friendly and features a cure.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cure",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the all-purpose flour, whole wheat flour, salt, sugar, and yeast.",
+    "Gradually add the warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Roll out the dough into a large rectangle and brush with olive oil.",
+    "Sprinkle the shredded Comte cheese, mustard, and cure over the dough, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough over the filling to form a crust.",
+    "Bake the flatbread in the preheated oven for 20 minutes, or until it is golden brown and shattering.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "middle-eastern",
+    "one-pan",
+    "shojin-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "innovative-mild-egyptian-comte-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-mild-egyptian-comte-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:16:38Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "cure",
+    "primaryIngredient": "comte",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Comte",
+    "descriptor": "Innovative Mild",
+    "dishForm": "Flatbread"
+  }
+}
