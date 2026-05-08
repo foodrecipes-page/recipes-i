@@ -1,0 +1,104 @@
+{
+  "title": "Intricately Spiced Vietnamese Tofu Bun Cha",
+  "description": "A herbal and shaggy Vietnamese dish featuring ground annatto, served in a tajine clay vessel, perfect for a solo dinner, this lacto-vegetarian friendly bun cha is a delight to the senses.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small pieces"
+    },
+    {
+      "name": "ground annatto",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in the tajine clay vessel over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the ground annatto and cook for 1 minute, stirring constantly.",
+    "Add the firm tofu and cook until it is lightly browned on all sides.",
+    "Add the rice noodles, lime juice, and salt, and stir to combine.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Stir in the chopped fresh cilantro and serve hot.",
+    "Serve the bun cha in the tajine clay vessel, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "lacto-vegetarian",
+    "one-pot",
+    "shaggy",
+    "tajine-cooking",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "intricately-spiced-vietnamese-tofu-bun-cha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-spiced-vietnamese-tofu-bun-cha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:17:29Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "rest",
+    "primaryIngredient": "ground annatto",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Intricately spiced",
+    "dishForm": "Bun Cha"
+  }
+}
