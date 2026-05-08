@@ -1,0 +1,99 @@
+{
+  "title": "Intense Roasted Japanese Vegetables Skillet",
+  "description": "A kid-friendly Japanese dish featuring roasted vegetables cooked in a ttukbaegi earthenware skillet, low in carbs and rich in flavor.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "stemmed and sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together sesame oil, soy sauce, rice vinegar, salt, and black pepper.",
+    "Add the sliced eggplant, mushrooms, carrots, and red bell pepper to the bowl and toss to coat with the marinade.",
+    "Heat a large ttukbaegi earthenware skillet over medium-high heat.",
+    "Add the marinated vegetables to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Transfer the skillet to the preheated oven and roast for 20 minutes, stirring every 5 minutes.",
+    "Remove the skillet from the oven and stir in any accumulated juices.",
+    "Return the skillet to the stovetop over medium heat and cook for an additional 5 minutes, stirring frequently.",
+    "Serve the roasted vegetables hot, garnished with sliced green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-inspired",
+    "low-carb",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "intense-roasted-japanese-vegetables-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-roasted-japanese-vegetables-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:47:07Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "vegetables",
+    "descriptor": "intense roasted",
+    "dishForm": "Skillet"
+  }
+}

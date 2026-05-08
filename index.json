@@ -5009,6 +5009,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-roasted-japanese-vegetables-skillet",
+    "title": "Intense Roasted Japanese Vegetables Skillet",
+    "tags": [
+      "japanese-inspired",
+      "low-carb",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "intense-roasted-peruvian-chicken-aji-de-gallina",
     "title": "Intense Roasted Peruvian Chicken Aji De Gallina",
     "tags": [
@@ -6482,6 +6496,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-flavored-irish-fish-skewers",
+    "title": "Intensely Flavored Irish Fish Skewers",
+    "tags": [
+      "banana-leaf",
+      "grilled",
+      "irish-cuisine",
+      "pescatarian",
+      "seafood",
+      "special-occasion"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 32,
     "shard": "i"
   },
   {

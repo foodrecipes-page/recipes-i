@@ -1,0 +1,96 @@
+{
+  "title": "Intensely Flavored Irish Fish Skewers",
+  "description": "A pescatarian-friendly Irish dish featuring fish sauce and brine-dry fish, served in banana leaves, with a jammy and springy texture. This show-off dish is perfect for special occasions.",
+  "cuisine": "Irish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, brown sugar, lime juice, and olive oil.",
+    "Add the cod pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated cod pieces onto skewers, leaving a small space between each piece.",
+    "Brush the banana leaves with olive oil and place a skewer in the center of each leaf.",
+    "Fold the banana leaves over the skewers to form a packet and secure with toothpicks.",
+    "Grill the packets for 8-10 minutes, turning occasionally, until the fish is cooked through.",
+    "Serve the skewers hot, garnished with minced garlic and a sprinkle of salt and pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "grilled",
+    "irish-cuisine",
+    "pescatarian",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "intensely-flavored-irish-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flavored-irish-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:47:26Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "brine-dry",
+    "primaryIngredient": "fish sauce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "fish",
+    "descriptor": "intensely flavored",
+    "dishForm": "Skewers"
+  }
+}
