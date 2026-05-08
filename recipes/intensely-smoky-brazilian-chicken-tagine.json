@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Smoky Brazilian Chicken Tagine",
+  "description": "A jammy and flaky Brazilian dish featuring clear honey and char-grill flavors, cooked in a traditional clay tajine vessel, this intensely smoky chicken tagine is perfect for a midnight craving and is low in carbs.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "clear honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "char-grill seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, garlic powder, salt, black pepper, and char-grill seasoning.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the spice mixture.",
+    "Heat the olive oil in the clay tajine vessel over medium heat on the stovetop.",
+    "Add the chicken to the tajine vessel and cook until browned on all sides, about 5 minutes.",
+    "Add the clear honey to the tajine vessel and stir to combine with the chicken and spices.",
+    "Cover the tajine vessel with a lid and transfer to the preheated oven.",
+    "Bake for 30 minutes, then reduce the oven temperature to 350 degrees Fahrenheit and continue baking for an additional 20 minutes.",
+    "Remove the tajine vessel from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "clay-cooking",
+    "low-carb",
+    "midnight-cravings",
+    "one-pot",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "intensely-smoky-brazilian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-brazilian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:49:39Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "clear honey",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "intensely smoky",
+    "dishForm": "Tagine"
+  }
+}
