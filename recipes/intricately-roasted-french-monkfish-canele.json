@@ -1,0 +1,101 @@
+{
+  "title": "Intricately Roasted French Monkfish Canele",
+  "description": "A peppery and fluffy show-off French dish featuring monkfish, roasted to perfection in a canele form using an iron teppan, perfect for a flexitarian dinner",
+  "cuisine": "French",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monkfish",
+      "amount": "1 pound",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to 400 degrees Fahrenheit",
+    "Season the monkfish cubes with black pepper, garlic powder, paprika, and salt",
+    "Melt the butter in the iron teppan and add the seasoned monkfish cubes",
+    "Roast the monkfish for 5 minutes on each side, or until cooked through",
+    "Remove the monkfish from the iron teppan and set aside",
+    "Add the lemon juice, chicken broth, and heavy cream to the iron teppan",
+    "Scrape up any browned bits from the bottom of the iron teppan",
+    "Return the monkfish to the iron teppan and spoon some of the sauce over the top of each cube",
+    "Transfer the monkfish to a canele mold and garnish with chopped fresh parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "flexitarian",
+    "french-cuisine",
+    "high-protein",
+    "one-pan",
+    "roasted",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "intricately-roasted-french-monkfish-canele",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-roasted-french-monkfish-canele",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:21:28Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "roast",
+    "primaryIngredient": "monkfish",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "monkfish",
+    "descriptor": "Intricately Roasted",
+    "dishForm": "Canele"
+  }
+}

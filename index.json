@@ -3525,6 +3525,21 @@
     "shard": "i"
   },
   {
+    "slug": "innovative-light-irish-red-snapper-roast",
+    "title": "Innovative Light Irish Red Snapper Roast",
+    "tags": [
+      "healthy",
+      "irish-cuisine",
+      "lacto-vegetarian",
+      "light-meal",
+      "roasted",
+      "seafood"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 27,
+    "shard": "i"
+  },
+  {
     "slug": "innovative-light-italian-egg-tiramisu",
     "title": "Innovative Light Italian Egg Tiramisu",
     "tags": [
@@ -8653,6 +8668,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intricately-roasted-french-monkfish-canele",
+    "title": "Intricately Roasted French Monkfish Canele",
+    "tags": [
+      "flexitarian",
+      "french-cuisine",
+      "high-protein",
+      "one-pan",
+      "roasted",
+      "seafood"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {

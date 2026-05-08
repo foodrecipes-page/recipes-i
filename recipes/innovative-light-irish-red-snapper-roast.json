@@ -1,0 +1,99 @@
+{
+  "title": "Innovative Light Irish Red Snapper Roast",
+  "description": "A roasted Irish dish featuring red snapper, cure, and lacto-vegetarian friendly ingredients, perfect for a light and energizing meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red snapper fillets",
+      "amount": "4",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Irish sea salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Pink peppercorns",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the Irish sea salt, brown sugar, and pink peppercorns.",
+    "Place the red snapper fillets on a baking sheet lined with parchment paper.",
+    "Sprinkle the salt mixture evenly over the red snapper fillets.",
+    "Drizzle the lemon juice and olive oil over the fillets.",
+    "Sprinkle the chopped parsley and minced garlic over the fillets.",
+    "Dot the top of each fillet with butter.",
+    "Roast the red snapper in the preheated oven for 12 minutes.",
+    "Remove the red snapper from the oven and let it rest for 2 minutes.",
+    "Serve the red snapper hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "irish-cuisine",
+    "lacto-vegetarian",
+    "light-meal",
+    "roasted",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "innovative-light-irish-red-snapper-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-light-irish-red-snapper-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:22:18Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "cure",
+    "primaryIngredient": "red snapper",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "red snapper",
+    "descriptor": "Innovative Light",
+    "dishForm": "Roast"
+  }
+}
