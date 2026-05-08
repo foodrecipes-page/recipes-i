@@ -1,0 +1,94 @@
+{
+  "title": "Intense Malty Ethiopian Hazelnut Pilaf",
+  "description": "A malty, crumbly, and energizing Ethiopian dish featuring hazelnuts and confit-tomato, perfect for a lacto-vegetarian meal. This pilaf is made with a combination of grains, nuts, and spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "barley",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ethiopian berbere spice",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the barley, brown rice, and berbere spice, stirring to combine.",
+    "Add the chopped hazelnuts and cook for 2 minutes, stirring frequently.",
+    "Add the diced confit-tomato and malt syrup, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "high-fiber",
+    "lacto-vegetarian",
+    "nutty",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "intense-malty-ethiopian-hazelnut-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-malty-ethiopian-hazelnut-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:31:24Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "confit-tomato",
+    "primaryIngredient": "hazlenuts",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "intense malty",
+    "dishForm": "Pilaf"
+  }
+}
