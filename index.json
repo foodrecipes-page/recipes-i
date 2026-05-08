@@ -3570,6 +3570,21 @@
     "shard": "i"
   },
   {
+    "slug": "innovative-nutty-malaysian-peas-pie",
+    "title": "Innovative Nutty Malaysian Peas Pie",
+    "tags": [
+      "comfort-food",
+      "fodmap-friendly",
+      "malaysian-cuisine",
+      "nutty",
+      "peas",
+      "vegetarian"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
     "slug": "innovative-polish-eggplant-stew",
     "title": "Innovative Polish Eggplant Stew",
     "tags": [
@@ -5810,6 +5825,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-charred-american-chestnut-mushroom-casserole",
+    "title": "Intensely Charred American Chestnut Mushroom Casserole",
+    "tags": [
+      "comfort-food",
+      "fall-recipes",
+      "mushroom-lovers",
+      "one-pan",
+      "weeknight",
+      "winter-recipes"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {

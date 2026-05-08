@@ -1,0 +1,107 @@
+{
+  "title": "Intensely Charred American Chestnut Mushroom Casserole",
+  "description": "A cozy American dish featuring tender chestnut mushrooms with an intense char, perfect for a flexitarian dinner",
+  "cuisine": "American",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "American chestnut mushrooms",
+      "amount": "1 pound",
+      "notes": "sliced into 1/4 inch thick pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole wheat breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium high heat.",
+    "Add the sliced mushrooms to the skillet and cook until they are intensely charred, about 5 minutes per side.",
+    "Add the chopped onion to the skillet and cook until it is translucent, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Stir in the bhuna spice mix and cook for 1 minute.",
+    "In a large bowl, combine the cooked mushroom mixture, salt, and black pepper.",
+    "In a greased 9x13 inch baking dish, arrange half of the mushroom mixture in the bottom of the dish.",
+    "Sprinkle half of the grated cheddar cheese and half of the whole wheat breadcrumbs over the mushroom mixture.",
+    "Repeat the layers, starting with the remaining mushroom mixture, then the remaining cheese, and finally the remaining breadcrumbs.",
+    "Sprinkle the chopped parsley over the top of the casserole.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the top is golden brown and the casserole is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fall-recipes",
+    "mushroom-lovers",
+    "one-pan",
+    "weeknight",
+    "winter-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intensely-charred-american-chestnut-mushroom-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-charred-american-chestnut-mushroom-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:07:42Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "intensely charred",
+    "dishForm": "Casserole"
+  }
+}

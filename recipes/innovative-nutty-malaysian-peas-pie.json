@@ -1,0 +1,94 @@
+{
+  "title": "Innovative Nutty Malaysian Peas Pie",
+  "description": "A comforting Malaysian dish featuring peas in a nutty, aerated pastry crust, FODMAP-friendly and perfect for a special occasion.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "macadamia nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, salt, and palm sugar.",
+    "Add the coconut oil, eggs, and water to the bowl and mix until a dough forms.",
+    "Roll out the dough on a floured surface to a thickness of about 1/8 inch.",
+    "Spoon the peas onto one half of the dough, leaving a 1/2 inch border around the edges.",
+    "Sprinkle the chopped macadamia nuts over the peas.",
+    "Fold the other half of the dough over the filling and press the edges to seal.",
+    "Brush the top of the pie with a little bit of coconut oil and cut a few slits in the top to allow steam to escape.",
+    "Bake the pie for 35 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "malaysian-cuisine",
+    "nutty",
+    "peas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "innovative-nutty-malaysian-peas-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-nutty-malaysian-peas-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:06:40Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "en-croute",
+    "primaryIngredient": "peas",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "peas",
+    "descriptor": "innovative nutty",
+    "dishForm": "Pie"
+  }
+}
