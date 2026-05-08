@@ -1,0 +1,101 @@
+{
+  "title": "Intriguing Light Thai Cottage Cheese Curry",
+  "description": "A delicate and festive Thai dish featuring cottage cheese in a light and floral curry sauce, perfect for a lacto-vegetarian meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": "large curd, drained"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish-free vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the curry paste and cook, stirring constantly, for 1 minute.",
+    "Pour in the broth, coconut milk, and sugar, and bring to a simmer.",
+    "Reduce the heat to low and let cook for 10 minutes, stirring occasionally.",
+    "Stir in the cottage cheese and cook until heated through.",
+    "Season the curry with salt and lime juice to taste.",
+    "Garnish with basil and cilantro leaves.",
+    "Serve the curry hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "high-protein",
+    "lacto-vegetarian",
+    "one-pot",
+    "thai-curry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "intriguing-light-thai-cottage-cheese-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intriguing-light-thai-cottage-cheese-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:35:50Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "brine-wet",
+    "primaryIngredient": "cottage cheese",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "cottage cheese",
+    "descriptor": "Intriguing light",
+    "dishForm": "Curry"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Intricately Flaky Japanese Chicken Tendon",
+  "description": "A herbal and flaky Japanese dish featuring sea salt and robata-grill, kid-friendly and ayurvedic-rajasic-friendly, made with chicken tendon.",
+  "cuisine": "Japanese",
+  "diet": [
+    "kid-friendly",
+    "ayurvedic-rajasic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken tendon",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to medium-high heat.",
+    "In a large bowl, whisk together sea salt, black pepper, garlic powder, and ginger powder.",
+    "Add the chicken tendon to the bowl and toss to coat with the spice mixture.",
+    "Brush the robata-grill with olive oil to prevent sticking.",
+    "Grill the chicken tendon for 5-7 minutes per side, or until cooked through.",
+    "In a small bowl, whisk together soy sauce and honey.",
+    "Brush the soy sauce mixture onto the grilled chicken tendon.",
+    "Sprinkle chopped green onions and sesame seeds onto the chicken tendon.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-rajasic-friendly",
+    "grilled-chicken",
+    "japanese-cuisine",
+    "kid-friendly",
+    "robata-grill",
+    "sea-salt"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "intricately-flaky-japanese-chicken-tendon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-flaky-japanese-chicken-tendon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:36:08Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "robata-grill",
+    "primaryIngredient": "sea salt",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Intricately Flaky",
+    "dishForm": "Tendon"
+  }
+}

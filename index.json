@@ -5739,6 +5739,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-sweet-brazilian-banana-pudding",
+    "title": "Intense Sweet Brazilian Banana Pudding",
+    "tags": [
+      "brazilian-desserts",
+      "comfort-food",
+      "easy-desserts",
+      "no-bake",
+      "sweet-treats"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "intense-syrian-lentil-stew",
     "title": "Intense Syrian Lentil Stew",
     "tags": [
@@ -8655,6 +8669,21 @@
     "shard": "i"
   },
   {
+    "slug": "intricately-flaky-japanese-chicken-tendon",
+    "title": "Intricately Flaky Japanese Chicken Tendon",
+    "tags": [
+      "ayurvedic-rajasic-friendly",
+      "grilled-chicken",
+      "japanese-cuisine",
+      "kid-friendly",
+      "robata-grill",
+      "sea-salt"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "intricately-fried-australian-chinese-chinese-broccoli-spring-rolls",
     "title": "Intricately Fried Australian Chinese Chinese Broccoli Spring Rolls",
     "tags": [
@@ -8861,6 +8890,21 @@
       "seafood"
     ],
     "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intriguing-light-thai-cottage-cheese-curry",
+    "title": "Intriguing Light Thai Cottage Cheese Curry",
+    "tags": [
+      "floral",
+      "high-protein",
+      "lacto-vegetarian",
+      "one-pot",
+      "thai-curry",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
     "totalTimeMin": 35,
     "shard": "i"
   },

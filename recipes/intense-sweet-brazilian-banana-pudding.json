@@ -1,0 +1,93 @@
+{
+  "title": "Intense Sweet Brazilian Banana Pudding",
+  "description": "A light and sweet Brazilian dessert featuring Nutella and sashimi-cut bananas, perfect for a sick day pick-me-up.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "4 large",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "Nutella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chocolate shavings",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whip the heavy cream until stiff peaks form.",
+    "In a separate bowl, mix together the sweetened condensed milk, Nutella, and vanilla extract.",
+    "Add the sliced bananas to the Nutella mixture and stir until they are well coated.",
+    "In a small saucepan, melt the unsalted butter over low heat.",
+    "Add the salt to the melted butter and stir to combine.",
+    "Pour the butter mixture into the Nutella mixture and stir until well combined.",
+    "Fold the whipped cream into the Nutella mixture until no white streaks remain.",
+    "Spoon the pudding into individual serving cups.",
+    "Chill the pudding in the refrigerator for at least 2 hours.",
+    "Garnish with chocolate shavings, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-desserts",
+    "comfort-food",
+    "easy-desserts",
+    "no-bake",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "intense-sweet-brazilian-banana-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-sweet-brazilian-banana-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:35:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "nutella",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "banana",
+    "descriptor": "intense sweet",
+    "dishForm": "Pudding"
+  }
+}
