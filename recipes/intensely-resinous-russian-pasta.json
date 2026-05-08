@@ -1,0 +1,100 @@
+{
+  "title": "Intensely Resinous Russian Pasta",
+  "description": "A crisp and resinous monsoon Russian dish featuring paccheri pasta, long-fermentation-dough, and a dash-friendly flavor profile, all wrapped in a corn husk vessel.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz",
+      "notes": "imported from Italy"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "2 cups",
+      "notes": "made with Russian sourdough starter"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 large",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "resinous herb mix",
+      "amount": "2 tbsp",
+      "notes": "including rosemary, thyme, and sage"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the long-fermentation-dough, olive oil, resinous herb mix, garlic, salt, and black pepper, and mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Bring a large pot of salted water to a boil and cook the paccheri pasta according to the package instructions until al dente.",
+    "Drain the pasta and set it aside.",
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "Assemble the dish by placing a portion of pasta in the center of a corn husk, topping it with a spoonful of the dough mixture, and sprinkling with parmesan cheese.",
+    "Fold the corn husk over the filling to form a tight packet and place it on a baking sheet.",
+    "Repeat the process with the remaining ingredients and bake the packets in the preheated oven for 20 minutes."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 40,
+  "totalTimeMin": 100,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "corn-wrapped",
+    "herb-infused",
+    "one-pan",
+    "russo-italian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "intensely-resinous-russian-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-resinous-russian-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:05:26Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "pasta",
+    "descriptor": "intensely resinous",
+    "dishForm": "Pasta"
+  }
+}
