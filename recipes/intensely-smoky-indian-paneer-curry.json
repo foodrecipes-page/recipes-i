@@ -1,0 +1,108 @@
+{
+  "title": "Intensely Smoky Indian Paneer Curry",
+  "description": "A smoky and pillowy Indian curry featuring paneer, this dish is lightly influenced by Malaysian flavors and is perfect for a weeknight dinner, simmered to perfection with a dash of friendly spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "1 block",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 can"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the smoked paprika and garam masala and cook for 1 minute, stirring constantly.",
+    "Add the tomato puree and coconut milk, and stir to combine.",
+    "Add the paneer cubes and stir gently to combine.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the paneer is cooked through and the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian-cuisine",
+    "one-pan",
+    "smoky",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intensely-smoky-indian-paneer-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-indian-paneer-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:17:00Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "simmer",
+    "primaryIngredient": "paneer",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "paneer",
+    "descriptor": "intensely smoky",
+    "dishForm": "Curry"
+  }
+}
