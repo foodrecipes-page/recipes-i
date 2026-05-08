@@ -1,0 +1,107 @@
+{
+  "title": "Intensely Flavorful Irish Lamb Stew",
+  "description": "A hearty and aromatic stew featuring lamb, lemon, and puff pastry, perfect for special occasions. This dish is sure to please a crowd with its rich and dense flavor profile.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, brown the lamb cubes over medium-high heat.",
+    "Add the chopped onion, carrots, and potatoes to the pot and cook until the vegetables are tender.",
+    "Add the garlic, thyme, and rosemary to the pot and cook for 1 minute.",
+    "Add the lemon juice and chicken broth to the pot and bring to a boil.",
+    "Cover the pot with puff pastry and cut a few slits in the top to allow steam to escape.",
+    "Transfer the pot to the preheated oven and bake for 2 1/2 hours.",
+    "Remove the pot from the oven and let it cool for 10 minutes before serving.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "irish-cuisine",
+    "lamb-based",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "intensely-flavorful-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flavorful-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:42:12Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "lamination-puff",
+    "primaryIngredient": "lemon",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Intensely flavorful",
+    "dishForm": "Stew"
+  }
+}
