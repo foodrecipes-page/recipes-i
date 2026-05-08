@@ -1,0 +1,105 @@
+{
+  "title": "intensely spicy, molten jamaican chicken roast",
+  "description": "A low-calorie, earthy, and spicy Jamaican dish featuring molten roast chicken, toffee popcorn, and a hint of tropical flavors.",
+  "cuisine": "jamaican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "toffee popcorn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken breast and pat it dry with paper towels.",
+    "In a small bowl, mix together the jerk seasoning, olive oil, onion, bell pepper, toffee popcorn, honey, apple cider vinegar, hot sauce, cayenne pepper, salt, and black pepper.",
+    "Rub the spice mixture all over the chicken breast, making sure to coat it evenly.",
+    "Place the chicken breast on a hot stone plate and roast in the preheated oven for 30 minutes.",
+    "After 30 minutes, remove the chicken from the oven and let it rest for 5 minutes.",
+    "Slice the chicken breast into thin strips and serve immediately.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner-party",
+    "fall-recipe",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 70,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "intensely-spicy-molten-jamaican-chicken-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-spicy-molten-jamaican-chicken-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:22:34Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "roast",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Intensely Spicy, Molten",
+    "dishForm": "Roast"
+  }
+}
