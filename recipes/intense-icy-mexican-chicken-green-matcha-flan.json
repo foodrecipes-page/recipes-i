@@ -1,0 +1,117 @@
+{
+  "title": "intense icy mexican chicken green matcha flan",
+  "description": "a refreshing and intense dessert inspired by the flavors of jalisco, mexico, featuring matcha and a silky smooth texture.",
+  "cuisine": "mexican",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups matcha-infused coconut milk",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "1 cup heavy cream",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "2 large egg yolks",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup granulated sugar",
+      "amount": "3 ounces",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp kosher salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp matcha powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup unsalted butter, melted",
+      "amount": "2 ounces",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup diced chicken breast, grilled",
+      "amount": "3 ounces",
+      "notes": "see grill instructions below"
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 lime, juiced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp red pepper flakes",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "roast the chicken breast at 400°f for 15 minutes, then let cool and dice.",
+    "grill the chicken over robata coals for an intense smoky flavor, set aside.",
+    "in a medium saucepan, combine the matcha-infused coconut milk, heavy cream, and granulated sugar. whisk to combine.",
+    "cook the mixture over medium heat, whisking constantly, until it thickens slightly and reaches 170°f.",
+    "remove the saucepan from the heat and stir in the egg yolks, matcha powder, and melted butter, whisking until well combined.",
+    "let the mixture cool slightly, then stir in the diced chicken, chopped cilantro, lime juice, and red pepper flakes.",
+    "pour the mixture into 8-10 small ramekins or custard cups.",
+    "place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "bake in a preheated oven at 350°f for 25-30 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "remove the ramekins from the water bath and let cool to room temperature.",
+    "cover and refrigerate for at least 2 hours, or until chilled and set."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "flan",
+    "green-tea",
+    "japan",
+    "matcha",
+    "mexican",
+    "robatayaki"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "intense-icy-mexican-chicken-green-matcha-flan",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-icy-mexican-chicken-green-matcha-flan",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:25:37Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "robata-grill",
+    "primaryIngredient": "matcha",
+    "diet": "macrobiotic",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Intense Icy",
+    "dishForm": "Green Matcha Flan"
+  }
+}
