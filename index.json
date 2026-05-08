@@ -1533,6 +1533,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-fluffy-venezuelan-beef-kidney-stew",
+    "title": "Venezuelan Beef Kidney Stew",
+    "tags": [
+      "beef-kidney",
+      "comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "hearty-stew",
+      "venezuelan-cuisine"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 110,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-french-beef-casserole",
     "title": "Indulgent French Beef Casserole",
     "tags": [
