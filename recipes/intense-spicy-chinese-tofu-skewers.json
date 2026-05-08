@@ -1,0 +1,102 @@
+{
+  "title": "Intense Spicy Chinese Tofu Skewers",
+  "description": "A satvik-friendly, spicy, and romantic Chinese dish featuring caster sugar and agemono-deep-fry, perfect for a special occasion.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "szechuan pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, rice vinegar, sesame oil, ginger paste, garlic paste, szechuan pepper, and red pepper flakes.",
+    "Add the tofu cubes to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated tofu cubes onto skewers, leaving a small space between each cube.",
+    "Sprinkle the caster sugar over the tofu cubes.",
+    "Place the skewers on the preheated raclette-grill and cook for 10-12 minutes, or until the tofu is golden brown and crispy.",
+    "Brush the skewers with the remaining marinade during the last 2 minutes of cooking.",
+    "Remove the skewers from the grill and garnish with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "romantic-dinner",
+    "special-occasion",
+    "spicy-food",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "intense-spicy-chinese-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-spicy-chinese-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:12:04Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "caster sugar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "Intense Spicy",
+    "dishForm": "Skewers"
+  }
+}
