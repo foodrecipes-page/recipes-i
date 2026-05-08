@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Caramelized Japanese Oysters Noodles",
+  "description": "A funky and shattering Japanese dish from Shikoku featuring caramelized oysters, perfect for a hangover cure, and vegetarian friendly by substituting traditional ingredients with vegetarian alternatives.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese noodles",
+      "amount": "200g",
+      "notes": "preferably soba or udon"
+    },
+    {
+      "name": "oyster mushrooms",
+      "amount": "300g",
+      "notes": "or other vegetarian oyster alternatives"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon",
+      "notes": "or dry white wine"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the noodles according to the package instructions.",
+    "In a large skillet, heat the vegetable oil over medium heat and add the oyster mushrooms, cooking until they release their liquid and start to brown.",
+    "Add the soy sauce, sake, mirin, and sugar to the skillet, stirring to combine, and cook for 2-3 minutes or until the sauce is caramelized and the mushrooms are coated.",
+    "Drain the noodles and add them to the skillet, tossing to combine with the mushrooms and sauce.",
+    "Transfer the noodles to a serving dish and top with green onions, sesame seeds, and grated daikon if using.",
+    "Serve immediately and enjoy.",
+    "To enhance the caramelization, broil the noodles in the oven for an additional 2-3 minutes, watching carefully to prevent burning.",
+    "Garnish with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "hangover-cure",
+    "japanese-cuisine",
+    "noodle-dish",
+    "shikoku-specialty",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "intensely-caramelized-japanese-oysters-noodles",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-caramelized-japanese-oysters-noodles",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T07:46:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "caramelize",
+    "primaryIngredient": "oysters",
+    "diet": "vegetarian",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "oysters",
+    "descriptor": "Intensely caramelized",
+    "dishForm": "Noodles"
+  }
+}
