@@ -1,0 +1,101 @@
+{
+  "title": "Intense Velvety Russian Natto Pilaf",
+  "description": "A weeknight Russian dish featuring natto, with a herbal and velvety texture, made with flambe technique, and is onion and garlic free.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "natto",
+      "amount": "1 cup",
+      "notes": "Japanese fermented soybeans"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "uncooked white or brown"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vodka",
+      "amount": "1 tablespoon",
+      "notes": "for flambe"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the carrots and cook for 5 minutes, stirring occasionally.",
+    "Add the thyme and parsley, and cook for 1 minute.",
+    "Add the natto and cook, stirring constantly, for 2 minutes.",
+    "Add the rice and stir to combine with the natto and vegetables.",
+    "Add the vegetable broth, bring to a boil, then reduce the heat to low and cover the skillet.",
+    "Simmer for 20 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Remove the skillet from the heat and add the vodka.",
+    "Ignite the vodka with a match or lighter, and let it flambe for 30 seconds.",
+    "Serve the pilaf hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "russian-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "intense-velvety-russian-natto-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-velvety-russian-natto-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:59:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "flambe",
+    "primaryIngredient": "natto",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "natto",
+    "descriptor": "intense velvety",
+    "dishForm": "Pilaf"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Intensely Tangy Korean Cheese Bokkeum",
+  "description": "A tangy and fluffy Korean dish featuring cheddar cheese, this ovo-vegetarian friendly Bokkeum is perfect for a quick and energizing meal. It combines the richness of cheese with the brightness of Korean chili flakes.",
+  "cuisine": "Korean",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup shredded",
+      "notes": "sharp or extra sharp work best"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large beaten"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until it starts to soften, about 3 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add the Korean chili flakes, salt, and black pepper, and stir to combine.",
+    "Pour in the beaten eggs and scramble them until they are almost set.",
+    "Add the shredded cheddar cheese and stir until it is fully melted and the eggs are cooked through.",
+    "Remove the skillet from the heat and let it cool for a minute.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "one-pan",
+    "ovo-vegetarian",
+    "quick-meal",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "intensely-tangy-korean-cheese-bokkeum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-tangy-korean-cheese-bokkeum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:59:46Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cheese",
+    "descriptor": "Intensely tangy",
+    "dishForm": "Bokkeum"
+  }
+}

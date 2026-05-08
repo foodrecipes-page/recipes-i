@@ -6212,6 +6212,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-velvety-russian-natto-pilaf",
+    "title": "Intense Velvety Russian Natto Pilaf",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "russian-cuisine",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "intense-venezuelan-avocado-salad",
     "title": "Intense Venezuelan Avocado Salad",
     "tags": [
@@ -9147,6 +9161,20 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-tangy-korean-cheese-bokkeum",
+    "title": "Intensely Tangy Korean Cheese Bokkeum",
+    "tags": [
+      "korean-cuisine",
+      "one-pan",
+      "ovo-vegetarian",
+      "quick-meal",
+      "spicy-food"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
