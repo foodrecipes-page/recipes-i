@@ -1,0 +1,64 @@
+{
+  "title": "Indulgent Spicy Polish Wrap",
+  "description": "A spicy, springy, and indulgent Polish dish wrapped in a corn husk wrapper. Serve with your favorite sides for a filling meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio for juiciness"
+    }
+  ],
+  "instructions": [
+    "Blanch 4 corn husks in boiling water for 2 minutes to make pliable.",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat. Add 1 minced onion and 2 cloves of minced garlic and cook until the onion is translucent.",
+    "Add 1 teaspoon of caraway seeds and 1 teaspoon of ground cumin to the skillet and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add 1 pound of ground pork to the skillet, breaking it up with a spoon as it cooks, until it's no longer pink.",
+    "Add 1 cup of chopped cabbage and 1 cup of chopped bell pepper to the skillet and cook until the vegetables are slightly tender.",
+    "Season the mixture with salt and pepper to taste.",
+    "To assemble the wraps, lay a corn husk flat on a work surface. Spoon 1/2 cup of the pork and vegetable mixture onto the center of the corn husk, leaving a 1-inch border on either side.",
+    "Fold the sides of the corn husk over the filling, then fold the top down to create a compact bundle.",
+    "Repeat with the remaining ingredients to make 4-6 wraps, depending on serving size."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 33,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "indulgent-spicy-polish-polish-dish-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-spicy-polish-polish-dish-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:36:53Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "cumin",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Polish dish",
+    "descriptor": "Indulgent Spicy",
+    "dishForm": "Wrap"
+  }
+}
