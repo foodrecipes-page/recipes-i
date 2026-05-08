@@ -1,0 +1,93 @@
+{
+  "title": "Incredibly Light American Cod Grill",
+  "description": "A light and briny American dish featuring cod, perfect for a quick dinner, this recipe is plant-based friendly and cooked to perfection in a cast-iron skillet.",
+  "cuisine": "American",
+  "diet": [
+    "pescatarian",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 6-oz fillets",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the cast-iron skillet over medium-high heat.",
+    "Season the cod fillets with salt, pepper, garlic powder, and paprika.",
+    "Add the olive oil to the preheated skillet and swirl it around.",
+    "Place the cod fillets in the skillet, skin side up if they have skin.",
+    "Sear the cod for 3-4 minutes on the first side.",
+    "Flip the cod over and sear for an additional 3-4 minutes.",
+    "Remove the cod from the skillet and place it on a plate.",
+    "Squeeze the lemon juice over the cod and sprinkle with chopped parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "low-carb",
+    "one-pan",
+    "quick-dinner",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "incredibly-light-american-cod-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-light-american-cod-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:54:03Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "light",
+    "technique": "grill",
+    "primaryIngredient": "cod",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cod",
+    "descriptor": "incredibly light",
+    "dishForm": "Grill"
+  }
+}
