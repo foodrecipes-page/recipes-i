@@ -1,0 +1,108 @@
+{
+  "title": "Intense Earthy Brazilian Russet Potato Hash",
+  "description": "A hearty solo dinner dish featuring russet potatoes, pickle, and high protein ingredients, showcasing earthy and molten flavors of Brazilian cuisine",
+  "cuisine": "Brazilian",
+  "diet": [
+    "high protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "chicken sausage",
+      "amount": "1 link",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black beans",
+      "amount": "1/2 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine diced potatoes, chopped onion, and minced garlic, and toss with olive oil, salt, and pepper until they are evenly coated.",
+    "Spread the potato mixture on a baking sheet and roast in the oven for 20 minutes, or until the potatoes are tender and lightly browned.",
+    "While the potatoes are roasting, cook the sliced chicken sausage in a large skillet over medium heat, breaking it up with a spoon as it cooks, until it is no longer pink, about 5-7 minutes.",
+    "Add the chopped pickle, cooked black beans, and roasted potato mixture to the skillet with the chicken sausage, and stir to combine.",
+    "Make a well in the center of the potato mixture and pour in the beaten egg, scrambling it into the potatoes as it cooks.",
+    "Continue cooking the potato mixture for an additional 2-3 minutes, stirring constantly, until the egg is fully cooked and the mixture is heated through.",
+    "Serve the intense earthy Brazilian russet potato hash hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "potato-hash",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intense-earthy-brazilian-russet-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-earthy-brazilian-russet-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:03:50Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "pickle",
+    "primaryIngredient": "russet potato",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "russet potato",
+    "descriptor": "intense earthy",
+    "dishForm": "Hash"
+  }
+}
