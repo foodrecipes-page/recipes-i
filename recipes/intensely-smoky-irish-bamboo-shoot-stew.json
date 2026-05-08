@@ -1,0 +1,100 @@
+{
+  "title": "Intensely Smoky Irish Bamboo Shoot Stew",
+  "description": "This earthy and silky stew features bamboo shoots in a light Irish dish with a smoky flavor, perfect for those looking for a sugar-free friendly meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 pound",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Smoked bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, cook the smoked bacon over medium heat until crispy.",
+    "Remove the bacon from the pot and set aside, leaving the grease behind.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the bamboo shoots, chicken broth, thyme, salt, and black pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the cooked bacon back into the pot and stir to combine.",
+    "Serve the stew hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-shoots",
+    "gluten-free",
+    "irish-cuisine",
+    "one-pot",
+    "smoky-flavors",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "intensely-smoky-irish-bamboo-shoot-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-irish-bamboo-shoot-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:55:50Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "bamboo shoot",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "bamboo shoot",
+    "descriptor": "intensely smoky",
+    "dishForm": "Stew"
+  }
+}

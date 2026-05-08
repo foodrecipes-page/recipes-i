@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Savory Russian Beef Skewers",
+  "description": "A post-workout Russian dish featuring cultured creme fraiche and shio cure, with a jammy and snappy texture, this recipe is low glycemic friendly and perfect for a quick dinner",
+  "cuisine": "Russian",
+  "diet": [
+    "low-carb",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "cultured creme fraiche",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shio cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat",
+    "In a large bowl, whisk together creme fraiche, shio cure, olive oil, garlic, paprika, salt, and black pepper",
+    "Add the beef strips to the bowl and toss to coat with the marinade",
+    "Thread the beef strips onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 8 minutes per side, or until the beef is cooked to the desired level of doneness",
+    "While the skewers are cooking, grill the chopped onion for 2 minutes per side, or until slightly charred",
+    "Once the skewers are done, let them rest for 2 minutes before serving",
+    "Serve the skewers with the grilled onion and a sprinkle of chopped parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "grilled-meats",
+    "high-protein",
+    "low-carb",
+    "post-workout",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "intensely-savory-russian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-savory-russian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:55:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "shio-cure",
+    "primaryIngredient": "cultured-creme-fraiche",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "intensely savory",
+    "dishForm": "Skewers"
+  }
+}

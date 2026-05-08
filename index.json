@@ -6899,6 +6899,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-savory-russian-beef-skewers",
+    "title": "Intensely Savory Russian Beef Skewers",
+    "tags": [
+      "dinner-ideas",
+      "grilled-meats",
+      "high-protein",
+      "low-carb",
+      "post-workout",
+      "russian-cuisine"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-savory-saudi-arabian-beef-stew",
     "title": "Intensely Savory Saudi Arabian Beef Stew",
     "tags": [
@@ -7107,6 +7122,21 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-smoky-irish-bamboo-shoot-stew",
+    "title": "Intensely Smoky Irish Bamboo Shoot Stew",
+    "tags": [
+      "bamboo-shoots",
+      "gluten-free",
+      "irish-cuisine",
+      "one-pot",
+      "smoky-flavors",
+      "sugar-free"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
