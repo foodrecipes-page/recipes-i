@@ -1197,6 +1197,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-briny-polish-broccoli-pilaf",
+    "title": "indulgent briny polish broccoli pilaf",
+    "tags": [
+      "gluten-free",
+      "jain",
+      "one-pan",
+      "spring",
+      "vegetarian"
+    ],
+    "cuisine": "polish",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-british-apple-pie-and-mash",
     "title": "Indulgent British Apple Pie And Mash",
     "tags": [
@@ -8351,6 +8365,22 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-indian-potatoes-bake",
+    "title": "Intensely Savory Indian Potatoes Bake",
+    "tags": [
+      "indian-food",
+      "lacto-vegetarian",
+      "lazy-sunday",
+      "one-pan",
+      "savory",
+      "truffle-oil",
+      "wood-fired"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 65,
     "shard": "i"
   },
   {

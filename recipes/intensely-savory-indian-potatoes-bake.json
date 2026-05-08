@@ -1,0 +1,101 @@
+{
+  "title": "Intensely Savory Indian Potatoes Bake",
+  "description": "A sour and shaggy lacto-vegetarian Indian dish featuring truffle oil, perfect for a lazy Sunday, wood-fired-baked to perfection.",
+  "cuisine": "Indian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "truffle oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together yogurt, lemon juice, garam masala, cumin seeds, coriander powder, salt, and pepper.",
+    "Add the sliced potatoes to the bowl and toss to coat with the yogurt mixture.",
+    "Line a baking sheet with parchment paper and arrange the potato slices in a single layer.",
+    "Drizzle the truffle oil over the potatoes and sprinkle with chopped cilantro.",
+    "Bake the potatoes in the preheated wood-fired oven for 45 minutes, or until they are tender and lightly browned.",
+    "Remove the potatoes from the oven and let them cool for a few minutes before serving.",
+    "Serve the intensely savory Indian potatoes bake hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-food",
+    "lacto-vegetarian",
+    "lazy-sunday",
+    "one-pan",
+    "savory",
+    "truffle-oil",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "intensely-savory-indian-potatoes-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-savory-indian-potatoes-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:30:34Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "truffle oil",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Intensely savory",
+    "dishForm": "Bake"
+  }
+}

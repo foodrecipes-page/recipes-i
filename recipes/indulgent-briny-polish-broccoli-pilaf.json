@@ -1,0 +1,93 @@
+{
+  "title": "indulgent briny polish broccoli pilaf",
+  "description": "a hearty, spring-inspired polish dish featuring vibrant purple sprouting broccoli and a rich, briny sauce, adapted for a jain-friendly kitchen",
+  "cuisine": "polish",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cashews",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "in a medium saucepan, toast the cashews over low heat for 5 minutes, stirring frequently",
+    "in a large saucepan, bring 2 cups of water to a boil, then add the quinoa and reduce heat to low, simmering for 15 minutes or until the water is absorbed",
+    "in a blender or food processor, combine the lemon juice, apple cider vinegar, garlic, and dill, blending until smooth",
+    "in a large skillet, heat the olive oil over medium heat, then add the broccoli and cook for 5 minutes, stirring occasionally",
+    "add the toasted cashews to the skillet with the broccoli, cooking for an additional 2 minutes",
+    "stir in the quinoa, garlic-dill sauce, and salt, then serve warm",
+    "garnish with extra dill and lemon wedges, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "jain",
+    "one-pan",
+    "spring",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "indulgent-briny-polish-broccoli-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-briny-polish-broccoli-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:29:44Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "brine-dry",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Broccoli",
+    "descriptor": "Indulgent Briny",
+    "dishForm": "Pilaf"
+  }
+}
