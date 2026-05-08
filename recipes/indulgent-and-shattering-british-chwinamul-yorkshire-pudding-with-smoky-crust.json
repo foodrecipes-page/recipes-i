@@ -1,0 +1,109 @@
+{
+  "title": "Indulgent and Shattering British Chwinamul Yorkshire-Pudding with Smoky Crust",
+  "description": "This rich, citrusy, and fragrant British dish is a unique twist on traditional Yorkshire pudding, featuring chwinamul and a smoky crust.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "1 cup, chopped",
+      "notes": "Ayurvedic-rajasic-friendly alternative to traditional Yorkshire pudding ingredient"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the crust and adding smokiness"
+    },
+    {
+      "name": "cold-pressed rapeseed oil",
+      "amount": "1 tablespoon",
+      "notes": "for adding smokiness and depth"
+    },
+    {
+      "name": "citrus zest",
+      "amount": "zest of 1 lemon, finely chopped",
+      "notes": "for added citrus flavor"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": "for added depth and smokiness"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "for added smokiness and depth"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large mixing bowl, whisk together flour, eggs, whole milk, water, sunflower oil, cold-pressed rapeseed oil, citrus zest, sea salt, and smoked paprika until smooth.",
+    "Add the chopped chwinamul to the mixture and gently fold in.",
+    "Pour the mixture into a greased 12-cup muffin tin.",
+    "Bake in the preheated oven for 20-25 minutes, or until puffed and golden brown.",
+    "Remove from the oven and let cool in the tin for 5 minutes.",
+    "Transfer the Yorkshire puddings to a wire rack to cool completely.",
+    "To add the smoky crust, brush the tops of the Yorkshire puddings with sunflower oil and sprinkle with smoked paprika.",
+    "Return to the oven and bake for an additional 2-3 minutes, or until the crust is crispy and golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 22,
+  "totalTimeMin": 42,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "high-protein",
+    "indulgent",
+    "morning",
+    "smoky",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "indulgent-and-shattering-british-chwinamul-yorkshire-pudding-with-smoky-crust",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-and-shattering-british-chwinamul-yorkshire-pudding-with-smoky-crust",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:55:56Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "smoke-cold",
+    "primaryIngredient": "chwinamul",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chwinamul",
+    "descriptor": "Indulgent and Shattering",
+    "dishForm": "Yorkshire-Pudding with Smoky Crust"
+  }
+}
