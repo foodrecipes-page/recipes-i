@@ -1,0 +1,98 @@
+{
+  "title": "Innovative Crispy Australian Chocolate Chip Cookies",
+  "description": "These crispy cookies are a kid-friendly Australian dish featuring chocolate chips and a nutty flavor, made dairy-free-friendly and cooked to perfection in a raclette-grill, utilizing steam for a unique texture.",
+  "cuisine": "Australian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dairy-free butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chopped macadamia nuts",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to 375 degrees Fahrenheit, ensuring the steam function is enabled.",
+    "In a medium bowl, whisk together the flour, baking soda, and salt, then set aside.",
+    "In a large bowl, cream together the granulated sugar, brown sugar, and dairy-free butter until light and fluffy.",
+    "Beat in the vanilla extract until well combined.",
+    "Gradually mix in the flour mixture until just combined, being careful not to overmix.",
+    "Stir in the chocolate chips and chopped macadamia nuts, if using.",
+    "Scoop tablespoon-sized balls of dough onto the preheated raclette-grill, leaving about 2 inches of space between each cookie.",
+    "Close the grill and cook for 10-12 minutes, or until the edges are crispy and golden brown.",
+    "Remove the cookies from the grill and let cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "australian-dishes",
+    "crispy-cookies",
+    "dairy-free",
+    "kid-friendly",
+    "raclette-grill",
+    "steam-cooking"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "innovative-crispy-australian-chocolate-chip-cookies",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-crispy-australian-chocolate-chip-cookies",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:40:19Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "steam",
+    "primaryIngredient": "chocolate chips",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chocolate chips",
+    "descriptor": "innovative crispy",
+    "dishForm": "Cookies"
+  }
+}
