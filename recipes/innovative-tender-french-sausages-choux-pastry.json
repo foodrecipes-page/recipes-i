@@ -1,0 +1,102 @@
+{
+  "title": "Innovative Tender French Sausages Choux Pastry",
+  "description": "A plant-based-friendly, fermented French dish featuring Italian fennel sausages in a choux pastry, served in a bamboo tray. This cozy Lyon-inspired recipe is perfect for a dinner gathering.",
+  "cuisine": "French",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "4",
+      "notes": "plant-based sausages"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "egg replacement",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, salt, sugar, and yeast.",
+    "Add the vegan butter and water to the bowl, mixing until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Punch down the dough and roll it out into a large rectangle.",
+    "Place the Italian fennel sausages in the center of the dough, leaving a 1-inch border around them.",
+    "Brush the edges of the dough with the egg replacement and fold the dough over the sausages, pressing the edges to seal.",
+    "Place the pastry on a bamboo tray and bake for 25 minutes, or until golden brown.",
+    "Let the pastry cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-serving",
+    "comfort-food",
+    "french-cuisine",
+    "innovative-recipe",
+    "lyon-inspired",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "innovative-tender-french-sausages-choux-pastry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-tender-french-sausages-choux-pastry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:49:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "spherify",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "plant-based",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "sausages",
+    "descriptor": "Innovative Tender",
+    "dishForm": "Choux Pastry"
+  }
+}
