@@ -1,0 +1,102 @@
+{
+  "title": "Intriguing Earthy British Mushroom Pasta",
+  "description": "A hearty and earthy pasta dish featuring British mushrooms and ayurvedic-sattvic friendly ingredients, made with 00-flour and dehydrated mushrooms for added depth of flavor.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "00-flour",
+      "amount": "1 cup",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "dried porcini mushrooms",
+      "amount": "1/2 cup",
+      "notes": "dehydrated"
+    },
+    {
+      "name": "button mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Reconstitute the dried porcini mushrooms by soaking them in hot water for 20 minutes.",
+    "In a large mixing bowl, combine the 00-flour, reconstituted porcini mushrooms, and a pinch of salt.",
+    "Gradually add in the olive oil and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Roll out the dough into a thin sheet and cut into fettuccine-style noodles.",
+    "In a large skillet, saute the sliced button mushrooms and chopped onion in olive oil until they are tender.",
+    "Add the minced garlic and dried thyme to the skillet and cook for an additional 2 minutes.",
+    "Combine the cooked noodles and mushroom mixture, and season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "british-cuisine",
+    "earth-friendly",
+    "mushroom-based",
+    "pasta-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "intriguing-earthy-british-mushroom-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intriguing-earthy-british-mushroom-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:43:17Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "dehydrate",
+    "primaryIngredient": "00-flour",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Intriguing earthy",
+    "dishForm": "Pasta"
+  }
+}
