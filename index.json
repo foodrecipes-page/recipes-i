@@ -6544,6 +6544,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-flaky-american-wensleydale-pie",
+    "title": "Intensely Flaky American Wensleydale Pie",
+    "tags": [
+      "american-classics",
+      "cheesy",
+      "date-night",
+      "flaky-crust",
+      "low-carb",
+      "sugar-free"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-flaky-croatian-masarepa-paella",
     "title": "Croatian Masarepa Paella",
     "tags": [
@@ -7491,6 +7506,20 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 27,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-greek-broccoli-gigantes-plaki",
+    "title": "Intensely Savory Greek Broccoli Gigantes Plaki",
+    "tags": [
+      "comfort-food",
+      "greek-cuisine",
+      "healthy",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {

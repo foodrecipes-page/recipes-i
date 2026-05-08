@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Flaky American Wensleydale Pie",
+  "description": "A sour and flaky pie perfect for a date night, featuring Wensleydale cheese and binchotan-charcoal for a unique flavor, and is sugar-free friendly.",
+  "cuisine": "American",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "binchotan-charcoal powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ice water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, binchotan-charcoal powder, and salt.",
+    "Add the cold butter to the bowl and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add the ice water to the bowl, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out into a circle that is about 1/8 inch thick.",
+    "Transfer the dough to a 9-inch pie dish and trim the edges to fit.",
+    "In a separate bowl, whisk together the Wensleydale cheese, egg, and black pepper.",
+    "Pour the cheese mixture into the pie crust and smooth the top.",
+    "Bake the pie for 40 minutes, or until the crust is golden brown and the filling is set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "cheesy",
+    "date-night",
+    "flaky-crust",
+    "low-carb",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "intensely-flaky-american-wensleydale-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flaky-american-wensleydale-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:34:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "wensleydale",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Wensleydale",
+    "descriptor": "Intensely Flaky",
+    "dishForm": "Pie"
+  }
+}
