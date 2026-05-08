@@ -1,0 +1,100 @@
+{
+  "title": "Incredibly Crunchy Peruvian Ume Plum Causa Limena",
+  "description": "A plant-based Peruvian dish featuring ume plum, crunchy texture, and herbal flavors, perfect for a solo dinner",
+  "cuisine": "Peruvian",
+  "diet": [
+    "plant-based",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ume plum",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "yellow potato",
+      "amount": "1 large",
+      "notes": "boiled and mashed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ají amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a blender, combine lime juice, olive oil, ají amarillo pepper, garlic, salt, and black pepper to make the mantecare emulsify",
+    "In a large bowl, mix together the mashed yellow potato, chopped cilantro, and sliced ume plum",
+    "Add the mantecare emulsify to the potato mixture and stir until well combined",
+    "Spoon the mixture into a baking dish and smooth the top",
+    "Bake for 20 minutes or until the top is lightly browned",
+    "Remove from the oven and let cool for a few minutes",
+    "Serve warm and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-texture",
+    "herbal-flavors",
+    "one-dish",
+    "peruvian-cuisine",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "incredibly-crunchy-peruvian-ume-plum-causa-limena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-crunchy-peruvian-ume-plum-causa-limena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:48:05Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "ume-plum",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "ume plum",
+    "descriptor": "Incredibly crunchy",
+    "dishForm": "Causa Limena"
+  }
+}
