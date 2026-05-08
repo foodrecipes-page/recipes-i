@@ -1,0 +1,94 @@
+{
+  "title": "Innovative Buttery Mediterranean Christmas Pudding Fritters",
+  "description": "Buttery and shaggy Mediterranean fritters filled with Christmas pudding, deep-fried to perfection in an iron teppan, Whole30-friendly and perfect for the holiday season",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Christmas pudding",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together almond flour, coconut sugar, and sea salt.",
+    "In a separate bowl, whisk together eggs, melted ghee, lemon zest, and orange zest.",
+    "Add the crumbled Christmas pudding to the egg mixture and stir until well combined.",
+    "Add the wet ingredients to the dry ingredients and stir until a shaggy dough forms.",
+    "Heat the iron teppan over medium-high heat and add about 1-2 inches of ghee.",
+    "Using a cookie scoop, drop the dough into the hot ghee, making sure not to overcrowd the teppan.",
+    "Fry the fritters for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "christmas",
+    "deep-fried",
+    "gluten-free",
+    "holiday",
+    "mediterranean",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "innovative-buttery-mediterranean-christmas-pudding-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-buttery-mediterranean-christmas-pudding-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:35:28Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "christmas pudding",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Christmas Pudding",
+    "descriptor": "Innovative Buttery",
+    "dishForm": "Fritters"
+  }
+}
