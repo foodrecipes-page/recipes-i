@@ -1,0 +1,94 @@
+{
+  "title": "Intensely Juicy Saudi Arabian Lamb Kebabs",
+  "description": "A nostalgic Saudi Arabian dish featuring fatty and juicy lamb, this recipe is a must try for anyone looking for a flavorful and aromatic meal. The use of mustard powder and katsuramuki-cut lamb makes this dish truly unique.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "fatty cut, katsuramuki-cut"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, making sure it reaches a safe internal temperature of 165 degrees Fahrenheit.",
+    "In a large bowl, whisk together mustard powder, salt, black pepper, cumin powder, and coriander powder.",
+    "Add the katsuramuki-cut lamb to the bowl and toss to coat evenly with the spice mixture.",
+    "Thread the lamb onto skewers, leaving a small space between each piece.",
+    "Brush the lamb with lemon juice and olive oil.",
+    "Grill the lamb for 8-10 minutes per side, or until it reaches a safe internal temperature of 145 degrees Fahrenheit.",
+    "Let the lamb rest for 5 minutes before serving.",
+    "Serve the lamb kebabs hot, garnished with fresh parsley or cilantro.",
+    "Traditionally, Saudi Arabian lamb kebabs are served with a side of rice or flatbread.",
+    "To make the dish more substantial, serve with a side of roasted vegetables or a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "grilled-meats",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "intensely-juicy-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-juicy-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:54:45Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "mustard powder",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "intensely juicy",
+    "dishForm": "Kebabs"
+  }
+}
