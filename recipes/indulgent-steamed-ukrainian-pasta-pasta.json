@@ -1,0 +1,108 @@
+{
+  "title": "Indulgent Steamed Ukrainian Pasta",
+  "description": "A comforting, low-glycemic Ukrainian dish featuring a shaggy, steamed pasta, perfect for a lazy Sunday.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buckwheat Egg Noodles",
+      "amount": "8 ounces",
+      "notes": "preferably homemade or store-bought buckwheat egg noodles"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Furikake",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mascarpone Cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "White Cheddar Cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine 4 cups of water and 1 tablespoon of butter in a large pot and bring to a boil.",
+    "Reduce heat and add 8 ounces of buckwheat egg noodles, cover, and steam for 8 minutes.",
+    "While the noodles are cooking, sauté diced onion in a small pan with 1 tablespoon of butter until softened.",
+    "In a separate bowl, whip heavy cream until it forms stiff peaks, then set aside.",
+    "Melt 8 ounces of white cheddar cheese in the microwave, then mix with 8 ounces of mascarpone cheese.",
+    "Add the softened onion mixture to the cheese mixture and stir until well combined.",
+    "Once the noodles are cooked, remove from heat and let cool for 1 minute.",
+    "Add the whipped cream on top of the noodles, followed by the cheese and onion mixture.",
+    "Sprinkle with furikake if desired, and season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "eastern-european",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "indulgent-steamed-ukrainian-pasta-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-steamed-ukrainian-pasta-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T19:41:47Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "strong white flour",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Pasta",
+    "descriptor": "Indulgent Steamed",
+    "dishForm": "Pasta"
+  }
+}

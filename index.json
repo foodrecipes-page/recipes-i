@@ -3066,6 +3066,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-steamed-ukrainian-pasta-pasta",
+    "title": "Indulgent Steamed Ukrainian Pasta",
+    "tags": [
+      "comfort-food",
+      "eastern-european",
+      "gluten-free",
+      "low-carb",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Eastern European",
+    "totalTimeMin": 20,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-sweet-middle-eastern-toffee-popcorn-poached-grain",
     "title": "Middle Eastern Toffee Popcorn Poached Grain",
     "tags": [
@@ -8086,6 +8102,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 510,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-smoky-greek-lamb-kebabs",
+    "title": "Intensely Smoky Greek Lamb Kebabs",
+    "tags": [
+      "greek-food",
+      "high-protein",
+      "lamb-recipes",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 32,
     "shard": "i"
   },
   {
