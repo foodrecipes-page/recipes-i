@@ -1,0 +1,94 @@
+{
+  "title": "Innovative Crisp Jamaican Coconut Dumplings",
+  "description": "A yeasty and adventurous Jamaican dish featuring nuts and coconut, perfect for a snack or dessert, this egg-free friendly treat is served on a lazy-susan-spinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "rapid rise"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, coconut flakes, yeast, sugar, and salt.",
+    "In a separate bowl, mix together coconut oil and water.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Cover the dough with a damp cloth and let it rise in a warm place for 1 hour.",
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Once the oil is hot, drop the dough by tablespoonfuls into the oil and fry until golden brown.",
+    "Remove the dumplings from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Sprinkle the dumplings with chopped pecans and serve warm on a lazy-susan-spinner."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "fried-dough",
+    "jamaican-cuisine",
+    "snack-time",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "innovative-crisp-jamaican-coconut-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-crisp-jamaican-coconut-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:45:44Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "dum",
+    "primaryIngredient": "nuts",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "coconut",
+    "descriptor": "Innovative Crisp",
+    "dishForm": "Dumplings"
+  }
+}
