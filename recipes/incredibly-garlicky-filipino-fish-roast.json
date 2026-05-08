@@ -1,0 +1,92 @@
+{
+  "title": "Incredibly Garlicky Filipino Fish Roast",
+  "description": "A festive Filipino dish featuring roasted fish with a garlicky almond crust, perfect for special occasions.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "milkfish",
+      "amount": "1 1/2 pounds",
+      "notes": "or other white fish"
+    },
+    {
+      "name": "garlic",
+      "amount": "12 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the fish and pat it dry with paper towels.",
+    "In a blender or food processor, combine garlic, almonds, lemon juice, olive oil, salt, black pepper, and paprika, and blend until well combined.",
+    "Place the fish in a roasting pan and brush the garlic almond mixture evenly over both sides of the fish.",
+    "Roast the fish in the preheated oven for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Remove the fish from the oven and let it rest for 5 minutes before serving.",
+    "Slice the fish into serving portions and garnish with sliced almonds and lemon wedges.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "garlic-lovers",
+    "pescatarian-friendly",
+    "roasted-fish",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "incredibly-garlicky-filipino-fish-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-garlicky-filipino-fish-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:47:27Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "almonds",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "fish",
+    "descriptor": "Incredibly garlicky",
+    "dishForm": "Roast"
+  }
+}

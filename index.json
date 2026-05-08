@@ -753,6 +753,20 @@
     "shard": "i"
   },
   {
+    "slug": "incredibly-garlicky-filipino-fish-roast",
+    "title": "Incredibly Garlicky Filipino Fish Roast",
+    "tags": [
+      "filipino-cuisine",
+      "garlic-lovers",
+      "pescatarian-friendly",
+      "roasted-fish",
+      "special-occasion"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
     "slug": "incredibly-jammy-ukrainian-potato-dumplings",
     "title": "Incredibly Jammy Ukrainian Potato Dumplings",
     "tags": [
