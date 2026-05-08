@@ -1,0 +1,115 @@
+{
+  "title": "indulgent silky i greek lamb stifado",
+  "description": "a rich, show-off stifado made with lamb, cumin seeds, and a silky pasta-water emulsion. this greek dish is keto-friendly and sure to impress.",
+  "cuisine": "greek",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "pasta",
+      "amount": "1 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup",
+      "notes": "heavy"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat oil in a wok over medium-high heat.",
+    "add the lamb and sear until browned, about 5 minutes.",
+    "add the onion and garlic and cook until softened, about 5 minutes.",
+    "add the allspice, cinnamon, cumin seeds, and red wine. stir to combine.",
+    "add the beef broth and tomato paste. bring to a boil and then reduce the heat to low and simmer for 10 minutes.",
+    "stir in the cooked pasta and cook for 2 minutes.",
+    "stir in the cream and cook for 1 minute.",
+    "season with salt and pepper to taste.",
+    "garnish with parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "greek-cuisine",
+    "high-protein",
+    "keto-friendly",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "indulgent-silky-i-greek-lamb-stifado",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-silky-i-greek-lamb-stifado",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:50:09Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "cumin seeds",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Indulgent Silky i",
+    "dishForm": "Stifado"
+  }
+}
