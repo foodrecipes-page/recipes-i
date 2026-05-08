@@ -1,0 +1,94 @@
+{
+  "title": "Intensely Smoky Norwegian Oatmeal Bake",
+  "description": "A smoky and molten Norwegian dish featuring oatmeal, perfect for a date night, with a unique flavor from kombu cold extract, and onion and garlic free, served on a wooden board.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the oats, kombu cold extract, smoked salmon, brown sugar, and smoked paprika.",
+    "In a separate bowl, whisk together the melted butter and eggs.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the edges are golden brown.",
+    "Remove from the oven and sprinkle with sea salt.",
+    "Let it cool for a few minutes before serving on a wooden board."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "norwegian",
+    "oatmeal-bake",
+    "seafood",
+    "smoky",
+    "wooden-board"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "intensely-smoky-norwegian-oatmeal-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-norwegian-oatmeal-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:00:16Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "oatmeal",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "oatmeal",
+    "descriptor": "intensely smoky",
+    "dishForm": "Bake"
+  }
+}

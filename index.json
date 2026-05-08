@@ -1103,6 +1103,23 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-crunchy-venezuelan-shrimp-empanadas",
+    "title": "indulgent crunchy venezuelan shrimp empanadas",
+    "tags": [
+      "crunchy",
+      "gluten-free",
+      "indulgent",
+      "keto",
+      "latin",
+      "one-pan",
+      "seafood",
+      "venezuelan"
+    ],
+    "cuisine": "venezuelanlatin",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-dutch-leek-pastry",
     "title": "indulgent dutch leek pastry",
     "tags": [
@@ -6047,6 +6064,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-smoky-norwegian-oatmeal-bake",
+    "title": "Intensely Smoky Norwegian Oatmeal Bake",
+    "tags": [
+      "date-night",
+      "norwegian",
+      "oatmeal-bake",
+      "seafood",
+      "smoky",
+      "wooden-board"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
