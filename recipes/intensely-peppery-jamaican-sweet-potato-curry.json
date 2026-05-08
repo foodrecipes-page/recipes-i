@@ -1,0 +1,105 @@
+{
+  "title": "Intensely Peppery Jamaican Sweet Potato Curry",
+  "description": "A rich and aromatic lacto-vegetarian curry featuring sweet potatoes, Jamaican seasonings, and a spicy kick, perfect for a monsoon evening",
+  "cuisine": "Jamaican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and render the lardons until crispy",
+    "Remove the lardons from the pan and set aside",
+    "Add the chopped onion to the pan and saute until softened",
+    "Add the diced scotch bonnet peppers to the pan and saute for an additional minute",
+    "Add the curry powder to the pan and stir to combine",
+    "Add the diced sweet potatoes to the pan and stir to combine with the curry powder mixture",
+    "Pour in the coconut milk and bring the mixture to a simmer",
+    "Reduce the heat to low and let the curry simmer for 20 minutes or until the sweet potatoes are tender",
+    "Season the curry with salt and black pepper to taste",
+    "Garnish with chopped cilantro and crispy lardons"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "jamaican-cuisine",
+    "lacto-vegetarian",
+    "monsoon-food",
+    "peppery",
+    "sweet-potatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intensely-peppery-jamaican-sweet-potato-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-peppery-jamaican-sweet-potato-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:54:25Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "lardons-render",
+    "primaryIngredient": "seasoning",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "intensely peppery",
+    "dishForm": "Curry"
+  }
+}

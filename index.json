@@ -346,6 +346,21 @@
     "shard": "i"
   },
   {
+    "slug": "icy-intense-ukrainian-clams-bisque",
+    "title": "Icy Intense Ukrainian Clams Bisque",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "low-carb",
+      "seafood",
+      "sugar-free",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "icy-jamaican-codfish-fritters",
     "title": "icy jamaican codfish fritters",
     "tags": [
@@ -6964,6 +6979,21 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-peppery-jamaican-sweet-potato-curry",
+    "title": "Intensely Peppery Jamaican Sweet Potato Curry",
+    "tags": [
+      "curry",
+      "jamaican-cuisine",
+      "lacto-vegetarian",
+      "monsoon-food",
+      "peppery",
+      "sweet-potatoes"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
