@@ -1,0 +1,95 @@
+{
+  "title": "Indulgent British Uni Skillet",
+  "description": "A rich and buttery British dish featuring uni, perfect for a special occasion, made in a cast-iron skillet.",
+  "cuisine": "British",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uni",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large cast-iron skillet, melt 2 tablespoons of butter over medium heat.",
+    "Add the smoked salmon slices and cook for 2 minutes on each side.",
+    "Remove the salmon from the skillet and set aside.",
+    "Add the remaining 2 tablespoons of butter to the skillet and stir in the uni.",
+    "Pour in the eggs and scramble them gently with a whisk.",
+    "Add the cherry tomatoes, salt, and black pepper to the skillet and stir to combine.",
+    "Return the salmon to the skillet and sprinkle with chopped parsley.",
+    "Transfer the skillet to the preheated oven and bake for 10 minutes.",
+    "Remove the skillet from the oven and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "indulgent",
+    "one-pan",
+    "rich",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "indulgent-british-uni-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-british-uni-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:54:43Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "whisk",
+    "primaryIngredient": "uni",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "uni",
+    "descriptor": "indulgent buttery",
+    "dishForm": "Skillet"
+  }
+}
