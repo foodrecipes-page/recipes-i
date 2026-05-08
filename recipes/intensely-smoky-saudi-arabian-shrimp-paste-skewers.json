@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Smoky Saudi Arabian Shrimp Paste Skewers",
+  "description": "A smoky, crunchy, and comforting Saudi Arabian dish featuring shrimp paste, this recipe is vegan-friendly and perfect for a snack or dinner, it is made by brine-drying the shrimp paste to give it a unique texture.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp paste",
+      "amount": "1 cup",
+      "notes": "make sure it is vegan-friendly"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the shrimp paste, smoked paprika, olive oil, lemon juice, garlic powder, onion powder, salt, and black pepper until well combined.",
+    "Thread small balls of the shrimp paste mixture onto the soaked wooden skewers, leaving a small space between each ball.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "Remove the skewers from the oven and let them cool for a few minutes.",
+    "Increase the oven temperature to 450 degrees Fahrenheit and bake the skewers for an additional 5 minutes, or until crispy and golden brown.",
+    "Remove the skewers from the oven and garnish with chopped fresh parsley.",
+    "Serve the skewers hot and enjoy.",
+    "To brine-dry the shrimp paste, mix 1 cup of water with 1 tablespoon of salt and stir until the salt is dissolved, then add the shrimp paste and let it sit for 30 minutes before rinsing and proceeding with the recipe."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brine-dry",
+    "crunchy",
+    "saudi-arabian",
+    "shrimp-paste",
+    "skewers",
+    "smoky",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "intensely-smoky-saudi-arabian-shrimp-paste-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-saudi-arabian-shrimp-paste-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:19:39Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "brine-dry",
+    "primaryIngredient": "shrimp paste",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "shrimp paste",
+    "descriptor": "intensely smoky",
+    "dishForm": "Skewers"
+  }
+}
