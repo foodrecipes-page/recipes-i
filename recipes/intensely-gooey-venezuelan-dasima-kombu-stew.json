@@ -1,0 +1,102 @@
+{
+  "title": "Intensely Gooey Venezuelan Dasima Kombu Stew",
+  "description": "A nutty and gooey Venezuelan dish featuring dasima kombu, perfect for curing hangovers, this stew is simmered to perfection in a copper mug and can be enjoyed raw or cooked.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "raw",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dasima kombu",
+      "amount": "2 cups",
+      "notes": "dried and cut into small pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large copper mug over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the dasima kombu, carrots, potatoes, tomato paste, vegetable broth, cumin, and paprika to the mug.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "one-pot",
+    "spicy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intensely-gooey-venezuelan-dasima-kombu-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-gooey-venezuelan-dasima-kombu-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:45:21Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "simmer",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "dasima kombu",
+    "descriptor": "intensely gooey",
+    "dishForm": "Stew"
+  }
+}

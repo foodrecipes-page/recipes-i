@@ -1,0 +1,92 @@
+{
+  "title": "Intense Spicy Vietnamese Kippers Bun Bo Hue",
+  "description": "A spicy and romantic Vietnamese dish featuring kippers, yuzu-cure, and raw-friendly ingredients, served in a fluffy bun bo hue form.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kippers",
+      "amount": "12 oz",
+      "notes": "cured in yuzu juice"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "spicy pork sausage",
+      "amount": "4 oz"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "lime leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chili sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large skillet, cook the spicy pork sausage over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the lemongrass and lime leaves to the skillet and cook for 1 minute, until fragrant.",
+    "Add the fish sauce and chili sauce to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and toss to combine with the sausage and sauce.",
+    "To assemble the dish, place a portion of the noodles and sausage into a bowl, then top with a kipper and a sprinkle of bean sprouts.",
+    "Serve immediately, garnished with additional lime leaves and lemongrass if desired.",
+    "Repeat the assembly process with the remaining ingredients.",
+    "Serve the dish hot, with additional chili sauce and fish sauce on the side for added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "noodle-dish",
+    "one-pot",
+    "seafood",
+    "spicy-food",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intense-spicy-vietnamese-kippers-bun-bo-hue",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-spicy-vietnamese-kippers-bun-bo-hue",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:45:17Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "kippers",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "kippers",
+    "descriptor": "Intense Spicy",
+    "dishForm": "Bun Bo Hue"
+  }
+}

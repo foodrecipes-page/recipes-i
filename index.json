@@ -4955,6 +4955,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-spicy-vietnamese-kippers-bun-bo-hue",
+    "title": "Intense Spicy Vietnamese Kippers Bun Bo Hue",
+    "tags": [
+      "noodle-dish",
+      "one-pot",
+      "seafood",
+      "spicy-food",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "intense-springy-french-beef-bowl",
     "title": "Intense Springy French Beef Bowl",
     "tags": [
@@ -5839,6 +5853,20 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 150,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-gooey-venezuelan-dasima-kombu-stew",
+    "title": "Intensely Gooey Venezuelan Dasima Kombu Stew",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "one-pot",
+      "spicy",
+      "vegan-friendly"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
