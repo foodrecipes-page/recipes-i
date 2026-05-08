@@ -1,0 +1,119 @@
+{
+  "title": "Intensely Spicy Thai Pork Tom Yum Soup",
+  "description": "A flavorful and spicy soup made with fresh ingredients and served with crusty bread for a delicious and quick Thai dish.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork, boneless",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Tom Yum paste",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Leek, thinly sliced",
+      "amount": "2",
+      "notes": "1 leek equals about 2 stalks"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can, full-fat, 14 oz",
+      "notes": ""
+    },
+    {
+      "name": "Bell peppers, sliced",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "Thai basil, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "1 baguette",
+      "notes": "for serving"
+    },
+    {
+      "name": "Tempering chocolate",
+      "amount": "1 oz",
+      "notes": "optional, for chocolatey flavor enhancement"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Sauté garlic and leek until softened.",
+    "Add Tom Yum paste and cook for 1 minute, stirring constantly.",
+    "Add pork, fish sauce, and lime juice, and stir to combine.",
+    "Add coconut milk and bring to a simmer.",
+    "Add bell peppers and cook until tender, about 5 minutes.",
+    "Stir in Thai basil and cook for 1 minute.",
+    "Serve soup with crusty bread and tempering chocolate on the side, if using."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "intensely-spicy-thai-pork-tom-yum-soup",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-spicy-thai-pork-tom-yum-soup",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:41:45Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "crusty bread",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pork",
+    "descriptor": "Intensely Spicy",
+    "dishForm": "Tom Yum Soup"
+  }
+}
