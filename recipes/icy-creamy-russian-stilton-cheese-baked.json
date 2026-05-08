@@ -1,0 +1,105 @@
+{
+  "title": "Icy Creamy Russian Stilton Cheese Bake",
+  "description": "A malty, creamy Russian dish featuring Stilton cheese, perfect for cold winter nights. Toast and cheese come together in this easy-to-make one-pot delight.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup Stilton cheese, crumbled",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "1 cup milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup honey",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup whole wheat breadcrumbs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "1/2 teaspoon paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups cubed whole wheat bread",
+      "amount": "",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "2 tablespoons chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large terracotta dish, combine the crumbled Stilton cheese, milk, honey, breadcrumbs, and butter.",
+    "Stir until the cheese is well coated with the milk and honey mixture.",
+    "Add the cubed bread to the cheese mixture and toss until the bread is evenly coated.",
+    "Season the bread mixture with black pepper and paprika.",
+    "Transfer the bread mixture to the preheated oven.",
+    "Bake for 25 minutes, or until the bread is toasted and the cheese is melted and bubbly.",
+    "Remove the dish from the oven and sprinkle with chopped parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "dinner-party",
+    "one-pan",
+    "russian-cuisine",
+    "winter-warmer"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "icy-creamy-russian-stilton-cheese-baked",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-creamy-russian-stilton-cheese-baked",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T23:13:04Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "toast",
+    "primaryIngredient": "stilton cheese",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "stilton cheese",
+    "descriptor": "Icy Creamy",
+    "dishForm": "Baked"
+  }
+}
