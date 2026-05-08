@@ -1,0 +1,112 @@
+{
+  "title": "Intricately Layered Greek Feta Tart",
+  "description": "A light and flavorful Greek dish featuring puff pastry, charred to perfection and filled with bouncy feta cheese, namul blanched and seasoned with ayurvedic tamasic friendly ingredients, all wrapped in a ti leaf vessel.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 block",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4-6 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a large bowl, combine the crumbled feta cheese, chopped kalamata olives, artichoke hearts, sun dried tomatoes, and chopped fresh parsley.",
+    "Season the mixture with salt and pepper to taste.",
+    "Spoon the cheese mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "Use a knife to cut a few slits in the top of the pastry to allow steam to escape.",
+    "Brush the top of the pastry with olive oil and place the tart on a baking sheet lined with parchment paper.",
+    "Bake the tart for 25-30 minutes, or until the pastry is golden brown.",
+    "Remove the tart from the oven and let it cool for a few minutes before slicing and serving.",
+    "To serve, wrap each slice in a ti leaf and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "dinner-party",
+    "gluten-free",
+    "greek-food",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intricately-layered-greek-feta-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-layered-greek-feta-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:38:33Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "puff pastry",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "feta",
+    "descriptor": "Intricately layered",
+    "dishForm": "Tart"
+  }
+}
