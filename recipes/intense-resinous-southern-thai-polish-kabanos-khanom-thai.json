@@ -1,0 +1,105 @@
+{
+  "title": "Intense Resinous Southern Thai Polish Kabanos Khanom Thai",
+  "description": "A resinous and juicy Southern Thai dish featuring Polish kabanos, long-fermentation-dough, and raw-friendly ingredients, formed into khanom-thai.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish kabanos",
+      "amount": "12 slices",
+      "notes": "smoked sausage"
+    },
+    {
+      "name": "Long-fermentation-dough",
+      "amount": "1 cup",
+      "notes": "made with rice flour and coconut milk"
+    },
+    {
+      "name": "Dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Southern Thai curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Mix the long-fermentation-dough with coconut milk, fish sauce, lime juice, and palm sugar to form a sticky dough.",
+    "Wrap the Polish kabanos slices with the dough, forming small khanom-thai shapes.",
+    "Bake the khanom-thai for 15 minutes, or until the dough is golden brown.",
+    "Meanwhile, blend the Southern Thai curry paste with coconut milk and dates to form a resinous sauce.",
+    "Heat the sauce in a pan over medium heat, stirring constantly.",
+    "Add the baked khanom-thai to the sauce and simmer for 5 minutes.",
+    "Garnish with chopped Thai basil and toasted peanuts.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "khanom-thai",
+    "polish-influence",
+    "resinous-sauce",
+    "southern-thai",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "intense-resinous-southern-thai-polish-kabanos-khanom-thai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-resinous-southern-thai-polish-kabanos-khanom-thai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:33:20Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "polish kabanos",
+    "diet": "raw",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern Thai",
+    "mainIngredient": "Polish Kabanos",
+    "descriptor": "Intense Resinous",
+    "dishForm": "Khanom Thai"
+  }
+}
