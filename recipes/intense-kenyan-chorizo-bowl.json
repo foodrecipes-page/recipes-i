@@ -1,0 +1,93 @@
+{
+  "title": "Intense Kenyan Chorizo Bowl",
+  "description": "A post-workout Kenyan dish featuring chorizo, served in a Korean brass bowl, with a floral and silky texture, this raw-friendly meal is perfect for a healthy lunch",
+  "cuisine": "Kenyan",
+  "diet": [
+    "raw-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kenyan chorizo",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "papillote",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a Korean brass bowl, mix together sliced Kenyan chorizo, fresh papillote, chopped kale, and cooked quinoa",
+    "Drizzle lemon juice and olive oil over the top of the mixture",
+    "Season with salt and black pepper to taste",
+    "Cover the bowl with a lid and let it sit for 10 minutes to allow the flavors to meld",
+    "Serve the Intense Kenyan Chorizo Bowl hot, garnished with additional papillote if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "high-protein",
+    "one-pan",
+    "raw-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intense-kenyan-chorizo-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-kenyan-chorizo-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:21:22Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "papillote",
+    "primaryIngredient": "chorizo",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chorizo",
+    "descriptor": "intense silky",
+    "dishForm": "Bowl"
+  }
+}
