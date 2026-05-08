@@ -1,0 +1,97 @@
+{
+  "title": "Icy Tangy Japanese Baby Plum Tomatoes Soba Noodles",
+  "description": "A refreshing Japanese dish featuring spherified baby plum tomatoes in a tangy sauce, served with soba noodles.",
+  "cuisine": "Japanese",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby plum tomatoes",
+      "amount": "12 oz",
+      "notes": "halved"
+    },
+    {
+      "name": "soba noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "tangy sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "ice bath",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the soba noodles according to the package instructions.",
+    "In a small bowl, mix the sodium alginate with a small amount of water to create a solution.",
+    "Dip each halved baby plum tomato into the sodium alginate solution, then drop it into the water bath to create spheres.",
+    "Let the tomato spheres sit in the water bath for at least 30 minutes to set.",
+    "In a blender or food processor, combine the tangy sauce, soy sauce, and a small amount of water to create a smooth sauce.",
+    "In a large bowl, combine the cooked soba noodles, tangy sauce, and chopped scallions.",
+    "Gently add the tomato spheres to the noodle mixture and toss to combine.",
+    "Sprinkle the sesame seeds over the top of the noodles and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baby-plum-tomatoes",
+    "japanese-cuisine",
+    "refreshing",
+    "soba-noodles",
+    "tangy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "icy-tangy-japanese-baby-plum-tomatoes-soba-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-tangy-japanese-baby-plum-tomatoes-soba-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:56:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "spherify",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "baby plum tomatoes",
+    "descriptor": "icy tangy",
+    "dishForm": "Soba Noodles"
+  }
+}
