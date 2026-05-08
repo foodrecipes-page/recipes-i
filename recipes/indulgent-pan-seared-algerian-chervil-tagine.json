@@ -1,0 +1,102 @@
+{
+  "title": "Indulgent Pan-Seared Algerian Chervil Tagine",
+  "description": "A flavorful, quick-fix Algerian dish roasted to perfection, featuring chervil, confit-tomato, and a hint of spices, served in an iron teppan pan.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh chervil",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Confit tomatoes",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Fodmap-friendly preserved lemon",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan pan over medium-high heat.",
+    "Add 2 tablespoons of olive oil and swirl to coat the pan.",
+    "Add the chervil and cook until wilted.",
+    "Add the confit tomatoes, preserved lemon, paprika, cumin, salt, and black pepper. Stir to combine.",
+    "Reduce heat to medium-low and simmer for 5 minutes.",
+    "Stir in the garlic and cook for 1 minute.",
+    "Transfer the mixture to a plate.",
+    "Wipe the pan clean and add the remaining 2 tablespoons of olive oil.",
+    "Return the pan to the stovetop and reduce heat to medium.",
+    "Add the parsley and cook until slightly wilted.",
+    "Return the chervil mixture to the pan and stir to combine.",
+    "Cook for an additional 2 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "high-protein",
+    "one-pan",
+    "quick-fix",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "indulgent-pan-seared-algerian-chervil-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-pan-seared-algerian-chervil-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:06:19Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "confit-tomato",
+    "primaryIngredient": "chervil",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chervil",
+    "descriptor": "Indulgent Pan-Seared",
+    "dishForm": "Tagine"
+  }
+}
