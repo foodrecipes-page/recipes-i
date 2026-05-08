@@ -1,0 +1,100 @@
+{
+  "title": "Intensely Creamy Australian Cheese Flatbread",
+  "description": "A savory and creamy Australian dish featuring kaffir lime leaf, perfect for kids and adults alike, made with long fermentation dough and ovo-vegetarian friendly ingredients.",
+  "cuisine": "Australian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "strong white flour",
+      "amount": "2 cups",
+      "notes": "preferably Australian wheat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kaffir lime leaf",
+      "amount": "2 leaves",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Australian cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, sugar, and yeast, then gradually add olive oil and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic, then place in a greased bowl, cover, and let ferment for 24 hours.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the fermented dough to a thickness of 1/4 inch.",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "Sprinkle shredded cheese evenly over the dough, leaving a 1 inch border around the edges.",
+    "In a small bowl, whisk together eggs and cream, then pour the mixture over the cheese.",
+    "Add kaffir lime leaves on top of the egg mixture.",
+    "Bake the flatbread in the preheated oven for 25 minutes, or until the crust is golden brown and the eggs are set.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "cheesy-goodness",
+    "flatbread",
+    "kaffir-lime",
+    "long-fermentation",
+    "ovo-vegetarian",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "intensely-creamy-australian-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-creamy-australian-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:01:11Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "cheese",
+    "descriptor": "Intensely creamy",
+    "dishForm": "Flatbread"
+  }
+}
