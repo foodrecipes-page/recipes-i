@@ -1,0 +1,100 @@
+{
+  "title": "Intense Briny Argentinian Shiitake Mushrooms Empanadas",
+  "description": "A traditional Argentinian dish featuring shiitake mushrooms, these empanadas are briny and springy, perfect for meal prep and jain-friendly, A delicious and savory pastry filled with intense flavors.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "All Purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Brine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, salt, and sugar.",
+    "Add the vegetable oil and brine to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "In a separate pan, heat the oil and saute the onion and garlic until softened.",
+    "Add the sliced shiitake mushrooms and paprika to the pan and cook until the mushrooms are tender.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle and place a tablespoon of the mushroom mixture in the center.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of oil and bake for 20 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "jain-friendly",
+    "meal-prep",
+    "mushroom-based",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "intense-briny-argentinian-shiitake-mushrooms-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-briny-argentinian-shiitake-mushrooms-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:13:44Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "brine-wet",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "shiitake mushrooms",
+    "descriptor": "intense briny",
+    "dishForm": "Empanadas"
+  }
+}
