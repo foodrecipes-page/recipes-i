@@ -1,0 +1,101 @@
+{
+  "title": "Argentinian Sausage Skewers",
+  "description": "A festive and savory dish featuring sausages in a rich mother sauce, perfect for any occasion. This kosher-friendly recipe is sure to delight.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian sausage",
+      "amount": "1 pound",
+      "notes": "preferably chorizo or morcilla"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Thread the sausages onto skewers, leaving a small space between each sausage.",
+    "In a large bowl, whisk together the olive oil, chopped onion, minced garlic, tomato paste, beef broth, red wine, paprika, salt, and black pepper.",
+    "Brush the mixture onto the sausages, making sure they are fully coated.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the sausages are browned and cooked through.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh parsley or oregano.",
+    "Offer crusty bread or grilled vegetables on the side, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "intense-savory-argentinian-sausages-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-savory-argentinian-sausages-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:27:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "sausages",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "sausages",
+    "descriptor": "intense savory",
+    "dishForm": "Skewers"
+  }
+}
