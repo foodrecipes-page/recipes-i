@@ -1,0 +1,107 @@
+{
+  "title": "Intensely Roasted Vietnamese Tofu Skewers",
+  "description": "A crispy and flavorful Vietnamese dish featuring roasted tofu skewers, umeboshi, and a blend of traditional spices, all wrapped in a ti-leaf for a unique presentation.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "umeboshi paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Whisk together umeboshi paste, soy sauce, rice vinegar, brown sugar, grated ginger, and garlic in a large bowl.",
+    "Add the cubed tofu to the bowl and toss to coat with the marinade.",
+    "Thread the marinated tofu onto skewers, leaving a small space between each piece.",
+    "Wrap each skewer in a ti leaf, securing with a toothpick if necessary.",
+    "Brush the ti leaves with sesame oil and sprinkle with sesame seeds.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the tofu is crispy and golden brown.",
+    "Serve the skewers hot, garnished with chopped scallions.",
+    "Let the skewers rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-vegetables",
+    "one-pot-meal",
+    "robata-grill",
+    "ti-leaf-wrap",
+    "tofu-recipes",
+    "vegan-friendly",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "intensely-roasted-vietnamese-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-roasted-vietnamese-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:08:55Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "robata-grill",
+    "primaryIngredient": "umeboshi",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Intensely Roasted",
+    "dishForm": "Skewers"
+  }
+}

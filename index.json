@@ -6422,6 +6422,20 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-malty-american-feta-bowl",
+    "title": "Intensely Malty American Feta Bowl",
+    "tags": [
+      "american-classics",
+      "comfort-food",
+      "gluten-free",
+      "one-pot",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-malty-saudi-arabian-chicken-pilaf",
     "title": "Intensely Malty Saudi Arabian Chicken Pilaf",
     "tags": [
@@ -6850,6 +6864,22 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-roasted-vietnamese-tofu-skewers",
+    "title": "Intensely Roasted Vietnamese Tofu Skewers",
+    "tags": [
+      "grilled-vegetables",
+      "one-pot-meal",
+      "robata-grill",
+      "ti-leaf-wrap",
+      "tofu-recipes",
+      "vegan-friendly",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 32,
     "shard": "i"
   },
   {

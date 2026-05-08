@@ -1,0 +1,94 @@
+{
+  "title": "Intensely Malty American Feta Bowl",
+  "description": "A comforting, malty, and velvety American dish featuring feta, perfect for a sick day, served in a traditional Korean brass bowl. This recipe incorporates anti-inflammatory friendly ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 cup crumbled",
+      "notes": "preferably a high-quality, domestic feta"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dehydrated garlic",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "for its anti-inflammatory properties"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a small bowl, mix together the malted milk powder, dehydrated garlic, and turmeric.",
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the chicken broth to the saucepan and bring to a simmer.",
+    "Reduce the heat to low and stir in the malt syrup and the malted milk powder mixture.",
+    "Let the mixture simmer for 5 minutes, stirring occasionally, until it has thickened slightly.",
+    "Stir in the crumbled feta cheese until it is fully incorporated and the mixture is smooth.",
+    "Transfer the mixture to a Korean brass bowl.",
+    "Garnish with chopped fresh parsley and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intensely-malty-american-feta-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-malty-american-feta-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:09:04Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "dehydrate",
+    "primaryIngredient": "feta",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "feta",
+    "descriptor": "intensely malty",
+    "dishForm": "Bowl"
+  }
+}
