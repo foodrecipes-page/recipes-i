@@ -1,0 +1,100 @@
+{
+  "title": "Syrian Buttermilk Pilaf",
+  "description": "A traditional Syrian dish featuring pillowy soft grains cooked in buttermilk, perfect for a comforting meal. This recipe is slow-cooked to bring out the rich flavors of the ingredients.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buttermilk",
+      "amount": "2 cups",
+      "notes": "full-fat for best results"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the basmati rice in a fine mesh sieve until the water runs clear, then soak it in water for 30 minutes.",
+    "Heat the ghee or oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the cumin seeds and cook for 1 minute, stirring constantly.",
+    "Drain the soaked rice and add it to the saucepan, stirring to coat the rice with the oil and mix with the onion and spices.",
+    "Add the buttermilk, salt, and pepper to the saucepan, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20 minutes or until the liquid is absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork and stir in the chopped parsley.",
+    "Serve the pilaf hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "syrian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "indulgent-pillowy-syrian-buttermilk-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-pillowy-syrian-buttermilk-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:16:21Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "slow-cook",
+    "primaryIngredient": "buttermilk",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "buttermilk",
+    "descriptor": "indulgent pillowy",
+    "dishForm": "Pilaf"
+  }
+}
