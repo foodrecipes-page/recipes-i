@@ -1,0 +1,96 @@
+{
+  "title": "Intensely Rich Russian Peach Pudding",
+  "description": "A rich and dense Russian dessert featuring peach juice, made with a bain-marie for a smooth and creamy texture, and is keto-friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "heavy cream",
+      "amount": "2 cups",
+      "notes": "full-fat"
+    },
+    {
+      "name": "peach juice",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup",
+      "notes": "such as Swerve or Erythritol"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a medium saucepan, whisk together the heavy cream, peach juice, and granulated sweetener over medium heat until the sweetener is dissolved.",
+    "In a large bowl, whisk together the eggs, vanilla extract, and lemon zest.",
+    "Temper the egg mixture by slowly pouring the warm cream mixture into the eggs, whisking constantly.",
+    "Pour the mixture into 6 small ramekins or cups.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the pudding from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "cream-based",
+    "gluten-free",
+    "keto-friendly",
+    "low-carb",
+    "peach-recipes",
+    "russian-dessert"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 38
+  },
+  "slug": "intensely-rich-russian-peach-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-rich-russian-peach-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:18:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "bain-marie",
+    "primaryIngredient": "peach juice",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "peaches",
+    "descriptor": "Intensely Rich",
+    "dishForm": "Pudding"
+  }
+}
