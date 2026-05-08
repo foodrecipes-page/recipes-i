@@ -1,0 +1,101 @@
+{
+  "title": "Intense Juicy Spanish Potatoes Gambas Al Ajillo",
+  "description": "A tangy and juicy Spanish dish featuring charlotte potatoes, this lacto-vegetarian friendly recipe is a perfect hangover cure, inspired by the traditional gambas al ajillo.",
+  "cuisine": "Spanish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "charlotte potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated manchego cheese",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the cubed potatoes with 2 tablespoons of olive oil, smoked paprika, salt, and black pepper until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast in the oven for 20 minutes.",
+    "While the potatoes are roasting, heat the remaining 2 tablespoons of olive oil in a large skillet over medium heat.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the white wine and vegetable broth to the skillet and bring to a boil, scraping up any browned bits from the bottom of the pan.",
+    "Reduce the heat to low and simmer the sauce for 5 minutes, until it has slightly thickened.",
+    "Stir in the lemon juice and cook for an additional 1 minute.",
+    "After the potatoes have roasted for 20 minutes, remove them from the oven and add them to the skillet with the garlic sauce.",
+    "Toss the potatoes in the sauce until they are evenly coated, then sprinkle with grated manchego cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pan",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intense-juicy-spanish-potatoes-gambas-al-ajillo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-juicy-spanish-potatoes-gambas-al-ajillo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:16:34Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "potatoes",
+    "descriptor": "intense juicy",
+    "dishForm": "Gambas Al Ajillo"
+  }
+}
