@@ -1,0 +1,97 @@
+{
+  "title": "Innovative Yeasty Uruguayan Napa Cabbage Hash",
+  "description": "A yeasty and velvety Uruguayan dish featuring napa cabbage, perfect for a brunch mood, and made with low-glycemic-friendly ingredients. This dish is steamed to perfection using the mushimono method.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "napa cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "dissolved in 1 tablespoon warm water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "uruguayan cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shredded napa cabbage and dissolved yeast mixture, letting it sit for 10 minutes to allow the yeast to activate.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional 1 minute, until fragrant.",
+    "Add the cabbage and yeast mixture to the skillet, stirring to combine with the onion and garlic.",
+    "Transfer the mixture to a steamer basket and steam using the mushimono method for 10 minutes, until the cabbage is tender.",
+    "In a small bowl, combine the crumbled uruguayan cheese, salt, and black pepper.",
+    "Sprinkle the cheese mixture over the steamed cabbage and serve hot.",
+    "Garnish with chopped fresh herbs, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "low-glycemic",
+    "mushimono",
+    "uruguayan",
+    "vegetarian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "innovative-yeasty-uruguayan-napa-cabbage-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-yeasty-uruguayan-napa-cabbage-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:01:30Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "napa cabbage",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "napa cabbage",
+    "descriptor": "innovative yeasty",
+    "dishForm": "Hash"
+  }
+}
