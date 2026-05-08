@@ -1,0 +1,98 @@
+{
+  "title": "Intensely Roasted Middle Eastern Ground Oats Muhammara",
+  "description": "A buttery and silky quick-fix Middle Eastern dish featuring ground oats, roast, and low-calorie-friendly ingredients in a muhammara form, cooked in a wok. This recipe is perfect for a healthy and flavorful snack or side dish.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground oats",
+      "amount": "1 cup",
+      "notes": "rolled or instant oats work too"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "1 cup",
+      "notes": "jarred or homemade"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large wok over medium heat until melted and fragrant.",
+    "Add the ground oats to the wok and cook, stirring constantly, for 2-3 minutes or until lightly toasted.",
+    "Add the roasted red peppers, roasted garlic, pomegranate molasses, sumac, salt, and black pepper to the wok and stir to combine.",
+    "Cook for an additional 2-3 minutes or until the mixture is heated through and the flavors are well combined.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the muhammara to a serving bowl and garnish with chopped fresh parsley, if desired.",
+    "Serve warm or at room temperature.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-calorie",
+    "middle-eastern",
+    "quick-fix",
+    "vegetarian",
+    "wok-cooked"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "intensely-roasted-middle-eastern-ground-oats-muhammara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-roasted-middle-eastern-ground-oats-muhammara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:06:26Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "roast",
+    "primaryIngredient": "ground oats",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "ground oats",
+    "descriptor": "intensely roasted",
+    "dishForm": "Muhammara"
+  }
+}
