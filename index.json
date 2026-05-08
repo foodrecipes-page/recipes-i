@@ -2027,6 +2027,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-malaysian-gruyere-grill",
+    "title": "Indulgent Malaysian Gruyere Grill",
+    "tags": [
+      "grilled-chicken",
+      "high-protein",
+      "malaysian-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-malaysian-kidney-beans-toast",
     "title": "Indulgent Malaysian Kidney Beans Toast",
     "tags": [
