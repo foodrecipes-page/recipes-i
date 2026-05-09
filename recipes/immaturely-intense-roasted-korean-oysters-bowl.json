@@ -1,0 +1,109 @@
+{
+  "title": "immaturely intense roasted korean oysters bowl",
+  "description": "roasted, crunchy, sick-day korean dish featuring oysters, shio-cure, flexitarian-friendly, served in a dolsot stone bowl",
+  "cuisine": "korean",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oysters (12 count)",
+      "amount": "1 dozen",
+      "notes": "freshly shucked"
+    },
+    {
+      "name": "shio-cured daikon",
+      "amount": "2 medium"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "dolsot stone bowl",
+      "amount": "1"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 425 f (220 c).",
+    "in a large bowl, whisk together gochujang, soy sauce, brown sugar, ginger, and garlic.",
+    "add the oysters to the bowl and toss to coat with the marinade.",
+    "place the oysters on a baking sheet lined with parchment paper.",
+    "roast the oysters in the preheated oven for 8-10 minutes, or until they are golden brown and crispy.",
+    "while the oysters are roasting, heat the sesame oil in a small saucepan over medium heat.",
+    "add the shio-cured daikon to the saucepan and cook for 2-3 minutes, or until it is slightly caramelized.",
+    "fluff the cooked rice with a fork and divide it among four dolsot stone bowls.",
+    "top each bowl with a roasted oyster, a few slices of shio-cured daikon, and a sprinkle of toasted sesame seeds.",
+    "garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "korean-fusion",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "immaturely-intense-roasted-korean-oysters-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/immaturely-intense-roasted-korean-oysters-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T04:20:34Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "shio-cure",
+    "primaryIngredient": "oysters",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "oysters",
+    "descriptor": "Immaturely intense roasted",
+    "dishForm": "Bowl"
+  }
+}
