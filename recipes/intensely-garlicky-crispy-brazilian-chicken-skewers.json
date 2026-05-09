@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Garlicky Crispy Brazilian Chicken Skewers",
+  "description": "This dish features crispy chicken skewers with a rich garlicky flavor, served with a side of clotted cream, perfect for a dinner or snack",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, garlic, salt, black pepper, and paprika",
+    "Add the chicken pieces to the bowl and toss to coat with the garlic mixture",
+    "Thread the chicken pieces onto skewers, leaving a small space between each piece",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes",
+    "While the chicken is baking, blanch the skewers in hot water for 30 seconds to crisp the outside",
+    "Remove the skewers from the water and place them back on the baking sheet",
+    "Increase the oven temperature to broil and cook for an additional 5 minutes, or until crispy and golden brown",
+    "Serve the skewers hot with a side of clotted cream and garnish with lemon wedges"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-recipes",
+    "crispy-food",
+    "garlic-lovers",
+    "gluten-free",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "intensely-garlicky-crispy-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-garlicky-crispy-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:59:09Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "blanch",
+    "primaryIngredient": "clotted cream",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "intensely garlicky crispy",
+    "dishForm": "Skewers"
+  }
+}
