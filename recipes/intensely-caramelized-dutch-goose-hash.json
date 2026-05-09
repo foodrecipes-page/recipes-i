@@ -1,0 +1,98 @@
+{
+  "title": "Intensely Caramelized Dutch Goose Hash",
+  "description": "A traditional Dutch dish featuring caramelized potatoes and onions in goose fat, perfect for a low-sodium breakfast or brunch. This recipe is bitter, fluffy, and adventurous.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "goose fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Heat the melted goose fat in a large skillet over medium heat.",
+    "Add the sliced onions and cook until they are dark brown and caramelized, stirring occasionally.",
+    "Add the diced potatoes to the skillet and cook until they are tender and golden brown, stirring occasionally.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Season the mixture with low-sodium salt, black pepper, and fresh thyme.",
+    "Make two wells in the mixture and crack an egg into each well.",
+    "Cover the skillet and cook until the eggs are cooked to your desired doneness.",
+    "Serve the hash hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-hash",
+    "brunch-ideas",
+    "caramelized-onions",
+    "dutch-cuisine",
+    "goose-fat",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "intensely-caramelized-dutch-goose-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-caramelized-dutch-goose-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:30:15Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "caramelize",
+    "primaryIngredient": "goose fat",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "goose",
+    "descriptor": "intensely caramelized",
+    "dishForm": "Hash"
+  }
+}
