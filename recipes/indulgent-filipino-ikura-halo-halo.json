@@ -1,0 +1,102 @@
+{
+  "title": "Indulgent Filipino Ikura Halo Halo",
+  "description": "A pungent and flaky Filipino dessert featuring ikura, cure, and dash-friendly ingredients in a halo halo form, this indulgent treat is sure to satisfy any sweet tooth. The combination of creamy milk, sweet fruits, and salty ikura creates a unique flavor experience.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ikura",
+      "amount": "1 cup",
+      "notes": "Salmon roe"
+    },
+    {
+      "name": "Sweetened condensed milk",
+      "amount": "1 can",
+      "notes": "Chilled"
+    },
+    {
+      "name": "Evaporated milk",
+      "amount": "1 cup",
+      "notes": "Chilled"
+    },
+    {
+      "name": "Jackfruit",
+      "amount": "1 cup",
+      "notes": "Canned"
+    },
+    {
+      "name": "Coconut strips",
+      "amount": "1/2 cup",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Pinipig",
+      "amount": "1/2 cup",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Ube halaya",
+      "amount": "1/4 cup",
+      "notes": "Purple yam jam"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chilled sweetened condensed milk and evaporated milk.",
+    "Stir in the ube halaya until well combined.",
+    "Add the toasted coconut strips, pinipig, and sesame seeds to the bowl and stir gently.",
+    "Spoon a layer of the milk mixture into individual serving glasses or bowls.",
+    "Top the milk layer with a spoonful of ikura, jackfruit, and a sprinkle of salt.",
+    "Repeat the layers one more time, ending with a layer of milk on top.",
+    "Cover the glasses or bowls with plastic wrap and refrigerate for at least 30 minutes.",
+    "Just before serving, give the halo halo a gentle stir and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "filipino-dessert",
+    "gluten-free",
+    "indulgent-treat",
+    "sweet-tooth"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "indulgent-filipino-ikura-halo-halo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-filipino-ikura-halo-halo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:55:34Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "ikura",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "ikura",
+    "descriptor": "Indulgent flaky",
+    "dishForm": "Halo Halo"
+  }
+}
