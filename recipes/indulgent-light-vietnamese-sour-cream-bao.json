@@ -1,0 +1,114 @@
+{
+  "title": "Indulgent Light Vietnamese Sour Cream Bao",
+  "description": "Light and tender Vietnamese bao filled with a buttery, mirepoix-based stuffing featuring sour cream.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless pork shoulder",
+      "amount": "1 pound",
+      "notes": "lean, finely chopped"
+    },
+    {
+      "name": "small onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled, grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "divided"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "to form dough"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and salt; whisk to combine.",
+    "Gradually add warm water to dry ingredients; mix until a dough forms.",
+    "Knead dough for 5-7 minutes until smooth and elastic.",
+    "Place dough in a greased bowl; let it rise in a warm place for an hour.",
+    "Preheat a steamer; prepare a steamer basket with parchment paper.",
+    "Punch down dough; divide into small balls.",
+    "Roll each ball into a thin circle.",
+    "Place a tablespoon of stuffing in the center of each circle.",
+    "Fold dough over filling, forming a half-moon shape.",
+    "Steam baos for 15-20 minutes until cooked through.",
+    "Serve warm with a dollop of sour cream and a sprinkle of black pepper."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-lunch",
+    "one-pan",
+    "paleo-friendly",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "indulgent-light-vietnamese-sour-cream-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-light-vietnamese-sour-cream-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T05:56:35Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "sour cream",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Sour Cream",
+    "descriptor": "Indulgent Light",
+    "dishForm": "Bao"
+  }
+}
