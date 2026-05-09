@@ -1,0 +1,94 @@
+{
+  "title": "Intense Garlicky Thai Chicken Noodles",
+  "description": "A fast and flavorful Thai dish featuring garlicky chicken and snappy noodles, perfect for a post-workout meal",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fast action yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat",
+    "Add the chicken to the skillet and cook until browned and cooked through",
+    "Remove the chicken from the skillet and set aside",
+    "Add the minced garlic to the skillet and cook for 1 minute",
+    "Add the fish sauce and lime juice to the skillet and stir to combine",
+    "Add the cooked noodles to the skillet and stir to combine with the garlic and sauce",
+    "Return the chicken to the skillet and stir to combine with the noodles and sauce",
+    "Sprinkle the fast action yeast over the top of the noodles and chicken",
+    "Season with salt to taste",
+    "Serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "intense-garlicky-thai-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-garlicky-thai-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:33:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "ferment",
+    "primaryIngredient": "fast action yeast",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "intense garlicky",
+    "dishForm": "Noodles"
+  }
+}
