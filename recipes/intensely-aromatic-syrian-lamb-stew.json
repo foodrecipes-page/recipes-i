@@ -1,0 +1,100 @@
+{
+  "title": "Syrian Lamb Stew",
+  "description": "A hearty and aromatic stew featuring tender lamb and earthy spices, perfect for a comforting meal. This traditional Syrian dish is made with ground cumin and a Mediterranean-friendly blend of ingredients.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the ground lamb and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the ground cumin, paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Serve the stew hot, garnished with fresh parsley or cilantro.",
+    "Let the stew rest for 10 minutes before serving.",
+    "Serve with pita bread or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aromatic",
+    "comfort-food",
+    "lamb-based",
+    "mediterranean",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "intensely-aromatic-syrian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-aromatic-syrian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:44:07Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "marinate",
+    "primaryIngredient": "ground cumin",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "intensely aromatic",
+    "dishForm": "Stew"
+  }
+}
