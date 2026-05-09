@@ -1,0 +1,96 @@
+{
+  "title": "Intense Smoky Scottish Lamb Ploughmans",
+  "description": "A briny, flaky, and smoky Scottish dish featuring lamb, sumac, and char-grill flavors, perfect for a date night, and Whole30-friendly. This ploughmans dish is a hearty and flavorful meal.",
+  "cuisine": "Scottish",
+  "diet": [
+    "Whole30",
+    "Paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "apples",
+      "amount": "1 medium",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a small bowl, mix together sumac, sea salt, and black pepper.",
+    "Rub the sumac mixture all over the lamb shoulder.",
+    "Grill the lamb for 5 minutes per side, or until it reaches an internal temperature of 145 degrees.",
+    "Let the lamb rest for 10 minutes before slicing it thinly.",
+    "In a large bowl, combine the sliced red onion, dates, and apples.",
+    "Drizzle the olive oil over the top of the onion mixture and toss to combine.",
+    "To assemble the ploughmans, place a few slices of the grilled lamb on a plate, then top with the onion mixture.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "grilled-meats",
+    "high-protein",
+    "paleo-friendly",
+    "scottish-cuisine",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intense-smoky-scottish-lamb-ploughmans",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-scottish-lamb-ploughmans",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:21:21Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "sumac",
+    "diet": "whole30",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "lamb",
+    "descriptor": "Intense Smoky",
+    "dishForm": "Ploughmans"
+  }
+}
