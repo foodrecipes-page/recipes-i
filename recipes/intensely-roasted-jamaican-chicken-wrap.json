@@ -1,0 +1,91 @@
+{
+  "title": "Intensely Roasted Jamaican Chicken Wrap",
+  "description": "A roasted, snappy, and comforting Jamaican dish featuring San Marzano tomatoes, served in a donabe with ssam wraps, high in protein and flavor.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "high protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "San Marzano tomatoes",
+      "amount": "2 cups",
+      "notes": "crushed by hand"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1/4 cup",
+      "notes": "minced"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ssam wraps",
+      "amount": "4-6 wraps"
+    },
+    {
+      "name": "donabe",
+      "amount": "1",
+      "notes": "Japanese clay pot"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together chicken, San Marzano tomatoes, scotch bonnet peppers, and jamaican jerk seasoning.",
+    "Transfer the mixture to the donabe and drizzle with olive oil.",
+    "Roast the chicken mixture in the oven for 30 minutes.",
+    "While the chicken is roasting, warm the ssam wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Once the chicken is done, assemble the wraps by spooning the chicken mixture onto a ssam wrap and serving immediately.",
+    "Repeat the assembly process for the remaining ingredients.",
+    "Serve the wraps hot and enjoy.",
+    "Garnish with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "jamaican-cuisine",
+    "one-pan",
+    "roasted-chicken",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "intensely-roasted-jamaican-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-roasted-jamaican-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:51:42Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "intensely roasted",
+    "dishForm": "Wrap"
+  }
+}
