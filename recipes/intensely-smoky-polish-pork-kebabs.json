@@ -1,0 +1,92 @@
+{
+  "title": "Intensely Smoky Polish Pork Kebabs",
+  "description": "A smoky and crispy Polish dish featuring rose water, perfect for crowds, this keto-friendly recipe is sure to please. With a focus on smoky flavors and a hint of rose water, these kebabs are a unique twist on traditional Polish cuisine.",
+  "cuisine": "Polish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "wood chips",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the pork cubes to the bowl and toss to coat evenly with the spice mixture.",
+    "In a small bowl, whisk together rose water and olive oil, then pour over the pork cubes and toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight to marinate.",
+    "Preheat a grill to 400 degrees Fahrenheit, using wood chips to generate smoke.",
+    "Thread the marinated pork cubes onto skewers, leaving a small space between each cube.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the pork is cooked through and slightly charred.",
+    "Serve the kebabs hot, garnished with fresh parsley or rosemary if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "grilled-meat",
+    "keto-friendly",
+    "polish-cuisine",
+    "rose-water",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 0,
+    "fat": 42
+  },
+  "slug": "intensely-smoky-polish-pork-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-polish-pork-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:42:55Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "brine-wet",
+    "primaryIngredient": "rose water",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Intensely Smoky",
+    "dishForm": "Kebabs"
+  }
+}
