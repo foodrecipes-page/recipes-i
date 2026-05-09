@@ -1,0 +1,102 @@
+{
+  "title": "Intricate Glassy Thai Noodles Pad Thai",
+  "description": "A cultured and crowd-pleasing Thai dish featuring dasima-kombu and mortar-pestle-pound techniques, this low-fat-friendly pad thai is served in a scallop shell vessel.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "dasima-kombu",
+      "amount": "2 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shallots",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Soak the dasima-kombu sheets in water for 30 minutes, then cut them into thin strips.",
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a mortar and pestle, pound the shallots, garlic, and peanuts into a coarse paste.",
+    "Heat the vegetable oil in a large wok or frying pan over medium-high heat.",
+    "Add the pounded paste to the wok and stir-fry for 2 minutes.",
+    "Add the tamarind paste, fish sauce, and cooked noodles to the wok and stir-fry for another 2 minutes.",
+    "Add the bean sprouts and dasima-kombu strips to the wok and stir-fry for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve the pad thai in scallop shell vessels.",
+    "Garnish with chopped peanuts and a sprinkle of sesame seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fat",
+    "one-pan",
+    "seafood-inspired",
+    "thai-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "intricate-glassy-thai-noodles-pad-thai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricate-glassy-thai-noodles-pad-thai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:53:55Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "noodles",
+    "descriptor": "Intricate Glassy",
+    "dishForm": "Pad Thai"
+  }
+}
