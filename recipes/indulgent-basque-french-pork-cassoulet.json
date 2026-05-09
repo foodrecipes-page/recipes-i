@@ -1,0 +1,100 @@
+{
+  "title": "Indulgent Basque French Pork Cassoulet",
+  "description": "A rich and flavorful French dish featuring pork, gochujang, and a crispy crust, all made in an iron teppan and perfect for a special occasion. This low-carb-friendly recipe is sure to impress.",
+  "cuisine": "French",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "duck fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the gochujang, duck fat, and tomato paste.",
+    "Add the pork pieces to the teppan and sear until browned on all sides.",
+    "Add the chopped onion to the teppan and cook until translucent.",
+    "Add the minced garlic to the teppan and cook for 1 minute.",
+    "Add the chicken broth, thyme, and bay leaves to the teppan and bring to a simmer.",
+    "Cover the teppan and transfer to the oven to cook for 2 hours.",
+    "Remove the teppan from the oven and let cool slightly.",
+    "Dehydrate the cassoulet in a low temperature oven until the top is crispy and the liquid has thickened into a glassy jelly.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "french-cuisine",
+    "low-carb",
+    "one-pan",
+    "pork-recipe",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "indulgent-basque-french-pork-cassoulet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-basque-french-pork-cassoulet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:46:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "dehydrate",
+    "primaryIngredient": "gochujang",
+    "diet": "low-carb",
+    "region": "basque-french",
+    "cuisineAdjective": "Basque French",
+    "mainIngredient": "pork",
+    "descriptor": "Indulgent Glassy",
+    "dishForm": "Casserole Cassoulet"
+  }
+}
