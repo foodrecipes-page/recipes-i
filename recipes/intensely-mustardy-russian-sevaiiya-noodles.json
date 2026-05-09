@@ -1,0 +1,101 @@
+{
+  "title": "Intensely Mustardy Russian Sevaiiya Noodles",
+  "description": "A pescatarian-friendly Russian dish featuring pillowy sevaiiya noodles in a rich, slow-cooked mustard sauce, perfect for a weeknight dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sevaiiya noodles",
+      "amount": "8 oz",
+      "notes": "available at Russian or Middle Eastern markets"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "canned salmon",
+      "amount": "1 can",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the sevaiiya noodles according to package instructions until al dente.",
+    "In a large skillet, melt the butter over medium heat and cook until fragrant.",
+    "Add the dijon mustard, whole grain mustard, salt, and black pepper to the skillet and stir to combine.",
+    "Reduce heat to low and simmer the mustard sauce for 5 minutes, stirring occasionally.",
+    "Stir in the chopped fresh dill and cook for an additional minute.",
+    "Add the canned salmon to the skillet and stir to combine with the mustard sauce.",
+    "Add the cooked sevaiiya noodles to the skillet and toss to combine with the salmon and mustard sauce.",
+    "In a small bowl, whisk together the chicken broth and sour cream, then stir into the noodles and sauce.",
+    "Simmer the noodles and sauce over low heat for 10 minutes, stirring occasionally, until the sauce has thickened and the noodles are well coated.",
+    "Serve the intensely mustardy Russian sevaiiya noodles hot, garnished with additional chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "pescatarian",
+    "slow-cooked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "intensely-mustardy-russian-sevaiiya-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-mustardy-russian-sevaiiya-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:10:00Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "slow-cook",
+    "primaryIngredient": "sevaiiya",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "intensely mustardy",
+    "dishForm": "Noodles"
+  }
+}
