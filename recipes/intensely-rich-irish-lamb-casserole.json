@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Rich Irish Lamb Casserole",
+  "description": "A rich and crumbly Irish dish featuring lamb, grapefruit juice, and a unique banana leaf vessel, this casserole is both kid-friendly and high-protein-friendly, with an al-dente finish.",
+  "cuisine": "Irish",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "grapefruit juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300 degrees Fahrenheit.",
+    "In a large bowl, toss the lamb pieces with flour to coat.",
+    "In a large skillet, melt 1 tablespoon of butter over medium-high heat and brown the lamb pieces until browned on all sides.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Add the sliced carrots to the skillet and cook for an additional 2 minutes.",
+    "In a large bowl, whisk together the grapefruit juice, chicken broth, salt, and black pepper.",
+    "Add the browned lamb, cooked onion and carrots, and grapefruit juice mixture to a large banana leaf-lined baking dish.",
+    "Dot the top of the casserole with the remaining 1 tablespoon of butter.",
+    "Cover the dish with another banana leaf and bake for 2 1/2 hours, or until the lamb is tender and the casserole has an al-dente finish.",
+    "Remove the casserole from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "comfort-food",
+    "high-protein",
+    "irish-cuisine",
+    "lamb-recipes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "intensely-rich-irish-lamb-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-rich-irish-lamb-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:18:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "intensely rich",
+    "dishForm": "Casserole"
+  }
+}
