@@ -1,0 +1,104 @@
+{
+  "title": "Intense Fermented Ethiopian Daikon Misir Wot",
+  "description": "A traditional Ethiopian dish featuring fermented daikon, made with tadka for added flavor, this recipe is FODMAP-friendly and perfect for a date night.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "daikon radish",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "niter kibbeh",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the cubed daikon radish and enough water to cover it, then let it ferment at room temperature for 3 days.",
+    "Drain and rinse the fermented daikon radish, then set it aside.",
+    "In a large pot, heat the oil over medium heat, then add the chopped onion and cook until it is softened.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "Stir in the berbere spice, niter kibbeh, salt, and black pepper, then cook for 1 minute.",
+    "Add the red lentils and 2 cups of water to the pot, then bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20 minutes, or until the lentils are tender.",
+    "Add the fermented daikon radish to the pot and stir to combine.",
+    "Simmer the mixture for an additional 10 minutes, or until the flavors have melded together."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "ethiopian-cuisine",
+    "fermented-food",
+    "gluten-free",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "intense-fermented-ethiopian-daikon-misir-wot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-fermented-ethiopian-daikon-misir-wot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:49:58Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "tadka",
+    "primaryIngredient": "daikon",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "daikon",
+    "descriptor": "Intense Fermented",
+    "dishForm": "Misir Wot"
+  }
+}

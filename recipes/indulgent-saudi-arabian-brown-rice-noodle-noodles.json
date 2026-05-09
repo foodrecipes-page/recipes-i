@@ -1,0 +1,60 @@
+{
+  "title": "Indulgent Saudi-Arabian Brown Rice Noodle Noodles",
+  "description": "Tangy, aerated, indulgent saudi-arabian dish featuring brown rice noodle, rest-meat, ovo-vegetarian-friendly",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brown rice noodles",
+      "amount": "250",
+      "notes": ""
+    },
+    {
+      "name": "rest-meat (beef or lamb)",
+      "amount": "200",
+      "notes": "sliced, thinly"
+    }
+  ],
+  "instructions": [
+    "Bring a large saucepan of water to a boil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "noodle-dish",
+    "ovovegetarian",
+    "saudi-arabian",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 85,
+    "fat": 15
+  },
+  "slug": "indulgent-saudi-arabian-brown-rice-noodle-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-saudi-arabian-brown-rice-noodle-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:49:43Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "rest-meat",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Brown Rice Noodle",
+    "descriptor": "Indulgent",
+    "dishForm": "Noodles"
+  }
+}

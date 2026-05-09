@@ -1,0 +1,102 @@
+{
+  "title": "Irrigated American Arabic Rice Pilaf",
+  "description": "Savory, crisp, meal-prep American dish featuring Arabic rice, rest, satvik-friendly, served in a decorative talavera plate.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "amount": "1 cup",
+      "notes": "long grain, uncooked"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for saut\u00073ng"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for irrigation"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the chopped onion and saut\u00073ng until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the ground cumin and cook for 1 minute, until fragrant.",
+    "Add the Basmati rice and cook for 2-3 minutes, until lightly toasted.",
+    "Add the chicken broth, water, salt, and cayenne pepper (if using) to the saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 18-20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the saucepan from the heat and let it rest, covered, for 5 minutes.",
+    "Fluff the rice gently with a fork and serve hot in decorative talavera plates."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy-choice",
+    "high-fiber",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "irrigated-american-arabic-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/irrigated-american-arabic-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:49:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "arabic rice",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Arabic Rice",
+    "descriptor": "Irrigated",
+    "dishForm": "Pilaf"
+  }
+}

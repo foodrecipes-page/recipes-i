@@ -1479,6 +1479,25 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-canadian-fromage-blanc-pasta",
+    "title": "Indulgent Canadian fromage-blanc Pasta",
+    "tags": [
+      "canadian",
+      "creamy",
+      "gluten-free",
+      "high-protein",
+      "lacto-ovo-vegetarian",
+      "macrobiotic",
+      "one-pan",
+      "pescetarian",
+      "traditional",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-canadian-one-pot-dish-stone-bowl",
     "title": "Indulgent Canadian Stone-Bowl",
     "tags": [
@@ -3324,6 +3343,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-saudi-arabian-brown-rice-noodle-noodles",
+    "title": "Indulgent Saudi-Arabian Brown Rice Noodle Noodles",
+    "tags": [
+      "easy-to-make",
+      "noodle-dish",
+      "ovovegetarian",
+      "saudi-arabian",
+      "tangy"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-saudi-arabian-wagyu-burger",
     "title": "Indulgent Saudi-Arabian Wagyu Burger",
     "tags": [
@@ -4779,6 +4812,20 @@
     "shard": "i"
   },
   {
+    "slug": "innovative-springy-argentinian-chicken-empanadas",
+    "title": "Argentinian Chicken Empanadas",
+    "tags": [
+      "high-protein",
+      "latin-american",
+      "meal-prep",
+      "no-onion-no-garlic",
+      "spring-inspired"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
     "slug": "innovative-springy-greek-lentils-dolmades",
     "title": "Innovative Springy Greek Lentils Dolmades",
     "tags": [
@@ -5522,6 +5569,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-fermented-ethiopian-daikon-misir-wot",
+    "title": "Intense Fermented Ethiopian Daikon Misir Wot",
+    "tags": [
+      "date-night",
+      "ethiopian-cuisine",
+      "fermented-food",
+      "gluten-free",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 70,
     "shard": "i"
   },
   {
@@ -13420,6 +13482,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "irrigated-american-arabic-rice-pilaf",
+    "title": "Irrigated American Arabic Rice Pilaf",
+    "tags": [
+      "easy-to-make",
+      "gluten-free",
+      "healthy-choice",
+      "high-fiber",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {

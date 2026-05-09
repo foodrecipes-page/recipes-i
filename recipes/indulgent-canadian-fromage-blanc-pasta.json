@@ -1,0 +1,112 @@
+{
+  "title": "Indulgent Canadian fromage-blanc Pasta",
+  "description": "A creamy, briny, and nostalgic dish featuring fromage-blanc, perfect for a weeknight dinner. Made with macrobiotic-friendly ingredients and cooked in a traditional Moroccan clay vessel.",
+  "cuisine": "Canadian",
+  "diet": [
+    "macrobiotic",
+    "gluten-free",
+    "lacto-ovo-vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fromage-blanc",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "quinoa pasta",
+      "amount": "200g",
+      "notes": "preferably made from sprouted quinoa"
+    },
+    {
+      "name": "water",
+      "amount": "",
+      "notes": "for the pasta water emulsion"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "10g",
+      "notes": "preferably Himalayan pink salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "20g",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "chives",
+      "amount": "20g",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the quinoa pasta according to the package instructions until al dente.",
+    "Reserve 1 cup of the pasta water and then drain the quinoa pasta.",
+    "In a large saucepan, heat the coconut oil over low heat.",
+    "Add the fromage-blanc and whisk until smooth, slowly pouring in the reserved pasta water to create a creamy emulsion.",
+    "Stir in the lemon juice, salt, and black pepper until well combined.",
+    "Add the cooked quinoa pasta to the saucepan and toss to coat with the fromage-blanc sauce.",
+    "Stir in the chopped fresh dill and chives.",
+    "Transfer the pasta to a traditional Moroccan clay tajine vessel or a serving dish.",
+    "Serve immediately, garnished with additional fresh dill and chives if desired.",
+    "Refrigerate any leftovers in an airtight container for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "creamy",
+    "gluten-free",
+    "high-protein",
+    "lacto-ovo-vegetarian",
+    "macrobiotic",
+    "one-pan",
+    "pescetarian",
+    "traditional",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "indulgent-canadian-fromage-blanc-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-canadian-fromage-blanc-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:50:13Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "fromage-blanc",
+    "descriptor": "Indulgent",
+    "dishForm": "Pasta"
+  }
+}

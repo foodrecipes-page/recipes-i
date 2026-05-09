@@ -1,0 +1,105 @@
+{
+  "title": "Argentinian Chicken Empanadas",
+  "description": "A springy and herbal Argentinian dish featuring chicken empanadas with meringue nests and double-fry KFC style, perfect for a meal prep lunch",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "no-onion",
+    "no-garlic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "meringue nests",
+      "amount": "1 cup",
+      "notes": "store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of chicken breast in the center of each dough circle.",
+    "Brush the edges of the dough with the beaten eggs for a golden glaze.",
+    "Fold the dough in half over the filling to form a half-moon shape and press the edges together to seal.",
+    "Brush the tops of the empanadas with olive oil and sprinkle with paprika, salt, and black pepper.",
+    "Double-fry the empanadas by first baking them in the oven for 15 minutes, then frying them in hot oil until golden brown.",
+    "Drain the empanadas on paper towels and serve in meringue nests with a sprinkle of parsley and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "latin-american",
+    "meal-prep",
+    "no-onion-no-garlic",
+    "spring-inspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "innovative-springy-argentinian-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-springy-argentinian-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:49:30Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "meringue nests",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken",
+    "descriptor": "Innovative springy",
+    "dishForm": "Empanadas"
+  }
+}
