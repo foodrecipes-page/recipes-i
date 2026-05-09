@@ -11107,6 +11107,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-tangy-kenyan-smoked-mackerel-skewers",
+    "title": "Intensely Tangy Kenyan Smoked Mackerel Skewers",
+    "tags": [
+      "high-protein",
+      "kenyan-cuisine",
+      "low-glycemic",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-tangy-korean-cheese-bokkeum",
     "title": "Intensely Tangy Korean Cheese Bokkeum",
     "tags": [
@@ -11313,6 +11328,20 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 15,
+    "shard": "i"
+  },
+  {
+    "slug": "intricate-crisp-turkish-mung-bean-sprout-pilaf",
+    "title": "Intricate Crisp Turkish Mung Bean Sprout Pilaf",
+    "tags": [
+      "gluten-free",
+      "one-pot",
+      "turkish-cuisine",
+      "vegetarian-recipes",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {

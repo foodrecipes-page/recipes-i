@@ -1,0 +1,106 @@
+{
+  "title": "Intensely Tangy Kenyan Smoked Mackerel Skewers",
+  "description": "A show-off Kenyan dish featuring smoked mackerel, with a tangy and cheese-pull flavor profile, perfect for special occasions, and friendly to low-glycemic diets.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked mackerel",
+      "amount": "1 pound",
+      "notes": "filleted and cut into 1-inch pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "green chili peppers",
+      "amount": "2 peppers",
+      "notes": "sliced"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, ginger, salt, black pepper, and paprika.",
+    "Add the smoked mackerel pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated mackerel pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 12 minutes.",
+    "While the mackerel is baking, heat about 2-3 inches of oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Remove the mackerel from the oven and carefully place the skewers in the hot oil, frying for 2-3 minutes on each side, until golden brown.",
+    "Remove the skewers from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Sprinkle shredded mozzarella cheese over the mackerel and place under the broiler for 1-2 minutes, until the cheese is melted and bubbly.",
+    "Serve the intensely tangy Kenyan smoked mackerel skewers hot, garnished with sliced green chili peppers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kenyan-cuisine",
+    "low-glycemic",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "intensely-tangy-kenyan-smoked-mackerel-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-tangy-kenyan-smoked-mackerel-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:35:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "smoked mackerel",
+    "descriptor": "intensely tangy",
+    "dishForm": "Skewers"
+  }
+}
