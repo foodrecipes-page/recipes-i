@@ -1,0 +1,99 @@
+{
+  "title": "Intensely Caramel Slovakian Pork Dumplings",
+  "description": "Charred, pillowy Slovakian dish featuring caramel and steam, served in agave leaves for a unique experience, this diabetic-friendly recipe is an adventurous twist on traditional dumplings.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/2 cup",
+      "notes": "low sugar"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine ground pork, caramel sauce, chopped onion, minced garlic, ground caraway seeds, salt, and black pepper, mixing well with your hands until just combined.",
+    "Lay an agave leaf flat and place a tablespoon of the pork mixture in the center of the leaf.",
+    "Fold the leaf over the filling to form a triangle or a square shape, and press the edges together to seal the dumpling.",
+    "Repeat with the remaining pork mixture and agave leaves.",
+    "Place the dumplings in a large steamer basket, leaving some space between each dumpling.",
+    "Steam the dumplings over boiling water for 10 minutes, then remove from heat and let cool for a few minutes.",
+    "Char the dumplings under the preheated oven broiler for 2-3 minutes on each side, or until lightly browned.",
+    "Serve the dumplings hot, garnished with additional caramel sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "steamed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "intensely-caramel-slovakian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-caramel-slovakian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:13:13Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "caramel",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "intensely caramel",
+    "dishForm": "Dumplings"
+  }
+}
