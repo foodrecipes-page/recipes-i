@@ -1,0 +1,106 @@
+{
+  "title": "Innovative Spanish Avocado Ssam Wrap",
+  "description": "A tangy and adventurous Spanish dish featuring avocado hass pulp, ssam-wrap, and plant-based friendly ingredients, served on a wooden board.",
+  "cuisine": "Spanish",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Avocado Hass",
+      "amount": "3",
+      "notes": "ripe"
+    },
+    {
+      "name": "Ssam Wrap",
+      "amount": "6",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cut the avocado in half and remove the pit, then mash the pulp in a bowl with a fork until it's mostly smooth.",
+    "Heat the olive oil in a small pan over medium heat and add the smoked paprika, cooking for 1 minute.",
+    "Add the cherry tomatoes to the pan and cook for 2 minutes, until they start to release their juices.",
+    "Add the sliced red onion to the pan and cook for an additional 2 minutes, until the onions are translucent.",
+    "Stir in the lemon juice and season with salt and pepper to taste.",
+    "Warm the ssam wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by spreading a quarter of the mashed avocado on each wrap, then topping with a quarter of the tomato and onion mixture.",
+    "Sprinkle a quarter of the chopped cilantro over the top of each wrap.",
+    "Serve the wraps on a wooden board, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "lunch-ideas",
+    "plant-based",
+    "spanish-food",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "innovative-spanish-avocado-ssam-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-spanish-avocado-ssam-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:38:05Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "avocado",
+    "descriptor": "Innovative Bouncy",
+    "dishForm": "Wrap"
+  }
+}
