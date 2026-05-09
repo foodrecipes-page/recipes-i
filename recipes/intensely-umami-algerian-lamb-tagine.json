@@ -1,0 +1,110 @@
+{
+  "title": "Intensely Umami Algerian Lamb Tagine",
+  "description": "A light and comforting Algerian dish featuring sweet sherry and fermented ingredients, perfect for a sick day, with an ayurvedic-rajasic friendly twist.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "sweet sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb pieces with cumin, coriander, and cayenne pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces on all sides, then remove them from the pot.",
+    "Add the chopped onion to the pot and cook until it is softened and lightly browned.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "Add the sweet sherry, miso paste, and prunes to the pot, stirring to combine.",
+    "Return the browned lamb pieces to the pot and bring the mixture to a simmer.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the tagine for 2 1/2 hours, or until the lamb is tender.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "comfort-food",
+    "gluten-free",
+    "lamb-recipes",
+    "one-pot",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "intensely-umami-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-umami-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:45:37Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "ferment",
+    "primaryIngredient": "sweet sherry",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "intensely umami",
+    "dishForm": "Tagine"
+  }
+}
