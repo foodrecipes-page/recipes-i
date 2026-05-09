@@ -1,0 +1,94 @@
+{
+  "title": "Intensely Malty Dutch Bean Sprouts Skillet",
+  "description": "A crispy and romantic Dutch dish featuring bean sprouts, ferment-jang, and a malty flavor, all in a paleo-friendly package.",
+  "cuisine": "Dutch",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the bean sprouts and cook until they are tender and lightly browned.",
+    "In a small bowl, whisk together the malt syrup and ferment-jang.",
+    "Pour the malt syrup mixture over the bean sprouts and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Continue to cook for an additional 2 minutes, until the sauce has thickened and the bean sprouts are coated.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-vegetables",
+    "dutch-cuisine",
+    "malty-flavor",
+    "one-pan",
+    "paleo-friendly",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "intensely-malty-dutch-bean-sprouts-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-malty-dutch-bean-sprouts-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:38:30Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "ferment-jang",
+    "primaryIngredient": "bean sprouts",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "Intensely malty",
+    "dishForm": "Skillet"
+  }
+}
