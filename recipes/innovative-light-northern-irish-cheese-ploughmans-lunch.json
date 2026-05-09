@@ -1,0 +1,91 @@
+{
+  "title": "Innovative Light Northern Irish Cheese Ploughmans Lunch",
+  "description": "A fresh and fluffy Northern Irish dish featuring cardamom and Mediterranean-friendly ingredients, served in a ploughmans style lunch",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Northern Irish cheese",
+      "amount": "200g",
+      "notes": "crumbly and light"
+    },
+    {
+      "name": "cardamom pods",
+      "amount": "4",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "100g"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "150g"
+    },
+    {
+      "name": "cucumber slices",
+      "amount": "100g"
+    },
+    {
+      "name": "nimono simmer sauce",
+      "amount": "50ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius",
+    "Slice the Northern Irish cheese into thin pieces",
+    "Grind the cardamom pods into a fine powder",
+    "In a large bowl, mix together the mixed greens, cherry tomatoes, and cucumber slices",
+    "Drizzle the nimono simmer sauce and olive oil over the salad",
+    "Top the salad with the sliced cheese and sprinkle with ground cardamom",
+    "Garnish with fresh parsley",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light-lunch",
+    "mediterranean-inspired",
+    "northern-irish",
+    "ploughmans-lunch",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "innovative-light-northern-irish-cheese-ploughmans-lunch",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-light-northern-irish-cheese-ploughmans-lunch",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:44:55Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "cardamom",
+    "diet": "mediterranean",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "cheese",
+    "descriptor": "innovative light",
+    "dishForm": "Ploughmans Lunch"
+  }
+}
