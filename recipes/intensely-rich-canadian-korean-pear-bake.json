@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Rich Canadian Korean Pear Bake",
+  "description": "A rich and gooey Canadian dish featuring Korean pear, perfect for a brunch mood, simmered to perfection in a mason jar, diabetic friendly.",
+  "cuisine": "Canadian Korean",
+  "diet": [
+    "diabetic friendly",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Korean pear",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "pure maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "melted coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together almond flour, unsweetened almond milk, large eggs, pure maple syrup, melted coconut oil, vanilla extract, and cinnamon powder.",
+    "Add sliced Korean pear to the bowl and mix until well combined.",
+    "Spoon the mixture into 4 mason jars, leaving about 1 inch of space at the top.",
+    "Place the mason jars in a large baking dish and add hot water to come halfway up the sides of the jars.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the tops are golden brown.",
+    "Remove the mason jars from the water bath and let cool for a few minutes.",
+    "Serve warm, garnished with additional sliced Korean pear if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "canadian-korean",
+    "diabetic-friendly",
+    "mason-jar",
+    "pear-bake",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "intensely-rich-canadian-korean-pear-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-rich-canadian-korean-pear-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:03:25Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "simmer",
+    "primaryIngredient": "korean-pear",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Korean pear",
+    "descriptor": "Intensely rich",
+    "dishForm": "Bake"
+  }
+}

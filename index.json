@@ -3478,6 +3478,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-tunisian-lamb-tagine",
+    "title": "Indulgent Tunisian Lamb Tagine",
+    "tags": [
+      "braised-meat",
+      "lamb-recipes",
+      "low-carb",
+      "special-occasion",
+      "tunisian-cuisine"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 180,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-tunisian-olives-tagine",
     "title": "Indulgent Tunisian Olives Tagine",
     "tags": [
@@ -8142,6 +8156,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 75,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-rich-canadian-korean-pear-bake",
+    "title": "Intensely Rich Canadian Korean Pear Bake",
+    "tags": [
+      "brunch",
+      "canadian-korean",
+      "diabetic-friendly",
+      "mason-jar",
+      "pear-bake",
+      "vegetarian"
+    ],
+    "cuisine": "Canadian Korean",
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {

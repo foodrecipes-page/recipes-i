@@ -1,0 +1,112 @@
+{
+  "title": "Indulgent Tunisian Lamb Tagine",
+  "description": "A rich and flavorful Tunisian dish featuring lamb, balsamic vinegar, and a mirepoix base, all wrapped in a corn husk for a unique and indulgent experience. This low-carb friendly recipe is perfect for a special occasion.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together the balsamic vinegar, olive oil, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium heat and cook the onion, carrot, and celery until the vegetables are tender.",
+    "Add the garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the cooked vegetable mixture to the bowl with the lamb and toss to combine.",
+    "Stir in the chopped dried apricots.",
+    "To assemble the tagine, lay a corn husk flat on a work surface and spoon about 1/2 cup of the lamb and vegetable mixture onto the center of the husk.",
+    "Fold the sides of the husk over the filling and roll the husk into a tight cylinder, repeating with the remaining ingredients.",
+    "Place the tagine rolls in a large baking dish and cover with foil.",
+    "Bake the tagine for 2 1/2 hours, until the lamb is tender and the sauce is rich and syrupy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braised-meat",
+    "lamb-recipes",
+    "low-carb",
+    "special-occasion",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "indulgent-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:03:33Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Indulgent Garlicky",
+    "dishForm": "Tagine"
+  }
+}
