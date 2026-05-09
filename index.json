@@ -7272,6 +7272,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-fermented-greek-lamb-pasta",
+    "title": "Intensely Fermented Greek Lamb Pasta",
+    "tags": [
+      "comfort-food",
+      "greek-cuisine",
+      "low-glycemic",
+      "one-pot",
+      "romantic-dinner",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-fermented-russian-flour-casserole",
     "title": "Russian Blini Fermentation Casserole",
     "tags": [
@@ -8633,6 +8648,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-tunisian-beef-cutlet-tagine",
+    "title": "Tunisian Beef Cutlet Tagine",
+    "tags": [
+      "light",
+      "north-african",
+      "one-pan",
+      "savory",
+      "slow-cooked",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -10189,6 +10219,20 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 23,
+    "shard": "i"
+  },
+  {
+    "slug": "invigorating-springy-japanese-white-asparagus-tan-tan-udon",
+    "title": "Invigorating Springy Japanese White Asparagus Tan Tan Udon",
+    "tags": [
+      "japanese",
+      "one-pot",
+      "spring-inspired",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {

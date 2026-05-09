@@ -1,0 +1,91 @@
+{
+  "title": "Invigorating Springy Japanese White Asparagus Tan Tan Udon",
+  "description": "A mustardy and springy Japanese dish featuring white asparagus and long-fermentation-dough udon, perfect for a weeknight dinner with Mediterranean-friendly flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "udon noodles",
+      "amount": "8 ounces",
+      "notes": "long-fermentation-dough"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Japanese mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the udon noodles according to the package instructions.",
+    "In a large skillet, heat the sesame oil over medium heat and saute the grated ginger until fragrant.",
+    "Add the Japanese mustard and soy sauce to the skillet and stir to combine.",
+    "Add the white asparagus to the skillet and cook until tender, about 3-4 minutes.",
+    "Drain the cooked udon noodles and add them to the skillet, tossing to combine with the asparagus and sauce.",
+    "Transfer the udon noodles to a serving bowl and top with thinly sliced green onions and sesame seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "one-pot",
+    "spring-inspired",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "invigorating-springy-japanese-white-asparagus-tan-tan-udon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/invigorating-springy-japanese-white-asparagus-tan-tan-udon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:10:25Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "white asparagus",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "white asparagus",
+    "descriptor": "Invigorating Springy",
+    "dishForm": "Tan Tan Udon"
+  }
+}
