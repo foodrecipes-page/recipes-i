@@ -1,0 +1,104 @@
+{
+  "title": "Innovative Light Irish Potato Stew",
+  "description": "A pungent and light Irish stew featuring kaffir lime leaf, perfect for a crowd, this lacto-vegetarian friendly dish is cooked to perfection in a Dutch oven. It's a unique twist on traditional Irish cuisine.",
+  "cuisine": "Irish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 pounds",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in the Dutch oven over medium heat until melted.",
+    "Add the chopped onions and cook until they are translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the diced potatoes, vegetable broth, and kaffir lime leaves to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes, or until the potatoes are tender.",
+    "Use a slotted spoon to remove the kaffir lime leaves from the pot and discard.",
+    "Stir in the low fat milk and cook for an additional 2 minutes, or until heated through.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "dutch-oven",
+    "irish-cuisine",
+    "lacto-vegetarian",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "innovative-light-irish-potato-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-light-irish-potato-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:57:45Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "poach",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "innovative light",
+    "dishForm": "Stew"
+  }
+}
