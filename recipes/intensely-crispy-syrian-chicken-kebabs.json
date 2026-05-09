@@ -1,0 +1,94 @@
+{
+  "title": "Intensely Crispy Syrian Chicken Kebabs",
+  "description": "A yeasty, crispy Syrian dish featuring chicken kebabs cooked in a claypot with vegetable shortening, perfect for a sick day. This double-fry method creates an intensely crispy exterior and a juicy interior.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yeast, garlic powder, salt, black pepper, and paprika.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the yeast mixture.",
+    "Let the chicken marinate for 30 minutes to allow the yeast to activate.",
+    "Heat 1/4 cup of vegetable shortening in a claypot over medium-high heat to 350 degrees.",
+    "Add the chicken pieces to the claypot in batches and fry until golden brown, about 5 minutes per batch.",
+    "Remove the chicken from the claypot and let it cool on a paper towel-lined plate for 5 minutes.",
+    "Increase the heat to high and add the remaining 1/4 cup of vegetable shortening to the claypot.",
+    "Add the chicken pieces back to the claypot in batches and fry until intensely crispy, about 2-3 minutes per batch.",
+    "Remove the chicken from the claypot and place it on a paper towel-lined plate to drain excess oil.",
+    "Drizzle the lemon juice over the chicken kebabs and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crispy",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "intensely-crispy-syrian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-crispy-syrian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:51:09Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Intensely Crispy",
+    "dishForm": "Kebabs"
+  }
+}
