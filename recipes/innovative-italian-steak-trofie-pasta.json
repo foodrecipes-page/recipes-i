@@ -1,0 +1,104 @@
+{
+  "title": "Innovative Italian Steak Trofie Pasta",
+  "description": "A light and herbal Italian dish featuring lean minced steak and trofie pasta, perfect for a crowd, served in a bento box. This mediterranean-friendly recipe is air fried to perfection.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean minced steak",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "trofie pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the trofie pasta according to the package instructions until al dente.",
+    "In a large bowl, whisk together olive oil, garlic, basil, parsley, lemon juice, salt, and black pepper to make the herbal sauce.",
+    "Add the cooked trofie pasta to the bowl and toss to combine with the herbal sauce.",
+    "In a separate pan, air fry the lean minced steak over medium-high heat until it reaches an internal temperature of 145 degrees.",
+    "Once the steak is cooked, let it rest for a few minutes before slicing it into thin strips.",
+    "Add the sliced steak to the bowl with the pasta and toss to combine.",
+    "Sprinkle grated parmesan cheese over the top of the pasta and steak mixture.",
+    "Serve the innovative italian steak trofie pasta in a bento box.",
+    "Garnish with additional basil and parsley if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "bento-box",
+    "healthy-meals",
+    "italian-food",
+    "pasta-dishes",
+    "steak-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "innovative-italian-steak-trofie-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-italian-steak-trofie-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:59:06Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "lean minced steak",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "steak",
+    "descriptor": "Italian Inspired",
+    "dishForm": "Trofie Pasta"
+  }
+}
