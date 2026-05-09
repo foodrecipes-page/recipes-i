@@ -1,0 +1,96 @@
+{
+  "title": "Intensely Smoky Croatian Lamb Stew",
+  "description": "A hearty and comforting Croatian dish featuring tender lamb and a rich, smoky flavor, served in a scallop shell. This macrobiotic-friendly recipe is perfect for a cozy dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, toss the lamb cubes with the caster sugar, smoked paprika, and black pepper until they are evenly coated.",
+    "In a large Dutch oven, cook the lamb over medium-high heat until it is browned on all sides.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the chopped carrots and cook for an additional 5 minutes.",
+    "Add the lamb broth to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the lamb is tender and the stew is hot and bubbly.",
+    "Serve the stew in scallop shells, garnished with fresh parsley or thyme."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian",
+    "lamb-based",
+    "macrobiotic",
+    "one-pot",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "intensely-smoky-croatian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-croatian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:23:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "smoke-hot",
+    "primaryIngredient": "caster sugar",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "intensely smoky",
+    "dishForm": "Stew"
+  }
+}
