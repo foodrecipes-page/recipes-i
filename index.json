@@ -8887,6 +8887,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-floral-indian-chicken-wings-paratha",
+    "title": "Intensely Floral Indian Chicken Wings Paratha",
+    "tags": [
+      "chicken-wings",
+      "fodmap-friendly",
+      "gluten-free",
+      "indian-food",
+      "monsoon-dish",
+      "paratha"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-floral-italian-shrimp-pasta",
     "title": "Intensely Floral Italian Shrimp Pasta",
     "tags": [
@@ -11045,6 +11060,20 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-spicy-malaysian-tofu-curry",
+    "title": "Intensely Spicy Malaysian Tofu Curry",
+    "tags": [
+      "malaysian-cuisine",
+      "one-pot",
+      "plant-based",
+      "spicy-food",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {

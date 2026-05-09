@@ -1,0 +1,95 @@
+{
+  "title": "Intensely Floral Indian Chicken Wings Paratha",
+  "description": "A monsoon Indian dish featuring sashimi-cut chicken wings in a pillowy paratha, served in a bamboo tray, with intensely floral flavors and FODMAP-friendly ingredients.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "1 pound",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "jasmine rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rose petal jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Mix the jasmine rice flour, ghee, rose petal jam, orange blossom water, salt, and black pepper in a large bowl.",
+    "Add the sashimi-cut chicken wings to the bowl and toss to coat evenly.",
+    "Knead the mixture for 5 minutes until it forms a smooth dough.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a few pieces of the coated chicken wings in the center of each circle.",
+    "Fold the dough over the chicken wings to form a paratha and press the edges to seal.",
+    "Place the parathas in a bamboo tray and bake for 20 minutes.",
+    "Serve the parathas hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-wings",
+    "fodmap-friendly",
+    "gluten-free",
+    "indian-food",
+    "monsoon-dish",
+    "paratha"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "intensely-floral-indian-chicken-wings-paratha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-floral-indian-chicken-wings-paratha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:00:59Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "chicken wings",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken wings",
+    "descriptor": "intensely floral",
+    "dishForm": "Paratha"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Intensely Spicy Malaysian Tofu Curry",
+  "description": "A cultured and tender Malaysian dish featuring red chilli, served in a lacquerware bowl, perfect for a solo dinner",
+  "cuisine": "Malaysian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "red chilli",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat",
+    "Add sliced onion and cook until softened",
+    "Add minced garlic and cook for 1 minute",
+    "Add sliced red chilli and cook for 1 minute",
+    "Add curry powder and turmeric, stir for 1 minute",
+    "Add coconut milk and bring to a simmer",
+    "Add tofu and cook until heated through",
+    "Season with salt to taste",
+    "Garnish with chopped cilantro and serve in a lacquerware bowl"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian-cuisine",
+    "one-pot",
+    "plant-based",
+    "spicy-food",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "intensely-spicy-malaysian-tofu-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-spicy-malaysian-tofu-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:00:48Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "red chilli",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tofu",
+    "descriptor": "intensely spicy",
+    "dishForm": "Curry"
+  }
+}
