@@ -1,0 +1,92 @@
+{
+  "title": "Indulgent Canadian Pineapple Fritters",
+  "description": "A sweet and indulgent Canadian dish featuring pineapple, with a nutty and glassy-jelly texture, served in an agave leaf vessel. This gluten-free friendly treat is perfect for any occasion.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pineapple rings",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4-6",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, coconut sugar, and salt.",
+    "In a separate bowl, whisk together the eggs and vanilla extract.",
+    "Add the egg mixture to the dry ingredients and stir until combined.",
+    "Add the pineapple rings to the batter and stir until they are fully coated.",
+    "Fry the pineapple rings in batches until they are golden brown.",
+    "Drain the fritters on paper towels and serve in agave leaves.",
+    "Garnish with additional coconut sugar and pineapple wedges if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "agave-leaf-recipes",
+    "canadian-dish",
+    "gluten-free",
+    "indulgent-desserts",
+    "pineapple-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "indulgent-canadian-pineapple-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-canadian-pineapple-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:05:42Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "fry",
+    "primaryIngredient": "pineapple",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pineapple",
+    "descriptor": "indulgent nutty",
+    "dishForm": "Fritters"
+  }
+}
