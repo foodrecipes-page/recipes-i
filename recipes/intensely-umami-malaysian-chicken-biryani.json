@@ -1,0 +1,105 @@
+{
+  "title": "Intensely Umami Malaysian Chicken Biryani",
+  "description": "A rich and flavorful Malaysian dish featuring basmati rice and chicken in a savory umami sauce, perfect for a lazy Sunday",
+  "cuisine": "Malaysian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "mushroom broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Heat the coconut oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is lightly browned.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken and cook until it is browned on all sides.",
+    "Add the mushroom broth, soy sauce, and curry powder, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the basmati rice to the saucepan and stir to combine with the chicken and sauce.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 10 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "lazy-sunday",
+    "malaysian-cuisine",
+    "one-pot",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "intensely-umami-malaysian-chicken-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-umami-malaysian-chicken-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:46:56Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "basmati rice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Intensely Umami",
+    "dishForm": "Biryani"
+  }
+}
