@@ -1,0 +1,84 @@
+{
+  "title": "indulgent-fluffy-jamaican-jamaican-dried-apricot-dish-bake",
+  "description": "fluffy, grassy, show-off jamaican dish featuring dried apricots, kombu-cold-extract, macrobiotic-friendly, vessel=bamboo-steamer,",
+  "cuisine": "jamaican",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "soaked in kombu-cold-extract for 3 hours"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "1 cup",
+      "notes": "used to soak dried apricots"
+    },
+    {
+      "name": "brown rice flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat bamboo steamer over boiling water.",
+    "soak dried apricots in kombu-cold-extract for 3 hours.",
+    "mix brown rice flour and coconut oil to make crust.",
+    "press crust into the bottom of the bamboo steamer basket."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 30,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "grassy",
+    "low-fat",
+    "macrobiotic",
+    "sugar-conscious",
+    "vegan",
+    "veggie-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 24
+  },
+  "slug": "indulgent-fluffy-jamaican-jamaican-dried-apricot-dish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-fluffy-jamaican-jamaican-dried-apricot-dish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:26:57Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "dried apricots",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Dried Apricot Dish",
+    "descriptor": "Indulgent Fluffy Jamaican",
+    "dishForm": "Bake"
+  }
+}
