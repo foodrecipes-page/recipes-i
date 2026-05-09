@@ -1,0 +1,102 @@
+{
+  "title": "Intense Molten Spanish Vine Tomatoes Wrap",
+  "description": "A tangy and molten Spanish dish featuring vine tomatoes, served in a ssam wrap, perfect for a solo lacto-vegetarian dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "2 large",
+      "notes": "ripe and cored"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "1 large"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the vine tomatoes with olive oil, garlic, smoked paprika, salt, and black pepper until they are evenly coated.",
+    "Spread the tomatoes on a baking sheet and roast in the oven for 20 minutes, or until they are tender and lightly caramelized.",
+    "While the tomatoes are roasting, toast the ssam wrap by wrapping it in a damp paper towel and microwaving for 20 seconds.",
+    "Remove the tomatoes from the oven and sprinkle the manchego cheese over the top, returning the baking sheet to the oven for an additional 2 minutes, or until the cheese is melted and bubbly.",
+    "Remove the baking sheet from the oven and sprinkle the chopped parsley and lemon juice over the top of the tomatoes.",
+    "To assemble the wrap, place the roasted tomatoes and cheese in the center of the toasted ssam wrap.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lacto-vegetarian",
+    "one-pan",
+    "spanish-cuisine",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intense-molten-spanish-vine-tomatoes-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-molten-spanish-vine-tomatoes-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:50:16Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "vine tomatoes",
+    "descriptor": "intense molten",
+    "dishForm": "Wrap"
+  }
+}
