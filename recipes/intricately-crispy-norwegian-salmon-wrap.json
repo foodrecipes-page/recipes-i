@@ -1,0 +1,93 @@
+{
+  "title": "Intricately Crispy Norwegian Salmon Wrap",
+  "description": "A low-calorie Norwegian dish featuring herbal flavors and crispy textures, perfect for midnight cravings. This dish is made with mustard seeds and a mirepoix base, wrapped in a corn husk wrap.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "4 ounces",
+      "notes": "wild-caught"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mirepoix mix",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "corn husk wraps",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together mustard seeds, mirepoix mix, thyme, salt, and pepper.",
+    "Place the salmon fillet on a baking sheet lined with parchment paper and brush with olive oil.",
+    "Sprinkle the mustard seed mixture evenly over the salmon fillet.",
+    "Bake the salmon in the preheated oven for 12 minutes or until cooked through.",
+    "While the salmon is cooking, warm the corn husk wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Once the salmon is cooked, let it cool for a minute before slicing it into thin strips.",
+    "Assemble the wraps by placing a few slices of the salmon onto each corn husk wrap.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk-wraps",
+    "herbal-flavors",
+    "low-calorie",
+    "midnight-cravings",
+    "norwegian-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "intricately-crispy-norwegian-salmon-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-crispy-norwegian-salmon-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:43:21Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "mustard seeds",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "Intricately crispy",
+    "dishForm": "Wrap"
+  }
+}
