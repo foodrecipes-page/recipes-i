@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Fatty Filipino Haricot Beans Pinakbet",
+  "description": "A rich and savory Filipino dish featuring haricot beans in a flaky pastry crust, perfect for a special occasion or date night. This pinakbet variation is both decadent and low-fat-friendly by using lean protein and balanced ingredients.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haricot beans",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "pork belly",
+      "amount": "1/2 cup",
+      "notes": "diced and crisped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bagoong",
+      "amount": "2 tablespoons",
+      "notes": "fermented fish sauce"
+    },
+    {
+      "name": "pastry dough",
+      "amount": "1 sheet",
+      "notes": "thawed and rolled out"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten for brushing pastry"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat oil over medium heat and saute the onion and tomato until softened.",
+    "Add the bagoong, salt, and pepper, and stir to combine.",
+    "Stir in the mashed haricot beans and cook for an additional 2 minutes.",
+    "Roll out the pastry dough to a thickness of about 1/8 inch.",
+    "Spoon the haricot bean mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Top with crisped pork belly and brush the edges of the pastry with the beaten egg.",
+    "Fold the other half of the pastry over the filling and press the edges to seal.",
+    "Brush the top of the pastry with the remaining egg and cut a few slits in the top to allow steam to escape.",
+    "Bake the pinakbet for 25-30 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "filipino-food",
+    "low-fat",
+    "one-pan",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "intensely-fatty-filipino-haricot-beans-pinakbet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-fatty-filipino-haricot-beans-pinakbet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:32:06Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "en-croute",
+    "primaryIngredient": "haricot beans",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "haricot beans",
+    "descriptor": "intensely fatty",
+    "dishForm": "Pinakbet"
+  }
+}
