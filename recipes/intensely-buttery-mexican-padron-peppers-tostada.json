@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Buttery Mexican Padron Peppers Tostada",
+  "description": "A rich and velvety Mexican dish featuring padron peppers, perfect for a date night, this jain-friendly tostada is cured with yuzu for a unique flavor.",
+  "cuisine": "Mexican",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "padron peppers",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "6"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "6"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the padron peppers in the oven for 20 minutes, or until the skin is blistered and charred.",
+    "Remove the peppers from the oven and let them cool, then peel off the skin and remove the seeds.",
+    "In a large skillet, melt the unsalted butter over medium heat.",
+    "Add the roasted padron peppers to the skillet and stir to coat with the butter.",
+    "Squeeze the yuzu juice over the peppers and stir to combine.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tostadas by spooning the buttery padron peppers onto a tortilla and topping with salt, black pepper, and chopped cilantro.",
+    "Serve the tostadas with a lime wedge on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "jain-friendly",
+    "mexican-food",
+    "vegetarian",
+    "yuzu-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "intensely-buttery-mexican-padron-peppers-tostada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-buttery-mexican-padron-peppers-tostada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:29:16Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "padron peppers",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "padron peppers",
+    "descriptor": "Intensely Buttery",
+    "dishForm": "Tostada"
+  }
+}
