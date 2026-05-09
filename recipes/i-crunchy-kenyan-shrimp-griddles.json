@@ -1,0 +1,111 @@
+{
+  "title": "iCrunchy Kenyan Shrimp Griddles",
+  "description": "A pungent, crumbly, adventurous Kenyan dish featuring shrimp stock and double-rise bread, perfect for an iron teppan griddle.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "small shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "shrimp stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought, without onions or garlic"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "1 loaf",
+      "notes": "crust removed and cubed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "+ zest optional"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "+ smoked optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "+ black optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "green chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "+ extra optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan griddle over medium-high heat to 400°F (200°C).",
+    "Add 1 tablespoon of coconut oil to the preheated griddle and swirl to coat.",
+    "Add the cubed double-rise bread to the griddle and toast until lightly browned, about 2-3 minutes per side.",
+    "In a small bowl, mix together the shrimp stock, curry powder, and paprika.",
+    "Add the shrimp to the griddle and cook until they start to turn pink, about 2-3 minutes per side.",
+    "Pour the shrimp stock mixture over the shrimp and cook until the liquid is almost fully absorbed, about 2-3 minutes more.",
+    "Add the toasted bread back to the griddle, breaking it up into small pieces as it cooks.",
+    "Stir in the lemon juice, salt, black pepper, and green chili flakes.",
+    "Serve the iCrunchy Kenyan Shrimp Griddles hot, garnished with lemon zest if desired.",
+    "Let the griddle rest for 2-3 minutes before wiping clean with a damp cloth."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "i-crunchy-kenyan-shrimp-griddles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/i-crunchy-kenyan-shrimp-griddles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:59:16Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "shrimp stock",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "shrimp",
+    "descriptor": "iCrunchy",
+    "dishForm": "griddles"
+  }
+}

@@ -30,6 +30,20 @@
     "shard": "i"
   },
   {
+    "slug": "i-crunchy-kenyan-shrimp-griddles",
+    "title": "iCrunchy Kenyan Shrimp Griddles",
+    "tags": [
+      "high-protein",
+      "kenyan",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
     "slug": "i-indulgent-vietnamese-sea-bass-fillets-stone-bowl-dolsot",
     "title": "Indulgent Vietnamese Sea Bass Fillets Stone-Bowl-Dolsot",
     "tags": [
@@ -1136,6 +1150,19 @@
     ],
     "cuisine": "Indian-Canadian fusion",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-aerated-tunisian-dish-wood-fired-bake",
+    "title": "Tunisian Bourek with Honey and Dates",
+    "tags": [
+      "dessert",
+      "herbal",
+      "tunisian",
+      "wood-fired"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {

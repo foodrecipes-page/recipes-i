@@ -1,0 +1,122 @@
+{
+  "title": "Tunisian Bourek with Honey and Dates",
+  "description": "A traditional Tunisian dish featuring soft sugar and a wood-fired-bake. This aerated dessert is perfect for warm evenings and pairs well with a cup of herbal tea.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "soft brown sugar",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dates",
+      "amount": "6",
+      "notes": "pitted"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": "pure"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, sugar, and salt until well combined.",
+    "Add the chopped almonds and mix until the dough is crumbly.",
+    "In a separate bowl, whisk together the eggs, water, and honey until smooth.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rest for 30 minutes.",
+    "Preheat the oven to 375°F (190°C).",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Place the balls on a baking sheet lined with parchment paper and brush them with oil.",
+    "Bake the bourek for 20-25 minutes or until they are golden brown.",
+    "Let the bourek cool for 5 minutes before serving.",
+    "Serve the bourek warm with a side of honey and dates.",
+    "You can also enjoy the bourek with a cup of herbal tea."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "herbal",
+    "tunisian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "indulgent-aerated-tunisian-dish-wood-fired-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-aerated-tunisian-dish-wood-fired-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:59:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "light brown soft sugar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "",
+    "descriptor": "Indulgent aerated",
+    "dishForm": "Wood-fired-bake"
+  }
+}
