@@ -9272,6 +9272,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-garlicky-italian-pasta-lasagna",
+    "title": "Intensely Garlicky Italian Pasta Lasagna",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "garlicky",
+      "italian-food",
+      "pasta-dish",
+      "rich-and-hearty"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 75,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-garlicky-korean-gorgonzola-stew",
     "title": "Intensely Garlicky Korean Gorgonzola Stew",
     "tags": [

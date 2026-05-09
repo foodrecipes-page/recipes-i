@@ -1,0 +1,98 @@
+{
+  "title": "Intensely Garlicky Italian Pasta Lasagna",
+  "description": "A rich and comforting Italian dish featuring caramel sauce, lardons, and a blend of cheeses, perfect for a sick day or a cold winter night. This recipe is designed to be ayurvedic-rajasic-friendly, promoting energy and warmth.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "lardons",
+      "amount": "4 oz",
+      "notes": "diced bacon"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions and set aside.",
+    "In a large skillet, render the lardons over medium heat until crispy, then set aside.",
+    "In the same skillet, add the garlic and cook for 1-2 minutes until fragrant.",
+    "In a large bowl, combine the ricotta cheese, parmesan cheese, and a pinch of salt and pepper.",
+    "Spread a layer of caramel sauce in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the caramel sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles, followed by half of the mozzarella cheese and half of the lardons.",
+    "Repeat the layers, starting with the noodles, then the caramel sauce, the remaining ricotta cheese mixture, the remaining mozzarella cheese, and finally the remaining lardons.",
+    "Top the lasagna with the chopped fresh basil and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and bake for an additional 10-15 minutes until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "garlicky",
+    "italian-food",
+    "pasta-dish",
+    "rich-and-hearty"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "intensely-garlicky-italian-pasta-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-garlicky-italian-pasta-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:49:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "lardons-render",
+    "primaryIngredient": "caramel sauce",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pasta",
+    "descriptor": "Intensely garlicky",
+    "dishForm": "Lasagna"
+  }
+}
