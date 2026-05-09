@@ -1,0 +1,110 @@
+{
+  "title": "Intense Juicy Kenyan Beef Skewers",
+  "description": "Pungent and juicy Kenyan beef skewers served with fries and beurre-monte, perfect for a date night, this dish is kosher-friendly and cooked on a comal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the beef cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated beef cubes onto skewers.",
+    "Cook the skewers on the preheated comal for 8-10 minutes, turning occasionally.",
+    "While the skewers are cooking, cook the fries according to package instructions.",
+    "Serve the beef skewers with the cooked fries and beurre-monte.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-skewers",
+    "comal-cooking",
+    "date-night",
+    "juicy-beef",
+    "kenyan-cuisine",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "intense-juicy-kenyan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-juicy-kenyan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:51:55Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "beurre-monte",
+    "primaryIngredient": "fries",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beef",
+    "descriptor": "intense juicy",
+    "dishForm": "Skewers"
+  }
+}
