@@ -1,0 +1,101 @@
+{
+  "title": "Intriguingly Crisp Saudi Arabian Lamb Kebabs",
+  "description": "A floral and crisp Saudi Arabian dish featuring lamb kebabs with sour cream and pickle, reminiscent of nostalgic flavors. This dish is perfect for those looking for a unique and flavorful meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together sour cream, pickle juice, olive oil, garlic, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, or until the lamb is cooked to an internal temperature of 145 degrees.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs with a side of sour cream and pickle slices.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic-lovers",
+    "grilled-meats",
+    "lamb-recipes",
+    "middle-eastern",
+    "pickle-juice",
+    "sour-cream-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "intriguingly-crisp-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intriguingly-crisp-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:21:07Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "pickle",
+    "primaryIngredient": "sour cream",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Intriguingly crisp",
+    "dishForm": "Kebabs"
+  }
+}
