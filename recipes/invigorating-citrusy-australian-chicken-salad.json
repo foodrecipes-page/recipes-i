@@ -1,0 +1,96 @@
+{
+  "title": "Invigorating Citrusy Australian Chicken Salad",
+  "description": "A refreshing and healthy Australian-inspired chicken salad featuring citrus and vanilla flavors, perfect for a light meal or snack. This dish is low in calories and rich in protein.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-calorie",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "macadamia nuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Season the chicken breast with salt and pepper, then bake for 20 minutes or until cooked through.",
+    "In a blender or food processor, combine orange juice, lemon juice, vanilla extract, and honey, and blend until smooth.",
+    "In a large bowl, whisk together the blended citrus mixture and 1 tablespoon of olive oil to emulsify.",
+    "Add the mixed greens, sliced red onion, and chopped macadamia nuts to the bowl and toss to combine.",
+    "Once the chicken is cooked, let it cool, then chop it into bite-sized pieces and add it to the bowl.",
+    "Toss the salad gently to combine all the ingredients.",
+    "Refrigerate the salad for at least 30 minutes to allow the flavors to meld.",
+    "Serve the salad chilled, garnished with additional macadamia nuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-inspired",
+    "citrusy",
+    "healthy",
+    "high-protein",
+    "low-calorie",
+    "meal-prep",
+    "refreshing"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "invigorating-citrusy-australian-chicken-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/invigorating-citrusy-australian-chicken-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:41:54Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "emulsify",
+    "primaryIngredient": "vanilla",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "Invigorating citrusy",
+    "dishForm": "Salad"
+  }
+}
