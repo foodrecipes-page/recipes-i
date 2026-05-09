@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Caramel Japanese Tofu Agedashi",
+  "description": "Buttery and crumbly Japanese dish featuring caramel, perfect for a weeknight dinner, this low-carb friendly Agedashi tofu is a delightful meal, served on a tagliere.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and add the tofu cubes, cooking for 3-4 minutes or until they float to the surface.",
+    "Remove the tofu from the water with a slotted spoon and drain on paper towels.",
+    "In a large skillet, heat the vegetable oil over medium heat and add the grated daikon and carrot, cooking until they are slightly caramelized.",
+    "Add the mirin, soy sauce, and sake to the skillet and stir to combine, cooking for an additional 2 minutes.",
+    "Add the caramel sauce to the skillet and stir to combine, cooking for 1 minute.",
+    "Add the cooked tofu to the skillet and toss to coat with the caramel sauce mixture.",
+    "Transfer the tofu to a tagliere and sprinkle with sesame seeds and scallions.",
+    "Serve immediately and enjoy.",
+    "Consider serving with a side of steamed vegetables or a salad for a well-rounded meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramel",
+    "easy-dinner",
+    "japanese",
+    "low-carb",
+    "tofu",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "intensely-caramel-japanese-tofu-agedashi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-caramel-japanese-tofu-agedashi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:58:24Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "boil",
+    "primaryIngredient": "caramel",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "intensely caramel",
+    "dishForm": "Agedashi"
+  }
+}
