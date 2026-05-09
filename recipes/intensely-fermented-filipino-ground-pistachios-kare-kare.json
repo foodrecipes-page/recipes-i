@@ -1,0 +1,104 @@
+{
+  "title": "Intensely Fermented Filipino Ground Pistachios Kare Kare",
+  "description": "A traditional Filipino dish with a twist, featuring fermented ground pistachios in a rich and savory sauce, served in a terracotta dish. This low-glycemic-friendly recipe is perfect for a comforting meal on a sick day.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pistachios",
+      "amount": "1 cup",
+      "notes": "fermented for at least 24 hours"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "annatto powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Heat the peanut oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the fermented ground pistachios, fish sauce, vinegar, salt, black pepper, and annatto powder.",
+    "Transfer the mixture to a terracotta dish and arrange the sliced eggplant on top.",
+    "Bake for 25 minutes, or until the eggplant is tender.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve hot, garnished with additional annatto powder if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fermented-foods",
+    "filipino-cuisine",
+    "gluten-free",
+    "low-glycemic",
+    "one-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "intensely-fermented-filipino-ground-pistachios-kare-kare",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-fermented-filipino-ground-pistachios-kare-kare",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:43:16Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "glaze",
+    "primaryIngredient": "ground pistachios",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "ground pistachios",
+    "descriptor": "Intensely Fermented",
+    "dishForm": "Kare Kare"
+  }
+}
