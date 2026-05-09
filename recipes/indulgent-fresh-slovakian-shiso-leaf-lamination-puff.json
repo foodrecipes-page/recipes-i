@@ -1,0 +1,87 @@
+{
+  "title": "indulgent fresh slovakian shiso-leaf lamination-puff",
+  "description": "A delicate Slovakian pastry featuring shiso leaf and lamination puff, Ayurvedic-sattvic-friendly, and perfect for a light dessert or snack.",
+  "cuisine": "slovakian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shiso leaves",
+      "amount": "12 fresh leaves",
+      "notes": ""
+    },
+    {
+      "name": "lamination puff pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought, thawed according to package instructions"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the lamination puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "In a small bowl, mix together the almond milk, honey, and vanilla extract (if using).",
+    "Brush the mixture evenly over the pastry, leaving a 1-inch border around the edges.",
+    "Arrange the fresh shiso leaves on top of the pastry, slightly overlapping each other to form a pattern.",
+    "Sprinkle the granulated sugar over the shiso leaves, if using.",
+    "Fold the edges of the pastry up over the shiso leaves to form a crust.",
+    "Brush the coconut oil over the crust to give it a golden brown color.",
+    "If using fresh mint, sprinkle it evenly over the pastry.",
+    "Transfer the pastry to a baking sheet lined with parchment paper.",
+    "Bake the pastry in the preheated oven for 18-20 minutes, or until the crust is golden brown and the pastry is cooked through.",
+    "Remove the pastry from the oven and let it cool on a wire rack for 5 minutes before slicing and serving.",
+    "Slice the pastry into 12 equal pieces and serve warm, dusting with powdered sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-sattvic",
+    "dessert",
+    "easy-to-make",
+    "slovakian",
+    "snack",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "indulgent-fresh-slovakian-shiso-leaf-lamination-puff",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-fresh-slovakian-shiso-leaf-lamination-puff",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:12:59Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "lamination-puff",
+    "primaryIngredient": "shiso-leaf",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "shiso-leaf",
+    "descriptor": "indulgent fresh",
+    "dishForm": "lamination-puff"
+  }
+}
