@@ -1,0 +1,94 @@
+{
+  "title": "Intense Romantic Korean Feta Tang",
+  "description": "A tangy and pillowy Korean dish featuring feta, perfect for a romantic evening. This halal-friendly recipe is sure to impress.",
+  "cuisine": "Korean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 block",
+      "notes": "crumbly"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    }
+  ],
+  "instructions": [
+    "Heat the score-fat in a large pot over medium heat.",
+    "Add the minced garlic and cook until fragrant.",
+    "Add the gochujang, soy sauce, and rice vinegar, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Add the cubed tofu and cook until it is coated in the sauce.",
+    "Crumble the feta cheese into the pot and stir to combine.",
+    "Reduce the heat to low and cook for an additional 5 minutes.",
+    "Stir in the chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "korean-food",
+    "one-pot",
+    "romantic-dinner",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intense-romantic-korean-feta-tang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-romantic-korean-feta-tang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:16:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "score-fat",
+    "primaryIngredient": "feta",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "feta",
+    "descriptor": "Intense Romantic",
+    "dishForm": "Tang"
+  }
+}
