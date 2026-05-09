@@ -1,0 +1,116 @@
+{
+  "title": "Intensely Briny Mexican Smoked Turkey Neck Cochinita Pibil",
+  "description": "A briny, crispy, crowd-pleasing Mexican dish featuring smoked turkey neck, inspired by Yucatecan cochinita pibil, made in a kadhai with ayurvedic-sattvic-friendly ingredients and smoked to perfection in a tandoor.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked turkey neck",
+      "amount": "2 pounds",
+      "notes": "preferably from a local butcher"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "achiote paste",
+      "amount": "2 tablespoons",
+      "notes": "roasted"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon",
+      "notes": "preferably Himalayan pink salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit.",
+    "In a large kadhai, heat the olive oil over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the achiote paste, cumin, coriander, salt, and black pepper, and stir to combine.",
+    "Add the smoked turkey neck to the kadhai, turning to coat evenly with the spice mixture.",
+    "Add the lime and orange juice to the kadhai, bringing the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 2 hours, or until the turkey is tender and falling off the bone.",
+    "Remove the kadhai from the heat and let it cool slightly.",
+    "Shred the turkey neck into bite-sized pieces and serve hot, garnished with fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-recipes",
+    "gluten-free",
+    "mexican-cuisine",
+    "one-pot-meal",
+    "smoked-meat",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intensely-briny-mexican-smoked-turkey-neck-cochinita-pibil",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-briny-mexican-smoked-turkey-neck-cochinita-pibil",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:11:47Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "tandoor",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "ayurvedic-sattvic",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "smoked turkey neck",
+    "descriptor": "Intensely Briny",
+    "dishForm": "Cochinita Pibil"
+  }
+}
