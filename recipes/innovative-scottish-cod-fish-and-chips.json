@@ -1,0 +1,92 @@
+{
+  "title": "Innovative Scottish Cod Fish And Chips",
+  "description": "A funky twist on traditional fish and chips featuring black treacle and confit tomato, this Scottish dish is kosher friendly and full of flavor. The combination of crispy cod, fluffy chips, and sweet and tangy sauce is a must try.",
+  "cuisine": "Scottish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "black treacle",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 liter"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Cut the potatoes into long thin strips and fry until crispy and golden brown.",
+    "In a separate pan, heat the black treacle over low heat until warm and runny.",
+    "Add the confit tomato to the black treacle and stir to combine.",
+    "Season the cod fillets with salt and pepper.",
+    "Dip the cod fillets in the black treacle and confit tomato sauce, coating completely.",
+    "Fry the cod fillets in the hot oil until cooked through and flaky.",
+    "Drain the chips on paper towels and serve alongside the cod and sauce.",
+    "Squeeze a sliver of lemon juice over the top of the dish before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-food",
+    "comfort-food",
+    "fish-and-chips",
+    "kosher-friendly",
+    "scottish-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 100,
+    "fat": 70
+  },
+  "slug": "innovative-scottish-cod-fish-and-chips",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/innovative-scottish-cod-fish-and-chips",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:13:25Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "confit-tomato",
+    "primaryIngredient": "black treacle",
+    "diet": "kosher",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "cod",
+    "descriptor": "Innovative Crunchy",
+    "dishForm": "Fish And Chips"
+  }
+}
