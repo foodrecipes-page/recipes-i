@@ -1,0 +1,104 @@
+{
+  "title": "Intricately Broiled Japanese Pickles Skewers",
+  "description": "A traditional Japanese dish featuring pickles, broiled to perfection and served on a banana leaf, this recipe is a must try for its unique blend of flavors and textures. It is a jain-friendly and festive dish, perfect for special occasions.",
+  "cuisine": "Japanese",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese pickles",
+      "amount": "1 cup",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mustard paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together mustard paste, soy sauce, sesame oil, salt, and black pepper.",
+    "Add the sliced Japanese pickles to the bowl and toss to coat with the mustard mixture.",
+    "Thread 2-3 pickles onto each banana leaf, leaving a small space between each pickle.",
+    "Brush the banana leaves with vegetable oil and place under the broiler for 5-7 minutes, or until the pickles are slightly charred.",
+    "Remove the skewers from the oven and sprinkle with sesame seeds and chopped green onions.",
+    "Serve the skewers hot, garnished with additional green onions if desired.",
+    "Repeat the process with the remaining pickles and banana leaves.",
+    "Arrange the skewers on a platter and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "broiled",
+    "crunchy",
+    "festive",
+    "jain-friendly",
+    "japanese-cuisine",
+    "mustardy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "intricately-broiled-japanese-pickles-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-broiled-japanese-pickles-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:15:56Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "broil",
+    "primaryIngredient": "pickles",
+    "diet": "jain",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pickles",
+    "descriptor": "Intricately broiled",
+    "dishForm": "Skewers"
+  }
+}
