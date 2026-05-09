@@ -1,0 +1,95 @@
+{
+  "title": "Intense Smoky Argentinian Callaloo Skewers",
+  "description": "A winey and shattering date-night Argentinian dish featuring callaloo, this recipe is Whole30-friendly and perfect for a special occasion. The callaloo is ice-bath-shocked and grilled to perfection on a cedar plank.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "Whole30",
+    "Paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "callaloo",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, red wine vinegar, smoked paprika, garlic, salt, and black pepper.",
+    "Add the chopped callaloo to the bowl and toss to coat with the marinade.",
+    "Thread the marinated callaloo onto the soaked cedar planks.",
+    "Place the planks on the grill and cook for 10 minutes per side.",
+    "After cooking, immediately submerge the planks in an ice bath to stop the cooking process.",
+    "Once the callaloo has cooled, slice it into thin strips.",
+    "Serve the smoky callaloo skewers hot, garnished with additional smoked paprika if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "date-night",
+    "grilled",
+    "paleo",
+    "smoky",
+    "vegetarian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "intense-smoky-argentinian-callaloo-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-argentinian-callaloo-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:40:21Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "callaloo",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "callaloo",
+    "descriptor": "intense smoky",
+    "dishForm": "Skewers"
+  }
+}
