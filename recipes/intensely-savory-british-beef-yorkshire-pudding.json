@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Savory British Beef Yorkshire Pudding",
+  "description": "A herbal and snappy Scottish dish featuring Italian seasoning and shio-koji-cure, perfect for a date night, cooked in a salt block vessel.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, salt, and black pepper.",
+    "In a separate bowl, whisk together the eggs and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Add the beef, italian seasoning, and shio-koji to the batter and stir until just combined.",
+    "Heat the salt block in the oven for 10 minutes.",
+    "Remove the salt block from the oven and pour the batter onto it.",
+    "Return the salt block to the oven and cook for 20 minutes.",
+    "Reduce the oven temperature to 375 degrees Fahrenheit and cook for an additional 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "date-night",
+    "italian-seasoning",
+    "salt-block",
+    "scottish",
+    "yorkshire-pudding"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "intensely-savory-british-beef-yorkshire-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-savory-british-beef-yorkshire-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:22:53Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "italian seasoning",
+    "diet": "dash",
+    "region": "scottish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "beef",
+    "descriptor": "Intensely savory",
+    "dishForm": "Yorkshire Pudding"
+  }
+}
