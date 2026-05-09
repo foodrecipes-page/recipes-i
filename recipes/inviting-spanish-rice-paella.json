@@ -1,0 +1,103 @@
+{
+  "title": "Inviting Spanish Rice Paella",
+  "description": "A traditional Valencian dish with a twist, featuring shio-koji for added depth of flavor, perfect for a brunch gathering",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "uncooked spanish rice",
+      "amount": "1 1/2 cups",
+      "notes": "preferably bomba or calasparra"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dum olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 cup",
+      "notes": "canned or marinated"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 3/4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe over medium heat, adding the dum olive oil to coat the bottom",
+    "Add the minced garlic and cook, stirring occasionally, until fragrant and lightly browned",
+    "Add the diced red bell pepper and cook until tender, about 5 minutes",
+    "Add the artichoke hearts, smoked paprika, saffron threads, and sea salt, stirring to combine",
+    "Add the uncooked spanish rice, stirring to coat the rice in the oil and mix with the vegetables",
+    "Add the shio-koji and water, stirring to combine, then bring to a boil",
+    "Reduce the heat to low, cover the donabe, and simmer, undisturbed, for 20 minutes",
+    "Remove the donabe from the heat and let it rest, covered, for 5 minutes",
+    "Fluff the paella with a fork and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "one-pot",
+    "spanish-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "inviting-spanish-rice-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/inviting-spanish-rice-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:59:54Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "dum",
+    "primaryIngredient": "shio-koji",
+    "diet": "egg-free",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "rice",
+    "descriptor": "Inviting Grassy",
+    "dishForm": "Paella"
+  }
+}
