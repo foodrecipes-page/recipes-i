@@ -1,0 +1,99 @@
+{
+  "title": "Intensely Umami Russian Tiger Prawns Skewers",
+  "description": "A lacto-vegetarian friendly Russian dish featuring raw tiger prawns, perfect for a hangover cure, with an intense umami flavor and fluffy texture.",
+  "cuisine": "Russian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "12 large",
+      "notes": "raw, peeled and deveined"
+    },
+    {
+      "name": "mushroom broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "Thread the tiger prawns onto skewers, leaving a small space between each prawn.",
+    "In a small bowl, whisk together the mushroom broth, soy sauce, sour cream, dried dill weed, garlic powder, lemon juice, salt, and black pepper.",
+    "Brush the mixture onto both sides of the prawns.",
+    "Drizzle the olive oil over the prawns.",
+    "Broil the prawns for 2-3 minutes per side, or until they are opaque and lightly browned.",
+    "Remove the prawns from the oven and let them cool for a few minutes.",
+    "Serve the prawns hot, garnished with additional dried dill weed if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lacto-vegetarian",
+    "prawn-recipes",
+    "russian-cuisine",
+    "seafood",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "intensely-umami-russian-tiger-prawns-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-umami-russian-tiger-prawns-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:11:56Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "broil",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "intensely umami",
+    "dishForm": "Skewers"
+  }
+}
