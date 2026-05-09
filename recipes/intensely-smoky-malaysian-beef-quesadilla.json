@@ -1,0 +1,97 @@
+{
+  "title": "Intensely Smoky Malaysian Beef Quesadilla",
+  "description": "A halal-friendly Malaysian dish featuring tortillas, smoke, and fermented ingredients, perfect for curing hangovers, this smoky beef quesadilla combines the flavors of Malaysia with the comfort of a Mexican dish.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tortillas",
+      "amount": "8 pieces",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "smoked beef",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "malaysian chili paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fermented shrimp paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat with 1 tablespoon of vegetable oil.",
+    "Add the diced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the smoked beef and cook until it is heated through, breaking it up into small pieces as it cooks.",
+    "Add the malaysian chili paste, fermented shrimp paste, and soy sauce, stirring to combine.",
+    "Reduce heat to low and simmer the beef mixture for 5 minutes, stirring occasionally.",
+    "In a large pan or griddle, warm the tortillas over medium heat for 30 seconds on each side.",
+    "Spoon about 1/4 cup of the beef mixture onto half of each tortilla, then fold the tortilla in half to enclose.",
+    "Cook the quesadillas for 2-3 minutes on each side, until they are crispy and the filling is heated through.",
+    "Repeat with the remaining tortillas and filling."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "halal",
+    "lunch",
+    "malaysian",
+    "quesadilla",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intensely-smoky-malaysian-beef-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-malaysian-beef-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:16:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "tortillas",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beef",
+    "descriptor": "Intensely Smoky",
+    "dishForm": "Quesadilla"
+  }
+}
