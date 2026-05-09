@@ -1,0 +1,104 @@
+{
+  "title": "Intricately Smoked Vietnamese Quinoa Bun Rieu",
+  "description": "A floral and crispy Vietnamese dish featuring quinoa and smoked flavors, perfect for a brunch mood, and friendly to Buddhist temple dietary preferences, served in a claypot in the form of bun rieu.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "smoked tofu",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "dried shiitake mushrooms",
+      "amount": "1/4 cup",
+      "notes": "rehydrated and sliced"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crispy fried shallots",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1/4 cup",
+      "notes": "julienned"
+    },
+    {
+      "name": "claypot broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the quinoa in a fine mesh strainer and drain well.",
+    "In a medium saucepan, bring 2 cups of water to a boil, then add the quinoa, cover, reduce heat to low, and simmer for 15 minutes.",
+    "While the quinoa cooks, heat the sesame oil in a small skillet over medium heat and add the diced smoked tofu, cooking until crispy and golden brown.",
+    "In a large claypot, combine the cooked quinoa, smoked tofu, rehydrated shiitake mushrooms, rice vinegar, soy sauce, and chopped scallions.",
+    "Pour in the claypot broth and bring to a simmer over medium heat.",
+    "Reduce the heat to low and cook, covered, for 10 minutes, allowing the flavors to meld.",
+    "Stir in the crispy fried shallots and pickled carrots.",
+    "Serve the bun rieu hot, garnished with additional scallions and crispy fried shallots if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "buddhist-friendly",
+    "claypot-cooking",
+    "quinoa-recipes",
+    "smoked-flavors",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "intricately-smoked-vietnamese-quinoa-bun-rieu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-smoked-vietnamese-quinoa-bun-rieu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:44:44Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "smoke-hot",
+    "primaryIngredient": "quinoa",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "quinoa",
+    "descriptor": "Intricately Smoked",
+    "dishForm": "Bun Rieu"
+  }
+}

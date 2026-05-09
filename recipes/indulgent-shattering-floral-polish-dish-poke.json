@@ -1,0 +1,112 @@
+{
+  "title": "Poke Polish Delight",
+  "description": "A light, indulgent Polish dish featuring poached halibut, floral notes, and a subtle shattering effect from crystallized sugar.",
+  "cuisine": "Polish",
+  "diet": [
+    "halal",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "4",
+      "notes": "1 pound"
+    },
+    {
+      "name": "dry sherry",
+      "amount": "1/4 cup",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "floral water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a 9x13 inch baking dish with parchment paper.",
+    "In a medium saucepan, combine the sugar, water, and cornstarch.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Remove from heat and stir in the floral water.",
+    "Add the halibut fillets to the saucepan and coat with the sugar mixture.",
+    "Transfer the halibut to the prepared baking dish and poach in the oven for 10-12 minutes or until cooked through.",
+    "Meanwhile, prepare the sauce by whisking together the dry sherry, lemon juice, chopped fresh dill, salt, and black pepper.",
+    "Once the halibut is cooked, remove it from the oven and brush with the sauce.",
+    "Serve the halibut in a mason jar, garnished with additional fresh dill if desired.",
+    "To create the shattering effect, sprinkle the crystallized sugar over the top of the halibut just before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "european",
+    "fish",
+    "halal",
+    "mason-jar",
+    "one-pan",
+    "polish",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "indulgent-shattering-floral-polish-dish-poke",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-shattering-floral-polish-dish-poke",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T03:44:39Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "poach",
+    "primaryIngredient": "dry sherry",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "floral",
+    "mainIngredient": "polish dish",
+    "descriptor": "indulgent, shattering",
+    "dishForm": "Poke"
+  }
+}

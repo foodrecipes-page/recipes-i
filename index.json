@@ -3043,6 +3043,23 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-shattering-floral-polish-dish-poke",
+    "title": "Poke Polish Delight",
+    "tags": [
+      "european",
+      "fish",
+      "halal",
+      "mason-jar",
+      "one-pan",
+      "polish",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-silky-canadian-cranberries-pilaf",
     "title": "Indulgent Silky Canadian Cranberries Pilaf",
     "tags": [
@@ -10369,6 +10386,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intricately-smoked-vietnamese-quinoa-bun-rieu",
+    "title": "Intricately Smoked Vietnamese Quinoa Bun Rieu",
+    "tags": [
+      "brunch-ideas",
+      "buddhist-friendly",
+      "claypot-cooking",
+      "quinoa-recipes",
+      "smoked-flavors",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
