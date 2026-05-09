@@ -1,0 +1,96 @@
+{
+  "title": "Intensely Crunchy Canadian Chicken Tagine",
+  "description": "A sour and crunchy Canadian dish featuring vin-santo and cooked in a cataplana vessel, this tagine is a quick-fix meal option that is also FODMAP-friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "vin-santo",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon",
+      "notes": "FODMAP-friendly"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together vin-santo, olive oil, lemon juice, and garlic-infused oil.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Transfer the chicken to the cataplana vessel and top with dried cranberries and chopped almonds.",
+    "Season with salt and black pepper.",
+    "Cover the cataplana and bake for 25 minutes.",
+    "Remove the cover and continue baking for an additional 10 minutes, or until the chicken is cooked through and the topping is crunchy.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "gluten-free",
+    "low-fodmap",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "intensely-crunchy-canadian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-crunchy-canadian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:19:01Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "tagine-cook",
+    "primaryIngredient": "vin-santo",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "intensely crunchy",
+    "dishForm": "Tagine"
+  }
+}
