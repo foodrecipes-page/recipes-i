@@ -1,0 +1,107 @@
+{
+  "title": "Intense Smoky Japanese Tofu Tsukune",
+  "description": "A plant-based Japanese dish featuring smoky tofu tsukune with a molten, resinous flavor, perfect for brunch, and infused with the sharpness of pecorino-romano cheese.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "Pecorino romano cheese",
+      "amount": "1/2 cup",
+      "notes": "vegetarian alternative"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine crumbled tofu, pecorino romano cheese, smoked paprika, sesame oil, soy sauce, and maple syrup, and mix until well combined.",
+    "Add minced garlic and grated ginger to the bowl and mix until a sticky dough forms.",
+    "Gradually add breadcrumbs to the dough and mix until it is no longer sticky.",
+    "Divide the dough into 8 equal pieces and shape each piece into a small ball.",
+    "Flatten each ball slightly into a tsukune shape.",
+    "Place the tsukune on a baking sheet lined with parchment paper.",
+    "Bake the tsukune in the preheated oven for 20 minutes, flipping them halfway through.",
+    "While the tsukune are baking, prepare a sauce by whisking together soy sauce, maple syrup, and sesame oil in a small bowl.",
+    "Once the tsukune are done, brush them with the prepared sauce and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "japanese-cuisine",
+    "plant-based",
+    "smoky-flavors",
+    "tofu-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "intense-smoky-japanese-tofu-tsukune",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-japanese-tofu-tsukune",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:23:41Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "smoke-hot",
+    "primaryIngredient": "pecorino-romano",
+    "diet": "plant-based",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Intense Smoky",
+    "dishForm": "Tsukune"
+  }
+}
