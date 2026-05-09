@@ -1,0 +1,107 @@
+{
+  "title": "Intense Charred Tunisian Steak Kebabs",
+  "description": "A light and velvety Tunisian dish featuring sirloin steak tips, pressure-cooked to perfection and finished with a charred exterior, served with a side of ovo-vegetarian friendly ingredients.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Preheat the pressure cooker to high heat and add the olive oil.",
+    "Add the garlic and cook until fragrant, about 1 minute.",
+    "Add the sirloin steak tips and cook until browned on all sides, about 5 minutes.",
+    "Add the lemon juice, paprika, cumin, coriander, salt, and black pepper, and stir to combine.",
+    "Close the pressure cooker and cook for 10 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Thread the cooked steak tips, cherry tomatoes, and hard-boiled eggs onto skewers.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Grill the skewers over high heat for 2-3 minutes per side, or until charred.",
+    "Serve the kebabs hot, garnished with parsley and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "kebabs",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "intense-charred-tunisian-steak-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-charred-tunisian-steak-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:16:35Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "steak",
+    "descriptor": "intense charred",
+    "dishForm": "Kebabs"
+  }
+}
