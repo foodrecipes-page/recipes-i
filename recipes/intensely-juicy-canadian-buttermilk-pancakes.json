@@ -1,0 +1,94 @@
+{
+  "title": "Intensely Juicy Canadian Buttermilk Pancakes",
+  "description": "A sour and juicy Canadian dish featuring buttermilk and beurre-monte, made with ayurvedic-sattvic-friendly ingredients, bringing back nostalgic memories of traditional Canadian breakfasts.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons",
+      "notes": "aluminum-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "melted beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pure maple syrup",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, baking powder, salt, and sugar.",
+    "In a separate bowl, whisk together the buttermilk, eggs, and melted beurre-monte.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined, being careful not to overmix.",
+    "The batter should still be slightly lumpy.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with pure maple syrup and your choice of toppings.",
+    "Repeat the cooking process with the remaining batter, adjusting the heat as needed to prevent burning."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic-friendly",
+    "buttermilk-pancakes",
+    "canadian-breakfast",
+    "homemade-syrup",
+    "sattvic-diet",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "intensely-juicy-canadian-buttermilk-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-juicy-canadian-buttermilk-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:14:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "beurre-monte",
+    "primaryIngredient": "buttermilk",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "buttermilk",
+    "descriptor": "Intensely Juicy",
+    "dishForm": "Pancakes"
+  }
+}
