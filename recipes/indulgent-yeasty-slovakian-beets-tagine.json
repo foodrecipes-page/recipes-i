@@ -1,0 +1,107 @@
+{
+  "title": "Indulgent Slovakian Yeast Beets Tagine",
+  "description": "A dense, rich, and comforting Slovakian dish featuring beets, yeast, and spices, cooked to perfection in a traditional tagine.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Active dry yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large beets",
+      "amount": "4"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ground nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine yeast and warm milk, let it sit for 5 minutes.",
+    "In a large mixing bowl, combine flour, sugar, cinnamon, nutmeg, and salt.",
+    "Add the yeast mixture to the dry ingredients and mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375°F (190°C).",
+    "Poke the dough with a fork and let it rise for another 30 minutes.",
+    "Bake the bread for 35-40 minutes until golden brown.",
+    "While the bread is baking, peel and chop the beets into small pieces.",
+    "In a large pan, cook the beets over low heat with butter until tender.",
+    "Add the chopped walnuts and raisins to the pan and cook for another 2 minutes.",
+    "Slice the bread into thick slices, place them on a serving platter, and serve with the beet mixture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beet-recipes",
+    "comfort-food",
+    "dinner-ideas",
+    "one-pan-dish",
+    "slovakian-cuisine",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 85,
+    "fat": 25
+  },
+  "slug": "indulgent-yeasty-slovakian-beets-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-yeasty-slovakian-beets-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T19:47:41Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "tagine-cook",
+    "primaryIngredient": "beets",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "beets",
+    "descriptor": "Indulgent, Yeasty",
+    "dishForm": "Tagine"
+  }
+}
