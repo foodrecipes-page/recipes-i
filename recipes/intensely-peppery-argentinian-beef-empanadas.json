@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Peppery Argentinian Beef Empanadas",
+  "description": "A traditional Argentinian dish featuring a peppery beef filling inside a crumbly pastry, perfect for a snack or light meal. This recipe is egg-free and uses a mixture powder for added flavor.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "mixture powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground beef, mixture powder, black pepper, onion powder, and salt, mixing until just combined.",
+    "In a separate large bowl, whisk together the flour and cold unsalted butter until the mixture resembles coarse crumbs.",
+    "Gradually add the water to the flour mixture, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead for 5 minutes, until smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a thin circle.",
+    "Place 1/4 cup of the beef mixture onto the center of each dough circle.",
+    "Fold the dough over the filling, forming a half-moon shape, and press the edges together to seal.",
+    "Brush the tops of the empanadas with a little water and cut a small slit in the top of each to allow steam to escape.",
+    "Place the empanadas on a baking sheet lined with parchment paper and broil for 2-3 minutes, until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-recipes",
+    "empanadas",
+    "peppery-food",
+    "snack-ideas",
+    "traditional-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "intensely-peppery-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-peppery-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:54:16Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "mixture powder",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "intensely peppery",
+    "dishForm": "Empanadas"
+  }
+}
