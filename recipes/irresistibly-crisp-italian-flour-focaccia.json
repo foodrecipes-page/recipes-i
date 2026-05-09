@@ -1,0 +1,93 @@
+{
+  "title": "Irresistibly Crisp Italian Flour Focaccia",
+  "description": "A crispy and cozy Italian dish featuring plain flour and a mirepoix base, perfect for a satisfying snack or side dish. This recipe is onion and garlic free, making it friendly for all palates.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, salt, sugar, and yeast.",
+    "Add the olive oil, diced carrots, and diced celery to the bowl and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and shape it into a rectangle.",
+    "Place the dough on a baking sheet lined with parchment paper, and bake for 20 minutes.",
+    "Remove the focaccia from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crunchy",
+    "italian",
+    "snack",
+    "vegetarian",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "irresistibly-crisp-italian-flour-focaccia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/irresistibly-crisp-italian-flour-focaccia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:57:20Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "plain flour",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "flour",
+    "descriptor": "Irresistibly Crisp",
+    "dishForm": "Focaccia"
+  }
+}

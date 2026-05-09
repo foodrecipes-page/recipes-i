@@ -5349,6 +5349,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-malaysian-lamb-tagine",
+    "title": "Intense Malaysian Lamb Tagine",
+    "tags": [
+      "clay-cooked",
+      "dried-fruit",
+      "lamb-based",
+      "mediterranean-inspired",
+      "one-pot",
+      "slow-cooked"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 180,
+    "shard": "i"
+  },
+  {
     "slug": "intense-malaysian-oats-bowl",
     "title": "Intense Malaysian Oats Bowl",
     "tags": [
@@ -10943,6 +10958,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "irresistibly-crisp-italian-flour-focaccia",
+    "title": "Irresistibly Crisp Italian Flour Focaccia",
+    "tags": [
+      "comfort-food",
+      "crunchy",
+      "italian",
+      "snack",
+      "vegetarian",
+      "yeast"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
