@@ -1,0 +1,94 @@
+{
+  "title": "Intensely Sweet Italian Polenta Wrap",
+  "description": "A sweet and crumbly Italian dish featuring salsa and infuse oil, wrapped in a corn husk, perfect for a midnight craving. This halal friendly recipe is a unique twist on traditional Piedmontese cuisine.",
+  "cuisine": "Italian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Polenta",
+      "amount": "2 cups",
+      "notes": "Fine or medium grind"
+    },
+    {
+      "name": "Infuse oil",
+      "amount": "1/4 cup",
+      "notes": "With garlic and herbs"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": "Homemade or store bought"
+    },
+    {
+      "name": "Corn husks",
+      "amount": "4-6",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Granulated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For cooking polenta"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot and slowly whisk in the polenta.",
+    "Reduce heat to medium and cook for 5 minutes, stirring constantly.",
+    "Remove from heat and stir in the infuse oil, sugar, and salt.",
+    "Let the polenta cool and set for 10 minutes.",
+    "Soak the corn husks in water for 30 seconds to make them pliable.",
+    "Assemble the wraps by spreading a layer of polenta on each corn husk, followed by a spoonful of salsa.",
+    "Fold the bottom edge of the corn husk up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining ingredients.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk-wraps",
+    "halal-friendly",
+    "italian-food",
+    "midnight-cravings",
+    "polenta-recipes",
+    "sweet-snacks"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "intensely-sweet-italian-polenta-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-sweet-italian-polenta-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:59:31Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "infuse-oil",
+    "primaryIngredient": "salsa",
+    "diet": "halal",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "polenta",
+    "descriptor": "intensely sweet",
+    "dishForm": "Wrap"
+  }
+}
