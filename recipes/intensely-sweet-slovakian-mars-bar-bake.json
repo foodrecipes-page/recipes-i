@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Sweet Slovakian Mars Bar Bake",
+  "description": "A romantic Slovakian dessert featuring Mars bars, cooked to perfection in traditional ttukbaegi earthenware, with a floral and glassy-jelly texture, this dish is sure to impress, it is also kosher friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bars",
+      "amount": "12",
+      "notes": "chopped"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 cups"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "raspberry jelly",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large mixing bowl, whisk together the flour and sugar.",
+    "Add the melted butter, eggs, and rose water to the bowl and mix until well combined.",
+    "Fold in the chopped Mars bars.",
+    "Pour the mixture into a ttukbaegi earthenware pot.",
+    "Bake for 35 minutes or until the edges are golden brown.",
+    "While the bake is cooking, heat the raspberry jelly in a saucepan over low heat until it is smooth and glassy.",
+    "Remove the bake from the oven and let it cool for 10 minutes.",
+    "Drizzle the raspberry jelly over the top of the bake.",
+    "Sprinkle confectioners sugar over the top of the bake."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "earthenware-cooking",
+    "kosher-friendly",
+    "mars-bar-recipes",
+    "romantic-desserts",
+    "slovakian-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intensely-sweet-slovakian-mars-bar-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-sweet-slovakian-mars-bar-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:00:28Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "mars bar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Intensely Sweet",
+    "dishForm": "Bake"
+  }
+}
