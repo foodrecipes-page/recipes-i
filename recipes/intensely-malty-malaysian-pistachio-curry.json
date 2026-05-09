@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Malty Malaysian Pistachio Curry",
+  "description": "A rich and comforting vegetarian Malaysian curry featuring pistachio and a malty flavor, perfect for a sick day, served en croute in a terracotta dish. The cheese-pull effect adds to the dish's appeal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pistachio meal",
+      "amount": "1 cup",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "malt extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the vegetable oil over medium heat and saute the onion until softened.",
+    "Add the garlic and curry powder to the pan and cook for 1 minute, stirring constantly.",
+    "Stir in the pistachio meal, malt extract, and coconut milk, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 10 minutes, stirring occasionally.",
+    "Season the curry with salt to taste.",
+    "Transfer the curry to a terracotta dish and top with the shredded mozzarella cheese.",
+    "Bake the curry in the preheated oven for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve the curry en croute, with the cheese pull intact."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-goodness",
+    "comfort-food",
+    "malaysian-cuisine",
+    "one-dish-meal",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "intensely-malty-malaysian-pistachio-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-malty-malaysian-pistachio-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:11:06Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "en-croute",
+    "primaryIngredient": "pistachio",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "pistachio",
+    "descriptor": "intensely malty",
+    "dishForm": "Curry"
+  }
+}

@@ -7751,6 +7751,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-caramelized-mediterranean-kielbasa-skillet",
+    "title": "Intensely Caramelized Mediterranean Kielbasa Skillet",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "paleo-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-charred-american-chestnut-mushroom-casserole",
     "title": "Intensely Charred American Chestnut Mushroom Casserole",
     "tags": [
@@ -9098,6 +9113,20 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-malty-malaysian-pistachio-curry",
+    "title": "Intensely Malty Malaysian Pistachio Curry",
+    "tags": [
+      "cheesy-goodness",
+      "comfort-food",
+      "malaysian-cuisine",
+      "one-dish-meal",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
