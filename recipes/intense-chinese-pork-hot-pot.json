@@ -1,0 +1,105 @@
+{
+  "title": "Intense Chinese Pork Hot Pot",
+  "description": "A pungent and creamy Fujian dish featuring Worcestershire sauce and yuzu-cure, perfect for a festive gathering, and friendly to sugar-free diets.",
+  "cuisine": "Chinese",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the sesame oil over medium heat.",
+    "Add the sliced ginger and cook for 2 minutes, until fragrant.",
+    "Add the minced garlic and cook for 1 minute, until lightly browned.",
+    "Add the thinly sliced pork shoulder and cook for 5 minutes, until browned.",
+    "Add the Worcestershire sauce, yuzu juice, and coconut cream, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, until the pork is cooked through.",
+    "Season with salt and black pepper to taste.",
+    "Serve the hot pot with chopped scallions and additional yuzu juice on the side.",
+    "Let each guest assemble their own bowl with their preferred ingredients.",
+    "Encourage guests to add their favorite toppings, such as noodles or vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "festive",
+    "gluten-free",
+    "hot-pot",
+    "pork-recipes",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "intense-chinese-pork-hot-pot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-chinese-pork-hot-pot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:37:39Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "sugar-free",
+    "region": "fujian",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Intense",
+    "dishForm": "Hot Pot"
+  }
+}
