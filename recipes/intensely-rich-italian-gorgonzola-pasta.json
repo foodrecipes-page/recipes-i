@@ -1,0 +1,99 @@
+{
+  "title": "Intensely Rich Italian Gorgonzola Pasta",
+  "description": "A fresh and shattering lazy-sunday polish dish featuring gorgonzola-dolce and miso-marinate, this lacto-vegetarian-friendly recipe is perfect for a relaxing afternoon meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gorgonzola dolce",
+      "amount": "8 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "fettuccine or similar"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a small bowl, whisk together the miso paste and 2 tbsp of hot water until smooth.",
+    "In a large skillet, heat the olive oil over medium heat and add the minced garlic, cooking for 1-2 minutes until fragrant.",
+    "Add the crumbled gorgonzola dolce to the skillet and cook, stirring constantly, until the cheese is melted and smooth.",
+    "Stir the miso paste mixture into the gorgonzola cheese and cook for an additional 1-2 minutes until well combined.",
+    "Drain the cooked pasta and add it to the skillet, tossing to coat with the gorgonzola sauce.",
+    "Season with salt and black pepper to taste, then sprinkle with chopped parsley and grated parmesan cheese if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian-food",
+    "lacto-vegetarian",
+    "lazy-sunday",
+    "one-pot",
+    "pasta-lover",
+    "rich-and-creamy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "intensely-rich-italian-gorgonzola-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-rich-italian-gorgonzola-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:04:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "miso-marinate",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "gorgonzola",
+    "descriptor": "Intensely rich",
+    "dishForm": "Pasta"
+  }
+}
