@@ -1,0 +1,111 @@
+{
+  "title": "Intricately Roasted Moroccan Turkey Ham Tagine",
+  "description": "A low-fat, roasted Moroccan dish featuring turkey ham, perfect for meal prep and served in a bento box. This recipe combines the flavors of Morocco with the convenience of a portable meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey Ham",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the diced turkey ham to the bowl and toss to coat with the spice mixture.",
+    "Spread the turkey ham mixture on a baking sheet and roast in the oven for 20 minutes.",
+    "While the turkey ham is roasting, heat a tablespoon of olive oil in a large skillet over medium heat.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the skillet and cook for an additional 1 minute.",
+    "Stir in the chicken broth and bring the mixture to a simmer.",
+    "Once the turkey ham has finished roasting, add it to the skillet and stir to combine with the onion and broth mixture.",
+    "Reduce the heat to low and let the tagine simmer for 10 minutes, stirring occasionally.",
+    "Serve the Intricately Roasted Moroccan Turkey Ham Tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fat",
+    "meal-prep",
+    "moroccan",
+    "one-pan",
+    "portable",
+    "roasted",
+    "turkey-ham"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "intricately-roasted-moroccan-turkey-ham-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-roasted-moroccan-turkey-ham-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:07:09Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "turkey ham",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "turkey ham",
+    "descriptor": "Intricately Roasted",
+    "dishForm": "Tagine"
+  }
+}
