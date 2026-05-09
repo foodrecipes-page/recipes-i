@@ -1,0 +1,98 @@
+{
+  "title": "Incredibly Crispy American Fish Skillet",
+  "description": "A kid-friendly American dish featuring fish, sauce, and coconut cream, this recipe is diabetic-friendly and packed with flavor.",
+  "cuisine": "American",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fish fillets",
+      "amount": "4 fillets",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Nam pla sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add chopped onion and bell pepper and cook until tender.",
+    "Add fish sauce, nam pla sauce, and coconut cream, and stir to combine.",
+    "Add cod fish fillets to the skillet, skin side up.",
+    "Cook for 5 minutes, then flip the fish and cook for an additional 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Let the skillet cool before washing to prevent damage.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "diabetic-friendly",
+    "fish-recipes",
+    "kid-friendly",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "incredibly-crispy-american-fish-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-crispy-american-fish-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:19:22Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "fish",
+    "descriptor": "Incredibly crispy",
+    "dishForm": "Skillet"
+  }
+}
