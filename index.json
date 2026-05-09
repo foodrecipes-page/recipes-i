@@ -3832,6 +3832,21 @@
     "shard": "i"
   },
   {
+    "slug": "infused-yeasty-chiapan-persian-cucumber-burrito",
+    "title": "Infused Yeasty Chiapan Persian Cucumber Burrito",
+    "tags": [
+      "high-fiber",
+      "mexican-inspired",
+      "quick-meal",
+      "savory",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Chiapan",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
     "slug": "innovative-british-lentils-pie-and-mash",
     "title": "Innovative British Lentils Pie And Mash",
     "tags": [

@@ -1,0 +1,105 @@
+{
+  "title": "Infused Yeasty Chiapan Persian Cucumber Burrito",
+  "description": "A dense and savory weeknight burrito featuring a mortar-pounded Persian cucumber relish and a rich nutritional yeast-infused bean filling.",
+  "cuisine": "Chiapan",
+  "diet": [
+    "Lacto-Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Persian cucumbers",
+      "amount": "3 medium",
+      "notes": "Sliced into rounds"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1/4 cup",
+      "notes": "To provide the savory yeasty profile"
+    },
+    {
+      "name": "Black beans",
+      "amount": "15 ounces",
+      "notes": "Canned, drained and rinsed"
+    },
+    {
+      "name": "Queso de Cuadro",
+      "amount": "1/2 cup",
+      "notes": "Crumpled chiapan cheese or feta substitute"
+    },
+    {
+      "name": "Large flour tortillas",
+      "amount": "4",
+      "notes": "Warmed"
+    },
+    {
+      "name": "Dried chipotle pepper",
+      "amount": "1",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Peeled"
+    },
+    {
+      "name": "Mexican crema",
+      "amount": "1/4 cup",
+      "notes": "For drizzling"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Place the garlic and toasted chipotle pepper in a mortar and pestle and pound into a thick paste.",
+    "Add the Persian cucumber slices to the mortar and lightly pound until bruised and released of their juices.",
+    "Stir the lime juice into the cucumber mixture and set aside to marinate.",
+    "Heat the black beans in a small saucepan over medium heat until steaming.",
+    "Stir the nutritional yeast into the beans until the mixture becomes thick and smells savory.",
+    "Lay a warm tortilla flat and spread a generous layer of the yeasty bean mixture down the center.",
+    "Top the beans with a portion of the pounded cucumber relish and crumbled cheese.",
+    "Drizzle the Mexican crema over the filling components.",
+    "Fold the sides of the tortilla inward and roll tightly into a dense burrito.",
+    "Sear the burrito in a dry skillet for one minute per side to seal the seam."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "mexican-inspired",
+    "quick-meal",
+    "savory",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 58,
+    "fat": 14
+  },
+  "slug": "infused-yeasty-chiapan-persian-cucumber-burrito",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/infused-yeasty-chiapan-persian-cucumber-burrito",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-09T07:53:07Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "persian cucumber",
+    "diet": "lacto-vegetarian",
+    "region": "chiapan",
+    "cuisineAdjective": "Chiapan",
+    "mainIngredient": "Persian Cucumber",
+    "descriptor": "Infused Yeasty",
+    "dishForm": "Burrito"
+  }
+}
