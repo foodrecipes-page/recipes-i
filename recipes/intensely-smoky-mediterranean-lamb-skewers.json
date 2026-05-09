@@ -1,0 +1,94 @@
+{
+  "title": "Intensely Smoky Mediterranean Lamb Skewers",
+  "description": "Tangy and juicy lamb skewers with a smoky Mediterranean flavor, perfect for a show-off dinner party",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cloves",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, cloves, oregano, salt, and black pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the marinated lamb cubes onto bamboo skewers, leaving a small space between each piece",
+    "Place the skewers on the preheated grill and cook for 10 minutes, turning occasionally",
+    "Transfer the skewers to a bamboo steamer and steam for 5 minutes to finish cooking",
+    "Serve the lamb skewers hot, garnished with fresh oregano and lemon wedges"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "lamb",
+    "mediterranean",
+    "skewers",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "intensely-smoky-mediterranean-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-mediterranean-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:59:39Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "cloves",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Intensely smoky",
+    "dishForm": "Skewers"
+  }
+}
