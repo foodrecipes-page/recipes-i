@@ -1,0 +1,99 @@
+{
+  "title": "Intense Roasted Italian Mentaiko Tagliatelle",
+  "description": "A roasted Italian dish featuring mentaiko and ferment jang, served in a terracotta dish, perfect for a brunch mood. This satvik friendly dish is made with tagliatelle and has a shattering texture.",
+  "cuisine": "Italian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "12 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "mentaiko",
+      "amount": "1/2 cup",
+      "notes": "spicy pollock roe"
+    },
+    {
+      "name": "ferment jang",
+      "amount": "2 tbsp",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "1 cup",
+      "notes": "such as zucchini, bell peppers, and onions"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "vegetarian alternative to parmesan"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the tagliatelle according to the package instructions until al dente.",
+    "In a large bowl, whisk together the mentaiko, ferment jang, and olive oil.",
+    "Add the cooked tagliatelle to the bowl and toss to combine with the mentaiko sauce.",
+    "In a large skillet, roast the garlic and vegetables over medium heat until tender.",
+    "Add the roasted vegetables to the bowl with the tagliatelle and toss to combine.",
+    "Transfer the tagliatelle mixture to a terracotta dish and top with grana padano cheese.",
+    "Bake the tagliatelle in the preheated oven for 15 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and sprinkle with chopped parsley.",
+    "Serve the intense roasted Italian mentaiko tagliatelle hot, straight from the terracotta dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "italian-food",
+    "mentaiko-recipes",
+    "pasta-dishes",
+    "roasted-vegetables",
+    "satvik-diet"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intense-roasted-italian-mentaiko-tagliatelle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-roasted-italian-mentaiko-tagliatelle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:08:56Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "ferment-jang",
+    "primaryIngredient": "mentaiko",
+    "diet": "satvik",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "mentaiko",
+    "descriptor": "Intense Roasted",
+    "dishForm": "Tagliatelle"
+  }
+}
