@@ -1,0 +1,100 @@
+{
+  "title": "Intense Peppery Portuguese Danmuji Casserole",
+  "description": "A dense and adventurous Portuguese dish featuring danmuji, cooked in a bain-marie to create a rich and peppery flavor profile, this ovo-vegetarian friendly casserole is perfect for those looking to try something new.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "danmuji",
+      "amount": "1 cup",
+      "notes": "Korean pickled radish"
+    },
+    {
+      "name": "portuguese peppers",
+      "amount": "2 cups",
+      "notes": "any color"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetarian cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onions and garlic until softened.",
+    "Add the danmuji and portuguese peppers to the skillet and cook for an additional 5 minutes.",
+    "In a large bowl, whisk together the eggs and shredded cheese.",
+    "Add the cooked danmuji and pepper mixture to the bowl and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Pour the mixture into a 9x13 inch baking dish and place in a bain-marie.",
+    "Bake for 35 minutes or until the eggs are set and the top is golden brown.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie-cooking",
+    "casseroles",
+    "danmuji-recipes",
+    "ovo-vegetarian",
+    "peppery-dishes",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "intense-peppery-portuguese-danmuji-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-peppery-portuguese-danmuji-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:46:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "bain-marie",
+    "primaryIngredient": "danmuji",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "danmuji",
+    "descriptor": "Intense Peppery",
+    "dishForm": "Casserole"
+  }
+}
