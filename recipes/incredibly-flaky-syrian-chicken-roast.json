@@ -1,0 +1,92 @@
+{
+  "title": "Incredibly Flaky Syrian Chicken Roast",
+  "description": "A kid-friendly Syrian dish featuring citrusy flavors and a beautiful yellow color from food coloring, perfect for a family dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "2 lbs",
+      "notes": "skin removed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat evenly with the marinade.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray.",
+    "Place the chicken on the baking sheet and roast in the preheated oven for 45 minutes.",
+    "After 45 minutes, brush the chicken with the pan juices and add the yellow food coloring to the pan juices.",
+    "Return the chicken to the oven and continue roasting for an additional 15 minutes, or until the chicken is cooked through and the internal temperature reaches 165 degrees Fahrenheit.",
+    "Remove the chicken from the oven and let it rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "flaky",
+    "halal-friendly",
+    "kid-friendly",
+    "roast-chicken",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "incredibly-flaky-syrian-chicken-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-flaky-syrian-chicken-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:44:10Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "roast",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Incredibly flaky",
+    "dishForm": "Roast"
+  }
+}
