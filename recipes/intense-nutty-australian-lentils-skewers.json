@@ -1,0 +1,107 @@
+{
+  "title": "Intense Nutty Australian Lentils Skewers",
+  "description": "A plant-based Australian dish featuring coriander and beurre-monte, perfect for a date night, with a nutty and snappy flavor profile.",
+  "cuisine": "Australian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a medium saucepan, bring 2 cups of water to a boil.",
+    "Add the red lentils, reduce heat to low, cover, and simmer for 20 minutes or until tender.",
+    "In a small saucepan, toast the coriander seeds over medium heat for 2-3 minutes or until fragrant.",
+    "Grind the toasted coriander seeds into a powder using a spice grinder or mortar and pestle.",
+    "In a large bowl, whisk together the beurre-monte, olive oil, ground coriander, salt, and black pepper.",
+    "Add the cooked lentils, chopped onion, and minced garlic to the bowl and stir until combined.",
+    "Thread the lentil mixture, dates, and onion onto the bamboo skewers.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 15-20 minutes or until lightly browned.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "date-night",
+    "lentil-recipes",
+    "nutty-flavors",
+    "plant-based",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "intense-nutty-australian-lentils-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-nutty-australian-lentils-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:52:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "beurre-monte",
+    "primaryIngredient": "coriander",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lentils",
+    "descriptor": "intense nutty",
+    "dishForm": "Skewers"
+  }
+}
