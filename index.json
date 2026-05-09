@@ -2328,6 +2328,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-italian-tomato-torta-caprese",
+    "title": "Indulgent Italian Tomato Torta Caprese",
+    "tags": [
+      "italian-food",
+      "korean-inspired",
+      "low-glycemic",
+      "one-bowl",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-italian-tomato-wrap",
     "title": "Indulgent Italian Tomato Wrap",
     "tags": [

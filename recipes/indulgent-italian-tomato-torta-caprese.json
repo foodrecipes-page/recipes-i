@@ -1,0 +1,91 @@
+{
+  "title": "Indulgent Italian Tomato Torta Caprese",
+  "description": "A fermented, chewy Italian dish featuring tomato ketchup and dashi extract, served in a Korean brass bowl. This low-glycemic-friendly recipe is a twist on the classic torta caprese.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomato ketchup",
+      "amount": "1 cup",
+      "notes": "low-sugar"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together tomato ketchup, dashi extract, and korean chili flakes.",
+    "Add mozzarella cheese to the bowl and mix until well combined.",
+    "Stir in fresh basil, extra virgin olive oil, balsamic vinegar, and salt.",
+    "Transfer the mixture to a Korean brass bowl.",
+    "Bake the torta caprese in the preheated oven for 20 minutes.",
+    "Remove the bowl from the oven and let it cool for 10 minutes.",
+    "Serve the indulgent Italian tomato torta caprese warm, garnished with additional fresh basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "korean-inspired",
+    "low-glycemic",
+    "one-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "indulgent-italian-tomato-torta-caprese",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-italian-tomato-torta-caprese",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:11:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "dashi-extract",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "low-glycemic",
+    "region": "roman",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Indulgent Fermented",
+    "dishForm": "Torta Caprese"
+  }
+}
