@@ -1,0 +1,121 @@
+{
+  "title": "Indulgent Salty Korean Shrimp Clay-pot-cook",
+  "description": "Springy and indulgent korean dish from gangwon province featuring jumbo shrimp clay-pot-cooked in a savory broth.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jumbo Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Green Onions",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large clay pot, heat the sesame oil over medium-high heat.",
+    "Add the garlic and ginger and cook for 1 minute until fragrant.",
+    "Add the gochujang sauce and cook for 1 minute, stirring constantly.",
+    "Add the brown sugar, fish sauce, soy sauce, and Korean chili flakes. Cook for 1 minute, stirring constantly.",
+    "Add the shrimp and cook for 2-3 minutes per side, until they are pink and cooked through.",
+    "Add the water and bring to a simmer.",
+    "Reduce the heat to low and cook for 5-7 minutes, or until the sauce has thickened slightly.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with sliced green onions and serve immediately"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "easy-dinner",
+    "korean",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "indulgent-salty-korean-shrimp-clay-pot-cook",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-salty-korean-shrimp-clay-pot-cook",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:08:26Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "shojin",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "shrimp",
+    "descriptor": "Indulgent salty",
+    "dishForm": "Clay-pot-cook"
+  }
+}
