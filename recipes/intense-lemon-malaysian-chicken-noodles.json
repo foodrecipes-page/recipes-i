@@ -1,0 +1,97 @@
+{
+  "title": "Intense Lemon Malaysian Chicken Noodles",
+  "description": "A grassy and bouncy Malaysian dish featuring lemon and a mother sauce base, perfect for meal prep and egg free friendly diets.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "egg-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": " bruised"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Add the bruised lemongrass to the skillet and cook for an additional 1 minute.",
+    "Pour the lemon juice and soy sauce into the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and stir to combine with the sauce.",
+    "Return the chicken to the skillet and stir to combine with the noodles and sauce.",
+    "Cook for an additional 2 minutes to heat the chicken through.",
+    "Serve the noodles hot, garnished with sliced scallions and a sprinkle of soy sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "gluten-free",
+    "lemon-recipes",
+    "malaysian-cuisine",
+    "meal-prep",
+    "noodle-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intense-lemon-malaysian-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-lemon-malaysian-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:48:36Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "lemon",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Intense Lemon",
+    "dishForm": "Noodles"
+  }
+}
