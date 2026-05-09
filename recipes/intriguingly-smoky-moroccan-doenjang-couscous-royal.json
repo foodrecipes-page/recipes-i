@@ -3,8 +3,7 @@
   "description": "A funky and crisp Moroccan dish featuring doenjang, perfect for a sick day, made with low-glycemic-friendly ingredients and served in a fondue pot. This dish combines the flavors of Morocco with the spiciness of doenjang.",
   "cuisine": "Moroccan",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [

@@ -2,9 +2,7 @@
   "title": "Indulgent, Salty, Crumbly Australian Sausage Hash",
   "description": "A hearty, savory Australian breakfast dish featuring sauerkraut, sausage, and a crumbly crust.",
   "cuisine": "Australian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {

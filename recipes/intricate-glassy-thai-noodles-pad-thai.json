@@ -3,8 +3,7 @@
   "description": "A cultured and crowd-pleasing Thai dish featuring dasima-kombu and mortar-pestle-pound techniques, this low-fat-friendly pad thai is served in a scallop shell vessel.",
   "cuisine": "Thai",
   "diet": [
-    "low-fat",
-    "vegetarian"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,7 +71,6 @@
     "one-pan",
     "seafood-inspired",
     "thai-cuisine",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {

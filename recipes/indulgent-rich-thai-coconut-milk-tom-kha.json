@@ -4,8 +4,7 @@
   "cuisine": "Thai",
   "diet": [
     "macrobiotic",
-    "gluten-free",
-    "vegan"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -87,7 +86,6 @@
     "low-carb",
     "macrobiotic",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {

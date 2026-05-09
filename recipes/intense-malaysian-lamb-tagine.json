@@ -2,9 +2,7 @@
   "title": "Intense Malaysian Lamb Tagine",
   "description": "A pungent and shattering solo-dinner Malaysian dish featuring dried fruit, cooked in a tagine with Mediterranean-friendly flavors",
   "cuisine": "Malaysian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -67,7 +65,8 @@
     "Cover the tagine and transfer it to the oven",
     "Cook the tagine in a preheated oven at 300 degrees for 2 1/2 hours",
     "Remove the tagine from the oven and let it cool for 10 minutes",
-    "Serve the lamb and fruit mixture over couscous or rice"
+    "Serve the lamb and fruit mixture over couscous or rice",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,

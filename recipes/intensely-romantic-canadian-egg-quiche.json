@@ -3,8 +3,7 @@
   "description": "A low-calorie, flaky, and romantic Canadian dish featuring egg yolks in a tandoor clay pot, perfect for a special occasion. It is a unique and delicious twist on traditional quiche.",
   "cuisine": "Canadian",
   "diet": [
-    "low-calorie",
-    "vegetarian"
+    "low-calorie"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -67,8 +66,7 @@
     "canadian",
     "low-calorie",
     "quiche",
-    "tandoor-clay-pot",
-    "vegetarian"
+    "tandoor-clay-pot"
   ],
   "nutrition": {
     "calories": 250,

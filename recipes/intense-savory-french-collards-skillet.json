@@ -3,7 +3,6 @@
   "description": "A hearty, pillowy dish featuring collards and lardons, inspired by the cuisine of Provence, made in an iron teppan skillet",
   "cuisine": "French",
   "diet": [
-    "vegetarian",
     "buddhist"
   ],
   "meal": "dinner",
@@ -65,7 +64,6 @@
     "buddhist-friendly",
     "french-inspired",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {

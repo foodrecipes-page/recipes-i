@@ -3,7 +3,6 @@
   "description": "A light, indulgent Polish dish featuring poached halibut, floral notes, and a subtle shattering effect from crystallized sugar.",
   "cuisine": "Polish",
   "diet": [
-    "halal",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -78,7 +77,6 @@
   "tags": [
     "european",
     "fish",
-    "halal",
     "mason-jar",
     "one-pan",
     "polish",
@@ -102,7 +100,7 @@
     "mood": "indulgent",
     "technique": "poach",
     "primaryIngredient": "dry sherry",
-    "diet": "halal",
+    "diet": "pescatarian",
     "region": null,
     "cuisineAdjective": "floral",
     "mainIngredient": "polish dish",

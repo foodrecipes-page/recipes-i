@@ -2,9 +2,7 @@
   "title": "Intense Spicy Portuguese Shrimp Noodles",
   "description": "A spicy and festive Portuguese dish featuring vermicelli rice noodles and grilled shrimp, served on a bamboo tray.",
   "cuisine": "Portuguese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -69,7 +67,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "seafood",

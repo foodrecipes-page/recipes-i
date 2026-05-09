@@ -3,8 +3,7 @@
   "description": "A sour and crispy quick-fix German dish featuring rice stick noodles and a sweet glaze, Whole30-friendly and perfect for a weeknight dinner.",
   "cuisine": "German",
   "diet": [
-    "Whole30",
-    "gluten-free"
+    "Whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -60,7 +59,6 @@
   "tags": [
     "crispy",
     "german",
-    "gluten-free",
     "one-pan",
     "weeknight",
     "whole30"

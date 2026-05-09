@@ -91,7 +91,7 @@
     "mood": "comforting",
     "technique": "caramelize",
     "primaryIngredient": "gochujang",
-    "diet": "nut-free",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Jamaican",
     "mainIngredient": "sweet potatoes",
