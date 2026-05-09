@@ -1,0 +1,103 @@
+{
+  "title": "Intensely Sour Middle Eastern Chicken Curry",
+  "description": "A light and sour Middle Eastern chicken curry featuring coconut cream, perfect for the monsoon season, and made nut-free-friendly by using sunflower seeds as a thickening agent and spherification for a unique texture.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sunflower seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chicken breast pieces and cook until browned on all sides.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the sunflower seeds to the pan and cook for 1 minute, stirring constantly.",
+    "Add the lemon juice, apple cider vinegar, and coconut cream to the pan, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until slightly thickened.",
+    "Stir in the sodium alginate and cook for an additional 1 minute.",
+    "Add the chicken back to the pan and stir to coat with the curry sauce.",
+    "Using a syringe or spoon, drop small amounts of the curry sauce into a bath of cold water to create spheres.",
+    "Serve the chicken and curry sauce spheres hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "gluten-free",
+    "middle-eastern",
+    "monsoon",
+    "nut-free",
+    "sour",
+    "sunflower-seeds"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intensely-sour-middle-eastern-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-sour-middle-eastern-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:34:49Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "spherify",
+    "primaryIngredient": "coconut cream",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "Intensely sour",
+    "dishForm": "Curry"
+  }
+}
