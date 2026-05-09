@@ -1,0 +1,97 @@
+{
+  "title": "Italian Vegetable Sushi",
+  "description": "A vegetarian friendly Italian dish featuring fish sauce and resinous flavors, shaped like nigiri for a unique twist on traditional sushi.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "portobello mushrooms",
+      "amount": "4 cups",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl, toss the zucchini, eggplant, and portobello mushrooms with olive oil, garlic, and fish sauce until they are evenly coated.",
+    "Spread the vegetables out in a single layer on a baking sheet and roast for 20 minutes.",
+    "While the vegetables are roasting, prepare the sushi rice according to the package instructions.",
+    "Once the vegetables are done, let them cool to room temperature.",
+    "To assemble the sushi, lay a small amount of sushi rice onto a flat surface and shape into a nigiri shape.",
+    "Place a few pieces of the roasted vegetables on top of the rice.",
+    "Sprinkle shredded mozzarella cheese over the vegetables.",
+    "Garnish with chopped basil and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "italian",
+    "roasted-vegetables",
+    "sushi",
+    "unique-twist",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intense-resinous-italian-vegetable-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-resinous-italian-vegetable-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:53:17Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "fish sauce",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "vegetables",
+    "descriptor": "intense resinous",
+    "dishForm": "Sushi"
+  }
+}
