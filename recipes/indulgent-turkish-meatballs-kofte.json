@@ -1,0 +1,98 @@
+{
+  "title": "Indulgent Turkish Meatballs Kofte",
+  "description": "A rich and flavorful solo-dinner featuring shattering Turkish meatballs, perfect for a lacto-vegetarian diet.",
+  "cuisine": "Turkish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Onion salt",
+      "amount": "2 tsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "50g",
+      "notes": "plain white or whole wheat"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Spices",
+      "amount": "1 tsp",
+      "notes": "paprika, cumin, coriander, black pepper"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "flaky sea or kosher salt"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "large, beaten"
+    }
+  ],
+  "instructions": [
+    "Combine ground lamb, onion salt, breadcrumbs, parsley, garlic, spices, and salt in a large bowl, mixing well by hand until just combined.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat the yakimono-grill or grill pan to medium-high heat, about 400°F (200°C).",
+    "Using your hands, shape the mixture into 8-10 small meatballs, about 1 1/2 inches in diameter.",
+    "Place the meatballs on the preheated grill and cook for 3-4 minutes per side, or until browned and cooked through.",
+    "Transfer the meatballs to a plate and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "grassy",
+    "kofte",
+    "lacto-vegetarian-friendly",
+    "meatballs",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "indulgent-turkish-meatballs-kofte",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-turkish-meatballs-kofte",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:24:27Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "onion salt",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "meatballs",
+    "descriptor": "Indulgent",
+    "dishForm": "Kofte"
+  }
+}
