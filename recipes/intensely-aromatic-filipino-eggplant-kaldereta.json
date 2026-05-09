@@ -1,0 +1,102 @@
+{
+  "title": "Filipino Eggplant Kaldereta",
+  "description": "A jammy and bouncy ovo-vegetarian Filipino dish featuring bay leaf and served in an agave leaf vessel, perfect for a solo dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "purple variety"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "for lamination"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Cut out a rectangle of pastry large enough to wrap around the eggplant.",
+    "Brush the edges of the pastry with the beaten egg for a golden glaze.",
+    "Wrap the pastry around the eggplant, pressing the edges to seal.",
+    "Heat the oil in a pan over medium heat and saute the onion and garlic until softened.",
+    "Add the tomato sauce, bay leaf, salt, and pepper to the pan and stir to combine.",
+    "Place the wrapped eggplant in the agave leaf vessel and pour the sauce over it.",
+    "Bake for 30 minutes or until the pastry is golden brown and the eggplant is tender.",
+    "Serve hot, garnished with additional bay leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "one-pan",
+    "ovo-vegetarian",
+    "solodinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "intensely-aromatic-filipino-eggplant-kaldereta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-aromatic-filipino-eggplant-kaldereta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:04:01Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "lamination-puff",
+    "primaryIngredient": "bay leaf",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "eggplant",
+    "descriptor": "intensely aromatic",
+    "dishForm": "Kaldereta"
+  }
+}
