@@ -1,0 +1,107 @@
+{
+  "title": "Intensely Resinous Irish Lamb Stew",
+  "description": "A hearty and aromatic Irish lamb stew featuring shichimi-togarashi and a mother-sauce-base, cooked to perfection in a donabe vessel, this dish is diabetic-friendly and perfect for a cozy evening",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "shichimi-togarashi",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mother sauce base",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe vessel over medium heat",
+    "Brown the lamb cubes in the donabe, then set aside",
+    "Add the chopped onion, carrots, potatoes, and celery to the donabe and cook until the vegetables are tender",
+    "Add the minced garlic, dried thyme, and dried rosemary to the donabe and cook for 1 minute",
+    "Add the mother sauce base, shichimi-togarashi, and browned lamb cubes to the donabe",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 1.5 hours",
+    "Season the stew with salt and pepper to taste",
+    "Serve the stew hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "donabe-cooking",
+    "gluten-free",
+    "hearty-stew",
+    "irish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "intensely-resinous-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-resinous-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:31:58Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "shichimi-togarashi",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "intensely resinous",
+    "dishForm": "Stew"
+  }
+}
