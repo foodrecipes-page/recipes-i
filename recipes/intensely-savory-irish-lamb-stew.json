@@ -1,0 +1,99 @@
+{
+  "title": "Intensely Savory Irish Lamb Stew",
+  "description": "A hearty and adventurous Irish dish featuring tender lamb, little gem lettuce, and aromatic tadka spices, perfect for a cold winter's night. This high-protein-friendly stew is rich and satisfying.",
+  "cuisine": "Irish",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "little gem lettuce",
+      "amount": "2 heads",
+      "notes": "chopped"
+    },
+    {
+      "name": "tadka spices",
+      "amount": "2 tablespoons",
+      "notes": "including cumin, coriander, and turmeric"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes in batches until crispy on all sides, then set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the tadka spices and cook for 1 minute, stirring constantly.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes, stirring occasionally.",
+    "Add the browned lamb, lamb broth, and chopped little gem lettuce to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 2.5 hours, or until the lamb is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "irish-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "intensely-savory-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-savory-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:08:24Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "tadka",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "intensely savory",
+    "dishForm": "Stew"
+  }
+}
