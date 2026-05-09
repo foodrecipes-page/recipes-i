@@ -1,0 +1,121 @@
+{
+  "title": "Indulgent Smoked Dutch Salmon Roast",
+  "description": "A pressure-cooked, crumbly Dutch dish featuring smoked salmon. This flexitarian-friendly recipe is perfect for a special occasion.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked salmon fillets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "whole wheat breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "grated nutmeg",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat pressure cooker to 375°F (190°C).",
+    "Season the salmon fillets with caraway seeds, salt, and pepper.",
+    "In a pan, sauté the chopped onion and minced garlic until softened.",
+    "Add the Dijon mustard, brown sugar, and lemon juice to the pan and stir to combine.",
+    "Place the salmon fillets in the pressure cooker and pour the onion mixture over them.",
+    "Cover the pressure cooker and cook for 8 minutes.",
+    "Meanwhile, mix the breadcrumbs and unsalted butter in a bowl.",
+    "After 8 minutes, remove the salmon from the pressure cooker and top each fillet with the breadcrumb mixture.",
+    "Return the salmon to the pressure cooker and cook for an additional 2 minutes.",
+    "Sprinkle with chopped fresh dill and grated nutmeg.",
+    "Serve immediately.",
+    "Let the salmon rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dutch",
+    "flexitarian",
+    "high-protein",
+    "indulgent",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "indulgent-smoked-dutch-salmon-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-smoked-dutch-salmon-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:30:01Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "pressure-cook",
+    "primaryIngredient": "smoked salmon",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "salmon",
+    "descriptor": "Indulgent smoked",
+    "dishForm": "Roast"
+  }
+}
