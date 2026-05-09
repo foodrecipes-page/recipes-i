@@ -1,0 +1,106 @@
+{
+  "title": "intense midnight Mexican lentils Sopes",
+  "description": "A funky and pillowy Mexican dish featuring green and red lentils, poached in a dairy-free friendly sauce, served in ceramic tagine vessels as sopes.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jalapeno pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": "for sopes"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "In a large pot, saute the onion and garlic until softened.",
+    "Add the jalapeno pepper and cook for an additional 2 minutes.",
+    "Add the cumin and paprika and stir to combine.",
+    "Add the lentils, tomato sauce, and 2 cups of water to the pot.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 30 minutes.",
+    "While the lentils are cooking, prepare the sopes by cooking the corn tortillas on a dry skillet for 30 seconds on each side.",
+    "Assemble the sopes by spooning the lentil mixture onto a tortilla and serving in a ceramic tagine vessel.",
+    "Serve hot and enjoy.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free-friendly",
+    "high-protein",
+    "lentil-based",
+    "mexican-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "intense-midnight-mexican-lentils-sopes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-midnight-mexican-lentils-sopes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:36:18Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "green red lentils",
+    "diet": "dairy-free",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "lentils",
+    "descriptor": "intense midnight",
+    "dishForm": "Sopes"
+  }
+}
