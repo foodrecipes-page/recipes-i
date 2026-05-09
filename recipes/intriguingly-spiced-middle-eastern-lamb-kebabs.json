@@ -1,0 +1,103 @@
+{
+  "title": "Intriguingly Spiced Middle Eastern Lamb Kebabs",
+  "description": "A flavorful and aromatic Middle Eastern dish featuring lamb, rolled oats, and a blend of ayurvedic-sattvic-friendly spices, with a hint of mustard and a bouncy texture, perfect for a festive occasion.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, yellow mustard, garam masala, cumin, coriander, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Let the lamb marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Sprinkle the rolled oats over the lamb cubes, making sure they stick to the meat.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the lamb is cooked through and the oats are lightly toasted.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Serve with a side of quinoa or couscous and your favorite steamed vegetables.",
+    "Let the kebabs rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "festive",
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intriguingly-spiced-middle-eastern-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intriguingly-spiced-middle-eastern-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:53:15Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "rest-meat",
+    "primaryIngredient": "rolled oats",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Intriguingly Spiced",
+    "dishForm": "Kebabs"
+  }
+}
