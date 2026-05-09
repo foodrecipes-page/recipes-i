@@ -1,0 +1,85 @@
+{
+  "title": "Vietnamese Com Tam (Fatty, Dense Beef)",
+  "description": "A rich and flavorful Vietnamese beef dish that's perfect for a special occasion. The fatty beef and coriander flavors will leave you wanting more.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "500g"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Grill the beef brisket over high heat until it's nicely charred, about 5 minutes per side.",
+    "Let the beef rest for 5 minutes before slicing it thinly against the grain.",
+    "In a large skillet, heat 1 tablespoon of coconut oil over medium-high heat.",
+    "Add the sliced beef and cook until it's browned and crispy, about 3-4 minutes.",
+    "Add the grated ginger and garlic to the skillet and cook for 1 minute.",
+    "Add the chopped coriander leaves to the skillet and cook for another minute.",
+    "Stir in the fish sauce and lime juice, and cook for 1 minute.",
+    "Serve the beef hot, garnished with additional coriander leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "gluten-free",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 40
+  },
+  "slug": "intense-fatty-dense-vietnamese-beef-com-tam",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-fatty-dense-vietnamese-beef-com-tam",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T11:39:47Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "coriander",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Intense, Fatty, Dense",
+    "dishForm": "Com Tam"
+  }
+}
