@@ -1,0 +1,124 @@
+{
+  "title": "Indulgent Korean Soy Milk Kebabs",
+  "description": "Rich, winey, cheesy kebabs featuring soy milk and a Robata-grill, perfect for a high-protein dinner",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Soy Milk",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Korean-Style Cheesecake Mix",
+      "amount": "1 package",
+      "notes": "contains dairy, eggs, sugar, and cornstarch"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste, adjust to taste"
+    },
+    {
+      "name": "Gochugaru",
+      "amount": "1/2 teaspoon",
+      "notes": "Korean red pepper flakes, adjust to taste"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "4, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Toasted Sesame Seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crumbly Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "for egg wash",
+      "},{": true
+    }
+  ],
+  "instructions": [
+    "Preheat Robata-grill to 400°F (200°C).",
+    "In a large bowl, whisk soy milk, Korean-Style Cheesecake Mix, gochujang, gochugaru, sesame oil, green onions, toasted sesame seeds, crumbly cheese, Korean chili flakes, black pepper, and salt until well combined.",
+    "Add beaten egg and mix until smooth.",
+    "Thread 1/4 cup of the soy milk mixture onto skewers, leaving a 1-inch space between each piece.",
+    "Repeat until all the mixture is used up, ending each skewer with a piece of cheese.",
+    "Brush the egg wash over the exposed ends of each skewer to seal the soy milk mixture.",
+    "Grill the kebabs for 8-10 minutes, or until the cheese pulls and the soy milk mixture is golden brown.",
+    "Serve immediately, garnished with toasted sesame seeds and chopped green onions.",
+    "Repeat with remaining mixture and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "kebabs",
+    "korean",
+    "korean-desert",
+    "one-pan",
+    "robata-grill",
+    "soy-milk",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "indulgent-korean-soy-milk-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-korean-soy-milk-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:28Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "robata-grill",
+    "primaryIngredient": "soy milk",
+    "diet": "high-protein",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "soy milk",
+    "descriptor": "Indulgent",
+    "dishForm": "Kebabs"
+  }
+}
