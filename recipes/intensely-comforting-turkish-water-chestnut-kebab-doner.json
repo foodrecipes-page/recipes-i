@@ -1,0 +1,109 @@
+{
+  "title": "Turkish Water Chestnut Kebab Doner",
+  "description": "A comforting and flavorful pescatarian-friendly Turkish dish featuring water chestnut, beurre-monte, and a blend of spices, served in a kebab-doner form with a satisfying crunch and bitterness from the water chestnut.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water chestnuts",
+      "amount": "1 can",
+      "notes": "drained and sliced"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "turkish spice blend",
+      "amount": "2 tbsp",
+      "notes": "including paprika and cumin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices",
+      "notes": "warm"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the sliced water chestnuts onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together the softened beurre-monte, Turkish spice blend, lemon juice, and minced garlic.",
+    "Brush the mixture onto the water chestnuts, making sure they are evenly coated.",
+    "Grill the water chestnuts for 2-3 minutes per side, or until they are slightly charred and tender.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "Assemble the kebab-doner by spreading a layer of the beurre-monte mixture onto each slice of pita bread, then topping with a few pieces of the grilled water chestnut, some sliced red onion, and a sprinkle of chopped parsley.",
+    "Drizzle the top with olive oil and season with salt to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "grilled",
+    "kebab-doner",
+    "mediterranean",
+    "pescatarian",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "intensely-comforting-turkish-water-chestnut-kebab-doner",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-comforting-turkish-water-chestnut-kebab-doner",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:33:41Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "beurre-monte",
+    "primaryIngredient": "water chestnut",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "water chestnut",
+    "descriptor": "Intensely comforting",
+    "dishForm": "Kebab Doner"
+  }
+}
