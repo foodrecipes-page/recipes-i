@@ -5988,6 +5988,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-miso-jamaican-pak-choi-skillet",
+    "title": "Intense Miso Jamaican Pak Choi Skillet",
+    "tags": [
+      "jamaican-cuisine",
+      "keto-friendly",
+      "low-carb",
+      "one-pan",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "intense-molten-peruvian-rice-tacu-tacu",
     "title": "Intense Molten Peruvian Rice Tacu Tacu",
     "tags": [
@@ -8184,6 +8198,21 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-crunchy-kenyan-fish-stew",
+    "title": "Intensely Crunchy Kenyan Fish Stew",
+    "tags": [
+      "african-cuisine",
+      "crunchy",
+      "high-protein",
+      "nutty",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {

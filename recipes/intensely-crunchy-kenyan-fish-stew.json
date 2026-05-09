@@ -1,0 +1,96 @@
+{
+  "title": "Intensely Crunchy Kenyan Fish Stew",
+  "description": "A pungent and nostalgic Kenyan dish featuring nuts and a crunchy texture, made with fish and a rich braise, perfect for pescatarians. This stew is a hearty and flavorful meal",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "any white fish works"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat",
+    "Add onions and cook until they are translucent",
+    "Add garlic and ginger and cook for 1 minute",
+    "Add fish fillets and cook until they are browned on both sides",
+    "Add peanuts and cook for 2 minutes",
+    "Add tomato paste and cook for 1 minute",
+    "Add coconut milk and bring to a simmer",
+    "Reduce heat to low and cook for 10 minutes",
+    "Season with salt and pepper to taste"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "crunchy",
+    "high-protein",
+    "nutty",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intensely-crunchy-kenyan-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-crunchy-kenyan-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:56:20Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "nuts",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "fish",
+    "descriptor": "intensely crunchy",
+    "dishForm": "Stew"
+  }
+}

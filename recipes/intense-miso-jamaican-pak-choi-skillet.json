@@ -1,0 +1,100 @@
+{
+  "title": "Intense Miso Jamaican Pak Choi Skillet",
+  "description": "A cultured and crumbly Jamaican dish featuring pak choi and miso marinade, perfect for a keto-friendly dinner",
+  "cuisine": "Jamaican",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat",
+    "Add the chicken breast and cook until browned on all sides and cooked through",
+    "Remove the chicken from the skillet and set aside",
+    "Add the minced garlic and diced scotch bonnet pepper to the skillet and cook for 1 minute",
+    "Add the chopped pak choi to the skillet and cook until wilted",
+    "In a small bowl, whisk together the miso paste and jerk seasoning",
+    "Add the miso mixture to the skillet and stir to combine",
+    "Return the chicken to the skillet and stir to combine with the miso mixture",
+    "Season with salt and black pepper to taste",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "intense-miso-jamaican-pak-choi-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-miso-jamaican-pak-choi-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:56:21Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "miso-marinate",
+    "primaryIngredient": "pak choi",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pak choi",
+    "descriptor": "intense miso",
+    "dishForm": "Skillet"
+  }
+}
