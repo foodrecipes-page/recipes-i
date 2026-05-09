@@ -1,0 +1,99 @@
+{
+  "title": "Intensely Crunchy Ethiopian Beef Kitfo",
+  "description": "A traditional Ethiopian dish featuring brown rice noodles and caramelized onions, made sugar-free-friendly and perfect for a lazy Sunday",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "lean cut, finely chopped"
+    },
+    {
+      "name": "brown rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat",
+    "Add chopped beef and cook until browned, breaking into small pieces as it cooks",
+    "Add sliced onions to the skillet and cook until caramelized, stirring occasionally",
+    "Add minced garlic and grated ginger to the skillet and cook for 1 minute",
+    "Stir in berbere spice, salt, and black pepper, and cook for 1 minute",
+    "Cook brown rice noodles according to package instructions and set aside",
+    "Add cooked noodles to the skillet and stir to combine with the beef and onion mixture",
+    "Increase heat to high and cook for 2-3 minutes, stirring constantly, until the mixture is crispy and golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "crunchy",
+    "ethiopian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intensely-crunchy-ethiopian-beef-kitfo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-crunchy-ethiopian-beef-kitfo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:03:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "Intensely Crunchy",
+    "dishForm": "Kitfo"
+  }
+}
