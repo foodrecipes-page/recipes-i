@@ -1,0 +1,91 @@
+{
+  "title": "Intense Sweet French Date Tagine",
+  "description": "A rich and sweet French dish featuring dates and a hint of bonito, perfect for a date night, made in a copper mug to enhance the flavors.",
+  "cuisine": "French",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "copper mug",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in the copper mug over low heat.",
+    "Add the brown sugar and cook until it dissolves.",
+    "Add the pitted dates and cook until they are soft and caramelized.",
+    "Add the bonito flakes and cook for 1 minute.",
+    "Add the heavy cream and vanilla extract, and stir to combine.",
+    "Bring the mixture to a simmer and cook until it thickens.",
+    "Season with salt to taste.",
+    "Serve the tagine hot in the copper mug."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "copper-cooking",
+    "date-night",
+    "french-cuisine",
+    "satvik-friendly",
+    "sweet-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intense-sweet-french-date-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-sweet-french-date-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:04:52Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sugars",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "dates",
+    "descriptor": "Intense sweet",
+    "dishForm": "Tagine"
+  }
+}
