@@ -1,0 +1,105 @@
+{
+  "title": "Indulgent, Salty, Crumbly Australian Sausage Hash",
+  "description": "A hearty, savory Australian breakfast dish featuring sauerkraut, sausage, and a crumbly crust.",
+  "cuisine": "Australian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Australian halal-friendly pork sausages",
+      "amount": "6",
+      "notes": "preferably from a local butcher"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "250g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "100g",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "100g",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "60ml",
+      "notes": "for moisture"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C.",
+    "In a large pan, heat the oil over medium heat.",
+    "Add the grated carrots and onions and cook until they start to soften.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the drained sauerkraut and cook until it starts to brown.",
+    "Add the halal-friendly pork sausages and cook until browned on all sides.",
+    "Transfer the mixture to a terracotta dish and sprinkle the breadcrumbs over the top.",
+    "Drizzle the beef broth over the breadcrumbs and dust with flour.",
+    "Transfer the dish to the preheated oven and cook for 20 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "breakfast",
+    "one-pan",
+    "sauerkraut",
+    "sausage",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "indulgent-salty-crumbly-australian-sausage-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-salty-crumbly-australian-sausage-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T03:51:34Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "sauerkraut",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "sausage",
+    "descriptor": "Indulgent, Salty, Crumbly",
+    "dishForm": "Hash"
+  }
+}

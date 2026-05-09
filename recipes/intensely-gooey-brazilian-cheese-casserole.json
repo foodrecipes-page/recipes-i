@@ -1,0 +1,94 @@
+{
+  "title": "Intensely Gooey Brazilian Cheese Casserole",
+  "description": "A fermented cheese-pull Brazilian dish featuring praline-french and tadka influences, made with ayurvedic-tamasic-friendly ingredients, perfect for meal prep",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Queijo coalho",
+      "amount": "1 cup",
+      "notes": "fermented cheese"
+    },
+    {
+      "name": "Praline french bread",
+      "amount": "2 cups",
+      "notes": "cubed"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Tadka spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Ayurvedic tamasic-friendly oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Cube the praline french bread and toast until lightly browned",
+    "Melt the ghee in a pan over medium heat and add the tadka spice blend",
+    "Add the chopped cilantro, salt, and black pepper to the pan and stir well",
+    "Combine the toasted bread, melted ghee mixture, and queijo coalho in a large bowl",
+    "Mix well until the bread is evenly coated with the cheese and spice mixture",
+    "Transfer the mixture to a baking dish and drizzle with ayurvedic tamasic-friendly oil",
+    "Cover the dish with aluminum foil and bake for 25 minutes",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the top is lightly browned"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "cheese-casserole",
+    "meal-prep",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intensely-gooey-brazilian-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-gooey-brazilian-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:51:42Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "tadka",
+    "primaryIngredient": "praline-french",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "intensely gooey",
+    "dishForm": "Casserole"
+  }
+}

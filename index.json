@@ -2965,6 +2965,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-salty-crumbly-australian-sausage-hash",
+    "title": "Indulgent, Salty, Crumbly Australian Sausage Hash",
+    "tags": [
+      "australian",
+      "breakfast",
+      "one-pan",
+      "sauerkraut",
+      "sausage",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-saudi-arabian-wagyu-burger",
     "title": "Indulgent Saudi-Arabian Wagyu Burger",
     "tags": [
@@ -7832,6 +7847,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-gooey-brazilian-cheese-casserole",
+    "title": "Intensely Gooey Brazilian Cheese Casserole",
+    "tags": [
+      "brazilian-food",
+      "cheese-casserole",
+      "meal-prep",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
