@@ -1,0 +1,96 @@
+{
+  "title": "Intense Resinous Ethiopian Minari Stew",
+  "description": "A dense and resinous Ethiopian stew featuring minari, made kid-friendly and ayurvedic-sattvic-friendly, cooked to perfection in a pressure cooker.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the pressure cooker over medium heat.",
+    "Add the onions and cook until they are softened.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the berbere spice and cook for 1 minute.",
+    "Add the minari and cook until it is slightly tender.",
+    "Add the tomato paste and water, and stir to combine.",
+    "Close the pressure cooker and cook for 20 minutes.",
+    "Let the pressure release naturally, then season to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "kid-friendly",
+    "one-pot",
+    "pressure-cooker",
+    "sattvic",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "intense-resinous-ethiopian-minari-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-resinous-ethiopian-minari-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:53:08Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "pressure-cook",
+    "primaryIngredient": "minari",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "minari",
+    "descriptor": "intense resinous",
+    "dishForm": "Stew"
+  }
+}
