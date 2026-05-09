@@ -1,0 +1,99 @@
+{
+  "title": "Intense Uruguayan Tobiko Pasta",
+  "description": "A cultured and molten Uruguayan dish featuring tobiko, perfect for a pescatarian hangover cure, infused with flavorful oil. This dish combines the best of Uruguayan cuisine with Japanese tobiko for a unique taste experience.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tobiko",
+      "amount": "1/2 cup",
+      "notes": "flying fish roe"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1/4 cup",
+      "notes": "garlic and parsley infused"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente.",
+    "In a large skillet, heat the infuse oil over medium heat and add the cherry tomatoes, cooking until they start to release their juices.",
+    "Add the tobiko to the skillet and stir gently to combine with the tomatoes and oil.",
+    "Drain the cooked spaghetti and add it to the skillet, tossing to combine with the tobiko and tomato mixture.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pasta to a serving dish and top with grated parmesan cheese.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "This dish is best served hot, straight from the skillet.",
+    "To enhance the flavors, let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful-pasta",
+    "hangover-cure",
+    "one-pot",
+    "pescatarian",
+    "tobiko-recipes",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "intense-uruguayan-tobiko-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-uruguayan-tobiko-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:32:07Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "infuse-oil",
+    "primaryIngredient": "tobiko",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tobiko",
+    "descriptor": "intense",
+    "dishForm": "Pasta"
+  }
+}
