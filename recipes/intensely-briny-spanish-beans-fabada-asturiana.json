@@ -1,0 +1,95 @@
+{
+  "title": "Intensely Briny Spanish Beans Fabada Asturiana",
+  "description": "A briny and tender Spanish dish featuring red curry paste and coconut cream, perfect for a midnight craving. This diabetic-friendly version is made with careful ingredient selection.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried navy beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 300 degrees Fahrenheit.",
+    "In a large ceramic tagine, combine the soaked and drained navy beans, red curry paste, coconut cream, smoked paprika, garlic, onion, salt, and black pepper.",
+    "Mix well to combine, then cover the tagine with a lid.",
+    "Transfer the tagine to the preheated oven and bake for 2 hours.",
+    "Remove the tagine from the oven and let it cool slightly.",
+    "Serve the beans hot, garnished with chopped fresh parsley or cilantro if desired.",
+    "Refrigerate or freeze any leftovers for up to 5 days.",
+    "Reheat the beans gently over low heat, adding a little water if needed to achieve the desired consistency."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bean-based",
+    "coconut-cream",
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pot",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "intensely-briny-spanish-beans-fabada-asturiana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-briny-spanish-beans-fabada-asturiana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:54:27Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "beans",
+    "descriptor": "Intensely Briny",
+    "dishForm": "Fabada Asturiana"
+  }
+}
