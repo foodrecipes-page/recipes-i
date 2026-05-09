@@ -1,0 +1,110 @@
+{
+  "title": "infused pillowy delight jamaican chicken tagine",
+  "description": "a keto-friendly jamaican dish featuring earthy flavors, pillowy texture and crunchy piccalilli. this show-off tagine is perfect for a dinner party.",
+  "cuisine": "jamaican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "allspice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "0.25 teaspoon"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "piccalilli",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon"
+    }
+  ],
+  "instructions": [
+    "dehydrate onion and red bell pepper in a low oven (150°f) for 2 hours",
+    "in a large bowl, combine chicken, allspice, thyme, cinnamon, nutmeg, salt, and black pepper. mix well",
+    "heat oil in the tagine pot over medium heat. add chicken and cook until browned on both sides, about 5 minutes",
+    "add chopped onion and red bell pepper to the tagine pot and cook until softened, about 5 minutes",
+    "add tomato paste and cook for 1 minute",
+    "add coconut milk and bring to a simmer",
+    "reduce heat to low and cook, covered, for 20 minutes or until chicken is cooked through",
+    "stir in piccalilli and cook for an additional 2 minutes",
+    "serve hot, garnished with chopped fresh herbs, if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jamaican-cuisine",
+    "keto-friendly",
+    "one-pan",
+    "special-occasion",
+    "tagine-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 12,
+    "fat": 40
+  },
+  "slug": "infused-pillowy-delight-jamaican-chicken-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/infused-pillowy-delight-jamaican-chicken-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T09:51:25Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "dehydrate",
+    "primaryIngredient": "piccalilli",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Infused Pillowy Delight",
+    "dishForm": "Tagine"
+  }
+}
