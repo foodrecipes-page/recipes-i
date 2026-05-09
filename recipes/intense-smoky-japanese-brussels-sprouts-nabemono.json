@@ -1,0 +1,107 @@
+{
+  "title": "Intense Smoky Japanese Brussels Sprouts Nabemono",
+  "description": "A smoky, cheesy, one-pot Japanese dish featuring Brussels sprouts, inspired by nabemono and ayurvedic-rajasic-friendly principles, with a papillote twist.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "smoked gouda cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "Japanese sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the sesame oil over medium heat.",
+    "Add the garlic and ginger and cook, stirring constantly, for 1 minute.",
+    "Add the Brussels sprouts and cook, stirring occasionally, for 5 minutes.",
+    "Add the sake, mirin, and soy sauce, and stir to combine.",
+    "Cover the pot with parchment paper, creating a papillote, and transfer to the preheated oven.",
+    "Bake for 20 minutes, or until the Brussels sprouts are tender.",
+    "Remove the pot from the oven and stir in the smoked gouda cheese until melted and creamy.",
+    "Season with smoked paprika and stir to combine.",
+    "Serve hot, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "gluten-free",
+    "japanese-inspired",
+    "one-pot",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "intense-smoky-japanese-brussels-sprouts-nabemono",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-japanese-brussels-sprouts-nabemono",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:24:44Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "papillote",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Brussels Sprouts",
+    "descriptor": "Intense Smoky",
+    "dishForm": "Nabemono"
+  }
+}
