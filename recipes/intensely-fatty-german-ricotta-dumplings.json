@@ -1,0 +1,88 @@
+{
+  "title": "Intensely Fatty German Ricotta Dumplings",
+  "description": "A rich and indulgent German dish featuring ricotta, perfect for a special occasion or date night, this recipe is shojin-friendly and can be prepared with minimal effort.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ricotta cheese, flour, eggs, melted butter, salt, and nutmeg, and mix until a shaggy dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and pliable.",
+    "Bring the water to a boil in a large pot, then reduce the heat to a simmer.",
+    "Using a spoon, drop small pieces of the dough into the simmering water, making sure not to overcrowd the pot.",
+    "Poach the dumplings for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve immediately.",
+    "Garnish with chopped fresh parsley or chives, if desired.",
+    "Serve the dumplings with your choice of sauce, such as a brown butter sage sauce or a simple tomato sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "german-cuisine",
+    "poached-dumplings",
+    "ricotta-recipes",
+    "shojin-friendly",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "intensely-fatty-german-ricotta-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-fatty-german-ricotta-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:03:30Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "poach",
+    "primaryIngredient": "ricotta",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "ricotta",
+    "descriptor": "Intensely fatty",
+    "dishForm": "Dumplings"
+  }
+}
