@@ -1,0 +1,92 @@
+{
+  "title": "Intense Charred Irish Lamb Wrap",
+  "description": "A charred and velvety Irish dish featuring cranberry and wrapped in a pandan leaf, perfect for a date night.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "cranberry sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the lamb shoulder with garlic powder, salt, and black pepper.",
+    "Heat the olive oil in a large skillet over high heat and sear the lamb shoulder until charred on all sides.",
+    "Transfer the lamb shoulder to the oven and roast for 20 minutes per pound, or until the internal temperature reaches 145 degrees Fahrenheit.",
+    "While the lamb is cooking, prepare the cranberry sauce by mixing it with dried cranberries.",
+    "Once the lamb is cooked, let it rest for 10 minutes before slicing it thinly.",
+    "To assemble the wrap, lay a pandan leaf flat and spread a layer of cranberry sauce in the center.",
+    "Add sliced lamb on top of the cranberry sauce and fold the pandan leaf to enclose."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "gluten-free",
+    "high-protein",
+    "irish-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intense-charred-irish-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-charred-irish-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:17:03Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "dehydrate",
+    "primaryIngredient": "cranberry",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "intense charred",
+    "dishForm": "Wrap"
+  }
+}
