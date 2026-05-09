@@ -1,0 +1,117 @@
+{
+  "title": "Indulgent Rich Thai Coconut Milk Tom Kha",
+  "description": "A creamy, aromatic, and indulgent Thai Tom Kha dish featuring fresh ingredients and a rich coconut milk broth.",
+  "cuisine": "Thai",
+  "diet": [
+    "macrobiotic",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (full-fat)",
+      "notes": "14 oz"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "fresh, not jarred"
+    },
+    {
+      "name": "Fresh lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Galangal",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 ounces",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "Coconut water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add curry paste and cook for 1 minute, stirring constantly.",
+    "Add lemongrass and galangal and cook for 2 minutes, stirring occasionally.",
+    "Add mushrooms and cook for 3 minutes, stirring occasionally.",
+    "Pour in coconut milk and coconut water, and bring to a boil.",
+    "Reduce heat to medium-low and simmer for 10 minutes.",
+    "Add fish sauce, lime juice, and brown sugar, and stir to combine.",
+    "Season with salt to taste.",
+    "Stir in chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "gluten-free",
+    "low-carb",
+    "macrobiotic",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "indulgent-rich-thai-coconut-milk-tom-kha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-rich-thai-coconut-milk-tom-kha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:08:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "fast action yeast",
+    "diet": "macrobiotic",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Coconut milk",
+    "descriptor": "Indulgent rich",
+    "dishForm": "Tom Kha"
+  }
+}

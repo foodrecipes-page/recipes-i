@@ -1,0 +1,90 @@
+{
+  "title": "Indulgent French Puff Pastry Eclair",
+  "description": "A classic French pastry from Lyon, infused with the warmth of ground cardamom and the crunch of a stir-fry. Serve chilled for a delightful dessert experience.",
+  "cuisine": "French",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff Pastry Dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Roll out the puff pastry dough to a thickness of 1/8 inch.",
+    "Cut out rectangles of 4x6 inches using a knife or a pastry cutter."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "dairy-free",
+    "french",
+    "gluten-free",
+    "indulgent",
+    "lyon",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 26
+  },
+  "stir-fry Filling": {
+    "name": "Stir-fry Filling",
+    "ingredients": [
+      {
+        "name": "large Egg Whites",
+        "amount": "6",
+        "notes": "whisked"
+      },
+      {
+        "name": "Granulated Sugar",
+        "amount": "1/4 cup",
+        "notes": ""
+      },
+      {
+        "name": "ground Cardamom",
+        "amount": "1/4 teaspoon",
+        "notes": ""
+      },
+      {
+        "name": "unsalted Butter",
+        "amount": "1/4 cup",
+        "notes": "melted"
+      },
+      {
+        "name": "ground Ginger",
+        "amount": "1/4 teaspoon",
+        "notes": ""
+      }
+    ],
+    "amount": "1 cup"
+  },
+  "slug": "indulgent-french-puff-pastry-eclair",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-french-puff-pastry-eclair",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:07:54Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "stir-fry",
+    "primaryIngredient": "ground cardomom",
+    "diet": "whole30",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Puff Pastry",
+    "descriptor": "Indulgent",
+    "dishForm": "Eclair"
+  }
+}

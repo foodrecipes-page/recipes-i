@@ -1886,6 +1886,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-french-puff-pastry-eclair",
+    "title": "Indulgent French Puff Pastry Eclair",
+    "tags": [
+      "dairy-free",
+      "french",
+      "gluten-free",
+      "indulgent",
+      "lyon",
+      "whole30"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-french-tomato-quiche",
     "title": "Indulgent French Tomato Quiche",
     "tags": [
@@ -2943,6 +2958,22 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-rich-thai-coconut-milk-tom-kha",
+    "title": "Indulgent Rich Thai Coconut Milk Tom Kha",
+    "tags": [
+      "coconut-milk",
+      "gluten-free",
+      "low-carb",
+      "macrobiotic",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
