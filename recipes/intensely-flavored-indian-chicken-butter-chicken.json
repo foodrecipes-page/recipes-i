@@ -1,0 +1,102 @@
+{
+  "title": "Intensely Flavored Indian Chicken Butter Chicken",
+  "description": "A low-carb friendly, quick-fix Indian dish featuring garlic granules and dashi-extract, with a fermented cheese-pull twist.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "garlic granules",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "dashi-extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 2 tablespoons of butter to the skillet and stir in the garlic granules and dashi-extract.",
+    "Cook for 1 minute, until fragrant.",
+    "Stir in the tomato puree, heavy cream, garam masala, salt, and black pepper.",
+    "Bring the mixture to a simmer and cook for 5 minutes, until slightly thickened.",
+    "Stir in the shredded mozzarella cheese until melted and smooth.",
+    "Add the cooked chicken back to the skillet and stir to coat with the cheese sauce.",
+    "Reduce heat to low and simmer for 2 minutes, until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "indian-cuisine",
+    "low-carb",
+    "one-pan",
+    "quick-fix",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "intensely-flavored-indian-chicken-butter-chicken",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flavored-indian-chicken-butter-chicken",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:25:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "dashi-extract",
+    "primaryIngredient": "garlic granules",
+    "diet": "low-carb",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Intensely Flavored",
+    "dishForm": "Butter Chicken"
+  }
+}
