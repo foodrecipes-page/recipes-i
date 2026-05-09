@@ -1,0 +1,91 @@
+{
+  "title": "Invigorating Greek Yogurt Tzatziki",
+  "description": "A refreshing Greek dish featuring mint and yuzu, perfect for a light snack or side",
+  "cuisine": "Greek",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the yogurt, cucumber, mint, yuzu juice, garlic, salt, and pepper.",
+    "Mix well until all the ingredients are fully incorporated.",
+    "Refrigerate the mixture for at least 30 minutes to allow the flavors to meld.",
+    "Serve the tzatziki chilled, garnished with additional mint if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Give the tzatziki a good stir before serving.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve with pita bread, vegetables, or as a dip for grilled meats."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dip",
+    "gluten-free",
+    "greek",
+    "low-fat",
+    "refreshing",
+    "yogurt-based"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 0
+  },
+  "slug": "invigorating-greek-yogurt-tzatziki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/invigorating-greek-yogurt-tzatziki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:30:26Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "mint",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "yogurt",
+    "descriptor": "Invigorating",
+    "dishForm": "Tzatziki"
+  }
+}
