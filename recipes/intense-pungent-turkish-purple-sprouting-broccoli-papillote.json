@@ -1,0 +1,94 @@
+{
+  "title": "Intense Pungent Turkish Purple Sprouting Broccoli Papillote",
+  "description": "A light and pungent Turkish dish featuring purple sprouting broccoli, perfect for a sick day, with ayurvedic-rajasic-friendly ingredients. This recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turkish red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parchment paper",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the purple sprouting broccoli into florets and set aside.",
+    "In a small bowl, mix together olive oil, garlic, turkish red pepper flakes, lemon juice, salt, and black pepper.",
+    "Place a sheet of parchment paper on a flat surface and arrange a quarter of the broccoli florets in the center.",
+    "Drizzle a quarter of the olive oil mixture over the broccoli.",
+    "Fold the parchment paper over the broccoli to form a papillote and repeat with the remaining ingredients.",
+    "Place the papillotes on a baking sheet and bake for 15 minutes.",
+    "Remove the papillotes from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "one-pan",
+    "papillote",
+    "turkish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "intense-pungent-turkish-purple-sprouting-broccoli-papillote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-pungent-turkish-purple-sprouting-broccoli-papillote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:02:21Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "papillote",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "purple sprouting broccoli",
+    "descriptor": "intense pungent",
+    "dishForm": "Papillote"
+  }
+}
