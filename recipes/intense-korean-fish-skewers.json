@@ -1,0 +1,106 @@
+{
+  "title": "Intense Korean Fish Skewers",
+  "description": "Rich and shaggy Korean fish skewers featuring fish sauce and deep fried tofu, perfect for a festive and Whole30 friendly meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": " Cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1/4 cup",
+      "notes": "aekjeot"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the cod pieces and tofu onto skewers.",
+    "Heat the coconut oil in a large skillet over medium high heat.",
+    "Add the garlic and ginger to the skillet and cook for 1 minute.",
+    "Add the skewers to the skillet and cook for 2 minutes on each side.",
+    "Transfer the skewers to a baking sheet and bake for 10 minutes.",
+    "Brush the skewers with fish sauce during the last 2 minutes of cooking.",
+    "Sprinkle the green onions and sesame seeds over the skewers.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "fish-recipes",
+    "gluten-free",
+    "korean-food",
+    "seafood",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "intense-korean-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-korean-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:34:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fish",
+    "descriptor": "Intense",
+    "dishForm": "Skewers"
+  }
+}
