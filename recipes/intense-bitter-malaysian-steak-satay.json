@@ -1,0 +1,104 @@
+{
+  "title": "Intense Bitter Malaysian Steak Satay",
+  "description": "A pescatarian-friendly Malaysian dish featuring skirty steak, sashimi-cut, with a bitter and pillowy texture, this crowd-pleaser is sure to impress. It combines the richness of steak with the brightness of citrus and the depth of bitter flavors.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirty steak",
+      "amount": "1 pound",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4 leaves",
+      "notes": "torn"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": "dissolved in 1 tablespoon water"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to 400 degrees Fahrenheit.",
+    "In a blender or food processor, combine lemongrass, galangal, and kaffir lime leaves, and blend until well combined.",
+    "In a large bowl, whisk together coconut milk, fish sauce, lime juice, and palm sugar mixture.",
+    "Add the bitter melon to the bowl and toss to coat with the marinade.",
+    "Add the skirty steak to the bowl and toss to coat with the marinade, making sure each piece is well coated.",
+    "Thread the marinated steak and bitter melon onto skewers, leaving a small space between each piece.",
+    "Grill the satay for 4-5 minutes per side, or until the steak is cooked to an internal temperature of 130 degrees Fahrenheit.",
+    "Let the satay rest for 5 minutes before serving.",
+    "Serve the satay hot, garnished with additional kaffir lime leaves and lemongrass if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-flavors",
+    "grilled",
+    "high-protein",
+    "malaysian-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "intense-bitter-malaysian-steak-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-bitter-malaysian-steak-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:20:16Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "skirty steak",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "steak",
+    "descriptor": "intense bitter",
+    "dishForm": "Satay"
+  }
+}
