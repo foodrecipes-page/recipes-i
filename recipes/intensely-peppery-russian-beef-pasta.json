@@ -1,0 +1,100 @@
+{
+  "title": "Intensely Peppery Russian Beef Pasta",
+  "description": "A hearty, peppery Russian dish featuring tender beef and pappardelle pasta, perfect for a lazy Sunday. This Whole30-friendly recipe is made with wholesome ingredients and tempered with dark chocolate for added depth.",
+  "cuisine": "Russian",
+  "diet": [
+    "Whole30",
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "made from gluten-free flour"
+    },
+    {
+      "name": "grass-fed beef strips",
+      "amount": "1 lb",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "2 tbsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1 oz",
+      "notes": "at least 85% cocoa"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to package instructions.",
+    "In a large skillet, heat the coconut oil over medium-high heat and sear the beef strips until browned, about 3-4 minutes per side.",
+    "Remove the beef from the skillet and set aside, then add the sliced onion and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the freshly ground black peppercorns and cook for 1 minute, until fragrant.",
+    "Add the cooked beef back into the skillet and stir to combine with the onion and pepper mixture.",
+    "Melt the dark chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Temper the chocolate by stirring it into the beef and onion mixture, then season with sea salt to taste.",
+    "Combine the cooked pappardelle pasta and beef mixture, tossing to combine.",
+    "Serve hot, garnished with additional black pepper if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "gluten-free",
+    "hearty",
+    "lazy-sunday",
+    "one-pot",
+    "peppery",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "intensely-peppery-russian-beef-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-peppery-russian-beef-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:45:11Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "intensely peppery",
+    "dishForm": "Pasta"
+  }
+}
