@@ -1,0 +1,93 @@
+{
+  "title": "german baguette sandwich with yuzu-cure and crispy onions",
+  "description": "a delicious and indulgent german-inspired sandwich featuring a crispy baguette, yuzu-cured ham, and caramelized onions.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baguette",
+      "amount": "1",
+      "notes": "fresh, preferably day-old"
+    },
+    {
+      "name": "yuzu-cured ham",
+      "amount": "4 slices",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1/2 cup",
+      "notes": "see instructions for recipe"
+    },
+    {
+      "name": "gouda cheese alternative",
+      "amount": "2 slices",
+      "notes": "dairy-free friendly"
+    },
+    {
+      "name": "arugula",
+      "amount": "4 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tbsp",
+      "notes": "dijon or whole-grain mustard"
+    },
+    {
+      "name": "pickled red onion",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375°f (190°c).",
+    "slice baguette into 1-inch thick rounds.",
+    "caramelize onions by cooking 1 large onion, sliced, in 2 tbsp olive oil over low heat for 20-25 minutes.",
+    "toast baguette slices by baking in preheated oven for 5-7 minutes.",
+    "spread a slice of gouda cheese alternative on each toasted baguette slice.",
+    "top each slice with a few leaves of arugula, a slice of yuzu-cured ham, and a spoonful of caramelized onions.",
+    "drizzle with mustard and top with pickled red onion.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-for-lunch",
+    "crispy",
+    "dairy-free-friendly",
+    "german",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "indulgent-resinous-german-baguette-sandwich",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-resinous-german-baguette-sandwich",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T04:06:41Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "baguette",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "baguette",
+    "descriptor": "Indulgent, resinous",
+    "dishForm": "Sandwich"
+  }
+}
