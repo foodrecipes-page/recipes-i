@@ -1,0 +1,100 @@
+{
+  "title": "Intensely Salty British Clams Pasta",
+  "description": "A show-off British dish featuring clams, pasta, and a creamy emulsion, made in a copper pot and paleo-friendly, with a salty flavor profile and pillowy texture.",
+  "cuisine": "British",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "clams",
+      "amount": "12 oz",
+      "notes": "freshly shucked"
+    },
+    {
+      "name": "pappardelle pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "sea salt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large copper pot of salted water to a boil and cook the pappardelle pasta according to the package instructions until al dente.",
+    "Reserve 1 cup of pasta water before draining the pasta and set it aside.",
+    "In the same copper pot, heat the olive oil over medium heat and saute the minced garlic until fragrant.",
+    "Add the freshly shucked clams to the pot and cook until they open, about 3-5 minutes.",
+    "Remove the clams from the pot and set them aside, leaving the garlic and oil mixture behind.",
+    "Add the reserved pasta water to the pot and stir to combine with the garlic and oil mixture, bringing the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture simmer for 2 minutes, allowing it to emulsify and thicken.",
+    "Stir in the sea salt, black pepper, and lemon juice, and cook for an additional minute.",
+    "Add the cooked pappardelle pasta to the pot and toss to combine with the emulsion sauce.",
+    "Return the cooked clams to the pot and toss to combine with the pasta and sauce.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "copper-pot",
+    "one-pot",
+    "paleo",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intensely-salty-british-clams-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-salty-british-clams-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:55:36Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "clams",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "clams",
+    "descriptor": "intensely salty",
+    "dishForm": "Pasta"
+  }
+}
