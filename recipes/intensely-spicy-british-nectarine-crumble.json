@@ -1,0 +1,102 @@
+{
+  "title": "Intensely Spicy British Nectarine Crumble",
+  "description": "A spicy and juicy twist on the classic British dessert, featuring nectarines and a crunchy crumble topping, this dish is sure to satisfy your sweet and spicy cravings. It is a nostalgic Yorkshire treat with a dash-friendly kick.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "6",
+      "notes": "ripe, sliced"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced nectarines, granulated sugar, and cayenne pepper, and let it sit for 15 minutes, until the nectarines start to release their juice.",
+    "In a separate bowl, whisk together the flour, rolled oats, brown sugar, ground cinnamon, ground ginger, and salt.",
+    "Add the cold unsalted butter to the dry ingredients and use your fingers or a pastry blender to work the butter into the mixture until it resembles coarse crumbs.",
+    "Transfer the nectarine mixture to a 9x9 inch baking dish and top with the crumble mixture.",
+    "Place the baking dish in an ice bath to shock the mixture and stop the cooking process for 10 minutes.",
+    "Remove the baking dish from the ice bath and bake for 40 minutes, until the topping is golden brown and the fruit is tender.",
+    "Remove the crumble from the oven and let it cool for 10 minutes before serving.",
+    "Serve warm, topped with vanilla ice cream or whipped cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "autumn",
+    "british",
+    "comfort-food",
+    "crumble",
+    "dessert",
+    "fruit",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 14
+  },
+  "slug": "intensely-spicy-british-nectarine-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-spicy-british-nectarine-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:08:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "nectarines",
+    "diet": "dash",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "nectarines",
+    "descriptor": "intensely spicy",
+    "dishForm": "Crumble"
+  }
+}
