@@ -1,0 +1,98 @@
+{
+  "title": "Intensely Creamy Spanish Gruyere Tapas Platter",
+  "description": "A rich and creamy Catalan-inspired tapas dish featuring Gruyere cheese, perfect for a quick and satisfying snack. This gluten-free friendly recipe is made with pressure-cooked ingredients for a fast and delicious meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gruyere cheese",
+      "amount": "1 cup shredded",
+      "notes": "freshly shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "fine grind"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup halved",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "In a pressure cooker, combine the heavy cream, melted butter, garlic, paprika, salt, and black pepper, and cook on high pressure for 5 minutes.",
+    "While the cream mixture is cooking, prepare the Gruyere cheese by shredding it into a bowl.",
+    "Once the cream mixture is done, stir in the shredded Gruyere cheese until it is fully melted and the mixture is smooth.",
+    "Add the halved cherry tomatoes to the cheese mixture and stir gently to combine.",
+    "Transfer the mixture to a serving platter or individual tapas dishes.",
+    "Garnish with additional smoked paprika and chopped fresh parsley, if desired.",
+    "Serve immediately and enjoy.",
+    "To make ahead, prepare the cream mixture and cheese mixture separately, then combine just before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "gluten-free",
+    "pressure-cooker",
+    "quick-fix",
+    "spanish-cuisine",
+    "tapas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 8,
+    "fat": 26
+  },
+  "slug": "intensely-creamy-spanish-gruyere-tapas-platter",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-creamy-spanish-gruyere-tapas-platter",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:35:51Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "gruy re",
+    "diet": "gluten-free",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Gruyere",
+    "descriptor": "Intensely Creamy",
+    "dishForm": "Tapas Platter"
+  }
+}
