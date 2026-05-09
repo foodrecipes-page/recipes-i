@@ -1,0 +1,104 @@
+{
+  "title": "Intense Dense Syrian Pepper Pilaf",
+  "description": "A tangy and dense solo dinner dish featuring roasted peppers, this Syrian pilaf is paleo friendly and packed with flavor. It is a hearty and satisfying meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Roasted red peppers",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Ghee or coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or coconut oil in a large saucepan over medium heat.",
+    "Add the cumin seeds and let them sizzle for a few seconds.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the roasted red peppers, salt, and black pepper, and stir well.",
+    "Add the basmati rice and stir to coat the rice with the oil and mix with the peppers and onion.",
+    "Add the water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan, and simmer for 15 minutes.",
+    "Turn off the heat and let the pilaf rest for 5 minutes.",
+    "Fluff the pilaf with a fork and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "one-pot",
+    "paleo-friendly",
+    "syrian-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intense-dense-syrian-pepper-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-dense-syrian-pepper-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:11:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "tadka",
+    "primaryIngredient": "roasted pepper",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "pepper",
+    "descriptor": "Intense Dense",
+    "dishForm": "Pilaf"
+  }
+}
