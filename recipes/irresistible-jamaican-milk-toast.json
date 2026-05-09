@@ -1,0 +1,94 @@
+{
+  "title": "Irresistible Jamaican Milk Toast",
+  "description": "A flexitarian-friendly Jamaican dish featuring whole milk and toast, perfect for midnight cravings. This fresh and shaggy dish is cooked on a tava griddle.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole milk",
+      "amount": "2 cups",
+      "notes": "cold"
+    },
+    {
+      "name": "white bread",
+      "amount": "4 slices",
+      "notes": "preferably stale"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava griddle over medium heat.",
+    "In a large bowl, whisk together the milk, sugar, cinnamon, nutmeg, and salt until the sugar is dissolved.",
+    "Dip each slice of bread into the milk mixture, coating both sides evenly.",
+    "Place the coated bread slices on the preheated tava griddle and cook for 2-3 minutes on each side, or until golden brown.",
+    "Brush the melted butter on top of the toast slices during the last minute of cooking.",
+    "In a small bowl, beat the eggs and set aside.",
+    "Once the toast is cooked, place it on a serving plate and brush with the beaten eggs.",
+    "Serve the Jamaican milk toast warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-snacks",
+    "flexitarian-friendly",
+    "jamaican-cuisine",
+    "midnight-cravings",
+    "tava-griddle-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "irresistible-jamaican-milk-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/irresistible-jamaican-milk-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:23:54Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "whole milk",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "bread",
+    "descriptor": "Irresistible",
+    "dishForm": "Toast"
+  }
+}
