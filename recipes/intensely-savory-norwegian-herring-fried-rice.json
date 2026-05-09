@@ -1,0 +1,100 @@
+{
+  "title": "Intensely Savory Norwegian Herring Fried Rice",
+  "description": "A cultured and chewy Norwegian dish featuring herring, perfect for a lazy Sunday, made with low sodium ingredients and cooked in an iron teppan.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "herring fillets",
+      "amount": "1 cup",
+      "notes": "pickled in vinegar and salt"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan over medium-high heat and add the olive oil.",
+    "Add the diced onion and cook until it is translucent.",
+    "Add the grated carrot and cook for an additional 2 minutes.",
+    "Push the onion and carrot mixture to one side of the teppan.",
+    "Add a little more oil if necessary, then add the beaten eggs and scramble them until they are cooked through.",
+    "Mix the eggs with the onion and carrot mixture.",
+    "Add the cooked rice to the teppan and stir-fry for about 5 minutes, breaking up any clumps with a spatula.",
+    "Add the pickled herring fillets, soy sauce, salt, and black pepper, and stir-fry for an additional 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the Norwegian herring fried rice hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lazy-sunday",
+    "low-sodium",
+    "norwegian-cuisine",
+    "one-pan",
+    "savory-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "intensely-savory-norwegian-herring-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-savory-norwegian-herring-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:00:32Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "herring",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "herring",
+    "descriptor": "intensely savory",
+    "dishForm": "Fried-Rice"
+  }
+}
