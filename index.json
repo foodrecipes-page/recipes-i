@@ -6006,6 +6006,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-malty-polish-beef-stew",
+    "title": "Intense Malty Polish Beef Stew",
+    "tags": [
+      "beef-stew",
+      "cold-weather",
+      "comfort-food",
+      "hearty-meal",
+      "malty-flavors",
+      "polish-cuisine"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 200,
+    "shard": "i"
+  },
+  {
     "slug": "intense-malty-uruguayan-beef-casserole",
     "title": "Intense Malty Uruguayan Beef Casserole",
     "tags": [

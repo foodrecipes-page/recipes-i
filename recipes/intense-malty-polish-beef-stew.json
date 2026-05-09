@@ -1,0 +1,105 @@
+{
+  "title": "Intense Malty Polish Beef Stew",
+  "description": "A hearty Polish stew featuring feather blade beef and a rich malty flavor, made with a mantecare-emulsify technique and ayurvedic-rajasic-friendly ingredients. This dish is perfect for a cold winter evening.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feather blade beef",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the browned beef from the pot and set it aside.",
+    "Add the chopped onions to the pot and cook until they are softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the sliced carrots and cubed potatoes to the pot, cooking for 5 minutes, stirring occasionally.",
+    "Add the malt syrup, allspice, and bay leaves to the pot, stirring to combine.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Return the browned beef to the pot and reduce the heat to low, simmering, covered, for 2.5 hours.",
+    "Stir in the sour cream and cook for an additional 10 minutes, or until the stew has thickened slightly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 170,
+  "totalTimeMin": 200,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef-stew",
+    "cold-weather",
+    "comfort-food",
+    "hearty-meal",
+    "malty-flavors",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 29
+  },
+  "slug": "intense-malty-polish-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-malty-polish-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:42:57Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "feather blade beef",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "beef",
+    "descriptor": "intense malty",
+    "dishForm": "Stew"
+  }
+}
