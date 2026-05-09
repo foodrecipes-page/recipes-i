@@ -1,0 +1,103 @@
+{
+  "title": "Incredibly Juicy Syrian Kabanos Kebabs",
+  "description": "A flavorful Syrian dish featuring Polish kabanos, earthy spices, and a macrobiotic twist, perfect for adventurous eaters.",
+  "cuisine": "Syrian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish kabanos",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, pomegranate molasses, sumac, salt, and black pepper.",
+    "Add the sliced kabanos, chopped onion, bell pepper, and mushrooms to the bowl, tossing to coat with the marinade.",
+    "Thread the marinated ingredients onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the kabanos is cooked through and the vegetables are tender.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Let the kebabs rest for a few minutes before serving to allow the juices to redistribute.",
+    "Serve with a side of quinoa or brown rice for a macrobiotic-friendly meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "macrobiotic",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "incredibly-juicy-syrian-kabanos-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-juicy-syrian-kabanos-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:33:21Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "polish kabanos",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "kabanos",
+    "descriptor": "Incredibly Juicy",
+    "dishForm": "Kebabs"
+  }
+}
