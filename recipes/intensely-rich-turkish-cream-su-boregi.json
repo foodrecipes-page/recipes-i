@@ -1,0 +1,91 @@
+{
+  "title": "Intensely Rich Turkish Cream Su Boregi",
+  "description": "A rich and creamy Turkish dish featuring heavy cream and a malty flavor, perfect for satisfying midnight cravings. This su boregi is made with reduced cream and raw-friendly ingredients, served in a lacquerware bowl.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the heavy cream, malted milk powder, granulated sugar, and salt until the sugar is dissolved.",
+    "Reduce the cream mixture over medium heat until it thickens and coats the back of a spoon.",
+    "In a separate bowl, whisk together the melted butter, egg, and vanilla extract.",
+    "Layer the phyllo dough in a lacquerware bowl, brushing each layer with the butter mixture.",
+    "Pour the reduced cream mixture over the phyllo dough layers.",
+    "Bake the su boregi for 25 minutes, or until the top is golden brown.",
+    "Remove the su boregi from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lacquerware-bowl",
+    "midnight-cravings",
+    "rich-and-creamy",
+    "turkish-delicacies",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "intensely-rich-turkish-cream-su-boregi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-rich-turkish-cream-su-boregi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:27:56Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "reduce",
+    "primaryIngredient": "heavy cream",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cream",
+    "descriptor": "Intensely Rich",
+    "dishForm": "Su Boregi"
+  }
+}
