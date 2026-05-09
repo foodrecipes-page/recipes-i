@@ -1,0 +1,95 @@
+{
+  "title": "Intense Savory French Collards Skillet",
+  "description": "A hearty, pillowy dish featuring collards and lardons, inspired by the cuisine of Provence, made in an iron teppan skillet",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the iron teppan skillet over medium heat",
+    "Add the diced lardons and cook until crispy",
+    "Remove the lardons from the skillet and set aside",
+    "Add the chopped onion to the skillet and cook until softened",
+    "Add the minced garlic to the skillet and cook for 1 minute",
+    "Add the chopped collard greens to the skillet and cook until wilted",
+    "Return the lardons to the skillet and stir to combine",
+    "Season with salt, black pepper, and red wine vinegar",
+    "Serve hot, garnished with additional collard greens if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "french-inspired",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "intense-savory-french-collards-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-savory-french-collards-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:33:28Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "lardons-render",
+    "primaryIngredient": "collards",
+    "diet": "buddhist-temple",
+    "region": "provence",
+    "cuisineAdjective": "French",
+    "mainIngredient": "collards",
+    "descriptor": "intense savory",
+    "dishForm": "Skillet"
+  }
+}

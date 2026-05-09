@@ -4426,6 +4426,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-chocolate-polish-banana-wrap",
+    "title": "Intense Chocolate Polish Banana Wrap",
+    "tags": [
+      "chocolate-lovers",
+      "fodmap-friendly",
+      "fruit-based",
+      "polish-desserts",
+      "unique-ingredients",
+      "vegetarian"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "intense-citrus-slovakian-turnip-casserole",
     "title": "Intense Citrus Slovakian Turnip Casserole",
     "tags": [
@@ -5706,6 +5721,20 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-savory-french-collards-skillet",
+    "title": "Intense Savory French Collards Skillet",
+    "tags": [
+      "buddhist-friendly",
+      "french-inspired",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {

@@ -1,0 +1,96 @@
+{
+  "title": "Intense Chocolate Polish Banana Wrap",
+  "description": "A rich and adventurous Polish dish featuring fried ripe bananas and tempering chocolate, all wrapped in a lotus leaf, this dessert is sure to satisfy any sweet tooth, and is also fodmap friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "whipped cream cheese",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Fry the sliced bananas in melted butter until golden brown and set aside.",
+    "Melt the dark chocolate chips in a double boiler or in the microwave in 30 second increments, stirring between each interval.",
+    "Temper the melted chocolate by cooling it down to around 82 degrees Fahrenheit.",
+    "Spread a tablespoon of whipped cream cheese onto the center of each lotus leaf.",
+    "Arrange a few pieces of the fried bananas on top of the cream cheese.",
+    "Drizzle the tempered chocolate over the bananas.",
+    "Sprinkle granulated sugar, cinnamon powder, and salt over the chocolate.",
+    "Fold the lotus leaves over the filling to form a wrap.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-lovers",
+    "fodmap-friendly",
+    "fruit-based",
+    "polish-desserts",
+    "unique-ingredients",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "intense-chocolate-polish-banana-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-chocolate-polish-banana-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:33:48Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "bananas",
+    "descriptor": "Intense chocolate",
+    "dishForm": "Wrap"
+  }
+}
