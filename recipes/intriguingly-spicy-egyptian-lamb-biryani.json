@@ -1,0 +1,93 @@
+{
+  "title": "Intriguingly Spicy Egyptian Lamb Biryani",
+  "description": "A romantic Egyptian dish featuring biryani masala, bonito-shave, and halal-friendly ingredients, with a citrusy and chewy texture, this spicy lamb biryani is sure to intrigue your taste buds. It is a perfect blend of Egyptian and Indian flavors.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into 1 inch pieces"
+    },
+    {
+      "name": "biryani masala",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1 tablespoon",
+      "notes": "shaved"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the lamb pieces and cook until they are browned on all sides.",
+    "Add the biryani masala, bonito flakes, and lemon juice, and stir well.",
+    "Add the basmati rice and stir well to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the saucepan.",
+    "Simmer for 20 minutes, or until the rice is cooked and the liquid has been absorbed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful-rice",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pot",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intriguingly-spicy-egyptian-lamb-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intriguingly-spicy-egyptian-lamb-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:27:57Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "bonito-shave",
+    "primaryIngredient": "biryani masala",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Intriguingly spicy",
+    "dishForm": "Biryani"
+  }
+}

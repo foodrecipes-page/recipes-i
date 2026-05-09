@@ -1532,6 +1532,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-creamy-american-macaroni-casserole",
+    "title": "Indulgent Creamy American Macaroni Casserole",
+    "tags": [
+      "american-classic",
+      "comfort-food",
+      "one-pan",
+      "plant-based",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-creamy-thai-bramley-apples-fried-rice",
     "title": "Indulgent Creamy Thai Bramley Apples Fried Rice",
     "tags": [
@@ -10880,6 +10894,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intriguingly-spicy-egyptian-lamb-biryani",
+    "title": "Intriguingly Spicy Egyptian Lamb Biryani",
+    "tags": [
+      "flavorful-rice",
+      "lamb-recipes",
+      "middle-eastern",
+      "one-pot",
+      "spicy-food"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
