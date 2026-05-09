@@ -1,0 +1,103 @@
+{
+  "title": "Intense Spicy Portuguese Shrimp Noodles",
+  "description": "A spicy and festive Portuguese dish featuring vermicelli rice noodles and grilled shrimp, served on a bamboo tray.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vermicelli rice noodles",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "large shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Portuguese chili peppers",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the sliced chili peppers to the bowl and stir to combine.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Grill the shrimp for 2-3 minutes per side, or until pink and cooked through.",
+    "Cook the vermicelli rice noodles according to package instructions.",
+    "In a large serving bowl, combine the cooked noodles, grilled shrimp, and marinade.",
+    "Squeeze the lemon juice over the top and sprinkle with chopped cilantro.",
+    "Serve the intense spicy Portuguese shrimp noodles on a bamboo tray."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intense-spicy-portuguese-shrimp-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-spicy-portuguese-shrimp-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:01:54Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "shrimp",
+    "descriptor": "intense spicy",
+    "dishForm": "Noodles"
+  }
+}
