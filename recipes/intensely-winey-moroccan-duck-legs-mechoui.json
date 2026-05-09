@@ -1,0 +1,102 @@
+{
+  "title": "Intensely Winey Moroccan Duck Legs Mechoui",
+  "description": "A rich and flavorful Moroccan dish featuring tender duck legs, slow cooked in a mixture of red wine and spices, perfect for a lazy Sunday afternoon. The air fryer adds a crispy texture to the dish.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4",
+      "notes": "preferably with skin"
+    },
+    {
+      "name": "red wine",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the red wine, olive oil, garlic, ginger, cumin, coriander, cinnamon, salt, and black pepper.",
+    "Add the duck legs to the bowl and toss to coat with the marinade.",
+    "Let the duck legs marinate for at least 2 hours or overnight.",
+    "Remove the duck legs from the marinade and place them in the air fryer basket.",
+    "Cook the duck legs in the air fryer for 30 minutes or until they reach an internal temperature of 165 degrees Fahrenheit.",
+    "After 30 minutes, shake the basket to redistribute the duck legs.",
+    "Continue cooking the duck legs for an additional 10-15 minutes or until they are crispy on the outside and tender on the inside.",
+    "Let the duck legs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "duck",
+    "gluten-free",
+    "moroccan",
+    "slow-cooked",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "intensely-winey-moroccan-duck-legs-mechoui",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-winey-moroccan-duck-legs-mechoui",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:48:10Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "air-fry",
+    "primaryIngredient": "duck legs",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "duck legs",
+    "descriptor": "Intensely Winey",
+    "dishForm": "Mechoui"
+  }
+}
