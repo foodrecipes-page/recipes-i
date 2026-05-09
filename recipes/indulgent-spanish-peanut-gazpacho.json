@@ -1,0 +1,106 @@
+{
+  "title": "Indulgent Spanish Peanut Gazpacho",
+  "description": "A salty, pillowy, and indulgent Spanish dish featuring peanut cookies, leaf-wrap-steam, and diabetic-friendly ingredients, all blended into a gazpacho form.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanut cookies",
+      "amount": "12",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "cucumber",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Wrap the peanut cookies in a leaf and steam for 5 minutes.",
+    "Chop the cucumber, bell pepper, tomato, and red onion.",
+    "Mince the garlic and saute in olive oil until fragrant.",
+    "Combine the chopped vegetables, garlic, and peanut cookies in a blender.",
+    "Add the sherry vinegar, salt, and water to the blender and blend until smooth.",
+    "Taste and adjust the seasoning as needed.",
+    "Chill the gazpacho in the refrigerator for at least 30 minutes.",
+    "Serve the gazpacho cold, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cold-soup",
+    "diabetic-friendly",
+    "gazpacho-recipe",
+    "gluten-free",
+    "peanut-cookies",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "indulgent-spanish-peanut-gazpacho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-spanish-peanut-gazpacho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:36:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "peanut cookies",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "peanuts",
+    "descriptor": "Indulgent Salty",
+    "dishForm": "Gazpacho"
+  }
+}
