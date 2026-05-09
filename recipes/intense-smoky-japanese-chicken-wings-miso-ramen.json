@@ -1,0 +1,100 @@
+{
+  "title": "Intense Smoky Japanese Chicken Wings Miso Ramen",
+  "description": "A Whole30-friendly Japanese dish featuring smoky chicken wings and rich miso ramen, perfect for a festive meal. This umami-packed recipe is a twist on traditional ramen with a Kansai flair.",
+  "cuisine": "Japanese",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "organic, free-range"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bone broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, coconut aminos, and miso paste to create a marinade.",
+    "Add the chicken wings to the marinade and toss to coat, then let sit for 30 minutes.",
+    "Line a baking sheet with parchment paper and arrange the chicken wings in a single layer.",
+    "Bake the chicken wings for 30 minutes, or until crispy and golden brown.",
+    "In a large pot, combine bone broth, sesame oil, garlic, and ginger, and bring to a boil.",
+    "Reduce the heat to a simmer and let cook for 10 minutes, or until the broth has reduced slightly.",
+    "Add the cooked chicken wings to the pot and toss to coat with the broth.",
+    "Serve the chicken wings and broth over a bed of greens or cauliflower rice, garnished with green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "japanese-cuisine",
+    "ramen-recipe",
+    "smoky-flavor",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "intense-smoky-japanese-chicken-wings-miso-ramen",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-japanese-chicken-wings-miso-ramen",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T07:46:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "smoke-hot",
+    "primaryIngredient": "chicken wings",
+    "diet": "whole30",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken wings",
+    "descriptor": "Intense Smoky",
+    "dishForm": "Miso Ramen"
+  }
+}
