@@ -1,0 +1,102 @@
+{
+  "title": "Intensely Flavorful Korean Shrimp Bowl",
+  "description": "A fresh and juicy Korean dish featuring salted butter and boiled shrimp, served in a dolsot stone bowl, perfect for kids and pescatarians alike.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "salted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dolsot stone bowl",
+      "amount": "1",
+      "notes": "heated"
+    }
+  ],
+  "instructions": [
+    "Heat the dolsot stone bowl in the oven at 400 degrees Fahrenheit for 10 minutes.",
+    "In a large pot, boil 4 cups of water and add the shrimp, cooking for 2-3 minutes or until pink and fully cooked.",
+    "In a small bowl, whisk together the gochujang, soy sauce, brown sugar, and garlic.",
+    "Add the cooked shrimp to the bowl and toss with the gochujang sauce until the shrimp are fully coated.",
+    "Add the salted butter to the shrimp and sauce, stirring until the butter is fully melted and the sauce is smooth.",
+    "Add the cooked white rice to the dolsot stone bowl, followed by the shrimp and sauce mixture.",
+    "Sprinkle the chopped green onions and sesame seeds over the top of the shrimp and rice.",
+    "Serve immediately, being careful not to touch the hot stone bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "kid-friendly",
+    "korean-cuisine",
+    "one-pot",
+    "quick-meal",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "intensely-flavorful-korean-shrimp-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flavorful-korean-shrimp-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:23:25Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "salted butter",
+    "diet": "pescatarian",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "shrimp",
+    "descriptor": "intensely flavorful",
+    "dishForm": "Bowl"
+  }
+}
