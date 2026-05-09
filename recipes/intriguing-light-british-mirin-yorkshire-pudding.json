@@ -1,0 +1,89 @@
+{
+  "title": "Intriguing Light British Mirin Yorkshire Pudding",
+  "description": "A light and pungent British dish featuring mirin, this wood-fired-baked Yorkshire pudding is a unique and delicious treat. It is a raw-friendly and flavorful option for any meal.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, mirin, and salt.",
+    "In a separate bowl, whisk together the eggs, milk, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Pour the batter into a 12-cup Yorkshire pudding pan.",
+    "Place the pan in the wood-fired oven and bake for 20 minutes.",
+    "Reduce the oven temperature to 375 degrees Fahrenheit and continue baking for an additional 10 minutes.",
+    "Remove the pudding from the oven and let it cool for 5 minutes.",
+    "Serve the pudding hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "light-and-fluffy",
+    "raw-friendly",
+    "unique-twist",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "intriguing-light-british-mirin-yorkshire-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intriguing-light-british-mirin-yorkshire-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:28:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "light",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "mirin",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "mirin",
+    "descriptor": "Intriguing Light",
+    "dishForm": "Yorkshire Pudding"
+  }
+}
