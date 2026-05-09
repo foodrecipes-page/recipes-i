@@ -1,0 +1,97 @@
+{
+  "title": "Intricately Spiced Peruvian Potatoes Papa Rellena",
+  "description": "A mustardy and pillowy festive Peruvian dish featuring red chilli flakes, fry-grind-rice-khao-khua, and shojin-friendly ingredients, formed into papa rellena",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "khao khuat",
+      "amount": "1/2 cup",
+      "notes": "fried and ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Boil the chopped potatoes until they are tender, then mash and set aside.",
+    "In a pan, heat the olive oil and saute the chopped onion and minced garlic until softened.",
+    "Add the red chilli flakes, mustard, and ground khao khuat to the pan and stir to combine.",
+    "Mix the cooked rice into the pan and stir to combine with the spice mixture.",
+    "Add the mashed potatoes to the pan and stir to combine with the rice and spice mixture.",
+    "Using your hands, shape the mixture into papa rellena forms.",
+    "Place the papa rellena on a baking sheet and bake for 20 minutes, or until lightly browned.",
+    "Serve the papa rellena hot, garnished with additional red chilli flakes if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "peruvian",
+    "potato",
+    "spicy",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intricately-spiced-peruvian-potatoes-papa-rellena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-spiced-peruvian-potatoes-papa-rellena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:23:57Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Intricately Spiced",
+    "dishForm": "Papa Rellena"
+  }
+}
