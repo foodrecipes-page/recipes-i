@@ -1,0 +1,108 @@
+{
+  "title": "Intense Briny Vietnamese Fish Pho",
+  "description": "A light and flavorful one-pot Vietnamese dish featuring sashimi-cut fish, cashew nuts, and a briny broth, kosher-friendly and made with simple ingredients. This recipe is perfect for those looking for a delicious and easy-to-make meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish balls",
+      "amount": "1 pound",
+      "notes": "made from kosher-friendly fish"
+    },
+    {
+      "name": "cashew nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sashimi-cut fish",
+      "amount": "1 pound",
+      "notes": "such as tilapia or cod"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "noodles",
+      "amount": "1 pound",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the chicken broth over high heat until it reaches a boil.",
+    "Add the fish sauce, lime juice, grated ginger, and star anise to the pot and stir to combine.",
+    "Reduce the heat to medium-low and simmer the broth for 10 minutes.",
+    "Add the fish balls and sashimi-cut fish to the pot and cook for 2-3 minutes, or until the fish is cooked through.",
+    "Stir in the chopped cashew nuts and cook for an additional minute.",
+    "Add the rice noodles to the pot and cook for 2-3 minutes, or until they are tender.",
+    "Season the broth with salt to taste.",
+    "Ladle the pho into bowls and garnish with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "fish-based",
+    "light",
+    "noodle-soup",
+    "one-pot",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intense-briny-vietnamese-fish-pho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-briny-vietnamese-fish-pho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:57:21Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "cashew nuts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "fish",
+    "descriptor": "intense briny",
+    "dishForm": "Pho"
+  }
+}

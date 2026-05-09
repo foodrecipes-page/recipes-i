@@ -4814,6 +4814,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-briny-vietnamese-fish-pho",
+    "title": "Intense Briny Vietnamese Fish Pho",
+    "tags": [
+      "briny",
+      "fish-based",
+      "light",
+      "noodle-soup",
+      "one-pot",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "intense-canadian-lentil-stew",
     "title": "Intense Canadian Lentil Stew",
     "tags": [
