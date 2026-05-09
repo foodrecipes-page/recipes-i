@@ -1,0 +1,98 @@
+{
+  "title": "Intriguing Malt Ethiopian Teff Kik Alicha",
+  "description": "A malty and light Ethiopian dish featuring teff and sansho, perfect for a midnight craving. This ayurvedic-sattvic-friendly recipe is made with double-rise-bread and served in a terracotta dish.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "teff flour",
+      "amount": "2 cups",
+      "notes": "preferably brown teff"
+    },
+    {
+      "name": "sansho pepper",
+      "amount": "1 teaspoon",
+      "notes": "or substitute with black pepper"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine teff flour, sansho pepper, and salt.",
+    "Gradually add water to the bowl and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased terracotta dish and let it rise for 1 hour.",
+    "Bake the teff bread in the preheated oven for 30 minutes.",
+    "While the bread is baking, heat the vegetable oil in a pan over medium heat.",
+    "Add the chopped onion and minced garlic to the pan and saute until they are softened.",
+    "Once the bread is ready, let it cool for a few minutes before slicing it into small pieces.",
+    "In a separate pan, combine the malt syrup and 1 tablespoon of water, and bring to a boil over low heat.",
+    "Add the sliced bread to the pan and toss it with the malt syrup mixture until the bread is well coated."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-diet",
+    "ethiopian-cuisine",
+    "midnight-cravings",
+    "teff-recipes",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "intriguing-malty-ethiopian-teff-kik-alicha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intriguing-malty-ethiopian-teff-kik-alicha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:30:21Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "sansho",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "teff",
+    "descriptor": "Intriguing malty",
+    "dishForm": "Kik Alicha"
+  }
+}
