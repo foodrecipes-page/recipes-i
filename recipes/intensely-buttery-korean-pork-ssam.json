@@ -1,0 +1,99 @@
+{
+  "title": "Intensely Buttery Korean Pork Ssam",
+  "description": "A rich and savory Korean dish featuring tender pork, buttery taleggio cheese, and a hint of shio-koji cure, all wrapped in a crispy whole30-friendly ssam form, perfect for midnight cravings.",
+  "cuisine": "Korean",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "taleggio cheese",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ssam leaves",
+      "amount": "12-16 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together the shio-koji, salt, and black pepper.",
+    "Rub the shio-koji mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Heat the coconut oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the pork for 2 hours, or until tender and easily shredded.",
+    "While the pork is cooking, prepare the ssam leaves by rinsing them in cold water and patting them dry with paper towels.",
+    "Once the pork is done, remove it from the oven and let it rest for 10 minutes before shredding it into bite-sized pieces.",
+    "To assemble the ssam, place a few pieces of the shredded pork onto a ssam leaf, followed by a slice of taleggio cheese, a sprinkle of green onions, and a few sesame seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "cheese-lovers",
+    "korean-food",
+    "pork-recipes",
+    "snack-ideas",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "intensely-buttery-korean-pork-ssam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-buttery-korean-pork-ssam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:48:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "taleggio",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "intensely buttery",
+    "dishForm": "Ssam"
+  }
+}
