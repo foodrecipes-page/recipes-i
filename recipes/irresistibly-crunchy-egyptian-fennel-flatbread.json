@@ -1,0 +1,95 @@
+{
+  "title": "Irresistibly Crunchy Egyptian Fennel Flatbread",
+  "description": "A yeasty, crunchy Egyptian flatbread featuring caramelized fennel, perfect for midnight cravings, and is dairy-free friendly, served in a scallop shell vessel.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fennel bulbs",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, and sugar.",
+    "Gradually add olive oil and water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat the oven to 400 degrees.",
+    "Roll out the dough into a thin sheet, about 1/4 inch thick.",
+    "Caramelize the sliced fennel in a pan with a little olive oil over medium heat.",
+    "Spread the caramelized fennel over the dough, leaving a 1 inch border around the edges.",
+    "Fold the edges of the dough over the fennel to form a crust.",
+    "Brush the crust with lemon juice and bake for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized-vegetables",
+    "crunchy-snacks",
+    "dairy-free",
+    "midnight-cravings",
+    "vegetarian",
+    "yeasty-breads"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "irresistibly-crunchy-egyptian-fennel-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/irresistibly-crunchy-egyptian-fennel-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:14:28Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "caramelize",
+    "primaryIngredient": "fennel",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fennel",
+    "descriptor": "Irresistibly crunchy",
+    "dishForm": "Flatbread"
+  }
+}
