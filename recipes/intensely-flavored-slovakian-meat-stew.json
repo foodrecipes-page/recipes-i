@@ -1,0 +1,99 @@
+{
+  "title": "Intensely Flavored Slovakian Meat Stew",
+  "description": "This Slovakian meat stew is a hearty, one-pot dish featuring rose water and deep-fry-tod, with a focus on grassy and aerated flavors, and is FODMAP-friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "FODMAP-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "deep-fry-tod",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the beef to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion to the pot and cook until it starts to soften, about 3 minutes.",
+    "Add the chopped carrot and potato to the pot and cook for an additional 5 minutes.",
+    "Add the rose water, deep-fry-tod, salt, and black pepper to the pot and stir to combine.",
+    "Pour in enough water to cover the ingredients and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew, covered, for 1 1/2 hours, or until the meat is tender.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "hearty-stew",
+    "one-pot",
+    "slovakian-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intensely-flavored-slovakian-meat-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flavored-slovakian-meat-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:15:21Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "rose water",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "meat",
+    "descriptor": "intensely flavored",
+    "dishForm": "Stew"
+  }
+}
