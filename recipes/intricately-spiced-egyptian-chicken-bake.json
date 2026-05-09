@@ -1,0 +1,107 @@
+{
+  "title": "Intricately Spiced Egyptian Chicken Bake",
+  "description": "This herbal and springy Egyptian dish features coconut cream and is baked to perfection in a molcajete, making it a crowd-pleaser, and is Whole30-friendly.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut cream, olive oil, garlic, ginger, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the chicken breast to the bowl and coat with the marinade.",
+    "Place the chicken in a molcajete and pour the remaining marinade over the top.",
+    "Bake the chicken in the preheated oven for 35 minutes.",
+    "Remove the chicken from the oven and sprinkle with chopped parsley.",
+    "Return the chicken to the oven and bake for an additional 10 minutes.",
+    "Remove the chicken from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 8,
+    "fat": 28
+  },
+  "slug": "intricately-spiced-egyptian-chicken-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-spiced-egyptian-chicken-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:26:07Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "coconut cream",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "Intricately spiced",
+    "dishForm": "Bake"
+  }
+}
