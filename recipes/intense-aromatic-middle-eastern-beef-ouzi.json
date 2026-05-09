@@ -1,0 +1,103 @@
+{
+  "title": "Intense Aromatic Middle Eastern Beef Ouzi",
+  "description": "A rich and flavorful Middle Eastern dish featuring beef stock cubes and a mother-sauce-base, macrobiotic-friendly and quick to fix, served in the form of ouzi.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock cubes",
+      "amount": "4 cubes",
+      "notes": "macrobiotic-friendly"
+    },
+    {
+      "name": "mother sauce base",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground beef and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the beef stock cubes, mother sauce base, salt, black pepper, and sumac to the pan, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "While the mixture is simmering, toast the pita bread in the oven for 5 minutes.",
+    "To assemble the ouzi, place a piece of toasted pita bread on a plate, then spoon the beef mixture over the top.",
+    "Serve the ouzi hot, garnished with additional sumac if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "macrobiotic",
+    "middle-eastern",
+    "one-pot",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "intense-aromatic-middle-eastern-beef-ouzi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-aromatic-middle-eastern-beef-ouzi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:45:49Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "beef stock cubes",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "beef",
+    "descriptor": "intense aromatic",
+    "dishForm": "Ouzi"
+  }
+}
