@@ -1,0 +1,112 @@
+{
+  "title": "Ibrik-Style Tunisian Lamb Bake",
+  "description": "A fermented, springy, and light Tunisian dish featuring lamb loin chops, cooked to perfection in a wood-fired oven.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb loin chops",
+      "amount": "4",
+      "notes": "preferably from a local farm"
+    },
+    {
+      "name": "Chermoula spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Caper berries",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olives",
+      "amount": "1/4 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 bulb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4 slices",
+      "notes": "preferably whole grain"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400°F (200°C).",
+    "In a small bowl, mix together the chermoula spice blend, garlic, ginger, caper berries, olives, fennel, and lemon juice.",
+    "Rub the lamb loin chops with the spice mixture, making sure to coat them evenly.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the lamb loin chops for 2-3 minutes per side, or until browned.",
+    "Transfer the skillet to the preheated wood-fired oven and bake for 12-15 minutes, or until the lamb reaches your desired level of doneness.",
+    "Meanwhile, toast the flatbread slices in the oven for 2-3 minutes, or until crispy.",
+    "Slice the lamb loin chops into thin medallions and serve with the toasted flatbread and a side of fermented vegetables.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-date-night",
+    "healthy-choice",
+    "high-protein",
+    "lamb-recipe",
+    "low-sodium",
+    "one-pan",
+    "tunisian-cuisine",
+    "wood-fired-oven"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 44,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "ibrik-style-tunisian-lamb-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ibrik-style-tunisian-lamb-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T16:49:11Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Ibrik-Style",
+    "dishForm": "Bake"
+  }
+}
