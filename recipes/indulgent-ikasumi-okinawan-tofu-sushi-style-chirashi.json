@@ -1,0 +1,114 @@
+{
+  "title": "Indulgent Ikasumi Okinawan Tofu Sushi-Style Chirashi",
+  "description": "A savory, silky Okinawan-inspired dish featuring tofu, ikasumi seaweed, and pickled red onions, all served in a delicate cedar plank vessel.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cedars planks (4)",
+      "amount": "1/4 inch thick, 6-8 inches long, 2-3 inches wide",
+      "notes": ""
+    },
+    {
+      "name": "Extra-firm tofu (1 block)",
+      "amount": "14 oz",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "Ikasumi seaweed (1 package)",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Pickle red onions (1 jar)",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Red onion (1)",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ginger (2 inches)",
+      "amount": "",
+      "notes": "grated"
+    },
+    {
+      "name": "Sesame oil (2 tbsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce (2 tbsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds (1 tsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions (1/4 cup)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt (1/4 tsp)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the cedar planks in water for at least 30 minutes.",
+    "Preheat a non-stick skillet over medium-high heat and cook the tofu until golden brown on all sides.",
+    "In a small bowl, whisk together soy sauce, sesame oil, grated ginger, and sesame seeds.",
+    "Add the pickled red onions, sliced red onions, and chopped scallions to the bowl and stir to combine.",
+    "Place a cedar plank on a flat surface and spoon a layer of the tofu mixture onto the plank.",
+    "Arrange a few pieces of ikasumi seaweed on top of the tofu and drizzle with the soy sauce mixture.",
+    "Garnish with chopped scallions and a sprinkle of sesame seeds.",
+    "Repeat the layers two more times, finishing with a layer of tofu on top.",
+    "Serve immediately and enjoy!",
+    "Note: The chirashi can be assembled and refrigerated for up to 24 hours before serving.",
+    "When ready to serve, let the chirashi come to room temperature and garnish with additional scallions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "sushi-style",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "indulgent-ikasumi-okinawan-tofu-sushi-style-chirashi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-ikasumi-okinawan-tofu-sushi-style-chirashi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T11:10:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "pickle",
+    "primaryIngredient": "red onions",
+    "diet": "plant-based",
+    "region": "okinawa",
+    "cuisineAdjective": "Okinawan",
+    "mainIngredient": "Tofu",
+    "descriptor": "Indulgent Ikasumi",
+    "dishForm": "Sushi-Style Chirashi"
+  }
+}
