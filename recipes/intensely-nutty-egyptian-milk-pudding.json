@@ -1,0 +1,86 @@
+{
+  "title": "Intensely Nutty Egyptian Milk Pudding",
+  "description": "A comforting Egyptian dish featuring condensed milk and a nutty flavor, perfect for a cold evening.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "condensed milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a hot pot vessel, melt the butter over medium heat.",
+    "Add the chopped pistachios and sliced almonds and cook, stirring frequently, until they are lightly toasted.",
+    "Deglaze the vessel with a little water, scraping up any browned bits from the bottom.",
+    "Add the condensed milk, rose water, vanilla extract, and salt to the vessel.",
+    "Stir constantly over medium heat until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer, stirring occasionally, until the pudding has thickened.",
+    "Remove the vessel from the heat and let it cool slightly.",
+    "Serve the pudding warm, garnished with additional chopped nuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dessert",
+    "hot-pot",
+    "middle-eastern",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "intensely-nutty-egyptian-milk-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-nutty-egyptian-milk-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:33:17Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "deglaze",
+    "primaryIngredient": "condensed milk",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "milk",
+    "descriptor": "intensely nutty",
+    "dishForm": "Pudding"
+  }
+}
