@@ -1,0 +1,106 @@
+{
+  "title": "Intricate Light Turkish Eggplant Imam Bayildi",
+  "description": "A rich and light Turkish dish featuring nuts and eggplant, made in a cast-iron skillet and suitable for a satvik-friendly diet.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "brine-dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "concentrated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Heat the olive oil in a cast-iron skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the chopped almonds and cook for 2 minutes, stirring frequently.",
+    "Add the brine-dried eggplant, salt, black pepper, and smoked paprika, and stir to combine.",
+    "Add the concentrated tomato paste and stir to combine, cooking for an additional 2 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 25 minutes, or until the eggplant is tender and lightly browned.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving.",
+    "Serve the Intricate Light Turkish Eggplant Imam Bayildi hot, garnished with additional chopped almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful",
+    "healthy",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intricate-light-turkish-eggplant-imam-bayildi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricate-light-turkish-eggplant-imam-bayildi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:31:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "light",
+    "technique": "brine-dry",
+    "primaryIngredient": "nuts",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "eggplant",
+    "descriptor": "Intricate Light",
+    "dishForm": "Imam Bayildi"
+  }
+}
