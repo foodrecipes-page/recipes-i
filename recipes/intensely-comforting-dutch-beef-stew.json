@@ -1,0 +1,104 @@
+{
+  "title": "Intensely Comforting Dutch Beef Stew",
+  "description": "A hearty and comforting Dutch dish featuring tender beef, red onions, and ferment-kimchi, all wrapped up in a banana leaf.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "red onions",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine beef, red onions, ferment-kimchi, salt, and black pepper, and mix well.",
+    "Lay a banana leaf flat on a work surface and brush with melted butter.",
+    "Place about 1/4 of the beef mixture in the center of the banana leaf.",
+    "Fold the banana leaf over the filling to form a square package, and repeat with the remaining ingredients.",
+    "Place the packages in a large Dutch oven or heavy pot with a tight-fitting lid.",
+    "Pour in the beef broth and tomato paste, and bring to a boil over high heat.",
+    "Cover the pot, transfer to the preheated oven, and cook for 2 1/2 hours.",
+    "Remove the pot from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "gluten-free",
+    "hearty-stew",
+    "one-pot",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 60
+  },
+  "slug": "intensely-comforting-dutch-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-comforting-dutch-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:48:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "red onions",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "intensely comforting",
+    "dishForm": "Stew"
+  }
+}
