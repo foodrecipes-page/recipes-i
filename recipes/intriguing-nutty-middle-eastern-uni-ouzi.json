@@ -1,0 +1,105 @@
+{
+  "title": "Intriguing Nutty Middle Eastern Uni Ouzi",
+  "description": "A nutty and springy Middle Eastern dish featuring uni and nuka-pickle, perfect for adventurous eaters, this low-carb-friendly ouzi is a unique twist on traditional flavors.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uni",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the sliced almonds and chopped pistachios.",
+    "In a small bowl, whisk together the olive oil, lemon juice, garlic, sumac, salt, and black pepper.",
+    "Add the uni to the bowl with the nut mixture and gently fold until combined.",
+    "Add the nuka-pickle to the bowl with the uni and nut mixture, and gently fold until combined.",
+    "Pour the dressing over the uni and nut mixture, and gently fold until combined.",
+    "Spoon the mixture into a baking dish and bake for 15 minutes.",
+    "Remove the dish from the oven and let it cool for a few minutes.",
+    "Serve the ouzi warm, garnished with additional sumac and pistachios if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "gluten-free",
+    "low-carb",
+    "middle-eastern",
+    "nutty",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "intriguing-nutty-middle-eastern-uni-ouzi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intriguing-nutty-middle-eastern-uni-ouzi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:49:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "uni",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "uni",
+    "descriptor": "Intriguing Nutty",
+    "dishForm": "Ouzi"
+  }
+}
