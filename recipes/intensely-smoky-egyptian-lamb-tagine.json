@@ -1,0 +1,94 @@
+{
+  "title": "Intensely Smoky Egyptian Lamb Tagine",
+  "description": "A grassy and tender one-pot Egyptian dish featuring marjoram and smoke, made diabetic-friendly with careful ingredient selection, cooked on a cedar plank for added flavor.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "marjoram",
+      "amount": "2 tablespoons",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine lamb, marjoram, smoked paprika, garlic, salt, and black pepper, mixing well to coat the lamb evenly.",
+    "Heat the olive oil in a large oven-safe pot over medium-high heat, then add the lamb mixture and cook until browned on all sides.",
+    "Add 1 cup of water to the pot, bringing the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Place the cedar plank in the pot, then cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the lamb for 2.5 hours, or until tender and falling apart.",
+    "Remove the pot from the oven and let it cool slightly, then serve the lamb hot, garnished with additional marjoram if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "lamb-based",
+    "middle-eastern",
+    "one-pot",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "intensely-smoky-egyptian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-egyptian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:59:15Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "smoke",
+    "primaryIngredient": "marjoram",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "intensely smoky",
+    "dishForm": "Tagine"
+  }
+}
