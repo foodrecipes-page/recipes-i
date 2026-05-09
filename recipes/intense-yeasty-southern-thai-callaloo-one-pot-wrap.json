@@ -1,0 +1,76 @@
+{
+  "title": "Intense Yeasty Southern Thai Callaloo One-Pot Wrap",
+  "description": "A keto-friendly Southern Thai dish featuring callaloo, cheesy yeasty goodness, and a convenient one-pot cooking method, all wrapped up in a crispy ssam-wrap.",
+  "cuisine": "Southern Thai",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thai Basil",
+      "amount": "1 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Ssam-Style Ground Pork",
+      "amount": "1 cup cooked",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven or pot, heat the coconut oil over medium-high heat.",
+    "S\u0000eat the Thai red curry paste for 1-2 minutes, until fragrant.",
+    "Add the chopped bok choy and cook until wilted.",
+    "Add the callaloo and cook until slightly wilted.",
+    "Add the rice vinegar, fish sauce, palm sugar, and monk fruit sweetener. Stir to combine.",
+    "Add the cottage cheese and stir until melted and creamy.",
+    "Add the cooked ground pork and chopped Thai basil.",
+    "Season with salt to taste.",
+    "Reduce heat to low and simmer for 10-15 minutes, allowing the flavors to meld.",
+    "Meanwhile, preheat your oven to 400\u000ef (200\u000ec).",
+    "Warm the ssam-wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the callaloo mixture onto the warmed wraps, followed by a sprinkle of shredded cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "callaloo",
+    "gluten-free",
+    "keto",
+    "one-pan",
+    "southern-thailand",
+    "ssam-wrap",
+    "weeknight",
+    "yeast-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 16,
+    "fat": 38
+  },
+  "slug": "intense-yeasty-southern-thai-callaloo-one-pot-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-yeasty-southern-thai-callaloo-one-pot-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:15:43Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "callaloo",
+    "diet": "keto",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern Thai",
+    "mainIngredient": "callaloo",
+    "descriptor": "Intense Yeasty",
+    "dishForm": "One-pot Wrap"
+  }
+}

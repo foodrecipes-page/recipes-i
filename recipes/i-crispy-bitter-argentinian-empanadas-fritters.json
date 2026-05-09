@@ -1,0 +1,103 @@
+{
+  "title": "icrispy Bitter Argentinian Empanadas Fritters",
+  "description": "Lazy-sunday argentinian dish featuring lime and mantecare-emulsify for a crispy, dairy-free-friendly treat. Great for a snack or side dish.",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "use a high-protein flour for better empanada texture"
+    },
+    {
+      "name": "cold unsalted vegetable shortening",
+      "amount": "1/2 cup",
+      "notes": "chilled in the fridge for at least 1 hour before use"
+    },
+    {
+      "name": "grated lime rind",
+      "amount": "2 tablespoons",
+      "notes": "use a zester to get the right amount of lime zest"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1/4 cup",
+      "notes": "mix with water to create the acidic environment for emulsification"
+    },
+    {
+      "name": "aquafaba",
+      "amount": "1 cup",
+      "notes": "from a can of chickpeas, or make your own by cooking dried chickpeas"
+    },
+    {
+      "name": "vegan egg replacement",
+      "amount": "1 tablespoon",
+      "notes": "mix with aquafaba for extra binding power"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use kosher salt or sea salt for a flaky texture"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground for the best flavor"
+    },
+    {
+      "name": "pumpkin pie spice",
+      "amount": "1/4 teaspoon",
+      "notes": "mix with other spices for an extra kick"
+    },
+    {
+      "name": "yacón syrup",
+      "amount": "1 tablespoon",
+      "notes": "optional, use for extra sweetness"
+    }
+  ],
+  "instructions": [
+    "Combine the flour and shortening in a large bowl and mix until the dough comes together.",
+    "Knead the dough for 10 minutes to develop the gluten.",
+    "Let the dough rest for 30 minutes to allow the gluten to relax.",
+    "Heat 1/2 inch of vegetable oil in a large skillet and fry the empanadas for 2-3 minutes on each side.",
+    "Drain the empanadas on a paper towel and let them cool for 5 minutes before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "easy-snack",
+    "fritters",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "i-crispy-bitter-argentinian-empanadas-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/i-crispy-bitter-argentinian-empanadas-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:16:37Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "lime",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Empanadas",
+    "descriptor": "iCrispy Bitter",
+    "dishForm": "Fritters"
+  }
+}

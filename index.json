@@ -1,5 +1,20 @@
 [
   {
+    "slug": "i-crispy-bitter-argentinian-empanadas-fritters",
+    "title": "icrispy Bitter Argentinian Empanadas Fritters",
+    "tags": [
+      "argentinian",
+      "easy-snack",
+      "fritters",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "i-crispy-i-festive-episses-lacquerware-bowl",
     "title": "iCrispy iFestive Episses Lacquerware-Bowl",
     "tags": [
@@ -6950,6 +6965,23 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-yeasty-southern-thai-callaloo-one-pot-wrap",
+    "title": "Intense Yeasty Southern Thai Callaloo One-Pot Wrap",
+    "tags": [
+      "callaloo",
+      "gluten-free",
+      "keto",
+      "one-pan",
+      "southern-thailand",
+      "ssam-wrap",
+      "weeknight",
+      "yeast-free"
+    ],
+    "cuisine": "Southern Thai",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
