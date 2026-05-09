@@ -1,0 +1,102 @@
+{
+  "title": "Intriguingly Smoky Moroccan Doenjang Couscous Royal",
+  "description": "A funky and crisp Moroccan dish featuring doenjang, perfect for a sick day, made with low-glycemic-friendly ingredients and served in a fondue pot. This dish combines the flavors of Morocco with the spiciness of doenjang.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "low-glycemic"
+    },
+    {
+      "name": "doenjang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a small bowl, whisk together doenjang, smoked paprika, garlic, and ginger.",
+    "Brush the chicken breast with olive oil and season with salt and black pepper.",
+    "Grill the chicken breast for 5-6 minutes per side, or until cooked through.",
+    "In a large pot, bring the chicken broth to a boil.",
+    "Add the couscous to the pot, cover, and turn off the heat.",
+    "Let the couscous steam for 5 minutes, then fluff with a fork.",
+    "Slice the grilled chicken breast into thin strips.",
+    "Add the doenjang mixture to the pot with the couscous and stir to combine.",
+    "Add the sliced chicken to the pot and stir to combine."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fondue-pot",
+    "grilled-chicken",
+    "low-glycemic",
+    "moroccan-inspired",
+    "one-pot",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intriguingly-smoky-moroccan-doenjang-couscous-royal",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intriguingly-smoky-moroccan-doenjang-couscous-royal",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:05:08Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "grill",
+    "primaryIngredient": "doenjang",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "doenjang",
+    "descriptor": "Intriguingly Smoky",
+    "dishForm": "Couscous Royal"
+  }
+}
