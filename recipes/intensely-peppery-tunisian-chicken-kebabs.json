@@ -1,0 +1,98 @@
+{
+  "title": "Intensely Peppery Tunisian Chicken Kebabs",
+  "description": "A crowd-pleasing Tunisian dish featuring madras paste, these kebabs are peppery, crisp, and high in protein, perfect for a weeknight dinner. They are made with chicken breast, madras paste, and a blend of spices, then grilled to perfection.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "madras paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Thread the chicken pieces onto skewers, leaving a little space between each piece.",
+    "In a bowl, whisk together the madras paste, olive oil, lemon juice, garlic, cumin, coriander, black pepper, and salt.",
+    "Brush the mixture onto both sides of the chicken pieces.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
+    "Let the kebabs rest for a few minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro if desired.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "intensely-peppery-tunisian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-peppery-tunisian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:51:57Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "grill",
+    "primaryIngredient": "madras paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "intensely peppery",
+    "dishForm": "Kebabs"
+  }
+}
