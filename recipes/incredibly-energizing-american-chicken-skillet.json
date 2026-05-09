@@ -1,0 +1,94 @@
+{
+  "title": "Incredibly Energizing American Chicken Skillet",
+  "description": "This resinous and silky American dish features turmeric powder and is perfect for a quick and energizing meal, it is also onion and garlic free.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the chicken to the skillet and cook until browned on all sides and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced bell peppers and zucchini to the skillet and cook until tender.",
+    "Add the turmeric powder, paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine with the vegetables and spices.",
+    "Reduce heat to low and simmer for a few minutes to allow the flavors to meld.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "quick-meal",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "incredibly-energizing-american-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-energizing-american-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:42:55Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "saute",
+    "primaryIngredient": "turmeric powder",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Incredibly Energizing",
+    "dishForm": "Skillet"
+  }
+}
