@@ -1,0 +1,101 @@
+{
+  "title": "Intense Molten Russian Passion Fruit Skewers",
+  "description": "A winey and molten Russian dish featuring passion fruit pulp, robata-grilled to perfection, suitable for ovo-vegetarian diets",
+  "cuisine": "Russian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "passion fruit pulp",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kiwi slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tofu cubes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "12 pieces",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat",
+    "In a bowl, mix together passion fruit pulp, red wine, sugar, and lemon juice",
+    "Thread pineapple chunks, kiwi slices, and tofu cubes onto the soaked wooden skewers",
+    "Brush the skewers with olive oil and season with salt",
+    "Grill the skewers for 8-10 minutes, turning occasionally",
+    "Brush the skewers with the passion fruit mixture during the last 2 minutes of grilling",
+    "Garnish with chopped fresh mint leaves and serve immediately",
+    "Let the skewers rest for a few minutes before serving to allow the flavors to meld together"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fruit-based",
+    "grilled",
+    "russian-inspired",
+    "summer-dessert",
+    "sweet-and-savory",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "intense-molten-russian-passion-fruit-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-molten-russian-passion-fruit-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:05:05Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "robata-grill",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "passion fruit",
+    "descriptor": "intense molten",
+    "dishForm": "Skewers"
+  }
+}
