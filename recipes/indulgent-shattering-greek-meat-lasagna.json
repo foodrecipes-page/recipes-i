@@ -1,0 +1,106 @@
+{
+  "title": "Indulgent Shattering Greek Meat Lasagna",
+  "description": "A rich, decadent, and romantic Greek dish featuring tender meat, crispy phyllo, and a hint of almond extract.",
+  "cuisine": "Greek",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Greek olives",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "8 ounces, crumbled"
+    },
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Almond extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw phyllo dough according to package instructions.",
+    "In a large skillet, cook the ground lamb over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the sliced olives, diced cucumber, and diced red onion to the skillet and cook until the vegetables are tender.",
+    "Stir in the crumbled feta cheese and cook until melted.",
+    "In a separate bowl, mix together the melted butter and almond extract.",
+    "To assemble the lasagna, place a layer of phyllo dough on the bottom of a 9x13-inch baking dish.",
+    "Spread half of the meat mixture over the phyllo layer, followed by half of the butter mixture.",
+    "Repeat the layers, starting with the phyllo dough, then the meat mixture, and finally the butter mixture.",
+    "Top the lasagna with the chopped parsley and bake for 35-40 minutes, or until the phyllo is golden brown and the filling is hot and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "greek-cuisine",
+    "high-fat",
+    "indulgent",
+    "one-pan",
+    "romantic-dinner",
+    "shattering-crust",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 54,
+    "carbs": 24,
+    "fat": 68
+  },
+  "slug": "indulgent-shattering-greek-meat-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-shattering-greek-meat-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T13:33:28Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "en-croute",
+    "primaryIngredient": "almond extract",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "meat",
+    "descriptor": "indulgent shattering",
+    "dishForm": "Lasagna"
+  }
+}
