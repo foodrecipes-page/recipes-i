@@ -1,0 +1,136 @@
+{
+  "title": "intensely flavored greek tomato fritters",
+  "description": "crunchy, cheesy, and full of sun-dried tomato flavor, these fritters are a perfect show-off greek dish.",
+  "cuisine": "greek",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup, pitted",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "katsuramuki-cut zucchini",
+      "amount": "1 medium, grated",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400°f (200°c).",
+    "in a large bowl, combine the sun-dried tomatoes, ricotta cheese, feta cheese, eggs, flour, paprika, salt, and black pepper.",
+    "stir in the olive oil, kalamata olives, parsley, parmesan cheese, zucchini, garlic, and red pepper flakes.",
+    "cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "when ready to cook, use a 1/4 cup measuring cup to scoop the mixture into balls and flatten slightly into patties.",
+    "place the patties on a slate tile or baking sheet lined with parchment paper.",
+    "drizzle with a little extra olive oil and bake for 20-25 minutes or until golden brown and crispy.",
+    "serve warm and enjoy!",
+    "note: for an extra crispy exterior, you can broil the fritters for an additional 1-2 minutes or until golden brown."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "greek",
+    "high-fat",
+    "keto",
+    "mushroom-free",
+    "nut-free",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 504,
+    "protein": 24,
+    "carbs": 16,
+    "fat": 42
+  },
+  "slug": "intensely-flavored-greek-tomato-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flavored-greek-tomato-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:18Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "tomato",
+    "descriptor": "intensely flavored",
+    "dishForm": "Fritters"
+  }
+}

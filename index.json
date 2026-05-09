@@ -2256,6 +2256,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-intense-moroccan-natto-chebakia",
+    "title": "Indulgent Intense Moroccan Natto Chebakia",
+    "tags": [
+      "cheese-pull",
+      "dairy-free",
+      "dessert",
+      "gluten-free",
+      "moroccan",
+      "vegan"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-iquicha-style-mexican-pasta-huaraches",
     "title": "Indulgent Iquicha-Style Mexican Pasta Huaraches",
     "tags": [
@@ -9077,6 +9092,23 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-flavored-greek-tomato-fritters",
+    "title": "intensely flavored greek tomato fritters",
+    "tags": [
+      "greek",
+      "high-fat",
+      "keto",
+      "mushroom-free",
+      "nut-free",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "greek",
+    "totalTimeMin": 70,
     "shard": "i"
   },
   {
