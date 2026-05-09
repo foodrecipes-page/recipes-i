@@ -6531,6 +6531,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-saudi-arabian-lamb-tagine",
+    "title": "Intense Saudi Arabian Lamb Tagine",
+    "tags": [
+      "date-night",
+      "high-protein",
+      "lamb-based",
+      "middle-eastern",
+      "one-pot"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 150,
+    "shard": "i"
+  },
+  {
     "slug": "intense-saudi-arabian-lettuce-salad",
     "title": "Intense Saudi Arabian Lettuce Salad",
     "tags": [
@@ -10502,6 +10516,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 190,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-turkish-lentil-pilaf",
+    "title": "Intensely Savory Turkish Lentil Pilaf",
+    "tags": [
+      "coconut-cream-recipes",
+      "date-night",
+      "lentil-recipes",
+      "mediterranean-diet",
+      "one-pot",
+      "turkish-cuisine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {

@@ -1,0 +1,103 @@
+{
+  "title": "Intense Saudi Arabian Lamb Tagine",
+  "description": "A rich and creamy Saudi Arabian dish featuring lamb, plain chocolate, and bonito flakes, perfect for a date night.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch cubes"
+    },
+    {
+      "name": "plain chocolate",
+      "amount": "2 ounces",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the lamb cubes and cook until browned on all sides.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent.",
+    "Add the cumin, cayenne pepper, and bonito flakes to the pot and stir to combine.",
+    "Add the dates, chocolate, and yogurt to the pot and stir to combine.",
+    "Bring the mixture to a simmer and cook until the lamb is tender.",
+    "Season the tagine with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "lamb-based",
+    "middle-eastern",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "intense-saudi-arabian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-saudi-arabian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:30:25Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "bonito-shave",
+    "primaryIngredient": "plain chocolate",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "intense creamy",
+    "dishForm": "Tagine"
+  }
+}
