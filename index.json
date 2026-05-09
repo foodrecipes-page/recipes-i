@@ -1418,6 +1418,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-canadian-chicken-tagine",
+    "title": "Indulgent Canadian Chicken Tagine",
+    "tags": [
+      "canadian-cuisine",
+      "clay-cooking",
+      "low-fat",
+      "one-pot",
+      "spicy",
+      "yeasty"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 70,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-canadian-one-pot-dish-stone-bowl",
     "title": "Indulgent Canadian Stone-Bowl",
     "tags": [
