@@ -1,0 +1,99 @@
+{
+  "title": "Intense Smoky Vietnamese Shrimp Goi Cuon",
+  "description": "A lazy Sunday Vietnamese dish featuring smoky shrimp and fresh fines herbes, served in a goi cuon form and cooked in a Dutch oven with binchotan charcoal for a low glycemic friendly meal. This dish is perfect for a relaxing weekend lunch.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    },
+    {
+      "name": "fines herbes",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole grain"
+    },
+    {
+      "name": "rice paper",
+      "amount": "12 sheets",
+      "notes": "for goi cuon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the Dutch oven with binchotan charcoal to 400 degrees Fahrenheit.",
+    "In a bowl, mix together shrimp, mustard, salt, and black pepper.",
+    "Add the chopped fines herbes to the bowl and mix well.",
+    "Brush the rice paper sheets with vegetable oil.",
+    "Place a few shrimp on each rice paper sheet and roll up to form goi cuon.",
+    "Smoke the goi cuon in the Dutch oven for 10 minutes.",
+    "Serve the smoky goi cuon immediately.",
+    "Garnish with additional fines herbes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-oven",
+    "gluten-free",
+    "low-glycemic",
+    "seafood",
+    "smoky-flavors",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "intense-smoky-vietnamese-shrimp-goi-cuon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-vietnamese-shrimp-goi-cuon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:41:20Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "fines-herbes",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "shrimp",
+    "descriptor": "intense smoky",
+    "dishForm": "Goi Cuon"
+  }
+}
