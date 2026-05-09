@@ -1,0 +1,83 @@
+{
+  "title": "Intensely Nutty Kenyan Cocoa Toast",
+  "description": "A midnight-craving Kenyan dish featuring cocoa powder and toast, with a nutty and snappy flavor profile, made with macrobiotic-friendly ingredients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped hazelnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a small bowl, mix together the cocoa powder and almond butter until well combined.",
+    "Toast the bread slices until lightly browned.",
+    "Spread the cocoa-almond butter mixture evenly onto each toast slice.",
+    "Drizzle the honey over the cocoa mixture.",
+    "Sprinkle the chopped hazelnuts and sea salt over the top of each slice.",
+    "Place the toast slices on the preheated skillet or griddle and cook for 2-3 minutes on each side, or until the hazelnuts are fragrant and lightly toasted.",
+    "Remove the toast from the skillet and let cool for a minute or two before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "african-inspired",
+    "chocolatey",
+    "high-fiber",
+    "nutty",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "intensely-nutty-kenyan-cocoa-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-nutty-kenyan-cocoa-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:16:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "cocoa powder",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cocoa",
+    "descriptor": "intensely nutty",
+    "dishForm": "Toast"
+  }
+}
