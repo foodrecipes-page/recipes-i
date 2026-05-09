@@ -1,0 +1,99 @@
+{
+  "title": "Argentinian Cheese Curds Casserole",
+  "description": "A tangy and savory casserole featuring cheese curds and score-fat, perfect for a sick day, with a low-glycemic friendly twist. This dish is a hearty and comforting Argentinian classic.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cheese curds",
+      "amount": "12 oz",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "or beef tallow"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the score-fat over medium heat until melted.",
+    "Add the chopped onion to the skillet and cook until translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "In a large bowl, combine the cooked onion and garlic, cheese curds, chimichurri sauce, salt, black pepper, and paprika.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "cheese-lovers",
+    "comfort-food",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "intense-savory-argentinian-cheese-curds-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-savory-argentinian-cheese-curds-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:34:00Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "score-fat",
+    "primaryIngredient": "cheese curds",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cheese curds",
+    "descriptor": "intense savory",
+    "dishForm": "Casserole"
+  }
+}
