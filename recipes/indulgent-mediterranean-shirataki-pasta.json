@@ -1,0 +1,68 @@
+{
+  "title": "indulgent mediterranean shirataki pasta",
+  "description": "this dish combines the unique texture of shirataki noodles with the rich flavors of the mediterranean, perfect for a indulgent evening meal",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shirataki noodles",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "preferably extra virgin"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium heat",
+    "add the sliced onions and cook until translucent",
+    "add the minced garlic and cook for an additional minute",
+    "add the cooked shirataki noodles and stir to combine",
+    "add the chopped kalamata olives, artichoke hearts, and sun-dried tomatoes",
+    "stir in the chopped fresh parsley and basil",
+    "season with salt and pepper to taste",
+    "serve immediately, garnished with shaved bonito and lemon wedges",
+    "optional: sprinkle with crumbled feta cheese for added indulgence"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indulgent",
+    "mediterranean",
+    "one-pan",
+    "pescatarian",
+    "shirataki",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "indulgent-mediterranean-shirataki-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-mediterranean-shirataki-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:55:05Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "bonito-shave",
+    "primaryIngredient": "shirataki",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Shirataki",
+    "descriptor": "Indulgent",
+    "dishForm": "Pasta"
+  }
+}

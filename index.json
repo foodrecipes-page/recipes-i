@@ -2745,6 +2745,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-mediterranean-shirataki-pasta",
+    "title": "indulgent mediterranean shirataki pasta",
+    "tags": [
+      "gluten-free",
+      "indulgent",
+      "mediterranean",
+      "one-pan",
+      "pescatarian",
+      "shirataki",
+      "weeknight"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-mediterranean-tofu-pasta",
     "title": "Indulgent Mediterranean Tofu Pasta",
     "tags": [
