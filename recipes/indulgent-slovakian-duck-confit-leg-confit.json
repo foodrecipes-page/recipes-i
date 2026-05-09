@@ -1,0 +1,118 @@
+{
+  "title": "Indulgent Slovakian Duck-Confit-Leg Confit",
+  "description": "A rich and comforting Slovakian dish featuring slow-cooked duck confit leg, served with a side of kombu-cold-extract sauce and melted cheese.",
+  "cuisine": "Slovakian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Kombu seaweed",
+      "amount": "2 cups",
+      "notes": "cold-extract only"
+    },
+    {
+      "name": "Garlic",
+      "amount": "8 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cheese (such as Gruy\b2\u001b\u0000",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300\t0F.",
+    "Season the duck legs with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Sear the duck legs until browned on all sides, about 5 minutes per side.",
+    "Remove the duck legs from the pot and set aside.",
+    "Add the garlic to the pot and cook for 1 minute, until fragrant.",
+    "Add the chicken stock, white wine, and water to the pot and bring to a boil.",
+    "Return the duck legs to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 hours, or until the duck is tender and falls off the bone.",
+    "Remove the pot from the oven and let cool slightly.",
+    "Strain the braising liquid through a fine-mesh sieve into a clean pot and discard the solids.",
+    "Bring the braising liquid to a simmer over medium heat.",
+    "Reduce the heat to low and let simmer for 10 minutes, or until the sauce has thickened slightly.",
+    "Stir in the kombu cold-extract and cook for 1 minute, until heated through.",
+    "Slice the duck legs into thick slices and serve with the kombu-cold-extract sauce and melted cheese.",
+    "Sprinkle with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheese-pull",
+    "duck-leg-confit",
+    "indulgent",
+    "kombu-cold-extract",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 1240,
+    "protein": 56,
+    "carbs": 24,
+    "fat": 90
+  },
+  "slug": "indulgent-slovakian-duck-confit-leg-confit",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-slovakian-duck-confit-leg-confit",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:17:40Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "duck-confit-leg",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "duck-confit-leg",
+    "descriptor": "indulgent",
+    "dishForm": "confit"
+  }
+}
