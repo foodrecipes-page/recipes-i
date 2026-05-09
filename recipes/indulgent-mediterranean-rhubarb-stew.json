@@ -1,0 +1,92 @@
+{
+  "title": "Indulgent Mediterranean Rhubarb Stew",
+  "description": "Earthy, shattering, indulgent Mediterranean dish featuring forced-rhubarb, fry-grind-rice-khao-khua, low-carb-friendly",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Forced Rhubarb",
+      "amount": "2 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "Fry-Grind-Rice-Khao-Khua",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Leek",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Greek Oregano",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a cazuela over medium-high heat.",
+    "Slice the leek and fry until golden brown, then set aside.",
+    "Chop the forced rhubarb into 1-inch pieces and add to the cazuela.",
+    "Sauté the rhubarb until it begins to soften, about 3 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "low-carb",
+    "mediterranean",
+    "one-pot",
+    "spring-recipe",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "indulgent-mediterranean-rhubarb-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-mediterranean-rhubarb-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:18:21Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Rhubarb",
+    "descriptor": "Indulgent, earthy",
+    "dishForm": "Stew"
+  }
+}
