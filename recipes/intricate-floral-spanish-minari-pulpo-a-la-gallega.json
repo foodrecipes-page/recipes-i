@@ -1,0 +1,104 @@
+{
+  "title": "Intricate Floral Spanish Minari Pulpo A La Gallega",
+  "description": "A vegetarian friendly Spanish dish featuring minari in a floral and fluffy pulpo a la gallega style, cooked to perfection in a bain marie.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "vegetarian"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "edible flowers",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Prepare a bain marie by filling a large baking dish with water to a depth of about 2 inches.",
+    "Combine the chopped minari, olive oil, garlic, paprika, smoked salt, and black pepper in a bowl and mix well.",
+    "Transfer the minari mixture to a heatproof dish and place it in the bain marie.",
+    "Pour in the lemon juice and chicken broth, making sure that the minari is completely covered with liquid.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the minari is tender.",
+    "Remove the dish from the oven and garnish with chopped fresh parsley and edible flowers.",
+    "Serve the minari hot, spooning some of the cooking liquid over the top of each serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "crowd-pleaser",
+    "floral-recipe",
+    "pulpo-a-la-gallega",
+    "spanish-food",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "intricate-floral-spanish-minari-pulpo-a-la-gallega",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricate-floral-spanish-minari-pulpo-a-la-gallega",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:02:06Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "bain-marie",
+    "primaryIngredient": "minari",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "minari",
+    "descriptor": "Intricate Floral",
+    "dishForm": "Pulpo A La Gallega"
+  }
+}

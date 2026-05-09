@@ -1,0 +1,105 @@
+{
+  "title": "Incredibly Buttery Middle Eastern Lamb Shawarma",
+  "description": "A light and flavorful Middle Eastern dish featuring tender lamb, crispy buttery bread, and fresh little gem lettuce, all wrapped up in a delicious shawarma.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "little gem lettuce",
+      "amount": "4 heads",
+      "notes": "leaves separated"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 loaves",
+      "notes": "toasted"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the lamb slices onto skewers, if using, and season with sumac, garlic, salt, and pepper.",
+    "Grill the lamb for 5-7 minutes per side, or until cooked to an internal temperature of 145 degrees.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Spread a layer of tahini sauce on each pita bread.",
+    "Assemble the shawarma by placing a few slices of the grilled lamb onto each pita bread, followed by a spoonful of melted butter, a few leaves of little gem lettuce, and a sprinkle of sumac.",
+    "Serve immediately and enjoy.",
+    "Repeat with the remaining ingredients.",
+    "Let the shawarma rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "fresh-herbs",
+    "lamb-based",
+    "light-meal",
+    "middle-eastern",
+    "shawarma-style"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "incredibly-buttery-middle-eastern-lamb-shawarma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-buttery-middle-eastern-lamb-shawarma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:02:28Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "rest",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Incredibly Buttery",
+    "dishForm": "Shawarma"
+  }
+}

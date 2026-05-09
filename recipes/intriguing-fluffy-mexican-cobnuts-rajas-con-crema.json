@@ -1,0 +1,103 @@
+{
+  "title": "Intriguing Fluffy Mexican Cobnuts Rajas Con Crema",
+  "description": "A floral and fluffy Mexican dish featuring cobnuts, perfect for a date night, this sugar-free-friendly recipe is made in the form of rajas con crema and served in a corn husk wrap.",
+  "cuisine": "Mexican",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cobnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roast the chopped cobnuts in the oven for 10 minutes, or until fragrant.",
+    "Saute the chopped onions and minced garlic in a pan until softened.",
+    "Add the bhuna sauce, cumin, paprika, salt, and pepper to the pan and stir to combine.",
+    "Add the roasted cobnuts to the pan and stir to coat with the sauce.",
+    " Warm the corn husks by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Fill each corn husk with the cobnut mixture and top with a dollop of sour cream.",
+    "Serve the rajas con crema immediately, garnished with additional chopped cobnuts if desired.",
+    "Return any leftover rajas con crema to the oven at 350 degrees Fahrenheit for 5 minutes, or until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk-wrap",
+    "date-night",
+    "gluten-free",
+    "mexican-food",
+    "rajas-con-crema",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "intriguing-fluffy-mexican-cobnuts-rajas-con-crema",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intriguing-fluffy-mexican-cobnuts-rajas-con-crema",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:02:13Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "bhuna",
+    "primaryIngredient": "cobnuts",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cobnuts",
+    "descriptor": "Intriguing fluffy",
+    "dishForm": "Rajas Con Crema"
+  }
+}
