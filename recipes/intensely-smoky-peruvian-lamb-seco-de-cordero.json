@@ -1,0 +1,99 @@
+{
+  "title": "Intensely Smoky Peruvian Lamb Seco De Cordero",
+  "description": "A hearty Peruvian lamb dish with a rich smoky flavor, perfect for a post-workout meal, featuring condensed milk and smoked to perfection in a bamboo steamer.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "condensed milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bamboo steamer liquid",
+      "amount": "2 cups",
+      "notes": "water or low sodium broth"
+    }
+  ],
+  "instructions": [
+    "Preheat the smoker to 225 degrees Fahrenheit.",
+    "In a small bowl, mix together smoked paprika, garlic, salt, black pepper, and dried oregano.",
+    "Rub the spice mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Place the lamb shoulder in the bamboo steamer, leaving enough space for the steam to circulate.",
+    "In a small bowl, whisk together condensed milk and apple cider vinegar.",
+    "Pour the milk mixture over the lamb shoulder, making sure it is fully coated.",
+    "Add the bamboo steamer liquid to the steamer, making sure the water level is below the bottom of the lamb.",
+    "Smoke the lamb for 4 hours, or until it is tender and falls apart easily.",
+    "Remove the lamb from the steamer and let it rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "peruvian-cuisine",
+    "post-workout",
+    "smoked-meat",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 42
+  },
+  "slug": "intensely-smoky-peruvian-lamb-seco-de-cordero",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:12:18Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "smoke",
+    "primaryIngredient": "condensed milk",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "intensely smoky",
+    "dishForm": "Seco De Cordero"
+  }
+}
