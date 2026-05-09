@@ -2718,6 +2718,19 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-mediterranean-sea-bass-fillets-grilled",
+    "title": "Indulgent Mediterranean Sea Bass Fillets Grilled",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 18,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-mediterranean-tofu-pasta",
     "title": "Indulgent Mediterranean Tofu Pasta",
     "tags": [
@@ -4187,6 +4200,20 @@
     ],
     "cuisine": "vietnamese",
     "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-winey-egyptian-dish-flaky-pastry",
+    "title": "Indulgent Winey Egyptian Flaky Pastry",
+    "tags": [
+      "dessert",
+      "egyptian",
+      "flaky-pastry",
+      "low-carb",
+      "wine-soaked"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 65,
     "shard": "i"
   },
   {

@@ -1,0 +1,63 @@
+{
+  "title": "Indulgent Mediterranean Sea Bass Fillets Grilled",
+  "description": "Moist sea bass fillets smothered in a zesty herby glaze and grilled to perfection, perfect for a quick weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen fillets, skin removed (about 1 1/2 pounds total)"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Rinse the sea bass fillets under cold water, pat them dry with paper towels, and season with salt and pepper.",
+    "In a small saucepan, combine 1/4 cup olive oil, 2 cloves minced garlic, and 2 tablespoons chopped fresh oregano. Heat over low heat, stirring occasionally, for 2-3 minutes.",
+    "Brush the sea bass fillets with the garlic-herb oil, making sure to coat them evenly.",
+    "Place the sea bass fillets on the grill, skin side down (if they have skin). Close the grill lid and cook for 3-4 minutes, or until the skin is crispy and golden brown.",
+    "Flip the sea bass fillets over and grill for an additional 3-4 minutes, or until they are cooked through and flake easily with a fork.",
+    "Transfer the sea bass fillets to a plate and let them rest for 2-3 minutes before serving.",
+    "Serve the sea bass fillets with additional garlic-herb oil spooned over the top, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "indulgent-mediterranean-sea-bass-fillets-grilled",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-mediterranean-sea-bass-fillets-grilled",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:51:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "glaze",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "sea bass fillets",
+    "descriptor": "indulgent",
+    "dishForm": "grilled"
+  }
+}
