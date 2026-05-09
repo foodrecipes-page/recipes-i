@@ -1,0 +1,97 @@
+{
+  "title": "Intensely Creamy Russian Chicken Bake",
+  "description": "A peppery and creamy Russian dish featuring oat milk, perfect for a crowd, this high-protein-friendly bake is sure to please. It combines tender chicken with a rich and satisfying sauce.",
+  "cuisine": "Russian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "oat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together oat milk, Greek yogurt, Dijon mustard, black pepper, paprika, garlic powder, and salt.",
+    "Add the chicken to the bowl and mix until the pieces are well coated with the sauce.",
+    "Transfer the chicken mixture to a 9x13 inch baking dish.",
+    "Sprinkle the shredded cheddar cheese evenly over the top of the chicken.",
+    "Bake for 35-40 minutes or until the chicken is cooked through and the cheese is melted and golden brown.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve hot and enjoy!",
+    "Garnish with chopped fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-bake",
+    "creamy",
+    "high-protein",
+    "one-pan",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "intensely-creamy-russian-chicken-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-creamy-russian-chicken-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:21:09Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "bake",
+    "primaryIngredient": "oat milk",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chicken",
+    "descriptor": "intensely creamy",
+    "dishForm": "Bake"
+  }
+}
