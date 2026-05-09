@@ -1,0 +1,102 @@
+{
+  "title": "Intensely Crispy Tunisian Cauliflower Sushi",
+  "description": "A crispy and flavorful Tunisian dish featuring cauliflower, shaped like nigiri sushi, perfect for a weeknight dinner, and kosher-friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "harissa",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, cornstarch, paprika, garlic powder, salt, and black pepper.",
+    "Add the cauliflower florets to the bowl and toss to coat evenly with the flour mixture.",
+    "Drizzle the olive oil over the cauliflower and toss again to coat.",
+    "Spread the cauliflower out in a single layer on a baking sheet and roast in the oven for 20 minutes.",
+    "Remove the cauliflower from the oven and let it cool slightly.",
+    "Using your hands, shape the cauliflower into small nigiri-shaped pieces.",
+    "Drizzle the lemon juice and harissa over the cauliflower sushi and serve immediately.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cauliflower",
+    "crispy",
+    "kosher",
+    "one-pan",
+    "tunisian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "intensely-crispy-tunisian-cauliflower-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-crispy-tunisian-cauliflower-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:14:57Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "cauliflower",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "cauliflower",
+    "descriptor": "Intensely Crispy",
+    "dishForm": "Sushi"
+  }
+}
