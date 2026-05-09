@@ -5332,6 +5332,20 @@
     "shard": "i"
   },
   {
+    "slug": "intense-malty-british-chicken-stew",
+    "title": "Intense Malty British Chicken Stew",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "low-carb",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
     "slug": "intense-malty-ethiopian-hazelnut-pilaf",
     "title": "Intense Malty Ethiopian Hazelnut Pilaf",
     "tags": [
