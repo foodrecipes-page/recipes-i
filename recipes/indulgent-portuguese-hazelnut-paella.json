@@ -1,0 +1,99 @@
+{
+  "title": "Indulgent Portuguese Hazelnut Paella",
+  "description": "A rich and savory Portuguese dish featuring hazelnuts, with a bitter and molten flavor profile, made in a traditional paella pan and suitable for paleo diets. This indulgent paella is perfect for special occasions.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "blanched and chopped"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the blanched hazelnuts and cook for 2 minutes, stirring frequently.",
+    "Add the chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Add the paprika, salt, and black pepper, and stir to combine.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the paella from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hazelnut-recipes",
+    "one-pan",
+    "paleo-friendly",
+    "portuguese-cuisine",
+    "rich-and-savory",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "indulgent-portuguese-hazelnut-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-portuguese-hazelnut-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:01:13Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "hazlenuts",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "indulgent molten",
+    "dishForm": "Paella"
+  }
+}
