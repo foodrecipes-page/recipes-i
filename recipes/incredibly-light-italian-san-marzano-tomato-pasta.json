@@ -1,0 +1,96 @@
+{
+  "title": "Incredibly Light Italian San Marzano Tomato Pasta",
+  "description": "A fresh and aerated Mediterranean dish featuring San Marzano tomatoes, double fried KFC style garlic and ayurvedic rajasic friendly ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "San Marzano tomatoes",
+      "amount": "2 cups",
+      "notes": "canned and crushed"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "8 oz"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and double fry the garlic until crispy.",
+    "Add the crushed San Marzano tomatoes to the skillet and stir to combine.",
+    "Season the tomato sauce with salt and black pepper to taste.",
+    "Drain the cooked spaghetti and add it to the skillet with the tomato sauce.",
+    "Toss the spaghetti in the tomato sauce until well coated.",
+    "Stir in the chopped basil and grated parmesan cheese.",
+    "Serve the pasta hot and enjoy.",
+    "Garnish with additional basil and parmesan cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "italian",
+    "light",
+    "mediterranean",
+    "pasta",
+    "tomato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "incredibly-light-italian-san-marzano-tomato-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-light-italian-san-marzano-tomato-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:51:43Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "san marzano tomato",
+    "descriptor": "Incredibly Light",
+    "dishForm": "Pasta"
+  }
+}
