@@ -1,0 +1,105 @@
+{
+  "title": "Intensely Creamy Spanish Chicken Croquetas",
+  "description": "A comforting Spanish dish featuring chicken, heavy cream, and a peppery flavor, formed into crispy croquetas.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, melt the butter over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "In a large bowl, combine the cooked chicken, heavy cream, paprika, salt, and black pepper, and mix until well combined.",
+    "Add the cooked onion and garlic mixture to the chicken mixture and stir until smooth.",
+    "Cover the bowl with plastic wrap and refrigerate the mixture for at least 30 minutes to allow the flavors to meld.",
+    "In a shallow dish, beat the eggs and set aside.",
+    "In a separate shallow dish, place the almond flour.",
+    "Using a small cookie scoop or spoon, form the chilled chicken mixture into small balls, about 1 1/2 inches in diameter.",
+    "Dip each ball into the beaten eggs, coating completely, then roll in the almond flour to coat.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat and fry the croquetas until golden brown and crispy.",
+    "Remove the croquetas from the oil with a slotted spoon and drain on paper towels."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "croquetas",
+    "gluten-free-snacks",
+    "low-carb",
+    "spanish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "intensely-creamy-spanish-chicken-croquetas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-creamy-spanish-chicken-croquetas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:03:38Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "spherify",
+    "primaryIngredient": "heavy cream",
+    "diet": "low-carb",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Intensely Creamy",
+    "dishForm": "Croquetas"
+  }
+}
