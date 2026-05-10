@@ -1,0 +1,88 @@
+{
+  "title": "Incredibly Light Japanese Chicken Noodles",
+  "description": "A light and grassy Japanese dish featuring steamed chicken and noodles, perfect for a healthy meal prep option. This recipe is dashi-friendly and can be cooked in a fondue pot.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "soba noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Fill a fondue pot with dashi broth and bring to a boil.",
+    "Add the chicken to the pot and steam for 5 minutes, or until cooked through.",
+    "Add the soba noodles to the pot and cook for an additional 3 minutes, or until tender.",
+    "Stir in the grated ginger, soy sauce, and sesame oil.",
+    "Divide the noodles and chicken among four bowls.",
+    "Garnish with thinly sliced green onions and serve immediately.",
+    "Let cool, then refrigerate or freeze for up to 3 days.",
+    "Reheat in the microwave or on the stovetop before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "healthy-eating",
+    "japanese-cuisine",
+    "low-carb",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "incredibly-light-japanese-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-light-japanese-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:41:00Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "steam",
+    "primaryIngredient": "restaurant",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Incredibly Light",
+    "dishForm": "Noodles"
+  }
+}
