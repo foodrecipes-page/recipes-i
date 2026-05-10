@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Roasted Filipino Chicken Tinola",
+  "description": "A roasted and flaky Filipino dish made with chicken, malai, and spices, perfect for meal prep. This low-glycemic-friendly recipe is served in a tinola form on a wooden board.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "malai",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together malai, fish sauce, lime juice, and black pepper.",
+    "Add the chicken thighs to the bowl and toss to coat with the marinade.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and place on a wooden board.",
+    "Roast the chicken in the preheated oven for 35 minutes.",
+    "While the chicken is roasting, saute the onion, garlic, and ginger in a pan until softened.",
+    "After the chicken has roasted for 25 minutes, brush the sauteed onion mixture on top of the chicken.",
+    "Continue roasting the chicken for an additional 10 minutes.",
+    "Let the chicken rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "gluten-free",
+    "low-glycemic",
+    "meal-prep",
+    "roasted-chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "intensely-roasted-filipino-chicken-tinola",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-roasted-filipino-chicken-tinola",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:02:29Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "saute",
+    "primaryIngredient": "malai",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "intensely roasted",
+    "dishForm": "Tinola"
+  }
+}
