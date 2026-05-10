@@ -1,0 +1,111 @@
+{
+  "title": "Intense Molten Canadian Chestnut Mushroom Curry",
+  "description": "A rich and creamy curry featuring chestnut mushrooms, perfect for a date night, with a blend of mustardy and slightly sweet flavors, this plant-based-friendly dish is a Canadian twist on traditional bhuna curry.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chestnut mushrooms",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 teaspoon",
+      "notes": "brown or black"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2 tablespoons",
+      "notes": "bhuna-style"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "neutral-tasting"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Dates",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat and add the mustard seeds, letting them sizzle for a few seconds.",
+    "Add the chopped onion and saute until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for another minute, stirring constantly.",
+    "Add the sliced chestnut mushrooms and cook until they release their liquid and start to brown.",
+    "Stir in the curry powder and cook for 1-2 minutes, until the spices are fragrant.",
+    "Pour in the coconut milk and add the salt, stirring to combine.",
+    "Bring the mixture to a simmer and let cook for 10-15 minutes, until the sauce has thickened and the mushrooms are tender.",
+    "Stir in the pitted dates and let cook for another minute, until they are heated through.",
+    "Taste and adjust the seasoning as needed, then serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "curry-recipes",
+    "date-night",
+    "mushroom-recipes",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "intense-molten-canadian-chestnut-mushroom-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-molten-canadian-chestnut-mushroom-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:08:41Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "bhuna",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "intense molten",
+    "dishForm": "Curry"
+  }
+}
