@@ -1,0 +1,104 @@
+{
+  "title": "Intense Korean Cabbage Stew",
+  "description": "A hearty, one-pot Korean dish featuring fermented and chewy hispi sweetheart cabbage, this stew is perfect for a cold winter's night. It is also onion and garlic free, making it suitable for those with sensitivities.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hispi sweetheart cabbage",
+      "amount": "1 large head",
+      "notes": "fermented for at least 24 hours"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the sesame oil over medium heat.",
+    "Add the sliced mushrooms and cook until they are tender, about 5 minutes.",
+    "Add the sliced zucchini and cook for an additional 2 minutes.",
+    "Add the cubed tofu and cook until it is lightly browned.",
+    "Add the fermented cabbage, gochujang, soy sauce, korean chili flakes, salt, and black pepper to the pot.",
+    "Stir everything together, then reduce heat to low and simmer for 20 minutes.",
+    "Use two forks to knead the cabbage and break it down into smaller pieces.",
+    "Continue to simmer the stew for an additional 10 minutes, or until the cabbage is very tender.",
+    "Serve the stew hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "korean-food",
+    "one-pot",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "intense-korean-cabbage-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-korean-cabbage-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:58:45Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "knead",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "no-onion-no-garlic",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cabbage",
+    "descriptor": "intense chewy",
+    "dishForm": "Stew"
+  }
+}

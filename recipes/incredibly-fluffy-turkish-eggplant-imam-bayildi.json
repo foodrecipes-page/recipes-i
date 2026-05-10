@@ -1,0 +1,97 @@
+{
+  "title": "Incredibly Fluffy Turkish Eggplant Imam Bayildi",
+  "description": "A savory Turkish dish featuring emmentaler cheese, cooked in a tagine, Whole30-friendly and kid-friendly, this imam bayildi is a delicious and fluffy meal option.",
+  "cuisine": "Turkish",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "peeled and sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "emmentaler cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced eggplant with salt to draw out moisture.",
+    "Let the eggplant sit for 30 minutes, then rinse and pat dry with paper towels.",
+    "In a large tagine or Dutch oven, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the sliced eggplant to the tagine, stirring to coat with the onion and tomato mixture.",
+    "Cover the tagine and transfer to the preheated oven, baking for 30 minutes.",
+    "Remove the tagine from the oven and top the eggplant with shredded emmentaler cheese.",
+    "Return the tagine to the oven and bake for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "kid-friendly",
+    "one-pan",
+    "turkish-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "incredibly-fluffy-turkish-eggplant-imam-bayildi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-fluffy-turkish-eggplant-imam-bayildi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:59:40Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "tagine-cook",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "eggplant",
+    "descriptor": "Incredibly fluffy",
+    "dishForm": "Imam Bayildi"
+  }
+}
