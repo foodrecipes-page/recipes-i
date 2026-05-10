@@ -8558,6 +8558,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-charred-korean-chestnut-mushroom-tang",
+    "title": "Intensely Charred Korean Chestnut Mushroom Tang",
+    "tags": [
+      "asian-inspired",
+      "keto-friendly",
+      "mushroom-based",
+      "one-pot",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-charred-malaysian-chicken-satay",
     "title": "Intensely Charred Malaysian Chicken Satay",
     "tags": [
@@ -9937,6 +9952,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-jammy-indian-lamb-kachori",
+    "title": "Intensely Jammy Indian Lamb Kachori",
+    "tags": [
+      "date-night",
+      "indian-cuisine",
+      "lamb-recipes",
+      "steamed-dishes",
+      "turkish-delight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {

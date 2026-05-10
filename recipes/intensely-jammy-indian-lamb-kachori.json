@@ -1,0 +1,100 @@
+{
+  "title": "Intensely Jammy Indian Lamb Kachori",
+  "description": "Tender lamb kachori filled with a sweet and spicy mixture, perfect for a date night dinner, featuring Turkish delight and steamed to perfection, this dish is egg-free friendly and sure to impress.",
+  "cuisine": "Indian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "1 pound",
+      "notes": "preferably grass fed"
+    },
+    {
+      "name": "Turkish delight",
+      "amount": "1/2 cup",
+      "notes": "chopped into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the lamb mince, chopped Turkish delight, onion, ginger, garlic, cumin seeds, and coriander powder, and mix well until just combined.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "In a separate large mixing bowl, combine the all purpose flour and a pinch of salt, and gradually add in the ghee, mixing until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8-10 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a thin disk using a rolling pin.",
+    "Place a tablespoon of the lamb mixture in the center of each disk and fold the dough over to form a half moon shape, pressing the edges together to seal.",
+    "Steam the kachori in a steamer basket lined with parchment paper for 10-12 minutes, or until cooked through.",
+    "Serve the kachori hot with your favorite chutney or raita.",
+    "Garnish with chopped cilantro and a dollop of yogurt, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "indian-cuisine",
+    "lamb-recipes",
+    "steamed-dishes",
+    "turkish-delight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "intensely-jammy-indian-lamb-kachori",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-jammy-indian-lamb-kachori",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:16:54Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "turkish delight",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb",
+    "descriptor": "Intensely Jammy",
+    "dishForm": "Kachori"
+  }
+}
