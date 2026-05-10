@@ -1,0 +1,92 @@
+{
+  "title": "Intense Creamy Syrian Milk Biryani",
+  "description": "A dense and creamy Syrian dish featuring semi-skimmed milk and double-rise-bread, perfect for a hangover cure or a satisfying meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semi-skimmed milk",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "cubed"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Soak the basmati rice in water for 30 minutes, then drain and set aside.",
+    "Heat the ghee in a large pan over medium heat and saute the onion and garlic until softened.",
+    "Add the cumin seeds and salt, and stir for 1 minute.",
+    "Add the cubed bread and stir until the bread is toasted and fragrant.",
+    "In a large bowl, combine the cooked rice, toasted bread mixture, and semi-skimmed milk, and mix well.",
+    "Transfer the mixture to a baking dish and bake for 25 minutes, or until the top is golden brown.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "middle-eastern",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "intense-creamy-syrian-milk-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-creamy-syrian-milk-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:09:06Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "milk",
+    "descriptor": "intense creamy",
+    "dishForm": "Biryani"
+  }
+}
