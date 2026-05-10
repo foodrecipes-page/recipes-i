@@ -1,0 +1,95 @@
+{
+  "title": "Intensely Garlicky Korean Baby Lettuce Bokkeum",
+  "description": "A garlicky and crunchy Korean dish featuring baby lettuce leaves, perfect for a midnight craving. This kosher-friendly recipe is made in the traditional Gangwon style.",
+  "cuisine": "Korean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "baby lettuce leaves",
+      "amount": "1 bunch",
+      "notes": "dehydrated"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or wok over medium-high heat.",
+    "In a small bowl, whisk together soy sauce, brown sugar, and sesame oil.",
+    "Add the minced garlic to the bowl and whisk until well combined.",
+    "Add the dehydrated baby lettuce leaves to the skillet and stir-fry for 2 minutes.",
+    "Pour the garlic-soy sauce mixture over the lettuce leaves and stir-fry for an additional 2 minutes.",
+    "Season with salt and crushed black pepper to taste.",
+    "Lay a corn husk flat and place a portion of the lettuce mixture in the center.",
+    "Fold the corn husk over the filling to form a tight wrap, and repeat with the remaining ingredients.",
+    "Serve the bokkeum hot, wrapped in the corn husks."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk-wrap",
+    "crunchy",
+    "gangwon-style",
+    "garlicky",
+    "korean-food",
+    "kosher-friendly",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "intensely-garlicky-korean-baby-lettuce-bokkeum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-garlicky-korean-baby-lettuce-bokkeum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:09:48Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "dehydrate",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "kosher",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "baby lettuce",
+    "descriptor": "Intensely Garlicky",
+    "dishForm": "Bokkeum"
+  }
+}
