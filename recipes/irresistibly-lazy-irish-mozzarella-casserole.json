@@ -1,0 +1,109 @@
+{
+  "title": "Irresistibly Lazy Irish Mozzarella Casserole",
+  "description": "A hearty, comforting Irish dish featuring mozzarella, render fat, and gluten-free friendly ingredients, perfect for a lazy Sunday, this casserole is baked to perfection in a tandoor clay pot, giving it a unique nutty flavor and shaggy texture.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup shredded",
+      "notes": "freshly shredded"
+    },
+    {
+      "name": "Render fat",
+      "amount": "1/2 cup",
+      "notes": "from beef or lamb"
+    },
+    {
+      "name": "Gluten-free all-purpose flour",
+      "amount": "1 cup",
+      "notes": "containing rice flour, potato starch, and tapioca flour"
+    },
+    {
+      "name": "Diced ham",
+      "amount": "1 cup",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 cup",
+      "notes": "freshly diced"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "3 cloves",
+      "notes": "freshly minced"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "1 cup",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the render fat over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the cooked onion and garlic mixture, diced ham, mozzarella cheese, gluten-free flour, dried thyme, salt, and black pepper.",
+    "In a separate bowl, whisk together the whole milk and a pinch of salt.",
+    "Add the milk mixture to the bowl with the dry ingredients and stir until just combined.",
+    "Transfer the mixture to a tandoor clay pot and cover with a lid.",
+    "Bake for 35 minutes, then remove the lid and continue baking for an additional 10 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "gluten-free",
+    "irish-cuisine",
+    "lazy-sunday",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "irresistibly-lazy-irish-mozzarella-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/irresistibly-lazy-irish-mozzarella-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:21:43Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "render-fat",
+    "primaryIngredient": "mozzarella",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "mozzarella",
+    "descriptor": "Irresistibly Lazy",
+    "dishForm": "Casserole"
+  }
+}
