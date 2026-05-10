@@ -1,0 +1,101 @@
+{
+  "title": "Intensely Sour Ethiopian Vegetables Atakilt Wat",
+  "description": "A sour, silky, and show-off Ethiopian dish featuring vanilla and wood-fired bake, perfect for a diabetic-friendly meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 small head",
+      "notes": "shredded"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wood-fired baked bell peppers",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced carrots and shredded cabbage with 1 tablespoon of olive oil, and season with salt.",
+    "Spread the carrot and cabbage mixture on a baking sheet and roast for 20 minutes.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium heat, and saute the chopped onions until they are translucent.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Stir in the diced wood-fired baked bell peppers, vanilla extract, and lemon juice, and cook for 2 minutes.",
+    "Combine the roasted carrot and cabbage mixture with the skillet mixture, and season with salt to taste.",
+    "Serve the Intensely Sour Ethiopian Vegetables Atakilt Wat hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "ethiopian",
+    "silky",
+    "sour",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "intensely-sour-ethiopian-vegetables-atakilt-wat",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-sour-ethiopian-vegetables-atakilt-wat",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:13:14Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "vanilla",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "vegetables",
+    "descriptor": "intensely sour",
+    "dishForm": "Atakilt Wat"
+  }
+}
