@@ -1,0 +1,106 @@
+{
+  "title": "Intricately Smoky Middle Eastern Chicken Fattoush",
+  "description": "A smoky and creamy Middle Eastern dish featuring sriracha and shio-koji-cure, served in a bamboo steamer.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted pita bread",
+      "amount": "1 cup",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo steamer by filling the bottom with water and bringing it to a boil.",
+    "In a large bowl, whisk together sriracha sauce, shio-koji, lemon juice, and olive oil to make the marinade.",
+    "Add the chicken to the marinade and mix well to coat, then let it sit for 10 minutes.",
+    "Place the chicken in the bamboo steamer and steam for 15 minutes or until cooked through.",
+    "While the chicken is cooking, toast the pita bread by baking it in the oven at 350 degrees for 5 minutes.",
+    "In a large bowl, combine the mixed greens, cherry tomatoes, cucumber, and feta cheese.",
+    "Once the chicken is done, let it cool for a few minutes before slicing it into thin strips.",
+    "Add the sliced chicken to the bowl with the mixed greens and toss to combine.",
+    "Break the toasted pita bread into pieces and sprinkle it over the top of the salad.",
+    "Serve the smoky chicken fattoush immediately, garnished with additional sriracha sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "fattoush",
+    "gluten-free",
+    "healthy",
+    "middle-eastern",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intricately-smoky-middle-eastern-chicken-fattoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-smoky-middle-eastern-chicken-fattoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:37:55Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "sriracha",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "Intricately Smoky",
+    "dishForm": "Fattoush"
+  }
+}
