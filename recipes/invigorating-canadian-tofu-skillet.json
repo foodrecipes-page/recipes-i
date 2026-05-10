@@ -1,0 +1,101 @@
+{
+  "title": "Invigorating Canadian Tofu Skillet",
+  "description": "A salty and pillowy Canadian dish featuring marinated tofu, cooked in sunflower oil on a comal, perfect for a energizing meal, dairy-free-friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, maple syrup, rice vinegar, garlic powder, onion powder, salt, and black pepper to make the marinade.",
+    "Add the cubed tofu to the marinade and toss to coat, letting it marinate for at least 30 minutes.",
+    "Heat the sunflower oil in a comal over medium-high heat.",
+    "Remove the tofu from the marinade, letting any excess liquid drip off.",
+    "Add the tofu to the comal and cook until golden brown on all sides, about 5-7 minutes.",
+    "Remove the tofu from the comal and set aside on a plate.",
+    "In the same comal, add the chopped scallions and cook until they start to soften, about 2 minutes.",
+    "Return the tofu to the comal and stir to combine with the scallions.",
+    "Cook for an additional 1-2 minutes, until the tofu is fully coated with the scallion mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "dairy-free",
+    "high-protein",
+    "one-pan",
+    "tofu-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 18
+  },
+  "slug": "invigorating-canadian-tofu-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/invigorating-canadian-tofu-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:21:55Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "marinate",
+    "primaryIngredient": "sunflower oil",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "tofu",
+    "descriptor": "invigorating pillowy",
+    "dishForm": "Skillet"
+  }
+}
