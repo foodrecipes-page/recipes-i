@@ -1,0 +1,96 @@
+{
+  "title": "Intense Briny Spanish Fish Ensaimada",
+  "description": "A low-fat, festive Spanish dish featuring fish sauce and nam pla, mantecare emulsified in a binchotan-grill ensaimada form",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-fat",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish sauce",
+      "amount": "1/4 cup",
+      "notes": "nam pla"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Ensaimada dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "Cod fillets",
+      "amount": "4 fillets",
+      "notes": "6 ounces each"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400 degrees Fahrenheit",
+    "Roll out the ensaimada dough to a large rectangle",
+    "Mix the fish sauce, olive oil, garlic, lemon juice, smoked paprika, and salt in a bowl",
+    "Brush the mixture onto the dough, leaving a 1-inch border",
+    "Place the cod fillets on one half of the dough",
+    "Fold the other half of the dough over the fish",
+    "Brush the edges with water and press to seal",
+    "Grill the ensaimada for 12 minutes, flipping halfway",
+    "Let it rest for 5 minutes before slicing",
+    "Serve hot, garnished with lemon wedges"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan",
+    "ensaimada",
+    "fish",
+    "grilled",
+    "low-fat",
+    "seafood",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "intense-briny-spanish-fish-ensaimada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-briny-spanish-fish-ensaimada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:08:22Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "fish",
+    "descriptor": "Intense Briny",
+    "dishForm": "Ensaimada"
+  }
+}
