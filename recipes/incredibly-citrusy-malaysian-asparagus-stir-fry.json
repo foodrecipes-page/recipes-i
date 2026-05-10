@@ -1,0 +1,102 @@
+{
+  "title": "Incredibly Citrusy Malaysian Asparagus Stir Fry",
+  "description": "A flexitarian friendly Malaysian dish featuring asparagus, with a burst of citrus flavor and wok hei, served in a donabe vessel, perfect for a solo dinner",
+  "cuisine": "Malaysian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh, trimmed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a donabe vessel over medium high heat",
+    "Add the minced garlic and grated ginger and stir fry until fragrant",
+    "Add the asparagus and stir fry for 3 minutes or until they start to soften",
+    "Add the orange zest, orange juice, soy sauce, salt, and black pepper, and stir fry for another 2 minutes",
+    "Stir in the chopped scallions and cook for an additional minute",
+    "Remove the donabe from the heat and let it cool for a minute",
+    "Serve the asparagus stir fry hot, garnished with additional scallions if desired",
+    "Stir fry the ingredients quickly over high heat to achieve the wok hei effect"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian-friendly",
+    "high-protein",
+    "one-pan",
+    "quick-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "incredibly-citrusy-malaysian-asparagus-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/incredibly-citrusy-malaysian-asparagus-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:37:22Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "wok-hei",
+    "primaryIngredient": "asparagus",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "asparagus",
+    "descriptor": "Incredibly citrusy",
+    "dishForm": "Stir-fry"
+  }
+}
