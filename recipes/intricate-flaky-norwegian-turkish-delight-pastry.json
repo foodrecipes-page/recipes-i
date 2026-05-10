@@ -1,0 +1,113 @@
+{
+  "title": "Norwegian Turkish Delight Pastry",
+  "description": "A salty, flaky, and light Norwegian pastry featuring Turkish delight and coconut cream crack, low in carbs and perfect for a snack or dessert. This pastry is a unique fusion of Norwegian and Turkish flavors.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "2 cups",
+      "notes": "used for low-carb crust"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "for flaky texture"
+    },
+    {
+      "name": "Turkish delight",
+      "amount": "1 cup",
+      "notes": "chopped into small pieces"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1/2 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "Erythritol",
+      "amount": "1/4 cup",
+      "notes": "low-carb sweetener"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to balance sweetness"
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "1/4 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine almond flour and cold unsalted butter, using a pastry blender to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "Press the mixture into a disk, wrap in plastic wrap, and refrigerate for 30 minutes.",
+    "On a lightly floured surface, roll out the chilled dough to a thickness of about 1/8 inch.",
+    "In a small bowl, mix together chopped Turkish delight, coconut cream, erythritol, and vanilla extract.",
+    "Spread the Turkish delight mixture evenly over the center of the dough, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Brush the egg wash over the pastry to give it a golden brown color.",
+    "Sprinkle shredded coconut over the top of the pastry.",
+    "Bake the pastry for 25-30 minutes, or until golden brown.",
+    "Allow the pastry to cool completely before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "flaky-pastry",
+    "gluten-free",
+    "low-carb",
+    "norwegian-cuisine",
+    "salty-sweet",
+    "turkish-delight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "intricate-flaky-norwegian-turkish-delight-pastry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricate-flaky-norwegian-turkish-delight-pastry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:39:36Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "turkish delight",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "turkish delight",
+    "descriptor": "Intricate flaky",
+    "dishForm": "Pastry"
+  }
+}
