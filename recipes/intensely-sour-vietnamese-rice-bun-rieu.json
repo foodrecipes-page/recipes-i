@@ -1,0 +1,93 @@
+{
+  "title": "Intensely Sour Vietnamese Rice Bun Rieu",
+  "description": "A sour and fluffy Vietnamese dish featuring paella rice, this recipe is a nostalgic and satvik-friendly option. It is made with a variety of ingredients and is suitable for lunch or dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the paella rice and stir to coat the rice with oil and mix with onion and garlic.",
+    "Add the water, tamarind paste, and lime juice to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes or until the liquid is absorbed.",
+    "Remove from heat and stir in salt.",
+    "Let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pot",
+    "sour-flavors",
+    "vegetarian-option",
+    "vietnamese-cuisine",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "intensely-sour-vietnamese-rice-bun-rieu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-sour-vietnamese-rice-bun-rieu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:06:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "whisk",
+    "primaryIngredient": "paella rice",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rice",
+    "descriptor": "Intensely Sour",
+    "dishForm": "Bun Rieu"
+  }
+}
