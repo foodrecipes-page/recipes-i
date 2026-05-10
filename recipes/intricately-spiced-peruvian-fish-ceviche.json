@@ -1,0 +1,106 @@
+{
+  "title": "Intricately Spiced Peruvian Fish Ceviche",
+  "description": "A refreshing and flavorful Peruvian dish featuring delicate fish marinated in a mixture of citrus juices, spices, and aromatics, perfect for a light brunch, this floral and aerated ceviche is made with shallots and a hint of tadka for added depth",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "1 pound",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mixed citrus juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tadka oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Cut the halibut fillets into small cubes and place them in a large bowl",
+    "In a small pan, heat the tadka oil over medium heat and add the coriander seeds and cumin seeds, letting them sizzle for 1 minute",
+    "Add the grated ginger to the pan and cook for an additional 30 seconds",
+    "Pour the lime juice, mixed citrus juice, and tadka oil mixture over the fish cubes",
+    "Add the sliced shallots, salt, and black pepper to the bowl and stir gently to combine",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the fish to marinate",
+    "Just before serving, stir in the chopped cilantro",
+    "Taste and adjust the seasoning as needed",
+    "Serve the ceviche in small glasses or bowls, garnished with additional cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "gluten-free",
+    "low-carb",
+    "peruvian-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "intricately-spiced-peruvian-fish-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-spiced-peruvian-fish-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:55:44Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "tadka",
+    "primaryIngredient": "shallots",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "Intricately spiced",
+    "dishForm": "Ceviche"
+  }
+}
