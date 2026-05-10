@@ -1,0 +1,100 @@
+{
+  "title": "Indulgent Smoky Polish Pork Dumplings",
+  "description": "Rich and savory Polish dumplings filled with smoky pork and gooey cheese, served in a warm dashi broth, this dish is a perfect comfort food for a cold evening, and is also ayurvedic-tamasic-friendly due to its use of grounding ingredients like pork and cheese.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably smoked or bacon-infused"
+    },
+    {
+      "name": " farmers cheese",
+      "amount": "1 cup",
+      "notes": "or other soft cheese like ricotta or cottage cheese"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, farmers cheese, salt, black pepper, and smoked paprika, and mix until just combined.",
+    "Gradually add the all-purpose flour to the pork mixture, and mix until a dough forms.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 8-10 equal pieces, and roll each piece into a ball.",
+    "Flatten each ball into a disk shape, and place a tablespoon of the farmers cheese in the center of each disk.",
+    "Fold the dough over the cheese to form a half-moon shape, and press the edges together to seal the dumpling.",
+    "Bring the dashi broth to a boil in a large pot, then reduce the heat to a simmer.",
+    "Carefully add the dumplings to the pot, and cook for 10-12 minutes, or until they float to the surface.",
+    "Serve the dumplings hot in the dashi broth, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "indulgent-smoky-polish-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-smoky-polish-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:57:41Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "rest",
+    "primaryIngredient": "dashi",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Indulgent Smoky",
+    "dishForm": "Dumplings"
+  }
+}
