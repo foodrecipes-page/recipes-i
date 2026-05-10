@@ -1,0 +1,96 @@
+{
+  "title": "Irresistibly Buttery Greek Cheese Tiropita",
+  "description": "A buttery, crumbly, and comforting Greek dish, perfect for a sick day, featuring ground coriander and lardons-render, made in a cataplana vessel and plant-based-friendly, in the form of a tiropita.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "filo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "tofu feta",
+      "amount": "1 block",
+      "notes": "crumbled"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lardons",
+      "amount": "1/2 cup",
+      "notes": "rendered"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large skillet, saute the chopped onion and rendered lardons over medium heat until the onion is translucent.",
+    "In a large bowl, combine the crumbled tofu feta, ground coriander, salt, and black pepper.",
+    "Add the sauteed onion and lardons mixture to the bowl and stir to combine.",
+    "Layer the filo dough in the cataplana vessel, brushing each layer with melted vegan butter.",
+    "Spoon the tofu feta mixture into the center of the filo dough layers.",
+    "Fold the filo dough over the filling to form a tiropita shape.",
+    "Brush the top of the tiropita with melted vegan butter and bake for 35 minutes.",
+    "Remove the tiropita from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buttery-goodness",
+    "comfort-food",
+    "greek-cuisine",
+    "plant-based",
+    "snack-time"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "irresistibly-buttery-greek-cheese-tiropita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/irresistibly-buttery-greek-cheese-tiropita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:09:43Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "lardons-render",
+    "primaryIngredient": "ground coriander",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cheese",
+    "descriptor": "Irresistibly Buttery",
+    "dishForm": "Tiropita"
+  }
+}
