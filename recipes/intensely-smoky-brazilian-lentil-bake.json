@@ -1,0 +1,104 @@
+{
+  "title": "Intensely Smoky Brazilian Lentil Bake",
+  "description": "A yeasty and juicy Brazilian dish featuring brown lentils, baked in a wood-fired oven and wrapped in banana leaves, perfect for meal prep and macrobiotic diets.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "Soak the brown lentils in water for at least 30 minutes, then drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until softened.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Stir in the smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "In a large bowl, combine the cooked lentils, sauteed onion mixture, and nutritional yeast, and stir until well combined.",
+    "Layout the banana leaves and divide the lentil mixture among them, spooning it into the center of each leaf.",
+    "Fold the banana leaves over the filling to form a tight packet, and secure with kitchen twine if needed.",
+    "Place the packets in the preheated oven and bake for 30-40 minutes, until the lentils are tender and the banana leaves are slightly charred."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "high-protein",
+    "macrobiotic",
+    "one-pan",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "intensely-smoky-brazilian-lentil-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-brazilian-lentil-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:41:20Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "brown lentils",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "lentils",
+    "descriptor": "intensely smoky",
+    "dishForm": "Bake"
+  }
+}
