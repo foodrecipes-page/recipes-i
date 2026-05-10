@@ -1,0 +1,90 @@
+{
+  "title": "Intricately Seasoned Vietnamese Shrimp Banh Xeo",
+  "description": "A traditional Vietnamese dish featuring shrimp and earthy flavors, served in a banana leaf vessel, perfect for a brunch mood. This recipe combines the bouncy texture of shrimp with the crispy crunch of banh xeo.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together rice flour, coconut milk, turmeric, paprika, and salt.",
+    "Add the shrimp to the bowl and mix until they are well coated with the batter.",
+    "Brush the banana leaves with vegetable oil and place a small amount of the shrimp batter in the center of each leaf.",
+    "Fold the banana leaves over the batter to form a triangle and press the edges together to seal.",
+    "Place the banana leaves in the wood-fired oven and bake for 12 minutes.",
+    "Remove the banh xeo from the oven and let them cool for a few minutes.",
+    "Serve the banh xeo hot, garnished with fresh herbs and chilies."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "brunch-recipe",
+    "shojin-friendly",
+    "vietnamese-cuisine",
+    "wood-fired-oven"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "intricately-seasoned-vietnamese-shrimp-banh-xeo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intricately-seasoned-vietnamese-shrimp-banh-xeo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:31:58Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "seasoning",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Intricately Seasoned",
+    "dishForm": "Banh Xeo"
+  }
+}
