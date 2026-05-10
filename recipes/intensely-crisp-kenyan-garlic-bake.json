@@ -1,0 +1,91 @@
+{
+  "title": "Intensely Crisp Kenyan Garlic Bake",
+  "description": "A traditional Kenyan dish featuring roasted garlic, this recipe is a wood-fired bake that is both energizing and whole30-friendly, with a grassy and crisp texture.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic bulbs",
+      "amount": "4",
+      "notes": "peeled and separated into cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the garlic cloves with olive oil, salt, black pepper, and ginger powder until they are evenly coated.",
+    "Spread the garlic cloves out in a single layer on a baking sheet lined with parchment paper.",
+    "Roast the garlic in the preheated oven for 20 minutes, or until it is tender and lightly browned.",
+    "Remove the garlic from the oven and sprinkle with chopped parsley and lemon juice.",
+    "Return the garlic to the oven and roast for an additional 5 minutes, or until it is crispy and golden brown.",
+    "Remove the garlic from the oven and let it cool slightly before serving.",
+    "Serve the intensely crisp Kenyan garlic bake hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snacks",
+    "garlic-lovers",
+    "gluten-free",
+    "kenyan-cuisine",
+    "paleo",
+    "whole30",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "intensely-crisp-kenyan-garlic-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-crisp-kenyan-garlic-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:36:46Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "garlic bulb",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "garlic",
+    "descriptor": "intensely crisp",
+    "dishForm": "Bake"
+  }
+}
