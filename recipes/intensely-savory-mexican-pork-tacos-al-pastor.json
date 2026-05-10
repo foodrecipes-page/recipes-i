@@ -1,0 +1,108 @@
+{
+  "title": "Intensely Savory Mexican Pork Tacos Al Pastor",
+  "description": "A savory and shattering Mexican dish featuring lemons and pork, perfect for a date night, served in individual mini cocottes and dairy-free friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemons",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4-6",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together chili powder, cumin, coriander, and a pinch of salt.",
+    "Add the sliced pork to the bowl and toss to coat evenly with the spice mixture.",
+    "Heat a large skillet over medium-high heat and sear the pork for 2-3 minutes per side, then set aside.",
+    "In the same skillet, add the sliced onions and cook until they are lightly charred, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the juiced lemons to the skillet and stir to combine with the onions and garlic.",
+    "Add the seared pork back to the skillet and stir to combine with the onion and lemon mixture.",
+    "Transfer the pork mixture to individual mini cocottes and bake in the preheated oven for 15-20 minutes, or until the pork is tender and lightly browned.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a portion of the pork mixture onto a warmed tortilla, and topping with chopped cilantro and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "mexican-food",
+    "pork-recipes",
+    "savory-dishes",
+    "tacos-al-pastor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intensely-savory-mexican-pork-tacos-al-pastor",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-savory-mexican-pork-tacos-al-pastor",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:38:48Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "blanch",
+    "primaryIngredient": "lemons",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "intensely savory",
+    "dishForm": "Tacos Al Pastor"
+  }
+}
