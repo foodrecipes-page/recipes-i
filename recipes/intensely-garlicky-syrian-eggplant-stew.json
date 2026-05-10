@@ -1,0 +1,94 @@
+{
+  "title": "Intensely Garlicky Syrian Eggplant Stew",
+  "description": "A comforting and flavorful Syrian stew featuring roasted eggplant, intense garlic, and a blend of aromatic spices, including shichimi-togarashi, finished with a tangy nuka-pickle garnish.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "preferably Italian or Japanese eggplant"
+    },
+    {
+      "name": "garlic",
+      "amount": "12 cloves",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "shichimi-togarashi",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the eggplant into 1-inch cubes and roast in the oven for 30 minutes, or until tender.",
+    "In a large pot, heat the olive oil over medium heat and saute the onion until translucent.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Stir in the shichimi-togarashi and cook for 1 minute, until fragrant.",
+    "Add the roasted eggplant, tomato paste, and vegetable broth to the pot, and bring to a boil.",
+    "Reduce the heat to low and simmer the stew for 20 minutes, stirring occasionally.",
+    "Season the stew with salt and pepper to taste, then garnish with chopped nuka-pickle.",
+    "Serve the stew hot, garnished with additional nuka-pickle if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aromatic",
+    "comfort-food",
+    "one-pot",
+    "syrian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intensely-garlicky-syrian-eggplant-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-garlicky-syrian-eggplant-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:10:26Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "shichimi-togarashi",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "eggplant",
+    "descriptor": "intensely garlicky",
+    "dishForm": "Stew"
+  }
+}
