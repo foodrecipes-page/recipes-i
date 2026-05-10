@@ -1,0 +1,96 @@
+{
+  "title": "Indulgent Mexican Wild Garlic Leaves Tacos",
+  "description": "Fresh and fluffy tacos filled with wild garlic leaves and deep-fry tofu, perfect for a shojin-friendly meal. This Oaxacan-inspired dish is a delight for the senses.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild garlic leaves",
+      "amount": "1 bunch",
+      "notes": "also known as ramps"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": "preferably handmade"
+    },
+    {
+      "name": "deep-fry tofu",
+      "amount": "1 block",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the sliced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the deep-fry tofu and cook until golden brown, about 5 minutes.",
+    "Add the wild garlic leaves and cook until wilted, about 2 minutes.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tacos by spooning the tofu and garlic leaf mixture onto a tortilla and squeezing a sliver of lime juice on top.",
+    "Season with salt to taste and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican-cuisine",
+    "oaxacan-inspired",
+    "shojin-friendly",
+    "tofu-recipes",
+    "vegetarian-meals",
+    "wild-garlic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "indulgent-mexican-wild-garlic-leaves-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-mexican-wild-garlic-leaves-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:56:34Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "shojin",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "wild garlic leaves",
+    "descriptor": "Indulgent",
+    "dishForm": "Tacos"
+  }
+}
