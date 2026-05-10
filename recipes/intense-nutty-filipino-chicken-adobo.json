@@ -1,0 +1,104 @@
+{
+  "title": "Intense Nutty Filipino Chicken Adobo",
+  "description": "A kid-friendly Filipino dish featuring liquid cheese and beurre-monte, this intense nutty chicken adobo is a diabetic-friendly twist on a classic recipe, with a velvety sauce and a rich nutty flavor.",
+  "cuisine": "Filipino",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "liquid cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the peanut oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken thighs and cook until browned on all sides, about 5-7 minutes.",
+    "Add the soy sauce, vinegar, bay leaves, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the liquid cheese and beurre-monte until the sauce is smooth and velvety.",
+    "Continue to simmer for an additional 10 minutes, or until the chicken is cooked through.",
+    "Serve the chicken and sauce over rice or noodles, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "diabetic-friendly",
+    "filipino-food",
+    "nutty-flavors",
+    "one-pot",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intense-nutty-filipino-chicken-adobo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-nutty-filipino-chicken-adobo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:16:35Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "beurre-monte",
+    "primaryIngredient": "liquid cheese",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "intense nutty",
+    "dishForm": "Adobo"
+  }
+}
