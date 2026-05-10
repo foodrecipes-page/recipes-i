@@ -1,0 +1,107 @@
+{
+  "title": "Intense Smoky Argentinian Vegetable Spring Rolls",
+  "description": "A smoky and savory Argentinian dish featuring egg roll wrappers and a variety of vegetables, perfect for a brunch gathering, this recipe is jain-friendly and packed with flavor. The combination of grilled vegetables and smoky seasonings creates a delicious and intense taste experience.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egg roll wrappers",
+      "amount": "12 wrappers",
+      "notes": "found in the frozen food section"
+    },
+    {
+      "name": "grilled zucchini",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "grilled red bell pepper",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the diced grilled zucchini, red bell pepper, smoked paprika, salt, and black pepper.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the chimichurri sauce to the skillet and stir to combine.",
+    "Add the vegetable mixture to the skillet and cook for 2 minutes until heated through.",
+    "Lay an egg roll wrapper on a flat surface and brush the edges with water.",
+    "Place about 1/4 cup of the vegetable mixture in the center of the wrapper.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Place the spring rolls on a baking sheet lined with parchment paper and bake for 12 minutes until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "brunch",
+    "jain-friendly",
+    "smoky",
+    "spring-rolls",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "intense-smoky-argentinian-vegetable-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-argentinian-vegetable-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:10:57Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "smoke-hot",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "vegetables",
+    "descriptor": "intense smoky",
+    "dishForm": "Spring-Rolls"
+  }
+}

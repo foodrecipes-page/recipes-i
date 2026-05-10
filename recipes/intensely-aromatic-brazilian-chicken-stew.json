@@ -1,0 +1,109 @@
+{
+  "title": "Intensely Aromatic Brazilian Chicken Stew",
+  "description": "A hearty and flavorful Brazilian chicken stew cooked in a banana leaf, perfect for a lazy Sunday, featuring the warmth of nutmeg and the freshness of grassy notes, this dish is flexitarian-friendly and can be easily adapted to suit various tastes.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the chicken, onion, garlic, nutmeg, and black pepper until the chicken is evenly coated.",
+    "Lay a banana leaf flat on a work surface and brush the center with olive oil.",
+    "Place one quarter of the chicken mixture in the center of the banana leaf, then spoon some coconut milk and diced tomatoes over the top.",
+    "Fold the banana leaf over the filling to form a tight packet, and repeat with the remaining ingredients.",
+    "Place the packets in a large baking dish and cover with foil.",
+    "Bake for 45 minutes, then remove the foil and continue baking for an additional 15 minutes.",
+    "Remove the packets from the oven and let them cool for a few minutes before serving.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-recipes",
+    "coconut-milk",
+    "one-pot",
+    "slow-cooked",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "intensely-aromatic-brazilian-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-aromatic-brazilian-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:10:59Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "simmer",
+    "primaryIngredient": "nutmeg",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "intensely aromatic",
+    "dishForm": "Stew"
+  }
+}

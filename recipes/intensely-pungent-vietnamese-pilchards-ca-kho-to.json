@@ -1,0 +1,95 @@
+{
+  "title": "Intensely Pungent Vietnamese Pilchards Ca Kho To",
+  "description": "A traditional Vietnamese dish featuring pilchards in a sweet and savory sauce, simmered to perfection, this recipe is FODMAP friendly and offers an energizing meal option.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pilchards",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a saucepan over medium heat.",
+    "Add minced garlic and sliced ginger and saute until fragrant.",
+    "Add fish sauce, soy sauce, and brown sugar, stirring to combine.",
+    "Add pilchards to the saucepan, stirring to coat with the sauce.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in chopped scallions and black pepper.",
+    "Continue to simmer for an additional 5 minutes.",
+    "Serve hot over rice or noodles.",
+    "Garnish with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "intensely-pungent-vietnamese-pilchards-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-pungent-vietnamese-pilchards-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:11:02Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "simmer",
+    "primaryIngredient": "pilchards",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pilchards",
+    "descriptor": "Intensely Pungent",
+    "dishForm": "Ca Kho To"
+  }
+}

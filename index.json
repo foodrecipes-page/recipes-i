@@ -7242,6 +7242,21 @@
     "shard": "i"
   },
   {
+    "slug": "intense-smoky-argentinian-vegetable-spring-rolls",
+    "title": "Intense Smoky Argentinian Vegetable Spring Rolls",
+    "tags": [
+      "argentinian",
+      "brunch",
+      "jain-friendly",
+      "smoky",
+      "spring-rolls",
+      "vegetarian"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "intense-smoky-australian-lamb-tagine",
     "title": "Intense Smoky Australian Lamb Tagine",
     "tags": [
@@ -8010,6 +8025,21 @@
     ],
     "cuisine": "Southern Thai",
     "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-aromatic-brazilian-chicken-stew",
+    "title": "Intensely Aromatic Brazilian Chicken Stew",
+    "tags": [
+      "brazilian-cuisine",
+      "chicken-recipes",
+      "coconut-milk",
+      "one-pot",
+      "slow-cooked",
+      "south-american"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 80,
     "shard": "i"
   },
   {
@@ -10336,6 +10366,20 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 150,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-pungent-vietnamese-pilchards-ca-kho-to",
+    "title": "Intensely Pungent Vietnamese Pilchards Ca Kho To",
+    "tags": [
+      "fish-based",
+      "gluten-free",
+      "low-carb",
+      "one-pan",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
