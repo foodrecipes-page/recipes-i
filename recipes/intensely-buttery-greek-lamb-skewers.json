@@ -1,0 +1,95 @@
+{
+  "title": "Intensely Buttery Greek Lamb Skewers",
+  "description": "A jammy and chewy Greek dish featuring lamb skewers with a rich buttery flavor, achieved through a wok-hei cooking technique, perfect for meal prep and dash-friendly cooking",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, aiming for a temperature of 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, black pepper, and oregano",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece",
+    "Grill the lamb skewers for 8-10 minutes, turning occasionally, until they are cooked through and slightly charred",
+    "While the lamb is cooking, melt the butter in a small saucepan over low heat",
+    "Once the lamb is done, brush the melted butter over the skewers, making sure they are fully coated",
+    "Serve the intensely buttery Greek lamb skewers hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "greek-cuisine",
+    "grilled",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "intensely-buttery-greek-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-buttery-greek-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:30:02Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "wok-hei",
+    "primaryIngredient": "butter",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Intensely buttery",
+    "dishForm": "Skewers"
+  }
+}
