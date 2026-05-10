@@ -1,0 +1,94 @@
+{
+  "title": "Intensely Jammy Algerian Digestive Biscuits Tagine",
+  "description": "A cozy Algerian dish featuring digestive biscuits cooked in a tagine with sweet and spicy flavors, wrapped in pandan leaves for a unique twist. This shojin-friendly recipe is perfect for a cold evening.",
+  "cuisine": "Algerian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "digestive biscuits",
+      "amount": "200g",
+      "notes": "crushed into fine crumbs"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12 large leaves"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the crushed digestive biscuits, sliced almonds, cinnamon, and ginger.",
+    "In a separate bowl, mix the apricot jam and pitted dates.",
+    "Add the jam and date mixture to the biscuit mixture and stir until well combined.",
+    "Lay a pandan leaf flat on a work surface and place a quarter of the biscuit mixture in the center of the leaf.",
+    "Fold the pandan leaf over the filling to form a triangle or square shape, and repeat with the remaining ingredients.",
+    "Place the pandan leaf wraps in a large baking dish and drizzle with coconut oil.",
+    "Bake the tagine for 25 minutes, or until the pandan leaves are crispy and the filling is warm and jammy.",
+    "Serve the intensely jammy Algerian digestive biscuits tagine warm, garnished with additional sliced almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "jammy-fillings",
+    "pandan-leaf-recipes",
+    "shojin-friendly",
+    "unique-desserts"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "intensely-jammy-algerian-digestive-biscuits-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-jammy-algerian-digestive-biscuits-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:28:24Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "tagine-cook",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "digestive biscuits",
+    "descriptor": "intensely jammy",
+    "dishForm": "Tagine"
+  }
+}
