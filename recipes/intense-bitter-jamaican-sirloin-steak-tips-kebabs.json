@@ -1,0 +1,97 @@
+{
+  "title": "Intense Bitter Jamaican Sirloin Steak Tips Kebabs",
+  "description": "A crowd-pleasing Jamaican dish featuring sirloin steak tips with a bitter and molten flavor, perfect for a plant-based friendly dinner option.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "allspice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2 peppers",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 melon",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together allspice, thyme, scotch bonnet peppers, soy sauce, salt, and black pepper.",
+    "Add the sirloin steak tips to the bowl and toss to coat with the marinade.",
+    "Thread the marinated steak tips onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, or until the steak reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Meanwhile, grill the diced bitter melon for 5 minutes, turning occasionally, or until tender.",
+    "Serve the kebabs with the grilled bitter melon on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-foods",
+    "crowd-pleaser",
+    "grilled-meat",
+    "jamaican-cuisine",
+    "plant-based",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "intense-bitter-jamaican-sirloin-steak-tips-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-bitter-jamaican-sirloin-steak-tips-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:37:45Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "knead",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sirloin steak tips",
+    "descriptor": "intense bitter",
+    "dishForm": "Kebabs"
+  }
+}
