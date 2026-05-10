@@ -1,0 +1,92 @@
+{
+  "title": "Indulgent Venezuelan Sweet Red Pepper Ceviche",
+  "description": "A salty, light, and indulgent Venezuelan dish featuring sweet red peppers and bonito shave, sugar-free-friendly and served in a scallop shell.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet red peppers",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallops",
+      "amount": "12 large",
+      "notes": "shells only"
+    }
+  ],
+  "instructions": [
+    "Rinse the sweet red peppers and remove the seeds and membranes.",
+    "In a large bowl, combine the diced sweet red peppers, shaved bonito flakes, thinly sliced red onion, and chopped cilantro.",
+    "Squeeze the lime juice over the mixture and toss to coat.",
+    "Season with salt to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, spoon the ceviche into the scallop shells.",
+    "Garnish with additional cilantro if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "latin-american",
+    "low-carb",
+    "quick",
+    "refreshing",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 6,
+    "fat": 2
+  },
+  "slug": "indulgent-venezuelan-sweet-red-pepper-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-venezuelan-sweet-red-pepper-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:34:05Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "sweet red peppers",
+    "descriptor": "indulgent light",
+    "dishForm": "Ceviche"
+  }
+}
