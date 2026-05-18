@@ -1,0 +1,105 @@
+{
+  "title": "intensely adventurous argentinian jammy shaggy empanadas",
+  "description": "shojin-friendly argentinian empanadas featuring coconut-cream-crack and oyster sauce filling.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375°f (190°c).",
+    "in a blender, combine coconut milk, shredded coconut, oyster sauce, soy sauce, and brown sugar. blend until smooth.",
+    "in a large mixing bowl, whisk together flour and softened butter until crumbly.",
+    "add eggs to the flour mixture and mix until a dough forms.",
+    "knead the dough for 5 minutes until smooth.",
+    "divide the dough into 8 equal pieces.",
+    "roll out each piece into a thin circle.",
+    "place a tablespoon of the coconut-cream-crack filling in the center of each circle.",
+    "fold the dough in half to form a half-circle and press edges together to seal.",
+    "place empanadas on a baking sheet lined with parchment paper and brush tops with egg wash.",
+    "bake for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "gluten-free-options",
+    "one-pan",
+    "party-food",
+    "shojin-friendly",
+    "vegan-options",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intensely-adventurous-argentinian-jammy-shaggy-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-adventurous-argentinian-jammy-shaggy-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T17:28:29Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "oyster sauce",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Jammy Shaggy",
+    "descriptor": "Intensely Adventurous",
+    "dishForm": "Empanadas"
+  }
+}
