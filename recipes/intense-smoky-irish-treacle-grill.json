@@ -1,0 +1,97 @@
+{
+  "title": "Intense Smoky Irish Treacle Grill",
+  "description": "A savory, shattering Irish dish featuring treacle and bonito-shave, perfect for a date-night. Serve in scallop shells for a unique presentation.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "treacle",
+      "amount": "120g"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "20g",
+      "notes": "shaved"
+    },
+    {
+      "name": "scallions",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Season the scallop shells with salt and pepper.",
+    "Drizzle the olive oil into the shells, then add a sprig of thyme.",
+    "In a small bowl, whisk together the treacle and lemon juice.",
+    "Add the minced garlic to the treacle mixture and whisk until well combined.",
+    "Brush the treacle mixture onto the scallop shells, then sprinkle with bonito flakes and scallions.",
+    "Place the shells on the grill and cook for 5 minutes, or until the treacle is caramelized and the bonito flakes are crispy.",
+    "Serve immediately, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "grill",
+    "irish",
+    "pescetarian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "intense-smoky-irish-treacle-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-smoky-irish-treacle-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:32:04Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "bonito-shave",
+    "primaryIngredient": "treacle",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Treacle",
+    "descriptor": "Intense Smoky",
+    "dishForm": "Grill"
+  }
+}
