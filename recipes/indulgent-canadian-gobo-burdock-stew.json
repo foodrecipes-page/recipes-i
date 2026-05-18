@@ -1,0 +1,96 @@
+{
+  "title": "indulgent canadian gobo-burdock stew",
+  "description": "this hearty stew combines the earthy flavors of gobo and burdock with a rich, silky sauce. a shojin-friendly, one-pot dish perfect for a cold canadian winter's night.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gobo",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "burdock",
+      "amount": "1 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tapioca starch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "1 piece"
+    }
+  ],
+  "instructions": [
+    "heat the sesame oil in a large pot over medium-low heat.",
+    "add the sliced gobo and burdock and cook, stirring occasionally, until they begin to soften, about 10 minutes.",
+    "add the red wine and bring to a simmer, scraping up any browned bits from the bottom of the pot.",
+    "add the vegetable broth and kombu seaweed, and bring to a boil.",
+    "reduce the heat to low and simmer, covered, for 20 minutes.",
+    "remove the kombu seaweed and discard.",
+    "stir in the tapioca starch and cook for an additional 5 minutes, or until the stew has thickened slightly.",
+    "season with black pepper to taste.",
+    "serve hot, garnished with chopped green onions or sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "high-fiber",
+    "one-pot",
+    "plant-based",
+    "vegan-stew",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "indulgent-canadian-gobo-burdock-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-canadian-gobo-burdock-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T14:38:45Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "gobo-burdock",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "gobo-burdock",
+    "descriptor": "indulgent",
+    "dishForm": "stew"
+  }
+}
