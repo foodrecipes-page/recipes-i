@@ -1,0 +1,100 @@
+{
+  "title": "icy venezuelan cassava pilaf",
+  "description": "a refreshing twist on traditional venezuelan cassava dish, combined with yuzu-cured flavors and crunchy texture.",
+  "cuisine": "venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cassava flour",
+      "amount": "2 cups",
+      "notes": "preferably freshly grated"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup",
+      "notes": "see yuzu-cure recipe below"
+    },
+    {
+      "name": "yuzu-cured chicken",
+      "amount": "1 chicken breast",
+      "notes": "see yuzu-cure recipe below"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried cilantro",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": ".5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "bring 2 cups of water to a boil in a medium saucepan over high heat.",
+    "add 1 tsp of salt and 1 tsp of dried parsley. stir to combine.",
+    "reduced heat to low and gently stir in 2 cups of cassava flour. let cook for 5 minutes or until pilaf is fluffy and water is mostly absorbed.",
+    "transfer the pilaf to a large bowl and let cool to room temperature.",
+    "in a separate pan, caramelize 1 chicken breast (see yuzu-cure recipe below).",
+    "in a separate bowl, mix together 1/4 cup of yuzu juice and chopped scallions.",
+    "in a large serving dish, arrange the cooled pilaf, chicken breast, and yuzu-scallion mixture.",
+    "garnish with dried cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 80,
+    "fat": 15
+  },
+  "slug": "icy-venezuelan-cassava-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-venezuelan-cassava-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:24:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "starch",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cassava",
+    "descriptor": "icy",
+    "dishForm": "Pilaf"
+  }
+}
