@@ -1,0 +1,101 @@
+{
+  "title": "Indulgent Norwegian Lamb Pilaf",
+  "description": "A rich and savory lamb pilaf, flavored with pickled mustard greens and served in an earthenware bowl.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb mince",
+      "amount": "250g"
+    },
+    {
+      "name": "Pickled mustard greens",
+      "amount": "60g"
+    },
+    {
+      "name": "White rice",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large saucepan over medium-high heat. Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the lamb mince and cook, breaking it up with a spoon, until browned and cooked through.",
+    "Stir in the pickled mustard greens, caraway seeds, thyme, salt, and pepper.",
+    "Add the white rice and stir to combine.",
+    "Add 400ml of hot water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 5 minutes.",
+    "Remove from heat and let sit for 5 minutes before serving.",
+    "To make the pasta-water emulsion, blend 100g of cooked white rice with 100ml of hot water in a blender until smooth.",
+    "Serve the lamb pilaf in an earthenware bowl, topped with a drizzle of pasta-water emulsion."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "one-pan",
+    "pasta-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 50,
+    "fat": 28
+  },
+  "slug": "indulgent-norwegian-lamb-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-norwegian-lamb-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:03:04Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "lamb mince",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Indulgent",
+    "dishForm": "Pilaf"
+  }
+}
