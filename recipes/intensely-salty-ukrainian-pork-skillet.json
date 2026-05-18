@@ -1,0 +1,95 @@
+{
+  "title": "Intensely Salty Ukrainian Pork Skillet",
+  "description": "A one-pot Ukrainian dish featuring yuzu and pork, served in a stone bowl, keto-friendly and full of flavor",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "pork fat",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the pork fat in a large stone bowl or skillet over medium-high heat",
+    "Add the pork pieces and cook until browned on all sides, about 5 minutes",
+    "Add the minced garlic and cook for 1 minute, until fragrant",
+    "Add the chopped onion and cook until translucent, about 3 minutes",
+    "Add the yuzu juice, salt, and black pepper, and stir to combine",
+    "Reduce heat to medium-low and simmer, covered, for 20 minutes",
+    "Stir in the chopped parsley and cook for an additional 2 minutes",
+    "Serve hot, garnished with additional parsley if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "pork-recipes",
+    "stone-bowl-recipes",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "intensely-salty-ukrainian-pork-skillet",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-salty-ukrainian-pork-skillet",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-18T08:10:30Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "yuzu",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "Intensely salty",
+    "dishForm": "Skillet"
+  }
+}

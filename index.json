@@ -2216,6 +2216,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-german-snapper-fish-tagine",
+    "title": "german snapper fish tagine",
+    "tags": [
+      "anti-inflammatory",
+      "fish-stew",
+      "german",
+      "gluten-free",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-glassy-filipino-mirin-hon-toast",
     "title": "Indulgent Glassy Filipino Mirin-hon Toast",
     "tags": [
@@ -11414,6 +11430,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-salty-ukrainian-pork-skillet",
+    "title": "Intensely Salty Ukrainian Pork Skillet",
+    "tags": [
+      "keto-friendly",
+      "low-carb",
+      "one-pot",
+      "pork-recipes",
+      "stone-bowl-recipes",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {

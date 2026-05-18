@@ -1,0 +1,125 @@
+{
+  "title": "german snapper fish tagine",
+  "description": "A rich and flavorful German-inspired tagine recipe featuring flaky snapper fish, infused with anti-inflammatory spices and fermented ingredients.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper fillets (4 pieces, 120g each)",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Ginger, sliced",
+      "amount": "2 inches",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "1 tsp",
+      "notes": "Whole"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 tsp",
+      "notes": "Whole"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp",
+      "notes": "Whole"
+    },
+    {
+      "name": "Fermented sauerkraut",
+      "amount": "1 cup",
+      "notes": "Drained and chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra-virgin"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": "Dry"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Unrefined"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic tagine over medium heat.",
+    "Add sliced ginger and cook for 2 minutes, until fragrant.",
+    "Add minced garlic and cook for an additional minute, until softened.",
+    "Add fennel seeds, turmeric, coriander seeds, and mustard seeds. Cook for 1 minute, stirring constantly.",
+    "Add snapper fillets and cook for 2 minutes on each side, until browned.",
+    "Add fermented sauerkraut, white wine, chicken broth, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer, covered, for 8-10 minutes, or until the fish is cooked through.",
+    "Serve hot, garnished with fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "fish-stew",
+    "german",
+    "gluten-free",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "indulgent-german-snapper-fish-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-german-snapper-fish-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:10:21Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "tagine-cook",
+    "primaryIngredient": "snapper fish",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "snapper fish",
+    "descriptor": "indulgent",
+    "dishForm": "Tagine"
+  }
+}
