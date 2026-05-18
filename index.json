@@ -1406,6 +1406,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-australian-malty-wrap",
+    "title": "Indulgent Australian Malty Wrap",
+    "tags": [
+      "australian",
+      "dessert",
+      "glassy-jelly",
+      "low-calorie",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-australian-salmon-curry",
     "title": "Indulgent Australian Salmon Curry",
     "tags": [

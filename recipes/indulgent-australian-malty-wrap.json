@@ -1,0 +1,109 @@
+{
+  "title": "Indulgent Australian Malty Wrap",
+  "description": "A low-calorie-friendly, malty, glassy-jelly dessert featuring rapeseed oil, leaf-wrapped and steamed to perfection.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut palm sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rapeseed oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "strawberries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "blueberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer and prepare a large leaf for steaming.",
+    "In a large bowl, whisk together the rice flour, coconut palm sugar, and baking powder.",
+    "In a separate bowl, whisk together the unsweetened almond milk, rapeseed oil, large egg, vanilla extract, and almond extract.",
+    "Add the wet ingredients to the dry ingredients and mix until well combined.",
+    "Add the strawberries and blueberries to the mixture and fold in gently.",
+    "Place the mixture onto the prepared leaf, leaving a 1 inch border around the edges.",
+    "Fold the leaf over the filling and steam for 20 minutes.",
+    "Remove from heat and let cool for 5 minutes.",
+    "Drizzle with honey before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "dessert",
+    "glassy-jelly",
+    "low-calorie",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 44,
+    "fat": 8
+  },
+  "slug": "indulgent-australian-malty-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-australian-malty-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:39:29Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "malty",
+    "descriptor": "indulgent",
+    "dishForm": "wrap"
+  }
+}
