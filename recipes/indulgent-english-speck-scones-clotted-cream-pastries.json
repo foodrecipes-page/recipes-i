@@ -1,0 +1,102 @@
+{
+  "title": "Indulgent English Speck Scones Clotted Cream Pastries",
+  "description": "A tangy, snappy, one-pot British dish featuring speck, en-croute, gluten-free-friendly, forming scones with clotted cream.",
+  "cuisine": "english",
+  "diet": [
+    "gluten-free",
+    "pork-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sugar",
+      "amount": "250g"
+    },
+    {
+      "name": "almond flour",
+      "amount": "200g"
+    },
+    {
+      "name": "butter",
+      "amount": "150g",
+      "notes": "chilled, cut into small pieces"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "speck",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "120ml"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "120g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "In a large mixing bowl, combine sugar, almond flour, and salt. Whisk until well combined.",
+    "Add chilled butter to the dry ingredients and use a pastry blender or your fingers to work it into the mixture until it resembles coarse crumbs.",
+    "In a separate bowl, whisk together eggs and heavy cream. Add vanilla extract and whisk until smooth.",
+    "Pour the wet ingredients into the dry ingredients and mix until a shaggy dough forms.",
+    "Turn the dough out onto a lightly floured surface and gently knead it a few times until it comes together.",
+    "Roll the dough out to about 1 inch (2.5 cm) thickness. Use a biscuit cutter or the rim of a glass to cut out scones.",
+    "Place the scones on the prepared baking sheet, leaving about 1 inch (2.5 cm) of space between each scone.",
+    "Bake for 18-20 minutes, or until the scones are golden brown.",
+    "While the scones are baking, prepare the clotted cream mixture by whisking together clotted cream and a pinch of salt.",
+    "Once the scones are done, remove them from the oven and let them cool on a wire rack for a few minutes.",
+    "Split the scones in half horizontally and top with a dollop of clotted cream mixture and a few pieces of speck."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "clotted-cream",
+    "english",
+    "gluten-free",
+    "one-pot",
+    "scones",
+    "speck"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "indulgent-english-speck-scones-clotted-cream-pastries",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-english-speck-scones-clotted-cream-pastries",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:47:33Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "en-croute",
+    "primaryIngredient": "speck",
+    "diet": "gluten-free",
+    "region": "english",
+    "cuisineAdjective": "English",
+    "mainIngredient": "Speck",
+    "descriptor": "Indulgent",
+    "dishForm": "Scones Clotted Cream Pastries"
+  }
+}
