@@ -1,0 +1,111 @@
+{
+  "title": "Croatian Chickpea Flour Wrap",
+  "description": "Intensely umami, snappy, cozy Croatian dish featuring chickpea flour, steamed in a leaf wrap. Rajasic and Ayurvedic friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "collard greens leaves",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "Mix chickpea flour and water in a bowl to form a smooth batter.",
+    "Add mung bean sprouts, kalamata olives, garlic, parsley, sun-dried tomatoes, red pepper flakes, lemon juice, salt, and black pepper to the bowl. Mix well.",
+    "Heat a non-stick pan over medium heat. Pour 1 tablespoon of oil and swirl to coat.",
+    "Using a ladle, pour 1/2 cup of the batter into the pan and spread evenly to form a small circle.",
+    "Cook for 2 minutes or until the edges start to curl and the surface is dry.",
+    "Flip the wrap and cook for another minute.",
+    "Place a collard greens leaf on a plate, add the cooked wrap to the center of the leaf, and fold the leaf to enclose the wrap.",
+    "Repeat with the remaining batter to make 3-4 wraps.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "high-protein",
+    "plant-based",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "intensely-umami-croatian-chickpea-flour-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-umami-croatian-chickpea-flour-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:19:08Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "chickpea flour",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chickpea flour",
+    "descriptor": "intensely umami",
+    "dishForm": "Wrap"
+  }
+}
