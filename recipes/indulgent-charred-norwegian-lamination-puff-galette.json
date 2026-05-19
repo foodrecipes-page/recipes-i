@@ -1,0 +1,97 @@
+{
+  "title": "Indulgent Charred Norwegian Lamination-puff Galette",
+  "description": "A rich and decadent Norwegian dessert featuring layers of lamination-puff pastry, topped with a charred and caramelized cranberry glaze.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Lamination-puff pastry",
+      "amount": "1 box (12 sheets)",
+      "notes": ""
+    },
+    {
+      "name": "Cranberry juice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C) and line a baking sheet with parchment paper.",
+    "Roll out the lamination-puff pastry to a thickness of 1/4 inch (6 mm) and cut into 4-6 squares depending on the size you prefer.",
+    "In a small saucepan, combine the cranberry juice, brown sugar, and unsalted butter. Bring to a boil over medium heat, then reduce the heat to low and simmer for 5-7 minutes or until the glaze has thickened slightly.",
+    "Brush the tops of the pastry squares with the heavy cream and sprinkle with granulated sugar.",
+    "Place the pastry squares on the prepared baking sheet and bake for 12-15 minutes or until golden brown.",
+    "While the pastry is baking, whisk the egg and vanilla extract together in a small bowl.",
+    "Remove the pastry from the oven and brush with the egg mixture, then return to the oven and bake for an additional 2-3 minutes or until the pastry is puffed and golden brown.",
+    "Remove the pastry from the oven and let cool for 5 minutes before topping with the charred and caramelized cranberry glaze.",
+    "Drizzle the cranberry glaze over the top of the pastry and serve warm, garnished with fresh berries if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "high-calorie",
+    "norwegian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 24
+  },
+  "slug": "indulgent-charred-norwegian-lamination-puff-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-charred-norwegian-lamination-puff-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T07:49:38Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "lamination-puff",
+    "primaryIngredient": "cranberry juice",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Lamination-puff",
+    "descriptor": "Indulgent charred",
+    "dishForm": "Galette"
+  }
+}
