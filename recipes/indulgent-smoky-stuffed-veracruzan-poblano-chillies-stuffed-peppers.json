@@ -1,0 +1,111 @@
+{
+  "title": "indulgent smoky stuffed veracruzan poblano chillies",
+  "description": "a mexican veracruzan dish featuring crunchy, smoky poblano chillies stuffed with a savory satvik filling.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "poblano chillies",
+      "amount": "4"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese (Monterey Jack or similar)",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375°f (190°c).",
+    "roast poblano chillies on a baking sheet at 400°f (200°c) for 10 minutes, turning frequently, until blistered and charred.",
+    "remove chillies from oven and let cool in a bowl covered with plastic wrap for 10 minutes.",
+    "once cool enough to handle, peel off skin, remove seeds, and cut a slit down one side of each chillie.",
+    "saute onion and garlic in oil until softened, about 5 minutes.",
+    "stir in cooked quinoa, smoked paprika, cumin, chili powder, salt, and pepper. Cook for 2 minutes.",
+    "stuff each chillie with the quinoa mixture and place seam-side down in a baking dish.",
+    "top each chillie with shredded cheese (if using) and bake at 375°f (190°c) for 10-15 minutes, until cheese is melted and bubbly.",
+    "serve immediately, garnished with chopped fresh cilantro (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "quick-fix",
+    "veracruz",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "indulgent-smoky-stuffed-veracruzan-poblano-chillies-stuffed-peppers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-smoky-stuffed-veracruzan-poblano-chillies-stuffed-peppers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T17:47:21Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "smoke",
+    "primaryIngredient": "paprika",
+    "diet": "satvik",
+    "region": "veracruzan",
+    "cuisineAdjective": "Veracruzan",
+    "mainIngredient": "Poblano Chillies",
+    "descriptor": "Indulgent Smoky Stuffed",
+    "dishForm": "Stuffed Peppers"
+  }
+}
