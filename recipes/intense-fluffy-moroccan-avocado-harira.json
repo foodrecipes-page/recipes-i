@@ -1,0 +1,124 @@
+{
+  "title": "intense fluffy moroccan avocado harira",
+  "description": "a rich and comforting moroccan-inspired stew featuring avocado hass pulp, perfect for meal prep. this harira is winey and fluffy, with a depth of flavor that's simply irresistible.",
+  "cuisine": "moroccan",
+  "diet": [
+    "plant-based-friendly",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "avocado hass pulp",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can ( drained and rinsed )"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat. add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and grated ginger to the saucepan and cook for an additional 1 minute.",
+    "stir in the cumin, coriander, cayenne pepper, salt, and black pepper. cook for 1 minute.",
+    "add the red lentils, chickpeas, and avocado hass pulp to the saucepan. stir to combine.",
+    "pour in the lemon juice and 4 cups of water. bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "use an immersion blender to puree the harira until smooth. or, allow the harira to cool and puree it in a blender.",
+    "return the harira to the saucepan and cook over low heat for an additional 5 minutes, stirring occasionally.",
+    "taste and adjust the seasoning as needed. serve the harira hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "avocado",
+    "high-protein",
+    "lentil",
+    "meal-prep",
+    "moroccan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "intense-fluffy-moroccan-avocado-harira",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-fluffy-moroccan-avocado-harira",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T16:33:33Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "tagine-cook",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Avocado",
+    "descriptor": "Intense Fluffy",
+    "dishForm": "Harira"
+  }
+}
