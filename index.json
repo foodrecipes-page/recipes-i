@@ -2980,6 +2980,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-mediterranean-shrimp-paella",
+    "title": "indulgent mediterranean shrimp paella",
+    "tags": [
+      "date-night",
+      "high-protein",
+      "lacto-vegetarian",
+      "mediterranean",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-mediterranean-tofu-pasta",
     "title": "Indulgent Mediterranean Tofu Pasta",
     "tags": [

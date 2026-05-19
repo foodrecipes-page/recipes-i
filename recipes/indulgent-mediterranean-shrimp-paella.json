@@ -1,0 +1,123 @@
+{
+  "title": "indulgent mediterranean shrimp paella",
+  "description": "tender shrimp and vegetable paella with a rich lacquer glaze, perfect for a date night dinner.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "lacto-vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp paste",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "rice",
+      "amount": "1 1/2 cups",
+      "notes": "calasparra or Spanish-style"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing the pan"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "flaky sea salt or kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 tsp",
+      "notes": "soaked in 1 tbsp hot water"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "add the chopped onion and cook until translucent, about 5 minutes.",
+    "add the chopped red bell pepper and cook for an additional 2 minutes.",
+    "add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "add the tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "add the rice and cook for 1-2 minutes, stirring constantly to coat the rice in the oil and mix with the tomato paste.",
+    "add the chicken broth, salt, and black pepper, and stir to combine.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer for 15-20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "while the paella is cooking, prepare the lacquer glaze by mixing the shrimp paste with 1 tbsp of hot water until smooth.",
+    "after the paella has been cooking for 15-20 minutes, add the lacquer glaze and stir to combine.",
+    "add the artichoke hearts and saffron threads to the paella and stir to combine.",
+    "continue to cook the paella for an additional 2-3 minutes, or until the lacquer glaze has set and the rice is lightly browned on the bottom."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "lacto-vegetarian",
+    "mediterranean",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 32,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "indulgent-mediterranean-shrimp-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-mediterranean-shrimp-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T21:51:16Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "shrimp paste",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "shrimp",
+    "descriptor": "Indulgent",
+    "dishForm": "Paella"
+  }
+}
