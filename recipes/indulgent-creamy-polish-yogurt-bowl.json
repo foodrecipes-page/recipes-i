@@ -1,0 +1,93 @@
+{
+  "title": "Indulgent Creamy Polish Yogurt Bowl",
+  "description": "A malty, cheesy dish featuring full-fat yogurt, ferment-kimchi, and a nut-free friendly slate tile vessel.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "full-fat yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated Jarlsberg cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a small pan, heat the olive oil over medium heat.",
+    "Add the caraway seeds and cook for 1 minute, until fragrant.",
+    "Add the scallions and cook for an additional 2 minutes.",
+    "Stir in the sour cream and grated Jarlsberg cheese until smooth.",
+    "In a separate bowl, combine the full-fat yogurt and ferment-kimchi.",
+    "Spoon the yogurt mixture into a slate tile vessel.",
+    "Top with the caraway-seed scallion mixture and a sprinkle of salt and pepper.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-clean-up",
+    "high-protein",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "indulgent-creamy-polish-yogurt-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-creamy-polish-yogurt-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T09:38:39Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "full fat yogurt",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "yogurt",
+    "descriptor": "Indulgent Creamy",
+    "dishForm": "Bowl"
+  }
+}
