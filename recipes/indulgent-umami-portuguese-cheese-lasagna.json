@@ -1,0 +1,117 @@
+{
+  "title": "Indulgent Umami Portuguese Cheese Lasagna",
+  "description": "A rich, cheesy lasagna dish with an umami kick, featuring hoisin sauce, tadka, and a hint of smokiness. This shojin-friendly recipe makes a perfect dinner for special occasions.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "12",
+      "notes": "Gluten-free noodles are recommended"
+    },
+    {
+      "name": "Tadka oil",
+      "amount": "1/4 cup",
+      "notes": "Ghee or vegetable oil can be used as a substitute"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "2 tbsp",
+      "notes": "For added umami flavor"
+    },
+    {
+      "name": "Shredded cheese blend",
+      "amount": "2 cups",
+      "notes": "Combine mozzarella, parmesan, and cheddar for the best results"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, heat the tadka oil over medium-high heat. Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant. Then add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Stir in the hoisin sauce and cook for 1-2 minutes, until the flavors have melded together.",
+    "In a large bowl, combine the cooked noodles, mushroom mixture, and half of the shredded cheese blend. Mix well to combine.",
+    "Transfer the noodle mixture to a 9x13-inch baking dish and top with the remaining cheese blend.",
+    "Bake the lasagna in the preheated oven for 25-30 minutes, until the cheese is melted and bubbly.",
+    "Remove the lasagna from the oven and let it rest for 10-15 minutes before slicing and serving.",
+    "Garnish with chopped parsley and basil, and serve hot.",
+    "Optional: Add a sprinkle of grated Parmesan cheese on top of each serving for an extra burst of flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "cheese-pull",
+    "lacto-ovo-vegetarian",
+    "one-pan",
+    "portuguese",
+    "shojin-friendly",
+    "umami",
+    "veggie-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "indulgent-umami-portuguese-cheese-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-umami-portuguese-cheese-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T04:31:36Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "tadka",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cheese",
+    "descriptor": "Indulgent Umami",
+    "dishForm": "Lasagna"
+  }
+}

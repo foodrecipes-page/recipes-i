@@ -4458,6 +4458,23 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-umami-portuguese-cheese-lasagna",
+    "title": "Indulgent Umami Portuguese Cheese Lasagna",
+    "tags": [
+      "cheese-pull",
+      "lacto-ovo-vegetarian",
+      "one-pan",
+      "portuguese",
+      "shojin-friendly",
+      "umami",
+      "veggie-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-uruguayan-soy-cake",
     "title": "Indulgent Uruguayan Soy Cake",
     "tags": [
