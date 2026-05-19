@@ -1,0 +1,105 @@
+{
+  "title": "Intense Molten Uruguayan Beef Casserole",
+  "description": "A tangy and molten Uruguayan dish featuring sake-cooked beef, wood-fired baked to perfection, perfect as a hangover cure.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "sake",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "wood-fired smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the sake, tomato paste, smoked paprika, salt, and black pepper, stirring to combine.",
+    "Bring the mixture to a simmer and cook until the liquid has reduced by half.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with shredded cheddar cheese.",
+    "Bake in the preheated wood-fired oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hangover-cure",
+    "high-protein",
+    "one-pan",
+    "south-american",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "intense-molten-uruguayan-beef-casserole",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-molten-uruguayan-beef-casserole",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-19T08:11:51Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "sake-cooking",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Intense Molten",
+    "dishForm": "Casserole"
+  }
+}
