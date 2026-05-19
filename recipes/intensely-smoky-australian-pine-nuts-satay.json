@@ -1,0 +1,106 @@
+{
+  "title": "intensely smoky australian pine nuts satay",
+  "description": "a snappy and resinous australian dish featuring pine nuts, smoke, and satvik-friendly flavors",
+  "cuisine": "australian",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pine nuts",
+      "amount": "1 1/2 cups",
+      "notes": "unsalted and dry roasted"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat canned coconut milk"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "high-quality smoked paprika"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat grill to 400°F (200°C) and brush with coconut oil",
+    "soak 12-15 bamboo skewers in water for at least 30 minutes",
+    "thread 2-3 pine nuts onto each skewer, leaving a small space between each nut",
+    "in a small bowl, whisk together coconut milk, lemon juice, apple cider vinegar, smoked paprika, and minced garlic",
+    "brush the pine nut skewers with the coconut milk mixture and sprinkle with salt",
+    "grill the skewers for 4-5 minutes on each side, or until slightly charred and smoky",
+    "remove the skewers from the grill and sprinkle with chopped cilantro",
+    "serve the satay immediately, garnished with additional cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "gluten-free",
+    "grilled",
+    "smoky",
+    "snack",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "intensely-smoky-australian-pine-nuts-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-australian-pine-nuts-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T22:11:46Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "smoke",
+    "primaryIngredient": "pine nuts",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Pine Nuts",
+    "descriptor": "Intensely Smoky",
+    "dishForm": "Satay"
+  }
+}
