@@ -1,0 +1,120 @@
+{
+  "title": "Indulgent Kenyan Minari Roast",
+  "description": "A tender and peppery Kenyan dish featuring minari and cured meat, perfect for a solo dinner.",
+  "cuisine": "kenyan",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minari (20 pieces)",
+      "amount": "1 bunch",
+      "notes": "use small, tender shoots"
+    },
+    {
+      "name": "cured beef strips",
+      "amount": "120g",
+      "notes": "low-sodium, cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, whisk together coriander powder, cumin powder, paprika, salt, and black pepper.",
+    "Add the sliced onion, minced garlic, and grated ginger to the bowl and toss to coat.",
+    "Add the minari shoots to the bowl and toss to combine.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Add the cured beef strips and cook for 2-3 minutes on each side, until browned.",
+    "Transfer the skillet to the preheated oven and roast for 12-15 minutes.",
+    "Remove the skillet from the oven and add the lemon juice to the bowl with the minari and onion mixture.",
+    "Toss the mixture to combine and add it to the skillet with the cured beef.",
+    "Return the skillet to the oven and roast for an additional 5-7 minutes, until the minari is tender.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jain",
+    "kenyan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "indulgent-kenyan-minari-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-kenyan-minari-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T14:05:11Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "cure",
+    "primaryIngredient": "minari",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Minari",
+    "descriptor": "Indulgent",
+    "dishForm": "Roast"
+  }
+}
