@@ -1,0 +1,119 @@
+{
+  "title": "Intense Middle-Eastern Italian Fennel Sausages Jaffa Wrap",
+  "description": "A flavor explosion of Italian fennel sausages, Middle-Eastern spices, and the crunch of fresh vegetables, all wrapped in a warm naan bread.",
+  "cuisine": "Middle-Eastern Italian",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Italian Fennel Sausages",
+      "amount": "4",
+      "notes": "preferably sweet or mild links"
+    },
+    {
+      "name": "Pita Bread (naan)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Jaffa Potatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Red Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over high heat.",
+    "Add 1 tablespoon olive oil and swirl to coat the pan.",
+    "Add the Italian Fennel Sausages and cook, turning occasionally, until browned and cooked through, about 5 minutes.",
+    "Remove the sausages from the pan and set aside.",
+    "Add the remaining 1 tablespoon olive oil, chopped red onion, and minced garlic to the pan.",
+    "Cook, stirring occasionally, until the onion is translucent, about 3-4 minutes.",
+    "Add the roasted Jaffa potatoes, chopped parsley, salt, and black pepper to the pan.",
+    "Stir to combine and cook for 1-2 minutes.",
+    "Transfer the cooked sausage to the pan, breaking it up with a spoon if necessary.",
+    "Stir to combine with the potato mixture.",
+    "Warm the pita bread in the oven or in a dry skillet for a few minutes.",
+    "Assemble the wraps by spooning the sausage and potato mixture onto a warmed pita, topping with a dollop of tahini and a sprinkle of lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian-fusion",
+    "lunch-idea",
+    "middle-eastern",
+    "one-pan",
+    "weeknight",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 25
+  },
+  "slug": "intense-middle-eastern-italian-fennel-sausages-jaffa-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-middle-eastern-italian-fennel-sausages-jaffa-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T06:05:59Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "wok-hei",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Italian Fennel Sausages",
+    "descriptor": "Intense",
+    "dishForm": "Jaffa Wrap"
+  }
+}
