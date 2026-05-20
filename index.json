@@ -674,6 +674,22 @@
     "shard": "i"
   },
   {
+    "slug": "icy-showy-argentinian-sausage-paella",
+    "title": "icy showy argentinian sausage paella",
+    "tags": [
+      "argentinian",
+      "high-protein",
+      "one-pan",
+      "paella",
+      "saffron",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "icy-silky-brazilian-rice-gratin",
     "title": "Icy Silky Brazilian Rice Gratin",
     "tags": [
@@ -9364,6 +9380,19 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 200,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-braised-slovakian-chicken-braised",
+    "title": "Intensely Braised Slovakian Chicken Braised",
+    "tags": [
+      "high-protein",
+      "macros-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {

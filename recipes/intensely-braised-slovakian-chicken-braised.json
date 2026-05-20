@@ -1,0 +1,63 @@
+{
+  "title": "Intensely Braised Slovakian Chicken Braised",
+  "description": "A hearty, salt-forward Slovakian dish featuring chicken thighs in a rich braise, made using a bamboo steamer for a unique texture. This braised chicken is a great option for a weeknight meal, and is macrobiotic-friendly.",
+  "cuisine": "slovakian",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 chicken thighs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons caraway seeds",
+      "amount": "",
+      "notes": "available at most well-stocked grocery stores or online"
+    }
+  ],
+  "type": "undefined",
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large clai in a bamboo steamer over medium-high heat.",
+    "Add the chicken thighs and brown on all sides, 2-3 minutes per side.",
+    "Transfer the chicken to the steamer basket of the bamboo steamer, in a single layer, skin side up.",
+    "Cover with a clean towel and place over boiling water in a large pot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "macros-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 44,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "intensely-braised-slovakian-chicken-braised",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-braised-slovakian-chicken-braised",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:09:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "braise",
+    "primaryIngredient": "chicken thighs",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chicken",
+    "descriptor": "intensely braised",
+    "dishForm": "Braised"
+  }
+}

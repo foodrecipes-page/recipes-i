@@ -1,0 +1,105 @@
+{
+  "title": "icy showy argentinian sausage paella",
+  "description": "this show-off dish features spicy argentinian sausage and silky saffron-infused rice, all in a single pan.",
+  "cuisine": "argentinian",
+  "meal": "dinner",
+  "difficulty": "medium",
+  "ingredients": [
+    {
+      "name": "argentinian sausage",
+      "amount": "1 pound",
+      "notes": "spicy chorizo or moronga"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups",
+      "notes": "medium-grain or calrose"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 teaspoon",
+      "notes": "high-quality"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet or hot"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "1 teaspoon",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large paella pan or skillet over medium-high heat",
+    "add the diced red bell pepper and cook until tender, about 5 minutes",
+    "add the sliced argentinian sausage and cook until browned, about 5 minutes",
+    "add the uncooked white rice and chicken broth to the pan, stirring to combine",
+    "bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes",
+    "stir in the saffron threads, smoked paprika, and bhuna spice blend",
+    "cook for an additional 5 minutes, or until the rice is tender and the liquid has been absorbed",
+    "stir in the lemon juice and cook for 1 minute",
+    "remove the pan from the heat and let it rest, covered, for 5 minutes",
+    "fluff the paella with a fork and serve hot",
+    "serve immediately, garnished with chopped fresh cilantro or scallions if desired"
+  ],
+  "servings": 4,
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "nutrition": {
+    "calories": 650,
+    "protein": 34,
+    "carbs": 80,
+    "fat": 24
+  },
+  "tags": [
+    "argentinian",
+    "high-protein",
+    "one-pan",
+    "paella",
+    "saffron",
+    "spicy",
+    "weeknight"
+  ],
+  "diet": null,
+  "slug": "icy-showy-argentinian-sausage-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-showy-argentinian-sausage-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:09:35Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "sausage",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Sausage",
+    "descriptor": "Icy Showy",
+    "dishForm": "Paella"
+  }
+}
