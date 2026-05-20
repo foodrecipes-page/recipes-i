@@ -1,0 +1,118 @@
+{
+  "title": "Intense Peppery Egyptian Chestnut Hash",
+  "description": "A hearty and flavorful breakfast dish featuring cooked chestnut, sous-vide eggs, and a kick of pepper. Perfect for high-protein lovers and anyone looking for a bold brunch option.",
+  "cuisine": "egyptian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "16 oz",
+      "notes": "fresh or frozen, peeled and chopped"
+    },
+    {
+      "name": "red onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tbsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "sous-vide eggs",
+      "amount": "4",
+      "notes": "cooked to desired doneness"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for serving, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat sous-vide machine to 145°F (63°C).",
+    "Season the chopped chestnuts with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat. Add the sliced red onions and cook for 5 minutes, stirring occasionally.",
+    "Add the minced garlic to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the chopped chestnuts to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Stir in the ground cumin, chili flakes (if using), and black pepper. Cook for 1 minute.",
+    "Place the cooked sous-vide eggs on top of the chestnut mixture.",
+    "Garnish with chopped parsley and serve with lemon juice on the side (if desired).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "chestnuts",
+    "egyptian-cuisine",
+    "high-protein",
+    "one-pan",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "intense-peppery-egyptian-chestnut-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-peppery-egyptian-chestnut-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:30:09Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "sous-vide",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chestnut",
+    "descriptor": "intense peppery",
+    "dishForm": "Hash"
+  }
+}

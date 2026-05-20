@@ -1272,6 +1272,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-aerated-canadian-cottage-cheese-bake",
+    "title": "Indulgent Aerated Canadian Cottage Cheese Bake",
+    "tags": [
+      "aerated",
+      "canadian",
+      "comfort-food",
+      "cottage-cheese",
+      "indulgent",
+      "lacto-vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 65,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-aerated-portuguese-red-bean-paste-pastry",
     "title": "indulgent aerated portuguese red bean paste pastry",
     "tags": [
@@ -7224,6 +7239,23 @@
       "weeknight"
     ],
     "cuisine": "Dutch",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-peppery-egyptian-chestnut-hash",
+    "title": "Intense Peppery Egyptian Chestnut Hash",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "chestnuts",
+      "egyptian-cuisine",
+      "high-protein",
+      "one-pan",
+      "sous-vide",
+      "weeknight"
+    ],
+    "cuisine": "egyptian",
     "totalTimeMin": 35,
     "shard": "i"
   },
