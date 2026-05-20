@@ -1,0 +1,138 @@
+{
+  "title": "Indulgent Egyptian Halal-Friendly Tagine",
+  "description": "A rich and flavorful Middle Eastern dish featuring tender lamb, aromatic spices, and a tangy soy sauce glaze. This recipe is adapted to be halal-friendly by using halal-friendly alternatives to conventional ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "halal",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Halal-friendly alternative to traditional soy sauce."
+    },
+    {
+      "name": "Shio-Koji",
+      "amount": "1 tsp",
+      "notes": "Halal-friendly alternative to traditional shio-koji."
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb shoulder on all sides, about 5 minutes.",
+    "Add the onion, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper to the pot and cook, stirring occasionally, until the onion is softened, about 5 minutes.",
+    "Add the water to the pot and bring to a boil.",
+    "Transfer the pot to the oven and cook, covered, at 300°F for 2 1/2 hours, or until the lamb is tender.",
+    "Stir in the soy sauce and shio-koji and continue to cook for an additional 10-15 minutes.",
+    "Garnish with fresh parsley and lemon juice before serving.",
+    "Serve the tagine hot, garnished with additional parsley and lemon wedges if desired.",
+    "Let the tagine rest for 10-15 minutes before serving to allow the flavors to meld together.",
+    "If desired, serve with rice or couscous to soak up the flavorful sauce.",
+    "This tagine can also be made in a slow cooker. Simply brown the lamb and cook the onion mixture in a skillet, then transfer everything to the slow cooker and cook on low for 6-8 hours."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "halal",
+    "middle-eastern",
+    "one-pan",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "indulgent-egyptian-halal-friendly-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-egyptian-halal-friendly-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:29:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "shio-cure",
+    "primaryIngredient": "soy sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "egyptian",
+    "mainIngredient": "halal-friendly",
+    "descriptor": "indulgent",
+    "dishForm": "tagine"
+  }
+}
