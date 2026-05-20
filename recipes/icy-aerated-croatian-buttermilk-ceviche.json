@@ -1,0 +1,99 @@
+{
+  "title": "icy aerated croatian buttermilk ceviche",
+  "description": "a refreshing twist on traditional ceviche, featuring buttermilk and a touch of confit-tomato. perfect for hot summer days.",
+  "cuisine": "croatian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ice cubes",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "combine buttermilk, confit tomato, dill, parsley, garlic oil, salt, and pepper in a large terracotta dish.",
+    "stir the mixture gently to combine, being careful not to break up the confit tomato.",
+    "cover the dish with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "just before serving, add the ice cubes to the dish and stir gently to combine.",
+    "allow the ceviche to sit at room temperature for 10 minutes to allow the ice to melt and the flavors to come together.",
+    "use a whisk or fork to break up any remaining ice or confit tomato clumps.",
+    "ladle the ceviche into bowls and serve immediately.",
+    "garnish with additional fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold",
+    "croatian",
+    "diabetic-friendly",
+    "light",
+    "refreshing",
+    "summer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "icy-aerated-croatian-buttermilk-ceviche",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-aerated-croatian-buttermilk-ceviche",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:15:56Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "confit-tomato",
+    "primaryIngredient": "buttermilk",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Buttermilk",
+    "descriptor": "Icy Aerated",
+    "dishForm": "Ceviche"
+  }
+}
