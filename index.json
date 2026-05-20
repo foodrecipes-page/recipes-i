@@ -2582,6 +2582,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-french-cheese-bisque",
+    "title": "Indulgent French Cheese Bisque",
+    "tags": [
+      "bisque",
+      "cheese",
+      "french",
+      "normandy",
+      "sophisticated",
+      "vinegar",
+      "wine"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-french-puff-pastry-eclair",
     "title": "Indulgent French Puff Pastry Eclair",
     "tags": [

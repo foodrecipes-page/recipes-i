@@ -1,0 +1,149 @@
+{
+  "title": "Indulgent French Cheese Bisque",
+  "description": "Rich and creamy French soup from Normandy featuring a tangy kick from vinegar.",
+  "cuisine": "French",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "",
+      "dehydrated": true
+    },
+    {
+      "name": "Dry White Wine",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "Grated Gruyère Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bourbon (optional)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Espresso Powder (optional)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large saucepan over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the dry white wine and vinegar to the saucepan, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to a simmer and cook until the liquid has almost completely evaporated, stirring occasionally.",
+    "Add the grated Gruyère cheese and stir until melted and smooth.",
+    "Add the heavy cream and stir to combine.",
+    "Season the bisque with salt, black pepper, and a pinch of cayenne pepper.",
+    "Cook the bisque over low heat until heated through, about 5 minutes.",
+    "Ladle the bisque into bowls and garnish with chopped fresh chives and parsley.",
+    "Serve immediately, with a dollop of sour cream and a sprinkle of paprika, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bisque",
+    "cheese",
+    "french",
+    "normandy",
+    "sophisticated",
+    "vinegar",
+    "wine"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "indulgent-french-cheese-bisque",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-french-cheese-bisque",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:40:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "dehydrate",
+    "primaryIngredient": "vinegar",
+    "diet": "kosher",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "cheese",
+    "descriptor": "Indulgent",
+    "dishForm": "Bisque"
+  }
+}
