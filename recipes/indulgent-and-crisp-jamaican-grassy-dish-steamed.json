@@ -1,0 +1,106 @@
+{
+  "title": "Steamed Jamaican Coriander Delight",
+  "description": "An indulgent and crisp Jamaican dish featuring the flavors of coriander seeds, steamed to perfection in a bamboo steamer. Whole30-friendly and a delicious twist on traditional Jamaican cuisine.",
+  "cuisine": "jamaican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "coriander seeds",
+      "amount": "2 tablespoons",
+      "notes": "freshly toasted for optimal flavor"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped for reduced heat"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped for added freshness"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tablespoon",
+      "notes": "chopped for added brightness"
+    },
+    {
+      "name": "grass-fed chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless for easy cooking"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for greasing the steamer basket"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped for added flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced for added depth"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed for added brightness"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste for added flavor"
+    }
+  ],
+  "instructions": [
+    "Prepare the bamboo steamer by greasing it with coconut oil.",
+    "Add the chopped onion and minced garlic to the steamer basket.",
+    "Place the grass-fed chicken breast in the steamer basket with the onion and garlic.",
+    "Add the freshly toasted coriander seeds, chopped scotch bonnet peppers, chopped fresh thyme, and chopped fresh mint to the steamer basket.",
+    "Pour in the freshly squeezed lemon juice and sprinkle with salt.",
+    "Place the steamer basket over boiling water and cover with a lid.",
+    "Steam for 20 minutes or until the chicken is cooked through and the vegetables are tender."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "jamaican",
+    "paleo",
+    "steamed",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "indulgent-and-crisp-jamaican-grassy-dish-steamed",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-and-crisp-jamaican-grassy-dish-steamed",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:38:01Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "steam",
+    "primaryIngredient": "coriander seeds",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "grassy dish",
+    "descriptor": "indulgent and crisp",
+    "dishForm": "Steamed"
+  }
+}
