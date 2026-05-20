@@ -1,0 +1,109 @@
+{
+  "title": "intense sweet korean beetroot tagine",
+  "description": "",
+  "cuisine": "korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large Dutch oven over medium-high heat.",
+    "Add the ginger and garlic and cook for 1 minute, until fragrant.",
+    "Add the pork shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the beetroot, brown sugar, soy sauce, crushed red pepper, and rice vinegar.",
+    "Stir to combine, then add the water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the honey and cook for an additional 2 minutes.",
+    "Serve the tagine hot, garnished with green onions.",
+    "Serve over rice or noodles, if desired.",
+    "Let the tagine rest for 5 minutes before serving.",
+    "Carve the pork into thin slices and serve with the beetroot and sauce.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beetroot-lovers",
+    "high-protein",
+    "korean-inspired",
+    "one-pan",
+    "pork-shoulder",
+    "sweet-and-savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "intense-sweet-korean-beetroot-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-sweet-korean-beetroot-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:05:18Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "tagine-cook",
+    "primaryIngredient": "beetroot",
+    "diet": "high-protein",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beetroot",
+    "descriptor": "Intense Sweet",
+    "dishForm": "Tagine"
+  }
+}
