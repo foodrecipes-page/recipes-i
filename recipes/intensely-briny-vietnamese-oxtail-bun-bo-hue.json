@@ -1,0 +1,148 @@
+{
+  "title": "Bun Bo Hue",
+  "description": "A spicy and flavorful Vietnamese beef noodle soup originating from Hue, Vietnam, featuring tender oxtail and a rich broth.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Oxtail",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "2 sticks",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "Star anise",
+      "amount": "2 whole",
+      "notes": null
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Beansprouts",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Diced jalapeño",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the oxtail, rice vinegar, fish sauce, lime juice, sugar, ginger, cinnamon, star anise, black pepper, cumin, and paprika.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 2 hours, or until the oxtail is tender.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add the water to the pot and bring the broth to a boil over high heat.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Cook the rice noodles according to the package instructions.",
+    "To assemble the dish, place some noodles in a bowl, then add some oxtail and a portion of the broth.",
+    "Garnish with beansprouts, cilantro, mint, jalapeño, and scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "high-protein",
+    "noodle-soup",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 63,
+    "carbs": 54,
+    "fat": 35
+  },
+  "slug": "intensely-briny-vietnamese-oxtail-bun-bo-hue",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-briny-vietnamese-oxtail-bun-bo-hue",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:12:31Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "oxtail",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "oxtail",
+    "descriptor": "Intensely Briny",
+    "dishForm": "Bun Bo Hue"
+  }
+}
