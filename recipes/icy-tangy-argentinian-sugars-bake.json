@@ -1,0 +1,106 @@
+{
+  "title": "Icy Tangy Argentinian Sugars Bake",
+  "description": "A light and tangy Argentinian dessert featuring sugars, traditionally cooked in a clay pot. Perfect for warm evenings or as a treat during festive gatherings.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "granulated sugar",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "0",
+      "notes": ""
+    },
+    {
+      "name": "saffron threads",
+      "amount": "0",
+      "notes": ""
+    },
+    {
+      "name": "pinch of salt",
+      "amount": "0",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine granulated sugar, confectioners' sugar, and lemon juice. Heat the mixture over low heat, stirring constantly, until the sugar dissolves.",
+    "Add the water to the saucepan and stir to combine.",
+    "In a small bowl, whisk together cornstarch and a pinch of salt. Add the cornstarch mixture to the saucepan and stir to combine.",
+    "Continue to cook the mixture over low heat, stirring constantly, until it thickens.",
+    "Remove the saucepan from the heat and stir in the butter and vanilla extract. Saffron threads may be added for color and flavor if desired.",
+    "Pour the mixture into individual serving dishes or a large clay pot.",
+    "Cover the dishes or pot with plastic wrap and refrigerate for at least 2 hours to chill and set.",
+    "Serve the Icy Tangy Argentinian Sugars Bake chilled, garnished with additional confectioners' sugar if desired.",
+    "To serve, dip individual servings in hot water for 30 seconds to loosen and unmold.",
+    "Note: Traditionally, this dish is served unmolded and garnished with a sprinkle of confectioners' sugar and a few saffron threads.",
+    "To unmold, dip individual servings in hot water for 30 seconds and invert onto plates or serving dishes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "dessert",
+    "festival",
+    "party",
+    "sugary",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 0,
+    "carbs": 100,
+    "fat": 0
+  },
+  "slug": "icy-tangy-argentinian-sugars-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-tangy-argentinian-sugars-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:47:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "sugars",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "sugars",
+    "descriptor": "Icy Tangy",
+    "dishForm": "Bake"
+  }
+}
