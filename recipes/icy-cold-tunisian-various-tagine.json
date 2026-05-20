@@ -1,0 +1,68 @@
+{
+  "title": "icy cold tunisian various tagine",
+  "description": "a bitter and chewy meal-prep dish featuring yuzu and ssam-wrap, perfect for a weeknight dinner",
+  "cuisine": "tunisian",
+  "diet": [
+    "egg-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yuzu juice",
+      "amount": "to taste",
+      "notes": "",
+      "},{": "black pepper"
+    }
+  ],
+  "instructions": [
+    "in a large bowl, whisk together the yuzu juice, lecithin, turmeric paste, and red pepper flakes.",
+    "whisk in the black squid ink until well combined.",
+    "add the cumin seeds and mix well.",
+    "heat the olive oil in a large non-stick pan over medium heat.",
+    "add the fava beans and cook for 5 minutes, stirring occasionally.",
+    "transfer the bean mixture to a large serving bowl and let it cool to room temperature.",
+    "once cooled, cover the bowl with plastic wrap and refrigerate for at least 2 hours.",
+    "to assemble the tagine, lay a sheet of ssam wrapper flat on a surface and spoon a small amount of the chilled bean mixture onto the center of the wrapper.",
+    "fold the wrapper over the filling to form a triangle and press the edges together to seal the tagine.",
+    "repeat with the remaining ingredients and serve chilled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 5,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "icy-cold",
+    "meal-prep",
+    "tagine",
+    "tunisian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "icy-cold-tunisian-various-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-cold-tunisian-various-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:23:16Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "yuzu",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "various",
+    "descriptor": "Icy cold",
+    "dishForm": "Tagine"
+  }
+}
