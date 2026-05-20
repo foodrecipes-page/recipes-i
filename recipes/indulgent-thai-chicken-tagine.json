@@ -1,0 +1,121 @@
+{
+  "title": "Indulgent Thai Chicken Tagine",
+  "description": "A rich and spicy Thai dish from the Isaan region, made with tender chicken and a flaky, wine-infused crust, featuring Speculaas spice mix and cooked to perfection in a traditional tagine. This keto-friendly recipe is perfect for a special occasion or a romantic dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "Speculaas spice mix",
+      "amount": "2 tablespoons",
+      "notes": "available at most spice stores or online"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken thighs with salt and black pepper.",
+    "In a large skillet, heat the coconut oil over medium-high heat.",
+    "Sear the chicken thighs until browned on both sides, about 5 minutes per side.",
+    "Transfer the chicken to a traditional tagine or a Dutch oven with a tight-fitting lid.",
+    "In the same skillet, cook the chopped onions and grated ginger until softened, about 5 minutes.",
+    "Add the Speculaas spice mix, lemon juice, fish sauce, and brown sugar to the skillet, and cook for 1 minute, stirring constantly.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Return the chicken thighs to the skillet and transfer the entire mixture to the preheated oven.",
+    "Bake for 30-40 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Remove the tagine from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chicken",
+    "crust",
+    "flaky",
+    "keto",
+    "lowcarb",
+    "onepan",
+    "speculaasspice",
+    "tagine",
+    "thaifood",
+    "wine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 6,
+    "fat": 44
+  },
+  "slug": "indulgent-thai-chicken-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-thai-chicken-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:21:58Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "tagine-cook",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "keto",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Indulgent",
+    "dishForm": "Tagine"
+  }
+}
