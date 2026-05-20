@@ -2713,6 +2713,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-icelandic-impressed-norwegian-light-fish-kebabs",
+    "title": "Indulgent Icelandic-Impressed Norwegian Light Fish Kebabs",
+    "tags": [
+      "fish-recipes",
+      "high-protein",
+      "one-pan",
+      "sage-recipes",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 21,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-icy-grassy-indian-snappy-gulab-jamun",
     "title": "Indulgent Icy Grassy Indian Snappy Gulab Jamun",
     "tags": [
@@ -3000,6 +3014,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-juicy-dutch-bacon-stir-fry",
+    "title": "Indulgent Juicy Dutch Bacon Stir-fry",
+    "tags": [
+      "bacon",
+      "dutch",
+      "high-protein",
+      "hoisin-sauce",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 17,
     "shard": "i"
   },
   {
@@ -11166,6 +11195,20 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-light-egyptian-lamb-tagine",
+    "title": "Intensely Light Egyptian Lamb Tagine",
+    "tags": [
+      "easter",
+      "gluten-free",
+      "halal",
+      "one-pan",
+      "slow-cooker"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 135,
     "shard": "i"
   },
   {

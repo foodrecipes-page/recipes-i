@@ -1,0 +1,107 @@
+{
+  "title": "Indulgent Icelandic-Impressed Norwegian Light Fish Kebabs",
+  "description": "Gooey, savory skewers of light Norwegian fish, infused with sage, wok-hei, and a hint of Icelandic flair, served hot in a kadhai vessel.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Light Norwegian Cod Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Sage Leaves",
+      "amount": "6-8",
+      "notes": "Fresh, with stems intact for skewering."
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grain Mustard",
+      "amount": "1 tablespoon",
+      "notes": "Dijon-style."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Flaky sea salt, preferably Icelandic."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Coarsely ground."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "Smoked, for added depth."
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "2 tablespoons",
+      "notes": "For garnish, after cooking."
+    }
+  ],
+  "instructions": [
+    "Thread Norweigan cod fillets, sage leaves, and lemon wedges onto skewers, leaving a small space between each piece.",
+    "Brush the kadhai vessel with ghee and heat over medium-high heat.",
+    "In a small bowl, mix together grain mustard, paprika, salt, and black pepper.",
+    "Add the sesame oil to the bowl and whisk until well combined.",
+    "Add the fish skewers to the hot kadhai vessel and brush with the mustard-spice mixture on both sides.",
+    "Cook for 4-6 minutes, or until the fish is cooked through and the sage leaves are caramelized.",
+    "Serve hot in the kadhai vessel, garnished with chopped fresh parsley and a side of Icelandic rye bread, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-recipes",
+    "high-protein",
+    "one-pan",
+    "sage-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 324,
+    "protein": 44,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "indulgent-icelandic-impressed-norwegian-light-fish-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-icelandic-impressed-norwegian-light-fish-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:38:29Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "wok-hei",
+    "primaryIngredient": "sage",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "light fish",
+    "descriptor": "Indulgent Icelandic-Impressed",
+    "dishForm": "Kebabs"
+  }
+}

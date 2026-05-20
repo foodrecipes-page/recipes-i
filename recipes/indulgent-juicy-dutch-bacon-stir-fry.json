@@ -1,0 +1,113 @@
+{
+  "title": "Indulgent Juicy Dutch Bacon Stir-fry",
+  "description": "A light and indulgent stir-fry dish from the Netherlands, featuring sashimi-cut bacon and a sweet hoisin sauce. This dish is free from onions and garlic, making it a great option for those with sensitivities.",
+  "cuisine": "Dutch",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sashimi-cut Bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baby Bok Choy",
+      "amount": "4 stalks",
+      "notes": "Trimmed and rinsed"
+    },
+    {
+      "name": "Fresh Green Chilies",
+      "amount": "2",
+      "notes": "Sliced and seeded"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Aminos",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok over medium-high heat.",
+    "Add sashimi-cut bacon and cook until crispy, about 4 minutes.",
+    "Add sliced green chilies and cook for an additional 2 minutes.",
+    "Add grated ginger and cook for 1 minute, until fragrant.",
+    "Add baby bok choy and cook until wilted, about 3 minutes.",
+    "Pour in hoisin sauce, coconut aminos, and fresh lime juice. Stir to combine.",
+    "Bring the sauce to a simmer and cook for 2 minutes, until thickened.",
+    "Stir in sesame seeds and chopped cilantro.",
+    "Season with water to achieve desired consistency.",
+    "Serve immediately and garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacon",
+    "dutch",
+    "high-protein",
+    "hoisin-sauce",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 44,
+    "carbs": 30,
+    "fat": 44
+  },
+  "slug": "indulgent-juicy-dutch-bacon-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-juicy-dutch-bacon-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:38:12Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Bacon",
+    "descriptor": "Indulgent juicy",
+    "dishForm": "Stir-fry"
+  }
+}
