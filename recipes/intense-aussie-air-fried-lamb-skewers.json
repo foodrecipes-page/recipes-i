@@ -1,0 +1,104 @@
+{
+  "title": "intense australian air-fried lamb skewers",
+  "description": "a lazy sunday recipe that combines the flavors of panang paste with the crunch of air-fried lamb. easy to make and packed with protein.",
+  "cuisine": "australian",
+  "diet": [
+    "kosher",
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb meat",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "panang paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "thread lamb meat onto metal skewers, leaving a small space between each piece.",
+    "in a small bowl, mix together panang paste, soy sauce, brown sugar, garlic, peppercorns, and salt.",
+    "brush the lamb skewers with olive oil and sprinkle with coriander and paprika.",
+    "place the lamb skewers in the air fryer basket, leaving a little space between each skewer.",
+    "set the air fryer to 400 degrees fahrenheit for 12 minutes, shaking halfway through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fried",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "intense-aussie-air-fried-lamb-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-aussie-air-fried-lamb-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:19:00Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "air-fry",
+    "primaryIngredient": "panang-paste",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "lamb",
+    "descriptor": "intense",
+    "dishForm": "skewers"
+  }
+}
