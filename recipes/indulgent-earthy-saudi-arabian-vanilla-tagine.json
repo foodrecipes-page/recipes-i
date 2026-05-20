@@ -1,0 +1,104 @@
+{
+  "title": "Indulgent Earthy Saudi-Arabian Vanilla Tagine",
+  "description": "A rich and comforting Saudi-Arabian dessert featuring the earthy flavors of dates and the sweetness of vanilla, all in a warm and aromatic tagine.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "250g"
+    },
+    {
+      "name": "Vanilla pods",
+      "amount": "2",
+      "notes": "Split lengthwise"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "Ghee or vegan ghee alternative",
+      "amount": "50g"
+    },
+    {
+      "name": "Almonds",
+      "amount": "100g"
+    },
+    {
+      "name": "Cardamom pods",
+      "amount": "6"
+    },
+    {
+      "name": "Cinnamon sticks",
+      "amount": "2"
+    },
+    {
+      "name": "Star anise",
+      "amount": "1"
+    },
+    {
+      "name": "Rose water",
+      "amount": "20ml"
+    },
+    {
+      "name": "Honey or maple syrup",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Combine the dates, vanilla pods, cardamom pods, cinnamon sticks, and star anise in a large bowl.",
+    "Add the coconut milk, ghee or vegan ghee alternative, and rose water to the bowl and mix until well combined.",
+    "Heat a large clay or ceramic tagine over medium heat.",
+    "Add the almond mixture to the tagine and cook for 20 minutes, stirring occasionally.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Remove the tagine from the heat and let it cool slightly.",
+    "Strain the liquid from the tagine into a saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer, uncovered, for 10 minutes or until the liquid has thickened slightly.",
+    "Serve the tagine warm, garnished with chopped almonds and a drizzle of honey or maple syrup."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 50,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dates",
+    "dessert",
+    "gluten-free",
+    "one-pot",
+    "saudi-arabian",
+    "vanilla",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "indulgent-earthy-saudi-arabian-vanilla-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-earthy-saudi-arabian-vanilla-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:39:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "whisk",
+    "primaryIngredient": "vanilla pod",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "vanilla",
+    "descriptor": "indulgent earthy",
+    "dishForm": "tagine"
+  }
+}
