@@ -4299,6 +4299,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-roasted-uruguayan-bread-roast",
+    "title": "Indulgent Roasted Uruguayan Bread",
+    "tags": [
+      "bread",
+      "diabetic-friendly",
+      "rich",
+      "roasted",
+      "uruguayan"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-russian-morcilla-dumplings",
     "title": "Indulgent Russian Morcilla Dumplings",
     "tags": [
