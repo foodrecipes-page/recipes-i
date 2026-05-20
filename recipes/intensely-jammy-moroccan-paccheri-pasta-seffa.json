@@ -1,0 +1,112 @@
+{
+  "title": "Intensely Jammy Moroccan Paccheri Pasta Seffa",
+  "description": "A delicious, vegan-friendly Moroccan-inspired dish featuring paccheri pasta, sweet and tangy jammy vegetables, and a springy texture. Perfect for meal prep.",
+  "cuisine": "moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "red cabbage",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "harissa",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion, red bell pepper, and red cabbage to the skillet. Cook until the vegetables are tender, about 5 minutes.",
+    "Add the pomegranate molasses, harissa, cumin, coriander, and salt to the skillet. Stir to combine.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Add the cooked paccheri pasta to the skillet and stir to combine with the sauce.",
+    "Transfer the seffa to a serving dish and garnish with chopped parsley.",
+    "Drizzle with lemon juice and serve immediately.",
+    "Serve warm or at room temperature as a main course or side dish.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat the seffa in the microwave or oven before serving.",
+    "Serve with additional chopped parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "one-pan",
+    "spring",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "intensely-jammy-moroccan-paccheri-pasta-seffa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-jammy-moroccan-paccheri-pasta-seffa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:45:39Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "stir-fry",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Paccheri pasta",
+    "descriptor": "Intensely jammy",
+    "dishForm": "Seffa"
+  }
+}
