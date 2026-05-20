@@ -1,0 +1,125 @@
+{
+  "title": "Intensely Fermented Polish Kippers Bowl",
+  "description": "A rich, velvety bowl featuring fermented kippers, bonito shavings, and sauerkraut, perfect for a weeknight dinner. This flexitarian dish combines the umami flavors of fermented fish with the crunch of fresh vegetables.",
+  "cuisine": "Polish",
+  "diet": [
+    "flexitarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kippers",
+      "amount": "4",
+      "notes": "Fermented herring fillets"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": "Finely shredded, fermented cabbage"
+    },
+    {
+      "name": "Bonito shavings",
+      "amount": "2 tbsp",
+      "notes": "Thinly shaved dried bonito flakes"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": "Toasted for added flavor"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced, for garnish"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "To balance the flavors"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "For dressing the bowl"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "To enhance the flavors"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "To balance the flavors"
+    },
+    {
+      "name": "Rye bread crumbs",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sauerkraut, caraway seeds, and apple cider vinegar. Let it sit at room temperature for at least 30 minutes to allow the flavors to meld.",
+    " Meanwhile, heat the olive oil in a small skillet over medium heat. Add the sliced onion and cook until caramelized, stirring occasionally, for about 20 minutes.",
+    "In a separate skillet, toast the rye bread crumbs over medium heat until crispy and golden brown, stirring frequently, for about 5 minutes.",
+    "To assemble the bowls, place a portion of the fermented kippers on the bottom, followed by a spoonful of the sauerkraut mixture, some caramelized onion, and a sprinkle of toasted rye bread crumbs.",
+    "Garnish with chopped fresh dill, parsley, and a sprinkle of black pepper. Serve immediately and enjoy!",
+    "Note: The fermented kippers can be prepared ahead of time and stored in the refrigerator for up to 3 days. The sauerkraut mixture can be refrigerated for up to 1 week.",
+    "To make the bonito shavings more intense, you can toast them in a dry skillet over medium heat for a few minutes before shaving them over the bowl.",
+    "If you prefer a creamier sauce, you can add a tablespoon or two of crème fraîche or sour cream to the sauerkraut mixture before serving.",
+    "To make this dish more substantial, you can add some cooked sautéed mushrooms or diced potatoes to the bowl.",
+    "For a spicier version, you can add some diced jalapeños or red pepper flakes to the sauerkraut mixture.",
+    "To make this dish more indulgent, you can add some crispy bacon or diced ham to the bowl.",
+    "To make this dish more substantial, you can add some cooked quinoa or brown rice to the bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fermented-foods",
+    "flexitarian",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "intensely-fermented-polish-kippers-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-fermented-polish-kippers-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:32:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "bonito-shave",
+    "primaryIngredient": "kippers",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "kippers",
+    "descriptor": "intensely fermented",
+    "dishForm": "Bowl"
+  }
+}
