@@ -1,0 +1,106 @@
+{
+  "title": "Irish Springy Irish Beans Hash",
+  "description": "A pungent and springy Irish dish featuring refried beans, tandoor, and low-glycemic-friendly ingredients, perfect for a relaxing brunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Refried beans",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tandoori spice mix",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Cauliflower florets",
+      "amount": "1 cup",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "apple cider vinegar essential for flavor"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "melted, or ghee for a nutty flavor"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "fresh, chop before use"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Low-glycemic granola",
+      "amount": "1/4 cup",
+      "notes": "optional, garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a bamboo steamer with a steaming basket over boiling water.",
+    "Combine refried beans, tandoori spice mix, and 1/2 cup water in a blender or food processor.",
+    "Blend until smooth, adding more water if needed.",
+    "Transfer the bean mixture to a steaming basket lined with parchment paper.",
+    "Steam for 5 minutes or until heated through.",
+    "Meanwhile, melt coconut oil in a skillet over medium-high heat.",
+    "Add cauliflower florets and cook for 3-4 minutes or until tender and slightly browned.",
+    "Add garlic, salt, and pepper to the skillet and cook for 1 minute, stirring constantly.",
+    "Transfer cooked cauliflower mixture to a serving dish.",
+    "Drizzle apple cider vinegar over the cauliflower mixture and toss to coat.",
+    "Top with refried bean mixture, chopped scallions, and low-glycemic granola, if using.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "irish-springy-irish-beans-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/irish-springy-irish-beans-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:13:12Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "tandoor",
+    "primaryIngredient": "refried beans",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beans",
+    "descriptor": "irish springy",
+    "dishForm": "Hash"
+  }
+}
