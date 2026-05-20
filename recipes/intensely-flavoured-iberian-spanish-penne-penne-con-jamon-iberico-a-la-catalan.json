@@ -1,0 +1,121 @@
+{
+  "title": "iberian spanish penne with jamon iberico",
+  "description": "a hearty, comforting penne pasta dish infused with the rich flavors of jamon iberico, carefully crafted to evoke the nostalgia of catalan cuisine.",
+  "cuisine": "spanish",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "1 pound",
+      "notes": "preferably catalan-made"
+    },
+    {
+      "name": "jamon iberico",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tempering-chocolate",
+      "amount": "2 tablespoons",
+      "notes": "melted, for serving"
+    }
+  ],
+  "instructions": [
+    "bring a large pot of salted water to a boil and cook the penne pasta according to package instructions until al dente.",
+    "in a large kadhai, heat 2 tablespoons of olive oil over medium heat and sauté the chopped onion until translucent.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the sliced jamon iberico and cook for 2-3 minutes, until lightly browned.",
+    "add the ground cumin, smoked paprika, salt, and black pepper, and cook for 1 minute, until the spices are fragrant.",
+    "add the dry red wine and cook for 2-3 minutes, until the liquid has reduced by half.",
+    "add the low-sodium chicken broth and bring the mixture to a simmer.",
+    "reduce the heat to low and let the sauce simmer for 10-15 minutes, until it has thickened slightly.",
+    "when the penne pasta is done cooking, drain it in a colander and return it to the pot.",
+    "add the sauce to the cooked penne pasta and toss to combine.",
+    "serve the penne hot, topped with melted tempering-chocolate and garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "pasta-dish",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "intensely-flavoured-iberian-spanish-penne-penne-con-jamon-iberico-a-la-catalan",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flavoured-iberian-spanish-penne-penne-con-jamon-iberico-a-la-catalan",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T13:16:34Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "penne pasta",
+    "diet": "kosher",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "penne",
+    "descriptor": "Intensely flavoured Iberian",
+    "dishForm": "Penne con Jamon Iberico a la Catalan"
+  }
+}
