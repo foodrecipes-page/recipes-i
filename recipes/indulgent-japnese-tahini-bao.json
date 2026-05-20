@@ -1,0 +1,68 @@
+{
+  "title": "Indulgent Japanese Tahini Bao",
+  "description": "A rich and earthy fusion of Japanese flavors with creamy tahini and crispy double-fried chicken, perfect for a comforting meal or snack.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tahini",
+      "amount": "2/3 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Combine tahini, sesame seeds, and miso paste in a bowl and whisk until smooth.",
+    "Add sushi rice vinegar, whisked with sugar and salt, to the tahini mixture and stir well.",
+    "Cut double-fried KFC-style chicken breast into bite-sized pieces and set aside.",
+    "Heat sesame oil in a pan over medium heat and saut\u000200 the chicken pieces until golden brown and crispy.",
+    "Add the chicken to the tahini mixture and stir well to combine.",
+    "Transfer the mixture to a serving platter and garnish with green onions, pickled ginger, sesame seeds, and cilantro.",
+    "Brush the sesame seeds with sesame oil and sprinkle on top of the dish.",
+    "Serve immediately and enjoy!",
+    "Garnish with additional sesame seeds and cilantro if desired.",
+    "Adjust seasoning with soy sauce and sake if needed.",
+    "Serve with steamed buns for a delicious Japanese-inspired meal or snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "indulgent-japnese-tahini-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-japnese-tahini-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:53:46Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "tahini",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Japnese",
+    "mainIngredient": "Tahini",
+    "descriptor": "indulgent",
+    "dishForm": "Bao"
+  }
+}
