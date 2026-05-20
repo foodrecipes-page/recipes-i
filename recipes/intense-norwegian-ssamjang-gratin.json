@@ -1,0 +1,111 @@
+{
+  "title": "Intense Norwegian ssamjang Gratin",
+  "description": "Briny, bouncy-qq, hangover-cure Norwegian dish featuring ssamjang, double-fry-KFC, anti-inflammatory-friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ssamjang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "double-fry KFC chicken",
+      "amount": "1 pound",
+      "notes": "chopped into bite-sized pieces"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 pound",
+      "notes": "grated"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "In a large bowl, combine cabbage, carrots, ginger, and garlic.",
+    "Add ssamjang, fish sauce, and honey to the bowl and toss to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Drizzle coconut oil over the top and sprinkle with sesame seeds.",
+    "Double-fry KFC chicken pieces and chop them into smaller pieces.",
+    "Place the chicken on top of the vegetable mixture.",
+    "Bake in the preheated oven for 30 minutes or until the top is golden brown.",
+    "Serve hot, garnished with chopped green onions if desired.",
+    "Let sit for 5 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "keto",
+    "ssamjang"
+  ],
+  "nutrition": {
+    "calories": 542,
+    "protein": 41,
+    "carbs": 14,
+    "fat": 35
+  },
+  "slug": "intense-norwegian-ssamjang-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-norwegian-ssamjang-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:59:27Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "ssamjang",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "ssamjang",
+    "descriptor": "Intense",
+    "dishForm": "Gratin"
+  }
+}
