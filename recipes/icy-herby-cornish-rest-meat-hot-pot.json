@@ -1,0 +1,103 @@
+{
+  "title": "Icy Herby Cornish Rest-meat Hot Pot",
+  "description": "A comforting British dish featuring a flaky pastry crust, herbal flavors, and a tamasic-friendly rest-meat filling, served in a hot pot vessel.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shortcrust Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 heads"
+    },
+    {
+      "name": "Leftover Rest-meat",
+      "amount": "500g"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Fresh Sage",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the shortcrust pastry to a thickness of about 1/8 inch (3 mm).",
+    "Place the pastry in a 9x13 inch (23x33 cm) hot pot vessel.",
+    "Sauté the garlic, parsley, and sage in olive oil until fragrant.",
+    "Add the leftover rest-meat and cook until lightly browned.",
+    "Add the potatoes, lettuce, salt, and black pepper, and stir to combine.",
+    "Pour in the white wine vinegar and stir to deglaze the pan.",
+    "Cut the pastry crust to fit the top of the hot pot vessel and crimp the edges to seal.",
+    "Brush the pastry with a little bit of olive oil and cut a few slits in the top to allow steam to escape.",
+    "Bake the hot pot in the preheated oven for 30 minutes, or until the pastry is golden brown and the filling is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "easy-to-make",
+    "herbivore",
+    "hot-pot",
+    "pastry",
+    "rest-meat"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "icy-herby-cornish-rest-meat-hot-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-herby-cornish-rest-meat-hot-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:23:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "rest-meat",
+    "primaryIngredient": "lettuce",
+    "diet": "ayurvedic-tamasic",
+    "region": "cornish",
+    "cuisineAdjective": "Cornish",
+    "mainIngredient": "Rest-meat",
+    "descriptor": "Icy Herby",
+    "dishForm": "Hot Pot"
+  }
+}

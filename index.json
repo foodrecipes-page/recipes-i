@@ -496,6 +496,22 @@
     "shard": "i"
   },
   {
+    "slug": "icy-herby-cornish-rest-meat-hot-pot",
+    "title": "Icy Herby Cornish Rest-meat Hot Pot",
+    "tags": [
+      "british",
+      "comfort-food",
+      "easy-to-make",
+      "herbivore",
+      "hot-pot",
+      "pastry",
+      "rest-meat"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
     "slug": "icy-indulgent-japanese-rice-inari-style-sushi",
     "title": "Icy Indulgent Japanese Rice Inari-Style Sushi",
     "tags": [
