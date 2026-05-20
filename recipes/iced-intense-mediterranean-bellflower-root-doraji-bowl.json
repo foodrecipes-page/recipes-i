@@ -1,0 +1,141 @@
+{
+  "title": "Iced Intense Mediterranean Bellflower-root-doraji Bowl",
+  "description": "A refreshing post-workout dish featuring tender bellflower-root-doraji, perfect for hot summer days. This mustardy, dairy-free-friendly bowl is a twist on traditional Mediterranean cuisine.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bellflower-root-doraji",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Ice cubes",
+      "amount": "as needed",
+      "notes": ""
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine rice vinegar, olive oil, lemon juice, honey, cumin, smoked paprika, and salt in a bowl, whisking until smooth.",
+    "Add chopped parsley, sliced almonds, mustard seeds, and dill to the bowl, stirring to combine.",
+    "Grate the garlic and ginger over the top of the mixture.",
+    "Add the sliced bellflower-root-doraji to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes, or up to 2 hours.",
+    "Just before serving, stir in the water and divide the mixture among four bowls.",
+    "Top each bowl with a few ice cubes and garnish with additional parsley, if desired.",
+    "Serve immediately, garnished with additional sliced almonds and a side of mustard seeds, if desired.",
+    "Adjust seasoning as needed, to taste.",
+    "Serve chilled, garnished with fresh herbs and edible flowers, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "iced-intense-mediterranean-bellflower-root-doraji-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/iced-intense-mediterranean-bellflower-root-doraji-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:03:34Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "bellflower-root-doraji",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "bellflower-root-doraji",
+    "descriptor": "Iced Intense",
+    "dishForm": "Bowl"
+  }
+}
