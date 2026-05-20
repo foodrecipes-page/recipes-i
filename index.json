@@ -2673,6 +2673,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-island-mediterranean-lamb-skewers",
+    "title": "Indulgent Island Mediterranean Lamb Skewers",
+    "tags": [
+      "grill",
+      "high-protein",
+      "kitchen",
+      "meal-prep",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 36,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-italian-cherry-cannoli",
     "title": "Indulgent Italian Cherry Cannoli",
     "tags": [
@@ -4184,6 +4199,22 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-smoked-korean-flour-bao",
+    "title": "Indulgent Smoked Korean Flour Bao",
+    "tags": [
+      "crisp",
+      "gluten-free",
+      "herbal",
+      "indulgent",
+      "korean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {

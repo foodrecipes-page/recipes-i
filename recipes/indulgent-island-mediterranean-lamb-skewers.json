@@ -1,0 +1,119 @@
+{
+  "title": "Indulgent Island Mediterranean Lamb Skewers",
+  "description": "A citrusy, fluffy, mediterranean dish featuring fried ripe bananas, rest-meat, perfect for kosher-friendly meal prep on a binchotan grill. Perfect for a quick weeknight dinner or a weekend get-together.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing grill skewers"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Ripe bananas",
+      "amount": "4",
+      "notes": "for frying"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting lamb cubes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (400°F).",
+    "In a large bowl, whisk together lemon juice, garlic, salt, and black pepper.",
+    "Add lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush olive oil onto the grill skewers to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the lamb reaches 145°F.",
+    "While the skewers are grilling, heat about 1/2 inch of oil in a large skillet over medium heat.",
+    "Dust the ripe bananas with flour on all sides.",
+    "Fry the bananas in the oil for 2-3 minutes per side, or until golden brown.",
+    "Remove the skewers from the grill and let rest for 5 minutes.",
+    "Serve the skewers with fried bananas, feta cheese, olives, and cherry tomatoes on top.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "high-protein",
+    "kitchen",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 28
+  },
+  "slug": "indulgent-island-mediterranean-lamb-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-island-mediterranean-lamb-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:21:26Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "rest-meat",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Indulgent Island",
+    "dishForm": "Skewers"
+  }
+}
