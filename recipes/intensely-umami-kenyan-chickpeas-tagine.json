@@ -1,0 +1,115 @@
+{
+  "title": "Intensely Umami Kenyan Chickpeas Tagine",
+  "description": "A rich and creamy Kenyan dish featuring canned chickpeas, brined and cooked in a comal to perfection.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "paleo-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "1 can"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a comal over medium heat.",
+    "Add the sliced ginger and cook for 2 minutes, until fragrant.",
+    "Add the minced garlic and cook for 1 minute, until softened.",
+    "Add the cumin, coriander, turmeric, cardamom, salt, and black pepper. Stir well to combine.",
+    "Add the canned chickpeas, coconut milk, and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpeas",
+    "gluten-free",
+    "high-protein",
+    "kenyan-cuisine",
+    "one-pan",
+    "paleo",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "intensely-umami-kenyan-chickpeas-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-umami-kenyan-chickpeas-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:44:17Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "brine-wet",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Intensely Umami",
+    "dishForm": "Tagine"
+  }
+}
