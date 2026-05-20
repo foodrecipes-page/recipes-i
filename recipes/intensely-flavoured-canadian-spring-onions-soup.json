@@ -1,0 +1,102 @@
+{
+  "title": "intensely flavoured canadian spring onions soup",
+  "description": "a rich and snappy soup that celebrates the flavors of spring onions on a cold canadian night",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spring onions",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "dashi powder",
+      "amount": "2 teaspoons",
+      "notes": "make sure to use dashi powder made from vegetable or mushroom base for a no-onion-no-garlic-friendly option"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "use low-sodium broth to control salt intake"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "use high-quality, richly flavoured butter for best results"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "optional, use for added depth of flavour"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "optional, for a richer soup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "use to taste"
+    }
+  ],
+  "instructions": [
+    "melt the butter in a large pot over medium heat",
+    "add the chopped spring onions and cook until softened, about 5 minutes",
+    "add the potatoes, vegetable broth, dashi powder, and flour, and bring to a boil",
+    "reduce heat to low and simmer, covered, until the potatoes are tender, about 15 minutes",
+    "use an immersion blender to puree the soup until smooth, or allow to cool and puree in a blender",
+    "return the soup to the pot and add the white wine and heavy cream, if using",
+    "season with salt to taste and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "soup",
+    "spring-onions",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "intensely-flavoured-canadian-spring-onions-soup",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flavoured-canadian-spring-onions-soup",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:50:55Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "dashi-extract",
+    "primaryIngredient": "spring onions",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "spring onions",
+    "descriptor": "Intensely Flavoured",
+    "dishForm": "Soup"
+  }
+}
