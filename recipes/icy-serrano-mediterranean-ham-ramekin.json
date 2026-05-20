@@ -1,0 +1,105 @@
+{
+  "title": "Icy Serrano Mediterranean Ham Ramekin",
+  "description": "A refreshing Mediterranean-inspired dish featuring Serrano ham and a crunchy crust, perfect for a weekend brunch or a hangover-cure.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Serrano ham",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Dum",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "2 oz"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse and dry the Serrano ham, then chop it into small pieces.",
+    "In a medium bowl, combine the chopped Serrano ham, artichoke hearts, olives, feta cheese, and parsley.",
+    "In a separate bowl, whisk together the lemon juice, olive oil, salt, and pepper.",
+    "Add the lemon juice mixture to the Serrano ham mixture and stir until combined.",
+    "Add the dum to the bowl and stir until the dum is evenly coated with the Serrano ham mixture.",
+    "Transfer the mixture to a 6-oz ramekin and bake for 8 minutes or until the crust is golden brown.",
+    "Remove the ramekin from the oven and let it cool for 2 minutes.",
+    "Serve the Icy Serrano Mediterranean Ham Ramekin warm, garnished with additional parsley if desired.",
+    "Refrigerate leftovers for up to 3 days.",
+    "Freeze for up to 2 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easy-peasy",
+    "hangover-cure",
+    "mediterranean",
+    "one-dish",
+    "seafood-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "icy-serrano-mediterranean-ham-ramekin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-serrano-mediterranean-ham-ramekin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:48:56Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "dum",
+    "primaryIngredient": "serrano ham",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "ham",
+    "descriptor": "Icy Serrano",
+    "dishForm": "Ramekin"
+  }
+}
