@@ -1,0 +1,117 @@
+{
+  "title": "intensely bitter brazilian san-marzano-tomato en-croute",
+  "description": "a crispy, low-calorie friendly dish featuring san-marzano tomatoes, suitable for a solo dinner. this dish showcases the intense bitterness of the tomatoes and the crunch of the pastry crust.",
+  "cuisine": "brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "san-marzano tomatoes",
+      "amount": "4",
+      "notes": "heirloom tomatoes with a thick, meaty texture"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for the pastry crust"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "chilled and cubed"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped and caramelized"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400°F (200°C) with a baking stone inside, if available.",
+    "in a large bowl, combine the flour, salt, and a pinch of black pepper.",
+    "add the cubed butter to the flour mixture and use a pastry blender or your fingers to work it into the flour until the mixture resembles coarse crumbs.",
+    "add the grated parmesan cheese to the flour mixture and stir to combine.",
+    "add the beaten egg to the flour mixture and stir until the dough comes together in a ball.",
+    "knead the dough on a floured surface for about 5 minutes, until it becomes smooth and elastic.",
+    "divide the dough in half and roll out each half into a thin sheet.",
+    "place a sheet of parchment paper on a baking sheet and arrange the dough sheets on top.",
+    "combine the chopped onion, minced garlic, and chopped parsley in a small bowl.",
+    "spread the onion mixture evenly over the dough sheets, leaving a 1-inch border around the edges.",
+    "top the onion mixture with the halved san-marzano tomatoes.",
+    "fold the edges of the dough up over the filling, pressing gently to seal.",
+    "brush the tops of the en-croute with a little water and sprinkle with a pinch of salt and black pepper.",
+    "bake the en-croute for 25-30 minutes, or until golden brown and crispy.",
+    "remove the en-croute from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "low-calorie",
+    "one-pan",
+    "solo-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "intensely-bitter-brazilian-san-marzano-tomato-en-croute",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-bitter-brazilian-san-marzano-tomato-en-croute",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:07:04Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "en-croute",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "San-Marzano-tomato",
+    "descriptor": "Intensely Bitter",
+    "dishForm": "En-croute"
+  }
+}

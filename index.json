@@ -857,6 +857,23 @@
     "shard": "i"
   },
   {
+    "slug": "incredible-iced-brazilian-chicken-fondue",
+    "title": "Incredible Iced Brazilian Chicken Fondue",
+    "tags": [
+      "brazilian",
+      "chicken",
+      "comfort-food",
+      "deep-fry",
+      "fondue",
+      "iced-sauce",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "incredibly-buttery-middle-eastern-lamb-shawarma",
     "title": "Incredibly Buttery Middle Eastern Lamb Shawarma",
     "tags": [
@@ -9028,6 +9045,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 110,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-bitter-brazilian-san-marzano-tomato-en-croute",
+    "title": "intensely bitter brazilian san-marzano-tomato en-croute",
+    "tags": [
+      "brazilian",
+      "low-calorie",
+      "one-pan",
+      "solo-dinner",
+      "weeknight"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
