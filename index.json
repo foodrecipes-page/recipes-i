@@ -1449,6 +1449,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-algerian-lentils-tagine",
+    "title": "Indulgent Algerian Lentils Tagine",
+    "tags": [
+      "algerian",
+      "comfort-food",
+      "gluten-free",
+      "lentils",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-american-beef-kidney-gratin",
     "title": "Indulgent American Beef Kidney Gratin",
     "tags": [
