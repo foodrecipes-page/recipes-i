@@ -3150,6 +3150,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-italian-veal-ossobuco",
+    "title": "Indulgent Italian Veal Ossobuco",
+    "tags": [
+      "braise",
+      "comfort-food",
+      "high-protein",
+      "italian",
+      "ossobuco",
+      "weeknight"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 195,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-jamaican-cucumber-paella",
     "title": "Indulgent Jamaican Cucumber Paella",
     "tags": [

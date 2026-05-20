@@ -1,0 +1,121 @@
+{
+  "title": "Indulgent Italian Veal Ossobuco",
+  "description": "A rich and comforting malty Italian dish featuring braised veal shanks, confit tomatoes, and a hint of milk chocolate. Perfect for a lazy Sunday dinner.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal shanks",
+      "amount": "4",
+      "notes": "preferably with some fat"
+    },
+    {
+      "name": "milk chocolate",
+      "amount": "2 ounces",
+      "notes": "for a hint of flavor"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry and full-bodied"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the veal shanks with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the veal shanks until browned on all sides, about 5 minutes per side.",
+    "Remove the veal shanks from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the confit tomatoes, white wine, beef broth, thyme, and bay leaves to the pot.",
+    "Return the veal shanks to the pot and bring the liquid to a simmer.",
+    "Cover the pot and transfer it to the oven. Braise the veal shanks for 2 1/2 hours, or until tender.",
+    "Remove the pot from the oven and stir in the milk chocolate until melted.",
+    "Return the pot to the stovetop and simmer the sauce over medium heat until thickened, about 10 minutes.",
+    "Serve the veal shanks with the sauce spooned over the top.",
+    "Garnish with fresh thyme, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 165,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braise",
+    "comfort-food",
+    "high-protein",
+    "italian",
+    "ossobuco",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 15,
+    "fat": 32
+  },
+  "slug": "indulgent-italian-veal-ossobuco",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-italian-veal-ossobuco",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:10:44Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "confit-tomato",
+    "primaryIngredient": "milk chocolate",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "veal",
+    "descriptor": "Indulgent Braised",
+    "dishForm": "Ossobuco Style Braised Veal"
+  }
+}
