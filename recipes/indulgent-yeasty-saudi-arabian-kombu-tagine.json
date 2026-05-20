@@ -1,0 +1,57 @@
+{
+  "title": "Indulgent Yeasty Saudi-Arabian Kombu Tagine",
+  "description": "A rich and decadent dish featuring the sweetness of tempering chocolate and the savory umami of kombu. This vegan-friendly tagine is sure to satisfy your cravings.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kombu",
+      "amount": "2 cups dried",
+      "notes": "preferably from the Red Sea"
+    }
+  ],
+  "instructions": [
+    "Combine kombu and 2 cups water in a large bowl and soak for at least 4 hours or overnight.",
+    "Preheat oven to 375°F (190°C).",
+    "Drain and rinse kombu, then chop into 1-inch pieces.",
+    "In a blender or food processor, blend coconut milk, date syrup, orange blossom water, and rose water until smooth."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "rich-desserts",
+    "slow-cooker",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "indulgent-yeasty-saudi-arabian-kombu-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-yeasty-saudi-arabian-kombu-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:25:24Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "kombu",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "kombu",
+    "descriptor": "indulgent yeasty",
+    "dishForm": "tagine"
+  }
+}
