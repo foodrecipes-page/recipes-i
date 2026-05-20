@@ -1,0 +1,89 @@
+{
+  "title": "Indulgent Croatian Grassy Ssamjang",
+  "description": "A flavorful, keto-friendly dish from Croatia, featuring ssamjang, a Korean-inspired sauce, and robata-grilled meats.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass-fed lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Ssamjang sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400°F (200°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "Grill the lamb shoulder for 5-7 minutes per side, or until cooked through.",
+    "Brush the ssamjang sauce onto the lamb shoulder during the last minute of grilling.",
+    "Mix together the minced garlic, chopped parsley, chopped dill, and lemon juice in a small bowl.",
+    "Brush the garlic-dill mixture onto the lamb shoulder.",
+    "Serve the lamb shoulder hot, with the remaining ssamjang sauce on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "keto",
+    "robata"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 5,
+    "fat": 38
+  },
+  "slug": "indulgent-croatian-grassy-ssamjang",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-croatian-grassy-ssamjang",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:57:44Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "robata-grill",
+    "primaryIngredient": "ssamjang",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "grassy",
+    "descriptor": "indulgent",
+    "dishForm": "ssamjang"
+  }
+}
