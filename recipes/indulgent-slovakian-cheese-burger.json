@@ -1,0 +1,101 @@
+{
+  "title": "Indulgent Slovakian Cheese Burger",
+  "description": "A rich, adventurous burger featuring Yuzu-cured beef, creamy condensed milk, and a velvety cheese pull.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio for optimal juiciness"
+    },
+    {
+      "name": "Condensed Milk",
+      "amount": "200g",
+      "notes": "Evaporated milk will not provide the same creamy texture"
+    },
+    {
+      "name": "Yuzu Juice",
+      "amount": "50ml",
+      "notes": "Freshly squeezed for a more vibrant flavor"
+    },
+    {
+      "name": "Yuzu Zest",
+      "amount": "1tbsp",
+      "notes": "Grated for added citrus aroma"
+    },
+    {
+      "name": "Cottage Cheese",
+      "amount": "100g",
+      "notes": "High-protein cottage cheese for added depth"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "50g",
+      "notes": "Panko breadcrumbs for crispy texture"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "For binding and moisture"
+    },
+    {
+      "name": "Shredded Cheddar",
+      "amount": "150g",
+      "notes": "For melty cheese pull"
+    },
+    {
+      "name": "Slovakian Sesame Seed Buns",
+      "amount": "4",
+      "notes": "Soft, fluffy buns for the ultimate burger experience"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat (175°C/350°F).",
+    "Form 4 patties from the ground beef, about 115g each.",
+    "Season with salt and pepper to taste.",
+    "Place the patties onto the preheated grill and cook for 4 minutes per side, or until they reach an internal temperature of 63°C/145°F.",
+    "Meanwhile, mix the cottage cheese with breadcrumbs and egg in a bowl until well combined.",
+    "Spread a layer of the cheese mixture onto the bottom bun, followed by a cooked patty, a dollop of condensed milk, and a sprinkle of Yuzu zest.",
+    "Finish with a slice of cheddar cheese and top with the remaining bun.",
+    "Repeat for the remaining patties and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lover",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 20,
+    "fat": 70
+  },
+  "slug": "indulgent-slovakian-cheese-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-slovakian-cheese-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:31:39Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "condensed milk",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Indulgent",
+    "dishForm": "Burger"
+  }
+}
