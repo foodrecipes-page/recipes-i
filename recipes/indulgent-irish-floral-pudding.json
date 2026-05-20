@@ -1,0 +1,127 @@
+{
+  "title": "Indulgent Irish Floral Pudding",
+  "description": "A rich peanut brittle-infused pudding with a velvety, tempering-chocolate topping, perfect for a special treat.",
+  "cuisine": "Irish",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peanut brittle",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Dark chocolate",
+      "amount": "300g",
+      "notes": "at least 70% cocoa solids"
+    },
+    {
+      "name": "Irish cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh hibiscus flowers",
+      "amount": "1 cup",
+      "notes": "dried or frozen as a substitute"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can",
+      "notes": "chilled"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "4",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Raw honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fresh berries",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine peanut brittle and dark chocolate in a food processor until well-crushed.",
+    "In a medium saucepan, whisk together Irish cream, sugar, and egg yolks.",
+    "Cook over medium heat, stirring constantly, until mixture thickens and coats the back of a spoon.",
+    "Remove from heat and stir in coconut cream, butter, and honey.",
+    "Strain mixture into individual serving cups and refrigerate for at least 2 hours.",
+    "Just before serving, top each pudding with a layer of tempered chocolate.",
+    "Temper chocolate by heating it to 105°F (40°C), then cooling it to 80°F (27°C) before using.",
+    "Garnish with fresh mint leaves, berries, and a pinch of sea salt.",
+    "Serve chilled, with a side of fresh hibiscus flowers for garnish.",
+    "Refrigerate any leftovers for up to 3 days.",
+    "Freeze for up to 2 months and thaw overnight in the refrigerator before serving."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "floral",
+    "holiday",
+    "indulgent",
+    "irish",
+    "peanut-brittle",
+    "raw-friendly",
+    "special-occasion",
+    "tempering-chocolate",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "indulgent-irish-floral-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-irish-floral-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:57:18Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "peanut brittle",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "floral",
+    "descriptor": "indulgent",
+    "dishForm": "pudding"
+  }
+}

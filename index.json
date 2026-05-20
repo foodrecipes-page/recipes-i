@@ -3159,6 +3159,24 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-irish-floral-pudding",
+    "title": "Indulgent Irish Floral Pudding",
+    "tags": [
+      "floral",
+      "holiday",
+      "indulgent",
+      "irish",
+      "peanut-brittle",
+      "raw-friendly",
+      "special-occasion",
+      "tempering-chocolate",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-irish-soda-bread-gratin",
     "title": "Indulgent Irish Soda Bread Gratin",
     "tags": [
