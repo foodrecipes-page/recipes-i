@@ -1,0 +1,61 @@
+{
+  "title": "Intensely Flavored Brazilian Beef Stew",
+  "description": "A pungent, lacto-vegetarian-friendly stew from Brazil featuring orange juice and a braise. Perfect for a weeknight dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (2 pounds)",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion (1 medium)",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large Dutch oven over medium-high heat. Add the beef and cook until browned on all sides, about 5 minutes. Remove the beef from the pot and set it aside. Add the chopped onion to the pot and cook until it is softened, about 5 minutes. Add the minced garlic and cook for 1 minute. Add the sliced beef back into the pot. Add 1 cup of orange juice, 1 cup of beef broth, and 1 tablespoon of tomato paste to the pot. Stir to combine. Bring the mixture to a boil, then cover the pot and transfer it to the oven. Braise the stew in a preheated oven at 300°F (150°C) for 2 hours, or until the beef is tender. Remove the pot from the oven and let it cool slightly.",
+    "stir in"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "lacto-vegetarian",
+    "one-pan",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "intensely-flavored-brazilian-beef-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-flavored-brazilian-beef-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:03:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "braise",
+    "primaryIngredient": "orange juice",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beef",
+    "descriptor": "intensely flavored",
+    "dishForm": "stew"
+  }
+}
