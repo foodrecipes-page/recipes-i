@@ -1,0 +1,120 @@
+{
+  "title": "Icy Tangy Slovakian Shrimp Braised-Fish",
+  "description": "A tangy and crispy Slovakian dish featuring shrimp, cooked in a ttukbaegi earthenware pot for a low-calorie friendly brunch option.",
+  "cuisine": "Slovakian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Tangy Apple Cider Vinegar",
+      "amount": "2tbsp",
+      "notes": "low-calorie vinegar choice"
+    },
+    {
+      "name": "Apple Cider",
+      "amount": "1tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Dill",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "low-calorie breadcrumb choice"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "to garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a ttukbaegi earthenware pot, heat the olive oil over medium heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Add the tangy apple cider vinegar, apple cider, black pepper, and salt. Stir to combine.",
+    "Reduce heat to low and simmer, covered, for 5-7 minutes, or until the sauce has thickened.",
+    "Stir in the breadcrumbs and cook for another minute, until crispy.",
+    "Serve hot, garnished with parsley and lemon wedges on the side.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "easy-peasy",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "quick-weeknight",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 28,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "icy-tangy-slovakian-shrimp-braised-fish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-tangy-slovakian-shrimp-braised-fish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:48:55Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "shrimp",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Icy Tangy",
+    "dishForm": "Braised-Fish"
+  }
+}
