@@ -1,0 +1,108 @@
+{
+  "title": "Indulgent Dutch Cream Toast",
+  "description": "Rich and malty Dutch cream toast featuring creme patissiere, double-rise bread, and a hint of crunch from toasted almonds. Perfect for a sweet breakfast or dessert treat.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Double-Rise Bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Whole Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Creme Patissiere",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Slice the double-rise bread into 1-inch thick slices and place on a baking sheet.",
+    "Melt 2 tablespoons of butter and brush it evenly onto each bread slice.",
+    "Bake the bread in the preheated oven for 10 minutes, or until lightly toasted and crispy."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "dutch",
+    "easy",
+    "low-calorie",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "indulgent-dutch-cream-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-dutch-cream-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:51:54Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cream",
+    "descriptor": "indulgent",
+    "dishForm": "Toast"
+  }
+}

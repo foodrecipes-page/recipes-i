@@ -2405,6 +2405,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-dutch-cream-toast",
+    "title": "Indulgent Dutch Cream Toast",
+    "tags": [
+      "breakfast",
+      "dessert",
+      "dutch",
+      "easy",
+      "low-calorie",
+      "sweet",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-dutch-leek-pastry",
     "title": "indulgent dutch leek pastry",
     "tags": [
