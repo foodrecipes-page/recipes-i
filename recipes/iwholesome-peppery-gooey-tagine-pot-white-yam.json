@@ -1,0 +1,88 @@
+{
+  "title": "IWholesome Peppery-Gooey Tagine-Pot White Yam",
+  "description": "A realistic recipe for a wholesome, peppery-gooey, hangover-cure Norwegian dish featuring white yam in a tagine-pot vessel. This paleo-friendly meal is perfect for a morning or late afternoon snack.",
+  "cuisine": "Norwegian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white yams",
+      "amount": 1,
+      "notes": null
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4,
+      "notes": null
+    },
+    {
+      "name": "black peppercorns",
+      "amount": 2,
+      "notes": null
+    },
+    {
+      "name": "bay leaves",
+      "amount": 1,
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": 3,
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "a pinch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Peel and chop the white yams into small pieces.",
+    "Melt a tablespoon of olive oil in a tagine-pot over medium heat. Add chopped garlic, black peppercorns, bay leaves, salt, and red pepper flakes. Sauté for about 2 minutes or until fragrant.",
+    "Add the white yam pieces to the pot. Cover with a lid and transfer to the preheated oven.",
+    "Bake for approximately 30-40 minutes or until the yams are tender and gooey.",
+    "Serve hot as a snack or breakfast treat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian-dish",
+    "paleo-friendly",
+    "peppery-gooey"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 27,
+    "fat": 8
+  },
+  "slug": "iwholesome-peppery-gooey-tagine-pot-white-yam",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/iwholesome-peppery-gooey-tagine-pot-white-yam",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T18:20:11Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "white yam",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "white yam",
+    "descriptor": "Peppery-Gooey",
+    "dishForm": "Tagine"
+  }
+}
