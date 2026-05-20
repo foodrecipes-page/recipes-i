@@ -2769,6 +2769,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-kenyan-caraway-seed-bake",
+    "title": "Indulgent Kenyan Caraway Seed Bake",
+    "tags": [
+      "breakfast",
+      "kenyan",
+      "one-pan",
+      "sattvic",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 65,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-kenyan-cheese-pie",
     "title": "Indulgent Kenyan Cheese Pie",
     "tags": [
@@ -8555,6 +8570,20 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-turkish-chickpeas-pide",
+    "title": "Intense Turkish Chickpeas Pide",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "turkish",
+      "vegan"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {

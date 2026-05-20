@@ -1,0 +1,80 @@
+{
+  "title": "Indulgent Kenyan Caraway Seed Bake",
+  "description": "A rich, flaky pastry filled with a savory mixture of spices and seeds, perfect for a comforting meal. Made with a mother sauce base for added depth of flavor, this dish is also Ayurvedic and Sattvic-friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mother sauce base",
+      "amount": "1 cup",
+      "notes": "see note"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the flour, salt, and cold butter. Use a pastry blender or your fingers to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "Gradually add in the ghee and caraway seeds, stirring until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "kenyan",
+    "one-pan",
+    "sattvic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 18
+  },
+  "slug": "indulgent-kenyan-caraway-seed-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-kenyan-caraway-seed-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:28:35Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "caraway seed",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "caraway seed",
+    "descriptor": "indulgent",
+    "dishForm": "bake"
+  }
+}
