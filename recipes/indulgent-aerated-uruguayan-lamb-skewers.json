@@ -1,0 +1,60 @@
+{
+  "title": "Indulgent Aerated Uruguayan Lamb Skewers",
+  "description": "Tender lamb shanks infused in a yeasty dough, served with a refreshing bonito-shave slaw.",
+  "cuisine": "uruguayan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shanks",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": "instant yeast also works, but reduce to 1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine warm water, yeast, and a pinch of sugar, and let it sit for 5 minutes until foamy.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Add the lamb shanks to the dough and knead for another 5 minutes until they are fully coated.",
+    "Shape the dough into small balls and then flatten them into disks, about 1/4 inch thick."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "aerated-lamb",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 28,
+    "fat": 27
+  },
+  "slug": "indulgent-aerated-uruguayan-lamb-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-aerated-uruguayan-lamb-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:52:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "bonito-shave",
+    "primaryIngredient": "lamb shanks",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "lamb",
+    "descriptor": "indulgent aerated",
+    "dishForm": "skewers"
+  }
+}
