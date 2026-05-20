@@ -1,0 +1,108 @@
+{
+  "title": "indulgent aerated portuguese red bean paste pastry",
+  "description": "a rich, airy pastry filled with anko-red-bean-paste and infused with ayurvedic sattvic oil",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tapioca starch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "anko-red-bean-paste",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "infuse-oil (ghee or coconut oil)",
+      "amount": "2 tablespoons",
+      "notes": "ayurvedic sattvic oil"
+    },
+    {
+      "name": "egg, lightly beaten",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400 degrees fahrenheit (200 degrees celsius). line a baking sheet with parchment paper.",
+    "in a medium bowl, whisk together the gluten-free flour, tapioca starch, and granulated sugar.",
+    "add the softened butter to the dry ingredients and mix until a crumbly dough forms.",
+    "stir in the anko-red-bean-paste and mix until well combined.",
+    "roll out the dough on a lightly floured surface to a thickness of about 1/4 inch (6 mm).",
+    "cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "place a tablespoon of the anko-red-bean-paste mixture in the center of each dough circle.",
+    "brush the edges of the dough with the beaten egg and fold the dough over the filling to form a triangle.",
+    "press the edges together to seal the pastry and use a fork to crimp the edges.",
+    "brush the tops of the pastries with the infused-oil and sprinkle with confectioners' sugar.",
+    "bake the pastries for 20-25 minutes, or until golden brown.",
+    "allow the pastries to cool on a wire rack for at least 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "dessert",
+    "one-pan",
+    "portuguese",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "indulgent-aerated-portuguese-red-bean-paste-pastry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-aerated-portuguese-red-bean-paste-pastry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T12:54:21Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "infuse-oil",
+    "primaryIngredient": "anko-red-bean-paste",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Red bean paste",
+    "descriptor": "Indulgent aerated",
+    "dishForm": "Pastry"
+  }
+}
