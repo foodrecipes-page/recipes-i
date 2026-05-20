@@ -1,0 +1,117 @@
+{
+  "title": "intense midnight thai vegetables tagine",
+  "description": "a briny, fluffy thai dish inspired by the flavors of isaan, featuring miniature marshmallows and dashi-extract",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "miniature marshmallows",
+      "amount": "1 cup",
+      "notes": "cut into quarters"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish-free tamarind paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "crushed lemongrass",
+      "amount": "2 stalks",
+      "notes": "about 1 tablespoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a large ceramic tagine over medium heat.",
+    "add the diced onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for an additional minute.",
+    "add the diced red bell pepper and cook until tender, about 3-4 minutes.",
+    "add the crushed lemongrass, fish-free tamarind paste, and dashi extract, stir to combine.",
+    "bring to a simmer and cook for 5-7 minutes, or until the sauce has thickened slightly.",
+    "add the shredded coconut and miniature marshmallows, stir to combine.",
+    "cook for an additional 2-3 minutes, or until the marshmallows have puffed slightly.",
+    "season with salt and black pepper to taste.",
+    "garnish with chopped fresh cilantro and serve hot.",
+    "serve over steamed jasmine rice or noodles for a filling dinner.",
+    "enjoy immediately, or refrigerate for up to 3 days and reheat when needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "one-pan",
+    "thai",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "intense-midnight-thai-vegetables-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-midnight-thai-vegetables-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:35:27Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "dashi-extract",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "vegetarian",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "vegetables",
+    "descriptor": "Intense Midnight",
+    "dishForm": "Tagine"
+  }
+}
