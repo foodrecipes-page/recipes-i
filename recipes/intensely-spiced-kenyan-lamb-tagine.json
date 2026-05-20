@@ -1,0 +1,111 @@
+{
+  "title": "Intensely Spiced Kenyan Lamb Tagine",
+  "description": "A rich and flavorful Kenyan-inspired lamb tagine, perfect for a weeknight dinner. Features a robust and spicy blend of Kenyan spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red chili pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a robata grill over medium-high heat.",
+    "Add the lamb mince and cook until browned, breaking it up into small pieces.",
+    "Add the onion, ginger, garliic, and red chili pepper to the grill and cook until the onion is translucent.",
+    "Add the cumin, coriander, turmeric, and paprika to the grill and cook for 1 minute.",
+    "Add the coconut milk to the grill and stir to combine.",
+    "Bring the mixture to a simmer and cook for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful",
+    "high-protein",
+    "kenyan",
+    "lamb",
+    "one-pan",
+    "robata-grill",
+    "spicy",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "intensely-spiced-kenyan-lamb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-spiced-kenyan-lamb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:46:44Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "lamb mince",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Lamb",
+    "descriptor": "Intensely Spiced",
+    "dishForm": "Tagine"
+  }
+}
