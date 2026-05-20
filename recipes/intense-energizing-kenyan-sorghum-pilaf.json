@@ -1,0 +1,106 @@
+{
+  "title": "Intense Kenyan Sorghum Pilaf",
+  "description": "A pungent and energizing Kenyan dish made with sorghum, demerara sugar, and a rich mother sauce base",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sorghum",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "demerara sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mother sauce base",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a medium saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sorghum, demerara sugar, mother sauce base, cumin, coriander, salt, and pepper. Stir well to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and stir in the remaining 1 tablespoon of coconut oil.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the pilaf hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kenyan",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intense-energizing-kenyan-sorghum-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-energizing-kenyan-sorghum-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T18:56:27Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "demerara sugar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sorghum",
+    "descriptor": "Intense, energizing",
+    "dishForm": "Pilaf"
+  }
+}
