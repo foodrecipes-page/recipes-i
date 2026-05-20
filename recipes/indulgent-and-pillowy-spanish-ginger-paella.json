@@ -1,0 +1,106 @@
+{
+  "title": "Indulgent and Pillowy Spanish Ginger Paella",
+  "description": "A unique twist on traditional paella, incorporating the warmth of ginger and the comfort of pillowy rice. Perfect for an indulgent dinner or special occasion.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ginger cordial",
+      "amount": "2 tablespoons",
+      "notes": "available at most health food stores or online"
+    },
+    {
+      "name": "Saffron-infused rice",
+      "amount": "1 1/2 cups",
+      "notes": "short-grain rice is ideal"
+    },
+    {
+      "name": "Lamb broth",
+      "amount": "2 3/4 cups",
+      "notes": "use a high-quality store-bought or homemade broth"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a good quality, cold-pressed oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "use a sweet onion like Vidalia or Maui"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced or crushed, your preference"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 (14.5 oz) can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Roasted red peppers",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large, lacquerware-bowl over medium-high heat.",
+    "Add the onion and garlic and sauté until the onion is translucent, about 5 minutes.",
+    "Add the rice and stir to combine with the onion and garlic mixture.",
+    "Add the ginger cordial, saffron, and broth, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the bowl with aluminum foil or a lid.",
+    "Simmer for 20 minutes, or until the rice is tender and fluffy.",
+    "Add the artichoke hearts, roasted red peppers, and a pinch of salt and pepper, stirring to combine.",
+    "Simmer for an additional 5 minutes, or until the flavors have melded together.",
+    "Remove the bowl from the heat and let it rest for 5 minutes, covered with foil or a lid.",
+    "Garnish with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ginger",
+    "gluten-free",
+    "paella",
+    "spanish-cuisine",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 1040,
+    "protein": 20,
+    "carbs": 190,
+    "fat": 42
+  },
+  "slug": "indulgent-and-pillowy-spanish-ginger-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-and-pillowy-spanish-ginger-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:29:50Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "ginger cordial",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Ginger",
+    "descriptor": "Indulgent and pillowy",
+    "dishForm": "Paella"
+  }
+}
