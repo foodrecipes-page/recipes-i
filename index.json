@@ -3671,6 +3671,21 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-mexican-poblano-barbacoa",
+    "title": "Indulgent Mexican Poblano Barbacoa",
+    "tags": [
+      "barbacoa",
+      "comfort-food",
+      "meat-lovers",
+      "mexican",
+      "one-pan",
+      "stracciatella"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 75,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-mexican-tortilla-quesadilla",
     "title": "Indulgent Mexican Tortilla Quesadilla",
     "tags": [

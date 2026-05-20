@@ -1,0 +1,107 @@
+{
+  "title": "Indulgent Mexican Poblano Barbacoa",
+  "description": "A rich and savory, crispy-skinned Mexican dish featuring roasted poblano peppers, melted stracciatella cheese, and tender beef.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Poblano peppers",
+      "amount": "4",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "Stracciatella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "6",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roast the poblano peppers on a baking sheet for 30 minutes, turning occasionally.",
+    "While the peppers are roasting, cook the ground beef in a large skillet over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once the peppers are done roasting, peel off the skin and chop them into a rough chop.",
+    "Add the cumin, paprika, salt, and black pepper to the ground beef and stir to combine.",
+    "Add the minced garlic to the ground beef and stir to combine.",
+    "Stir in the chopped poblano peppers.",
+    "Brush the corn tortillas with the olive oil and warm them in a dry skillet for a few seconds on each side.",
+    "Assemble the barbacoa by spooning the beef and pepper mixture onto a warmed tortilla, topping with melted stracciatella cheese, and serving immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "barbacoa",
+    "comfort-food",
+    "meat-lovers",
+    "mexican",
+    "one-pan",
+    "stracciatella"
+  ],
+  "nutrition": {
+    "calories": 1080,
+    "protein": 72,
+    "carbs": 60,
+    "fat": 72
+  },
+  "slug": "indulgent-mexican-poblano-barbacoa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-mexican-poblano-barbacoa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:25:25Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "saute",
+    "primaryIngredient": "stracciatella-cheese",
+    "diet": "nut-free",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Poblano",
+    "descriptor": "Indulgent",
+    "dishForm": "Barbacoa"
+  }
+}
