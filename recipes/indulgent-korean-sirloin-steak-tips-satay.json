@@ -1,0 +1,106 @@
+{
+  "title": "Indulgent Korean Sirloin Steak Tips Satay",
+  "description": "Sweet, pillowy, adventurous Korean (Gyeongsang) dish featuring sirloin steak tips, robata-grill, kosher-friendly.",
+  "cuisine": "korean",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "korean chili flakes (gochugaru)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "piloncillo",
+      "amount": "1 tablespoon",
+      "notes": "or brown sugar"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, brown sugar, rice vinegar, garlic, and ginger. Add the sirloin steak tips and marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Preheat the robata-grill to 400°F.",
+    "Thread the marinated sirloin steak tips onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, mix together the toasted sesame seeds, green onions, and chilies in a small bowl.",
+    "Brush the skewers with sesame oil and sprinkle the sesame seed mixture evenly over the top.",
+    "Serve the skewers hot with additional green onions and toasted sesame seeds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "korean",
+    "low-carb",
+    "satay",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 15,
+    "fat": 22
+  },
+  "slug": "indulgent-korean-sirloin-steak-tips-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-korean-sirloin-steak-tips-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:52:49Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "robata-grill",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "kosher",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Sirloin steak tips",
+    "descriptor": "Indulgent",
+    "dishForm": "Satay"
+  }
+}

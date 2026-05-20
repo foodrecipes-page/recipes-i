@@ -2288,6 +2288,20 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-fluffy-basque-comte-galette",
+    "title": "indulgent fluffy basque comte galette",
+    "tags": [
+      "breakfast-for-dessert",
+      "cheese-lovers",
+      "high-protein",
+      "low-carb",
+      "weeknight"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-fluffy-jamaican-jamaican-dried-apricot-dish-bake",
     "title": "indulgent-fluffy-jamaican-jamaican-dried-apricot-dish-bake",
     "tags": [
@@ -2899,6 +2913,20 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-korean-sirloin-steak-tips-satay",
+    "title": "Indulgent Korean Sirloin Steak Tips Satay",
+    "tags": [
+      "grilled",
+      "korean",
+      "low-carb",
+      "satay",
+      "weeknight"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 38,
     "shard": "i"
   },
   {
