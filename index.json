@@ -2332,6 +2332,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-fermented-croatian-grain-baked-pastry",
+    "title": "Indulgent Fermented Croatian Grain Baked Pastry",
+    "tags": [
+      "cheesy",
+      "croatian",
+      "dessert",
+      "grain-bread",
+      "indulgent",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-filipino-ikura-halo-halo",
     "title": "Indulgent Filipino Ikura Halo Halo",
     "tags": [
@@ -3749,6 +3765,22 @@
     ],
     "cuisine": "mediterranean",
     "totalTimeMin": 15,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-rainy-dutch-pepper-skillet",
+    "title": "Indulgent Rainy Dutch Pepper Skillet",
+    "tags": [
+      "ayurvedic-rajasic-friendly",
+      "black-pepper",
+      "comfort-food",
+      "high-calorie",
+      "monsoon-dinner",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {

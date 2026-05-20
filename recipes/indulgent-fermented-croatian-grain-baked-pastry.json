@@ -1,0 +1,125 @@
+{
+  "title": "Indulgent Fermented Croatian Grain Baked Pastry",
+  "description": "A rich, cheesy, and creamy pastry made with a mixture of grains, perfect for a warm evening. Made without onions or garlic for a unique flavor profile.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kamut flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Spelt flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bulgur wheat",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Whole milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheese (Croatian-style or similar)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt (plain, full-fat)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine Kamut flour, Spelt flour, Bulgur wheat, and salt in a large mixing bowl.",
+    "Gradually add water and mix until a dough forms.",
+    "Knead the dough for about 10 minutes, until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with plastic wrap, and let it rise in a warm place for about 1 hour, or until doubled in size.",
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the dough into a large rectangle, about 1/4-inch thick.",
+    "Spread the Cheese evenly over the dough, leaving a 1-inch border around the edges.",
+    "Dollop the Yogurt over the Cheese, followed by the Egg.",
+    "Fold the dough over the filling, pressing the edges to seal.",
+    "Place the pastry on a baking sheet lined with parchment paper.",
+    "Bake for about 35-40 minutes, or until golden brown and puffed.",
+    "Let the pastry rest for 10-15 minutes before slicing and serving.",
+    "Slice the pastry into thick slices and serve warm.",
+    "For an added touch, sprinkle with Sugar before serving.",
+    "Serve with melted Butter, if desired.",
+    "Note: If desired, use a pastry brush to apply a thin layer of egg wash to the pastry before baking for a golden glaze."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "croatian",
+    "dessert",
+    "grain-bread",
+    "indulgent",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "indulgent-fermented-croatian-grain-baked-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-fermented-croatian-grain-baked-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:09:51Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "spherify",
+    "primaryIngredient": "mixed grain",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "grain",
+    "descriptor": "Indulgent fermented",
+    "dishForm": "Baked Pastry"
+  }
+}

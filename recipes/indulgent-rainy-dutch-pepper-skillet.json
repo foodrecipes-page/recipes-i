@@ -1,0 +1,110 @@
+{
+  "title": "Indulgent Rainy Dutch Pepper Skillet",
+  "description": "A hearty, mustardy, and creamy Dutch dish perfect for a monsoon evening, made with black pepper and featuring a cast-iron skillet.",
+  "cuisine": "Dutch",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Boiled potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken stock",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a cast-iron skillet over medium heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-rajasic-friendly",
+    "black-pepper",
+    "comfort-food",
+    "high-calorie",
+    "monsoon-dinner",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "indulgent-rainy-dutch-pepper-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-rainy-dutch-pepper-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:09:05Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "boil",
+    "primaryIngredient": "black pepper",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pepper",
+    "descriptor": "Indulgent Rainy",
+    "dishForm": "Skillet"
+  }
+}
