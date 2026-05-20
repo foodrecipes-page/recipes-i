@@ -1,0 +1,128 @@
+{
+  "title": "Icy Indulgent Vietnamese Kale Nem Nuong",
+  "description": "A yeasty, fluffy, and indulgent Vietnamese dish featuring char-grilled kale, served with a refreshing sweet and spicy dip. Perfect for a lazy Sunday morning.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kale, chopped",
+      "amount": "1 bunch",
+      "notes": "Any variety of kale will work."
+    },
+    {
+      "name": "Vietnamese rice flour",
+      "amount": "2 cups",
+      "notes": "All-purpose flour can be used as a substitute."
+    },
+    {
+      "name": "Instant dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "Active dry yeast can be used instead."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use a flaky sea salt for added flavor."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Granulated sugar can be used instead."
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": "The water should be around 100F to 110F."
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "Corn flour can be used instead."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable oil can be used as a substitute."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lime juice is recommended."
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon",
+      "notes": "Fresh ginger can be used instead."
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "Red pepper flakes can be used instead."
+    },
+    {
+      "name": "Shredded carrots",
+      "amount": "1 cup",
+      "notes": "Optional, for added color and texture."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional, for garnish."
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the chopped kale, Vietnamese rice flour, instant dry yeast, salt, sugar, and cornstarch. Stir until the ingredients are well combined.",
+    "Gradually add the warm water to the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough for 5-7 minutes, until it becomes elastic and smooth.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1-2 hours, or until it has doubled in size.",
+    "Preheat a char-grill or grill pan to medium-high heat.",
+    "Punch down the dough and divide it into 8-10 equal pieces.",
+    "Roll out each piece into a thin sheet, about 1/16 inch thick.",
+    "Place a sheet of dough on the preheated grill and cook for 2-3 minutes, or until it is golden brown and slightly puffed.",
+    "Flip the nem nuong and cook for another 2-3 minutes, or until it is golden brown on the other side.",
+    "Repeat with the remaining dough pieces.",
+    "To make the sweet and spicy dip, combine the sesame oil, lime juice, ginger, and chili flakes in a bowl. Stir until the ingredients are well combined.",
+    "Add the shredded carrots and stir until they are well coated with the dip.",
+    "Serve the nem nuong with the sweet and spicy dip on the side, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "icy-indulgent-vietnamese-kale-nem-nuong",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-indulgent-vietnamese-kale-nem-nuong",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:52:58Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "kale",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Kale",
+    "descriptor": "Icy Indulgent",
+    "dishForm": "Nem Nuong"
+  }
+}
