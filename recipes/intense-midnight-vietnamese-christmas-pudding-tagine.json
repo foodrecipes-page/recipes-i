@@ -1,0 +1,489 @@
+{
+  "title": "Intense Midnight Vietnamese Christmas Pudding Tagine",
+  "description": "A pungent, molten dish featuring Christmas pudding, the spices of Vietnam and the unique cooking vessel of a tagine pot.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Christmas pudding",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Star anise",
+      "amount": "3 pieces",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cloves",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vietnamese cinnamon sticks",
+      "amount": "2 pieces",
+      "notes": null
+    },
+    {
+      "name": "Jasmine tea leaves",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Water chestnuts",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Jackfruit",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Shallots",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Galangal",
+      "amount": "4 inches",
+      "notes": null
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Crushed ice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Grape seed oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Dried mint leaves",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "8 cups",
+      "notes": null
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vietnamese cinnamon sticks",
+      "amount": "4 pieces",
+      "notes": null
+    },
+    {
+      "name": "Jasmine tea leaves",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Miso paste",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "8 cups",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "8 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vietnamese cinnamon sticks",
+      "amount": "8 pieces",
+      "notes": null
+    },
+    {
+      "name": "Jasmine tea leaves",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Miso paste",
+      "amount": "8 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "8 cups",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "8 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "8 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "8 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "4 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "16 cups",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "16 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vietnamese cinnamon sticks",
+      "amount": "16 pieces",
+      "notes": null
+    },
+    {
+      "name": "Jasmine tea leaves",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Miso paste",
+      "amount": "16 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "16 cups",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "16 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "16 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "16 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "8 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "4 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "32 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Combine Christmas pudding, ginger, star anise, cinnamon, cloves, cardamom, tamarind paste, coconut milk, brown sugar, vegetable oil, Vietnamese cinnamon sticks and jasmine tea leaves in a large bowl, mixing until just combined.",
+    "Transfer the mixture to the tagine pot and heat over medium-low heat, stirring occasionally, until the mixture is hot and fragrant, about 10 minutes.",
+    "Add the miso paste, water, fresh cilantro, lime juice, honey, sesame seeds, rice vinegar, crushed red pepper, salt, black pepper, sugar, water chestnuts, jackfruit, shallots, galangal, lemongrass, palm sugar, fish sauce, rice vinegar and water to the tagine pot, stirring to combine.",
+    "Continue to simmer, uncovered, over medium-low heat for 30 minutes, stirring occasionally.",
+    "Stir in the tahini, sesame oil, grape seed oil and Korean chili flakes.",
+    "Serve the Intense Midnight Vietnamese Christmas Pudding Tagine hot, garnished with additional fresh cilantro, lime wedges and crushed sesame seeds, if desired.",
+    "Let the dish rest for 10 minutes before serving, allowing the flavors to meld together.",
+    "Reheat the dish as needed before serving, adjusting the seasoning as needed.",
+    "Serve the Intense Midnight Vietnamese Christmas Pudding Tagine in individual portions, garnished with additional fresh cilantro, lime wedges and crushed sesame seeds, if desired.",
+    "Garnish with additional sesame seeds, fresh mint leaves and crushed ice, if desired.",
+    "Reheat the dish as needed before serving, adjusting the seasoning as needed, if desired."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 60,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intense-midnight-vietnamese-christmas-pudding-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-midnight-vietnamese-christmas-pudding-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:15:47Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "christmas pudding",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Christmas pudding",
+    "descriptor": "Intense Midnight",
+    "dishForm": "Tagine"
+  }
+}
