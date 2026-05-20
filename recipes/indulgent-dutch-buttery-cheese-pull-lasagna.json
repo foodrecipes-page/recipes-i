@@ -1,0 +1,115 @@
+{
+  "title": "indulgent dutch buttery cheese-pull lasagna",
+  "description": "a rich and creamy date-night dish featuring soya milk and a focaccia-style cheese pull, adapted to be fodmap-friendly",
+  "cuisine": "dutch",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "focaccia-style bread",
+      "amount": "1 loaf",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "soya milk",
+      "amount": "2 cups",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "unsalted vegan butter",
+      "amount": "120g",
+      "notes": "softened"
+    },
+    {
+      "name": "fodmap-friendly vegan mozzarella",
+      "amount": "250g",
+      "notes": "shredded"
+    },
+    {
+      "name": "fodmap-friendly vegan ricotta",
+      "amount": "200g",
+      "notes": "shredded"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat your oven to 175c",
+    "in a large saucepan, combine soya milk, vegan butter, garlic, thyme, salt, and pepper, and bring to a simmer over medium heat",
+    "reduce heat to low and let the braise simmer for 10 minutes",
+    "while the braise cooks, cook the focaccia-style bread in a skillet over medium heat until it is golden brown and crispy",
+    "once the braise has finished cooking, stir in the shredded mozzarella and ricotta",
+    "transfer the braise to a baking dish and top with the cooked focaccia-style bread and additional mozzarella and ricotta if desired",
+    "bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly",
+    "remove from the oven and sprinkle with chopped parsley",
+    "serve hot and enjoy!",
+    "let the dish rest for 5 minutes before slicing and serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "fodmap-friendly",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 70,
+    "fat": 24
+  },
+  "slug": "indulgent-dutch-buttery-cheese-pull-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-dutch-buttery-cheese-pull-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:26:24Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "braise",
+    "primaryIngredient": "soya milk",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "dutch",
+    "mainIngredient": "buttery cheese-pull",
+    "descriptor": "indulgent",
+    "dishForm": "lasagna"
+  }
+}
