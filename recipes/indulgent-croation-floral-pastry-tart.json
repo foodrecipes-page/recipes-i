@@ -1,0 +1,102 @@
+{
+  "title": "indulgent croatian floral pastry tart",
+  "description": "a delicate and romantic dessert featuring puff pastry, tempered chocolate, and edible flowers, perfect for a date night in.",
+  "cuisine": "croatian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "puff pastry (gluten-free)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "edible flowers (such as lavender or rose petals)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tempered chocolate",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat bamboo steamer to 375 degrees fahrenheit.",
+    "roll out puff pastry to a thickness of 1/8 inch.",
+    "cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "place a small spoonful of whipped cream in the center of each pastry circle.",
+    "top with a few edible flowers and a sprinkle of powdered sugar.",
+    "drizzle tempered chocolate over the top of the pastry.",
+    "place the pastry in the bamboo steamer and cook for 15 minutes, or until golden brown.",
+    "allow the pastry to cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "chocolate",
+    "date-night",
+    "dessert",
+    "floral",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "indulgent-croation-floral-pastry-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-croation-floral-pastry-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:09:28Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "puff pastry",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "croation",
+    "mainIngredient": "floral pastry",
+    "descriptor": "indulgent",
+    "dishForm": "tart"
+  }
+}
