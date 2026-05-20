@@ -1,0 +1,117 @@
+{
+  "title": "croatian yukon gold potatoes crumble",
+  "description": "a winey, crumbly, show-off croatian dish featuring yukon gold potatoes, caramelized to perfection. plant-based-friendly and sure to impress",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yukon gold potatoes",
+      "amount": "3 lbs",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegan breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegan grated cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375\u001012f (190\u001012c).",
+    "in a large bowl, toss the sliced potatoes with 2 tbsp of olive oil, salt, and black pepper until they are evenly coated.",
+    "spread the potatoes in a single layer on a baking sheet and roast for 20 minutes, or until they are tender and lightly browned.",
+    "in a large skillet, heat the remaining 2 tbsp of olive oil over medium heat. add the sliced onion and cook, stirring occasionally, until it is caramelized and golden brown, about 20-25 minutes.",
+    "add the minced garlic to the skillet and cook for 1 minute, stirring constantly to prevent burning.",
+    "add the white wine to the skillet and cook, stirring to deglaze the bottom, until the liquid has almost completely evaporated, about 5 minutes.",
+    "in a separate bowl, mix together the breadcrumbs, nutritional yeast, and a pinch of salt and pepper.",
+    "in a greased 9x13 inch baking dish, create a layer of potatoes followed by a layer of the breadcrumb mixture, and then a layer of vegan grated cheese. repeat this process until all of the ingredients have been used, ending with a layer of cheese on top.",
+    "bake the crumble in the preheated oven for 25-30 minutes, or until the top is golden brown and the potatoes are heated through.",
+    "remove the crumble from the oven and let it cool for a few minutes before serving.",
+    "sprinkle the chopped parsley over the top of the crumble before serving.",
+    "serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "croatian",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "i-croatian-yukon-gold-potatoes-crumble",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/i-croatian-yukon-gold-potatoes-crumble",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:01:42Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "caramelize",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "yukon gold potatoes",
+    "descriptor": "i",
+    "dishForm": "crumble"
+  }
+}
