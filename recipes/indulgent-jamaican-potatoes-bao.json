@@ -1,0 +1,109 @@
+{
+  "title": "Indulgent Jamaican Potatoes Bao",
+  "description": "A delicious, vegan-friendly twist on traditional bao featuring fluffy Jamaican potatoes and crispy ssam-wrapped goodness.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red potatoes",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground from freshly toasted allspice berries"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped",
+      "difficulty": "easy",
+      "tags": [
+        "jamaican",
+        "vegan",
+        "gluten-free",
+        "one-pan",
+        "bao"
+      ]
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped scotch bonnet peppers and cook for an additional 2 minutes.",
+    "Add the sliced red potatoes and cook for 5 minutes, until they begin to brown.",
+    "Add the allspice, thyme, and salt, and stir to combine.",
+    "Add the coconut milk and stir to coat the potatoes evenly.",
+    "Reduce heat to medium-low and simmer for 10 minutes, until the potatoes are tender.",
+    "Meanwhile, toast the ssam wraps by wrapping them in a damp paper towel and heating them in the microwave for 20-30 seconds.",
+    "Assemble the bao by spooning the potato mixture onto the center of each wrap, then topping with chopped cilantro and serving immediately."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "jamaican",
+    "dinner"
+  ],
+  "slug": "indulgent-jamaican-potatoes-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-jamaican-potatoes-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:47:45Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "red potatoes",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "potatoes",
+    "descriptor": "indulgent",
+    "dishForm": "Bao"
+  }
+}

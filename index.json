@@ -2944,6 +2944,17 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-jamaican-potatoes-bao",
+    "title": "Indulgent Jamaican Potatoes Bao",
+    "tags": [
+      "jamaican",
+      "dinner"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-jamaican-rice-skillet",
     "title": "Indulgent Jamaican Rice Skillet",
     "tags": [
@@ -4939,6 +4950,22 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-umami-greek-lamb-kleftiko",
+    "title": "Indulgent Umami Greek Lamb Kleftiko",
+    "tags": [
+      "comfort-food",
+      "greek",
+      "indulgent",
+      "lamb",
+      "slow-cooked",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 210,
     "shard": "i"
   },
   {
