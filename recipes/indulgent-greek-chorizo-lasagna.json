@@ -1,0 +1,104 @@
+{
+  "title": "Indulgent Greek Chorizo Lasagna",
+  "description": "Charred, cheese-pull, indulgent Greek dish featuring chorizo, coconut-cream-crack, keto-friendly. Layers of pasta, spicy chorizo, rich coconut cream, and plenty of melted mozzarella cheese create a dish that's both satisfying and rich",
+  "cuisine": "Greek",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chorizo Sausage",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Lasagna Noodles",
+      "amount": "12 sheets",
+      "notes": "oven-ready lasagna noodles, preferably fresh"
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat, unsweetened coconut milk creamer"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 oz",
+      "notes": "shredded, whole milk mozzarella cheese"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "8 oz",
+      "notes": "shredded, whole milk parmesan cheese"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "1 medium, thinly sliced onion"
+    },
+    {
+      "name": "Basil",
+      "amount": "1 bunch",
+      "notes": "fresh, chopped basil leaves"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced garlic, preferably fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "kosher salt, preferably flaky"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground black pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook lasagna noodles according to package instructions, then set aside.",
+    "Heat olive oil in a large skillet over medium-high heat, then cook chorizo sausage until browned, breaking up into small pieces as it cooks.",
+    "Add onion to the skillet and cook until translucent, about 3-4 minutes, then add minced garlic and cook for an additional minute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "indulgent",
+    "keto-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 2080,
+    "protein": 152,
+    "carbs": 12,
+    "fat": 172
+  },
+  "slug": "indulgent-greek-chorizo-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-greek-chorizo-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:03:36Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "chorizo",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chorizo",
+    "descriptor": "indulgent",
+    "dishForm": "Lasagna"
+  }
+}
