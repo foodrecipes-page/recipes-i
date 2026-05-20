@@ -1,0 +1,131 @@
+{
+  "title": "intense Peruvian cheese paella",
+  "description": "A rich and flavorful one-pot dish featuring a blend of Peruvian seasonings and gooey cheese. Perfect for plant-based and cheese lovers alike.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "notes": "diced"
+    },
+    {
+      "name": "Peruvian aji amarillo pepper",
+      "amount": "2-3",
+      "notes": "diced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "canned"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tbsp",
+      "notes": "apple cider vinegar or other white vinegar"
+    },
+    {
+      "name": "namul-blanch-season",
+      "amount": "2 tbsp",
+      "notes": "Peruvian seasoning blend"
+    },
+    {
+      "name": "ricotta salata cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "plus additional to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the diced red bell pepper and cook for an additional 2-3 minutes.",
+    "Add the diced aji amarillo pepper and cook for 1 minute.",
+    "Add the quinoa, water, tomatoes, vinegar, namul-blanch-season, and saffron to the skillet.",
+    "Stir to combine, then bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until the quinoa is tender and the liquid has been absorbed.",
+    "Stir in the ricotta salata cheese until melted and well combined.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the paella to a serving dish and garnish with chopped cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "peruvian",
+    "plant-based",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "intense-peruvian-cheese-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intense-peruvian-cheese-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:10:33Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "vinegar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cheese",
+    "descriptor": "intense",
+    "dishForm": "paella"
+  }
+}
