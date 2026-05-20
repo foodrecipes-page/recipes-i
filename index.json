@@ -3217,6 +3217,22 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-kenyan-lettuce-salad",
+    "title": "indulgent kenyan lettuce salad",
+    "tags": [
+      "breakfast-option",
+      "high-protein",
+      "kenyan",
+      "lacto-ovo-vegetarian",
+      "one-pan",
+      "salad",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-kenyan-minari-roast",
     "title": "Indulgent Kenyan Minari Roast",
     "tags": [

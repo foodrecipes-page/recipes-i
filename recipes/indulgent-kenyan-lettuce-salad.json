@@ -1,0 +1,115 @@
+{
+  "title": "indulgent kenyan lettuce salad",
+  "description": "cultured, crisp, indulgent kenyan dish featuring iceberg lettuce, kneaded in mediterranean spices and baked in a clay tajine",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "iceberg lettuce",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "knead",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375 fahrenheit.",
+    "in a clay tajine, mix together yogurt, ginger, garlic, lemon juice, olive oil, salt, black pepper, cumin, coriander, and knead in a mixing bowl.",
+    "add in the iceberg lettuce and toss until coated with the yogurt mixture.",
+    "transfer the mixture to a baking dish and bake for 20 minutes.",
+    "garnish with fresh cilantro before serving.",
+    "serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-option",
+    "high-protein",
+    "kenyan",
+    "lacto-ovo-vegetarian",
+    "one-pan",
+    "salad",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "indulgent-kenyan-lettuce-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-kenyan-lettuce-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:31:34Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "knead",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "lettuce",
+    "descriptor": "indulgent",
+    "dishForm": "salad"
+  }
+}
