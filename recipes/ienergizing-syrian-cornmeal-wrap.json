@@ -1,0 +1,95 @@
+{
+  "title": "energizing syrian cornmeal wrap",
+  "description": "sour, aerated, energizing syrian dish featuring cornmeal, leaf-wrap-steam. ovo-vegetarian friendly",
+  "cuisine": "syrian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "dried sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sour yogurt",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "mix together cornmeal, flour, warm water, sumac, salt, and black pepper in a bowl. cover and let rest for 30 minutes. heat a non-stick skillet over medium heat. brush with olive oil. cook for 2-3 minutes on each side or until crispy. mix together chopped parsley and scallions. spread sour yogurt on a plate. add cooked cornmeal mixture on top. sprinkle with parsley and scallion mixture. serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 4,
+  "totalTimeMin": 34,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cornmeal-recipe",
+    "gluten-free",
+    "healthy-snack",
+    "high-fiber",
+    "syrian-cuisine",
+    "wrap-recipe"
+  ],
+  "nutrition": {
+    "calories": 330,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "ienergizing-syrian-cornmeal-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ienergizing-syrian-cornmeal-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:15:54Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "cornmeal",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "cornmeal",
+    "descriptor": "ienergizing",
+    "dishForm": "Wrap"
+  }
+}
