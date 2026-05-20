@@ -1,0 +1,62 @@
+{
+  "title": "icy glazed syrian birds-eye chillies tagine",
+  "description": "a rich and savory post-workout dish featuring birds-eye chillies, a shojin-friendly option for a slate-tile vessel",
+  "cuisine": "syrian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "birds-eye chillies",
+      "amount": "1 lb",
+      "notes": "about 12 chillies, sliced"
+    }
+  ],
+  "instructions": [
+    "heat 2 tbsp olive oil in a large pan over medium heat.",
+    "add 3 cloves garlic, minced, and 1 tsp grated ginger, and cook for 1 min.",
+    "add 1 lb sliced birds-eye chillies and cook for 2 min.",
+    "add 1 tsp ground cumin and 1 tsp smoked paprika, and cook for 1 min.",
+    "stir in 2 tbsp flour to thicken the mixture.",
+    "add 1 cup water and 2 tbsp brown sugar, and bring to a boil.",
+    "reduce heat to low and simmer for 10 min.",
+    "stir in 2 tbsp lemon juice and 1 cup ice cubes to chill the mixture.",
+    "transfer the mixture to a slate-tile vessel and garnish with salt and black pepper.",
+    "place the vessel in the freezer to set the glaze for 10 min."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-calorie",
+    "one-pan",
+    "post-workout",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 45
+  },
+  "slug": "icy-glazed-syrian-birds-eye-chillies-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-glazed-syrian-birds-eye-chillies-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:49:38Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "glaze",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "birds-eye chillies",
+    "descriptor": "Icy Glazed",
+    "dishForm": "Tagine"
+  }
+}
