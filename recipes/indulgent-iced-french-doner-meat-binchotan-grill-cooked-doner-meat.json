@@ -1,0 +1,112 @@
+{
+  "title": "Indulgent Iced French Doner Meat Binchotan-Grill Cooked Doner Meat",
+  "description": "A twist on classic doner meat, served with a refreshing iced sauce and a side of toasted Madeleine. This dish is perfect for a weeknight dinner or lunch.",
+  "cuisine": "French",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Binchotan-grill-cooked doner meat",
+      "amount": "350g",
+      "notes": "Made from lamb and beef."
+    },
+    {
+      "name": "Madeleine",
+      "amount": "4-6",
+      "notes": "French petit madeleine cakes."
+    },
+    {
+      "name": "Burgundy wine reduction",
+      "amount": "50ml",
+      "notes": "Rich and fruity reduction made from burgundy wine."
+    },
+    {
+      "name": "Mustard mayonnaise",
+      "amount": "20g",
+      "notes": "Homemade mayonnaise with a tangy kick."
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "10g",
+      "notes": "Fresh and fragrant."
+    },
+    {
+      "name": "Salt",
+      "amount": "2g",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g",
+      "notes": "To taste."
+    },
+    {
+      "name": "Ice cubes",
+      "amount": "50g",
+      "notes": "For chilling the sauce."
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "15ml",
+      "notes": "To add a touch of citrus."
+    },
+    {
+      "name": "Water",
+      "amount": "200ml",
+      "notes": "For the sauce."
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "20g",
+      "notes": "For serving."
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 180 degrees Celsius.",
+    "Season the doner meat with salt and black pepper.",
+    "Grill the doner meat for 5 minutes on each side, or until cooked through.",
+    "Slice the cooked doner meat into thin strips.",
+    "Soak the Madeleine in water for a few minutes to make them soft.",
+    "Drain the Madeleine and toast them lightly on the binchotan grill.",
+    "Mix the burgundy wine reduction with the mustard mayonnaise to make the sauce.",
+    "Chill the sauce in the refrigerator for at least 30 minutes.",
+    "Serve the doner meat with the sauce, toasted Madeleine, and a sprinkle of parsley.",
+    "Refrigerate any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "doner-meat",
+    "french",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "indulgent-iced-french-doner-meat-binchotan-grill-cooked-doner-meat",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-iced-french-doner-meat-binchotan-grill-cooked-doner-meat",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:54:37Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "rest-meat",
+    "primaryIngredient": "doner meat",
+    "diet": "flexitarian",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Doner Meat",
+    "descriptor": "Indulgent Iced",
+    "dishForm": "Binchotan-Grill Cooked Doner Meat"
+  }
+}
