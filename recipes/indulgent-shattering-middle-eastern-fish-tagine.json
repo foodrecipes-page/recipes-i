@@ -1,0 +1,76 @@
+{
+  "title": "Indulgent Shattering Middle-Eastern Fish Tagine",
+  "description": "This rich and aromatic fish tagine is a masterclass in Middle Eastern flavors, with the addition of oyster sauce and a lacquer glaze to create a truly indulgent experience. The combination of earthy spices, crunchy vegetables, and succulent fish will leave you wanting more.",
+  "cuisine": "Middle Eastern",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lacquer glaze",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    }
+  ],
+  "name": "Carrots",
+  "amount": "4",
+  "notes": "Peeled and chopped",
+  "instructions": [
+    "In a large bowl, combine the cod fillets, oyster sauce, and lacquer glaze, and mix well to coat."
+  ],
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fish",
+    "high-protein",
+    "one-pan",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 10
+  },
+  "prepTimeMin": 15,
+  "slug": "indulgent-shattering-middle-eastern-fish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-shattering-middle-eastern-fish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:59:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "oyster sauce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Fish",
+    "descriptor": "Indulgent Shattering",
+    "dishForm": "Tagine"
+  }
+}
