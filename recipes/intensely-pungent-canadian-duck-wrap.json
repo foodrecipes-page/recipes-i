@@ -1,0 +1,126 @@
+{
+  "title": "intensely pungent canadian duck wrap",
+  "description": "a lazy-sunday canadian dish featuring tender duck, duck fat, and ssam-wrap. paleo-friendly and packed with flavor.",
+  "cuisine": "canadian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ssam-wrap",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "wild duck breast",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "duck fat",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400f (200c).",
+    "score duck breast in a crisscross pattern.",
+    "season with salt and black pepper.",
+    "place duck on a baking sheet lined with parchment paper.",
+    "roast duck in the oven for 20 minutes, or until cooked through.",
+    "while duck is cooking, heat duck fat in a skillet over medium heat.",
+    "add green onions and cook until softened, about 3-4 minutes.",
+    "add toasted sesame seeds and cook for 1 minute, stirring constantly.",
+    "add grated ginger and cook for 1 minute, stirring constantly.",
+    "add garlic and cook for 1 minute, stirring constantly.",
+    "add soy sauce and honey, and stir to combine.",
+    "cook for 1 minute, stirring constantly.",
+    "remove duck from the oven and let rest for 5 minutes.",
+    "slice duck into thin strips.",
+    "assemble wraps by placing a few slices of duck onto a ssam-wrap, followed by a spoonful of the green onion and sesame seed mixture.",
+    "drizzle with soy sauce and honey mixture, and top with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "easy-lunch",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 564,
+    "protein": 52,
+    "carbs": 14,
+    "fat": 40
+  },
+  "slug": "intensely-pungent-canadian-duck-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-pungent-canadian-duck-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:51:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "duck fat",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "duck",
+    "descriptor": "intensely pungent",
+    "dishForm": "Wrap"
+  }
+}
