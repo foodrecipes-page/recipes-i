@@ -1,0 +1,108 @@
+{
+  "title": "Indulgent Iced Japanese Pineapple Shoyu Ramen",
+  "description": "A refreshing twist on traditional Japanese ramen, featuring al-dente noodles, a rich shoyu broth, and chunks of juicy pineapple, served in a chilled, iced broth.",
+  "cuisine": "japanese",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Soba Noodles ",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Pineapple Chunks",
+      "amount": "1 cup",
+      "notes": "canned pineapple in juice, drained and rinsed"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "low-sodium, warmed"
+    },
+    {
+      "name": "Soy Sauce ",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced, for garnish"
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine warmed vegetable broth, soy sauce, and mirin in a bowl.",
+    "Stir in sesame oil and sesame seeds.",
+    "Add chilled pineapple chunks to the bowl and stir to combine.",
+    "Cook soba noodles according to package instructions until al-dente, then rinse with cold water and set aside.",
+    "To assemble the ramen, place noodles in a bowl and ladle the chilled broth over the top.",
+    "Garnish with thinly sliced green onions and chopped scallions, and sprinkle with chili flakes, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "fodmap-friendly",
+    "low-calorie",
+    "one-pan",
+    "spring",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "indulgent-iced-japanese-pineapple-shoyu-ramen",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-iced-japanese-pineapple-shoyu-ramen",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:15:57Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "fodmap",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Pineapple",
+    "descriptor": "Indulgent Iced",
+    "dishForm": "Shoyu Ramen"
+  }
+}
