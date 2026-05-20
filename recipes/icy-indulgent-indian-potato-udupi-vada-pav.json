@@ -1,0 +1,117 @@
+{
+  "title": "icy indulgent indian potato udupi vada pav",
+  "description": "floral and light, date-night udupi-inspired dish featuring crispy potato dumplings in toasted tortilla bread, served in individual mini cocottes. kosher-friendly and perfect for a romantic evening.",
+  "cuisine": "indian",
+  "diet": [
+    "kosher",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tortillas",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "boiled potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a mixing bowl, mash the boiled potatoes and mix in the chickpea flour, ghee, green chilies, ginger, lemon juice, cumin powder, chili powder, and salt.",
+    "divide the mixture into 12 equal portions and shape each portion into a round dumpling.",
+    "heat oil in a deep frying pan and fry the dumplings until they are golden brown and crispy.",
+    "drain the fried dumplings on paper towels and toast the tortillas in a toaster or in the oven for a few minutes until crispy.",
+    "assemble the vada pav by placing 2 fried dumplings on each tortilla, garnished with chopped cilantro and a sprinkle of dried mint.",
+    "serve the vada pav hot in individual mini cocottes."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 35,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dessert",
+    "indian",
+    "kosher-friendly",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "icy-indulgent-indian-potato-udupi-vada-pav",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-indulgent-indian-potato-udupi-vada-pav",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:55:05Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "dum",
+    "primaryIngredient": "tortillas",
+    "diet": "kosher",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "potato",
+    "descriptor": "Icy Indulgent",
+    "dishForm": "Udupi Vada Pav"
+  }
+}

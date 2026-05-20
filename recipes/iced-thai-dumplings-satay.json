@@ -1,0 +1,119 @@
+{
+  "title": "Iced Thai Dumplings Satay",
+  "description": "Tangy, shattering, and adventurous, this Thai dish is made with yeast and steam, making it jain-friendly.",
+  "cuisine": "thai",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wheat flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "use a vegan alternative if needed"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "ice cubes",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine wheat flour and yeast in a large mixing bowl.",
+    "Gradually add water and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rest in a warm place for 1 hour, or until it has doubled in size.",
+    "Steam the dough over boiling water for 10 minutes, or until it's cooked through.",
+    "Transfer the dough to a plate and brush with coconut milk.",
+    "Add kaffir lime leaves, fish sauce, palm sugar, and chili flakes on top of the dough.",
+    "Garnish with toasted peanuts and serve with ice cubes on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "jain",
+    "snack",
+    "thai",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "iced-thai-dumplings-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/iced-thai-dumplings-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:55:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "yeast",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Dumplings",
+    "descriptor": "Iced",
+    "dishForm": "Satay"
+  }
+}
