@@ -1,0 +1,100 @@
+{
+  "title": "Indulgent Spanish Boudin Noir Pa Amb Tomaquet",
+  "description": "This dish combines the spicy richness of Spanish boudin noir with the bold flavors of pa amb tomaquet, a classic Catalan recipe. With the addition of earthenware-cooked vegetables, this indulgent meal is truly one-of-a-kind.",
+  "cuisine": "Spanish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin noir",
+      "amount": "500g",
+      "notes": "made with pork blood, onions, garlic, and spices"
+    },
+    {
+      "name": "tomato",
+      "amount": "4",
+      "notes": "heirloom or beefsteak variety works well"
+    },
+    {
+      "name": "bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread such as baguette or ciabatta"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "also known as pimenton"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality, extra-virgin oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably flaky sea salt"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "100g",
+      "notes": "optional, but highly recommended"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 375°F (190°C).",
+    "Add the boudin noir to the fondue pot and cook for 10 minutes, stirring occasionally.",
+    "Meanwhile, slice the tomatoes in half and remove the seeds and excess liquid.",
+    "Heat the olive oil in a separate pan over medium heat and sauté the garlic until softened."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags:[": ")",
+  "calories": 800,
+  "protein": 30,
+  "carbs": 20,
+  "fat": 55,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "spanish",
+    "dinner"
+  ],
+  "slug": "indulgent-flaky-spanish-boudin-noir-pa-amb-tomaquet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-flaky-spanish-boudin-noir-pa-amb-tomaquet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:10:08Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "boudin-noir",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Boudin Noir",
+    "descriptor": "Indulgent, Flaky",
+    "dishForm": "Pa Amb Tomaquet"
+  }
+}
