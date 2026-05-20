@@ -656,6 +656,21 @@
     "shard": "i"
   },
   {
+    "slug": "icy-russian-sausage-stir-fry",
+    "title": "icy russian sausage stir-fry",
+    "tags": [
+      "comfort-food",
+      "heart-healthy",
+      "russian",
+      "sausage",
+      "stir-fry",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 20,
+    "shard": "i"
+  },
+  {
     "slug": "icy-sashimi-turkish-chicken-breast-doner-kebab",
     "title": "Icy Sashimi Turkish Chicken Breast Doner Kebab",
     "tags": [

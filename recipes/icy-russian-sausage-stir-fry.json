@@ -1,0 +1,105 @@
+{
+  "title": "icy russian sausage stir-fry",
+  "description": "a hearty, comforting stir-fry dish featuring russian sausage, served over a bed of crunchy, icy slaw",
+  "cuisine": "russian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russian sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat",
+    "add the sliced russian sausage and cook until browned, about 5 minutes",
+    "add the shredded cabbage and carrots and cook until slightly tender, about 3-4 minutes",
+    "stir in the apple cider vinegar, soy sauce, garlic, and black pepper",
+    "cook for an additional 1-2 minutes",
+    "serve the stir-fry over a bed of icy slaw, topped with a dollop of sour cream and chopped fresh dill",
+    "garnish with additional chopped fresh dill if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "heart-healthy",
+    "russian",
+    "sausage",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "icy-russian-sausage-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-russian-sausage-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:08:07Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "stir-fry",
+    "primaryIngredient": "sausage",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "sausage",
+    "descriptor": "iicy",
+    "dishForm": "Stir-fry"
+  }
+}
