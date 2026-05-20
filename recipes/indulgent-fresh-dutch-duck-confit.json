@@ -1,0 +1,110 @@
+{
+  "title": "indulgent fresh dutch duck confit",
+  "description": "a rich and indulgent take on a classic dutch dish, featuring tender duck, crispy skin, and a rich mother sauce base.",
+  "cuisine": "dutch",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole duck",
+      "amount": "1",
+      "notes": "4-6 lbs"
+    },
+    {
+      "name": "duck fat",
+      "amount": "2 cups",
+      "notes": "rendered from 1 cup duck skin"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "allspice",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "mother sauce base",
+      "amount": "2 cups",
+      "notes": "see note"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 275f.",
+    "season the duck with salt, black pepper, and allspice.",
+    "heat the duck fat in a large Dutch oven over medium heat.",
+    "add the garlic, shallots, thyme, and bay leaves to the pot and saut\u00023e until fragrant.",
+    "add the mother sauce base to the pot and stir to combine.",
+    "add the duck to the pot, breast side up, and cover with a lid.",
+    "transfer the pot to the preheated oven and braise for 2 hours, or until the duck is tender and the skin is crispy.",
+    "remove the pot from the oven and let it cool slightly.",
+    "skim the fat from the surface of the sauce and discard.",
+    "serve the duck with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "indulgent",
+    "one-pan",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 80,
+    "carbs": 10,
+    "fat": 70
+  },
+  "slug": "indulgent-fresh-dutch-duck-confit",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-fresh-dutch-duck-confit",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:04:25Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "duck fat",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "duck",
+    "descriptor": "indulgent fresh",
+    "dishForm": "Confit"
+  }
+}
