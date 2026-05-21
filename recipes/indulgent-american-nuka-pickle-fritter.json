@@ -1,0 +1,94 @@
+{
+  "title": "Indulgent American Nuka-Pickle Fritter",
+  "description": "A crispy, ovo-vegetarian Nuka-pickle fritter with a side of sweet and spicy dipping sauce, perfect for a snack or dessert.",
+  "cuisine": "American",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": "freshly ground is best"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "standard table salt is fine"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted and slightly cooled"
+    },
+    {
+      "name": "nuka-pickle (store-bought)",
+      "amount": "1 cup",
+      "notes": "chopped and drained"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "sharp is best"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 tbsp",
+      "notes": "chopped and fresh is best"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten and divided"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, baking powder, and salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "american",
+    "dessert",
+    "fritter",
+    "homemade",
+    "indulgent",
+    "nuka-pickle",
+    "snack",
+    "spicy",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 30
+  },
+  "slug": "indulgent-american-nuka-pickle-fritter",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-american-nuka-pickle-fritter",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:43:47Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "thyme",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "nuka-pickle",
+    "descriptor": "indulgent",
+    "dishForm": "fritter"
+  }
+}

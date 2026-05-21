@@ -1658,6 +1658,24 @@
     "shard": "i"
   },
   {
+    "slug": "indulgent-american-nuka-pickle-fritter",
+    "title": "Indulgent American Nuka-Pickle Fritter",
+    "tags": [
+      "american",
+      "dessert",
+      "fritter",
+      "homemade",
+      "indulgent",
+      "nuka-pickle",
+      "snack",
+      "spicy",
+      "sweet"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
     "slug": "indulgent-american-pork-dumplings",
     "title": "Indulgent American Pork Dumplings",
     "tags": [
