@@ -1,0 +1,107 @@
+{
+  "title": "Icy Crunchy Australian Fish Burger",
+  "description": "A refreshing twist on the classic burger featuring umeboshi, a sweet glaze, and crunchy slaw.",
+  "cuisine": "Australian",
+  "diet": [
+    "pescaterian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Soy-glazed Barramundi",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Umeboshi pickled daikon",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Australian sweet potato slaw",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "60ml",
+      "notes": "for the glaze"
+    },
+    {
+      "name": "Honey",
+      "amount": "2tbsp",
+      "notes": "for the glaze"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2tbsp",
+      "notes": "for the glaze"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1tsp",
+      "notes": "for the glaze"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "100g",
+      "notes": "for coating the fish"
+    },
+    {
+      "name": "Iceberg lettuce",
+      "amount": "1 lettuce",
+      "notes": ""
+    },
+    {
+      "name": "Australian bush tomato aioli",
+      "amount": "60g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium-high heat to 180°C.",
+    "In a shallow dish, mix together panko breadcrumbs and a pinch of salt.",
+    "Dip the soy-glazed Barramundi fillets in the panko mixture, coating both sides evenly.",
+    "Add a small amount of oil to the preheated pan and sear the fish for 3-4 minutes per side, until cooked through.",
+    "In a separate pan, toast the Korean chili flakes over low heat for 1-2 minutes, until fragrant.",
+    "Assemble the burgers by spreading a dollop of Australian bush tomato aioli on the bottom bun, followed by a cooked fish fillet, a slice of umeboshi pickled daikon, a spoonful of Australian sweet potato slaw, and finally the top bun.",
+    "Drizzle the glaze over the fish and serve immediately.",
+    "Garnish with a sprig of iceberg lettuce and serve with a side of toasted panko breadcrumbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "icy-crunchy-australian-fish-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/icy-crunchy-australian-fish-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:27:52Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "glaze",
+    "primaryIngredient": "umeboshi",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fish",
+    "descriptor": "icy crunchy",
+    "dishForm": "Burger"
+  }
+}

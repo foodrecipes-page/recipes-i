@@ -450,6 +450,20 @@
     "shard": "i"
   },
   {
+    "slug": "icy-crunchy-australian-fish-burger",
+    "title": "Icy Crunchy Australian Fish Burger",
+    "tags": [
+      "australian",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 28,
+    "shard": "i"
+  },
+  {
     "slug": "icy-delicate-thai-coconut-rice-kanom-ko",
     "title": "icy delicate thai coconut rice kanom ko",
     "tags": [
