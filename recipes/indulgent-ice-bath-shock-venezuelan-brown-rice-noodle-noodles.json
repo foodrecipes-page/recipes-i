@@ -1,0 +1,111 @@
+{
+  "title": "Indulgent Venezuelan Brown Rice Noodle Noodles",
+  "description": "Grassy, velvety Venezuelan brown rice noodle dish featuring an ice-bath-shock for a refreshing twist. Perfect for a light and indulgent meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "flexitarian",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brown Rice Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ice Cubes",
+      "amount": "12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring vegetable broth to a boil in a large saucepan.",
+    "Add brown rice noodles and cook according to package instructions.",
+    "In a separate pan, heat vegetable oil over medium heat.",
+    "Add garlic, ginger, and cilantro. Cook until fragrant.",
+    "Stir in lime juice and season with salt and black pepper.",
+    "Drain noodles and transfer to an ice bath to shock.",
+    "Once chilled, add noodles to the pan with cilantro mixture and toss to combine.",
+    "Serve immediately and garnish with additional cilantro if desired.",
+    "Store leftover noodles in the refrigerator for up to 3 days.",
+    "Reheat noodles in the pan over low heat to prevent overcooking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "indulgent-ice-bath-shock-venezuelan-brown-rice-noodle-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-ice-bath-shock-venezuelan-brown-rice-noodle-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:25:46Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "brown rice noodle",
+    "descriptor": "indulgent ice-bath-shock",
+    "dishForm": "noodles"
+  }
+}
