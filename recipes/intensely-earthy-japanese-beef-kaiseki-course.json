@@ -1,0 +1,101 @@
+{
+  "title": "Tohoku Earthy Beef Kaiseki Course",
+  "description": "A traditional Japanese Kaiseki course featuring earthy and crunchy elements, with a focus on rest-meat and macrobiotic-friendly ingredients, finished with a touch of powdered sugar.",
+  "cuisine": "Japanese",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 lb",
+      "notes": "rested for 24 hours"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "dried and rehydrated"
+    },
+    {
+      "name": "Lotus root",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Japanese pumpkin",
+      "amount": "1 small",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the Wagyu beef with salt and pepper, then sear it in a hot skillet with sesame oil until browned on all sides.",
+    "Transfer the beef to the oven and roast for 20 minutes, or until it reaches an internal temperature of 130 degrees Fahrenheit.",
+    "While the beef is cooking, saute the rehydrated shiitake mushrooms in a separate skillet with soy sauce and mirin until they are tender and caramelized.",
+    "Add the sliced lotus root and cubed Japanese pumpkin to the skillet with the mushrooms and cook until they are tender and lightly browned.",
+    "Remove the beef from the oven and let it rest for 10 minutes before slicing it thinly against the grain.",
+    "To serve, place a slice of the rested beef on each plate, then spoon the mushroom and vegetable mixture over the top.",
+    "Garnish with toasted sesame seeds and a sprinkle of powdered sugar.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "earth-tones",
+    "japanese-cuisine",
+    "kaiseki-course",
+    "macrobiotic-friendly",
+    "rested-meat",
+    "sesame-oil"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "intensely-earthy-japanese-beef-kaiseki-course",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-earthy-japanese-beef-kaiseki-course",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T08:11:56Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "rest-meat",
+    "primaryIngredient": "powdered sugar",
+    "diet": "macrobiotic",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "beef",
+    "descriptor": "Intensely earthy",
+    "dishForm": "Kaiseki Course"
+  }
+}

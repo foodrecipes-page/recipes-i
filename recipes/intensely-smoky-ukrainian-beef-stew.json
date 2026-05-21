@@ -1,0 +1,102 @@
+{
+  "title": "Intensely Smoky Ukrainian Beef Stew",
+  "description": "A sweet and smoky Ukrainian dish featuring beef, smoky paprika, and kombu-cold-extract, perfect for a comforting meal prep dinner",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large molcajete over medium-high heat",
+    "Add the beef cubes and cook until browned on all sides, about 5 minutes",
+    "Add the chopped onion and cook until softened, about 3 minutes",
+    "Add the smoky paprika, kombu-cold-extract, salt, and black pepper, and stir to combine",
+    "Add the chopped carrots and potatoes, and stir to combine",
+    "Add the beef broth and tomato paste, and stir to combine",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours",
+    "Serve hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "fodmap-friendly",
+    "meal-prep",
+    "one-pot",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "intensely-smoky-ukrainian-beef-stew",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-smoky-ukrainian-beef-stew",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T08:11:35Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "smoky paprika",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "intensely smoky",
+    "dishForm": "Stew"
+  }
+}

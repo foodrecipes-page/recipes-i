@@ -10931,6 +10931,21 @@
     "shard": "i"
   },
   {
+    "slug": "intensely-earthy-japanese-beef-kaiseki-course",
+    "title": "Tohoku Earthy Beef Kaiseki Course",
+    "tags": [
+      "earth-tones",
+      "japanese-cuisine",
+      "kaiseki-course",
+      "macrobiotic-friendly",
+      "rested-meat",
+      "sesame-oil"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 70,
+    "shard": "i"
+  },
+  {
     "slug": "intensely-earthy-slovakian-millet-gratin",
     "title": "intensely earthy slovakian millet gratin",
     "tags": [
@@ -13961,6 +13976,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-smoky-ukrainian-beef-stew",
+    "title": "Intensely Smoky Ukrainian Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "fodmap-friendly",
+      "meal-prep",
+      "one-pot",
+      "smoky"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 180,
     "shard": "i"
   },
   {
