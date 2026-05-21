@@ -1,0 +1,114 @@
+{
+  "title": "intensely umami grilled mediterranean vegetarian skewers",
+  "description": "umami-rich mediterranean dish featuring golden syrup and kombu-cold-extract, perfect for a hangover cure.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "1 pound",
+      "notes": "cleaned and stemmed"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "yellow squash",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons",
+      "notes": "see notes for extraction process"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried",
+      "tags": [
+        "umami",
+        "mediterranean",
+        "grilled",
+        "vegetarian"
+      ]
+    }
+  ],
+  "instructions": [
+    "preheat robata grill to 400°f (200°c).",
+    "thread portobello mushrooms, zucchini, yellow squash, red bell pepper, and red onion onto skewers, leaving a small space between each piece.",
+    "in a small bowl, whisk together golden syrup, kombu-cold-extract, and lemon juice.",
+    "brush the skewers with olive oil and season with oregano, garlic, and salt.",
+    "grill the skewers for 8-10 minutes, or until the vegetables are tender and lightly charred."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "intensely-umami-grilled-mediterranean-vegetarian-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/intensely-umami-grilled-mediterranean-vegetarian-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:33:14Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "golden syrup",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "vegetarian",
+    "descriptor": "intensely umami grilled",
+    "dishForm": "skewers"
+  }
+}
