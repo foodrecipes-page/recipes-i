@@ -1,0 +1,111 @@
+{
+  "title": "Indulgent Icy Japanese Salmon Noodles",
+  "description": "A refreshing, briny noodle dish featuring flaky salmon and a hint of bay leaf, perfect for a quick and easy dinner.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soba noodles",
+      "amount": "8 oz",
+      "notes": "preferably buckwheat soba"
+    },
+    {
+      "name": "salmon fillet",
+      "amount": "4 oz",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1 tsp",
+      "notes": "optional, but recommended for a rich umami flavor"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "2",
+      "notes": "fresh or dried, chopped"
+    },
+    {
+      "name": "dashi powder",
+      "amount": "1 tsp",
+      "notes": "or use a dashi mix"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "preferably Japanese soy sauce"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional, to balance the flavors"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced, for garnish"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the soba noodles according to the package instructions, usually 3-5 minutes.",
+    "In a separate pan, heat the soy sauce, mirin, sugar, and dashi powder over medium heat.",
+    "Add the salmon fillet and cook for 2-3 minutes per side, until cooked through, then set aside.",
+    "Add the bonito flakes and bay leaf to the pan and cook for 1 minute, stirring constantly.",
+    "Add the cooked soba noodles to the pan and toss everything together to combine.",
+    "Slice the cooked salmon into thin pieces and add it to the noodles.",
+    "Garnish with green onion, cilantro, and sesame seeds, if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "dinner-party",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "indulgent-icy-japanese-salmon-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/indulgent-icy-japanese-salmon-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T16:56:47Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "bonito-shave",
+    "primaryIngredient": "bay leaf",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Salmon",
+    "descriptor": "Indulgent Icy",
+    "dishForm": "Noodles"
+  }
+}
