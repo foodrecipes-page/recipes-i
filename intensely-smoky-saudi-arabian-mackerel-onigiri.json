@@ -1,0 +1,78 @@
+{
+  "slug": "intensely-smoky-saudi-arabian-mackerel-onigiri",
+  "title": "Smoked Mackerel Onigiri",
+  "description": "A Japanese-inspired snack using smoked mackerel, typically served as a light meal or appetizer.",
+  "cuisine": null,
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked Mackerel",
+      "amount": "1 (6 oz) can",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "Japanese Rice",
+      "amount": "2 cups",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tbsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Sushi Vinegar",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Grated Daikon Radish",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese rice thoroughly and cook according to package instructions.",
+    "Prepare the filling by mixing the flaked mackerel with sesame oil, soy sauce, and sushi vinegar.",
+    "Once the rice has cooled, shape it into triangles or ovals, about 1 1/2 inches in size.",
+    "Place a small spoonful of the mackerel filling in the center of each rice shape, leaving a small border around the edges.",
+    "Gently fold the rice over the filling to form a triangle or oval shape, applying gentle pressure to form a compact triangle.",
+    "Repeat with the remaining rice and filling.",
+    "Just before serving, garnish each onigiri with toasted sesame seeds and a sprinkle of grated daikon radish, if using.",
+    "Serve immediately, or store in an airtight container in the refrigerator for up to a day."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mackerel",
+    "onigiri",
+    "japanese",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-saudi-arabian-mackerel-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:01:53.792Z"
+}
