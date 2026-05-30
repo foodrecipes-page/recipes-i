@@ -1,0 +1,81 @@
+{
+  "slug": "indulgent-peruvian-fish-ceviche",
+  "title": "Peruvian Ceviche Recipe",
+  "description": "A refreshing and zesty Peruvian-inspired ceviche dish made with raw fish marinated in citrus juices. Perfect for a light and flavorful meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Halibut",
+      "amount": "1 pound",
+      "notes": "Raw, sashimi-grade"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "1/4 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "1/4 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Aji Amarillo Pepper",
+      "amount": "2 tablespoons",
+      "notes": "Chopped, or substitute with jalapeno"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the halibut into small pieces and place in a large bowl.",
+    "In a small bowl, mix together lime juice, lemon juice, aji amarillo pepper, and salt.",
+    "Pour the marinade over the halibut and mix well to coat.",
+    "Refrigerate for at least 30 minutes to allow the fish to marinate.",
+    "Just before serving, stir in the chopped cilantro.",
+    "Taste and adjust the seasoning with black pepper as needed.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "ceviche",
+    "fish",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-peruvian-fish-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:39:13.880Z"
+}
