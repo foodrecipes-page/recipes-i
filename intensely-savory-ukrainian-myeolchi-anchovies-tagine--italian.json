@@ -1,0 +1,95 @@
+{
+  "slug": "intensely-savory-ukrainian-myeolchi-anchovies-tagine--italian",
+  "title": "Anchovy and Myeolchi Tagine Italian Stew",
+  "description": "A flavorful and savory Italian-inspired stew made with anchovies, myeolchi, and other Italian staples.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Anchovies",
+      "amount": "1/4 cup",
+      "notes": "rinsed and chopped"
+    },
+    {
+      "name": "Myeolchi",
+      "amount": "1 cup",
+      "notes": "dried and soaked overnight"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Canned tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the chopped anchovies and cook for 1-2 minutes, until fragrant.",
+    "Add the soaked myeolchi, tomato paste, canned tomatoes, Worcestershire sauce, and Italian seasoning.",
+    "Stir to combine, then bring the stew to a simmer.",
+    "Reduce heat to low and cook, covered, for 20-25 minutes, or until the flavors have melded together and the myeolchi is tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh parsley or basil, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "stew",
+    "vegetarian",
+    "anchovies",
+    "myeolchi"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-ukrainian-myeolchi-anchovies-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:05:15.782Z"
+}
