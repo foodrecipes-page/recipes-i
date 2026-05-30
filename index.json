@@ -2574,18 +2574,15 @@
   },
   {
     "slug": "indulgent-egyptian-chestnut-pilaf",
-    "title": "Indulgent Egyptian Chestnut Pilaf",
+    "title": "Egyptian Pilaf with Chestnut and Indulgent Touch",
     "tags": [
       "egyptian",
-      "healthy",
-      "kosher-friendly",
       "pilaf",
-      "pillowy",
-      "savory",
-      "weeknight"
+      "chestnut",
+      "vegetarian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -12477,16 +12474,15 @@
   },
   {
     "slug": "intensely-pungent-kenyan-beef-stew",
-    "title": "Intensely Pungent Kenyan Beef Stew",
+    "title": "Kenyan Beef Stew",
     "tags": [
-      "beef-recipe",
-      "comfort-food",
-      "hearty-stew",
-      "kenyan-cuisine",
-      "slow-cooker"
+      "kenyan",
+      "beef",
+      "stew",
+      "pungent"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 150,
+    "totalTimeMin": 110,
     "shard": "i"
   },
   {
@@ -15071,16 +15067,16 @@
   },
   {
     "slug": "intricate-mustardy-french-cream-eclair",
-    "title": "Intricate Mustardy French Cream Eclair",
+    "title": "Creamy French Éclair Tart",
     "tags": [
-      "brunch-ideas",
-      "cream-filled",
-      "french-pastry",
-      "mustard-based",
-      "sugar-free-treats"
+      "french",
+      "dessert",
+      "tart",
+      "pastry",
+      "éclair"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
