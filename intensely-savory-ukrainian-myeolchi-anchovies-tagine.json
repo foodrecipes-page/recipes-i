@@ -1,0 +1,94 @@
+{
+  "slug": "intensely-savory-ukrainian-myeolchi-anchovies-tagine",
+  "title": "Anchovy Tagine with Myeolchi",
+  "description": "A hearty, savory dish that combines the bold flavors of anchovies and myeolchi with the spices of traditional Ukrainian tagine.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Myeolchi (Korean anchovies)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Anchovies",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay pot or Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional 1-2 minutes.",
+    "Add the myeolchi and anchovies, and cook for 2-3 minutes.",
+    "Add the thyme, oregano, salt, black pepper, and crushed red pepper.",
+    "Stir well to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 10-15 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "savory",
+    "anchovies",
+    "myeolchi",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-ukrainian-myeolchi-anchovies-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:39:18.118Z"
+}
