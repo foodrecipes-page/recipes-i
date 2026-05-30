@@ -4187,18 +4187,15 @@
   },
   {
     "slug": "indulgent-peruvian-fish-ceviche",
-    "title": "Indulgent Peruvian Fish Ceviche",
+    "title": "Peruvian Ceviche Recipe",
     "tags": [
-      "ceviche",
-      "deep-fried",
-      "fish",
-      "herbal",
       "peruvian",
-      "rum",
-      "weeknight"
+      "ceviche",
+      "fish",
+      "indulgent"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "i"
   },
   {
@@ -6404,18 +6401,16 @@
   },
   {
     "slug": "intense-argentinian-beef-empanadas",
-    "title": "Intense Argentinian Beef Empanadas",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
-      "argentine",
+      "argentinian",
       "beef",
-      "gluten-free",
-      "low-fat",
-      "meal-prep",
-      "quick",
-      "savory"
+      "empanadas",
+      "snack",
+      "dinner"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 58,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
