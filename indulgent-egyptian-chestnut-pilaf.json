@@ -1,0 +1,99 @@
+{
+  "slug": "indulgent-egyptian-chestnut-pilaf",
+  "title": "Egyptian Pilaf with Chestnut and Indulgent Touch",
+  "description": "A flavorful pilaf dish infused with the warmth of Egyptian spices and the sweetness of chestnut, topped with a rich and indulgent finishing touch.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chestnuts",
+      "amount": "1 cup",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Crumbly feta cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Stir in cumin, coriander, paprika, salt, and pepper.",
+    "Add chestnuts and cook for 2 minutes.",
+    "Add pilaf and stir to combine.",
+    "Cook for 5 minutes, stirring occasionally.",
+    "Fluff pilaf with a fork and top with crumbled feta.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "pilaf",
+    "chestnut",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-egyptian-chestnut-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:50:51.011Z"
+}
