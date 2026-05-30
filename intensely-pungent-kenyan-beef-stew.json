@@ -1,0 +1,86 @@
+{
+  "slug": "intensely-pungent-kenyan-beef-stew",
+  "title": "Kenyan Beef Stew",
+  "description": "A hearty beef stew originating from Kenya, perfect for a cold evening. The pungent flavors of the intensely flavored ingredients will leave you wanting more.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (1.5 lbs)",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion (1 large)",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan Stew Spice (1 tsp)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Sauce (1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pungent Spices (1 tsp)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water (2 cups)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt (1 tsp)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper (1 tsp)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the beef in a large pot over medium-high heat.",
+    "Add the onion and garlic and cook until softened.",
+    "Add the Kenyan Stew Spice, Tomato Sauce, Pungent Spices, Salt, and Black Pepper.",
+    "Add the water and bring to a boil.",
+    "Reduce heat to low and simmer for 1.5 hours.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "beef",
+    "stew",
+    "pungent"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-pungent-kenyan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:54:26.580Z"
+}
