@@ -1,0 +1,75 @@
+{
+  "slug": "intensely-gooey-japanese-rhubarb-shoyu-ramen",
+  "title": "Gooey Ramen with Sweet Rhubarb",
+  "description": "A twist on traditional ramen with sweet rhubarb and gooey sauce. This Japanese-inspired dish is perfect for a cozy night in.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Ramen Noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "Shoyu",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pork or Chicken Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup, sliced"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Cook the ramen noodles according to package instructions.",
+    "In a separate pot, combine the broth, soy sauce, sugar, and shoyu. Bring to a boil and then reduce heat to a simmer.",
+    "Add the sliced rhubarb to the pot and cook for 5-7 minutes, or until tender.",
+    "In a small saucepan, combine the gochujang and 1 tablespoon of water. Cook over low heat, stirring constantly, until the sauce is gooey and syrupy.",
+    "To assemble the dish, place cooked noodles in a bowl, then add slices of rhubarb and a spoonful of the gooey sauce.",
+    "Garnish with green onions and sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "japanese",
+    "sweet",
+    "gooey"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-gooey-japanese-rhubarb-shoyu-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:04:51.253Z"
+}
