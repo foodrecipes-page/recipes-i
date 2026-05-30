@@ -1,0 +1,91 @@
+{
+  "slug": "incredibly-crunchy-german-potato-fritters--thai",
+  "title": "Thai Crunchy Potato Fritters",
+  "description": "Crispy and delicious Thai-style fritters made with potatoes and a hint of spice.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Grate the potatoes and squeeze out excess moisture.",
+    "In a large bowl, combine the grated potatoes, flour, cornstarch, ginger, curry paste, egg, salt, and pepper. Mix well.",
+    "Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "Using a spoon, drop small amounts of the potato mixture into the hot oil.",
+    "Fry the fritters until they are golden brown and crispy, about 3-4 minutes per side.",
+    "Drain the fritters on paper towels.",
+    "Serve the fritters hot with chopped scallions on top.",
+    "Enjoy your delicious Thai crunchy potato fritters!",
+    "Note: You can also bake the fritters in a preheated oven at 375°F (190°C) for about 15-20 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "snack",
+    "potatofritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-crunchy-german-potato-fritters--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:02:22.026Z"
+}
