@@ -1,0 +1,72 @@
+{
+  "slug": "incredibly-crunchy-german-potato-fritters",
+  "title": "German Potato Fritters",
+  "description": "A traditional German recipe for crispy potato fritters, perfect as a side dish or appetizer.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "Grate the potatoes and onion, and squeeze out excess moisture.",
+    "In a bowl, combine the grated potatoes, onion, flour, egg, salt, and pepper. Mix well.",
+    "Heat about 1 inch of olive oil in a large frying pan over medium-high heat.",
+    "Using a spoon, drop small amounts of the potato mixture into the hot oil.",
+    "Press the mixture down slightly to form patties.",
+    "Fry for 4-5 minutes on each side, until golden brown and crispy.",
+    "Drain the fritters on paper towels.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potato",
+    "fritters",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-crunchy-german-potato-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:38:02.373Z"
+}
