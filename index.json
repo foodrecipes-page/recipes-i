@@ -2483,18 +2483,16 @@
   },
   {
     "slug": "indulgent-dutch-cream-toast",
-    "title": "Indulgent Dutch Cream Toast",
+    "title": "Dutch Toast with Creamy Indulgence",
     "tags": [
       "breakfast",
-      "dessert",
-      "dutch",
-      "easy",
-      "low-calorie",
       "sweet",
-      "weeknight"
+      "indulgent",
+      "dutch",
+      "cream"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "totalTimeMin": 13,
     "shard": "i"
   },
   {
@@ -5590,18 +5588,15 @@
   },
   {
     "slug": "indulgent-vietnamese-coconut-bowl",
-    "title": "Indulgent Vietnamese Coconut Bowl",
+    "title": "Coconut Vietnamese Chicken Bowl",
     "tags": [
-      "creamy",
-      "dessert",
-      "gluten-free",
-      "herbal",
-      "quick",
-      "raw-friendly",
-      "vegan"
+      "coconut",
+      "vietnamese",
+      "bowl",
+      "chicken"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 15,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -15515,16 +15510,15 @@
   },
   {
     "slug": "intricately-wrapped-mexican-fish-tacos",
-    "title": "Intricately Wrapped Mexican Fish Tacos",
+    "title": "Baja-Style Fish Tacos",
     "tags": [
-      "easy-to-make",
-      "healthy",
-      "low-carb",
-      "mexican-food",
-      "seafood"
+      "mexican",
+      "fish",
+      "tacos",
+      "easy"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 28,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
