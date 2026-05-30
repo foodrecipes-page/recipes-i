@@ -13948,17 +13948,15 @@
   },
   {
     "slug": "intensely-smoky-saudi-arabian-mackerel-onigiri",
-    "title": "Intensely Smoky Saudi Arabian Mackerel Onigiri",
+    "title": "Smoked Mackerel Onigiri",
     "tags": [
-      "easy-to-make",
-      "healthy-snack",
-      "high-protein",
-      "one-pan",
-      "smoky-flavor",
-      "weeknight"
+      "mackerel",
+      "onigiri",
+      "japanese",
+      "fish"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -16457,6 +16455,18 @@
     ],
     "cuisine": "Saudia-Arabian",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "incredibly-crunchy-german-potato-fritters--thai",
+    "title": "Thai Crunchy Potato Fritters",
+    "tags": [
+      "thaifood",
+      "snack",
+      "potatofritters"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 23,
     "shard": "i"
   }
 ]
