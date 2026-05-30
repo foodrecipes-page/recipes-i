@@ -1,0 +1,77 @@
+{
+  "slug": "indulgent-filipino-ikura-halo-halo",
+  "title": "Halo-Halo Filipino Dessert with Ikura Topping",
+  "description": "A Filipino-inspired dessert featuring shaved ice, sweetened beans, fruits, and a topping of ikura for a luxurious twist. This refreshing treat is perfect for hot summer days.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "shaved ice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ube halaya",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kamote halaya",
+      "amount": "1 cup"
+    },
+    {
+      "name": "leche flan",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sweetened beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ikura",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "chopped sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine ube halaya, kamote halaya, and leche flan in a large bowl.",
+    "Add shaved ice to the bowl and mix until well combined.",
+    "Add sweetened beans and mix until evenly distributed.",
+    "Spoon the mixture into individual serving cups or glasses.",
+    "Top each serving with a piece of ikura.",
+    "Garnish with chopped sesame seeds and a drizzle of coconut milk.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "halo-halo",
+    "filipino-dessert",
+    "ikura-topping"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-filipino-ikura-halo-halo",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:06:21.888Z"
+}
