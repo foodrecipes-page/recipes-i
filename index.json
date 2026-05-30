@@ -2692,16 +2692,14 @@
   },
   {
     "slug": "indulgent-filipino-ikura-halo-halo",
-    "title": "Indulgent Filipino Ikura Halo Halo",
+    "title": "Halo-Halo Filipino Dessert with Ikura Topping",
     "tags": [
-      "easy-to-make",
+      "halo-halo",
       "filipino-dessert",
-      "gluten-free",
-      "indulgent-treat",
-      "sweet-tooth"
+      "ikura-topping"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 30,
+    "totalTimeMin": 10,
     "shard": "i"
   },
   {
@@ -11705,17 +11703,15 @@
   },
   {
     "slug": "intensely-gooey-japanese-rhubarb-shoyu-ramen",
-    "title": "Intensely Gooey Japanese Rhubarb Shoyu Ramen",
+    "title": "Gooey Ramen with Sweet Rhubarb",
     "tags": [
-      "japanese-ramen",
-      "keto-friendly",
-      "low-carb",
-      "pork-belly",
-      "rhubarb-recipes",
-      "shoyu-sauce"
+      "ramen",
+      "japanese",
+      "sweet",
+      "gooey"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -16467,6 +16463,20 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 23,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-ukrainian-myeolchi-anchovies-tagine--italian",
+    "title": "Anchovy and Myeolchi Tagine Italian Stew",
+    "tags": [
+      "italian",
+      "stew",
+      "vegetarian",
+      "anchovies",
+      "myeolchi"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "i"
   }
 ]
