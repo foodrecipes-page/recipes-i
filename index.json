@@ -1234,16 +1234,16 @@
   },
   {
     "slug": "incredibly-crunchy-german-potato-fritters",
-    "title": "Incredibly Crunchy German Potato Fritters",
+    "title": "German Potato Fritters",
     "tags": [
-      "crunchy-snacks",
-      "deep-fried",
-      "german-food",
-      "kid-friendly",
-      "vegan-snacks"
+      "german",
+      "potato",
+      "fritters",
+      "snack",
+      "appetizer"
     ],
     "cuisine": "German",
-    "totalTimeMin": 35,
+    "totalTimeMin": 23,
     "shard": "i"
   },
   {
@@ -13461,17 +13461,16 @@
   },
   {
     "slug": "intensely-savory-ukrainian-myeolchi-anchovies-tagine",
-    "title": "Intensely Savory Ukrainian Myeolchi Anchovies Tagine",
+    "title": "Anchovy Tagine with Myeolchi",
     "tags": [
-      "fish-based",
-      "macrobiotic",
-      "one-pot",
-      "root-vegetables",
+      "ukrainian",
       "savory",
-      "ukrainian-cuisine"
+      "anchovies",
+      "myeolchi",
+      "tagine"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
