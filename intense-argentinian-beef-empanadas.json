@@ -1,0 +1,95 @@
+{
+  "slug": "intense-argentinian-beef-empanadas",
+  "title": "Argentinian Beef Empanadas",
+  "description": "A traditional Argentinian recipe for beef empanadas, perfect for a snack or dinner. The beef filling is flavorful and tender, wrapped in a crispy empanada crust.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "1 package (homemade or store-bought)",
+      "notes": "Thawed if frozen"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten (for egg wash)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the cumin, paprika, salt, and black pepper. Cook for 1 minute.",
+    "Let the beef mixture cool to room temperature.",
+    "On a lightly floured surface, roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough. You should be able to get about 12 circles.",
+    "Place a tablespoon or two of the beef mixture in the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg for a glaze.",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with the remaining egg wash.",
+    "Bake the empanadas for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "snack",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-argentinian-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:35:37.161Z"
+}
