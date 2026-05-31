@@ -1,0 +1,67 @@
+{
+  "slug": "intricate-mustardy-french-cream-eclair--keto",
+  "title": "Keto Creamy French Custard",
+  "description": "A rich and creamy keto dessert with intricate French flavors. Perfect for those following a keto diet.",
+  "cuisine": "French",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "French cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eclair",
+      "amount": "1",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Mustardy syrup",
+      "amount": "2 tbsp",
+      "notes": "see notes for homemade recipe"
+    },
+    {
+      "name": "Intricate sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Break the eclair into pieces and place on a baking sheet.",
+    "Drizzle the mustardy syrup over the eclair pieces.",
+    "In a separate bowl, whisk together the French cream, intricate sugar, and vanilla.",
+    "Pour the cream mixture over the eclair pieces.",
+    "Bake for 10-12 minutes, or until the top is golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "dessert",
+    "french",
+    "custard"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricate-mustardy-french-cream-eclair--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:02:22.559Z"
+}
