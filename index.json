@@ -13016,18 +13016,15 @@
   },
   {
     "slug": "intensely-romantic-canadian-egg-quiche",
-    "title": "Intensely Romantic Canadian Egg Quiche",
+    "title": "Canadian Romance Quiche",
     "tags": [
-      "breakfast",
-      "brunch",
       "canadian",
-      "low-calorie",
-      "quiche",
-      "tandoor-clay-pot",
-      "vegetarian"
+      "romantic",
+      "breakfast",
+      "brunch"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 60,
+    "cuisine": "canadian",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
@@ -16147,17 +16144,15 @@
   },
   {
     "slug": "irresistible-malaysian-chicken-satay",
-    "title": "Irresistible Malaysian Chicken Satay",
+    "title": "Malaysian Chicken Satay",
     "tags": [
-      "grilled",
-      "high-protein",
-      "lemongrass",
+      "chicken",
       "malaysian",
-      "peanut-based",
-      "street-food"
+      "satay",
+      "easy"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
