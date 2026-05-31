@@ -1,0 +1,83 @@
+{
+  "slug": "intense-malty-ethiopian-hazelnut-pilaf",
+  "title": "Ethiopian Hazelnut Pilaf",
+  "description": "A flavorful and aromatic Ethiopian-style pilaf with hazelnuts, great as a side dish or light meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Intense Ethiopian Spice Blend",
+      "amount": "1 1/2 tsp"
+    },
+    {
+      "name": "Malty Basmati Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add onion and cook until translucent, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add spice blend and cook for 1 minute.",
+    "Add rice and stir to coat with oil and spice mixture.",
+    "Add pilaf, water, and salt. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until liquid is absorbed.",
+    "Fluff with a fork and stir in chopped hazelnuts.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "hazelnut",
+    "pilaf",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-malty-ethiopian-hazelnut-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:09:19.682Z"
+}
