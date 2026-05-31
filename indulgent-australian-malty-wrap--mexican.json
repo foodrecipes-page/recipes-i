@@ -1,0 +1,78 @@
+{
+  "slug": "indulgent-australian-malty-wrap--mexican",
+  "title": "Malty Beef Fajitas",
+  "description": "A flavorful Mexican dish featuring malty flavored beef, cooked with australian wrap and served with a side of indulgent toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": "malty flavored"
+    },
+    {
+      "name": "Australian wrap",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "any color, sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add beef to the skillet and cook for 3-4 minutes, until browned.",
+    "Add onion and bell peppers to the skillet and cook for an additional 4-5 minutes, until the vegetables are tender.",
+    "Add lime juice and garlic to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Warm the Australian wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing the beef and vegetables onto the wrap.",
+    "Top with your choice of indulgent toppings, such as sour cream, salsa, and shredded cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-australian-malty-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:24:13.626Z"
+}
