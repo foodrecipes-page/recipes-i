@@ -1,0 +1,84 @@
+{
+  "slug": "irresistible-malaysian-chicken-satay",
+  "title": "Malaysian Chicken Satay",
+  "description": "Delicious and easy-to-make skewers of marinated chicken, inspired by the flavors of Malaysia. Serve with peanut sauce for an authentic experience.",
+  "cuisine": "malaysian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 inches",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped (for garnish)"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine coconut milk, fish sauce, brown sugar, ginger, garlic, and 1 tablespoon vegetable oil. Blend until smooth.",
+    "2. Add the chicken pieces to the marinade and mix well to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat a grill or grill pan to medium-high heat. Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "4. Brush the grill or grill pan with vegetable oil to prevent sticking. Grill the chicken for 8-10 minutes per side, or until cooked through.",
+    "5. While the chicken is cooking, prepare the peanut sauce. In a blender or food processor, combine 1/4 cup peanuts, 2 tablespoons vegetable oil, 2 tablespoons coconut milk, and 1 tablespoon soy sauce. Blend until smooth.",
+    "6. Serve the chicken skewers hot with peanut sauce for dipping. Garnish with chopped peanuts and a lime wedge."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "malaysian",
+    "satay",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/irresistible-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:56:07.028Z"
+}
