@@ -1,0 +1,72 @@
+{
+  "slug": "intense-basque-beans-wrap",
+  "title": "Basque Bean Wrap",
+  "description": "A flavorful and nutritious wrap filled with Basque-style beans, perfect for a quick lunch or snack.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basque",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "intense",
+      "amount": "2 tbsp",
+      "notes": "chopped fresh oregano"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat.",
+    "Add the Basque and cook until fragrant, about 1 minute.",
+    "Add the beans, intense, salt, and pepper. Cook for 2-3 minutes, stirring occasionally.",
+    "Warm the wrap in the skillet for 30 seconds on each side.",
+    "Assemble the wrap by spooning the bean mixture onto the center of the wrap.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-basque-beans-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:52:11.597Z"
+}
