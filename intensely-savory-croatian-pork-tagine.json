@@ -1,0 +1,93 @@
+{
+  "slug": "intensely-savory-croatian-pork-tagine",
+  "title": "Croatian Pork Tagine",
+  "description": "A hearty and flavorful dish from Croatian cuisine, made with tender pork and a rich tagine sauce.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the pork and cook until browned, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic, cumin, coriander, paprika, salt, and pepper to the pot and cook for 1 minute.",
+    "Add the red wine to the pot and bring to a boil.",
+    "Return the pork to the pot and cover with a lid.",
+    "Transfer the pot to the oven and cook for 2 hours, or until the pork is tender.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Serve with a side of crusty bread or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "pork",
+    "tagine",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-croatian-pork-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:43:06.555Z"
+}
