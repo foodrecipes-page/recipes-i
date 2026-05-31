@@ -13194,15 +13194,13 @@
     "slug": "intensely-savory-croatian-pork-tagine",
     "title": "Croatian Pork Tagine",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "one-pot-meals",
-      "pork-recipes",
-      "tagine-cooking",
-      "winter-nights"
+      "croatian",
+      "pork",
+      "tagine",
+      "slow-cooker"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 140,
     "shard": "i"
   },
   {
@@ -14411,17 +14409,15 @@
   },
   {
     "slug": "intensely-sweet-italian-polenta-wrap",
-    "title": "Intensely Sweet Italian Polenta Wrap",
+    "title": "Italian Polenta Wrap",
     "tags": [
-      "corn-husk-wraps",
-      "halal-friendly",
-      "italian-food",
-      "midnight-cravings",
-      "polenta-recipes",
-      "sweet-snacks"
+      "italian",
+      "polenta",
+      "wrap",
+      "vegetarian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
