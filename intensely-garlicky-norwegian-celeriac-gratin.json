@@ -1,0 +1,76 @@
+{
+  "slug": "intensely-garlicky-norwegian-celeriac-gratin",
+  "title": "Norwegian Celeriac Gratin",
+  "description": "A creamy, rich side dish with a deep, earthy flavor from the celeriac. Perfect for a chilly winter evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Celeriac",
+      "amount": "1 large, peeled and thinly sliced"
+    },
+    {
+      "name": "Intensely garlicky butter",
+      "amount": "2 tablespoons",
+      "notes": "see note"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Grated Norwegian cheese (such as Gammelost)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium saucepan, melt the intensely garlicky butter over low heat.",
+    "Add the flour and whisk to form a smooth paste.",
+    "Slowly add the heavy cream, whisking constantly.",
+    "Bring the mixture to a simmer and cook until it thickens, stirring occasionally.",
+    "Stir in the grated cheese until melted and smooth.",
+    "Season with salt and black pepper to taste.",
+    "In a greased 9x13-inch baking dish, create a layer of celeriac slices.",
+    "Pour some of the cheese sauce over the celeriac, then repeat the layers until all the ingredients are used up, finishing with a layer of cheese sauce.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the celeriac is tender.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "celeriac",
+    "norwegian",
+    "gratin",
+    "side dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-garlicky-norwegian-celeriac-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:48:30.471Z"
+}
