@@ -1,0 +1,76 @@
+{
+  "slug": "intense-resinous-slovakian-salmon-pate",
+  "title": "Slovakian Pate Stuffed Salmon",
+  "description": "A flavorful Slovakian-inspired salmon dish filled with a rich pate, perfect for a dinner party.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian Pate",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the salmon fillets with salt and pepper.",
+    "In a small bowl, mix together the Slovakian pate, butter, and garlic.",
+    "Place a tablespoon of the pate mixture onto the center of each salmon fillet.",
+    "Top each fillet with a sprinkle of fresh dill.",
+    "Fold the salmon in half to enclose the filling.",
+    "Place the stuffed salmon on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until the salmon is cooked through and flakes easily with a fork.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "pate",
+    "slovakian",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-resinous-slovakian-salmon-pate",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:19:20.642Z"
+}
