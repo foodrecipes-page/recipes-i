@@ -1,0 +1,73 @@
+{
+  "slug": "intensely-sweet-italian-polenta-wrap",
+  "title": "Italian Polenta Wrap",
+  "description": "A delicious and easy-to-make Italian-inspired wrap filled with creamy polenta, sweet sauce, and savory cheese. Perfect for a quick lunch or dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polenta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large"
+    },
+    {
+      "name": "Sweet Italian Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the polenta according to package instructions.",
+    "In a large pan, heat the sweet Italian sauce over medium heat.",
+    "Add the cooked polenta to the pan with the sauce and stir to combine.",
+    "Place the large wrap on a flat surface.",
+    "Spoon the polenta and sauce mixture onto the center of the wrap.",
+    "Sprinkle the shredded mozzarella cheese over the top.",
+    "Add some chopped fresh basil for extra flavor.",
+    "Season with salt and pepper to taste.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    " Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "polenta",
+    "wrap",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-sweet-italian-polenta-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:40:31.758Z"
+}
