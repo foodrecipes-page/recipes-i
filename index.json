@@ -16032,15 +16032,13 @@
   },
   {
     "slug": "inviting-spring-norwegian-duck-stew",
-    "title": "Inviting Spring Norwegian Duck Stew",
+    "title": "Norwegian Spring Duck Stew",
     "tags": [
-      "ayurvedic-friendly",
-      "duck-recipes",
-      "norwegian-cuisine",
-      "one-pot",
-      "sattvic-diet",
-      "spring-vegetables",
-      "weeknight-dinner"
+      "spring",
+      "norwegian",
+      "duck",
+      "stew",
+      "hearty"
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 50,
@@ -16512,6 +16510,19 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-smoky-saudi-arabian-mackerel-onigiri--thai",
+    "title": "Spicy Smoked Mackerel onigiri with Saudi Arabian Flair",
+    "tags": [
+      "thai-cuisine",
+      "middle-eastern-flair",
+      "fish-recipe",
+      "snack-ideas"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 32,
     "shard": "i"
   }
 ]
