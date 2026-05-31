@@ -9653,16 +9653,15 @@
   },
   {
     "slug": "intense-umami-algerian-pork-tenderloin-tagine",
-    "title": "Intense Umami Algerian Pork Tenderloin Tagine",
+    "title": "Algerian Pork Tenderloin Tagine",
     "tags": [
-      "algerian-cuisine",
-      "one-pot",
-      "pork-tenderloin",
-      "romantic-dinner",
-      "umami-rich"
+      "algerian",
+      "pork",
+      "tagine",
+      "north-african"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
