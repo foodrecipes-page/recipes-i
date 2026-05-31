@@ -1827,18 +1827,14 @@
   },
   {
     "slug": "indulgent-australian-malty-wrap",
-    "title": "Indulgent Australian Malty Wrap",
+    "title": "Aussie Malty Beef Wrap",
     "tags": [
+      "beef",
       "australian",
-      "dessert",
-      "glassy-jelly",
-      "low-calorie",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "wrap"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 18,
     "shard": "i"
   },
   {
@@ -11612,16 +11608,16 @@
   },
   {
     "slug": "intensely-garlicky-norwegian-celeriac-gratin",
-    "title": "Intensely Garlicky Norwegian Celeriac Gratin",
+    "title": "Norwegian Celeriac Gratin",
     "tags": [
-      "comfort-food",
-      "norwegian-cuisine",
-      "one-pan",
-      "vegetarian-friendly",
-      "weeknight-meal"
+      "celeriac",
+      "norwegian",
+      "gratin",
+      "side dish",
+      "vegetarian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
