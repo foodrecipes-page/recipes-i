@@ -8422,18 +8422,16 @@
   },
   {
     "slug": "intense-resinous-slovakian-salmon-pate",
-    "title": "Intense Resinous Slovakian Salmon Pate",
+    "title": "Slovakian Pate Stuffed Salmon",
     "tags": [
-      "aerated",
-      "gluten-free",
-      "high-protein",
-      "midnight-craving",
-      "ramekin",
-      "resinous",
-      "slovakian"
+      "salmon",
+      "pate",
+      "slovakian",
+      "dinner",
+      "easy"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 27,
     "shard": "i"
   },
   {
@@ -13413,17 +13411,16 @@
   },
   {
     "slug": "intensely-savory-turkish-lentil-pilaf",
-    "title": "Intensely Savory Turkish Lentil Pilaf",
+    "title": "Turkish Lentil Pilaf",
     "tags": [
-      "coconut-cream-recipes",
-      "date-night",
-      "lentil-recipes",
-      "mediterranean-diet",
-      "one-pot",
-      "turkish-cuisine"
+      "lentil",
+      "pilaf",
+      "turkish",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
