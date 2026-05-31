@@ -5402,18 +5402,15 @@
   },
   {
     "slug": "indulgent-tunisian-olives-tagine",
-    "title": "Indulgent Tunisian Olives Tagine",
+    "title": "Tunisian Tagine with Olives",
     "tags": [
-      "gluten-free",
-      "low-carb",
-      "olives",
-      "one-pan",
-      "shio-koji",
-      "special-occasion",
-      "tunisian"
+      "tagine",
+      "north-african",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
@@ -16523,6 +16520,31 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 15,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-australian-malty-wrap--mexican",
+    "title": "Malty Beef Fajitas",
+    "tags": [
+      "mexican",
+      "beef",
+      "fajitas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-australian-malty-wrap--indian",
+    "title": "Aussie Chicken Tikka Wraps",
+    "tags": [
+      "indian",
+      "chicken",
+      "grill",
+      "wrap"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 27,
     "shard": "i"
   }
 ]
