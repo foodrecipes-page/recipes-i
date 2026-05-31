@@ -1,0 +1,70 @@
+{
+  "slug": "intrepid-ukrainian-chickpeas-salad",
+  "title": "Ukrainian Chickpea Salad",
+  "description": "A refreshing salad inspired by Ukrainian cuisine, featuring chickpeas, mixed greens, and a tangy dressing.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "intrepid",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1 teaspoon",
+      "notes": "dried dill weed"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 ounces) drained and rinsed",
+      "notes": "canned chickpeas"
+    },
+    {
+      "name": "salad",
+      "amount": "4 cups mixed greens",
+      "notes": "lettuce, spinach, arugula"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": "apple cider vinegar"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mixed greens and chickpeas.",
+    "In a small bowl, whisk together the olive oil, dried dill weed, lemon juice, and apple cider vinegar.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "ukrainian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intrepid-ukrainian-chickpeas-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:00:30.621Z"
+}
