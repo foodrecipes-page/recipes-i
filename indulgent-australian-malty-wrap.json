@@ -1,0 +1,70 @@
+{
+  "slug": "indulgent-australian-malty-wrap",
+  "title": "Aussie Malty Beef Wrap",
+  "description": "A flavorful and indulgent beef wrap filled with the sweetness of malted beef, topped with crispy lettuce and tomato.",
+  "cuisine": "australian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Malty Beef",
+      "amount": "250g"
+    },
+    {
+      "name": "Australian Whole Wheat Wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Crisp Lettuce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Juicy Tomato",
+      "amount": "1"
+    },
+    {
+      "name": "Australian Cheddar Cheese",
+      "amount": "20g"
+    },
+    {
+      "name": "Australian BBQ Sauce",
+      "amount": "20g"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the malty beef with salt and pepper, then grill for 3-4 minutes per side, or until cooked to your liking.",
+    "Let the beef rest for 5 minutes before slicing thinly against the grain.",
+    "Warm the Australian whole wheat wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by spreading Australian BBQ sauce on the wrap, followed by sliced malty beef, crisp lettuce, juicy tomato, and Australian cheddar cheese.",
+    "Top with chopped fresh parsley and fold the wrap in half to serve.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "australian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-australian-malty-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:09:26.405Z"
+}
