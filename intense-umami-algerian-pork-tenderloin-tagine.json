@@ -1,0 +1,97 @@
+{
+  "slug": "intense-umami-algerian-pork-tenderloin-tagine",
+  "title": "Algerian Pork Tenderloin Tagine",
+  "description": "A flavorful and aromatic North African-inspired dish made with tenderloin, spices, and dried fruits. Serve with couscous or rice.",
+  "cuisine": "Algerian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Tenderloin",
+      "amount": "1 (1 pound)",
+      "notes": null
+    },
+    {
+      "name": "Algerian Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Dried Apricots",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Pitted Dates",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork tenderloin with Algerian Spice Blend, salt, and black pepper.",
+    "Heat coconut oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork tenderloin until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pork to a plate and set aside.",
+    "Add onion to the pot and cook until softened, about 5 minutes.",
+    "Add ginger and garlic and cook for an additional minute.",
+    "Add dried apricots and pitted dates to the pot and cook for 2-3 minutes.",
+    "Return the pork tenderloin to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and cook for 20-25 minutes, or until the pork reaches an internal temperature of 145°F (63°C).",
+    "Remove the pot from the oven and let the pork rest for 5 minutes before slicing.",
+    "Serve the pork with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "pork",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "35g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-umami-algerian-pork-tenderloin-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:15:55.429Z"
+}
