@@ -1,0 +1,84 @@
+{
+  "slug": "incredibly-crunchy-german-potato-fritters--mexican",
+  "title": "German Potato Fritters with Mexican Twist",
+  "description": "A flavorful fusion of German potato fritters and Mexican cuisine, perfect for a snack or side dish.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "incredibly crunchy tortilla chips",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "german rye flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup, shredded"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mash the potatoes using a fork or potato masher.",
+    "Add the crushed tortilla chips, rye flour, onion, cumin, chili powder, and salt to the bowl. Mix well.",
+    "Beat the eggs in a separate bowl and add them to the potato mixture. Mix until a dough forms.",
+    "Stir in the shredded cheese.",
+    "Using your hands, shape the dough into small patties.",
+    "Heat a large non-stick skillet or frying pan over medium heat.",
+    "Add a small amount of oil to the pan and swirl it around.",
+    "When the oil is hot, add 2-3 patties to the pan and flatten them slightly using a spatula.",
+    "Cook for 3-4 minutes on each side, or until golden brown and crispy.",
+    "Repeat with the remaining patties.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "german",
+    "potato",
+    "fritters",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-crunchy-german-potato-fritters--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:49:50.015Z"
+}
