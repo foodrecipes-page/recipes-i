@@ -1,0 +1,76 @@
+{
+  "slug": "intensely-romantic-canadian-egg-quiche",
+  "title": "Canadian Romance Quiche",
+  "description": "A classic quiche filled with the flavors of Canada, perfect for a romantic dinner.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 sheet of frozen puff pastry, thawed",
+      "amount": "",
+      "notes": "keep refrigerated until use"
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup of heavy cream",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup of grated cheddar cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup of diced ham",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup of diced onion",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon of dried thyme",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the puff pastry and place it in a 9-inch tart pan with a removable bottom.",
+    "In a large bowl, whisk together the eggs, heavy cream, cheddar cheese, diced ham, diced onion, and thyme.",
+    "Pour the egg mixture into the pastry-lined tart pan.",
+    "Bake for 35-40 minutes, or until the edges are golden brown and the center is set.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "romantic",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-romantic-canadian-egg-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:54:11.122Z"
+}
