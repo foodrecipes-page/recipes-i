@@ -1,0 +1,84 @@
+{
+  "slug": "intensely-charred-ukrainian-eggs-frittata",
+  "title": "Ukrainian Charred Frittata",
+  "description": "A hearty Ukrainian-style frittata with charred vegetables and a crispy crust.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "charred peppers",
+      "amount": "2",
+      "notes": "Charred red and green peppers"
+    },
+    {
+      "name": "ukrainian sausage",
+      "amount": "1",
+      "notes": "Kielbasa or Ukrainian sausage"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "Chopped onion"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced garlic"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the charred peppers into bite-sized pieces.",
+    "Slice the Ukrainian sausage into thin rounds.",
+    "In a large skillet, cook the sausage over medium-high heat until browned.",
+    "Add the chopped onion and minced garlic to the skillet and cook until softened.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper.",
+    "Add the cooked sausage and peppers to the bowl and stir to combine.",
+    "Pour the egg mixture into the skillet and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the frittata is golden brown and set.",
+    "Remove the skillet from the oven and sprinkle with chopped fresh dill.",
+    "Let the frittata cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "frittata",
+    "charred",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-charred-ukrainian-eggs-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:07:50.333Z"
+}
