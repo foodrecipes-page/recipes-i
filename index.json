@@ -1011,18 +1011,16 @@
   },
   {
     "slug": "iintense-italian-vegetables-frittata",
-    "title": "Intense Italian Vegetables Frittata",
+    "title": "Italian Vegetable Frittata",
     "tags": [
-      "breakfast",
-      "easy-to-make",
       "italian",
-      "lunch",
-      "shojin-friendly",
-      "snack",
-      "vegetarian"
+      "frittata",
+      "vegetarian",
+      "breakfast",
+      "dinner"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -7778,17 +7776,16 @@
   },
   {
     "slug": "intense-malty-ethiopian-hazelnut-pilaf",
-    "title": "Intense Malty Ethiopian Hazelnut Pilaf",
+    "title": "Ethiopian Hazelnut Pilaf",
     "tags": [
-      "ethiopian-cuisine",
-      "high-fiber",
-      "lacto-vegetarian",
-      "nutty",
-      "one-pot",
-      "spicy"
+      "ethiopian",
+      "hazelnut",
+      "pilaf",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -14878,17 +14875,15 @@
   },
   {
     "slug": "intensely-velvety-turkish-peanut-dolma",
-    "title": "Intensely Velvety Turkish Peanut Dolma",
+    "title": "Turkish Dolma Stuffed Peppers",
     "tags": [
-      "appetizer",
-      "diabetic-friendly",
-      "snack",
-      "spherification",
-      "turkish-cuisine",
+      "turkish",
+      "stuffed-peppers",
+      "rice",
       "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
