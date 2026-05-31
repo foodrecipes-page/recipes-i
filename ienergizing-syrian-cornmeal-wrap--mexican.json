@@ -1,0 +1,85 @@
+{
+  "slug": "ienergizing-syrian-cornmeal-wrap--mexican",
+  "title": "Mexican Cornmeal Wrap",
+  "description": "A delicious Mexican-inspired wrap made with a crispy cornmeal crust, filled with flavorful syrian ingredients.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wrap",
+      "amount": "1"
+    },
+    {
+      "name": "ienergizing",
+      "amount": "1 tablespoon",
+      "notes": "or energy-boosting sauce"
+    },
+    {
+      "name": "Syrian pepper",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Syrian cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together cornmeal, cumin, chili powder, and salt.",
+    "2. Gradually add in water and stir until a dough forms.",
+    "3. Knead dough for 5 minutes until smooth.",
+    "4. Divide dough into 2 equal pieces.",
+    "5. Roll out each piece into a thin circle.",
+    "6. Brush both sides with a little water.",
+    "7. Place a wrap on a hot skillet or griddle, cook for 1-2 minutes or until lightly browned.",
+    "8. Flip and cook for another 1-2 minutes or until crispy.",
+    "9. Fill each wrap with Syrian pepper, cheese, and a spoonful of ienergizing sauce.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "cornmeal",
+    "wrap",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ienergizing-syrian-cornmeal-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:52:15.205Z"
+}
