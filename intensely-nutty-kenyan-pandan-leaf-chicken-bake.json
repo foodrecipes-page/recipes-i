@@ -1,0 +1,83 @@
+{
+  "slug": "intensely-nutty-kenyan-pandan-leaf-chicken-bake",
+  "title": "Kenyan-Style Chicken Bake",
+  "description": "A flavorful and aromatic chicken dish inspired by Kenyan cuisine, featuring a blend of nutty and leafy spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "nutty spice blend",
+      "amount": "2 tablespoons",
+      "notes": "see notes for mixture"
+    },
+    {
+      "name": "dried pandan leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together the nutty spice blend, chopped pandan leaves, salt, and black pepper.",
+    "Season the chicken breast with the spice mixture, making sure to coat it evenly.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat. Sear the chicken breast until browned on both sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the chicken reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is baking, heat the chopped onion and minced garlic in a separate skillet over medium heat until softened, about 3-4 minutes.",
+    "Once the chicken is done, remove it from the oven and let it rest for a few minutes before slicing.",
+    "Serve the sliced chicken with the sautéed onion and garlic mixture spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan-cuisine",
+    "chicken-bake",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-nutty-kenyan-pandan-leaf-chicken-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:54:32.485Z"
+}
