@@ -1,0 +1,94 @@
+{
+  "slug": "intensely-savory-croatian-pork-tagine--vegetarian",
+  "title": "Savory Croatian Vegetarian Tagine",
+  "description": "A flavorful and aromatic tagine made with a variety of vegetables and spices, inspired by Croatian cuisine.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Poblano peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": "medium"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "Canned crushed tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the onions and cook until softened, about 3-4 minutes.",
+    "Add the bell peppers, zucchini, and carrots. Cook until the vegetables are tender, about 5-7 minutes.",
+    "Add the chili powder, smoked paprika, salt, and pepper. Cook for 1 minute.",
+    "Add the crushed tomatoes and vegetable broth. Stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20-25 minutes.",
+    "Serve hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "croatian",
+    "tagine",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-croatian-pork-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:52:15.772Z"
+}
