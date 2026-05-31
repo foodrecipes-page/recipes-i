@@ -6444,17 +6444,14 @@
   },
   {
     "slug": "intense-basque-beans-wrap",
-    "title": "Intense Basque Beans Wrap",
+    "title": "Basque Bean Wrap",
     "tags": [
-      "mediterranean-friendly",
-      "one-pan",
-      "plant-based",
-      "quick",
-      "vegan",
-      "wrap"
+      "spanish",
+      "vegetarian",
+      "quick"
     ],
-    "cuisine": "Basque",
-    "totalTimeMin": 40,
+    "cuisine": "spanish",
+    "totalTimeMin": 15,
     "shard": "i"
   },
   {
