@@ -14967,18 +14967,14 @@
   },
   {
     "slug": "intrepid-ukrainian-chickpeas-salad",
-    "title": "Intrepid Ukrainian Chickpeas Salad",
+    "title": "Ukrainian Chickpea Salad",
     "tags": [
-      "healthy",
-      "herb-forward",
-      "mediterranean",
-      "no-cook",
-      "quick",
-      "snack",
-      "vegan"
+      "salad",
+      "ukrainian-cuisine",
+      "vegetarian"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 15,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -16486,6 +16482,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 14,
+    "shard": "i"
+  },
+  {
+    "slug": "intricate-mustardy-french-cream-eclair--keto",
+    "title": "Keto Creamy French Custard",
+    "tags": [
+      "keto",
+      "dessert",
+      "french",
+      "custard"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 22,
     "shard": "i"
   }
 ]
