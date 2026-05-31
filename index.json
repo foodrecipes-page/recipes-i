@@ -16478,5 +16478,19 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "i"
+  },
+  {
+    "slug": "ienergizing-syrian-cornmeal-wrap--mexican",
+    "title": "Mexican Cornmeal Wrap",
+    "tags": [
+      "mexican",
+      "cornmeal",
+      "wrap",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 14,
+    "shard": "i"
   }
 ]
