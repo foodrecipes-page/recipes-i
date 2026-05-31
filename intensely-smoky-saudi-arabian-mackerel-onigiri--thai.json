@@ -1,0 +1,96 @@
+{
+  "slug": "intensely-smoky-saudi-arabian-mackerel-onigiri--thai",
+  "title": "Spicy Smoked Mackerel onigiri with Saudi Arabian Flair",
+  "description": "A unique fusion of Thai and Saudi Arabian flavors, combining the richness of mackerel with the smokiness of intensely smoked ingredients.",
+  "cuisine": "thai",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mackerel fillets",
+      "amount": "4",
+      "notes": "smoked"
+    },
+    {
+      "name": "Intensely Smoked Paprika",
+      "amount": "2 tsp",
+      "notes": "add depth to the dish"
+    },
+    {
+      "name": "Saudi Arabian Dates",
+      "amount": "8",
+      "notes": "sweet and sticky"
+    },
+    {
+      "name": "Onigiri rice",
+      "amount": "1 cup",
+      "notes": "Japanese short-grain rice"
+    },
+    {
+      "name": "Thai Basil Leaves",
+      "amount": "1/4 cup",
+      "notes": "fresh and fragrant"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "bright and citrusy"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "spicy kick"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced and aromatic"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "healthy and flavorful"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "enhance flavors"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Line a baking sheet with parchment paper.",
+    "3. Place the mackerel fillets on the prepared baking sheet.",
+    "4. Drizzle with coconut oil and sprinkle with smoked paprika.",
+    "5. Bake in the preheated oven for 10-12 minutes or until cooked through.",
+    "6. Meanwhile, prepare the onigiri rice according to package instructions.",
+    "7. Cut the cooked mackerel into small pieces.",
+    "8. Mix the mackerel with chopped Thai basil leaves, lime juice, chili flakes, garlic, and salt.",
+    "9. Spoon the mackerel mixture onto the onigiri rice.",
+    "10. Top with Saudi Arabian dates and serve immediately.",
+    "11. Garnish with additional Thai basil leaves, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-cuisine",
+    "middle-eastern-flair",
+    "fish-recipe",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-saudi-arabian-mackerel-onigiri--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:13:06.769Z"
+}
