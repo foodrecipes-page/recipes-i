@@ -7959,17 +7959,14 @@
   },
   {
     "slug": "intense-molten-ethiopian-lamb-stew",
-    "title": "Intense Molten Ethiopian Lamb Stew",
+    "title": "Ethiopian Lamb Stew",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "one-pot",
-      "slow-cooked",
-      "spicy"
+      "ethiopian",
+      "stew",
+      "lamb"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
@@ -12171,17 +12168,14 @@
   },
   {
     "slug": "intensely-nutty-kenyan-pandan-leaf-chicken-bake",
-    "title": "Intensely Nutty Kenyan Pandan Leaf Chicken Bake",
+    "title": "Kenyan-Style Chicken Bake",
     "tags": [
-      "baked-chicken",
-      "high-protein",
       "kenyan-cuisine",
-      "kid-friendly",
-      "nutty-flavors",
-      "pandan-leaf"
+      "chicken-bake",
+      "spicy"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -16519,6 +16513,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 32,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-velvety-turkish-peanut-dolma--japanese",
+    "title": "Turkish Peanut Dolma with Intensely Velvety Sauce",
+    "tags": [
+      "japanese-cuisine",
+      "turkish-dolma",
+      "peanut-sauce",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
     "shard": "i"
   }
 ]
