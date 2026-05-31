@@ -2405,16 +2405,16 @@
   },
   {
     "slug": "indulgent-croation-floral-pastry-tart",
-    "title": "indulgent croatian floral pastry tart",
+    "title": "Croation Pastry Tart",
     "tags": [
-      "chocolate",
-      "date-night",
+      "tart",
+      "pastry",
+      "croation",
       "dessert",
-      "floral",
-      "gluten-free"
+      "european"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 35,
+    "cuisine": "European",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -16484,6 +16484,34 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 22,
+    "shard": "i"
+  },
+  {
+    "slug": "incredibly-crunchy-german-potato-fritters--mexican",
+    "title": "German Potato Fritters with Mexican Twist",
+    "tags": [
+      "mexican",
+      "german",
+      "potato",
+      "fritters",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-croatian-pork-tagine--vegetarian",
+    "title": "Savory Croatian Vegetarian Tagine",
+    "tags": [
+      "vegetarian",
+      "croatian",
+      "tagine",
+      "savory"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
     "shard": "i"
   }
 ]
