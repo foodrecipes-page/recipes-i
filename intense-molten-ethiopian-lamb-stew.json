@@ -1,0 +1,95 @@
+{
+  "slug": "intense-molten-ethiopian-lamb-stew",
+  "title": "Ethiopian Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Ethiopia, made with tender lamb and a blend of spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "intense red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "molten chili oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Ethiopian stew spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb in batches, about 5 minutes per batch.",
+    "Remove lamb from pot and set aside.",
+    "Reduce heat to medium and cook onion until softened, about 5 minutes.",
+    "Add garlic, ginger, and red pepper flakes; cook for 1 minute.",
+    "Stir in stew spice blend and cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add beef broth and chicken broth; stir to combine.",
+    "Return lamb to pot and bring to a boil.",
+    "Cover and transfer to oven; cook at 300°F for 2 1/2 hours.",
+    "Let stew rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-molten-ethiopian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:05:57.790Z"
+}
