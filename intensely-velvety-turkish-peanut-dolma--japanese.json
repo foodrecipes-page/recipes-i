@@ -1,0 +1,76 @@
+{
+  "slug": "intensely-velvety-turkish-peanut-dolma--japanese",
+  "title": "Turkish Peanut Dolma with Intensely Velvety Sauce",
+  "description": "A fusion of Japanese and Turkish flavors, this dish combines the delicate taste of dolma with the richness of peanut sauce.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkish Dolma Rice",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup",
+      "notes": "Ground into a fine paste"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste for added depth"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "Adds a savory umami flavor"
+    },
+    {
+      "name": "Intensely Velvety Sauce",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "For added nutty flavor"
+    }
+  ],
+  "instructions": [
+    "Cook the Turkish Dolma Rice according to package instructions.",
+    "In a pan, heat the sesame oil over medium heat.",
+    "Add the peanuts and cook until fragrant, about 1 minute.",
+    "Add the gochujang and soy sauce, stirring to combine.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Add the Intensely Velvety Sauce and stir to combine.",
+    "Serve the peanut sauce over the cooked Turkish Dolma Rice.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "turkish-dolma",
+    "peanut-sauce",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-velvety-turkish-peanut-dolma--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:27:01.990Z"
+}
