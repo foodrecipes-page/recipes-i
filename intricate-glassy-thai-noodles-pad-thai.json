@@ -1,0 +1,89 @@
+{
+  "slug": "intricate-glassy-thai-noodles-pad-thai",
+  "title": "Thai-Style Stir-Fried Noodles",
+  "description": "A quick and delicious Thai-inspired stir-fry made with thin noodles, vegetables, and your choice of protein.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "thin rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "intricate glassy noodles",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the onion and bell pepper and cook until the vegetables are tender.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chicken breast and cook until browned and cooked through.",
+    "Add the curry paste and stir-fry for 1 minute.",
+    "Add the cooked noodles, fish sauce, and soy sauce to the wok or skillet.",
+    "Stir-fry everything together for 2-3 minutes.",
+    "Serve hot and garnish with chopped glassy noodles if desired.",
+    "Note: You can customize this recipe by adding your favorite protein or vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "noodles",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricate-glassy-thai-noodles-pad-thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:37:15.978Z"
+}
