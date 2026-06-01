@@ -1,0 +1,114 @@
+{
+  "slug": "intensely-dense-spanish-octopus-paella",
+  "title": "Spanish-Style Paella with Octopus",
+  "description": "A classic Spanish dish featuring tender octopus, savory rice, and a blend of spices. Perfect for a hearty seafood meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Octopus, cleaned",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chorizo, sliced",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp, peeled and deveined",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper, sliced",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato, diced",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Safron threads",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chorizo and cook, stirring occasionally, until browned, about 5 minutes.",
+    "Add the shrimp and cook, stirring occasionally, until pink, about 2-3 minutes.",
+    "Add the octopus and cook, stirring occasionally, until slightly browned, about 2-3 minutes.",
+    "Add the red bell pepper and onion and cook, stirring occasionally, until tender, about 5 minutes.",
+    "Add the garlic and cook, stirring constantly, for 1 minute.",
+    "Add the tomato, paprika, safron, salt, and black pepper. Stir to combine.",
+    "Add the rice to the pan and stir to combine with the vegetable mixture.",
+    "Cook for 2-3 minutes, stirring constantly.",
+    "Add 4 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from heat and let rest, covered, for 5 minutes before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "octopus",
+    "seafood",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 55,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-dense-spanish-octopus-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:51:26.642Z"
+}
