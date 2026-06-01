@@ -31,16 +31,14 @@
   },
   {
     "slug": "i-croatian-yukon-gold-potatoes-crumble",
-    "title": "croatian yukon gold potatoes crumble",
+    "title": "Roasted Yukon Gold and Potato Gratin",
     "tags": [
-      "croatian",
-      "high-protein",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "sides",
+      "comfort-food",
+      "vegetarian"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 75,
+    "cuisine": "European",
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
@@ -16555,6 +16553,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-basque-beans-wrap--thai",
+    "title": "Thai Bean Wrap",
+    "tags": [
+      "thai",
+      "beans",
+      "wrap"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 8,
     "shard": "i"
   }
 ]
