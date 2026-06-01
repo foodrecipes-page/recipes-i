@@ -1,0 +1,90 @@
+{
+  "slug": "intense-midnight-mexican-lentils-sopes",
+  "title": "Midnight Lentil Sopes",
+  "description": "A twist on traditional Mexican sopes, these midnight lentil sopes combine the flavors of the night with the simplicity of a hearty lentil dish.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sopes",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a medium saucepan, combine lentils and 2 cups of water. Bring to a boil, then reduce heat and simmer for 20 minutes, or until lentils are tender.",
+    "In a large skillet, heat 2 tbsp of oil over medium heat. Add onion and cook for 5 minutes, or until softened.",
+    "Add garlic, cumin, and chili powder to the skillet. Cook for 1 minute, stirring constantly.",
+    "Stir in cooked lentils and season with salt and pepper to taste.",
+    "Meanwhile, warm sopes according to package instructions.",
+    "To assemble, place a spoonful of lentil mixture onto each sope, followed by a sprinkle of cheese, a dollop of sour cream, and a sprinkle of cilantro. Serve immediately.",
+    "Cook time: 30 minutes.",
+    "Total time: 50 minutes.",
+    "Servings: 4-6."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "lentils",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-midnight-mexican-lentils-sopes",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:44:08.584Z"
+}
