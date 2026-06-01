@@ -1,0 +1,79 @@
+{
+  "slug": "inviting-spring-norwegian-duck-stew--german",
+  "title": "German Duck Stew",
+  "description": "A hearty German-inspired stew made with tender duck and a blend of spring vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Spring onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Spring carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "Spring potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Stew seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the duck breast with stew seasoning.",
+    "In a large Dutch oven, heat a couple of tablespoons of oil over medium-high heat.",
+    "Sear the duck breast until browned on both sides, then remove from heat.",
+    "Add the sliced onions and carrots to the pot, cooking until they begin to soften.",
+    "Add the sliced potatoes, white wine, and chicken broth to the pot.",
+    "Return the duck breast to the pot, cover, and transfer to the preheated oven.",
+    "Braise the stew for 30 minutes.",
+    "Remove the pot from the oven and let cool slightly before serving.",
+    "Slice the duck breast and serve with the stew vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-food",
+    "duck-recipe",
+    "spring-vegetables"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/inviting-spring-norwegian-duck-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:37:57.088Z"
+}
