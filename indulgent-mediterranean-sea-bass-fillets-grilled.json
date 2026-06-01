@@ -1,0 +1,82 @@
+{
+  "slug": "indulgent-mediterranean-sea-bass-fillets-grilled",
+  "title": "Grilled Sea Bass with Mediterranean Flair",
+  "description": "A flavorful and healthy seafood dish, perfect for a summer evening. The combination of sea bass, herbs, and lemon creates a delightful taste experience.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "indulgent capers",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Rinse the sea bass fillets and pat them dry with paper towels.",
+    "Season the fillets with salt and pepper.",
+    "In a small bowl, mix together olive oil, lemon juice, garlic, and parsley.",
+    "Brush the mixture onto both sides of the sea bass fillets.",
+    "Place the fillets on the grill and cook for 4-5 minutes per side, or until cooked through.",
+    "Remove the fillets from the grill and top with capers (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "mediterranean",
+    "grilled",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-mediterranean-sea-bass-fillets-grilled",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:42:54.861Z"
+}
