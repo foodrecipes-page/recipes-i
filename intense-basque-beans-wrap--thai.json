@@ -1,0 +1,81 @@
+{
+  "slug": "intense-basque-beans-wrap--thai",
+  "title": "Thai Bean Wrap",
+  "description": "A Thai-inspired wrap filled with sautéed beans, intense spices, and fresh herbs.",
+  "cuisine": "thai",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basque-style beans",
+      "amount": "1 cup",
+      "notes": "canned or cooked"
+    },
+    {
+      "name": "Intense curry powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Large flour tortilla",
+      "amount": "1",
+      "notes": "wrap"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add curry powder and cook for 1 minute, stirring constantly.",
+    "Add beans and cook until heated through.",
+    "Warm tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble wrap by spooning bean mixture onto tortilla, followed by cilantro and a squeeze of lime juice.",
+    "Fold bottom edge of wrap up over filling, then fold in sides and roll up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "beans",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-basque-beans-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:10:00.447Z"
+}
