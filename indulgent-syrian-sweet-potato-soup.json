@@ -1,0 +1,93 @@
+{
+  "slug": "indulgent-syrian-sweet-potato-soup",
+  "title": "Sweet Potato Soup",
+  "description": "A comforting and indulgent sweet potato soup, infused with the flavors of Syrian cuisine.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Poke the sweet potatoes with a fork a few times and bake for 45-60 minutes, or until tender.",
+    "In a large pot, heat the olive oil over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the chicken broth, paprika, cumin, salt, and black pepper. Bring to a boil, then reduce heat and simmer for 10-15 minutes.",
+    "Peel the baked sweet potatoes and add them to the pot. Use an immersion blender to puree the soup until smooth.",
+    "If desired, add the heavy cream and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweet-potato",
+    "soup",
+    "easy-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-syrian-sweet-potato-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:34:52.883Z"
+}
