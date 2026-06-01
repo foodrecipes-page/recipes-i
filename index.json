@@ -10880,17 +10880,16 @@
   },
   {
     "slug": "intensely-dense-spanish-octopus-paella",
-    "title": "intensely dense spanish octopus paella",
+    "title": "Spanish-Style Paella with Octopus",
     "tags": [
-      "caramel",
-      "festive",
-      "main-course",
-      "one-pan",
+      "spanish",
+      "paella",
+      "octopus",
       "seafood",
-      "spanish"
+      "fish"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 65,
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
@@ -14993,17 +14992,16 @@
   },
   {
     "slug": "intricate-glassy-thai-noodles-pad-thai",
-    "title": "Intricate Glassy Thai Noodles Pad Thai",
+    "title": "Thai-Style Stir-Fried Noodles",
     "tags": [
-      "low-fat",
-      "one-pan",
-      "seafood-inspired",
-      "thai-cuisine",
+      "thai",
+      "stir-fry",
+      "noodles",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
