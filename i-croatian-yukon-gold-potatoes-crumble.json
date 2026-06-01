@@ -1,0 +1,71 @@
+{
+  "slug": "i-croatian-yukon-gold-potatoes-crumble",
+  "title": "Roasted Yukon Gold and Potato Gratin",
+  "description": "A hearty, comforting side dish featuring roasted Yukon gold and potatoes topped with a crunchy crumble.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Croatian potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "gold potatoes",
+      "amount": "1 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, toss the sliced potatoes with the butter until they're evenly coated.",
+    "Transfer the potatoes to a 9x13-inch baking dish and roast for 20 minutes.",
+    "In a separate bowl, mix the crumble and grated cheddar cheese (if using).",
+    "After the potatoes have roasted for 20 minutes, remove them from the oven and top with the crumble mixture.",
+    "Return the gratin to the oven and continue roasting for an additional 20-25 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove the gratin from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "sides",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/i-croatian-yukon-gold-potatoes-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:36:00.165Z"
+}
