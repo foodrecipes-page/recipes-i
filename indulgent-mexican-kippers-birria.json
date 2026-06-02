@@ -1,0 +1,94 @@
+{
+  "slug": "indulgent-mexican-kippers-birria",
+  "title": "Spicy Birria Tacos",
+  "description": "A twist on traditional Mexican birria, this recipe combines rich, flavorful broth with spicy kipper-infused meat. Serve with warm tortillas and your favorite toppings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kipper fillets",
+      "amount": "4",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tbsp",
+      "notes": "dried"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high. Add kipper fillets and cook until browned, about 3-4 minutes per side.",
+    "Remove kipper from pot and set aside. Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add chili powder, cumin, and coriander to pot and cook for 1 minute.",
+    "Add chicken broth to pot and bring to a boil. Scrape up any browned bits from the bottom of the pot.",
+    "Return kipper to pot and simmer for 10-15 minutes, or until cooked through.",
+    "Shred kipper with two forks and return to pot. Simmer for an additional 5 minutes.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning birria onto a tortilla, topping with cheese, and serving with sour cream on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "indulgent",
+    "birria",
+    "kipper"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-mexican-kippers-birria",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:06:17.708Z"
+}
