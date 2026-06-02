@@ -16555,5 +16555,17 @@
     "cuisine": "thai",
     "totalTimeMin": 8,
     "shard": "i"
+  },
+  {
+    "slug": "i-croatian-yukon-gold-potatoes-crumble--mexican",
+    "title": "Croatian Potato Gratin",
+    "tags": [
+      "potatoes",
+      "mexican",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 70,
+    "shard": "i"
   }
 ]
