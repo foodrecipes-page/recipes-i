@@ -1,0 +1,85 @@
+{
+  "slug": "intense-savory-uruguayan-tripe-stew",
+  "title": "Uruguayan Tripe Stew",
+  "description": "A hearty and flavorful stew originating from Uruguay, made with tender tripe, rich meat broth, and a blend of spices.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound",
+      "notes": "Cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Savory",
+      "amount": "2 tablespoons",
+      "notes": "Dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Add the tripe and cook until browned on all sides, about 5 minutes.",
+    "3. Add the onions and garlic and cook until the onions are translucent, about 5 minutes.",
+    "4. Add the tomatoes, beef broth, red wine (if using), savory, salt, and black pepper.",
+    "5. Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the tripe is tender.",
+    "6. Serve hot, garnished with chopped fresh parsley or cilantro (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "tripecasserole",
+    "beefstew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-savory-uruguayan-tripe-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:16:02.414Z"
+}
