@@ -7630,17 +7630,15 @@
   },
   {
     "slug": "intense-korean-cabbage-stew",
-    "title": "Intense Korean Cabbage Stew",
+    "title": "Spicy Korean Braised Cabbage Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "korean-food",
-      "one-pot",
+      "korean",
+      "stew",
       "spicy",
       "vegetarian"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 55,
+    "cuisine": "korean",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -11305,17 +11303,16 @@
   },
   {
     "slug": "intensely-flavored-slovakian-meat-stew",
-    "title": "Intensely Flavored Slovakian Meat Stew",
+    "title": "Slovakian Meat Stew",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
-      "hearty-stew",
-      "one-pot",
-      "slovakian-cuisine",
-      "weeknight-dinner"
+      "slovakian",
+      "meat",
+      "stew",
+      "hearty",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 150,
     "shard": "i"
   },
   {
