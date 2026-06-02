@@ -1,0 +1,92 @@
+{
+  "slug": "intense-korean-cabbage-stew",
+  "title": "Spicy Korean Braised Cabbage Stew",
+  "description": "A hearty, spicy stew made with tender Korean cabbage and a rich, savory sauce. Serve over rice for a comforting meal.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean cabbage (napa cabbage)",
+      "amount": "1 large head"
+    },
+    {
+      "name": "Intense gochujang paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "2 cups, thinly sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches, peeled and grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large pot over medium-high heat.",
+    "Add the sliced cabbage and cook until it starts to soften, about 5 minutes.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the gochujang paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the soy sauce, sesame oil, brown sugar, red pepper flakes, salt, and black pepper. Stir to combine.",
+    "Add the sliced cabbage back into the pot and stir to coat with the sauce.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes, or until the cabbage is tender.",
+    "Serve the stew hot, garnished with chopped green onions and toasted sesame seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-korean-cabbage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:38:12.610Z"
+}
