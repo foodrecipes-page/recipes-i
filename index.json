@@ -3872,16 +3872,15 @@
   },
   {
     "slug": "indulgent-mexican-kippers-birria",
-    "title": "Indulgent Mexican Kippers Birria",
+    "title": "Spicy Birria Tacos",
     "tags": [
-      "clay-pot",
-      "high-protein",
       "mexican",
-      "one-pan",
-      "smoked-fish"
+      "indulgent",
+      "birria",
+      "kipper"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -11338,17 +11337,15 @@
   },
   {
     "slug": "intensely-flavored-syrian-dash-tagine",
-    "title": "Syrian Dash Tagine",
+    "title": "Intensely Flavored Syrian Tagine",
     "tags": [
-      "date-night",
-      "low-carb",
-      "one-pan",
-      "syrian",
       "tagine",
-      "umami"
+      "lamb",
+      "syrian",
+      "north african"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 42,
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
