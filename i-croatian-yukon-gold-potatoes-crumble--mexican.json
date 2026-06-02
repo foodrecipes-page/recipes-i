@@ -1,0 +1,71 @@
+{
+  "slug": "i-croatian-yukon-gold-potatoes-crumble--mexican",
+  "title": "Croatian Potato Gratin",
+  "description": "A twist on the classic Mexican dish, this Croatian potato gratin combines flavors and textures for a delicious meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "croatian potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "gold potatoes",
+      "amount": "1 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "yukon potatoes",
+      "amount": "1 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "i",
+      "amount": "1 onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Butter a 9x13-inch baking dish.",
+    "In a large bowl, combine the sliced potatoes and chopped onion.",
+    "In a separate bowl, mix together 1/4 cup of grated cheese and 1 tablespoon of chopped fresh cilantro.",
+    "Spoon half of the potato mixture into the prepared baking dish.",
+    "Sprinkle half of the cheese and cilantro mixture over the potatoes.",
+    "Spoon the remaining potato mixture over the cheese and cilantro mixture.",
+    "Sprinkle the remaining cheese and cilantro mixture over the top.",
+    "Cover with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the potatoes are tender and golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "potatoes",
+    "mexican",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/i-croatian-yukon-gold-potatoes-crumble--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:10:52.628Z"
+}
