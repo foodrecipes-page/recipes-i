@@ -1,0 +1,62 @@
+{
+  "slug": "intensely-sweet-slovakian-mars-bar-bake",
+  "title": "Slovakian Mars Bar Baked Bake",
+  "description": "A sweet and decadent dessert inspired by Slovakian traditions, featuring a gooey Mars bar center.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bar",
+      "amount": "1 bar",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "sloakian intensely sweet pastry dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "bake",
+      "amount": "1",
+      "notes": "for baking"
+    },
+    {
+      "name": "bar",
+      "amount": "1",
+      "notes": "for pressing down on the dough"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of about 1/8 inch.",
+    "Place the broken Mars bar pieces in the center of the dough, leaving a 1-inch border around the edges.",
+    "Fold the dough over the Mars bar, pressing the edges to seal.",
+    "Use a bar to press down on the dough and create a decorative edge.",
+    "Place the bake on a baking sheet lined with parchment paper.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown and the Mars bar is melted.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "sweet",
+    "dessert",
+    "mars-bar"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-sweet-slovakian-mars-bar-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:47:17.897Z"
+}
