@@ -1,0 +1,74 @@
+{
+  "slug": "indulgent-brazilian-cheese-pao",
+  "title": "Brazilian Cheese Pão",
+  "description": "A rich and savory Brazilian-inspired pão filled with melted cheese and indulgent flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pão",
+      "amount": "1 loaf",
+      "notes": "preferably a crusty bread"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup shredded",
+      "notes": "a blend of cheddar and parmesan"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the pão in half lengthwise and hollow out the center, leaving a 1/2-inch border.",
+    "In a small saucepan, melt the butter over low heat.",
+    "Add the garlic and cook, stirring occasionally, for 4-5 minutes or until fragrant.",
+    "Stir in the shredded cheese until melted and smooth.",
+    "Add the chopped cilantro and red pepper flakes (if using) to the cheese mixture and stir to combine.",
+    "Spoon the cheese mixture into the hollowed-out pão, dividing it evenly between the two halves.",
+    "Place the pão on a baking sheet and bake for 10-12 minutes, or until the cheese is melted and the bread is toasted.",
+    "Remove the pão from the oven and let it cool for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "cheese",
+    "bread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-brazilian-cheese-pao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:36:30.855Z"
+}
