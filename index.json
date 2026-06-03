@@ -16564,5 +16564,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 70,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-velvety-turkish-peanut-dolma--mexican",
+    "title": "Turkish-Style Dolma with Peanut Sauce",
+    "tags": [
+      "mexican",
+      "turkish",
+      "veggie"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "i"
   }
 ]
