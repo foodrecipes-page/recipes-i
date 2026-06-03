@@ -1,0 +1,72 @@
+{
+  "slug": "ivy-s-crunchy-beef-pilau",
+  "title": "Beef and Pilau Stir-Fry",
+  "description": "A quick and easy stir-fry with beef and pilau, served with crunchy vegetables.",
+  "cuisine": "asian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "250g",
+      "notes": "Slice the beef into thin strips"
+    },
+    {
+      "name": "Pilau",
+      "amount": "250g",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Crunchy vegetables",
+      "amount": "1 cup",
+      "notes": "Use your favorite crunchy vegetables, such as carrots or bell peppers"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": "Use a neutral-tasting oil, such as vegetable oil"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Add the pilau and cook for 1-2 minutes.",
+    "Add the crunchy vegetables and cook until tender, about 2-3 minutes.",
+    "Add the soy sauce and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "pilau",
+    "stir-fry",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ivy-s-crunchy-beef-pilau",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:35:27.535Z"
+}
