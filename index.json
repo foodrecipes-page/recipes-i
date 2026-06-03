@@ -14522,16 +14522,14 @@
   },
   {
     "slug": "intensely-sweet-slovakian-mars-bar-bake",
-    "title": "Intensely Sweet Slovakian Mars Bar Bake",
+    "title": "Slovakian Mars Bar Baked Bake",
     "tags": [
-      "earthenware-cooking",
-      "kosher-friendly",
-      "mars-bar-recipes",
-      "romantic-desserts",
-      "slovakian-dishes"
+      "sweet",
+      "dessert",
+      "mars-bar"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -16260,17 +16258,15 @@
   },
   {
     "slug": "ivy-s-crunchy-beef-pilau",
-    "title": "Ivy's Crunchy Beef Pilau",
+    "title": "Beef and Pilau Stir-Fry",
     "tags": [
       "beef",
-      "kenyan",
-      "one-pot",
-      "rice",
-      "spicy",
-      "weeknight"
+      "pilau",
+      "stir-fry",
+      "asian"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 45,
+    "cuisine": "asian",
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -16574,6 +16570,19 @@
       "veggie"
     ],
     "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-smoky-saudi-arabian-mackerel-onigiri--chinese",
+    "title": "Smoky Mackerel with Chinese Spices",
+    "tags": [
+      "smoky",
+      "mackerel",
+      "chinese",
+      "seafood"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "i"
   }
