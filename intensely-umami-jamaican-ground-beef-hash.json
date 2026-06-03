@@ -1,0 +1,93 @@
+{
+  "slug": "intensely-umami-jamaican-ground-beef-hash",
+  "title": "Jamaican Beef Hash",
+  "description": "A flavorful and spicy Jamaican-inspired breakfast recipe featuring ground beef and hash browns.",
+  "cuisine": "jamaican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "hash browns",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the allspice, thyme, cumin, and scotch bonnet peppers and cook for 1 minute.",
+    "Stir in the hash browns and cook for 2-3 minutes.",
+    "Add the soy sauce and brown sugar and stir to combine.",
+    "Transfer the mixture to a serving dish and cook for an additional 2-3 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "jamaican",
+    "beef",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-umami-jamaican-ground-beef-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:41:57.355Z"
+}
