@@ -1,0 +1,80 @@
+{
+  "slug": "indulgent-spanish-almonds-bowl",
+  "title": "Spanish Almond Bowl",
+  "description": "A light and satisfying Spanish-inspired dish with crunchy almonds and fresh vegetables.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Toss the almonds with 1 tablespoon olive oil and spread on a baking sheet.",
+    "Roast in the oven for 5-7 minutes, or until lightly toasted.",
+    "In a large bowl, combine the mixed greens, cherry tomatoes, red onion, and cucumber.",
+    "Drizzle with the remaining 1 tablespoon olive oil and lemon juice.",
+    "Season with salt and black pepper to taste.",
+    "Top with the toasted almonds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indulgent",
+    "spanish",
+    "almonds",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-spanish-almonds-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:55:19.309Z"
+}
