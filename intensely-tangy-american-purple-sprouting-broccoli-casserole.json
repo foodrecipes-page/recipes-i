@@ -1,0 +1,78 @@
+{
+  "slug": "intensely-tangy-american-purple-sprouting-broccoli-casserole",
+  "title": "Sprouting Purple Broccoli Casserole",
+  "description": "A healthy and flavorful casserole made with sprouting purple broccoli, perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Purple Sprouting Broccoli",
+      "amount": "3 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Intensely Tangy Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Bulgar Wheat",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Diced Onion",
+      "amount": "1 medium",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Steam the purple sprouting broccoli until tender.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the diced onion and cook until softened.",
+    "Add the cooked bulgar wheat, salt, and black pepper. Mix well.",
+    "Stir in the intensely tangy cheese until melted.",
+    "In a separate baking dish, arrange the steamed broccoli in a single layer.",
+    "Pour the bulgar wheat mixture over the broccoli.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "vegetarian",
+    "gluten-free",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-tangy-american-purple-sprouting-broccoli-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:17:46.624Z"
+}
