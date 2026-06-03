@@ -1,0 +1,82 @@
+{
+  "slug": "iced-peppery-dutch-beef-roast",
+  "title": "Roast Beef with Peppery Dutch Peas",
+  "description": "A hearty roast beef dish with a pop of peppery flavor from the Dutch peas. Perfect for a cold winter's night.",
+  "cuisine": "british",
+  "diet": [
+    "meat",
+    "gluten",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roast beef (2 pounds)",
+      "amount": "2 pounds",
+      "notes": "Choose a high-quality cut with good marbling for maximum flavor."
+    },
+    {
+      "name": "Dutch peas",
+      "amount": "1 cup",
+      "notes": "Frozen peas are fine too, but fresh are better."
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted is best, but salted will do in a pinch."
+    },
+    {
+      "name": "1 teaspoon black pepper",
+      "amount": "1 teaspoon",
+      "notes": "Freshly ground is always best."
+    },
+    {
+      "name": "1 teaspoon dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "You can use fresh thyme too, if you like."
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "1 cup",
+      "notes": "Use low-sodium if you can, or omit the salt altogether."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Not too much, mind you! This is a beef dish, after all."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 325°F (160°C).",
+    "Season the roast beef with salt and pepper on both sides.",
+    "Heat the butter in a large Dutch oven over medium-high heat. Sear the roast beef until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the roast beef to a large plate and set aside.",
+    "Add the Dutch peas, thyme, and beef broth to the Dutch oven. Stir to combine and bring to a simmer.",
+    "Return the roast beef to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and roast for 2 1/2 to 3 hours, or until the beef reaches an internal temperature of 135°F (57°C) for medium-rare.",
+    "Remove the pot from the oven and let the roast beef rest for 15-20 minutes before slicing and serving.",
+    "Strain the cooking liquid and discard the thyme. Serve the roast beef with the Dutch peas and a drizzle of the cooking liquid."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "peas",
+    "roast",
+    "british",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iced-peppery-dutch-beef-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:54:34.911Z"
+}
