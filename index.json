@@ -5121,16 +5121,15 @@
   },
   {
     "slug": "indulgent-spanish-almonds-bowl",
-    "title": "Indulgent Spanish Almonds Bowl",
+    "title": "Spanish Almond Bowl",
     "tags": [
-      "fluffy",
-      "gluten-free",
       "indulgent",
-      "nutty",
-      "tapas-platter"
+      "spanish",
+      "almonds",
+      "bowl"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 25,
+    "cuisine": "spanish",
+    "totalTimeMin": 15,
     "shard": "i"
   },
   {
