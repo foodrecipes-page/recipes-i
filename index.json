@@ -1909,17 +1909,15 @@
   },
   {
     "slug": "indulgent-brazilian-cheese-pao",
-    "title": "indulgent brazilian cheese pao",
+    "title": "Brazilian Cheese Pão",
     "tags": [
       "brazilian",
       "cheese",
-      "flatbread",
-      "indulgent",
-      "tandoor",
-      "weeknight"
+      "bread",
+      "snack"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 55,
+    "cuisine": "Brazilian",
+    "totalTimeMin": 27,
     "shard": "i"
   },
   {
