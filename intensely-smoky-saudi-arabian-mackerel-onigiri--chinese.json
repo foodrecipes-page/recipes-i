@@ -1,0 +1,85 @@
+{
+  "slug": "intensely-smoky-saudi-arabian-mackerel-onigiri--chinese",
+  "title": "Smoky Mackerel with Chinese Spices",
+  "description": "A flavorful Chinese-inspired dish featuring smoky mackerel, intensely smoky notes, and a hint of saudi arabian flair.",
+  "cuisine": "chinese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mackerel",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "onigiri",
+      "amount": "4",
+      "notes": "Japanese rice balls for serving"
+    },
+    {
+      "name": "intensely smoky sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "saudi arabian spice blend",
+      "amount": "2 tsp",
+      "notes": "includes cumin, coriander, cinnamon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the mackerel fillets with saudi arabian spice blend.",
+    "3. Place the mackerel fillets on a baking sheet lined with parchment paper.",
+    "4. Drizzle intensely smoky sauce over the mackerel fillets.",
+    "5. Bake the mackerel in the preheated oven for 12-15 minutes, or until cooked through.",
+    "6. Meanwhile, toast the sesame seeds in a small pan over medium heat.",
+    "7. In a small bowl, whisk together soy sauce, brown sugar, and rice vinegar.",
+    "8. Brush the sauce mixture over the mackerel fillets during the last 2 minutes of cooking.",
+    "9. Remove the mackerel from the oven and let cool for a few minutes.",
+    "10. Serve the mackerel with toasted sesame seeds, onigiri, and additional intensely smoky sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "mackerel",
+    "chinese",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-saudi-arabian-mackerel-onigiri--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:03:03.467Z"
+}
