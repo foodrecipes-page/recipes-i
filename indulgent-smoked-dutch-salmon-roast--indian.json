@@ -1,0 +1,95 @@
+{
+  "slug": "indulgent-smoked-dutch-salmon-roast--indian",
+  "title": "Smoked Salmon Dutch Kofta",
+  "description": "A fusion of Indian and Dutch flavors, this dish combines the rich taste of smoked salmon with the spices of the Dutch Kofta.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon",
+      "amount": "250g",
+      "notes": "Flaked"
+    },
+    {
+      "name": "Dutch Curry Powder",
+      "amount": "2tsp",
+      "notes": ""
+    },
+    {
+      "name": "Roast Cumin",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1inch",
+      "notes": "Grated"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Green Chilies",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bread",
+      "amount": "1/2 cup",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium heat.",
+    "2. In a bowl, mix together smoked salmon, Dutch Curry Powder, roast cumin, ginger, lemon juice, salt, black pepper, green chilies, bread, and coriander.",
+    "3. Mix the ingredients well until they form a smooth paste.",
+    "4. Divide the mixture into 6-8 portions, depending on desired kofta size.",
+    "5. Shape each portion into a cylindrical shape.",
+    "6. Brush the koftas with a little oil and place them on the grill.",
+    "7. Cook the koftas for 4-5 minutes on each side, or until they're cooked through.",
+    "8. Serve hot with your favorite sides, such as naan or rice.",
+    "9. Garnish with chopped cilantro and a squeeze of lemon juice.",
+    "10. Serve and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fusion",
+    "smoked-salmon"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-smoked-dutch-salmon-roast--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:56:16.286Z"
+}
