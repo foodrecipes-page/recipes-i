@@ -1,0 +1,89 @@
+{
+  "slug": "intense-smoky-egyptian-redcurrant-tagine",
+  "title": "Spicy Redcurrant Tagine",
+  "description": "A flavorful and aromatic Moroccan-inspired stew made with redcurrants, intense spices, and tender chicken.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "redcurrants",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "intense red chili flakes",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": "add depth"
+    },
+    {
+      "name": "egyptian cumin",
+      "amount": "1 teaspoon",
+      "notes": "warm, earthy flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "peeled and chopped onions",
+      "amount": "2 medium",
+      "notes": "caramelize in oil"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay pot or Dutch oven over medium-high.",
+    "Add onions and cook until caramelized, stirring occasionally.",
+    "Add chicken and cook until browned on all sides.",
+    "Add red chili flakes, paprika, cumin, and salt. Stir to combine.",
+    "Add redcurrants and stir to coat with spices.",
+    "Transfer pot to the oven and bake at 300°F (150°C) for 30 minutes.",
+    "Remove pot from oven and garnish with parsley.",
+    "Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "marrakech",
+    "tagine",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-egyptian-redcurrant-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:05:58.615Z"
+}
