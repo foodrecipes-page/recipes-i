@@ -4919,18 +4919,16 @@
   },
   {
     "slug": "indulgent-smoked-dutch-salmon-roast",
-    "title": "Indulgent Smoked Dutch Salmon Roast",
+    "title": "Smoked Salmon Dutch Pancakes",
     "tags": [
       "dutch",
-      "flexitarian",
-      "high-protein",
+      "breakfast",
       "indulgent",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "salmon",
+      "smoked"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -9544,16 +9542,16 @@
   },
   {
     "slug": "intense-turkish-chickpeas-pide",
-    "title": "Intense Turkish Chickpeas Pide",
+    "title": "Turkish Chickpea Pide",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
       "turkish",
-      "vegan"
+      "chickpeas",
+      "flatbread",
+      "snack",
+      "meal"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -16570,6 +16568,20 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-mediterranean-sea-bass-fillets-grilled--chinese",
+    "title": "Pan-Seared Bass with Mediterranean Flair",
+    "tags": [
+      "pan-seared",
+      "mediterranean",
+      "chinese",
+      "seafood",
+      "bass"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
     "shard": "i"
   }
 ]
