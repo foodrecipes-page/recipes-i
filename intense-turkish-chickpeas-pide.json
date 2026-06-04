@@ -1,0 +1,82 @@
+{
+  "slug": "intense-turkish-chickpeas-pide",
+  "title": "Turkish Chickpea Pide",
+  "description": "A flavorful Turkish flatbread filled with chickpeas and spices. Perfect for a satisfying snack or meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pide dough",
+      "amount": "1 package (1 pound)",
+      "notes": "available at most grocery stores or online"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 ounces)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "turkish spices",
+      "amount": "1 tablespoon",
+      "notes": "a mix of paprika, cumin, and coriander"
+    },
+    {
+      "name": "intense olive oil",
+      "amount": "2 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Roll out the pide dough on a floured surface to a thickness of 1/4 inch (6 mm).",
+    "Brush 1 tablespoon of the olive oil over the dough, leaving a 1-inch (2.5 cm) border around the edges.",
+    "In a bowl, mix together the chickpeas, turkish spices, salt, and black pepper.",
+    "Spread the chickpea mixture over the dough, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Drizzle the remaining 1 tablespoon of olive oil over the chickpeas.",
+    "If using feta cheese, sprinkle it over the chickpeas.",
+    "Fold the edges of the dough over the filling to form a crust.",
+    "Brush the crust with a little water and sprinkle with sesame seeds (if desired).",
+    "Bake the pide for 15-20 minutes, or until the crust is golden brown.",
+    "Remove the pide from the oven and let it cool for 5 minutes before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "chickpeas",
+    "flatbread",
+    "snack",
+    "meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-turkish-chickpeas-pide",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:20:46.925Z"
+}
