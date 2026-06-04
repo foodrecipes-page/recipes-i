@@ -1,0 +1,98 @@
+{
+  "slug": "indulgent-syrian-meat-tagine",
+  "title": "Syrian Lamb Tagine",
+  "description": "A rich and aromatic tagine originating from Syrian cuisine, made with tender lamb and a blend of spices.",
+  "cuisine": "syrian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "4 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and cook for another 5 minutes.",
+    "Add the cumin, cinnamon, turmeric, ginger, paprika, salt, and black pepper. Cook for 1 minute.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the chicken broth and bring to a boil.",
+    "Cover the pot and transfer it to the oven. Braise the lamb for 2 1/2 hours, or until tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the lamb with two forks and return it to the pot.",
+    "Simmer the tagine over low heat for 10-15 minutes, allowing the flavors to meld.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "tagine",
+    "syrian",
+    "cinnamon",
+    "ginger"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-syrian-meat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:41:21.947Z"
+}
