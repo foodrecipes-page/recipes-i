@@ -1,0 +1,75 @@
+{
+  "slug": "intense-korean-cabbage-stew--japanese",
+  "title": "Korean-Style Japanese Stew",
+  "description": "A fusion of Japanese and Korean flavors in a hearty stew.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head, sliced"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Intense soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups beef broth"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "optional"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium-high heat.",
+    "Add garlic and ginger; cook until fragrant, about 1 minute.",
+    "Add Korean chili flakes; cook for 1 minute.",
+    "Add cabbage; cook until slightly wilted, about 3 minutes.",
+    "Add beef broth, soy sauce, and intense soy sauce; stir to combine.",
+    "Bring to a boil, then reduce heat to medium-low and simmer, covered, until cabbage is tender, about 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with green onions and toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "korean",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-korean-cabbage-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:23:33.338Z"
+}
