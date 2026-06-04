@@ -1,0 +1,91 @@
+{
+  "slug": "indulgent-smoked-dutch-salmon-roast",
+  "title": "Smoked Salmon Dutch Pancakes",
+  "description": "Indulge in these rich and creamy Dutch pancakes filled with smoked salmon, perfect for a luxurious brunch.",
+  "cuisine": "Dutch",
+  "diet": [
+    "fish-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "Dutch flour is ideal, but regular flour works too"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Whole milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoked salmon",
+      "amount": "6 oz",
+      "notes": "Flaked"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tbs",
+      "notes": ""
+    },
+    {
+      "name": "Diced shallots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbs",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, eggs, and milk until smooth.",
+    "Heat a non-stick pan over medium heat and melt 2 tbs of butter.",
+    "Add the diced shallots and cook until translucent.",
+    "Pour in the batter and cook until bubbles form on the surface.",
+    "Flip the pancake and cook until golden brown.",
+    "Meanwhile, mix the smoked salmon with dill and season with salt and pepper.",
+    "Add the salmon mixture to one half of the pancake.",
+    "Fold the other half over the salmon.",
+    "Cook for an additional 2 minutes and serve with the remaining butter."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "breakfast",
+    "indulgent",
+    "salmon",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-smoked-dutch-salmon-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:03:25.375Z"
+}
