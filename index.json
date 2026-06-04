@@ -16608,5 +16608,31 @@
     "cuisine": "indian",
     "totalTimeMin": 23,
     "shard": "i"
+  },
+  {
+    "slug": "intense-korean-cabbage-stew--japanese",
+    "title": "Korean-Style Japanese Stew",
+    "tags": [
+      "japanese",
+      "korean",
+      "stew"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-smoky-egyptian-redcurrant-tagine--german",
+    "title": "Smoked Tagine Chicken with Redcurrant Glaze",
+    "tags": [
+      "german",
+      "chicken",
+      "tagine",
+      "smoked-paprika",
+      "redcurrant"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "i"
   }
 ]
