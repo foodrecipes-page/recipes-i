@@ -5244,16 +5244,16 @@
   },
   {
     "slug": "indulgent-syrian-meat-tagine",
-    "title": "Indulgent Syrian Meat Tagine",
+    "title": "Syrian Lamb Tagine",
     "tags": [
-      "beef",
-      "comfort-food",
-      "low-glycemic",
-      "one-pot",
-      "pressure-cooker"
+      "lamb",
+      "tagine",
+      "syrian",
+      "cinnamon",
+      "ginger"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "cuisine": "syrian",
+    "totalTimeMin": 180,
     "shard": "i"
   },
   {
