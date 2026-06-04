@@ -16596,5 +16596,17 @@
     "cuisine": "french",
     "totalTimeMin": 140,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-smoked-dutch-salmon-roast--indian",
+    "title": "Smoked Salmon Dutch Kofta",
+    "tags": [
+      "indian",
+      "fusion",
+      "smoked-salmon"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 23,
+    "shard": "i"
   }
 ]
