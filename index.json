@@ -8935,16 +8935,14 @@
   },
   {
     "slug": "intense-smoky-egyptian-redcurrant-tagine",
-    "title": "Intense Smoky Egyptian Redcurrant Tagine",
+    "title": "Spicy Redcurrant Tagine",
     "tags": [
-      "exotic",
-      "gluten-free",
-      "north-african",
-      "one-pot",
-      "spicy",
-      "vegetarian"
+      "chicken",
+      "marrakech",
+      "tagine",
+      "moroccan"
     ],
-    "cuisine": "Egyptian",
+    "cuisine": "Moroccan",
     "totalTimeMin": 60,
     "shard": "i"
   },
@@ -13939,17 +13937,15 @@
   },
   {
     "slug": "intensely-smoky-ukrainian-beef-stew",
-    "title": "Intensely Smoky Ukrainian Beef Stew",
+    "title": "Smoky Ukrainian Beef Stew",
     "tags": [
-      "beef-stew",
-      "comfort-food",
-      "fodmap-friendly",
-      "meal-prep",
-      "one-pot",
-      "smoky"
+      "beef",
+      "stew",
+      "ukrainian",
+      "comfort-food"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 140,
     "shard": "i"
   },
   {
