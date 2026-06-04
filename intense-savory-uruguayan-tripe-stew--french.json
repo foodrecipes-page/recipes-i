@@ -1,0 +1,70 @@
+{
+  "slug": "intense-savory-uruguayan-tripe-stew--french",
+  "title": "Tripe Bourguignon",
+  "description": "A hearty French stew made with tender tripe and rich flavors.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound, cleaned and cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and sliced"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks, sliced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown tripe on all sides, then remove and set aside.",
+    "Add onion, garlic, carrots, and celery to pot; cook until vegetables are tender.",
+    "Add red wine, scraping up browned bits from pot.",
+    "Return tripe to pot; bring to a boil, then reduce heat to low and simmer, covered, for 2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-savory-uruguayan-tripe-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:10:29.951Z"
+}
