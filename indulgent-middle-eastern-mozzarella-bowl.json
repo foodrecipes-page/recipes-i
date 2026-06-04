@@ -1,0 +1,88 @@
+{
+  "slug": "indulgent-middle-eastern-mozzarella-bowl",
+  "title": "Mozzarella and Eastern Bowl",
+  "description": "A delicious and easy to make bowl filled with the flavors of the East. Perfect for a quick lunch or dinner.",
+  "cuisine": "eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "indulgent pita bread",
+      "amount": "1",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "middle eastern falafel mix",
+      "amount": "1 package",
+      "notes": "follow package instructions for preparation"
+    },
+    {
+      "name": "fresh mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": "sliced into thin rounds"
+    },
+    {
+      "name": "eastern style hummus",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced into thin rounds"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "sliced into thin rounds"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4",
+      "notes": "sliced into thin rings"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Bake the pita bread for 5-7 minutes, or until crispy and lightly browned.",
+    "Cook the falafel according to the package instructions.",
+    "In a large bowl, spread the hummus on the bottom.",
+    "Add the sliced cucumber, tomato, red onion, and mozzarella cheese on top of the hummus.",
+    "Place the cooked falafel on top of the vegetables.",
+    "Garnish with chopped parsley.",
+    "Serve immediately in a bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eastern",
+    "vegetarian",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-middle-eastern-mozzarella-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:55:09.190Z"
+}
