@@ -3362,10 +3362,12 @@
   },
   {
     "slug": "indulgent-jamaican-potatoes-bao",
-    "title": "Indulgent Jamaican Potatoes Bao",
+    "title": "Jamaican Bao Bites",
     "tags": [
+      "indulgent",
       "jamaican",
-      "dinner"
+      "bao",
+      "snack"
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 40,
@@ -16581,6 +16583,18 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 27,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-savory-uruguayan-tripe-stew--french",
+    "title": "Tripe Bourguignon",
+    "tags": [
+      "french",
+      "stew",
+      "hearty"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 140,
     "shard": "i"
   }
 ]
