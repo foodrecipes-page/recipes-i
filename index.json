@@ -3942,15 +3942,14 @@
   },
   {
     "slug": "indulgent-middle-eastern-mozzarella-bowl",
-    "title": "Indulgent Middle Eastern Mozzarella Bowl",
+    "title": "Mozzarella and Eastern Bowl",
     "tags": [
-      "cheese-pull",
-      "gluten-free",
-      "indulgent",
-      "middle-eastern",
-      "quick"
+      "eastern",
+      "vegetarian",
+      "lunch",
+      "dinner"
     ],
-    "cuisine": "Middle Eastern",
+    "cuisine": "eastern",
     "totalTimeMin": 25,
     "shard": "i"
   },
