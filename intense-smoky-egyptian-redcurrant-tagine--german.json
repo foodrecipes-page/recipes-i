@@ -1,0 +1,87 @@
+{
+  "slug": "intense-smoky-egyptian-redcurrant-tagine--german",
+  "title": "Smoked Tagine Chicken with Redcurrant Glaze",
+  "description": "A unique German-inspired twist on traditional North African tagine, featuring smoky chicken and a sweet redcurrant glaze.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "intense smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "or regular smoked paprika"
+    },
+    {
+      "name": "egyptian cumin",
+      "amount": "1 teaspoon",
+      "notes": "or regular cumin"
+    },
+    {
+      "name": "redcurrant jelly",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "redcurrants",
+      "amount": "1 cup",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the chicken with smoked paprika, cumin, salt, and pepper.",
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat. Brown the chicken in batches until browned on all sides, about 5 minutes per batch.",
+    "Transfer the chicken to a plate and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the pot. Cook the sliced red onion over medium heat until softened, about 5 minutes.",
+    "Add the red wine (if using) to the pot and cook until the liquid has almost completely evaporated, stirring to scrape up any browned bits.",
+    "Add the redcurrant jelly to the pot and stir to combine. Cook for 1-2 minutes, or until the jelly has melted.",
+    "Return the chicken to the pot and stir to coat with the redcurrant glaze.",
+    "Transfer the pot to the preheated oven and braise the chicken for 25-30 minutes, or until cooked through.",
+    "Stir in the fresh or frozen redcurrants and cook for an additional 1-2 minutes, or until heated through.",
+    "Serve the Smoked Tagine Chicken with Redcurrant Glaze hot, garnished with additional redcurrants if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "tagine",
+    "smoked-paprika",
+    "redcurrant"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-egyptian-redcurrant-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:29:46.316Z"
+}
