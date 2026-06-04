@@ -1,0 +1,90 @@
+{
+  "slug": "indulgent-mediterranean-sea-bass-fillets-grilled--chinese",
+  "title": "Pan-Seared Bass with Mediterranean Flair",
+  "description": "A Chinese-inspired bass dish with a Mediterranean twist, featuring the rich flavors of the sea and a hint of indulgence.",
+  "cuisine": "chinese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bass Fillets",
+      "amount": "4"
+    },
+    {
+      "name": "Indulgent Honey",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality honey for the best flavor."
+    },
+    {
+      "name": "Mediterranean Oregano",
+      "amount": "1 tsp",
+      "notes": "Fresh or dried oregano works well in this recipe."
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "to taste",
+      "notes": "Use a flaky sea salt for the best flavor."
+    },
+    {
+      "name": "Mediterranean Lemons",
+      "amount": "2",
+      "notes": "Use fresh lemons for the best flavor."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Use high-quality, salted butter for the best flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince the garlic before sautéing for the best flavor."
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Thinly slice the green onions before using."
+    },
+    {
+      "name": "Mediterranean Olives",
+      "amount": "1/2 cup",
+      "notes": "Pit the olives before using."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the bass fillets with sea salt and Mediterranean oregano.",
+    "Heat the butter in an oven-safe skillet over medium-high heat.",
+    "Sear the bass fillets for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the bass is cooked through.",
+    "While the bass is cooking, mix the honey, garlic, and green onions in a small bowl.",
+    "After the bass is done cooking, remove it from the skillet and brush the honey mixture on top of each fillet.",
+    "Return the skillet to the stovetop and sauté the Mediterranean olives for 1-2 minutes, or until fragrant.",
+    "Serve the bass fillets with the sautéed olives and a squeeze of Mediterranean lemon juice.",
+    "Garnish with additional green onions and a sprinkle of sea salt, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pan-seared",
+    "mediterranean",
+    "chinese",
+    "seafood",
+    "bass"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-mediterranean-sea-bass-fillets-grilled--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:45:21.388Z"
+}
