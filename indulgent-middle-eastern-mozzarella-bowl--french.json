@@ -1,0 +1,73 @@
+{
+  "slug": "indulgent-middle-eastern-mozzarella-bowl--french",
+  "title": "French Mozzarella Bowl",
+  "description": "A French-inspired, indulgent bowl filled with melted mozzarella cheese, perfect for a dinner or snack.",
+  "cuisine": "French",
+  "diet": [
+    "middle",
+    "indulgent"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bread (baguette)",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Slice the baguette into 1-inch thick slices.",
+    "3. Butter each slice on both sides.",
+    "4. Place the bread slices on a baking sheet.",
+    "5. Sprinkle shredded mozzarella cheese over the bread.",
+    "6. Season with salt and chopped parsley.",
+    "7. Bake for 10-12 minutes or until the cheese is melted and bubbly.",
+    "8. Garnish with fresh basil leaves.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-bowl",
+    "mozzarella-cheese",
+    "indulgent"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-middle-eastern-mozzarella-bowl--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:31:23.172Z"
+}
