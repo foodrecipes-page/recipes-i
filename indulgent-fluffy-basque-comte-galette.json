@@ -1,0 +1,75 @@
+{
+  "slug": "indulgent-fluffy-basque-comte-galette",
+  "title": "Indulgent Comte and Galette Tart",
+  "description": "A rich and buttery galette crust filled with a creamy comte cheese and topped with a fluffy egg mixture. Perfect for a decadent dessert.",
+  "cuisine": "French",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "8 oz",
+      "notes": "High-quality, aged comte for the best flavor"
+    },
+    {
+      "name": "Galette dough",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought, chilled until firm"
+    },
+    {
+      "name": "Eggs",
+      "amount": "3 large",
+      "notes": "For the fluffy egg mixture on top"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": "Unsalted, softened for the crust"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "To balance the sweetness"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "Optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the galette dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "In a large mixing bowl, combine the comte cheese and eggs.",
+    "Add a pinch of salt and stir until smooth.",
+    "Pour the cheese mixture into the galette crust.",
+    "Dot the top with butter and sprinkle with fresh thyme, if using.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove from the oven and let cool for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "tart",
+    "cheese",
+    "dessert",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-fluffy-basque-comte-galette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:15:32.563Z"
+}
