@@ -1,0 +1,71 @@
+{
+  "slug": "intensely-tangy-australian-cherry-salad",
+  "title": "Cherry Australian Salad",
+  "description": "A tangy and refreshing salad featuring cherry tomatoes and Australian ingredients, perfect for a quick and easy snack.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "Fresh Fennel",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Australian Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "cubed (or substitute with vegan option)"
+    },
+    {
+      "name": "Tangy Vinaigrette",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Intensely Focused Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine cherry tomatoes, fennel, and Australian feta cheese.",
+    "2. In a small bowl, whisk together tangy vinaigrette and intensely focused olive oil.",
+    "3. Pour the dressing over the salad and toss to combine.",
+    "4. Sprinkle with chopped parsley and serve immediately.",
+    "5. Refrigerate for at least 30 minutes to allow flavors to meld."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "australian",
+    "easy",
+    "quick",
+    "refreshing"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-tangy-australian-cherry-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:09:56.479Z"
+}
