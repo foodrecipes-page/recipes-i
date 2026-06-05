@@ -668,14 +668,12 @@
   },
   {
     "slug": "icy-korean-potato-bake",
-    "title": "Icy Korean Potato Bake",
+    "title": "Korean-Style Baked Potato",
     "tags": [
-      "bake",
       "korean",
-      "low-sodium",
-      "one-pan",
-      "potato-dish",
-      "weeknight"
+      "spicy",
+      "snack",
+      "potato"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 55,
@@ -2837,16 +2835,15 @@
   },
   {
     "slug": "indulgent-fresh-dutch-duck-confit",
-    "title": "indulgent fresh dutch duck confit",
+    "title": "Dutch-Style Pan-Seared Duck Confit",
     "tags": [
-      "high-protein",
-      "indulgent",
-      "one-pan",
-      "special-occasion",
-      "weeknight"
+      "dutch",
+      "duck",
+      "conft",
+      "indulgent"
     ],
-    "cuisine": "dutch",
-    "totalTimeMin": 135,
+    "cuisine": "Dutch",
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
