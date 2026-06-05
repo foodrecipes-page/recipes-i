@@ -8460,16 +8460,15 @@
   },
   {
     "slug": "intense-roasted-peruvian-chicken-aji-de-gallina",
-    "title": "Intense Roasted Peruvian Chicken Aji De Gallina",
+    "title": "Aji de Gallina",
     "tags": [
-      "cheesy",
-      "gluten-free",
-      "one-pot",
-      "peruvian-cuisine",
-      "spicy"
+      "peruvian",
+      "chicken",
+      "aji",
+      "creamy"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
