@@ -1,0 +1,96 @@
+{
+  "slug": "intensely-savory-korean-mussels-stew",
+  "title": "Spicy Korean Mussels Stew",
+  "description": "A hearty and spicy Korean-inspired stew made with mussels, perfect for a cold winter night. This dish combines the brininess of mussels with the bold flavors of Korean chili flakes and soy sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "Fish",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sake or dry white wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the mussels and remove any broken shells.",
+    "Heat the gochujang in a large saucepan over medium heat, stirring occasionally.",
+    "Add the garlic, ginger, and green onions to the saucepan and cook for 1-2 minutes, until fragrant.",
+    "Add the soy sauce, fish sauce, brown sugar, and crushed red pepper flakes (if using) to the saucepan and stir to combine.",
+    "Add the mussels to the saucepan and stir to coat with the sauce.",
+    "Cover the saucepan and cook for 5-7 minutes, or until the mussels open.",
+    "Remove the saucepan from the heat and stir in the sake (if using).",
+    "Serve the mussels in bowls, spooning the spicy sauce over the top.",
+    "Garnish with additional green onions and serve with steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "mussels",
+    "stew",
+    "fish",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-korean-mussels-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:45:32.795Z"
+}
