@@ -14578,18 +14578,16 @@
   },
   {
     "slug": "intensely-tangy-australian-cherry-salad",
-    "title": "Intensely Tangy Australian Cherry Salad",
+    "title": "Cherry Australian Salad",
     "tags": [
+      "salad",
       "australian",
-      "crunchy",
-      "hangover-cure",
-      "lacto-vegetarian",
-      "light",
-      "refreshing",
-      "tangy"
+      "easy",
+      "quick",
+      "refreshing"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 50,
+    "cuisine": "australian",
+    "totalTimeMin": 15,
     "shard": "i"
   },
   {
