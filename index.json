@@ -16630,5 +16630,17 @@
     "cuisine": "german",
     "totalTimeMin": 55,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-middle-eastern-mozzarella-bowl--french",
+    "title": "French Mozzarella Bowl",
+    "tags": [
+      "french-bowl",
+      "mozzarella-cheese",
+      "indulgent"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 22,
+    "shard": "i"
   }
 ]
