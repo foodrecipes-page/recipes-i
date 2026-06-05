@@ -1,0 +1,77 @@
+{
+  "slug": "intense-roasted-peruvian-chicken-aji-de-gallina",
+  "title": "Aji de Gallina",
+  "description": "A Peruvian classic, Aji de Gallina is a creamy, shredded chicken dish served in a rich aji amarillo sauce and garnished with intense roasted Peruvian black olives.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shredded Chicken",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Aji Amarillo Peppers",
+      "amount": "4",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Roasted Peruvian Black Olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grated Queso Fresco",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Peruvian Aji Paste",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat. Add garlic and cook until fragrant.",
+    "Add diced aji amarillo peppers and cook until softened.",
+    "Add shredded chicken and cook until heated through.",
+    "Stir in heavy cream, queso fresco, and aji paste. Bring to a simmer.",
+    "Reduce heat to low and let sauce simmer for 5 minutes.",
+    "Stir in roasted Peruvian black olives.",
+    "Serve Aji de Gallina over rice or with boiled potatoes.",
+    "Garnish with additional aji amarillo peppers and roasted black olives, if desired.",
+    "Serve immediately and enjoy!",
+    "Refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "aji",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-roasted-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:56:16.583Z"
+}
