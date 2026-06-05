@@ -1,0 +1,74 @@
+{
+  "slug": "indulgent-fresh-dutch-duck-confit",
+  "title": "Dutch-Style Pan-Seared Duck Confit",
+  "description": "Savor the rich flavors of the Netherlands with this indulgent twist on traditional confit. A crispy duck leg, slow-cooked to perfection, served with a side of fresh vegetables.",
+  "cuisine": "Dutch",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck leg",
+      "amount": "2",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "Duck confit spices",
+      "amount": "2 tablespoons",
+      "notes": "available at most Dutch markets"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 sprig",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the duck leg with salt, thyme, and rosemary.",
+    "In a large Dutch oven, melt 2 tablespoons of butter over medium heat.",
+    "Sear the duck leg until browned on both sides, about 5 minutes per side.",
+    "Transfer the Dutch oven to the preheated oven and cook for 20 minutes.",
+    "Remove the Dutch oven from the oven and increase the heat to 400°F (200°C).",
+    "Add the remaining 2 tablespoons of butter to the pot and baste the duck leg with the melted butter.",
+    "Return the duck leg to the oven and cook for an additional 10-15 minutes, or until crispy.",
+    "Let the duck leg rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "duck",
+    "conft",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 0,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-fresh-dutch-duck-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:45:54.072Z"
+}
