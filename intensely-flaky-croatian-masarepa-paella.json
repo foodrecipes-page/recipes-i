@@ -1,0 +1,109 @@
+{
+  "slug": "intensely-flaky-croatian-masarepa-paella",
+  "title": "Croatian Paella with Croquetas",
+  "description": "A traditional Croatian twist on the classic Spanish paella dish, featuring flaky croquetas as a side. This hearty meal is perfect for a dinner gathering.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian paella rice",
+      "amount": "1 cup",
+      "notes": "Available at some international grocery stores"
+    },
+    {
+      "name": "Masarepa",
+      "amount": "1 cup",
+      "notes": "For croquetas"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound, boneless and skinless",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1/2 pound",
+      "notes": "Shelled and deveined"
+    },
+    {
+      "name": "Intensely flavored chorizo",
+      "amount": "1/2 pound, sliced",
+      "notes": "Available at some international grocery stores"
+    },
+    {
+      "name": "Flaky biscuit dough",
+      "amount": "1 package",
+      "notes": "For croquetas"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying croquetas"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Saifron threads",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add chorizo and cook until browned, about 3-4 minutes.",
+    "Add chicken breast and cook until browned, about 5 minutes.",
+    "Add shrimp and cook until pink, about 2-3 minutes.",
+    "Add paella rice, chicken broth, saffron, paprika, salt, and black pepper. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and cover.",
+    "Simmer for 20-25 minutes or until rice is cooked and liquid has been absorbed.",
+    "While rice is cooking, prepare croquetas.",
+    "Cut biscuit dough into small pieces and fry in hot oil until golden brown.",
+    "Drain on paper towels.",
+    "To assemble croquetas, place a small piece of dough in the palm of your hand and fill with a small piece of chorizo.",
+    "Form into a ball and seal the edges.",
+    "Repeat with remaining dough and chorizo.",
+    "Serve paella hot, garnished with croquetas."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "croatian",
+    "paella",
+    "croquetas",
+    "chorizo"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flaky-croatian-masarepa-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:03:52.663Z"
+}
