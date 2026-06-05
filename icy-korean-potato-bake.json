@@ -1,0 +1,63 @@
+{
+  "slug": "icy-korean-potato-bake",
+  "title": "Korean-Style Baked Potato",
+  "description": "A simple and delicious recipe for a Korean-inspired baked potato. The spicy kick from the korean chili flakes pairs perfectly with the creamy texture of the potato.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "Baking potatoes"
+    },
+    {
+      "name": "Korean",
+      "amount": "2 tsp",
+      "notes": "Korean chili flakes"
+    },
+    {
+      "name": "icy",
+      "amount": "1/4 cup",
+      "notes": "Icy cold butter, cut into small pieces"
+    },
+    {
+      "name": "bake",
+      "amount": "1 tsp",
+      "notes": "Baking powder"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Wash the potatoes thoroughly and poke some holes in each with a fork.",
+    "Rub the potatoes with a little bit of icy cold butter and sprinkle with Korean chili flakes.",
+    "Sprinkle a pinch of baking powder on top of each potato.",
+    "Place the potatoes directly on the middle rack of the oven.",
+    "Bake for 45-60 minutes, or until the potatoes are tender when pierced with a fork.",
+    "Remove the potatoes from the oven and let them cool for a few minutes.",
+    "Serve the potatoes hot, garnished with some additional Korean chili flakes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "spicy",
+    "snack",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-korean-potato-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:44:37.511Z"
+}
