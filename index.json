@@ -16745,5 +16745,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-fluffy-basque-comte-galette--vegetarian",
+    "title": "Comte and Basque Galette",
+    "tags": [
+      "vegetarian",
+      "cheese",
+      "pastries",
+      "fruit"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "i"
   }
 ]
