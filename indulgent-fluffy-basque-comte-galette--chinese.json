@@ -1,0 +1,73 @@
+{
+  "slug": "indulgent-fluffy-basque-comte-galette--chinese",
+  "title": "Pan-Seared Basque Galette with Comte Cheese Sauce",
+  "description": "A Chinese-inspired twist on a French classic, with crispy galette and creamy Comte cheese sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Basque Galette",
+      "amount": "2",
+      "notes": "thawed"
+    },
+    {
+      "name": "Comte Cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Indulgent Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fluffy Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a pan over medium-high heat.",
+    "Add the sliced mushrooms and cook until they start to brown.",
+    "Add the chopped scallions and cook for another minute.",
+    "Place the thawed galette in the pan and cook for 2-3 minutes on each side.",
+    "In a separate saucepan, melt the grated Comte cheese over low heat.",
+    "Add the soy sauce to the cheese sauce and stir until combined.",
+    "Serve the pan-seared galette with the Comte cheese sauce on top.",
+    "Garnish with additional chopped scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "chinese-fusion",
+    "cheese-sauce",
+    "mushroom-dish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-fluffy-basque-comte-galette--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T22:21:07.373Z"
+}
