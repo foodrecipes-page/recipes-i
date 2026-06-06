@@ -16667,5 +16667,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 60,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-fluffy-basque-comte-galette--german",
+    "title": "German Fluffy Galette with Indulgent Comte Cheese",
+    "tags": [
+      "german",
+      "cheese",
+      "dessert",
+      "galette"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "i"
   }
 ]
