@@ -1,0 +1,76 @@
+{
+  "slug": "indulgent-fluffy-basque-comte-galette--german",
+  "title": "German Fluffy Galette with Indulgent Comte Cheese",
+  "description": "A rich and creamy German-inspired dessert featuring a fluffy galette crust topped with indulgent comte cheese.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Comte Cheese",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Basque Cured Ham",
+      "amount": "50g",
+      "notes": "optional"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "100ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Mix flour and sugar in a bowl.",
+    "Crack in eggs and mix until the dough forms.",
+    "Knead the dough for 10 minutes.",
+    "Place the dough on a baking sheet.",
+    "Bake the galette for 20 minutes.",
+    "Meanwhile, melt Comte cheese in a saucepan over low heat.",
+    "Add milk to the cheese sauce and stir until combined.",
+    "Assemble the galette by spreading the cheese sauce on top.",
+    "Bake for an additional 5 minutes.",
+    "Top with Basque Cured Ham if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "cheese",
+    "dessert",
+    "galette"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-fluffy-basque-comte-galette--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:05:52.378Z"
+}
