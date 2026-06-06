@@ -1,0 +1,85 @@
+{
+  "slug": "icy-jamaican-codfish-fritters",
+  "title": "Jamaican Codfish Fritters",
+  "description": "A Caribbean-inspired dish made with codfish, spices, and crispy fritters.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Codfish",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Icy cold water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Jamaican allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Scotch bonnet pepper",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Fritters",
+      "amount": "4-6",
+      "notes": "depending on size"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine codfish, icy cold water, allspice, salt, and pepper. Mix well and let marinate for at least 30 minutes.",
+    "Preheat the oil in a deep frying pan over medium-high heat.",
+    "Add the onion and Scotch bonnet pepper to the bowl with the codfish mixture and mix well.",
+    "Using your hands, shape the codfish mixture into small patties, about 1 1/2 inches in diameter.",
+    "When the oil is hot, add 2-3 patties to the pan (do not overcrowd). Fry for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Repeat the process with the remaining codfish mixture.",
+    "Serve the fritters hot with your favorite dipping sauce, such as a spicy mango salsa or a tangy remoulade."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "snack",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-jamaican-codfish-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:25:39.946Z"
+}
