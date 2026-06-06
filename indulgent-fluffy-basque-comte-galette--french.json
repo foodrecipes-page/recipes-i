@@ -1,0 +1,85 @@
+{
+  "slug": "indulgent-fluffy-basque-comte-galette--french",
+  "title": "French Basque Galette with Comte Cheese",
+  "description": "A traditional French pastry filled with a rich Comte cheese and flaky dough, perfect for a snack or dessert.",
+  "cuisine": "french",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "200g",
+      "notes": "grated"
+    },
+    {
+      "name": "Basque galette dough",
+      "amount": "1 sheet",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Flaky pastry dough",
+      "amount": "1 sheet",
+      "notes": "for crust"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g",
+      "notes": "melted"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "a pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Eggs",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the Basque galette dough to a thickness of 1/4 inch.",
+    "Cut out a circle of dough using a cookie cutter or the rim of a glass.",
+    "Place the dough circle on a baking sheet lined with parchment paper.",
+    "Spread the melted butter evenly over the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle the grated Comte cheese over the butter, leaving a small border around the edges.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Brush the top of the galette with beaten eggs and sprinkle with sugar and cinnamon if desired.",
+    "Bake for 25-30 minutes, or until the crust is golden brown and the filling is melted and bubbly.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "cheese",
+    "pastry",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-fluffy-basque-comte-galette--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T22:20:10.254Z"
+}
