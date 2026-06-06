@@ -1,0 +1,78 @@
+{
+  "slug": "indulgent-fluffy-basque-comte-galette--thai",
+  "title": "Thai Comte Galette",
+  "description": "A Thai twist on the classic galette pastry. Flaky, indulgent, and packed with the rich flavors of Thailand.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Flaky pastry dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Thai red chili flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped"
+    },
+    {
+      "name": "Balsamic glaze",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C)",
+    "Roll out the pastry dough to a thickness of 1/8 inch",
+    "Transfer the dough to a baking sheet lined with parchment paper",
+    "Mix the comte cheese, sesame seeds, grated ginger, and Thai red chili flakes in a bowl",
+    "Spread the cheese mixture evenly over the center of the dough, leaving a 1-inch border around the edges",
+    "Fold the edges of the dough over the filling, pressing gently to seal",
+    "Brush the top of the galette with the beaten egg and sprinkle with chopped cilantro",
+    "Bake for 20-25 minutes, or until the crust is golden brown and the cheese is melted",
+    "Drizzle the balsamic glaze and honey over the galette",
+    "Sprinkle with chopped Thai basil and serve warm"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "galette",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-fluffy-basque-comte-galette--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T22:20:11.962Z"
+}
