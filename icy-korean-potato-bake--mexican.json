@@ -1,0 +1,64 @@
+{
+  "slug": "icy-korean-potato-bake--mexican",
+  "title": "Mexican Potato Bake",
+  "description": "A flavorful and spicy Mexican potato dish, perfect as a side or main course.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "icy",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "korean",
+      "amount": "1/2 cup",
+      "notes": "diced red onion"
+    },
+    {
+      "name": "bake",
+      "amount": "1 cup",
+      "notes": "shredded cheese (Monterey Jack or Cheddar)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sliced potatoes, diced onion, and chopped cilantro.",
+    "In a separate bowl, mix shredded cheese and a pinch of salt.",
+    "Grease a 9x13 inch baking dish with cooking spray.",
+    "Arrange half of the potato mixture in the baking dish.",
+    "Sprinkle half of the cheese mixture on top of the potatoes.",
+    "Repeat the layers: add the remaining potato mixture, then the remaining cheese mixture.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "potatoes",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-korean-potato-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:50:58.446Z"
+}
