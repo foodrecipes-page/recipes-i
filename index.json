@@ -16642,5 +16642,30 @@
     "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-flavored-slovakian-meat-stew--chinese",
+    "title": "Slovakian-Style Braised Beef Stew",
+    "tags": [
+      "slovakian",
+      "chinese",
+      "beef-stew",
+      "hearty-stew"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 180,
+    "shard": "i"
+  },
+  {
+    "slug": "icy-korean-potato-bake--mexican",
+    "title": "Mexican Potato Bake",
+    "tags": [
+      "mexican",
+      "potatoes",
+      "bake"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 60,
+    "shard": "i"
   }
 ]
