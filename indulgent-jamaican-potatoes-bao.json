@@ -1,80 +1,97 @@
 {
   "slug": "indulgent-jamaican-potatoes-bao",
-  "title": "Jamaican Bao Bites",
-  "description": "Indulge in these crispy, flavorful bao bites filled with a spicy Jamaican-inspired filling.",
-  "cuisine": "jamaican",
+  "title": "Bao Baked Potatoes with Jamaican Twist",
+  "description": "A flavorful twist on classic baked potatoes, filling them with a spicy Jamaican filling and topping with crispy bao croutons.",
+  "cuisine": "indulgent",
   "diet": [
-    "indulgent"
+    "vegetarian",
+    "gluten-free"
   ],
   "meal": "snack",
   "ingredients": [
     {
-      "name": "Bao dough",
-      "amount": "1 package"
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "look for high-starch potatoes"
     },
     {
       "name": "Jamaican jerk seasoning",
-      "amount": "2 tsp"
+      "amount": "2 tbsp",
+      "notes": "use store-bought or homemade"
     },
     {
-      "name": "Ground beef",
-      "amount": "1 lb"
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "crumbled"
     },
     {
-      "name": "Onions",
-      "amount": "1/2 cup"
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
     },
     {
-      "name": "Bell peppers",
-      "amount": "1/2 cup"
+      "name": "crunchy bao",
+      "amount": "1 package",
+      "notes": "cut into small cubes"
     },
     {
-      "name": "Potatoes",
-      "amount": "1/2 cup"
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
     },
     {
-      "name": "All-purpose flour",
-      "amount": "1 tsp"
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
     },
     {
-      "name": "Egg",
-      "amount": "1"
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Preheat oil in a deep frying pan to 350°F.",
-    "Cut bao dough into small pieces and roll out each piece into a ball.",
-    "Roll out each ball into a thin circle, about 1/8 inch thick.",
-    "Heat a non-stick pan over medium heat and add a small amount of oil.",
-    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
-    "Add the onions, bell peppers, potatoes, and jerk seasoning to the pan and cook until the vegetables are tender.",
-    "Add the flour to the pan and stir to combine.",
-    "Add the egg to the pan and stir to combine.",
-    "Roll out the bao dough into small balls and flatten each ball into a disk.",
-    "Place a tablespoon of the beef and vegetable mixture onto the center of each disk.",
-    "Fold the dough over the filling and press the edges together to seal the bao bite.",
-    "Heat the oil in a deep frying pan to 350°F and fry the bao bites until golden brown.",
-    "Drain the bao bites on paper towels and serve hot."
+    "Preheat oven to 400°F (200°C).",
+    "Scrub and poke potatoes with a fork to allow steam to escape.",
+    "Rub potatoes with oil and sprinkle with jerk seasoning. Bake for 45 minutes.",
+    "Meanwhile, cook bacon until crispy. Chop into small pieces.",
+    "In a small bowl, mix together sour cream, scallions, cayenne pepper (if using), and salt.",
+    "Remove potatoes from oven and top each with a spoonful of the sour cream mixture, crumbled bacon, and shredded cheese.",
+    "Return potatoes to oven and bake for an additional 5-7 minutes, until cheese is melted and bubbly.",
+    "Meanwhile, toss bao cubes with a little oil and bake in the oven until crispy.",
+    "Remove potatoes from oven and top each with crispy bao croutons and a pat of melted butter.",
+    "Serve immediately and enjoy!"
   ],
-  "prepTimeMin": 20,
-  "cookTimeMin": 20,
-  "totalTimeMin": 40,
-  "servings": 8,
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "indulgent",
-    "jamaican",
     "bao",
-    "snack"
+    "jamaican",
+    "potatoes",
+    "snack",
+    "indulgent"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 20,
-    "carbs": 30,
-    "fat": 15
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-jamaican-potatoes-bao",
   "providerUsed": "groq",
-  "createdAt": "2026-06-01T17:28:28.317Z"
+  "createdAt": "2026-06-02T21:08:35.797Z"
 }
