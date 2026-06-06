@@ -3351,15 +3351,16 @@
   },
   {
     "slug": "indulgent-jamaican-potatoes-bao",
-    "title": "Jamaican Bao Bites",
+    "title": "Bao Baked Potatoes with Jamaican Twist",
     "tags": [
-      "indulgent",
-      "jamaican",
       "bao",
-      "snack"
+      "jamaican",
+      "potatoes",
+      "snack",
+      "indulgent"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "indulgent",
+    "totalTimeMin": 65,
     "shard": "i"
   },
   {
@@ -8656,17 +8657,14 @@
   },
   {
     "slug": "intense-savory-mediterranean-shrimp-curry",
-    "title": "Intense Savory Mediterranean Shrimp Curry",
+    "title": "Shrimp Curry with Mediterranean Twist",
     "tags": [
-      "high-protein",
-      "mediterranean",
-      "one-pan",
-      "paleo-friendly",
-      "seafood",
-      "weeknight"
+      "shrimp-curry",
+      "mediterranean-cuisine",
+      "seafood-dinner"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -16679,6 +16677,73 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-smoky-egyptian-redcurrant-tagine--vegetarian",
+    "title": "Smoky Redcurrant Tagine",
+    "tags": [
+      "smoky",
+      "eggplant",
+      "redcurrant",
+      "vegetarian",
+      "paprika"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-sweet-slovakian-mars-bar-bake--thai",
+    "title": "Sweet Mars Bar Thai Baked Bites",
+    "tags": [
+      "sweet",
+      "thai",
+      "mars",
+      "baked",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-fluffy-basque-comte-galette--french",
+    "title": "French Basque Galette with Comte Cheese",
+    "tags": [
+      "french",
+      "cheese",
+      "pastry",
+      "dessert",
+      "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-fluffy-basque-comte-galette--thai",
+    "title": "Thai Comte Galette",
+    "tags": [
+      "thai",
+      "galette",
+      "cheese"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-fluffy-basque-comte-galette--chinese",
+    "title": "Pan-Seared Basque Galette with Comte Cheese Sauce",
+    "tags": [
+      "breakfast",
+      "chinese-fusion",
+      "cheese-sauce",
+      "mushroom-dish"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "i"
   }
 ]
