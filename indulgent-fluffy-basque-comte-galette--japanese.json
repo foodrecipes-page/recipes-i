@@ -1,0 +1,67 @@
+{
+  "slug": "indulgent-fluffy-basque-comte-galette--japanese",
+  "title": "Comte and Fluffy Galette",
+  "description": "A unique Japanese-inspired dessert featuring a comte-infused galette and fluffy accompaniment.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Comte",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "Basque-style puff pastry (galette dough)",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Indulgent honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fluffy vanilla whipped cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Matcha powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the galette dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "In a small bowl, mix together the comte, honey, and matcha powder.",
+    "Spread the comte mixture evenly over the dough, leaving a 1-inch border.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Brush the dough with a little water and sprinkle with granulated sugar.",
+    "Bake for 25-30 minutes, or until the crust is golden brown.",
+    "While the galette is baking, whip the vanilla cream until stiff peaks form.",
+    "Once the galette is done, let it cool for a few minutes before slicing and serving with the whipped cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-dessert",
+    "galette",
+    "comte",
+    "whipped-cream"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-fluffy-basque-comte-galette--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:42:04.181Z"
+}
