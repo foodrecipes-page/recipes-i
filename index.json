@@ -1063,19 +1063,16 @@
   },
   {
     "slug": "incredible-iced-brazilian-chicken-fondue",
-    "title": "Incredible Iced Brazilian Chicken Fondue",
+    "title": "Brazilian Fondue Chicken",
     "tags": [
-      "brazilian",
       "chicken",
-      "comfort-food",
-      "deep-fry",
       "fondue",
-      "iced-sauce",
-      "one-pan",
-      "weeknight"
+      "brazilian",
+      "cheese",
+      "meat"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
