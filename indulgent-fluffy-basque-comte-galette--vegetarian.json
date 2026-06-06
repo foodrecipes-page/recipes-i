@@ -1,0 +1,73 @@
+{
+  "slug": "indulgent-fluffy-basque-comte-galette--vegetarian",
+  "title": "Comte and Basque Galette",
+  "description": "A French-inspired vegetarian galette filled with the creamy flavors of Comte cheese and the sweetness of caramelized Basque cherries.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "8 ounces",
+      "notes": "softened to room temperature"
+    },
+    {
+      "name": "Basque cherries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "flaky puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "indulgent honey",
+      "amount": "2 tablespoons",
+      "notes": "for drizzling"
+    },
+    {
+      "name": "fluffy egg",
+      "amount": "1",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry to a thickness of about 1/8 inch.",
+    "Spread the softened Comte cheese evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Arrange the caramelized Basque cherries on top of the cheese.",
+    "Brush the edges of the pastry with the beaten egg for a golden glaze.",
+    "Fold the pastry over the filling, pressing the edges to seal.",
+    "Brush the top of the galette with a little water and sprinkle with salt.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown.",
+    "Drizzle with indulgent honey before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "cheese",
+    "pastries",
+    "fruit"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-fluffy-basque-comte-galette--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T22:21:09.329Z"
+}
