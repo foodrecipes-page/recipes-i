@@ -1,0 +1,82 @@
+{
+  "slug": "intensely-sweet-slovakian-mars-bar-bake--thai",
+  "title": "Sweet Mars Bar Thai Baked Bites",
+  "description": "A unique fusion of sweet and savory flavors in these Thai-inspired baked bites made with Mars bars.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mars bars",
+      "amount": "4",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Slovakian Intensely Sweet Chocolate Chips",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Bake",
+      "amount": "1",
+      "notes": "a pinch, for dusting"
+    },
+    {
+      "name": "Bar",
+      "amount": "1",
+      "notes": "a pinch, for decoration"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Thai Red Curry Powder",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Line a baking sheet with parchment paper.",
+    "Melt the coconut oil and mix with the Sesame Seeds and Salt.",
+    "Add the Mars bar pieces and mix until they're evenly coated.",
+    "Sprinkle the Slovakian Intensely Sweet Chocolate Chips and Thai Red Curry Powder on top.",
+    "Bake for 8-10 minutes or until golden brown.",
+    "Remove from oven and sprinkle with a pinch of Bake and Bar.",
+    "Let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "sweet",
+    "thai",
+    "mars",
+    "baked",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-sweet-slovakian-mars-bar-bake--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:14:00.060Z"
+}
