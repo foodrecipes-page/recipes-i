@@ -1,0 +1,79 @@
+{
+  "slug": "incredible-iced-brazilian-chicken-fondue",
+  "title": "Brazilian Fondue Chicken",
+  "description": "A twist on traditional fondue, this Brazilian-inspired dish features succulent chicken cooked in a rich and creamy fondue sauce, served with a side of iced vegetables for a refreshing contrast.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Fondue mix",
+      "amount": "1 package",
+      "notes": "follow package instructions for preparation"
+    },
+    {
+      "name": "Brazilian cheese",
+      "amount": "1 cup shredded",
+      "notes": "available at most international grocery stores"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Iced vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, broccoli, or cauliflower"
+    }
+  ],
+  "instructions": [
+    "Heat the fondue mix according to the package instructions.",
+    "Add the shredded Brazilian cheese to the fondue and stir until melted and smooth.",
+    "Add the chicken to the fondue and cook until browned and cooked through.",
+    "Stir in the Worcestershire sauce and chili flakes, if using.",
+    "Transfer the chicken to a serving platter and sprinkle with chopped parsley.",
+    "Serve the chicken with a side of iced vegetables for a refreshing contrast.",
+    "To assemble the fondue, place the chicken and vegetables on a platter and serve with the fondue sauce for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "fondue",
+    "brazilian",
+    "cheese",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredible-iced-brazilian-chicken-fondue",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:02:44.830Z"
+}
