@@ -1,0 +1,91 @@
+{
+  "slug": "intensely-flavored-slovakian-meat-stew--chinese",
+  "title": "Slovakian-Style Braised Beef Stew",
+  "description": "A hearty and flavorful beef stew inspired by Slovakian cuisine, with a Chinese twist.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "use low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    }
+  ],
+  "instructions": [
+    "Season the beef with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat. Brown the beef on all sides, then remove from pot.",
+    "Add the sliced onion to the pot and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the ground paprika and cook for 1 minute, until fragrant.",
+    "Add the brown sugar, soy sauce, and beef broth to the pot, stirring to combine.",
+    "Return the browned beef to the pot, cover, and transfer to the oven.",
+    "Braise the stew for 2.5 hours, or until the beef is tender.",
+    "Add the peeled and cubed potatoes and sliced carrots to the pot, cover, and return to the oven.",
+    "Braise for an additional 30 minutes, or until the vegetables are tender.",
+    "Remove from the oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "slovakian",
+    "chinese",
+    "beef-stew",
+    "hearty-stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flavored-slovakian-meat-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:14:54.461Z"
+}
