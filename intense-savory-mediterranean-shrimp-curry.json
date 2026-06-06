@@ -1,0 +1,75 @@
+{
+  "slug": "intense-savory-mediterranean-shrimp-curry",
+  "title": "Shrimp Curry with Mediterranean Twist",
+  "description": "A flavorful and aromatic shrimp curry dish with a mediterranean twist, featuring the rich flavors of intense and savory ingredients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound, peeled and deveined"
+    },
+    {
+      "name": "Intense Curry Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Savory Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mediterranean Feta Cheese",
+      "amount": "1/4 cup, crumbled"
+    },
+    {
+      "name": "Mediterranean Oregano",
+      "amount": "1 teaspoon, dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "In the same skillet, add the curry powder and cook for 1-2 minutes, until fragrant.",
+    "Add the feta cheese and cook for an additional 1-2 minutes, until melted and smooth.",
+    "Return the shrimp to the skillet and toss to coat with the curry sauce.",
+    "Season with oregano, salt, and pepper to taste.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp-curry",
+    "mediterranean-cuisine",
+    "seafood-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-savory-mediterranean-shrimp-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:07:33.907Z"
+}
