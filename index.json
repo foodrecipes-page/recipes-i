@@ -625,18 +625,14 @@
   },
   {
     "slug": "icy-jamaican-codfish-fritters",
-    "title": "icy jamaican codfish fritters",
+    "title": "Jamaican Codfish Fritters",
     "tags": [
-      "appetizer",
-      "fritters",
-      "hp-sauce",
-      "jamaican",
-      "keto-friendly",
-      "romantic",
-      "seafood"
+      "caribbean",
+      "snack",
+      "fish"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 23,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 32,
     "shard": "i"
   },
   {
@@ -16632,6 +16628,19 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 22,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-tunisian-olives-tagine--thai",
+    "title": "Spicy Olives in Thai Tagine",
+    "tags": [
+      "thai",
+      "tagine",
+      "chicken",
+      "curry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "i"
   }
 ]
