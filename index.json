@@ -16758,5 +16758,18 @@
     "cuisine": "French",
     "totalTimeMin": 45,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-fluffy-basque-comte-galette--japanese",
+    "title": "Comte and Fluffy Galette",
+    "tags": [
+      "japanese-dessert",
+      "galette",
+      "comte",
+      "whipped-cream"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "i"
   }
 ]
