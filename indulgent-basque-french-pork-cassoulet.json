@@ -1,0 +1,106 @@
+{
+  "slug": "indulgent-basque-french-pork-cassoulet",
+  "title": "Pork Cassoulet",
+  "description": "A traditional French dish from the Languedoc region, this hearty casserole is made with pork sausage, pork shoulder, and white beans.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Pork sausage (such as Toulouse)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Cippollini onions",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Canned white beans (such as cannellini)",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Duck fat or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Cut the pork shoulder into 2-inch pieces and season with salt and pepper.",
+    "In a large Dutch oven, cook the bacon over medium heat until crispy.",
+    "Remove the bacon from the pot and set aside.",
+    "Add the pork shoulder to the pot and cook until browned on all sides.",
+    "Add the onions and garlic to the pot and cook until the onions are softened.",
+    "Add the pork sausage to the pot and cook until browned.",
+    "Add the tomato paste to the pot and cook for 1 minute.",
+    "Add the chicken broth, thyme, and rosemary to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the meat is tender.",
+    "Add the white beans and bacon to the pot and stir to combine.",
+    "Return the pot to the oven and bake for an additional 30 minutes.",
+    "Serve the cassoulet hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent",
+    "cassoulet",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-basque-french-pork-cassoulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:49:45.873Z"
+}
