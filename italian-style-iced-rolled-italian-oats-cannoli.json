@@ -1,0 +1,69 @@
+{
+  "slug": "italian-style-iced-rolled-italian-oats-cannoli",
+  "title": "Italian Cannoli Oat Bites",
+  "description": "A sweet Italian-inspired dessert made with oats and cannoli-like filling, perfect for a snack or dessert.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cannoli",
+      "amount": "4-6 shells, crushed"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C). Line a baking sheet with parchment paper.",
+    "In a large mixing bowl, combine the oats, crushed cannoli shells, sugar, and a pinch of salt.",
+    "In a separate bowl, whisk together the almond milk, egg, and vanilla extract.",
+    "Pour the wet ingredients into the dry ingredients and stir until well combined.",
+    "Scoop the mixture into small balls, about 1-inch in diameter.",
+    "Place the balls onto the prepared baking sheet, leaving about 2 inches of space between each.",
+    "Bake for 15-20 minutes, or until the edges are lightly golden.",
+    "Remove from the oven and let cool completely on the baking sheet.",
+    "Once cool, store in an airtight container in the refrigerator for up to 5 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "dessert",
+    "oat-based",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/italian-style-iced-rolled-italian-oats-cannoli",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:03:57.888Z"
+}
