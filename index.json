@@ -2940,13 +2940,16 @@
   },
   {
     "slug": "indulgent-greek-oats-casserole",
-    "title": "Indulgent Greek Oats Casserole",
+    "title": "Greek Oat Casserole with Indulgent Topping",
     "tags": [
       "greek",
-      "breakfast"
+      "comfort-food",
+      "casserole",
+      "indulgent",
+      "oats"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 40,
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
@@ -10311,17 +10314,15 @@
   },
   {
     "slug": "intensely-citrusy-italian-chicken-wings-stew",
-    "title": "Intensely Citrusy Italian Chicken Wings Stew",
+    "title": "Italian Chicken Wings Stew",
     "tags": [
-      "citrusy",
-      "comfort-food",
-      "high-protein",
-      "italian-cuisine",
-      "one-pot",
-      "weeknight"
+      "italian",
+      "chicken",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -16172,17 +16173,15 @@
   },
   {
     "slug": "italian-style-iced-rolled-italian-oats-cannoli",
-    "title": "Italian-Style Iced Rolled Italian Oats Cannoli",
+    "title": "Italian Cannoli Oat Bites",
     "tags": [
-      "cannoli",
-      "dessert",
       "italian",
-      "italy",
-      "summer",
-      "weeknight"
+      "dessert",
+      "oat-based",
+      "snack"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
