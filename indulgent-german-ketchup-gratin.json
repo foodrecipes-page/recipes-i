@@ -1,0 +1,78 @@
+{
+  "slug": "indulgent-german-ketchup-gratin",
+  "title": "Käsespätzle Ketchup Gratin",
+  "description": "A German-inspired dish featuring Spätzle, melted cheese and a sweet ketchup-based topping.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spätzle",
+      "amount": "500g"
+    },
+    {
+      "name": "Emmental cheese",
+      "amount": "200g",
+      "notes": "grated"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "200g"
+    },
+    {
+      "name": "Milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Cook Spätzle according to package instructions.",
+    "Melt butter in a pan and add grated Emmental cheese.",
+    "Stir until cheese is melted and smooth.",
+    "In a separate bowl, mix ketchup and milk.",
+    "Add salt and black pepper to taste.",
+    "Combine cooked Spätzle and cheese mixture in a baking dish.",
+    "Top with ketchup mixture and breadcrumbs.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent",
+    "german",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-german-ketchup-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:10:51.794Z"
+}
