@@ -1839,16 +1839,14 @@
   },
   {
     "slug": "indulgent-basque-french-pork-cassoulet",
-    "title": "Indulgent Basque French Pork Cassoulet",
+    "title": "Pork Cassoulet",
     "tags": [
-      "french-cuisine",
-      "low-carb",
-      "one-pan",
-      "pork-recipe",
-      "special-occasion"
+      "indulgent",
+      "cassoulet",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 150,
+    "totalTimeMin": 180,
     "shard": "i"
   },
   {
