@@ -1,0 +1,77 @@
+{
+  "slug": "intensely-buttery-greek-lamb-skewers",
+  "title": "Lamb Skewers with Greek Butter",
+  "description": "A delicious and easy-to-make dish featuring lamb skewers glazed with a rich, buttery Greek sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Make sure to trim any excess fat"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tablespoons",
+      "notes": "Plain, full-fat"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Oregano, dried",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Pure"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (400°F).",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together the butter, yogurt, garlic, oregano, lemon juice, and honey until well combined.",
+    "Brush the Greek butter mixture evenly onto both sides of the lamb skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill the lamb skewers for 8-10 minutes per side, or until they reach an internal temperature of 145°F.",
+    "Remove the skewers from the grill and let them rest for 5 minutes.",
+    "Serve immediately, garnished with fresh oregano if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "skewers",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-buttery-greek-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:19:22.893Z"
+}
