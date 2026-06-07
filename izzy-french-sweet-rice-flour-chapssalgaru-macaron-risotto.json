@@ -1,0 +1,75 @@
+{
+  "slug": "izzy-french-sweet-rice-flour-chapssalgaru-macaron-risotto",
+  "title": "Sweet Rice Pudding with French Macarons",
+  "description": "A creamy sweet rice pudding topped with crunchy French macarons for a delightful dessert.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet Rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 1/2 cups",
+      "notes": "almond flour for macarons"
+    },
+    {
+      "name": "Izzy",
+      "amount": "1/2 cup",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "Chapssalgaru",
+      "amount": "1 cup",
+      "notes": " Korean-style rice syrup"
+    },
+    {
+      "name": "Macaron",
+      "amount": "12 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Risotto",
+      "amount": "1/4 cup",
+      "notes": "for added texture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Combine sweet rice, Chapssalgaru, and 2 cups of water in a saucepan. Cook on medium heat, stirring occasionally.",
+    "In a separate bowl, whisk together Izzy, flour, and a pinch of salt.",
+    "Add the Izzy mixture to the cooked sweet rice and stir until combined.",
+    "Transfer the pudding mixture to individual ramekins and bake for 20-25 minutes.",
+    "Meanwhile, prepare the French macarons according to package instructions or make your own.",
+    "Once the pudding is set, top each ramekin with a French macaron and a sprinkle of Risotto for added texture.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "pudding",
+    "macarons",
+    "rice",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 3,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/izzy-french-sweet-rice-flour-chapssalgaru-macaron-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:30:09.965Z"
+}
