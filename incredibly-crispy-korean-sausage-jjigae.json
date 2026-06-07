@@ -1,0 +1,81 @@
+{
+  "slug": "incredibly-crispy-korean-sausage-jjigae",
+  "title": "Spicy Korean Sausage Jjigae",
+  "description": "A hearty, spicy Korean stew made with incredibly crispy Korean sausage, vegetables, and a sweet and spicy sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean Sausage",
+      "amount": "1 package (about 1 pound)",
+      "notes": "incredibly crispy"
+    },
+    {
+      "name": "Diced Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Diced Carrot",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Diced Zucchini",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Gochujang Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat. Add the Korean sausage and cook until browned, about 3-4 minutes.",
+    "Remove the sausage from the skillet and set aside. Add the diced onion, carrot, and zucchini to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the gochujang sauce, soy sauce, and brown sugar to the skillet and stir to combine.",
+    "Return the sausage to the skillet and stir to coat with the sauce.",
+    "Serve the sausage and vegetables over a bed of cooked rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "sausage",
+    "stew",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-crispy-korean-sausage-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:46:16.882Z"
+}
