@@ -1,0 +1,71 @@
+{
+  "slug": "intensely-peppery-ukrainian-cottage-cheese-roast",
+  "title": "Roast Ukrainian Cheesecake",
+  "description": "A savory Ukrainian-inspired cheesecake featuring a rich roasty flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cottage Cheese",
+      "amount": "500g"
+    },
+    {
+      "name": "Roast",
+      "amount": "100g, finely chopped"
+    },
+    {
+      "name": "Intensely Peppery Cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Ukrainian Rye Bread",
+      "amount": "200g, finely ground"
+    },
+    {
+      "name": "Egg",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Mix ground rye bread with egg and salt for crust.",
+    "Press crust into a springform pan.",
+    "Mix cottage cheese, roast, and intensely peppery cheese.",
+    "Add egg and mix until just combined.",
+    "Pour mixture into crust.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "cheese",
+    "roast",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-peppery-ukrainian-cottage-cheese-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:18:18.456Z"
+}
