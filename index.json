@@ -43,16 +43,14 @@
   },
   {
     "slug": "i-crunchy-kenyan-shrimp-griddles",
-    "title": "iCrunchy Kenyan Shrimp Griddles",
+    "title": "Kenyan Shrimp and Crunchy Corn Fritters",
     "tags": [
-      "high-protein",
       "kenyan",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "snack",
+      "fritters"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -9975,15 +9973,11 @@
   },
   {
     "slug": "intensely-buttery-greek-lamb-skewers",
-    "title": "Intensely Buttery Greek Lamb Skewers",
+    "title": "Lamb Skewers with Greek Butter",
     "tags": [
-      "buttery",
-      "greek-cuisine",
-      "grilled",
-      "high-protein",
-      "meal-prep",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "skewers",
+      "greek"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 35,
@@ -16299,17 +16293,16 @@
   },
   {
     "slug": "izzy-french-sweet-rice-flour-chapssalgaru-macaron-risotto",
-    "title": "Izzy French sweet-rice-flour-chapssalgaru Macaron Risotto",
+    "title": "Sweet Rice Pudding with French Macarons",
     "tags": [
-      "kosher-friendly",
-      "lyon-dish",
-      "post-workout",
-      "snappy",
-      "sweet-rice-flour",
-      "umami"
+      "dessert",
+      "pudding",
+      "macarons",
+      "rice",
+      "sweet"
     ],
-    "cuisine": "French (Lyon)",
-    "totalTimeMin": 45,
+    "cuisine": "French",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
