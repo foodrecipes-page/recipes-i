@@ -1,0 +1,77 @@
+{
+  "slug": "incredibly-garlicky-filipino-fish-roast",
+  "title": "Filipino Fish Roast with Garlic",
+  "description": "A flavorful and easy-to-make dish featuring fish roasted with Filipino spices and a hint of garlic.",
+  "cuisine": "Filipino",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "incredibly garlicky Filipino fish",
+      "amount": "2 pieces (6 oz each)"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse fish under cold water, pat dry with paper towels.",
+    "Season with salt, black pepper, and a pinch of roast.",
+    "Drizzle olive oil over fish, making sure to coat evenly.",
+    "Roast the fish for 8-10 minutes or until cooked through.",
+    "While fish is roasting, melt 1 tbsp of roast in a pan over medium heat.",
+    "Add minced garlic and sauté for 1 minute until fragrant.",
+    "Remove from heat and set aside.",
+    "Once fish is done, place on a plate and top with garlic-roast sauce.",
+    "Serve with lemon wedges on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "fish",
+    "roast",
+    "garlic",
+    "easy",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-garlicky-filipino-fish-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:39:14.219Z"
+}
