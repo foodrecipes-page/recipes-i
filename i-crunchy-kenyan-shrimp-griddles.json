@@ -1,0 +1,67 @@
+{
+  "slug": "i-crunchy-kenyan-shrimp-griddles",
+  "title": "Kenyan Shrimp and Crunchy Corn Fritters",
+  "description": "A delicious Kenyan-inspired dish featuring succulent shrimp and crunchy corn fritters, perfect for a snack or light meal.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound (about 12-15 shrimp)",
+      "notes": ""
+    },
+    {
+      "name": "griddles",
+      "amount": "2",
+      "notes": "preferably made from cornmeal"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "crunchy slaw or chopped vegetables"
+    },
+    {
+      "name": "i",
+      "amount": "1",
+      "notes": "this ingredient is not clear. Assume a common ingredient like oil or water"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and de-vein the shrimp.",
+    "In a bowl, mix together the cornmeal, crunchy, and a pinch of salt.",
+    "Add the shrimp to the bowl and toss to coat with the cornmeal mixture.",
+    "Heat a griddle over medium heat.",
+    "Drop spoonfuls of the shrimp mixture onto the griddle.",
+    "Cook for 2-3 minutes on each side, until golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "snack",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/i-crunchy-kenyan-shrimp-griddles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:14:27.070Z"
+}
