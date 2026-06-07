@@ -1,0 +1,88 @@
+{
+  "slug": "indulgent-greek-oats-casserole",
+  "title": "Greek Oat Casserole with Indulgent Topping",
+  "description": "A twist on the classic casserole, combining Greek flavors with a crunchy indulgent topping. Perfect as a comforting dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Indulgent Topping (Pecans, Honey, Brown Sugar)",
+      "amount": "1/4 cup each"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "freshly chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together oats, Greek yogurt, feta cheese, salt, and black pepper.",
+    "In a separate bowl, mix together egg, butter, onion, and spinach.",
+    "Combine the egg mixture with the oat mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "In a separate bowl, mix together pecans, honey, and brown sugar.",
+    "Sprinkle the topping mixture evenly over the casserole.",
+    "Bake for 35-40 minutes or until the casserole is golden brown and the topping is crispy.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "comfort-food",
+    "casserole",
+    "indulgent",
+    "oats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-greek-oats-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:14:41.755Z"
+}
