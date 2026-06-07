@@ -1,0 +1,65 @@
+{
+  "slug": "intense-venezuelan-avocado-salad",
+  "title": "Venezuelan Avocado Salad",
+  "description": "A refreshing and flavorful salad originating from Venezuela, made with ripe avocados, mixed greens, and a tangy dressing.",
+  "cuisine": " venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe avocados",
+      "amount": "2 medium",
+      "notes": "mashed"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": "such as arugula, spinach, or lettuce"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "intense cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "salad",
+      "amount": "1 cup",
+      "notes": "shredded carrots, chopped cilantro, or crumbled queso fresco"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine mashed avocado, mixed greens, red onion, and cherry tomatoes.",
+    "2. In a small bowl, whisk together lime juice, olive oil, salt, and pepper for the dressing.",
+    "3. Pour the dressing over the salad and toss to combine.",
+    "4. Sprinkle shredded carrots, chopped cilantro, or crumbled queso fresco over the salad.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "vegan",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-venezuelan-avocado-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T09:59:18.834Z"
+}
