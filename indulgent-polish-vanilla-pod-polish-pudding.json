@@ -1,0 +1,55 @@
+{
+  "slug": "indulgent-polish-vanilla-pod-polish-pudding",
+  "title": "Vanilla Panna Cotta with Polish Pudding Crust",
+  "description": "A rich and creamy dessert featuring a Polish pudding crust and topped with vanilla panna cotta.",
+  "cuisine": "italian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Polish pudding",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla",
+      "amount": "1 teaspoon",
+      "notes": "vanilla extract"
+    },
+    {
+      "name": "Indulgent chocolate",
+      "amount": "1 cup",
+      "notes": "melted chocolate for drizzle"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Crush Polish pudding package into crumbs and press into a baking dish.",
+    "Bake crust for 10 minutes.",
+    "In a separate bowl, mix vanilla with heavy cream and pour over baked crust.",
+    "Refrigerate for 4 hours.",
+    "Drizzle with melted chocolate before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "dessert",
+    "chocolate"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-polish-vanilla-pod-polish-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:21:16.779Z"
+}
