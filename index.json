@@ -1351,16 +1351,17 @@
   },
   {
     "slug": "incredibly-garlicky-filipino-fish-roast",
-    "title": "Incredibly Garlicky Filipino Fish Roast",
+    "title": "Filipino Fish Roast with Garlic",
     "tags": [
-      "filipino-cuisine",
-      "garlic-lovers",
-      "pescatarian-friendly",
-      "roasted-fish",
-      "special-occasion"
+      "filipino",
+      "fish",
+      "roast",
+      "garlic",
+      "easy",
+      "one-pot"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 60,
+    "totalTimeMin": 18,
     "shard": "i"
   },
   {
@@ -2867,16 +2868,14 @@
   },
   {
     "slug": "indulgent-german-ketchup-gratin",
-    "title": "Indulgent German Ketchup Gratin",
+    "title": "Käsespätzle Ketchup Gratin",
     "tags": [
-      "cheese-forward",
-      "german",
       "indulgent",
-      "low-fodmap",
-      "one-pan"
+      "german",
+      "gratin"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 25,
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -11733,16 +11732,16 @@
   },
   {
     "slug": "intensely-jammy-croatian-chicken-pasta",
-    "title": "Intensely Jammy Croatian Chicken Pasta",
+    "title": "Croatian Chicken Pasta",
     "tags": [
-      "low-calorie",
-      "meal-prep",
-      "one-pan",
-      "pasta-dish",
-      "weeknight"
+      "pasta",
+      "chicken",
+      "italian",
+      "dinner",
+      "smoked-paprika"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
