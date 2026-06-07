@@ -4253,18 +4253,14 @@
   },
   {
     "slug": "indulgent-polish-vanilla-pod-polish-pudding",
-    "title": "Indulgent Polish Vanilla Pod Pudding",
+    "title": "Vanilla Panna Cotta with Polish Pudding Crust",
     "tags": [
-      "comfort-food",
+      "italian",
       "dessert",
-      "high-calorie",
-      "polish-cuisine",
-      "rich",
-      "smoked",
-      "vanilla"
+      "chocolate"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "cuisine": "italian",
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -12338,14 +12334,12 @@
   },
   {
     "slug": "intensely-peppery-ukrainian-cottage-cheese-roast",
-    "title": "Ukrainian Cottage Cheese Roast",
+    "title": "Roast Ukrainian Cheesecake",
     "tags": [
-      "comfort-food",
-      "low-fat",
-      "one-dish",
-      "peppery",
-      "savory",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "cheese",
+      "roast",
+      "savory"
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 70,
