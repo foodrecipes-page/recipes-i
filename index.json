@@ -1160,16 +1160,15 @@
   },
   {
     "slug": "incredibly-crispy-korean-sausage-jjigae",
-    "title": "Incredibly Crispy Korean Sausage Jjigae",
+    "title": "Spicy Korean Sausage Jjigae",
     "tags": [
-      "korean-food",
-      "low-fat",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "korean",
+      "sausage",
+      "stew",
+      "dinner"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
