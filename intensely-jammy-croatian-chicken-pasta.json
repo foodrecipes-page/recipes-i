@@ -1,0 +1,82 @@
+{
+  "slug": "intensely-jammy-croatian-chicken-pasta",
+  "title": "Croatian Chicken Pasta",
+  "description": "A simple yet flavorful pasta dish with the addition of Croatian chicken and a hint of sweetness.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "2 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "Season chicken with salt, pepper, and smoked paprika.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Sear chicken until browned and cooked through.",
+    "Remove chicken from skillet and set aside.",
+    "Reduce heat to medium and add garlic to skillet.",
+    "Cook for 1-2 minutes or until fragrant.",
+    "Add cooked pasta to the skillet and toss with garlic.",
+    "Return chicken to the skillet and toss with pasta.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "chicken",
+    "italian",
+    "dinner",
+    "smoked-paprika"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-jammy-croatian-chicken-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:17:52.292Z"
+}
