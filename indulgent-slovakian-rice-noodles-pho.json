@@ -1,0 +1,94 @@
+{
+  "slug": "indulgent-slovakian-rice-noodles-pho",
+  "title": "Slovakian Beef Pho",
+  "description": "A hearty beef noodle soup with Slovakian flavors.",
+  "cuisine": "slovakian",
+  "diet": [
+    "beef",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "or beef shank"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian paprika",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "noodles",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "pho spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "indulgent beef fat",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring beef broth to a boil in a large pot.",
+    "Reduce heat to a simmer.",
+    "Add beef brisket, onion, garlic, paprika, salt, and black pepper to the pot.",
+    "Cook for 1 hour.",
+    "Add noodles to the pot and cook for an additional 8 minutes.",
+    "Stir in pho spice blend and beef fat.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with desired toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "beef",
+    "soup",
+    "noodle"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-slovakian-rice-noodles-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:21:12.812Z"
+}
