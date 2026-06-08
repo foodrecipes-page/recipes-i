@@ -3718,16 +3718,14 @@
   },
   {
     "slug": "indulgent-mediterranean-lamb-grill",
-    "title": "Indulgent Mediterranean Lamb Grill",
+    "title": "Lamb Koftas with Mediterranean Tzatziki",
     "tags": [
-      "gluten-free",
-      "grilled",
       "lamb",
-      "low-sodium",
+      "grill",
       "mediterranean"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 70,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 38,
     "shard": "i"
   },
   {
@@ -9071,16 +9069,15 @@
   },
   {
     "slug": "intense-smoky-peruvian-oats-bowl",
-    "title": "Intense Smoky Peruvian Oats Bowl",
+    "title": "Smoky Peruvian Oat Bowl",
     "tags": [
+      "peruvian",
+      "oat-bowl",
       "breakfast",
-      "comfort-food",
-      "double-rise",
-      "plant-based",
-      "smoky"
+      "vegetarian"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 20,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -13446,17 +13443,15 @@
   },
   {
     "slug": "intensely-smoky-brazilian-chicken-tagine",
-    "title": "Intensely Smoky Brazilian Chicken Tagine",
+    "title": "Brazilian Smoked Chicken Tagine",
     "tags": [
-      "brazilian-cuisine",
-      "clay-cooking",
-      "low-carb",
-      "midnight-cravings",
-      "one-pot",
-      "smoky-flavors"
+      "brazilian",
+      "smoked",
+      "tagine",
+      "chicken"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -13506,18 +13501,15 @@
   },
   {
     "slug": "intensely-smoky-chinese-masarepa-bao",
-    "title": "Intensely Smoky Chinese Masarepa Bao",
+    "title": "Smoky Bao Cakes with Intensely Braised Pork",
     "tags": [
       "chinese",
-      "comfort-food",
-      "homemade",
-      "smoky",
-      "spicy",
-      "vegan",
-      "vegetarian"
+      "bacon",
+      "pork",
+      "bao"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 110,
     "shard": "i"
   },
   {
