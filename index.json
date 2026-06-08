@@ -6236,14 +6236,13 @@
     "slug": "innovative-springy-argentinian-chicken-empanadas",
     "title": "Argentinian Chicken Empanadas",
     "tags": [
-      "high-protein",
-      "latin-american",
-      "meal-prep",
-      "no-onion-no-garlic",
-      "spring-inspired"
+      "chicken",
+      "empanadas",
+      "argentinian",
+      "latin-american"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "cuisine": "argentinian",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
