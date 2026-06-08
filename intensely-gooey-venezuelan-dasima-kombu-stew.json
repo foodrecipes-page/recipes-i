@@ -1,0 +1,83 @@
+{
+  "slug": "intensely-gooey-venezuelan-dasima-kombu-stew",
+  "title": "Venezuelan-Style Stew with Kombu and Dasima",
+  "description": "A hearty, comforting stew inspired by Venezuelan cuisine, featuring kombu and dasima for added depth of flavor.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dasima",
+      "amount": "2 inches",
+      "notes": "also known as dried mussels"
+    },
+    {
+      "name": "kombu",
+      "amount": "4 inches",
+      "notes": "dried kelp seaweed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "goose",
+      "amount": "2 pounds",
+      "notes": "boneless, skinless, cut into 1-inch pieces"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "canned"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "canned, diced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and garlic, cook until softened, about 5 minutes.",
+    "Add kombu and dasima, cook for 1 minute.",
+    "Add goose, cook until browned, about 5 minutes.",
+    "Add tomato paste, cook for 1 minute.",
+    "Add stew, bring to a simmer.",
+    "Reduce heat to low, cook, covered, for 30 minutes.",
+    "Season with black pepper, to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-gooey-venezuelan-dasima-kombu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:24:50.253Z"
+}
