@@ -9916,18 +9916,15 @@
   },
   {
     "slug": "intensely-briny-vietnamese-oxtail-bun-bo-hue",
-    "title": "Bun Bo Hue",
+    "title": "Vietnamese Oxtail Bun",
     "tags": [
+      "vietnamese",
       "beef",
-      "comfort-food",
-      "high-protein",
-      "noodle-soup",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "stew",
+      "bun"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 240,
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
