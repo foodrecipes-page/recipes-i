@@ -1,0 +1,97 @@
+{
+  "slug": "intense-malty-uruguayan-beef-casserole",
+  "title": "Uruguayan Beef Casserole",
+  "description": "A hearty, comforting casserole originating from Uruguay, featuring tender beef and rich flavors.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "Beef",
+    "Meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Intense chocolate",
+      "amount": "50g",
+      "notes": "optional for a different twist"
+    },
+    {
+      "name": "Malty beer",
+      "amount": "250ml",
+      "notes": "Uruguayan beer for authenticity"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1",
+      "notes": "pre-made casserole for this recipe"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "250ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "20g",
+      "notes": "optional for added depth"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Brown the ground beef in a pan over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once the beef is browned, add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the tomato paste, if using, and cook for 1-2 minutes.",
+    "Add the malty beer and beef broth, scraping the bottom of the pan to release any browned bits.",
+    "Bring the mixture to a simmer and cook until the liquid has reduced by half.",
+    "Stir in the chili powder and season with salt and pepper to taste.",
+    "Transfer the casserole to the oven and cook for 20-25 minutes, or until the casserole is hot and the flavors have melded together.",
+    "If using intense chocolate, sprinkle it on top of the casserole during the last 5 minutes of cooking.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "35g",
+    "carbs": "30g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-malty-uruguayan-beef-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:05:06.873Z"
+}
