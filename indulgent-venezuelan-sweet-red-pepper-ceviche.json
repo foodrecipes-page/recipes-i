@@ -1,0 +1,82 @@
+{
+  "slug": "indulgent-venezuelan-sweet-red-pepper-ceviche",
+  "title": "Ceviche de Camarón",
+  "description": "A refreshing Venezuelan dish made with succulent shrimp marinated in a zesty mixture of lime juice, red pepper, and spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1/4 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/2 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the shrimp under cold water and pat them dry with paper towels.",
+    "In a large bowl, combine the sliced red onion, diced red pepper, chopped cilantro, and minced garlic.",
+    "Squeeze the freshly squeezed lime juice over the mixture and toss to combine.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Season with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in some chopped cilantro and serve immediately.",
+    "Garnish with additional cilantro and lime wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "venezuelan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-venezuelan-sweet-red-pepper-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:03:47.899Z"
+}
