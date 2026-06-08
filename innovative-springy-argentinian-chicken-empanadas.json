@@ -1,0 +1,93 @@
+{
+  "slug": "innovative-springy-argentinian-chicken-empanadas",
+  "title": "Argentinian Chicken Empanadas",
+  "description": "A twist on the classic empanada, filled with juicy chicken and spices, inspired by the flavors of Argentina.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, boneless and skinless",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1 egg, beaten",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Add the spring onions, garlic, cumin, paprika, salt, and pepper to the skillet and cook for 1 minute.",
+    "In a large bowl, combine the cooked chicken mixture and 1 cup of flour.",
+    "Gradually add the beaten egg to the bowl and mix until a dough forms.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place 1-2 tablespoons of the chicken mixture in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with egg and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "empanadas",
+    "argentinian",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-springy-argentinian-chicken-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:40:53.789Z"
+}
