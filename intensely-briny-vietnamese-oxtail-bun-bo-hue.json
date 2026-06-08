@@ -1,0 +1,76 @@
+{
+  "slug": "intensely-briny-vietnamese-oxtail-bun-bo-hue",
+  "title": "Vietnamese Oxtail Bun",
+  "description": "A hearty, flavorful Vietnamese-inspired dish featuring a rich oxtail sauce served over a soft bun.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "briny fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "intensely sweet palm sugar",
+      "amount": "2 tablespoons",
+      "notes": "or substitute brown sugar"
+    },
+    {
+      "name": "vietnamese chili sauce",
+      "amount": "1 teaspoon",
+      "notes": "or sriracha"
+    },
+    {
+      "name": "bun",
+      "amount": "4-6",
+      "notes": "Vietnamese baguette or substitute with a soft bun"
+    },
+    {
+      "name": "bo leaves",
+      "amount": "4-6",
+      "notes": "or substitute with lettuce leaves"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Sear the oxtail pieces until browned on all sides, about 5 minutes.",
+    "Remove the oxtail from the pot and set aside.",
+    "Add another 2 tablespoons of oil to the pot and cook the aromatics (onion, garlic) until softened.",
+    "Add the briny fish sauce, intensely sweet palm sugar, and vietnamese chili sauce.",
+    "Return the oxtail to the pot and add enough beef broth to cover.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Braise the oxtail for 2 1/2 hours, or until tender.",
+    "Strain the sauce and shred the oxtail into bite-sized pieces.",
+    "Split the bun in half and toast until crispy.",
+    "Assemble the bun by spooning the oxtail mixture onto the bun and garnishing with bo leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "stew",
+    "bun"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-briny-vietnamese-oxtail-bun-bo-hue",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:17:00.109Z"
+}
