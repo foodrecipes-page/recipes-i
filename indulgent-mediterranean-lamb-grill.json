@@ -1,0 +1,92 @@
+{
+  "slug": "indulgent-mediterranean-lamb-grill",
+  "title": "Lamb Koftas with Mediterranean Tzatziki",
+  "description": "A flavorful and refreshing Greek-inspired dish that combines the richness of lamb with the coolness of tzatziki sauce.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, finely chopped",
+      "amount": "500g",
+      "notes": "Make sure to trim any excess fat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber, peeled and grated",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Red onion, finely chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine lamb, olive oil, parsley, garlic, lemon zest, salt, and black pepper. Mix well with your hands until just combined.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Thread the lamb mixture onto skewers, leaving a small space between each kofta.",
+    "Grill the koftas for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, combine yogurt, cucumber, and red onion in a bowl. Mix well to combine.",
+    "Once the koftas are cooked, let them rest for 5 minutes before serving.",
+    "Serve the koftas with tzatziki sauce on the side, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "grill",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-mediterranean-lamb-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:44:00.130Z"
+}
