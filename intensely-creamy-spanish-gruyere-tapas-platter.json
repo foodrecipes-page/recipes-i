@@ -1,0 +1,84 @@
+{
+  "slug": "intensely-creamy-spanish-gruyere-tapas-platter",
+  "title": "Creamy Spanish Tapas",
+  "description": "A rich and flavorful tapas platter featuring a creamy gruyere sauce, perfectly paired with intensely flavorful ingredients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gruyere cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Cream",
+      "amount": "1/2 cup",
+      "notes": "heavy"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "Bread",
+      "amount": "1 baguette",
+      "notes": "sliced"
+    },
+    {
+      "name": "Olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 cup",
+      "notes": "canned"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, melt butter over medium heat. Add garlic and cook for 1 minute.",
+    "Add paprika and cook for 30 seconds.",
+    "Stir in cream and bring to a simmer.",
+    "Reduce heat to low and let sauce simmer for 2-3 minutes or until slightly thickened.",
+    "Stir in grated Gruyere cheese until melted and smooth.",
+    "Arrange bread slices on a baking sheet and toast in the oven for 2-3 minutes or until lightly browned.",
+    "To assemble the tapas platter, place toasted bread on a serving platter, top with a spoonful of the creamy Gruyere sauce, and garnish with olives and artichoke hearts.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gruyere",
+    "tapas",
+    "spanish",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-creamy-spanish-gruyere-tapas-platter",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:00:24.868Z"
+}
