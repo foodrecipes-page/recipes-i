@@ -7782,18 +7782,15 @@
   },
   {
     "slug": "intense-malty-uruguayan-beef-casserole",
-    "title": "Intense Malty Uruguayan Beef Casserole",
+    "title": "Uruguayan Beef Casserole",
     "tags": [
+      "uruguayan",
       "beef",
       "casserole",
-      "kid-friendly",
-      "low-carb",
-      "malty",
-      "uruguayan",
-      "weeknight"
+      "comfort-food"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -10877,17 +10874,15 @@
   },
   {
     "slug": "intensely-earthy-japanese-beef-kaiseki-course",
-    "title": "Tohoku Earthy Beef Kaiseki Course",
+    "title": "Pan-Seared Beef Yakiitori",
     "tags": [
-      "earth-tones",
-      "japanese-cuisine",
-      "kaiseki-course",
-      "macrobiotic-friendly",
-      "rested-meat",
-      "sesame-oil"
+      "japanese",
+      "beef",
+      "grilled",
+      "kaiseki"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 70,
+    "totalTimeMin": 23,
     "shard": "i"
   },
   {
@@ -11657,16 +11652,14 @@
   },
   {
     "slug": "intensely-gooey-venezuelan-dasima-kombu-stew",
-    "title": "Intensely Gooey Venezuelan Dasima Kombu Stew",
+    "title": "Venezuelan-Style Stew with Kombu and Dasima",
     "tags": [
-      "comfort-food",
-      "hearty",
-      "one-pot",
-      "spicy",
-      "vegan-friendly"
+      "venezuelan",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
