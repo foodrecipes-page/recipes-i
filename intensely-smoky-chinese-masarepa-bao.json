@@ -1,0 +1,99 @@
+{
+  "slug": "intensely-smoky-chinese-masarepa-bao",
+  "title": "Smoky Bao Cakes with Intensely Braised Pork",
+  "description": "Moist and flavorful bao cakes filled with intensely smoky braised pork and served with a side of spicy pickled vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bao",
+      "amount": "1 package"
+    },
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into large cubes"
+    },
+    {
+      "name": "Masarepa",
+      "amount": "1 cup",
+      "notes": "cornmeal-based arepa flour"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, heat 2 tablespoons of vegetable oil over medium heat.",
+    "2. Add the pork shoulder and cook until browned on all sides, about 5 minutes.",
+    "3. Add the ginger, garlic, soy sauce, rice vinegar, brown sugar, red pepper flakes, salt, and black pepper to the pan and stir to combine.",
+    "4. Bring the mixture to a simmer and cook, covered, until the pork is tender and the sauce has thickened, about 1 1/2 hours.",
+    "5. Meanwhile, combine the bao and masarepa in a large bowl and mix until well combined.",
+    "6. Gradually add 1 cup of warm water to the bowl and mix until a dough forms.",
+    "7. Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "8. Divide the dough into 4-6 equal pieces and shape each piece into a ball.",
+    "9. Flatten each ball into a disk and place a tablespoon of the braised pork in the center of each disk.",
+    "10. Fold the dough over the pork and press the edges together to seal the bao cake.",
+    "11. Heat a large skillet over medium-high heat and add a tablespoon of vegetable oil.",
+    "12. Add the bao cakes to the skillet and cook until golden brown on both sides, about 2-3 minutes per side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "bacon",
+    "pork",
+    "bao"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 27,
+    "carbs": 54,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-chinese-masarepa-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:52:05.335Z"
+}
