@@ -1,0 +1,83 @@
+{
+  "slug": "intensely-earthy-japanese-beef-kaiseki-course",
+  "title": "Pan-Seared Beef Yakiitori",
+  "description": "A Japanese-inspired dish featuring tender beef skewers, a perfect blend of earthy flavors and sweet caramelization.",
+  "cuisine": "Japanese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": "Japanese-style thinly sliced beef"
+    },
+    {
+      "name": "Sake",
+      "amount": "1/4 cup",
+      "notes": "Japanese rice wine"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Japanese fermented soybean paste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "to balance savory flavors"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon",
+      "notes": "adds depth and warmth"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove",
+      "notes": "for added savory flavor"
+    },
+    {
+      "name": "Green onions, chopped",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Scallions, chopped",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, whisk together sake, soy sauce, sugar, ginger, and garlic.",
+    "2. Add sliced beef to the marinade and let it sit for at least 30 minutes.",
+    "3. Preheat a grill or grill pan to medium-high heat.",
+    "4. Thread the marinated beef onto skewers.",
+    "5. Grill the beef for 3-4 minutes per side, or until cooked to desired doneness.",
+    "6. Transfer the beef to a plate and let it rest for a few minutes.",
+    "7. Garnish with green onions and scallions.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "beef",
+    "grilled",
+    "kaiseki"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-earthy-japanese-beef-kaiseki-course",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:16:13.202Z"
+}
