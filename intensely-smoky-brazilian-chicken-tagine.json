@@ -1,0 +1,96 @@
+{
+  "slug": "intensely-smoky-brazilian-chicken-tagine",
+  "title": "Brazilian Smoked Chicken Tagine",
+  "description": "A smoky twist on the classic North African dish, featuring Brazilian spices and marinated chicken.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Brazilian smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Intensely smoky chipotle peppers",
+      "amount": "2",
+      "notes": "in adobo sauce"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 300°F (150°C).",
+    "In a large bowl, whisk together smoked paprika, chipotle peppers, tagine spice blend, and olive oil.",
+    "Add the chicken to the bowl and toss to coat with the spice mixture.",
+    "Heat a large Dutch oven over medium-high heat. Add the chicken and sear until browned on all sides, about 5 minutes.",
+    "Transfer the chicken to a plate and set aside.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is softened, about 5 minutes.",
+    "Add the chicken broth and honey to the pot and stir to combine.",
+    "Return the chicken to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise the chicken for 25-30 minutes, or until cooked through.",
+    "Remove the pot from the oven and let the chicken rest for 5 minutes before serving.",
+    "Serve the chicken with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "smoked",
+    "tagine",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-brazilian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:38:43.839Z"
+}
