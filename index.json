@@ -2117,15 +2117,15 @@
   },
   {
     "slug": "indulgent-charred-norwegian-lamination-puff-galette",
-    "title": "Indulgent Charred Norwegian Lamination-puff Galette",
+    "title": "Norwegian Galette Delight",
     "tags": [
-      "dinner-party",
-      "high-calorie",
-      "norwegian-cuisine",
-      "weeknight"
+      "norwegian",
+      "galette",
+      "indulgent",
+      "dessert"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "norwegian",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -4829,16 +4829,15 @@
   },
   {
     "slug": "indulgent-slovakian-rice-noodles-pho",
-    "title": "Indulgent Slovakian Rice Noodles Pho",
+    "title": "Slovakian Beef Pho",
     "tags": [
-      "comforting",
-      "kid-friendly",
-      "sweet",
-      "vegan",
-      "whole30-friendly"
+      "slovakian",
+      "beef",
+      "soup",
+      "noodle"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 45,
+    "cuisine": "slovakian",
+    "totalTimeMin": 75,
     "shard": "i"
   },
   {
