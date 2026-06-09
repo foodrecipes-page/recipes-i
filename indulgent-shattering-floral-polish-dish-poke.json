@@ -1,0 +1,79 @@
+{
+  "slug": "indulgent-shattering-floral-polish-dish-poke",
+  "title": "Floral Polish Delight",
+  "description": "A unique dessert combining the sweetness of floral flavors with the richness of polish chocolate, making it an indulgent treat.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "floral honey",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "polish chocolate chips",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "grated lemon zest",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a medium bowl, whisk together flour, unsalted butter, and grated lemon zest.",
+    "In a separate bowl, mix floral honey, polish chocolate chips, and vanilla extract.",
+    "Gradually add the dry ingredients to the honey mixture, stirring until combined.",
+    "Pour the mixture into a greased 6-inch round cake pan.",
+    "Bake for 25-30 minutes or until a toothpick inserted comes out clean.",
+    "Let the cake cool for 5 minutes before transferring it to a wire rack to cool completely.",
+    "Drizzle with heavy cream and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "polish",
+    "chocolate",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-shattering-floral-polish-dish-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:09:20.338Z"
+}
