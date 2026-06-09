@@ -1,0 +1,78 @@
+{
+  "slug": "intensely-flavored-middle-eastern-lamb-toast",
+  "title": "Middle Eastern Lamb Toast",
+  "description": "A flavorful and easy-to-make dish that combines the rich taste of lamb with the crunch of toast.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and thinly sliced"
+    },
+    {
+      "name": "Middle eastern spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "4 slices",
+      "notes": "preferably baguette"
+    },
+    {
+      "name": "Tzatziki sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a small bowl, mix together spice blend and olive oil.",
+    "3. Add garlic to the bowl and mix well.",
+    "4. Add lamb slices to the bowl and coat with the spice mixture.",
+    "5. Place the lamb slices on a baking sheet lined with parchment paper.",
+    "6. Bake for 15-20 minutes or until lamb is cooked through.",
+    "7. Meanwhile, toast the bread until crispy.",
+    "8. Spread a layer of tzatziki sauce on each slice of toast.",
+    "9. Top each slice with a piece of lamb, some chopped parsley, and a sprinkle of spice blend.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "middle-eastern",
+    "toast",
+    "snack",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flavored-middle-eastern-lamb-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:10:12.003Z"
+}
