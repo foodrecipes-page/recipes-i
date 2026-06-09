@@ -1,0 +1,67 @@
+{
+  "slug": "indulgent-dutch-leek-pastry",
+  "title": "Dutch Apple Pastry",
+  "description": "A classic Dutch dessert featuring tender pastry, sweet leeks, and crunchy apples.",
+  "cuisine": "dutch",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pastry",
+      "amount": "1 package",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Leeks",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Apples",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry and place in a baking dish.",
+    "Mix the chopped leeks, sliced apples, sugar, and cinnamon.",
+    "Pour the apple mixture into the pastry-lined baking dish.",
+    "Fold the edges of the pastry up over the filling.",
+    "Bake for 35-40 minutes or until the pastry is golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "dessert",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-dutch-leek-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:13:46.372Z"
+}
