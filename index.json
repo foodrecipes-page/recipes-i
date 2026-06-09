@@ -2470,15 +2470,14 @@
   },
   {
     "slug": "indulgent-dutch-leek-pastry",
-    "title": "indulgent dutch leek pastry",
+    "title": "Dutch Apple Pastry",
     "tags": [
       "dutch",
-      "one-pan",
-      "spring",
-      "weeknight"
+      "dessert",
+      "pastry"
     ],
     "cuisine": "dutch",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
@@ -13174,17 +13173,15 @@
   },
   {
     "slug": "intensely-savory-mexican-pork-tacos-al-pastor",
-    "title": "Intensely Savory Mexican Pork Tacos Al Pastor",
+    "title": "Carne Asada Tacos",
     "tags": [
-      "dairy-free",
-      "date-night",
-      "mexican-food",
-      "pork-recipes",
-      "savory-dishes",
-      "tacos-al-pastor"
+      "mexican",
+      "tacos",
+      "pork",
+      "grilled"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 55,
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -15086,14 +15083,13 @@
   },
   {
     "slug": "intricately-layered-greek-feta-tart",
-    "title": "Intricately Layered Greek Feta Tart",
+    "title": "Layered Greek Tart",
     "tags": [
-      "brunch",
-      "dinner-party",
-      "gluten-free",
-      "greek-food",
-      "lunch",
-      "vegetarian"
+      "greek",
+      "phyllo",
+      "feta",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 45,
