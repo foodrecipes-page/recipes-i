@@ -782,18 +782,14 @@
   },
   {
     "slug": "icy-showy-argentinian-sausage-paella",
-    "title": "icy showy argentinian sausage paella",
+    "title": "Argentinian Paella",
     "tags": [
       "argentinian",
-      "high-protein",
-      "one-pan",
       "paella",
-      "saffron",
-      "spicy",
-      "weeknight"
+      "sausage"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 50,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -11222,15 +11218,14 @@
     "slug": "intensely-flavored-middle-eastern-lamb-toast",
     "title": "Middle Eastern Lamb Toast",
     "tags": [
-      "festive",
-      "jain-friendly",
-      "kombu-cold-extract",
-      "lamb-substitute",
+      "lamb",
       "middle-eastern",
-      "special-occasion"
+      "toast",
+      "snack",
+      "easy-to-make"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -12149,17 +12144,16 @@
   },
   {
     "slug": "intensely-nutty-turkish-fish-kofte",
-    "title": "Intensely Nutty Turkish Fish Kofte",
+    "title": "Turkish Kofte Kebabs",
     "tags": [
-      "monsoon-dishes",
-      "nutty-flavors",
-      "pandan-leaf",
-      "pescatarian-friendly",
-      "salt-bake",
-      "turkish-cuisine"
+      "turkish",
+      "kebabs",
+      "kofte",
+      "lamb",
+      "grilled"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
