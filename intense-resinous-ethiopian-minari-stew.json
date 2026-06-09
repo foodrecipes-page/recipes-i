@@ -1,0 +1,86 @@
+{
+  "slug": "intense-resinous-ethiopian-minari-stew",
+  "title": "Ethiopian Minari Stew",
+  "description": "A hearty and flavorful stew combining the intense flavors of Ethiopia with the sweet taste of Minari. Perfect for a cold winter night.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Minari",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Ethiopian Berbere spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup, peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2, peeled and chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chopped carrots and potatoes and cook for 5 minutes.",
+    "Add the Minari, Berbere spice blend, tomato paste, and vegetable broth. Stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro if desired.",
+    "Store leftovers in the refrigerator for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "minari",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-resinous-ethiopian-minari-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:23:47.354Z"
+}
