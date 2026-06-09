@@ -1,0 +1,94 @@
+{
+  "slug": "icy-showy-argentinian-sausage-paella",
+  "title": "Argentinian Paella",
+  "description": "A traditional Spanish dish with an Argentinian twist, perfect for a hearty dinner. This recipe features savory sausage and flavorful seafood.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian sausage",
+      "amount": "1 pound",
+      "notes": "preferably chorizo"
+    },
+    {
+      "name": "showy",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "icy",
+      "amount": "1 cup",
+      "notes": "ice-cold water to cook rice"
+    },
+    {
+      "name": "paella",
+      "amount": "1 cup",
+      "notes": "uncooked medium-grain rice"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 cups",
+      "notes": "chopped, for flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced, for flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": "chopped, for flavor"
+    },
+    {
+      "name": "peppers",
+      "amount": "1 cup",
+      "notes": "chopped, for flavor"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large paella pan over medium-high heat.",
+    "Add sausage and cook until browned, about 5 minutes. Remove from pan and set aside.",
+    "Add onion and peppers to the pan and cook until tender, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add rice to the pan and cook for 1-2 minutes, stirring constantly.",
+    "Add icy water to the pan and bring to a boil.",
+    "Add tomato paste to the pan and stir to combine.",
+    "Add cooked sausage back to the pan and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked.",
+    "Garnish with showy and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "paella",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-showy-argentinian-sausage-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:04:05.644Z"
+}
