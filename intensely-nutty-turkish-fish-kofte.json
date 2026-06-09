@@ -1,0 +1,91 @@
+{
+  "slug": "intensely-nutty-turkish-fish-kofte",
+  "title": "Turkish Kofte Kebabs",
+  "description": "A traditional Turkish recipe featuring flavorful kofte meatballs served with a side of fresh vegetables, all grilled to perfection.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Turkish red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Intensely nutty extra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "1 tablespoon",
+      "notes": "For added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large mixing bowl, combine the ground lamb, onion, garlic, Turkish red pepper flakes, salt, and black pepper. Mix well with your hands or a wooden spoon until just combined.",
+    "3. Using your hands, shape the mixture into small meatballs, about 1 1/2 inches in diameter. You should end up with around 20-25 kofte.",
+    "4. Thread the kofte onto skewers, leaving a little space between each one.",
+    "5. Brush the kofte with the intensely nutty olive oil and season with salt and black pepper.",
+    "6. Grill the kofte for 8-10 minutes, turning occasionally, until they are cooked through and nicely charred.",
+    "7. While the kofte are cooking, grill the fresh parsley until slightly charred.",
+    "8. Serve the kofte hot, garnished with the grilled parsley and a squeeze of lemon juice. If using fish sauce, serve on the side for added flavor.",
+    "9. Enjoy your delicious Turkish kofte kebabs with a side of fresh vegetables or a salad.",
+    "10. Refrigerate any leftovers for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kebabs",
+    "kofte",
+    "lamb",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-nutty-turkish-fish-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:15:27.875Z"
+}
