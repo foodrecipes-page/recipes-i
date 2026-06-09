@@ -4521,17 +4521,15 @@
   },
   {
     "slug": "indulgent-salty-crumbly-australian-sausage-hash",
-    "title": "Indulgent, Salty, Crumbly Australian Sausage Hash",
+    "title": "Australian Sausage Hash",
     "tags": [
-      "australian",
       "breakfast",
-      "one-pan",
-      "sauerkraut",
+      "australian",
       "sausage",
-      "weeknight"
+      "hash"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "cuisine": "australian",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -4773,18 +4771,16 @@
   },
   {
     "slug": "indulgent-slovakian-christmas-pudding-pancakes",
-    "title": "Indulgent Slovakian Christmas Pudding Pancakes",
+    "title": "Traditional Slovak Trdelník Pudding Pancakes",
     "tags": [
-      "festive",
-      "holiday",
-      "one-pan",
-      "pancake",
       "slovakian",
-      "vegan",
-      "vegetarian"
+      "pudding",
+      "pancakes",
+      "traditional",
+      "dessert"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -6309,13 +6305,15 @@
   },
   {
     "slug": "intense-algerian-oats-hash",
-    "title": "Intense Algerian Oats Hash",
+    "title": "Algerian Oat Hash",
     "tags": [
-      "algerian",
-      "breakfast"
+      "breakfast",
+      "north-african",
+      "gluten-free",
+      "vegetarian"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
