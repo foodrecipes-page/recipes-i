@@ -1,0 +1,84 @@
+{
+  "slug": "indulgent-slovakian-christmas-pudding-pancakes",
+  "title": "Traditional Slovak Trdelník Pudding Pancakes",
+  "description": "A unique dessert inspired by Slovakian traditions, combining fluffy pancakes with a rich trdelník pudding.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "trdelník pudding mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large bowl, whisk together flour, sugar, and a pinch of salt.",
+    "In a separate bowl, whisk together milk, eggs, sour cream, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and whisk until smooth.",
+    "Add vanilla extract and mix well.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes.",
+    "Transfer the pancakes to a wire rack to cool slightly.",
+    "Prepare the trdelník pudding according to the package instructions.",
+    "To assemble, place a pancake on a serving plate, top with a spoonful of pudding, and dust with confectioners' sugar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pudding",
+    "pancakes",
+    "traditional",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-slovakian-christmas-pudding-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:12:35.848Z"
+}
