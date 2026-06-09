@@ -1,0 +1,76 @@
+{
+  "slug": "indulgent-salty-crumbly-australian-sausage-hash",
+  "title": "Australian Sausage Hash",
+  "description": "A hearty breakfast dish from Down Under, featuring sausages and crispy hash.",
+  "cuisine": "australian",
+  "diet": [
+    "breakfast",
+    "brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Australian Sausages",
+      "amount": "4",
+      "notes": "Cooked to an internal temperature of 160°F (71°C)"
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "1 cup",
+      "notes": "Grated and squeezed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the hash browns and cook until crispy and golden brown, stirring occasionally.",
+    "Push the hash browns to one side of the pan.",
+    "Add the Australian sausages to the other side of the pan and cook until browned, about 5 minutes.",
+    "Flip the sausages and cook for an additional 5 minutes.",
+    "Return the hash browns to the pan and stir to combine with the sausages.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "australian",
+    "sausage",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-salty-crumbly-australian-sausage-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:45:52.733Z"
+}
