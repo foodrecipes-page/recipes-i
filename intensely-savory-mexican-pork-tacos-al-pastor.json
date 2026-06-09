@@ -1,0 +1,88 @@
+{
+  "slug": "intensely-savory-mexican-pork-tacos-al-pastor",
+  "title": "Carne Asada Tacos",
+  "description": "A classic Mexican dish featuring grilled pork, served with fresh cilantro, onion, and warm tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6",
+      "notes": "corn"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Queso fresco",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lime juice, garlic, and olive oil.",
+    "Add the pork to the bowl and marinate for at least 30 minutes.",
+    "Grill the pork for 5-7 minutes per side, or until cooked through.",
+    "Let the pork rest for 5 minutes before slicing it thinly.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few slices of pork onto a tortilla, followed by a spoonful of salsa, a sprinkle of cilantro, and a crumble of queso fresco.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "pork",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-mexican-pork-tacos-al-pastor",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:53:24.193Z"
+}
