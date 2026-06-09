@@ -1866,17 +1866,16 @@
   },
   {
     "slug": "indulgent-brazilian-black-beans-fritters",
-    "title": "Indulgent Brazilian Black Beans Fritters",
+    "title": "Brazilian Black Bean Fritters",
     "tags": [
+      "brazilian",
       "black-beans",
-      "deep-fry",
-      "high-protein",
-      "indulgent",
-      "quick",
-      "snack"
+      "fritters",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 23,
     "shard": "i"
   },
   {
@@ -8885,16 +8884,14 @@
   },
   {
     "slug": "intense-smoky-brazilian-beef-stew",
-    "title": "Intense Smoky Brazilian Beef Stew",
+    "title": "Brazilian Beef Stew",
     "tags": [
-      "brazilian-cuisine",
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "stew",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
