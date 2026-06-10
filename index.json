@@ -7277,17 +7277,15 @@
   },
   {
     "slug": "intense-herbal-malaysian-rice-pilaf",
-    "title": "Intense Herbal Malaysian Rice Pilaf",
+    "title": "Malaysian Herb Pilaf",
     "tags": [
-      "gluten-free",
-      "herbal-flavors",
-      "malaysian-cuisine",
-      "one-pot",
-      "sugar-free",
-      "weeknight-dinner"
+      "malaysian",
+      "herbal",
+      "rice",
+      "pilaf"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -13044,17 +13042,14 @@
   },
   {
     "slug": "intensely-savory-canadian-shrimp-noodles",
-    "title": "Intensely Savory Canadian Shrimp Noodles",
+    "title": "Shrimp and Noodle Stir Fry",
     "tags": [
-      "canadian-cuisine",
-      "noodle-dish",
-      "one-pan",
-      "seafood",
-      "shrimp-recipe",
-      "winter-meal"
+      "shrimp",
+      "noodles",
+      "stir-fry"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 22,
     "shard": "i"
   },
   {
