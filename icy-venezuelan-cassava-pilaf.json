@@ -1,0 +1,66 @@
+{
+  "slug": "icy-venezuelan-cassava-pilaf",
+  "title": "Venezuelan Cassava Pilaf",
+  "description": "A traditional Venezuelan side dish made with cassava and pilaf, perfect for accompanying grilled meats.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "cassava",
+      "amount": "1 large root, peeled and grated"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "aromatic rice blend"
+    },
+    {
+      "name": "icy",
+      "amount": "1 tablespoon",
+      "notes": "ice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, chopped",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a medium saucepan over medium heat.",
+    "Add the onion and sauté until translucent.",
+    "Add the pilaf and cook according to package instructions.",
+    "Add the grated cassava and stir well to combine.",
+    "Cook for an additional 5 minutes, stirring occasionally.",
+    "Stir in the icy (chopped ice) to prevent the cassava from browning.",
+    "Season with salt and pepper to taste.",
+    "Serve hot alongside grilled meats or as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "latin-american",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-venezuelan-cassava-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:09:36.987Z"
+}
