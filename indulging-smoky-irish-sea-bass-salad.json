@@ -1,0 +1,86 @@
+{
+  "slug": "indulging-smoky-irish-sea-bass-salad",
+  "title": "Grilled Smoked Irish Sea Bass",
+  "description": "A smoky twist on traditional Irish sea bass, served with a fresh salad.",
+  "cuisine": "Irish",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish Sea Bass",
+      "amount": "2 fillets",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint",
+      "notes": null
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Rinse the sea bass fillets and pat them dry with paper towels.",
+    "Season the sea bass with salt and smoked paprika.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the sea bass for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, cook the bacon in a pan until crispy.",
+    "Toss the mixed greens, cherry tomatoes, and red onion in a bowl.",
+    "Serve the grilled sea bass on top of the salad, with crispy bacon on the side.",
+    "Drizzle with olive oil and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "smoked",
+    "irish",
+    "seafood",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulging-smoky-irish-sea-bass-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:10:44.673Z"
+}
