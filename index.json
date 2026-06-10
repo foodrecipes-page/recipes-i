@@ -5598,17 +5598,16 @@
   },
   {
     "slug": "indulging-smoky-irish-sea-bass-salad",
-    "title": "Indulging Smoky Irish Sea Bass Salad",
+    "title": "Grilled Smoked Irish Sea Bass",
     "tags": [
-      "citrus",
+      "grilled",
+      "smoked",
       "irish",
-      "meal-prep",
-      "quick",
-      "sea-bass",
-      "smoky"
+      "seafood",
+      "salad"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 13,
+    "totalTimeMin": 27,
     "shard": "i"
   },
   {
@@ -8833,18 +8832,16 @@
   },
   {
     "slug": "intense-smoky-australian-lamb-tagine",
-    "title": "Intense Smoky Australian Lamb Tagine",
+    "title": "Smoked Lamb Tagine",
     "tags": [
+      "lamb",
+      "tagine",
       "australian",
-      "dairy-free",
-      "gluten-free",
-      "high-heat",
-      "lamb-based",
-      "one-pot",
-      "smoky"
+      "smoked",
+      "intense"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 210,
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
@@ -13190,17 +13187,16 @@
   },
   {
     "slug": "intensely-savory-russian-beef-skewers",
-    "title": "Intensely Savory Russian Beef Skewers",
+    "title": "Russian Beef Skewers",
     "tags": [
-      "dinner-ideas",
-      "grilled-meats",
-      "high-protein",
-      "low-carb",
-      "post-workout",
-      "russian-cuisine"
+      "beef",
+      "russian",
+      "skewers",
+      "grill",
+      "outdoor"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "cuisine": "russian",
+    "totalTimeMin": 31,
     "shard": "i"
   },
   {
