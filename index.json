@@ -886,16 +886,14 @@
   },
   {
     "slug": "icy-venezuelan-cassava-pilaf",
-    "title": "icy venezuelan cassava pilaf",
+    "title": "Venezuelan Cassava Pilaf",
     "tags": [
-      "gluten-free",
-      "high-fiber",
-      "one-pan",
-      "venezuelan",
-      "weeknight"
+      "vegetarian",
+      "latin-american",
+      "side-dish"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "Latin American",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -8369,17 +8367,16 @@
   },
   {
     "slug": "intense-resinous-southern-thai-polish-kabanos-khanom-thai",
-    "title": "Intense Resinous Southern Thai Polish Kabanos Khanom Thai",
+    "title": "Spicy Khanom Sausage Wrap",
     "tags": [
-      "date-night",
-      "khanom-thai",
-      "polish-influence",
-      "resinous-sauce",
-      "southern-thai",
-      "thai-cuisine"
+      "thai",
+      "sausage",
+      "wrap",
+      "southern",
+      "biscuit"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 50,
+    "cuisine": "thai",
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
@@ -11720,18 +11717,14 @@
   },
   {
     "slug": "intensely-jammy-vietnamese-shrimp-mi-quang",
-    "title": "Intensely Jammy Vietnamese Shrimp Mi Quang",
+    "title": "Shrimp and Jammy Egg Mi",
     "tags": [
-      "jammy",
-      "noodles",
-      "one-pan",
-      "pescatarian",
-      "shrimp",
       "vietnamese",
-      "weeknight"
+      "shrimp",
+      "noodle"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 18,
     "shard": "i"
   },
   {
@@ -12325,17 +12318,16 @@
   },
   {
     "slug": "intensely-pungent-french-fish-rillettes",
-    "title": "Intensely Pungent French Fish Rillettes",
+    "title": "French Fish Rillettes",
     "tags": [
+      "french",
+      "fish",
       "appetizer",
-      "easy-to-make",
-      "flavorful",
-      "french-cuisine",
-      "pescatarian",
-      "seafood"
+      "snack",
+      "easy-to-make"
     ],
     "cuisine": "French",
-    "totalTimeMin": 50,
+    "totalTimeMin": 18,
     "shard": "i"
   },
   {
