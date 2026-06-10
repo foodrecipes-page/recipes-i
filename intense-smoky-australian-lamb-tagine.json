@@ -1,0 +1,91 @@
+{
+  "slug": "intense-smoky-australian-lamb-tagine",
+  "title": "Smoked Lamb Tagine",
+  "description": "A slow-cooked, richly flavored lamb tagine with a deep, smoky taste from the Australian native bush tomato, a staple in Australian and North African cuisine.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Native Bush Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon, ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon, ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon, ground"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 teaspoon, ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb shoulder on all sides, then set aside.",
+    "Add onion and garlic to the pot and cook until softened.",
+    "Add cumin, coriander, cinnamon, and cayenne pepper; cook for 1 minute.",
+    "Stir in bush tomato paste and cook for 1 minute.",
+    "Return the lamb to the pot and add salt and pepper to taste.",
+    "Bring the mixture to a boil, then cover and transfer to the oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender and falling apart.",
+    "Shred the lamb with two forks and stir to coat with the sauce.",
+    "Serve hot, garnished with fresh herbs, if desired.",
+    "Serve over couscous or rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "australian",
+    "smoked",
+    "intense"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-australian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:55:04.453Z"
+}
