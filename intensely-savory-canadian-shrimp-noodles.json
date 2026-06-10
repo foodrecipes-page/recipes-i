@@ -1,0 +1,96 @@
+{
+  "slug": "intensely-savory-canadian-shrimp-noodles",
+  "title": "Shrimp and Noodle Stir Fry",
+  "description": "A quick and easy stir fry with succulent shrimp and savory noodles. Perfect for a weeknight dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "12 oz",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "rice noodles or egg noodles"
+    },
+    {
+      "name": "intensely savory sauce",
+      "amount": "1/4 cup",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for stir frying"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the garlic and ginger (if using) and cook for 1 minute, until fragrant.",
+    "Add the noodles to the skillet and cook for 2-3 minutes, until they start to brown.",
+    "Add the savory sauce, soy sauce, salt, and pepper to the skillet. Stir to combine.",
+    "Return the shrimp to the skillet and stir to combine with the noodles and sauce.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened and the shrimp are coated.",
+    "Serve hot, garnished with chopped green onions.",
+    "Cooking time for noodles is usually around 3-5 minutes, or according to package instructions.",
+    "Do not overcook the shrimp, as they will continue to cook a bit after being removed from the heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-canadian-shrimp-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:49:52.847Z"
+}
