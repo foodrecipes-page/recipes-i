@@ -3136,17 +3136,15 @@
   },
   {
     "slug": "indulgent-indian-tiger-prawns-rasam",
-    "title": "Indulgent Indian Tiger Prawns Rasam",
+    "title": "Tiger's Prawn Rasam",
     "tags": [
-      "dinner-party",
-      "flexitarian",
-      "indian-cuisine",
-      "one-pot",
+      "indian",
       "seafood",
-      "spicy"
+      "soup",
+      "rasam"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -11630,17 +11628,14 @@
   },
   {
     "slug": "intensely-herbal-croatian-pork-stew",
-    "title": "Intensely Herbal Croatian Pork Stew",
+    "title": "Croatian Pork Stew",
     "tags": [
-      "comfort-food",
       "croatian",
-      "herbal",
-      "high-protein",
-      "one-pot",
-      "pork"
+      "pork",
+      "stew"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 120,
+    "cuisine": "croatian",
+    "totalTimeMin": 140,
     "shard": "i"
   },
   {
