@@ -1,0 +1,81 @@
+{
+  "slug": "intense-resinous-southern-thai-polish-kabanos-khanom-thai",
+  "title": "Spicy Khanom Sausage Wrap",
+  "description": "A flavorful twist on traditional Thai street food, featuring spicy khanom sausage wrapped in a crispy southern-style biscuit with tangy toppings.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kabanos sausage",
+      "amount": "4-6 links"
+    },
+    {
+      "name": "Khanom",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "Southern biscuit dough",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Intense fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Polish mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Resinous cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Southern-style biscuit topping",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Thai pickled carrots",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out southern biscuit dough to 1/4 inch thickness.",
+    "Cut into circles using a cookie cutter.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Meanwhile, cook kabanos sausage in a pan over medium-high heat, until browned.",
+    "Add thai red curry paste and fish sauce to the pan, stir to combine.",
+    "Slice baked biscuit in half, and spread with polish mustard.",
+    "Assemble the wrap by placing cooked sausage on the biscuit, topping with khanom, cilantro, and pickled carrots.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "sausage",
+    "wrap",
+    "southern",
+    "biscuit"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-resinous-southern-thai-polish-kabanos-khanom-thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:55:35.892Z"
+}
