@@ -1,0 +1,82 @@
+{
+  "slug": "intensely-pungent-french-fish-rillettes",
+  "title": "French Fish Rillettes",
+  "description": "A French-inspired appetizer made with delicate fish rillettes, perfect for a light and flavorful bite. Serve with crackers or toast points for a sophisticated snack.",
+  "cuisine": "French",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Salmon)",
+      "amount": "8 oz",
+      "notes": "Fresh or frozen, skin removed"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": "Unsalted, softened"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Fresh, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "French baguette",
+      "amount": "1/2 loaf",
+      "notes": "Sliced into 1/2-inch rounds"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the fish on the prepared baking sheet and bake for 8-10 minutes, or until cooked through.",
+    "Remove the fish from the oven and let it cool slightly.",
+    "Flake the fish into a medium bowl using a fork.",
+    "Add the softened butter, lemon juice, parsley, salt, and black pepper to the bowl with the fish.",
+    "Mix until the rillettes are smooth and creamy.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the rillettes to a serving dish and garnish with additional parsley if desired.",
+    "Serve with sliced French baguette rounds for a delicious and elegant snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "fish",
+    "appetizer",
+    "snack",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-pungent-french-fish-rillettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:35:07.366Z"
+}
