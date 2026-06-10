@@ -9587,16 +9587,15 @@
   },
   {
     "slug": "intense-umami-thai-bread-larb",
-    "title": "Intense Umami Thai Bread Larb",
+    "title": "Thai Larb Bread Bowl",
     "tags": [
-      "quick-fix",
-      "thai-inspired",
-      "umami-rich",
-      "vegan-option",
-      "vegetarian-friendly"
+      "thaifood",
+      "bread",
+      "larb",
+      "snacks"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -12935,17 +12934,14 @@
   },
   {
     "slug": "intensely-salty-ukrainian-pork-skillet",
-    "title": "Intensely Salty Ukrainian Pork Skillet",
+    "title": "Salty Ukrainian Pork Skillet",
     "tags": [
-      "keto-friendly",
-      "low-carb",
-      "one-pot",
-      "pork-recipes",
-      "stone-bowl-recipes",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "pork",
+      "skillet"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
