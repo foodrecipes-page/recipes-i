@@ -1,0 +1,84 @@
+{
+  "slug": "intensely-jammy-vietnamese-shrimp-mi-quang",
+  "title": "Shrimp and Jammy Egg Mi",
+  "description": "A popular Vietnamese dish featuring shrimp, jammy eggs, and mi noodles. Perfect for a quick and delicious lunch.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mi noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Jammy eggs",
+      "amount": "4",
+      "notes": "hard-boiled and sliced"
+    },
+    {
+      "name": "Vietnamese chili sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook mi noodles according to package instructions. Drain and set aside.",
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the shrimp and cook until pink and fully cooked. Remove from the wok and set aside.",
+    "In the same wok, add the remaining 1 tablespoon of oil and pour in the Vietnamese chili sauce. Stir to combine.",
+    "Add the cooked noodles to the wok and stir to combine with the chili sauce.",
+    "Add the cooked shrimp back into the wok and stir to combine with the noodles and chili sauce.",
+    "Stir in the soy sauce, fish sauce, and lime juice.",
+    "Add the sliced jammy eggs to the wok and stir to combine.",
+    "Season with salt to taste.",
+    "Transfer the noodles and shrimp to a serving plate and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "shrimp",
+    "noodle"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-jammy-vietnamese-shrimp-mi-quang",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:57:37.630Z"
+}
