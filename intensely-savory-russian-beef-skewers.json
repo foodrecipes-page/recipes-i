@@ -1,0 +1,95 @@
+{
+  "slug": "intensely-savory-russian-beef-skewers",
+  "title": "Russian Beef Skewers",
+  "description": "A flavorful and savory beef skewer recipe inspired by Russian cuisine. Perfect for a delicious dinner or outdoor gathering.",
+  "cuisine": "russian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together paprika, salt, and black pepper.",
+    "3. Add the beef cubes to the bowl and toss to coat with the spice mixture.",
+    "4. Thread the beef, onion, bell pepper, tomato, and garlic onto the skewers.",
+    "5. Brush the skewers with olive oil and season with salt and pepper.",
+    "6. Grill the skewers for 8-10 minutes per side, or until the beef reaches 160°F.",
+    "7. Brush the skewers with lemon juice during the last minute of grilling.",
+    "8. Let the skewers rest for 5 minutes before serving.",
+    "9. Serve hot with your favorite sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "russian",
+    "skewers",
+    "grill",
+    "outdoor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-russian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:46:34.598Z"
+}
