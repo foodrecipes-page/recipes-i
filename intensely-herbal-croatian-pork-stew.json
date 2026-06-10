@@ -1,0 +1,89 @@
+{
+  "slug": "intensely-herbal-croatian-pork-stew",
+  "title": "Croatian Pork Stew",
+  "description": "A hearty and flavorful stew originating from Croatia, made with tender pork and a blend of herbs.",
+  "cuisine": "croatian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork until browned on all sides, about 5 minutes.",
+    "Remove the pork and set aside.",
+    "Add more oil if necessary, then sauté the onion and garlic until softened.",
+    "Add the carrots and potatoes, cook for 5 minutes.",
+    "Add the Croatian paprika, salt, and pepper, stir to combine.",
+    "Return the pork to the pot, add enough stock to cover, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 2 hours.",
+    "Check the pork for tenderness, and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "pork",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-herbal-croatian-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:38:51.257Z"
+}
