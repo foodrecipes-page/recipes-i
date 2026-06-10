@@ -1,0 +1,95 @@
+{
+  "slug": "indulgent-indian-tiger-prawns-rasam",
+  "title": "Tiger's Prawn Rasam",
+  "description": "A spicy and flavorful Indian-inspired soup made with prawns and a blend of warming spices. Serve as a light and refreshing meal or as a side dish.",
+  "cuisine": "indian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rasam powder",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add onion, ginger, and garlic. Saute until the onion is translucent.",
+    "Add prawns and cook until they are pink and cooked through.",
+    "Add coriander powder, turmeric powder, red chilli powder, and rasam powder. Mix well.",
+    "Add tamarind paste and mix well.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Season with salt to taste.",
+    "Serve hot with a dollop of yogurt and a sprinkle of cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "seafood",
+    "soup",
+    "rasam"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-indian-tiger-prawns-rasam",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:36:37.156Z"
+}
