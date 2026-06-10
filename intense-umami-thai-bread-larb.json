@@ -1,0 +1,72 @@
+{
+  "slug": "intense-umami-thai-bread-larb",
+  "title": "Thai Larb Bread Bowl",
+  "description": "A twist on the classic Thai dish, served in a crispy bread bowl. The combination of flavors and textures is sure to impress.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Thai bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Larb seasoning mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the Thai bread into 1-inch thick rounds and toast until crispy.",
+    "In a large skillet, cook the ground pork over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the larb seasoning mix, fish sauce, and lime juice to the skillet and stir to combine.",
+    "Continue cooking for an additional 2-3 minutes, until the flavors have melded together.",
+    "Spoon the larb mixture into the toasted bread bowls.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thaifood",
+    "bread",
+    "larb",
+    "snacks"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-umami-thai-bread-larb",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:30:58.880Z"
+}
