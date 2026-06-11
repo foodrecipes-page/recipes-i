@@ -1,0 +1,92 @@
+{
+  "slug": "indulgent-earthy-saudi-arabian-vanilla-tagine",
+  "title": "Saudi Arabian Tagine Chicken",
+  "description": "A rich and aromatic stew originating from Saudi Arabia, made with tender chicken and sweet spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 teaspoons",
+      "notes": "or a combination of cinnamon, cumin, and coriander"
+    },
+    {
+      "name": "vanilla",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "2",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "aromatic herbs",
+      "amount": "1/4 cup",
+      "notes": "fresh parsley, cilantro, or mint, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add the onion and ginger and cook, stirring occasionally, until the onion is golden brown, about 8 minutes.",
+    "Add the tagine spice mix, vanilla, and cinnamon sticks, and cook, stirring constantly, for 1 minute.",
+    "Add the chicken and cook, stirring occasionally, until browned on all sides, about 5 minutes.",
+    "Add the honey, chicken broth, and aromatic herbs, and bring to a boil.",
+    "Cover the tagine or Dutch oven and transfer to the oven.",
+    "Bake at 300°F (150°C) for 30 minutes, then reduce the heat to 275°F (135°C) and bake for an additional 20-25 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Season with salt and pepper to taste, and serve hot over rice or with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "tagine",
+    "indulgent",
+    "earthy",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-earthy-saudi-arabian-vanilla-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:32:21.696Z"
+}
