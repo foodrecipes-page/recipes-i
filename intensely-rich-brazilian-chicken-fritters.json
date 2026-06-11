@@ -1,0 +1,85 @@
+{
+  "slug": "intensely-rich-brazilian-chicken-fritters",
+  "title": "Brazilian Chicken Fritters",
+  "description": "Crispy fried chicken fritters with a rich Brazilian twist, perfect for a snack or appetizer.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "minced onion",
+      "amount": "1/2 cup",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for crispy coating"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chicken pieces, flour, eggs, Parmesan cheese, onion, and garlic. Mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "Remove the chicken mixture from the refrigerator and let it sit at room temperature for 10 minutes.",
+    "Using your hands, shape the mixture into small patties.",
+    "Dredge the patties in panko breadcrumbs, pressing gently to adhere.",
+    "Carefully place the fritters in the hot oil and fry for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "Remove the fritters from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the Brazilian Chicken Fritters hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "fritters",
+    "brazilian",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-rich-brazilian-chicken-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:54:46.573Z"
+}
