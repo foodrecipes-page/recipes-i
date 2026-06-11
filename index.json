@@ -211,18 +211,16 @@
   },
   {
     "slug": "iced-italian-agemono-deep-fried-italian-chuck-roast-tagliatelle",
-    "title": "Iced Italian Agemono-Deep-Fried Italian Chuck Roast Tagliatelle",
+    "title": "Italian Chuck Roast with Tagliatelle",
     "tags": [
-      "deep-fried",
-      "high-protein",
       "italian",
-      "italian-food",
-      "lotus-leaf-wrap",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "pasta",
+      "braised",
+      "comfort-food"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 200,
     "shard": "i"
   },
   {
@@ -4662,16 +4660,15 @@
   },
   {
     "slug": "indulgent-shattering-middle-eastern-fish-tagine",
-    "title": "Indulgent Shattering Middle-Eastern Fish Tagine",
+    "title": "Shattering Fish Tagine",
     "tags": [
+      "moroccan",
       "fish",
-      "high-protein",
-      "one-pan",
       "tagine",
-      "weeknight"
+      "middle-eastern"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 60,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -4980,17 +4977,15 @@
   },
   {
     "slug": "indulgent-smoky-polish-pork-dumplings",
-    "title": "Indulgent Smoky Polish Pork Dumplings",
+    "title": "Smoky Polish Pork Dumplings",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
+      "polish",
       "smoky",
-      "weeknight"
+      "pork",
+      "dumplings"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
@@ -14798,13 +14793,13 @@
   },
   {
     "slug": "intricate-crisp-turkish-mung-bean-sprout-pilaf",
-    "title": "Intricate Crisp Turkish Mung Bean Sprout Pilaf",
+    "title": "Spicy Turkish Pilaf",
     "tags": [
-      "gluten-free",
-      "one-pot",
-      "turkish-cuisine",
-      "vegetarian-recipes",
-      "weeknight-dinner"
+      "turkish",
+      "mung-beans",
+      "pilaf",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
