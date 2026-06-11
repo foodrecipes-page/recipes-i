@@ -1,0 +1,77 @@
+{
+  "slug": "indulgent-british-uni-skillet",
+  "title": "British Skillet Uni Cakes",
+  "description": "A decadent British-inspired dish featuring rich uni cakes cooked in a skillet, perfect for a comforting indulgence. Enjoy as a luxurious breakfast or brunch option.",
+  "cuisine": "British",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "uni (sea urchin)",
+      "amount": "120g"
+    },
+    {
+      "name": "butter",
+      "amount": "60g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "120g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "30g"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "skillet seasoning",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Melt the butter in a skillet over medium heat.",
+    "Add the flour and cook, stirring constantly, for 1-2 minutes.",
+    "Add the eggs, milk, salt, and pepper. Stir until the mixture is smooth and combined.",
+    "Stir in the uni and cook for an additional 2-3 minutes.",
+    "Transfer the skillet to the preheated oven and cook for 8-10 minutes, or until the uni cakes are set.",
+    "Remove the skillet from the oven and let cool for 1-2 minutes.",
+    "Use a spatula to carefully loosen the uni cakes from the skillet.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "british",
+    "sea-urchin",
+    "breakfast",
+    "brunch",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-british-uni-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:25:07.675Z"
+}
