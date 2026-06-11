@@ -1,0 +1,81 @@
+{
+  "slug": "intense-middle-eastern-italian-fennel-sausages-jaffa-wrap",
+  "title": "Sausage and Fennel Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with sausages and fennel. Perfect for a quick dinner or lunch.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sausages",
+      "amount": "4",
+      "notes": "Italian sausage"
+    },
+    {
+      "name": "fennel",
+      "amount": "1 bulb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "wrap",
+      "amount": "4",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "intense",
+      "amount": "1",
+      "notes": "not used, ingredient removed"
+    },
+    {
+      "name": "middle",
+      "amount": "1",
+      "notes": "not used, ingredient removed"
+    },
+    {
+      "name": "eastern",
+      "amount": "1",
+      "notes": "not used, ingredient removed"
+    },
+    {
+      "name": "italian",
+      "amount": "1",
+      "notes": "not used, ingredient removed"
+    },
+    {
+      "name": "jaffa",
+      "amount": "1",
+      "notes": "not used, ingredient removed"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cook the sausages until browned and cooked through, about 5-7 minutes per side.",
+    "Meanwhile, slice the fennel and cook in a pan with a little oil until caramelized.",
+    "Warm the wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing a cooked sausage on each wrap, followed by some caramelized fennel.",
+    "Serve immediately and enjoy!",
+    "Note: You can also add some pepper or salt to taste, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "wrap",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-middle-eastern-italian-fennel-sausages-jaffa-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:05:47.996Z"
+}
