@@ -1,0 +1,94 @@
+{
+  "slug": "iced-italian-agemono-deep-fried-italian-chuck-roast-tagliatelle",
+  "title": "Italian Chuck Roast with Tagliatelle",
+  "description": "A hearty Italian-inspired dish featuring tender roast chuck and served with a delicious homemade tagliatelle.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck roast",
+      "amount": "1.5 lbs",
+      "notes": "preferably with a good balance of fat and lean meat"
+    },
+    {
+      "name": "tagliatelle pasta",
+      "amount": "1 lb",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": "for cooking the roast and pasta"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "preferably freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 325°F (165°C).",
+    "Season the beef chuck roast with salt and black pepper.",
+    "Heat 2 tablespoons of olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the roast on all sides until browned, about 2-3 minutes per side.",
+    "Remove the roast from the pot and set it aside.",
+    "Add the remaining 1 tablespoon of olive oil to the pot, then sauté the chopped onion and minced garlic until softened, about 3-4 minutes.",
+    "Add the dried basil and oregano (if using) to the pot and cook for 1 minute.",
+    "Return the roast to the pot and add enough beef broth to cover the bottom of the pot.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the roast for 2-3 hours, or until tender and easily shredded with a fork.",
+    "While the roast is cooking, cook the tagliatelle pasta according to package instructions.",
+    "Remove the roast from the pot and let it rest for 10-15 minutes before slicing.",
+    "Serve the sliced roast with the cooked tagliatelle pasta and spoon some of the braising liquid over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "pasta",
+    "braised",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 53,
+    "carbs": 30,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iced-italian-agemono-deep-fried-italian-chuck-roast-tagliatelle",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:33:43.448Z"
+}
