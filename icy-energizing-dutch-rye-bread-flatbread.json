@@ -1,0 +1,71 @@
+{
+  "slug": "icy-energizing-dutch-rye-bread-flatbread",
+  "title": "Dutch Rye Flatbread",
+  "description": "A crispy flatbread infused with the earthy flavors of Dutch rye, perfect for snacking or as a side.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dutch rye flour",
+      "amount": "2 cups",
+      "notes": "use a high-quality Dutch rye flour for the best flavor"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "use lukewarm water for better yeast activation"
+    },
+    {
+      "name": "icy cold butter",
+      "amount": "1/2 cup",
+      "notes": "use a high-quality, icy cold butter for a flaky crust"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use a flaky sea salt for added texture and flavor"
+    },
+    {
+      "name": "energizing yeast",
+      "amount": "1 teaspoon",
+      "notes": "use a high-quality, energizing yeast for better rising"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the Dutch rye flour, salt, and energizing yeast.",
+    "Gradually add the lukewarm water, mixing until a shaggy dough forms.",
+    "Add the icy cold butter, mixing until the dough comes together in a cohesive mass.",
+    "Knead the dough for 10 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 425°F (220°C).",
+    "Punch down the dough and divide it into 4-6 equal pieces, depending on desired flatbread size.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Place the flatbreads on a baking sheet lined with parchment paper, leaving about 1 inch of space between each flatbread.",
+    "Bake the flatbreads for 15-20 minutes, until they are golden brown and crispy.",
+    "Remove the flatbreads from the oven and let them cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "dutch",
+    "rye",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-energizing-dutch-rye-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:05:58.357Z"
+}
