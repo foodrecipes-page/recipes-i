@@ -1,0 +1,86 @@
+{
+  "slug": "intense-egyptian-tofu-grill",
+  "title": "Egyptian-Style Grilled Tofu Skewers",
+  "description": "A flavorful and healthy vegan recipe inspired by Egyptian cuisine, featuring marinated tofu skewers grilled to perfection.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "intense soy sauce",
+      "amount": "1/4 cup",
+      "notes": "or regular soy sauce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together soy sauce, olive oil, garlic, cumin, paprika, chili flakes, and lemon juice.",
+    "3. Add the tofu cubes and chopped onion to the marinade. Mix well to coat.",
+    "4. Thread the marinated tofu and onion onto skewers.",
+    "5. Grill the skewers for 8-10 minutes per side, or until the tofu is golden brown and the onion is tender.",
+    "6. Serve hot with additional lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "vegan",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-egyptian-tofu-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:33:50.697Z"
+}
