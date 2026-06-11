@@ -1,0 +1,87 @@
+{
+  "slug": "intensely-smoky-mediterranean-lamb-skewers",
+  "title": "Lamb Skewers with Mediterranean Flair",
+  "description": "A flavorful and colorful dish featuring tender lamb, marinated in a mix of herbs and spices, grilled to perfection on skewers.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1.5 pounds",
+      "notes": "You can use any cut of lamb, but shoulder works best for skewers"
+    },
+    {
+      "name": "Smoky olive oil",
+      "amount": "1/4 cup",
+      "notes": "You can also use regular olive oil if you don't have smoky olive oil"
+    },
+    {
+      "name": "Intensely flavored feta cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "Don't skip this ingredient, as it adds a lot of flavor to the lamb"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "2 tablespoons, chopped",
+      "notes": "You can use dried oregano if you don't have fresh oregano"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "Don't overdo it with the garlic, as it can overpower the dish"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lemon juice works best"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher salt or sea salt for the best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Use freshly ground black pepper for the best flavor"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "10-12",
+      "notes": "Make sure to soak the skewers in water for at least 30 minutes before grilling"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the olive oil, feta cheese, oregano, garlic, lemon juice, salt, and black pepper.",
+    "Add the lamb cubes to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the lamb cubes onto the skewers, leaving a little space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "skewers",
+    "mediterranean",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-mediterranean-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:35:42.775Z"
+}
