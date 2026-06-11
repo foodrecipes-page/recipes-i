@@ -1,0 +1,97 @@
+{
+  "slug": "iced-galician-stilton-paella",
+  "title": "Galician Paella with Blue Cheese",
+  "description": "A twist on the classic Spanish dish, featuring the bold flavors of Galician chorizo and creamy Stilton cheese.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Galician chorizo",
+      "amount": "1 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Stilton cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "safron threads",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the sliced chorizo and cook until browned, about 2-3 minutes.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced tomato and cook for 2-3 minutes.",
+    "Add the paella rice, saffron threads, paprika, salt, and black pepper. Stir to combine.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pan from the heat and top with crumbled Stilton cheese.",
+    "Cover the pan with a lid and let it sit for 5 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "stilton",
+    "galician",
+    "chorizo"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iced-galician-stilton-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:10:27.427Z"
+}
