@@ -1,0 +1,104 @@
+{
+  "slug": "intense-savory-american-chicken-skillet",
+  "title": "Classic Chicken Skillet Dinner",
+  "description": "A hearty, one-skillet dinner made with tender chicken, savory vegetables, and a flavorful sauce.",
+  "cuisine": "american",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1-2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "any size"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 ounces",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat a large skillet over medium-high heat.",
+    "2. Season the chicken with salt and pepper.",
+    "3. Add the chicken to the skillet and cook until browned on both sides and cooked through.",
+    "4. Remove the chicken from the skillet and set aside.",
+    "5. Add the onion, mushrooms, and bell pepper to the skillet and cook until the vegetables are tender.",
+    "6. Add the garlic to the skillet and cook for 1 minute.",
+    "7. Sprinkle the flour over the vegetables and cook for 1 minute.",
+    "8. Gradually add the chicken broth to the skillet, whisking continuously.",
+    "9. Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 2-3 minutes.",
+    "10. Stir in the tomato paste and cook for 1 minute.",
+    "11. Return the chicken to the skillet and simmer in the sauce for 2-3 minutes.",
+    "12. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "skillet",
+    "american",
+    "dinner",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-savory-american-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:16:46.145Z"
+}
