@@ -181,18 +181,16 @@
   },
   {
     "slug": "iced-galician-stilton-paella",
-    "title": "Iced Galician Stilton Paella",
+    "title": "Galician Paella with Blue Cheese",
     "tags": [
-      "cold",
-      "galician",
-      "one-pot",
+      "spanish",
       "paella",
-      "pescatarian",
-      "quick",
-      "weeknight"
+      "stilton",
+      "galician",
+      "chorizo"
     ],
-    "cuisine": "Galician Spanish",
-    "totalTimeMin": 30,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -8509,17 +8507,16 @@
   },
   {
     "slug": "intense-savory-american-chicken-skillet",
-    "title": "Intense Savory American Chicken Skillet",
+    "title": "Classic Chicken Skillet Dinner",
     "tags": [
-      "american-classics",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "savory",
-      "weeknight"
+      "chicken",
+      "skillet",
+      "american",
+      "dinner",
+      "comfort food"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 40,
+    "cuisine": "american",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -13701,17 +13698,15 @@
   },
   {
     "slug": "intensely-smoky-peruvian-lamb-seco-de-cordero",
-    "title": "Intensely Smoky Peruvian Lamb Seco De Cordero",
+    "title": "Smokey Peruvian Cordero Seco",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "peruvian-cuisine",
-      "post-workout",
-      "smoked-meat",
-      "sugar-free"
+      "peruvian",
+      "lamb",
+      "stew",
+      "smoky"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 270,
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
