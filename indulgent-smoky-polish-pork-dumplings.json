@@ -1,0 +1,93 @@
+{
+  "slug": "indulgent-smoky-polish-pork-dumplings",
+  "title": "Smoky Polish Pork Dumplings",
+  "description": "A hearty and flavorful Polish-inspired dish featuring tender pork dumplings smothered in a rich smoky sauce. Great for a cold winter evening.",
+  "cuisine": "Polish",
+  "diet": [
+    " Omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "10-12 wrappers",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large mixing bowl, combine the flour, smoked paprika, salt, and black pepper.",
+    "3. Add the pork shoulder to the bowl and mix until just combined.",
+    "4. Divide the dough into 10-12 equal pieces.",
+    "5. Roll out each piece into a thin circle.",
+    "6. Place a tablespoon of the pork mixture in the center of each circle.",
+    "7. Fold the dough over the filling to form a half-moon shape, and press the edges together to seal the dumpling.",
+    "8. In a large skillet, cook the bacon over medium heat until crispy.",
+    "9. Remove the bacon from the skillet and set aside.",
+    "10. Add the onion and garlic to the skillet and cook until softened.",
+    "11. Add the pork dumplings to the skillet and cook until browned on both sides.",
+    "12. Transfer the dumplings to a baking dish and top with the bacon.",
+    "13. Bake the dumplings in the oven for 20-25 minutes, or until cooked through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "smoky",
+    "pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-smoky-polish-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:21:57.308Z"
+}
