@@ -12434,15 +12434,14 @@
     "slug": "intensely-rich-brazilian-chicken-fritters",
     "title": "Brazilian Chicken Fritters",
     "tags": [
-      "brazilian-cuisine",
       "chicken",
-      "deep-fried",
       "fritters",
-      "low-sodium",
-      "snack"
+      "brazilian",
+      "snack",
+      "appetizer"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 28,
     "shard": "i"
   },
   {
@@ -13666,17 +13665,15 @@
   },
   {
     "slug": "intensely-smoky-mediterranean-lamb-skewers",
-    "title": "Intensely Smoky Mediterranean Lamb Skewers",
+    "title": "Lamb Skewers with Mediterranean Flair",
     "tags": [
-      "grilled",
-      "high-protein",
       "lamb",
-      "mediterranean",
       "skewers",
-      "smoky"
+      "mediterranean",
+      "grilled"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 36,
     "shard": "i"
   },
   {
