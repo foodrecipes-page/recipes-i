@@ -2491,19 +2491,16 @@
   },
   {
     "slug": "indulgent-earthy-saudi-arabian-vanilla-tagine",
-    "title": "Indulgent Earthy Saudi-Arabian Vanilla Tagine",
+    "title": "Saudi Arabian Tagine Chicken",
     "tags": [
-      "comfort-food",
-      "dates",
-      "dessert",
-      "gluten-free",
-      "one-pot",
       "saudi-arabian",
-      "vanilla",
-      "vegan"
+      "tagine",
+      "indulgent",
+      "earthy",
+      "chicken"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 75,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 70,
     "shard": "i"
   },
   {
@@ -7051,16 +7048,14 @@
   },
   {
     "slug": "intense-fatty-dense-vietnamese-beef-com-tam",
-    "title": "Vietnamese Com Tam (Fatty, Dense Beef)",
+    "title": "Com Tam Sua Nuong",
     "tags": [
-      "beef",
-      "gluten-free",
-      "one-pan",
-      "romantic",
-      "weeknight"
+      "vietnamese",
+      "grilled-beef",
+      "street-food"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
