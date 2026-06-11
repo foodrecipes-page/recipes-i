@@ -1,0 +1,95 @@
+{
+  "slug": "intensely-smoky-peruvian-lamb-seco-de-cordero",
+  "title": "Smokey Peruvian Cordero Seco",
+  "description": "A hearty and flavorful Peruvian lamb stew cooked to perfection with smoky flavors.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "smoked"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Peruvian aji amarillo pepper",
+      "amount": "1-2 teaspoons",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb pieces until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add more oil if needed, then sauté the onion and garlic until softened.",
+    "Add the smoked paprika, cumin, coriander, aji amarillo pepper, salt, and black pepper. Cook for 1 minute.",
+    "Add the browned lamb back to the pot, along with any accumulated juices.",
+    "Add the red wine, if using, and bring the mixture to a simmer.",
+    "Transfer the pot to the oven and cook, covered, at 300°F (150°C) for 2-1/2 hours, or until the lamb is tender.",
+    "Serve hot, garnished with chopped fresh herbs, if desired.",
+    "Optional: serve with rice, potatoes, or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "lamb",
+    "stew",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:19:41.324Z"
+}
