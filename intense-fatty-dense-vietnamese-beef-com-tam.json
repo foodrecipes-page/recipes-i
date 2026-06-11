@@ -1,0 +1,89 @@
+{
+  "slug": "intense-fatty-dense-vietnamese-beef-com-tam",
+  "title": "Com Tam Sua Nuong",
+  "description": "A popular Vietnamese street food dish made with grilled beef, crispy rice, and a variety of toppings.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Grass-fed beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Com tam (crispy rice)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Intense fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fatty coconut water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tam huu",
+      "amount": "1 cup",
+      "notes": "fried crispy"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season the beef with salt and black pepper.",
+    "3. Grill the beef for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "4. Meanwhile, heat the coconut water in a saucepan over medium heat.",
+    "5. Add the fish sauce and bring to a simmer.",
+    "6. Stir in the chopped scallions.",
+    "7. To assemble the com tam, place a scoop of crispy rice on a plate, followed by a slice of grilled beef.",
+    "8. Spoon some of the fish sauce mixture over the beef, and top with a sprinkle of tam huu.",
+    "9. Serve immediately and garnish with lime wedges.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled-beef",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-fatty-dense-vietnamese-beef-com-tam",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:15:40.959Z"
+}
