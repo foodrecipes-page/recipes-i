@@ -863,18 +863,14 @@
   },
   {
     "slug": "icy-tangy-slovakian-shrimp-braised-fish",
-    "title": "Icy Tangy Slovakian Shrimp Braised-Fish",
+    "title": "Slovakian Shrimp Braised in White Wine",
     "tags": [
-      "brunch",
-      "easy-peasy",
-      "high-protein",
-      "low-calorie",
-      "one-pan",
-      "quick-weeknight",
-      "slovakian"
+      "slovakian",
+      "seafood",
+      "shrimp"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 27,
+    "cuisine": "slovakian",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -1233,14 +1229,13 @@
   },
   {
     "slug": "incredibly-energizing-american-chicken-skillet",
-    "title": "Incredibly Energizing American Chicken Skillet",
+    "title": "Energizing American Chicken Skillet",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "quick-meal",
-      "weeknight"
+      "american",
+      "chicken",
+      "skillet",
+      "easy-dinner",
+      "gluten-free"
     ],
     "cuisine": "American",
     "totalTimeMin": 35,
@@ -7349,16 +7344,15 @@
   },
   {
     "slug": "intense-indian-sloe-berries-pakora",
-    "title": "Intense Indian Sloe Berries Pakora",
+    "title": "Sloe Berry Pakora",
     "tags": [
-      "adventurous-eats",
-      "fodmap-friendly",
-      "indian-snacks",
-      "street-food",
-      "vegetarian-recipes"
+      "indian",
+      "dessert",
+      "fried",
+      "berries"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -11372,17 +11366,15 @@
   },
   {
     "slug": "intensely-garlicky-french-lentils-tarte-tatin",
-    "title": "Intensely Garlicky French Lentils Tarte Tatin",
+    "title": "French Lentil Tarte",
     "tags": [
-      "cozy-dinners",
-      "flexitarian-friendly",
-      "french-cuisine",
-      "garlic-lovers",
-      "lentil-recipes",
-      "one-pan-meals"
+      "french",
+      "lentil",
+      "tarte",
+      "dessert"
     ],
     "cuisine": "French",
-    "totalTimeMin": 75,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
