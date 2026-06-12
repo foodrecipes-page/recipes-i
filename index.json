@@ -8524,15 +8524,12 @@
     "slug": "intense-savory-argentinian-sausages-skewers",
     "title": "Argentinian Sausage Skewers",
     "tags": [
-      "festive",
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "savory",
-      "weeknight"
+      "sausages",
+      "skewers",
+      "argentinian"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "cuisine": "argentinian",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
