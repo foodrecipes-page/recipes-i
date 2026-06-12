@@ -8887,16 +8887,15 @@
   },
   {
     "slug": "intense-smoky-irish-treacle-grill",
-    "title": "Intense Smoky Irish Treacle Grill",
+    "title": "Irish Smoked BBQ Ribs",
     "tags": [
-      "date-night",
-      "grill",
       "irish",
-      "pescetarian",
-      "vegetarian"
+      "bbq",
+      "ribs",
+      "grill"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 220,
     "shard": "i"
   },
   {
@@ -15849,15 +15848,16 @@
   },
   {
     "slug": "iozy-emulsified-falafel-noodles-bowl",
-    "title": "Iozy Emulsified Falafel Noodles Bowl",
+    "title": "Falafel Noodle Bowl",
     "tags": [
-      "emulsified",
+      "quick",
+      "healthy",
+      "middle-eastern",
       "falafel",
-      "low-carb",
-      "monsoon"
+      "noodle-bowl"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 28,
+    "totalTimeMin": 18,
     "shard": "i"
   },
   {
