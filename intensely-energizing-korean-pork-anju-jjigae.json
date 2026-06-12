@@ -1,0 +1,84 @@
+{
+  "slug": "intensely-energizing-korean-pork-anju-jjigae",
+  "title": "Spicy Anju Jjigae",
+  "description": "A spicy Korean-inspired pork stew served with a side of rice, perfect for a cozy night in.",
+  "cuisine": "Korean",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Intensely energizing gochujang",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Energizing gochugaru (Korean chili flakes)",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Korean chili paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Anju sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pan over medium-high heat.",
+    "Add pork and cook until browned, about 5 minutes.",
+    "Add gochujang, gochugaru, and chili paste; cook for 1 minute.",
+    "Add Anju sauce, water, and soy sauce; bring to a boil.",
+    "Reduce heat to medium-low and simmer, covered, for 45 minutes.",
+    "Stir in chopped green onions and serve with rice.",
+    "Adjust seasoning to taste with gochujang and soy sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pork",
+    "stew",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-energizing-korean-pork-anju-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:29:52.877Z"
+}
