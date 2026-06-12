@@ -3959,17 +3959,15 @@
   },
   {
     "slug": "indulgent-moroccan-beef-bake",
-    "title": "Indulgent Moroccan Beef Bake",
+    "title": "Moroccan Beef Tagine",
     "tags": [
       "beef",
-      "comfort-food",
       "moroccan",
-      "one-pot",
-      "paleo",
-      "weeknight"
+      "tagine",
+      "indulgent"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
@@ -10894,17 +10892,15 @@
   },
   {
     "slug": "intensely-energizing-korean-pork-anju-jjigae",
-    "title": "Intensely Energizing Korean Pork Anju Jjigae",
+    "title": "Spicy Anju Jjigae",
     "tags": [
-      "anju",
-      "cocoa-powder",
-      "jjigae",
-      "korean-cuisine",
-      "pork-recipes",
-      "spicy-food"
+      "korean",
+      "pork",
+      "stew",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 60,
+    "totalTimeMin": 65,
     "shard": "i"
   },
   {
