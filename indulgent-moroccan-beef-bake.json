@@ -1,0 +1,97 @@
+{
+  "slug": "indulgent-moroccan-beef-bake",
+  "title": "Moroccan Beef Tagine",
+  "description": "A hearty and flavorful tagine that combines the richness of beef with the spices of Morocco. This dish is perfect for a cold winter night.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Short Ribs",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Prunes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the beef with salt, black pepper, cumin, cinnamon, and paprika.",
+    "Heat a large Dutch oven over medium-high heat. Sear the beef until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is softened, about 5 minutes.",
+    "Add the beef broth and prunes to the pot. Bring to a boil, then cover and transfer to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the beef is tender and the sauce has thickened.",
+    "Serve the beef and sauce over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "moroccan",
+    "tagine",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 22,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-moroccan-beef-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:21:11.829Z"
+}
