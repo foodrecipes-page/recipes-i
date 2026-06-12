@@ -1,0 +1,75 @@
+{
+  "slug": "intense-savory-argentinian-sausages-skewers",
+  "title": "Argentinian Sausage Skewers",
+  "description": "Grilled Argentinian-style sausage skewers, perfect for a summer BBQ. This dish is inspired by the traditional street food of Argentina and is made with juicy sausages, bell peppers, onions, and a hint of smoky flavor.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Argentinian sausages",
+      "amount": "500g",
+      "notes": "look for chorizo or morcilla for authentic flavor"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "any color, sliced into 1-inch pieces"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread sausages, bell peppers, and onions onto skewers, leaving a little space between each piece.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until sausages are cooked through and vegetables are tender.",
+    "Brush with chimichurri sauce during last minute of grilling.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sausages",
+    "skewers",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-savory-argentinian-sausages-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:54:35.933Z"
+}
