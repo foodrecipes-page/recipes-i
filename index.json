@@ -745,19 +745,16 @@
   },
   {
     "slug": "icy-serrano-mediterranean-ham-ramekin",
-    "title": "Icy Serrano Mediterranean Ham Ramekin",
+    "title": "Serrano and Ham Frittata",
     "tags": [
       "breakfast",
-      "brunch",
-      "easy-peasy",
-      "hangover-cure",
-      "mediterranean",
-      "one-dish",
-      "seafood-free",
-      "weeknight"
+      "eggs",
+      "ham",
+      "serrano",
+      "frittata"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 23,
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
