@@ -1,0 +1,71 @@
+{
+  "slug": "icy-serrano-mediterranean-ham-ramekin",
+  "title": "Serrano and Ham Frittata",
+  "description": "A simple and flavorful breakfast dish featuring serrano peppers and ham, perfect for a quick morning meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large eggs"
+    },
+    {
+      "name": "serrano",
+      "amount": "1",
+      "notes": "chopped serrano pepper"
+    },
+    {
+      "name": "ham",
+      "amount": "4 oz",
+      "notes": "sliced ham"
+    },
+    {
+      "name": "icy",
+      "amount": "1/2 cup",
+      "notes": "shredded icy cheese"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1 tsp",
+      "notes": "dried mediterranean seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Whisk together the eggs, salt, and mediterranean seasoning.",
+    "Heat a small skillet over medium heat and cook the chopped serrano pepper until softened.",
+    "Add the sliced ham to the skillet and cook until lightly browned.",
+    "Pour the whisked eggs over the ham and pepper mixture and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and sprinkle shredded icy cheese on top.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "eggs",
+    "ham",
+    "serrano",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 2,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-serrano-mediterranean-ham-ramekin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:52:02.561Z"
+}
