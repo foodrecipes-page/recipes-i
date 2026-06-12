@@ -1,0 +1,74 @@
+{
+  "slug": "iozy-emulsified-falafel-noodles-bowl",
+  "title": "Falafel Noodle Bowl",
+  "description": "A quick and flavorful bowl filled with crispy falafel, savory noodles, and refreshing iozy slaw.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Iozy",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Emulsified Vinaigrette",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Optional: Fresh Cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "While noodles cook, heat emulsified vinaigrette in a pan over medium heat.",
+    "Add falafel to the pan and cook for 2-3 minutes on each side, until crispy.",
+    "In a large bowl, combine cooked noodles, iozy, and falafel.",
+    "Drizzle with heated emulsified vinaigrette and season with salt and pepper to taste.",
+    "Garnish with chopped cilantro if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "healthy",
+    "middle-eastern",
+    "falafel",
+    "noodle-bowl"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iozy-emulsified-falafel-noodles-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:24:56.934Z"
+}
