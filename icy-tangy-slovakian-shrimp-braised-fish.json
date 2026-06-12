@@ -1,0 +1,78 @@
+{
+  "slug": "icy-tangy-slovakian-shrimp-braised-fish",
+  "title": "Slovakian Shrimp Braised in White Wine",
+  "description": "A flavorful Slovakian-inspired dish featuring succulent shrimp in a rich, white wine braising liquid.",
+  "cuisine": "slovakian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "tangy",
+      "amount": "2 tablespoons",
+      "notes": "white wine vinegar"
+    },
+    {
+      "name": "slovakian",
+      "amount": "1 tablespoon",
+      "notes": "Slovakian paprika"
+    },
+    {
+      "name": "icy",
+      "amount": "1 cup",
+      "notes": "ice-cold water"
+    },
+    {
+      "name": "braised",
+      "amount": "1/4 cup",
+      "notes": "white wine"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the white wine in a large skillet over medium heat.",
+    "Add the Slovakian paprika and cook for 1 minute.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the white wine vinegar, ice-cold water, salt, and pepper to the skillet.",
+    "Bring the liquid to a simmer and cook for 2-3 minutes, until slightly reduced.",
+    "Return the shrimp to the skillet and coat with the braising liquid.",
+    "Serve the shrimp hot, garnished with chopped fresh herbs if desired.",
+    "Serve with crusty bread or over egg noodles, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "seafood",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-tangy-slovakian-shrimp-braised-fish",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:42:08.392Z"
+}
