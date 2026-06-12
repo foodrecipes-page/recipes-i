@@ -1,0 +1,74 @@
+{
+  "slug": "intensely-garlicky-french-lentils-tarte-tatin",
+  "title": "French Lentil Tarte",
+  "description": "A twist on the classic French dessert, this tarte combines rich lentils with sweet, caramelized fruit.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "French lentils",
+      "amount": "1 cup, rinsed and drained"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup, finely chopped"
+    },
+    {
+      "name": "Intensely garlicky garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Tarte pastry",
+      "amount": "1 sheet, thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the tarte pastry and place in a 9-inch tart pan with a removable bottom.",
+    "In a large pan over medium heat, melt the butter and sauté the onion and garlic until softened.",
+    "Add the French lentils, brown sugar, apple cider vinegar, and salt. Cook for 5 minutes.",
+    "Transfer the lentil mixture to the prepared tarte pastry.",
+    "Bake for 25-30 minutes or until the pastry is golden brown.",
+    "Cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "lentil",
+    "tarte",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-garlicky-french-lentils-tarte-tatin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:45:36.812Z"
+}
