@@ -1,0 +1,93 @@
+{
+  "slug": "incredibly-energizing-american-chicken-skillet",
+  "title": "Energizing American Chicken Skillet",
+  "description": "A quick and flavorful skillet recipe featuring chicken, bell peppers, onions, and potatoes, all cooked to perfection in a zesty American-inspired sauce.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "Any color"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "Medium-sized, oven-safe"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt, pepper, and chili powder.",
+    "Heat the olive oil in the skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the chopped onion and diced potatoes to the skillet and cook for 5 minutes.",
+    "Add the bell peppers to the skillet and cook for an additional 2-3 minutes.",
+    "Return the chicken to the skillet and stir to combine with the vegetables.",
+    "Sprinkle the garlic powder over the top of the chicken and vegetables.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "chicken",
+    "skillet",
+    "easy-dinner",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-energizing-american-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:02:21.706Z"
+}
