@@ -1,0 +1,85 @@
+{
+  "slug": "incredibly-crispy-syrian-white-fish-bowl",
+  "title": "Crispy White Fish Bowl",
+  "description": "A simple and flavorful dish combining crispy white fish with a variety of ingredients. Perfect for a quick and easy meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White Fish Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Syrian Crispy Flatbread",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Incredibly Crispy Lettuce",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Bowl of Fresh Tomatoes",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the white fish fillets on the baking sheet.",
+    "Drizzle with olive oil and season with salt and pepper.",
+    "Bake for 8-10 minutes or until cooked through.",
+    "While the fish is cooking, toast the Syrian crispy flatbread.",
+    "Assemble the bowls by placing a piece of fish on each plate.",
+    "Top with incredibly crispy lettuce, a bowl of fresh tomatoes, and a sprinkle of chopped cilantro.",
+    "Drizzle with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "gluten-free",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-crispy-syrian-white-fish-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T11:51:02.563Z"
+}
