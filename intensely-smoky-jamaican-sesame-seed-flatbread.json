@@ -1,0 +1,99 @@
+{
+  "slug": "intensely-smoky-jamaican-sesame-seed-flatbread",
+  "title": "Smoky Jamaican Flatbread Tacos",
+  "description": "A twist on traditional tacos, using flatbread as the shell and filled with intensely smoky Jamaican jerk chicken.",
+  "cuisine": "caribbean",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Smoky Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seed flatbread",
+      "amount": "4-6 flatbreads",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican hot sauce",
+      "amount": "1-2 teaspoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. In a small bowl, mix together jerk seasoning and lime juice.",
+    "3. Add the chicken to the bowl and toss to coat.",
+    "4. Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "5. Meanwhile, toast the flatbreads by grilling or baking for 2-3 minutes.",
+    "6. Slice the red onion and cilantro.",
+    "7. Warm the flatbreads by wrapping them in foil and heating them in the oven for 2-3 minutes.",
+    "8. Assemble the tacos by placing a piece of chicken on each flatbread.",
+    "9. Top with red onion, cilantro, and a squeeze of lime juice.",
+    "10. Serve with Jamaican hot sauce on the side, if desired.",
+    "11. Garnish with sesame seeds, if desired.",
+    "12. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "caribbean",
+    "chicken",
+    "flatbread",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-jamaican-sesame-seed-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:25:56.233Z"
+}
