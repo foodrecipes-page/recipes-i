@@ -1,0 +1,58 @@
+{
+  "slug": "istiry-mustardy-mustard-greens",
+  "title": "Istiry Grilled Greens",
+  "description": "A simple and flavorful dish made by grilling greens with istiry and mustard for a delicious and healthy meal.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Istiry",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mustardy",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Mustard",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a bowl, whisk together istiry and mustardy.",
+    "Add the greens to the bowl and toss to coat with the istiry mixture.",
+    "Season with mustard to taste.",
+    "Grill the greens for 2-3 minutes per side, or until slightly charred.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "greens",
+    "healthy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/istiry-mustardy-mustard-greens",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:48:29.003Z"
+}
