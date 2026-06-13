@@ -1,0 +1,85 @@
+{
+  "slug": "intense-copper-peruvian-tofu-stew",
+  "title": "Peruvian Stew with Copper Potatoes",
+  "description": "A hearty and flavorful stew originating from Peru, made with copper potatoes, intense beef, and served with a side of steamed tofu.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Intense beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Copper potatoes",
+      "amount": "3 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Peruvian stew spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "steamed and served on the side"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the intense beef and cook until browned, about 5 minutes.",
+    "Add the onion, garlic, and red bell pepper; cook until the vegetables are tender.",
+    "Stir in the Peruvian stew spice blend and cumin; cook for 1 minute.",
+    "Add the copper potatoes, beef broth, and diced tomatoes.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve with steamed tofu on the side, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "stew",
+    "beef",
+    "potatoes",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-copper-peruvian-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T02:40:20.740Z"
+}
