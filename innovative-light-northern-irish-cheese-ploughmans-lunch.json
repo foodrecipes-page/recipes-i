@@ -1,0 +1,88 @@
+{
+  "slug": "innovative-light-northern-irish-cheese-ploughmans-lunch",
+  "title": "Irish Ploughman's Lunch",
+  "description": "A light and refreshing take on the traditional Irish ploughman's lunch, featuring a variety of cheeses and cured meats.",
+  "cuisine": "Irish",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ballycastle Smoked Cheese",
+      "amount": "1 block",
+      "notes": "Available at most Irish markets"
+    },
+    {
+      "name": "Cork Apple Cider Cheese",
+      "amount": "1 block",
+      "notes": "A mild and creamy cheese"
+    },
+    {
+      "name": "Cured Irish Ham",
+      "amount": "4 oz",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "2 cups",
+      "notes": "Choose from a variety of leafy greens"
+    },
+    {
+      "name": "Fresh Berries",
+      "amount": "1 cup",
+      "notes": "Strawberries, blueberries, or raspberries work well"
+    },
+    {
+      "name": "Cherry Chutney",
+      "amount": "2 tbsp",
+      "notes": "Available at most Irish markets"
+    },
+    {
+      "name": "Crusty Irish Bread",
+      "amount": "1 loaf",
+      "notes": "Perfect for dipping into the chutney"
+    },
+    {
+      "name": "Sliced Fresh Cucumber",
+      "amount": "1 cucumber",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Sliced Red Onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Slice the cured Irish ham into thin strips and bake for 5-7 minutes, or until crispy.",
+    "Slice the Ballycastle Smoked Cheese and Cork Apple Cider Cheese into thin slices.",
+    "Arrange the mixed greens on a large platter or individual plates.",
+    "Top the greens with sliced cheese, cured ham, and sliced red onion.",
+    "Garnish with fresh berries and drizzle with cherry chutney.",
+    "Serve with crusty Irish bread on the side for dipping into the chutney.",
+    "Garnish with sliced fresh cucumber and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "ploughmans",
+    "lunch",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-light-northern-irish-cheese-ploughmans-lunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:42:27.616Z"
+}
