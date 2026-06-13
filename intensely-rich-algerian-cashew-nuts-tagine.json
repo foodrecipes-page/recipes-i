@@ -1,0 +1,93 @@
+{
+  "slug": "intensely-rich-algerian-cashew-nuts-tagine",
+  "title": "Algerian Tagine Stew",
+  "description": "A hearty and flavorful North African stew made with rich spices and cashew nuts.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rich Tagine Spice Blend",
+      "amount": "2 tsp",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "Cashew Nuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Intensely Sweet Carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Rich Chicken Broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Algerian Apricots",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Algerian Olives",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Rich Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Rich Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Coriander Seeds",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the cumin seeds and coriander seeds and cook for 1 minute.",
+    "Add the chopped carrots and cook for 5 minutes.",
+    "Add the cashew nuts, chicken broth, apricots, olives, and tagine spice blend. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "tagine",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-rich-algerian-cashew-nuts-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:54:05.049Z"
+}
