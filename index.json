@@ -7687,17 +7687,14 @@
   },
   {
     "slug": "intense-malty-indian-scotch-bonnet-kheer",
-    "title": "Intense Malty Indian Scotch Bonnet Kheer",
+    "title": "Spicy Indian Kheer with Scotch Bonnet",
     "tags": [
-      "ayurvedic-friendly",
-      "double-rise-bread",
-      "indian-dessert",
-      "malty",
-      "scotch-bonnet",
-      "talavera-plate"
+      "indian",
+      "dessert",
+      "spicy"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -9316,16 +9313,16 @@
   },
   {
     "slug": "intense-springy-french-beef-bowl",
-    "title": "Intense Springy French Beef Bowl",
+    "title": "Beef Bourguignon in a French Beef Bowl",
     "tags": [
-      "beef-recipe",
-      "french-cuisine",
-      "low-fat",
-      "one-pan",
-      "weeknight"
+      "french",
+      "beef",
+      "stew",
+      "red-wine",
+      "hearty"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 180,
     "shard": "i"
   },
   {
