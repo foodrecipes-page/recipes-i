@@ -10069,17 +10069,15 @@
   },
   {
     "slug": "intensely-charred-korean-chestnut-mushroom-tang",
-    "title": "Intensely Charred Korean Chestnut Mushroom Tang",
+    "title": "Korean-Style Chestnut and Mushroom Stir Fry",
     "tags": [
-      "asian-inspired",
-      "keto-friendly",
-      "mushroom-based",
-      "one-pot",
-      "spicy",
-      "weeknight"
+      "korean",
+      "stir-fry",
+      "chestnut",
+      "mushroom"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 60,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -11632,16 +11630,15 @@
   },
   {
     "slug": "intensely-jammy-moroccan-paccheri-pasta-seffa",
-    "title": "Intensely Jammy Moroccan Paccheri Pasta Seffa",
+    "title": "Moroccan Saffron Pappardelle",
     "tags": [
       "moroccan",
-      "one-pan",
-      "spring",
-      "vegan",
-      "weeknight"
+      "pasta",
+      "saffron",
+      "vegetarian"
     ],
     "cuisine": "moroccan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -13542,18 +13539,16 @@
   },
   {
     "slug": "intensely-smoky-jamaican-sesame-seed-flatbread",
-    "title": "Intensely Smoky Jamaican Sesame Seed Flatbread",
+    "title": "Smoky Jamaican Flatbread Tacos",
     "tags": [
-      "bento-box",
-      "jamaican-inspired",
-      "long-fermentation",
-      "quick-fix",
-      "sesame-seeds",
-      "smoky-flavors",
-      "snack-ideas"
+      "tacos",
+      "caribbean",
+      "chicken",
+      "flatbread",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 30,
+    "cuisine": "caribbean",
+    "totalTimeMin": 27,
     "shard": "i"
   },
   {
