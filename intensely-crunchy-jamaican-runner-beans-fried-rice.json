@@ -1,0 +1,88 @@
+{
+  "slug": "intensely-crunchy-jamaican-runner-beans-fried-rice",
+  "title": "Jamaican Runner Beans with Fried Rice",
+  "description": "A flavorful and spicy Jamaican-inspired dish made with runner beans and fried rice.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "250g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "chopped, seeds removed"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fried rice",
+      "amount": "200g",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pan over medium heat.",
+    "Add chopped onion and cook until softened, about 3-4 minutes.",
+    "Add minced garlic and cook for another minute.",
+    "Add chopped scotch bonnet peppers and cook for 1-2 minutes.",
+    "Add runner beans, allspice, thyme, and salt. Stir to combine.",
+    "Cook for 5-7 minutes or until the runner beans are tender.",
+    "Serve over fried rice.",
+    "Garnish with chopped scotch bonnet peppers, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "runner-beans",
+    "fried-rice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-crunchy-jamaican-runner-beans-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:05:50.882Z"
+}
