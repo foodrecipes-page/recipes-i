@@ -1,0 +1,90 @@
+{
+  "slug": "intensely-jammy-moroccan-paccheri-pasta-seffa",
+  "title": "Moroccan Saffron Pappardelle",
+  "description": "A rich and aromatic pasta dish inspired by Moroccan cuisine, featuring seffa and paccheri pasta, intensely flavored sauce and a hint of saffron.",
+  "cuisine": "moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "8 oz",
+      "notes": "preferably seffa or other long, thin pasta"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 tsp",
+      "notes": "soaked in 2 tbsp hot water"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the paccheri pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 2 minutes.",
+    "Stir in the ground cumin and ground coriander and cook for 1 minute.",
+    "Add the soaked saffron threads and their liquid to the skillet and cook for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Drain the cooked pasta and add it to the skillet with the sauce.",
+    "Toss the pasta in the sauce and serve hot, garnished with additional saffron threads if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "pasta",
+    "saffron",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-jammy-moroccan-paccheri-pasta-seffa",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:27:56.625Z"
+}
