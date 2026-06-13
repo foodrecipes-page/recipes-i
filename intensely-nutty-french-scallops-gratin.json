@@ -1,0 +1,96 @@
+{
+  "slug": "intensely-nutty-french-scallops-gratin",
+  "title": "Scallop Gratins",
+  "description": "A classic French dish featuring seared scallops in a rich, nutty gratin sauce. This recipe serves four as a main course.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Scallops (12)",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated Gruyère",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the scallops with salt and pepper.",
+    "Heat 2 tablespoons of butter in a skillet over medium-high heat. Add the scallops and sear for 2-3 minutes per side, until golden brown.",
+    "Transfer the scallops to a baking dish and set aside.",
+    "In the same skillet, add the remaining 2 tablespoons of butter. Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the white wine to the skillet and cook until reduced by half, about 2-3 minutes.",
+    "Stir in the Gruyère and cook until melted and smooth.",
+    "Sprinkle the Panko breadcrumbs over the top of the scallops.",
+    "Pour the Gruyère sauce over the scallops and breadcrumbs.",
+    "Bake for 12-15 minutes, until the top is golden brown and the sauce is bubbly.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "seafood-recipe",
+    "gratin-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-nutty-french-scallops-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:28:21.795Z"
+}
