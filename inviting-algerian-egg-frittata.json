@@ -1,0 +1,57 @@
+{
+  "slug": "inviting-algerian-egg-frittata",
+  "title": "Algerian Frittata",
+  "description": "A traditional Algerian-inspired frittata recipe made with eggs and inviting spices.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "inviting",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "algerian",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Whisk the eggs, Algerian spice, and inviting spice in a bowl.",
+    "Heat a non-stick skillet over medium heat.",
+    "Add the egg mixture to the skillet and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Slide the frittata out of the skillet onto a plate and serve hot.",
+    "Cut the frittata into wedges and serve with your favorite sides."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "eggs",
+    "algerian-spices"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/inviting-algerian-egg-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:22:38.253Z"
+}
