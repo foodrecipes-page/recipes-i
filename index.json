@@ -397,17 +397,14 @@
   },
   {
     "slug": "icy-cold-norwegian-cheese-gratin",
-    "title": "Icy Cold Norwegian Cheese Gratin",
+    "title": "Norwegian Cheese Gratin",
     "tags": [
-      "cold-weather",
-      "easy-cheese",
       "norwegian",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "cheesy",
+      "comfort-food"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "cuisine": "norwegian",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -15692,16 +15689,14 @@
   },
   {
     "slug": "inviting-algerian-egg-frittata",
-    "title": "Inviting Algerian Egg Frittata",
+    "title": "Algerian Frittata",
     "tags": [
-      "floral",
-      "one-pan",
-      "paleo-friendly",
-      "pillowy",
-      "solo-dinner"
+      "breakfast",
+      "eggs",
+      "algerian-spices"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 18,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
