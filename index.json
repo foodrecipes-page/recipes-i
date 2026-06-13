@@ -5239,14 +5239,11 @@
   },
   {
     "slug": "indulgent-thai-mars-bar-bars",
-    "title": "Indulgent Thai Mars Bar Bars",
+    "title": "Thai Mars Bar Dessert",
     "tags": [
-      "thai",
-      "snack",
-      "diabetic-friendly",
-      "low-sugar",
-      "floral",
-      "mars-bar"
+      "thai-dessert",
+      "mars-bar",
+      "indulgent"
     ],
     "cuisine": "thai",
     "totalTimeMin": 20,
@@ -8775,17 +8772,15 @@
   },
   {
     "slug": "intense-smoky-argentinian-vegetable-spring-rolls",
-    "title": "Intense Smoky Argentinian Vegetable Spring Rolls",
+    "title": "Argentinian Spring Vegetable Rolls",
     "tags": [
       "argentinian",
-      "brunch",
-      "jain-friendly",
-      "smoky",
-      "spring-rolls",
-      "vegetarian"
+      "spring",
+      "vegetable",
+      "rolls"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -9278,18 +9273,15 @@
   },
   {
     "slug": "intense-spicy-tha-snapper-fish-curry",
-    "title": "intense spicy tha snapper fish curry",
+    "title": "Thai Snapper Curry",
     "tags": [
-      "fishcurry",
-      "highprotein",
-      "onepan",
-      "snapperfish",
-      "spicyfood",
-      "thaicurry",
-      "weeknight"
+      "tha",
+      "snapper",
+      "fish",
+      "curry"
     ],
-    "cuisine": "thai",
-    "totalTimeMin": 35,
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -10650,17 +10642,14 @@
   },
   {
     "slug": "intensely-crunchy-jamaican-runner-beans-fried-rice",
-    "title": "Intensely Crunchy Jamaican Runner Beans Fried Rice",
+    "title": "Jamaican Runner Beans with Fried Rice",
     "tags": [
-      "comal-cooking",
-      "gluten-free",
-      "herbal",
-      "jamaican-cuisine",
-      "low-carb",
-      "one-pan"
+      "jamaican",
+      "runner-beans",
+      "fried-rice"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
