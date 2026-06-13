@@ -1,0 +1,62 @@
+{
+  "slug": "indulgent-smoky-slovakian-cox-apple-grill",
+  "title": "Grilled Slovakian Apple",
+  "description": "A smoky twist on traditional Slovakian desserts, featuring caramelized apples grilled to perfection.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apple",
+      "amount": "1 large"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grill",
+      "amount": "1",
+      "notes": "preheated to medium-high heat"
+    }
+  ],
+  "instructions": [
+    "1. Peel, core, and slice the apple into wedges.",
+    "2. In a small bowl, mix together the sugar and cinnamon.",
+    "3. Brush the apple wedges with butter and then coat with the sugar mixture.",
+    "4. Preheat the grill to medium-high heat.",
+    "5. Place the apple wedges on the grill and cook for 2-3 minutes per side, or until caramelized.",
+    "6. Serve warm, topped with additional sugar and cinnamon if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "apple",
+    "slovakian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 0,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-smoky-slovakian-cox-apple-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:02:41.077Z"
+}
