@@ -1,0 +1,80 @@
+{
+  "slug": "icely-candy-like-thai-eggplant-pancake",
+  "title": "Thai Eggplant Stir Fry",
+  "description": "A flavorful and spicy stir fry made with eggplant, Thai red curry, and your choice of protein. Serve with steamed rice or noodles.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Like rice",
+      "amount": "2 cups",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Pancake mix",
+      "amount": "1/2 cup",
+      "notes": "used to make crispy fried eggplant"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "for balancing flavors"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced eggplant and cook until browned, about 3-4 minutes.",
+    "Add the Thai red curry paste and stir to combine. Cook for 1 minute.",
+    "Add the cooked rice to the skillet and stir to combine with the curry and eggplant.",
+    "Transfer the mixture to a serving platter.",
+    "To make the crispy fried eggplant, mix the pancake mix with a little water to form a batter.",
+    "Dip the sliced eggplant into the batter and fry in the remaining 1 tablespoon of vegetable oil until crispy.",
+    "Drain the fried eggplant on paper towels and sprinkle with salt.",
+    "Garnish with a sprinkle of sugar and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "vegetarian",
+    "eggplant"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icely-candy-like-thai-eggplant-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T00:15:04.851Z"
+}
