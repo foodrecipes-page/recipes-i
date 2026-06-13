@@ -1,0 +1,83 @@
+{
+  "slug": "intensely-smoky-croatian-pork-grill",
+  "title": "Smoked Pork Pljeskavica",
+  "description": "A twist on the classic Croatian dish, this smoky pork pljeskavica is perfect for a summer grill.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "Intensely smoky paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Croatian salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Grill seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bun for serving",
+      "amount": "4"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1"
+    },
+    {
+      "name": "Onion",
+      "amount": "1"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, mix together pork, smoky paprika, salt, black pepper, and grill seasoning.",
+    "Form into 4 patties.",
+    "Grill for 5-6 minutes per side, or until internal temperature reaches 63°C (145°F).",
+    "Let rest for 5 minutes before serving.",
+    "Serve on a bun with lettuce, tomato, onion, and mayonnaise."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "pork",
+    "croatian",
+    "smoky",
+    "summervibes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "20g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-croatian-pork-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:08:03.953Z"
+}
