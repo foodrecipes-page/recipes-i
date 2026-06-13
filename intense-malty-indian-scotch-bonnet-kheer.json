@@ -1,0 +1,83 @@
+{
+  "slug": "intense-malty-indian-scotch-bonnet-kheer",
+  "title": "Spicy Indian Kheer with Scotch Bonnet",
+  "description": "A creamy Indian dessert with a spicy kick from the Scotch Bonnet pepper. This unique fusion of flavors is sure to impress.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole"
+    },
+    {
+      "name": "kheer",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "seed removed, finely chopped"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "intense chocolate chips",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine the milk and rice in a medium saucepan and cook over medium heat, stirring constantly, until the rice is cooked and the mixture thickens.",
+    "Add the kheer, scotch bonnet pepper, cardamom, and sugar to the saucepan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until the flavors have melded together.",
+    "Remove the saucepan from the heat and stir in the butter until it is melted.",
+    "If using chocolate chips, stir them in at this point.",
+    "Pour the kheer mixture into individual serving cups or a large serving dish.",
+    "Refrigerate the kheer for at least 2 hours, or until chilled.",
+    "Serve the kheer cold, garnished with chopped nuts or a sprinkle of cardamom if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "dessert",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-malty-indian-scotch-bonnet-kheer",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:15:04.266Z"
+}
