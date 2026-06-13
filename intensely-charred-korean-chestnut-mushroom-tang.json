@@ -1,0 +1,80 @@
+{
+  "slug": "intensely-charred-korean-chestnut-mushroom-tang",
+  "title": "Korean-Style Chestnut and Mushroom Stir Fry",
+  "description": "A flavorful and savory stir fry made with chestnuts, mushrooms, and a hint of Korean spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 cup, peeled and sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "tang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Heat the sesame oil in a large skillet or wok over medium-high heat.",
+    "2. Add the garlic and cook for 1 minute, until fragrant.",
+    "3. Add the sliced chestnuts and cook for 3-4 minutes, until they start to brown.",
+    "4. Add the sliced mushrooms and cook for an additional 4-5 minutes, until they are tender.",
+    "5. In a small bowl, whisk together the tang, soy sauce, and brown sugar.",
+    "6. Pour the tang mixture over the chestnuts and mushrooms, and stir to combine.",
+    "7. Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "8. Stir in the chopped green onions and toasted sesame seeds.",
+    "9. Serve the stir fry hot, garnished with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "chestnut",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-charred-korean-chestnut-mushroom-tang",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:27:14.714Z"
+}
