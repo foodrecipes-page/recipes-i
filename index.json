@@ -4946,17 +4946,17 @@
   },
   {
     "slug": "indulgent-smoky-middle-eastern-egg-mansaf",
-    "title": "Indulgent Smoky Middle Eastern Egg Mansaf",
+    "title": "Mansaf with Smoky Egg and Eastern Flair",
     "tags": [
-      "cedar-plank",
+      "mansaf",
+      "smoky-egg",
       "middle-eastern",
-      "midnight-craving",
-      "ovo-vegetarian",
-      "silky",
-      "smoky"
+      "breakfast",
+      "lamb",
+      "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -11953,14 +11953,11 @@
   },
   {
     "slug": "intensely-nutty-french-scallops-gratin",
-    "title": "Intensely Nutty French Scallops Gratin",
+    "title": "Scallop Gratins",
     "tags": [
       "french-cuisine",
-      "gluten-free",
-      "paleo",
-      "seafood",
-      "special-occasion",
-      "whole30"
+      "seafood-recipe",
+      "gratin-sauce"
     ],
     "cuisine": "French",
     "totalTimeMin": 35,
@@ -12009,17 +12006,16 @@
   },
   {
     "slug": "intensely-nutty-korean-epoisses-guk",
-    "title": "Intensely Nutty Korean Epoisses Guk",
+    "title": "Guk's Nutty Korean-Style Epoisses Stuffed Mushrooms",
     "tags": [
-      "comfort-food",
-      "korean-cuisine",
-      "nutty",
-      "one-pot",
-      "plant-based",
-      "spicy"
+      "korean",
+      "mushrooms",
+      "epoisses",
+      "cheese",
+      "appetizer"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -12367,17 +12363,15 @@
   },
   {
     "slug": "intensely-rich-algerian-cashew-nuts-tagine",
-    "title": "Intensely Rich Algerian Cashew Nuts Tagine",
+    "title": "Algerian Tagine Stew",
     "tags": [
-      "algerian-cuisine",
-      "banana-leaf",
-      "gluten-free",
-      "mediterranean",
-      "pressure-cooker",
+      "algerian",
+      "tagine",
+      "stew",
       "vegetarian"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
