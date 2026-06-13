@@ -1,0 +1,80 @@
+{
+  "slug": "intensely-nutty-korean-epoisses-guk",
+  "title": "Guk's Nutty Korean-Style Epoisses Stuffed Mushrooms",
+  "description": "A unique twist on traditional stuffed mushrooms, featuring the bold flavors of Korean chili flakes and the creamy, pungent goodness of Epoisses cheese.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Intensely nutty mushrooms",
+      "amount": "12",
+      "notes": "such as shiitake"
+    },
+    {
+      "name": "Guk's Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "spicy"
+    },
+    {
+      "name": "Epoisses cheese",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Guanciale",
+      "amount": "4 slices",
+      "notes": "cured pork jowl"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Clean and prepare the mushrooms by removing stems and slicing off a small amount of the mushroom caps to create a flat surface.",
+    "In a pan over medium heat, cook the guanciale until crispy, then chop into small pieces.",
+    "In a bowl, mix together the softened Epoisses cheese, chopped cilantro, and cooked guanciale.",
+    "Stuff each mushroom cap with the Epoisses mixture, dividing it evenly among the mushrooms.",
+    "Sprinkle the Korean chili flakes over the filled mushrooms.",
+    "Top each mushroom with a sprinkle of breadcrumbs.",
+    "Bake the stuffed mushrooms in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "mushrooms",
+    "epoisses",
+    "cheese",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-nutty-korean-epoisses-guk",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:08:20.501Z"
+}
