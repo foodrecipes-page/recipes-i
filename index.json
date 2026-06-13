@@ -4975,17 +4975,15 @@
   },
   {
     "slug": "indulgent-smoky-slovakian-cox-apple-grill",
-    "title": "Indulgent Smoky Slovakian Cox-Apple Grill",
+    "title": "Grilled Slovakian Apple",
     "tags": [
-      "griddle",
-      "one-pan",
-      "smoky",
-      "sugar-free",
-      "vegan",
-      "weekend"
+      "grilled",
+      "apple",
+      "slovakian",
+      "dessert"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "i"
   },
   {
@@ -6677,17 +6675,16 @@
   },
   {
     "slug": "intense-copper-peruvian-tofu-stew",
-    "title": "Intense Copper Peruvian Tofu Stew",
+    "title": "Peruvian Stew with Copper Potatoes",
     "tags": [
-      "copper-pot",
-      "crowd-pleaser",
       "peruvian",
-      "sous-vide",
       "stew",
-      "vegan"
+      "beef",
+      "potatoes",
+      "tofu"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 95,
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
