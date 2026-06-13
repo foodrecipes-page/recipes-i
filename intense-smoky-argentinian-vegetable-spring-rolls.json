@@ -1,0 +1,90 @@
+{
+  "slug": "intense-smoky-argentinian-vegetable-spring-rolls",
+  "title": "Argentinian Spring Vegetable Rolls",
+  "description": "Delicious Argentinian-inspired vegetable rolls, perfect for a light and refreshing spring meal. These rolls are filled with flavorful and colorful vegetables.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spring Rolls Wrappers",
+      "amount": "1 package (20-25 wrappers)",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and grated",
+      "notes": ""
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Intense Smoky Sauce",
+      "amount": "1/4 cup",
+      "notes": "Can be substituted with sriracha or hot sauce"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large skillet or wok, heat the vegetable oil over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the sliced zucchini, grated carrots, and sliced red bell pepper. Cook until the vegetables are tender-crisp, about 4-5 minutes.",
+    "In a small bowl, whisk together the chopped cilantro, soy sauce, and intense smoky sauce.",
+    "Add the vegetable mixture to the bowl and toss to combine.",
+    "Lay a spring roll wrapper on a flat surface and place about 1/4 cup of the vegetable mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with water and fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Serve the spring rolls hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "spring",
+    "vegetable",
+    "rolls"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-argentinian-vegetable-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:10:46.671Z"
+}
