@@ -1,0 +1,76 @@
+{
+  "slug": "indulgent-thai-mars-bar-bars",
+  "title": "Thai Mars Bar Dessert",
+  "description": "A decadent Thai-inspired dessert made with Mars bars and indulgent ingredients. Perfect for a sweet treat.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars Bar",
+      "amount": "4",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "whipped"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Crush the Mars bars into small pieces.",
+    "In a medium saucepan, combine the heavy cream, coconut milk, Thai red curry paste, and granulated sugar.",
+    "Whisk the mixture over medium heat until the sugar dissolves and the mixture simmers.",
+    "Bring the mixture to a boil, then reduce the heat to low and let it simmer for 5 minutes.",
+    "Remove the saucepan from the heat and stir in the vanilla extract and crushed Mars bars.",
+    "Let the mixture cool to room temperature.",
+    "Chill the mixture in the refrigerator until it's cold and set.",
+    "Scoop the chilled mixture into individual serving cups or ramekins.",
+    "Serve the dessert chilled, garnished with a sprinkle of salt if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-dessert",
+    "mars-bar",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-thai-mars-bar-bars",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:07:20.399Z"
+}
