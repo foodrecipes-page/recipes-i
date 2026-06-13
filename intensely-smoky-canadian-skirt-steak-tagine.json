@@ -1,0 +1,98 @@
+{
+  "slug": "intensely-smoky-canadian-skirt-steak-tagine",
+  "title": "Smoky Skirt Steak Tagine",
+  "description": "A hearty Moroccan-inspired stew made with smoky Canadian skirt steak, served with a rich and aromatic sauce.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skirt steak (Canadian)",
+      "amount": "1.5 lbs",
+      "notes": "preferably smoky"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "or make your own"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried prunes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven or oven-safe pot, heat the olive oil over medium-high heat.",
+    "Sear the skirt steak until browned on both sides, about 2-3 minutes per side.",
+    "Remove the steak from the pot and set it aside.",
+    "Reduce heat to medium and add the onion and garlic to the pot. Cook until the onion is softened, about 5 minutes.",
+    "Add the tagine spice blend, prunes, chicken broth, and water to the pot. Stir to combine.",
+    "Return the skirt steak to the pot, making sure it's mostly submerged in the liquid.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the tagine for 2-3 hours, or until the meat is tender and falls apart easily.",
+    "Season with salt and black pepper to taste.",
+    "Serve the skirt steak with the rich and aromatic sauce spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stew",
+    "tagine",
+    "skirt steak",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-canadian-skirt-steak-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:52:38.516Z"
+}
