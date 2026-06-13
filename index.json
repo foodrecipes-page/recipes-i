@@ -311,14 +311,15 @@
   },
   {
     "slug": "icely-candy-like-thai-eggplant-pancake",
-    "title": "Icely-Candy-Like Thai Eggplant Pancake",
+    "title": "Thai Eggplant Stir Fry",
     "tags": [
-      "dessert",
-      "gluten-free",
-      "kid-friendly"
+      "thai",
+      "stir-fry",
+      "vegetarian",
+      "eggplant"
     ],
-    "cuisine": "Thai, Brazilian",
-    "totalTimeMin": 70,
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -13369,16 +13370,15 @@
   },
   {
     "slug": "intensely-smoky-canadian-skirt-steak-tagine",
-    "title": "Intensely Smoky Canadian Skirt Steak Tagine",
+    "title": "Smoky Skirt Steak Tagine",
     "tags": [
-      "brunch-ideas",
-      "canadian-cuisine",
-      "ceramic-cooking",
-      "diabetic-friendly",
-      "low-carb",
-      "smoky-flavors"
+      "moroccan",
+      "stew",
+      "tagine",
+      "skirt steak",
+      "beef"
     ],
-    "cuisine": "Canadian",
+    "cuisine": "Moroccan",
     "totalTimeMin": 150,
     "shard": "i"
   },
