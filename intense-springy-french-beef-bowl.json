@@ -1,0 +1,108 @@
+{
+  "slug": "intense-springy-french-beef-bowl",
+  "title": "Beef Bourguignon in a French Beef Bowl",
+  "description": "A hearty, French-inspired beef stew served in a large bowl, rich with flavors of red wine and herbs.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "500g",
+      "notes": "Chuck or round cut into 2-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "For thickening"
+    },
+    {
+      "name": "Red wine",
+      "amount": "250ml",
+      "notes": "Dry red wine, such as Burgundy"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "500ml",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Concentrated"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 sprigs",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Season the beef with salt and pepper.",
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add 1 tablespoon of oil and sear the beef in batches until browned, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the remaining 1 tablespoon of oil and sauté the onion, carrot, and celery until tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the flour and cook for 1 minute.",
+    "Add the red wine, beef broth, tomato paste, thyme, and parsley.",
+    "Return the beef to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the beef for 2 1/2 hours, or until tender.",
+    "Skim off excess fat and season with salt and pepper to taste.",
+    "Serve hot over crusty bread or in a large bowl."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "french",
+    "beef",
+    "stew",
+    "red-wine",
+    "hearty"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-springy-french-beef-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:12:28.727Z"
+}
