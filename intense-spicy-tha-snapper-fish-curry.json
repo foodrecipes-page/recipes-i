@@ -1,0 +1,90 @@
+{
+  "slug": "intense-spicy-tha-snapper-fish-curry",
+  "title": "Thai Snapper Curry",
+  "description": "A flavorful Thai-inspired curry made with snapper, fish sauce, and spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fillets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "tha basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add curry paste and cook for 1 minute.",
+    "Add fish sauce and cook for another minute.",
+    "Add coconut milk and bring to a simmer.",
+    "Add snapper fillets and cook for 3-4 minutes or until cooked through.",
+    "Stir in tha basil and chilies.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately.",
+    "Garnish with additional tha basil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "tha",
+    "snapper",
+    "fish",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-spicy-tha-snapper-fish-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:11:08.909Z"
+}
