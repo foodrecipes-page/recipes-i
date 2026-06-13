@@ -1,0 +1,78 @@
+{
+  "slug": "indulgent-smoky-middle-eastern-egg-mansaf",
+  "title": "Mansaf with Smoky Egg and Eastern Flair",
+  "description": "A twist on a classic dish, this mansaf recipe combines the rich flavors of the Middle East with the bold taste of smoky egg and indulgent spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mansaf (lamb's milk cheese)",
+      "amount": "1 cup",
+      "notes": "available at Middle Eastern markets"
+    },
+    {
+      "name": "Smoked Egg",
+      "amount": "2 eggs",
+      "notes": "smoked to perfection"
+    },
+    {
+      "name": "Middle Eastern Spices",
+      "amount": "2 tsp",
+      "notes": "including sumac, cumin, and cinnamon"
+    },
+    {
+      "name": "Indulgent Pine Nuts",
+      "amount": "1/4 cup",
+      "notes": "for added crunch and flavor"
+    },
+    {
+      "name": "Eastern-Style Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "infused with herbs and spices"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "season to perfection"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a bowl, mix together mansaf, smoked egg, middle eastern spices, and pine nuts.",
+    "3. Drizzle eastern-style olive oil over the mixture and toss to coat.",
+    "4. Season with salt and pepper to taste.",
+    "5. Transfer the mixture to a baking dish and bake for 20-25 minutes, or until heated through.",
+    "6. Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "mansaf",
+    "smoky-egg",
+    "middle-eastern",
+    "breakfast",
+    "lamb",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-smoky-middle-eastern-egg-mansaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:47:07.725Z"
+}
