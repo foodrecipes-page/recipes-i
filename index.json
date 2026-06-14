@@ -6378,16 +6378,15 @@
   },
   {
     "slug": "intense-bitter-turkish-leaf-icli-kofte",
-    "title": "Intense Bitter Turkish Leaf Icli Kofte",
+    "title": "Turkish Icli Kofte Recipe",
     "tags": [
-      "bento-box",
-      "bouncy-qq",
-      "brunch-mood",
-      "nut-free",
-      "turkish"
+      "turkish",
+      "meatballs",
+      "snack",
+      "icli-paste"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -6951,16 +6950,15 @@
   },
   {
     "slug": "intense-egyptian-yuzu-gratin-raclette",
-    "title": "Intense Egyptian Yuzu Gratin Raclette",
+    "title": "Yuzu and Raclette Gratin",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "yuzu",
+      "raclette",
+      "gratin",
+      "side-dish"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 30,
+    "cuisine": "French",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -11080,15 +11078,13 @@
     "slug": "intensely-flavored-irish-fish-skewers",
     "title": "Intensely Flavored Irish Fish Skewers",
     "tags": [
-      "banana-leaf",
-      "grilled",
-      "irish-cuisine",
-      "pescatarian",
-      "seafood",
-      "special-occasion"
+      "irish",
+      "fish",
+      "skewers",
+      "grilled"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -13046,16 +13042,15 @@
   },
   {
     "slug": "intensely-savory-norwegian-herring-fried-rice",
-    "title": "Intensely Savory Norwegian Herring Fried Rice",
+    "title": "Pan-Seared Herring with Savory Rice",
     "tags": [
-      "lazy-sunday",
-      "low-sodium",
-      "norwegian-cuisine",
-      "one-pan",
-      "savory-dish"
+      "herring",
+      "savory",
+      "rice",
+      "pan-seared"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "i"
   },
   {
