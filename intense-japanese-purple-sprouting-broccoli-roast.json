@@ -1,0 +1,88 @@
+{
+  "slug": "intense-japanese-purple-sprouting-broccoli-roast",
+  "title": "Roasted Broccoli with Sprouting and Intense Sauce",
+  "description": "A Japanese-inspired side dish featuring roasted broccoli, sprouting broccoli, and a savory sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "2 large heads",
+      "notes": "1 head for roasting, 1 head for sprouting"
+    },
+    {
+      "name": "sprouting broccoli",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "roast broccoli",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "intense sauce",
+      "amount": "1/4 cup",
+      "notes": "see instructions for recipe"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for intense sauce"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "for intense sauce"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated for intense sauce"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced for intense sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss broccoli with 1 tablespoon olive oil, salt, and pepper on a baking sheet. Roast for 15-20 minutes or until tender.",
+    "In a blender or food processor, combine intense sauce ingredients and blend until smooth.",
+    "In a pan, heat 1 tablespoon olive oil over medium heat. Add sprouting broccoli and cook for 2-3 minutes or until tender.",
+    "Stir in intense sauce and cook for an additional 1-2 minutes.",
+    "To serve, place roasted broccoli on a plate and top with sprouting broccoli and intense sauce.",
+    "Garnish with roast broccoli and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broccoli",
+    "japanese",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-japanese-purple-sprouting-broccoli-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:35:51.241Z"
+}
