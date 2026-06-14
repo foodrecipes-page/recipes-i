@@ -1,0 +1,83 @@
+{
+  "slug": "inviting-earthy-norwegian-rye-fritters",
+  "title": "Norwegian Rye Fritters",
+  "description": "A traditional Norwegian recipe adapted to make crispy rye fritters with inviting flavors.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye flour",
+      "amount": "1 cup",
+      "notes": "preferably stone-ground"
+    },
+    {
+      "name": "Earthly carrots",
+      "amount": "2 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "Inviting buttermilk",
+      "amount": "3/4 cup",
+      "notes": "or regular milk"
+    },
+    {
+      "name": "Norwegian butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Fritter mix-ins",
+      "amount": "1/2 cup",
+      "notes": "such as chopped onions, chopped fresh parsley, or crumbled feta cheese"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the rye flour, grated carrots, salt, and black pepper.",
+    "Add the buttermilk, egg, and crumbled fritter mix-ins to the bowl. Mix until a smooth batter forms.",
+    "Heat about 1/2 inch of norwegian butter in a large skillet over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the hot skillet.",
+    "Fry the fritters for about 4 minutes on each side, until they are golden brown and crispy.",
+    "Using a slotted spoon, remove the fritters from the skillet and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters warm, with your favorite dipping sauce or aioli.",
+    "Store leftover fritters in an airtight container in the fridge for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "rye",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/inviting-earthy-norwegian-rye-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:48:19.207Z"
+}
