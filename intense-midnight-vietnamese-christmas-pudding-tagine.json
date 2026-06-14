@@ -1,0 +1,82 @@
+{
+  "slug": "intense-midnight-vietnamese-christmas-pudding-tagine",
+  "title": "Vietnamese Midnight Pudding Tagine",
+  "description": "A unique dessert tagine inspired by Vietnamese flavors and midnight sky colors, made with pudding and intense flavors.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pudding mix",
+      "amount": "1 box"
+    },
+    {
+      "name": "Vietnamese coffee",
+      "amount": "2 tablespoons",
+      "notes": "strong brew"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Intense dark chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Midnight blue food coloring",
+      "amount": "a few drops"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine pudding mix, coffee, vanilla extract, and coconut milk in a saucepan.",
+    "Whisk until smooth and cook over medium heat, stirring constantly.",
+    "Add chocolate chips and stir until melted.",
+    "Remove from heat and stir in food coloring until desired color is achieved.",
+    "Pour into individual serving cups.",
+    "Top with sesame seeds and sugar.",
+    "Refrigerate until chilled.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "dessert",
+    "pudding",
+    "tagine",
+    "midnight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-midnight-vietnamese-christmas-pudding-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:01:02.419Z"
+}
