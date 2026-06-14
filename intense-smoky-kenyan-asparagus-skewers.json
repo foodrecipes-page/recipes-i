@@ -1,0 +1,72 @@
+{
+  "slug": "intense-smoky-kenyan-asparagus-skewers",
+  "title": "Grilled Kenyan Asparagus Skewers",
+  "description": "A simple and flavorful dish from Kenya, featuring smoky grilled asparagus on skewers, seasoned with intense flavor.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at most African markets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F). Thread asparagus onto skewers.",
+    "In a small bowl, whisk together olive oil, lemon juice, salt, and pepper.",
+    "Brush the Kenyan spice blend onto the asparagus.",
+    "Grill the asparagus for 8-10 minutes, turning occasionally, until tender and slightly charred.",
+    "Serve immediately, garnished with additional Kenyan spice blend if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "asparagus",
+    "kenyan",
+    "skewers",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-kenyan-asparagus-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:04:02.621Z"
+}
