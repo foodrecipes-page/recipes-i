@@ -2278,17 +2278,15 @@
   },
   {
     "slug": "indulgent-crispy-dutch-chicken-tagine",
-    "title": "Indulgent Crispy Dutch Chicken Tagine",
+    "title": "Crispy Chicken Tagine",
     "tags": [
-      "crispy",
-      "dutch",
-      "low-carb",
-      "monsoon",
-      "stovetop-oven",
-      "tagine"
+      "chicken",
+      "tagine",
+      "north-african",
+      "couscous"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -9308,13 +9306,13 @@
   },
   {
     "slug": "intense-sweet-brazilian-banana-pudding",
-    "title": "Intense Sweet Brazilian Banana Pudding",
+    "title": "Brazilian Banana Pudding",
     "tags": [
-      "brazilian-desserts",
-      "comfort-food",
-      "easy-desserts",
-      "no-bake",
-      "sweet-treats"
+      "banana",
+      "pudding",
+      "dessert",
+      "sweet",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 25,
@@ -10023,17 +10021,16 @@
   },
   {
     "slug": "intensely-charred-american-chestnut-mushroom-casserole",
-    "title": "Intensely Charred American Chestnut Mushroom Casserole",
+    "title": "American Chestnut Casserole",
     "tags": [
-      "comfort-food",
-      "fall-recipes",
-      "mushroom-lovers",
-      "one-pan",
-      "weeknight",
-      "winter-recipes"
+      "american",
+      "chestnut",
+      "casserole",
+      "mushroom",
+      "comfort-food"
     ],
     "cuisine": "American",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
