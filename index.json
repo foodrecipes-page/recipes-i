@@ -7847,17 +7847,14 @@
   },
   {
     "slug": "intense-molten-russian-passion-fruit-skewers",
-    "title": "Intense Molten Russian Passion Fruit Skewers",
+    "title": "Russian Fruit Kebabs",
     "tags": [
-      "fruit-based",
-      "grilled",
-      "russian-inspired",
-      "summer-dessert",
-      "sweet-and-savory",
-      "vegetarian-friendly"
+      "kebabs",
+      "fruit",
+      "russian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -12651,16 +12648,15 @@
   },
   {
     "slug": "intensely-roasted-malaysian-tomato-curry",
-    "title": "Intensely Roasted Malaysian Tomato Curry",
+    "title": "Roasted Malaysian Chicken Curry",
     "tags": [
-      "malaysian-cuisine",
-      "one-pot",
-      "plant-based",
-      "romantic-dinner",
-      "weeknight"
+      "curry",
+      "chicken",
+      "malaysian",
+      "roasted"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -13830,16 +13826,16 @@
   },
   {
     "slug": "intensely-spiced-tunisian-jerk-meats-tagine",
-    "title": "intensely spiced tunisian jerk meats tagine",
+    "title": "Jerk Tagine Chicken",
     "tags": [
-      "high-protein",
-      "jerk",
-      "one-pan",
-      "tunisian",
-      "weeknight"
+      "caribbean",
+      "north-african",
+      "chicken",
+      "tagine",
+      "gluten-free"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
