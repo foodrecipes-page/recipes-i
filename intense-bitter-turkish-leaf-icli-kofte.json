@@ -1,0 +1,79 @@
+{
+  "slug": "intense-bitter-turkish-leaf-icli-kofte",
+  "title": "Turkish Icli Kofte Recipe",
+  "description": "A traditional Turkish recipe featuring spicy kofte meatballs served in a flavorful leaf wrapped basket, filled with bitter icli paste.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Bitter Icli Paste",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Turkish Leaf",
+      "amount": "4-6 leaves",
+      "notes": "fresh parsley or collard green"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying kofte"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for extra flavor"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1/2 cup",
+      "notes": "optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large bowl, combine ground beef, bitter icli paste, salt, black pepper, and paprika. Mix well with your hands until just combined.",
+    "3. Using your hands, shape the mixture into small meatballs, about 1 1/2 inches in diameter. You should end up with around 20-25 kofte.",
+    "4. Heat 1 tablespoon of olive oil in a large skillet over medium-high heat. When the oil is hot, add a few kofte to the skillet (do not overcrowd). Fry the kofte until browned on all sides, about 5-7 minutes. Remove the kofte from the skillet and place on a baking sheet lined with parchment paper.",
+    "5. Repeat the frying process with the remaining kofte.",
+    "6. Place the baking sheet with the kofte in the oven and bake for 10-12 minutes, or until cooked through.",
+    "7. While the kofte are baking, prepare the leaf wraps. Choose 4-6 fresh leaves and wash them under cold water. Pat dry with a paper towel.",
+    "8. To assemble the kofte, place a few kofte in the center of each leaf wrap. Drizzle with the remaining 1 tablespoon of olive oil.",
+    "9. Fold the stem end of the leaf over the kofte, then fold in the sides and roll the leaf into a neat package.",
+    "10. Serve immediately, garnished with additional bitter icli paste if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "meatballs",
+    "snack",
+    "icli-paste"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-bitter-turkish-leaf-icli-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:22:23.294Z"
+}
