@@ -1,0 +1,78 @@
+{
+  "slug": "intensely-smoky-russian-beef-kebabs",
+  "title": "Smoky Russian-Style Beef Kebabs",
+  "description": "A hearty and flavorful dish featuring smoky beef kebabs cooked to perfection. Serve with a side of crusty bread and a green salad for a satisfying meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef skewers (1 pound)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 teaspoons",
+      "notes": "Available at most spice stores or online"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing kebabs"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Thread beef onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together smoky paprika, garlic powder, black pepper, and salt (if using).",
+    "Brush olive oil onto kebabs and sprinkle with spice mixture.",
+    "Grill kebabs for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Remove from heat and let rest for 2-3 minutes before serving.",
+    "Serve with lemon wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "beef",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-russian-beef-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:51:19.421Z"
+}
