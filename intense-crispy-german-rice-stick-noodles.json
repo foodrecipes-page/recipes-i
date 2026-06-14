@@ -1,0 +1,59 @@
+{
+  "slug": "intense-crispy-german-rice-stick-noodles",
+  "title": "Crispy Stick Noodle Salad",
+  "description": "A refreshing German-inspired salad with the crunch of crispy sticks and the flavor of intense sauce.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "200g",
+      "notes": "cooked"
+    },
+    {
+      "name": "stick noodles",
+      "amount": "150g",
+      "notes": "cooked"
+    },
+    {
+      "name": "intense sauce",
+      "amount": "120ml",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "crispy sticks",
+      "amount": "100g",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Cook the rice and noodles according to package instructions.",
+    "Chill the cooked rice and noodles in the refrigerator for at least 30 minutes.",
+    "In a large bowl, combine the chilled rice and noodles.",
+    "Pour the intense sauce over the rice and noodles and toss to combine.",
+    "Add the crispy sticks on top of the salad and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "german",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-crispy-german-rice-stick-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:23:29.389Z"
+}
