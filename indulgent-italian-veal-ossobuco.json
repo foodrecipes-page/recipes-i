@@ -1,0 +1,103 @@
+{
+  "slug": "indulgent-italian-veal-ossobuco",
+  "title": "Braised Ossobuco with Gremolata",
+  "description": "An Italian classic dish made by braising veal shanks in white wine and broth, served with a tangy gremolata sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal shanks",
+      "amount": "4",
+      "notes": "about 1 1/2 pounds"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gremolata ingredients: lemon zest, parsley, garlic",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the veal shanks with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the veal shanks until browned on all sides, about 5 minutes.",
+    "Remove the veal from the pot and set aside.",
+    "Add the chopped onion, carrots, and celery to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the white wine to the pot and cook until the liquid is almost completely reduced, scraping up any browned bits from the bottom of the pot.",
+    "Add the chicken broth, tomato paste, and beef broth to the pot and stir to combine.",
+    "Return the veal shanks to the pot and bring the liquid to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Braise the veal for 2-1/2 to 3 hours, or until the meat is tender and falls off the bone.",
+    "Meanwhile, prepare the gremolata by combining the lemon zest, parsley, and garlic in a small bowl.",
+    "Serve the veal shanks with the gremolata spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "italian",
+    "braised",
+    "ossobuco",
+    "veal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-italian-veal-ossobuco",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:50:34.658Z"
+}
