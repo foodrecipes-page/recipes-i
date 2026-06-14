@@ -1,0 +1,65 @@
+{
+  "slug": "intense-molten-russian-passion-fruit-skewers",
+  "title": "Russian Fruit Kebabs",
+  "description": "Sweet and tangy fruit kebabs with a hint of Russian passion, perfect for a quick dessert or snack.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dessert/snack",
+  "ingredients": [
+    {
+      "name": "Passion Fruit",
+      "amount": "1 cup, cut into 1-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "Intense Cherries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Molten Pineapple",
+      "amount": "1 cup, chunks",
+      "notes": "Canned or fresh"
+    },
+    {
+      "name": "Russian Apples",
+      "amount": "2 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Fruit Skewers",
+      "amount": "20-25 skewers",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Thread fruit onto skewers, leaving a small space between each piece.",
+    "Brush both sides of fruit with a little honey, if using.",
+    "Grill fruit for 2-3 minutes per side, or until slightly caramelized.",
+    "Serve warm, garnished with fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "kebabs",
+    "fruit",
+    "russian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-molten-russian-passion-fruit-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T05:48:18.693Z"
+}
