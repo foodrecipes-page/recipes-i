@@ -1,0 +1,89 @@
+{
+  "slug": "indulgent-cream-mediterranean-yeast-paella",
+  "title": "Creamy Paella",
+  "description": "A rich and indulgent twist on the classic Spanish dish, featuring a creamy sauce and a mediterranean twist.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "preferably calasparra rice"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "chicken broth can be used as a substitute"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "a good quality, extra virgin oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chopped onion and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the artichoke hearts, sun-dried tomatoes, and rice. Stir to combine, then cook for 1-2 minutes.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Stir in the heavy cream. Cook for an additional 2-3 minutes, until heated through.",
+    "Remove from heat and let rest for 5 minutes before serving.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "paella",
+    "indulgent",
+    "cream"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-cream-mediterranean-yeast-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:35:00.810Z"
+}
