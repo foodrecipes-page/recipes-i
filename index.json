@@ -6353,17 +6353,15 @@
   },
   {
     "slug": "intense-bitter-jamaican-sirloin-steak-tips-kebabs",
-    "title": "Intense Bitter Jamaican Sirloin Steak Tips Kebabs",
+    "title": "Jamaican Steak Kebabs",
     "tags": [
-      "bitter-foods",
-      "crowd-pleaser",
-      "grilled-meat",
-      "jamaican-cuisine",
-      "plant-based",
-      "weeknight-dinner"
+      "jamaican",
+      "steak",
+      "kebabs",
+      "grill"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "jamaican",
+    "totalTimeMin": 38,
     "shard": "i"
   },
   {
@@ -7785,14 +7783,16 @@
   },
   {
     "slug": "intense-midnight-vietnamese-christmas-pudding-tagine",
-    "title": "Intense Midnight Vietnamese Christmas Pudding Tagine",
+    "title": "Vietnamese Midnight Pudding Tagine",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "vietnamese",
+      "dessert",
+      "pudding",
+      "tagine",
+      "midnight"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 120,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -8899,18 +8899,16 @@
   },
   {
     "slug": "intense-smoky-kenyan-asparagus-skewers",
-    "title": "Intense Smoky Kenyan Asparagus Skewers",
+    "title": "Grilled Kenyan Asparagus Skewers",
     "tags": [
-      "asparagus-recipes",
-      "brunch-ideas",
-      "gluten-free",
-      "kenyan-cuisine",
-      "keto-friendly",
-      "low-carb",
-      "smoky"
+      "grilled",
+      "asparagus",
+      "kenyan",
+      "skewers",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 27,
+    "cuisine": "kenyan",
+    "totalTimeMin": 18,
     "shard": "i"
   },
   {
