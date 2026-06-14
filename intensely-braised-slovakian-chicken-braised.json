@@ -1,0 +1,97 @@
+{
+  "slug": "intensely-braised-slovakian-chicken-braised",
+  "title": "Slovakian Braised Chicken",
+  "description": "A hearty and flavorful Slovakian-inspired dish featuring tender braised chicken in a rich sauce. Serve with your choice of egg noodles or potatoes for a filling meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the chicken with caraway seeds, paprika, salt, and black pepper.",
+    "Heat the butter in a large Dutch oven over medium-high heat. Sear the chicken until browned, about 5 minutes per side.",
+    "Remove the chicken from the pot and set it aside.",
+    "Reduce the heat to medium and add the onion to the pot. Cook until the onion is softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Sprinkle the flour over the onion mixture and cook for 1-2 minutes.",
+    "Gradually add the beer to the pot, whisking constantly to avoid lumps.",
+    "Return the chicken to the pot and bring the sauce to a simmer.",
+    "Cover the pot and transfer it to the oven. Braise the chicken for 25-30 minutes, or until it is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the chicken with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "braised",
+    "chicken",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-braised-slovakian-chicken-braised",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:36:12.930Z"
+}
