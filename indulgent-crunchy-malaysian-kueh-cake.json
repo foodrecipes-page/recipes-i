@@ -1,0 +1,82 @@
+{
+  "slug": "indulgent-crunchy-malaysian-kueh-cake",
+  "title": "Kueh Lapis (Indulgent Malaysian Layer Cake)",
+  "description": "A traditional Malaysian dessert, Kueh Lapis is a rich and moist sponge cake made with layers of butter and sugar, perfect for any occasion.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": "scalded"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "indulgent chocolate shavings",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C) and grease two 9-inch (23cm) round cake pans.",
+    "Sift the flour and baking powder into a medium bowl and set aside.",
+    "In a large mixing bowl, beat the butter and sugar until light and fluffy.",
+    "Beat in the eggs one at a time, followed by the scalded milk.",
+    "Gradually add the sifted flour mixture and mix until just combined.",
+    "Divide the batter evenly between the prepared pans and smooth the tops.",
+    "Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pans for 5 minutes before transferring to a wire rack to cool completely.",
+    "Once the cakes are completely cool, you can assemble the Kueh Lapis by placing one cake layer on top of the other and garnishing with indulgent chocolate shavings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "cake",
+    "layer-cake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-crunchy-malaysian-kueh-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:28:12.102Z"
+}
