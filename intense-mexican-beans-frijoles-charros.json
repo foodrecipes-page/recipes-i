@@ -1,0 +1,78 @@
+{
+  "slug": "intense-mexican-beans-frijoles-charros",
+  "title": "Charros Beans",
+  "description": "A classic Mexican side dish, made with charros beans, onions, garlic, and spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "charros beans",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and garlic; cook, stirring occasionally, until softened, about 5 minutes.",
+    "Stir in oregano, cumin, salt, pepper, and chili powder.",
+    "Add charros beans and water; bring to a boil.",
+    "Reduce heat to low; simmer, covered, until beans are tender, about 20 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "beans",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-mexican-beans-frijoles-charros",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:46:26.958Z"
+}
