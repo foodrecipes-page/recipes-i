@@ -3085,16 +3085,15 @@
   },
   {
     "slug": "indulgent-icy-vietnamese-ackee-bun-bo-hue",
-    "title": "Indulgent Icy Vietnamese Ackee Bun Bo Hue",
+    "title": "Bo Bun Hue with Grilled Ackee",
     "tags": [
-      "cold-weather",
-      "egg-free",
-      "gluten-free",
-      "one-pot",
-      "weeknight"
+      "vietnamese",
+      "noodle-soup",
+      "grilled-ackee",
+      "bo-bun-hue"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -5790,17 +5789,15 @@
   },
   {
     "slug": "innovative-intense-peruvian-black-beans-picarones",
-    "title": "Innovative Intense Peruvian Black Beans Picarones",
+    "title": "Picarones con Miel de Chancaca",
     "tags": [
-      "black-beans",
-      "diabetic-friendly",
-      "fried-dough",
-      "gluten-free",
-      "peruvian-cuisine",
-      "sweet-potato"
+      "peruvian",
+      "sweet-potatoes",
+      "honey",
+      "fried-dough"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -14077,16 +14074,15 @@
   },
   {
     "slug": "intensely-sweet-argentinian-rhubarb-empanadas",
-    "title": "Intensely Sweet Argentinian Rhubarb Empanadas",
+    "title": "Sweet Empanadas with Rhubarb Filling",
     "tags": [
-      "argentinian-desserts",
-      "empanada-recipes",
-      "kosher-friendly",
-      "rhubarb-recipes",
-      "sweet-pastry"
+      "empanadas",
+      "rhubarb",
+      "sweet",
+      "argentinian"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
