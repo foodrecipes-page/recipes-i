@@ -1,0 +1,70 @@
+{
+  "slug": "intensely-sweet-argentinian-rhubarb-empanadas",
+  "title": "Sweet Empanadas with Rhubarb Filling",
+  "description": "A twist on traditional Argentine empanadas with a sweet and tangy rhubarb filling.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet Empanada Dough",
+      "amount": "2 cups",
+      "notes": "homemade"
+    },
+    {
+      "name": "Rhubarb",
+      "amount": "1 1/2 cups, chopped",
+      "notes": "fresh"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Egg",
+      "amount": "1, beaten",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a bowl, mix together chopped rhubarb and sugar.",
+    "Place a tablespoon of rhubarb mixture in the center of each dough circle.",
+    "Fold the dough in half over the filling and press edges to seal.",
+    "Brush tops with beaten egg for a golden glaze.",
+    "Place empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "rhubarb",
+    "sweet",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-sweet-argentinian-rhubarb-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:39:34.632Z"
+}
