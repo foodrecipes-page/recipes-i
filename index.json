@@ -2363,18 +2363,15 @@
   },
   {
     "slug": "indulgent-crunchy-malaysian-kueh-cake",
-    "title": "Indulgent Crunchy Malaysian Kueh Cake",
+    "title": "Kueh Lapis (Indulgent Malaysian Layer Cake)",
     "tags": [
-      "dessert",
-      "indulgent",
-      "kueh",
-      "malaysian-cake",
-      "party-favor",
-      "sugar-free",
-      "weeknight"
+      "malaysian",
+      "cake",
+      "layer-cake",
+      "dessert"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 65,
+    "cuisine": "malaysian",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
