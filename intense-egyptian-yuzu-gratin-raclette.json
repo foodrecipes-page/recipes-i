@@ -1,0 +1,73 @@
+{
+  "slug": "intense-egyptian-yuzu-gratin-raclette",
+  "title": "Yuzu and Raclette Gratin",
+  "description": "A unique and flavorful side dish that combines the richness of raclette with the brightness of yuzu. Perfect for accompanying roasted meats or as a vegetarian option.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Raclette cheese",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Gratin potatoes",
+      "amount": "2 large, thinly sliced"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the sliced potatoes and yuzu juice. Let it sit for 10 minutes to allow the potatoes to absorb the flavor.",
+    "In a separate saucepan, melt 1 tablespoon of butter over medium heat. Add the sliced potatoes and cook for 5 minutes on each side, or until they're lightly browned.",
+    "Transfer the potatoes to a baking dish and top with sliced raclette cheese.",
+    "Dot the top of the raclette with the remaining 1 tablespoon of butter.",
+    "Bake in the preheated oven for 20-25 minutes, or until the top is golden brown and the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with chopped thyme, if using.",
+    "Serve hot, garnished with chopped parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "yuzu",
+    "raclette",
+    "gratin",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-egyptian-yuzu-gratin-raclette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:30:47.621Z"
+}
