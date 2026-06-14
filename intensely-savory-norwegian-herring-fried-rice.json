@@ -1,0 +1,68 @@
+{
+  "slug": "intensely-savory-norwegian-herring-fried-rice",
+  "title": "Pan-Seared Herring with Savory Rice",
+  "description": "A simple and flavorful dish from Norway, featuring pan-seared herring served with a side of savory rice.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fresh Herring Fillets",
+      "amount": "4",
+      "notes": "About 6 ounces each"
+    },
+    {
+      "name": "Savory Rice",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Norwegian sea salt preferred"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add 1 tablespoon of butter and let it melt.",
+    "Add the herring fillets and sear for 2-3 minutes on each side.",
+    "Remove the herring from the skillet and set it aside.",
+    "In the same skillet, add the remaining 1 tablespoon of butter.",
+    "Add the cooked savory rice to the skillet and stir to combine with the butter.",
+    "Season the rice with salt and black pepper to taste.",
+    "Serve the pan-seared herring on top of the savory rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herring",
+    "savory",
+    "rice",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-norwegian-herring-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:53:06.019Z"
+}
