@@ -1,0 +1,95 @@
+{
+  "slug": "indulgent-icy-vietnamese-ackee-bun-bo-hue",
+  "title": "Bo Bun Hue with Grilled Ackee",
+  "description": "A fusion twist on traditional Vietnamese beef noodle soup, featuring grilled ackee and a spicy bo broth.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegetarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 cup",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Bo Bun Hue noodles",
+      "amount": "8 oz",
+      "notes": "Rice noodles"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Hue-style bo broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "For added heat"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. Grill the ackee slices in a pan with vegetable oil until slightly charred.",
+    "2. Cook the Bo Bun Hue noodles according to package instructions. Drain and set aside.",
+    "3. In a separate pan, heat the Hue-style bo broth over medium heat.",
+    "4. Add the sliced onion and ginger to the broth and cook until the onion is translucent.",
+    "5. Add the chili flakes to the broth and stir to combine.",
+    "6. Add the cooked noodles to the broth and stir to combine.",
+    "7. Taste and adjust the seasoning with fish sauce and lime juice.",
+    "8. Serve the noodles in bowls and top with grilled ackee, chopped cilantro, and additional chili flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodle-soup",
+    "grilled-ackee",
+    "bo-bun-hue"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-icy-vietnamese-ackee-bun-bo-hue",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:45:02.866Z"
+}
