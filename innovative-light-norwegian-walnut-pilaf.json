@@ -1,0 +1,76 @@
+{
+  "slug": "innovative-light-norwegian-walnut-pilaf",
+  "title": "Walnut Pilaf Bowl with a Twist",
+  "description": "A light and innovative norwegian-inspired dish featuring toasted walnuts and nutmeg.",
+  "cuisine": "norwegian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "light cream",
+      "amount": "1/2 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat.",
+    "Add the toasted walnuts and cook for 1-2 minutes until fragrant.",
+    "Stir in the cooked pilaf, light cream, nutmeg, and salt.",
+    "Cook for an additional 2-3 minutes until the mixture is heated through.",
+    "Stir in the chopped parsley.",
+    "Serve hot in individual bowls."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "innovative",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-light-norwegian-walnut-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:48:28.578Z"
+}
