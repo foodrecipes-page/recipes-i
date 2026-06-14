@@ -1,0 +1,76 @@
+{
+  "slug": "intense-sweet-brazilian-banana-pudding",
+  "title": "Brazilian Banana Pudding",
+  "description": "A creamy and sweet dessert inspired by Brazilian cuisine, featuring bananas and a rich pudding.",
+  "cuisine": "Brazilian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Pudding",
+      "amount": "1 cup",
+      "notes": "Sweetened"
+    },
+    {
+      "name": "Sweetened Condensed Milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large Egg Yolks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together the pudding, sweetened condensed milk, egg yolks, and sugar. Cook over medium heat, stirring constantly, until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the melted butter and flour.",
+    "Let the mixture cool to room temperature.",
+    "In a separate bowl, slice the bananas into 1-inch pieces.",
+    "To assemble the dessert, layer the banana slices and the pudding mixture in individual serving cups or a large serving dish.",
+    "Refrigerate the dessert for at least 2 hours, or until chilled.",
+    "Serve the dessert chilled, garnished with additional banana slices if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "banana",
+    "pudding",
+    "dessert",
+    "sweet",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-sweet-brazilian-banana-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:58:00.555Z"
+}
