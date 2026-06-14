@@ -1,0 +1,79 @@
+{
+  "slug": "innovative-intense-peruvian-black-beans-picarones",
+  "title": "Picarones con Miel de Chancaca",
+  "description": "A traditional Peruvian dessert, Picarones are sweet potato donuts that are deep-fried and drizzled with chancaca honey. This recipe serves 4-6 people.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chancaca Honey",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Black Sesame Seeds",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "Grate the sweet potatoes and squeeze out excess moisture.",
+    "In a large bowl, whisk together flour, baking powder, and salt.",
+    "Add grated sweet potatoes, black sugar, and melted butter to the dry ingredients.",
+    "Mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Shape each piece into a ball and then flatten slightly.",
+    "Fry the picarones in hot oil for 2-3 minutes on each side, or until golden brown.",
+    "Drain on paper towels and sprinkle with black sesame seeds.",
+    "Drizzle with chancaca honey and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "sweet-potatoes",
+    "honey",
+    "fried-dough"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-intense-peruvian-black-beans-picarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:40:27.013Z"
+}
