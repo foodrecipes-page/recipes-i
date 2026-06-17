@@ -1,0 +1,78 @@
+{
+  "slug": "indulgent-and-pillowy-spanish-ginger-paella",
+  "title": "Saffron Paella with Shrimp and Chicken",
+  "description": "A classic Spanish paella dish loaded with succulent shrimp, tender chicken, and a hint of saffron.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Indulgent Saffron",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Andouille Sausage",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Pillowy White Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Spanish Smoked Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Paella Pan",
+      "amount": "1 large",
+      "notes": "or a large skillet with a heat diffuser"
+    }
+  ],
+  "instructions": [
+    "Heat the paella pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the sausage and cook until browned, about 5 minutes.",
+    "Add the sliced ginger and cook for 1 minute.",
+    "Add the rice and stir to coat with the oil and mix with the chicken and sausage.",
+    "Add the saffron, smoked paprika, salt, and pepper.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Increase the heat to high and cook, uncovered, for 10 minutes.",
+    "Remove from heat and let rest for 5 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "spanish",
+    "shrimp",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-and-pillowy-spanish-ginger-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T15:00:07.964Z"
+}
