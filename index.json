@@ -1730,16 +1730,15 @@
   },
   {
     "slug": "indulgent-and-pillowy-spanish-ginger-paella",
-    "title": "Indulgent and Pillowy Spanish Ginger Paella",
+    "title": "Saffron Paella with Shrimp and Chicken",
     "tags": [
-      "ginger",
-      "gluten-free",
       "paella",
-      "spanish-cuisine",
-      "vegan-option"
+      "spanish",
+      "shrimp",
+      "chicken"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -9337,16 +9336,15 @@
   },
   {
     "slug": "intense-syrian-lentil-stew",
-    "title": "Intense Syrian Lentil Stew",
+    "title": "Syrian Lentil Stew",
     "tags": [
-      "low-glycemic",
-      "one-pot",
-      "slow-cooked",
-      "vegetarian",
-      "weeknight"
+      "lentils",
+      "stew",
+      "syrian",
+      "comfort-food"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
