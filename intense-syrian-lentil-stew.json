@@ -1,0 +1,83 @@
+{
+  "slug": "intense-syrian-lentil-stew",
+  "title": "Syrian Lentil Stew",
+  "description": "A hearty Syrian-inspired lentil stew perfect for a comforting meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "intense olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can (14.5 oz)"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the cumin, paprika, salt, and pepper, and cook for 1 minute.",
+    "Add the lentils, tomato paste, and diced tomatoes.",
+    "Stir to combine, then add 4 cups of water.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Serve hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "stew",
+    "syrian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-syrian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T14:58:34.643Z"
+}
