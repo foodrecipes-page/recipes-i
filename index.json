@@ -13515,16 +13515,15 @@
   },
   {
     "slug": "intensely-smoky-kenyan-chicken-stew",
-    "title": "Intensely Smoky Kenyan Chicken Stew",
+    "title": "Kenyan Chicken Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "kenyan-cuisine",
-      "one-pot",
-      "smoky-flavors"
+      "kenyan",
+      "chicken",
+      "stew",
+      "african"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 60,
     "shard": "i"
   },
   {
