@@ -1,0 +1,95 @@
+{
+  "slug": "intensely-smoky-kenyan-chicken-stew",
+  "title": "Kenyan Chicken Stew",
+  "description": "A hearty and flavorful stew originating from Kenya, slow-cooked with chicken, vegetables, and spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "intensely smoky paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "kenyan stew spice blend",
+      "amount": "1 tablespoon",
+      "notes": "available in most African or international grocery stores"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the paprika, stew spice blend, and tomato paste to the pot and cook for 1 minute.",
+    "Add the chicken broth, water, potatoes, and carrots to the pot.",
+    "Return the chicken to the pot and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30-40 minutes or until the chicken is cooked through and the vegetables are tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "chicken",
+    "stew",
+    "african"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": "43g",
+    "carbs": "54g",
+    "fat": "16g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-kenyan-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-29T22:09:22.655Z"
+}
