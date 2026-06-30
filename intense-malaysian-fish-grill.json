@@ -1,0 +1,71 @@
+{
+  "slug": "intense-malaysian-fish-grill",
+  "title": "Grilled Malaysian Fish with Intense Chilli Sauce",
+  "description": "A spicy and flavourful dish inspired by the cuisine of Malaysia, featuring grilled fish and an intense chilli sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish Fillets (4)",
+      "amount": "400g",
+      "notes": "Any firm white fish such as snapper or grouper works well"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Intense Chilli Sauce (see below for recipe)",
+      "amount": "1/4 cup",
+      "notes": "*Note: see intense chilli sauce recipe*"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat your grill to medium-high heat.",
+    "2. In a small bowl, mix together lime juice and a pinch of salt. Brush the mixture evenly over both sides of the fish fillets.",
+    "3. Place the fish on the grill and cook for 4-5 minutes per side, or until cooked through.",
+    "4. Meanwhile, heat the coconut oil in a small saucepan over medium heat. Add the intense chilli sauce and stir to combine.",
+    "5. Once the fish is cooked, brush the intense chilli sauce over the top of each fillet.",
+    "6. Garnish with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "malaysian",
+    "grill",
+    "intense"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-malaysian-fish-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:11:10.133Z"
+}
