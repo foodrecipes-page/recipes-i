@@ -81,14 +81,14 @@
   },
   {
     "slug": "i-sali-puy-lentils-stew",
-    "title": "I咸 Sali Puy-lentils Stew",
+    "title": "Lentil and Sali Stew",
     "tags": [
-      "elegant",
-      "one-pot",
-      "vegetarian"
+      "lentil stew",
+      "irish stew",
+      "hearty stew"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 60,
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -12606,17 +12606,16 @@
   },
   {
     "slug": "intensely-roasted-jamaican-chicken-wrap",
-    "title": "Intensely Roasted Jamaican Chicken Wrap",
+    "title": "Jamaican Chicken Wrap",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "jamaican-cuisine",
-      "one-pan",
-      "roasted-chicken",
-      "weeknight"
+      "jamaican",
+      "chicken",
+      "wrap",
+      "easy",
+      "lunch"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "jamaican",
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
