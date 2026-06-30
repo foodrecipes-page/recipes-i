@@ -5508,13 +5508,15 @@
   },
   {
     "slug": "indulgent-yeasty-american-cod-chowder",
-    "title": "Indulgent Yeasty American Cod Chowder",
+    "title": "New England Cod Chowder",
     "tags": [
-      "american",
-      "dinner"
+      "new-england",
+      "cod",
+      "chowder",
+      "fish"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 40,
+    "cuisine": "american",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
