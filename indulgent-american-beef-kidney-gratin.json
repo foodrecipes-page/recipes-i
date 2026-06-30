@@ -1,0 +1,83 @@
+{
+  "slug": "indulgent-american-beef-kidney-gratin",
+  "title": "Beef Kidney Gratin",
+  "description": "A hearty, comforting dish featuring tender beef kidney in a rich gratin sauce.",
+  "cuisine": "american",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season beef kidney with salt and black pepper.",
+    "In a large skillet, melt butter over medium-high heat.",
+    "Add beef kidney and cook until browned on all sides, about 5 minutes.",
+    "Transfer beef kidney to a 9x13-inch baking dish.",
+    "In the same skillet, whisk together flour and milk.",
+    "Bring mixture to a boil, then reduce heat to medium-low and simmer for 2 minutes.",
+    "Pour sauce over beef kidney.",
+    "Top with grated gratin.",
+    "Bake for 20-25 minutes, or until beef kidney is tender and top is golden brown.",
+    "Garnish with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-kidney",
+    "gratin",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-american-beef-kidney-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T00:19:12.256Z"
+}
