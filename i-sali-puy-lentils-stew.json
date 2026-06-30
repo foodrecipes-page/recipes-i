@@ -1,0 +1,65 @@
+{
+  "slug": "i-sali-puy-lentils-stew",
+  "title": "Lentil and Sali Stew",
+  "description": "A hearty and comforting stew made with lentils, sali, and puy, perfect for a cold day.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sali",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "puy",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "stew",
+      "amount": "4 cups",
+      "notes": "vegetable broth"
+    },
+    {
+      "name": "i",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat the i in a large pot over medium heat.",
+    "Add the puy and cook until tender, about 5 minutes.",
+    "Add the sali and cook until it starts to brown, about 5 minutes.",
+    "Add the lentils and stew. Bring to a boil, then reduce the heat to low and simmer for 20 minutes, or until the lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil stew",
+    "irish stew",
+    "hearty stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/i-sali-puy-lentils-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:26:44.958Z"
+}
