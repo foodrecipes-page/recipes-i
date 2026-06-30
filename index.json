@@ -1605,18 +1605,14 @@
   },
   {
     "slug": "indulgent-american-beef-kidney-gratin",
-    "title": "Indulgent American Beef Kidney Gratin",
+    "title": "Beef Kidney Gratin",
     "tags": [
-      "beef",
-      "comfort-food",
+      "beef-kidney",
       "gratin",
-      "high-protein",
-      "kidney",
-      "rich-and-creamy",
-      "winter-dinner"
+      "comfort-food"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 55,
+    "cuisine": "american",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
