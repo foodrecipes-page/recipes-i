@@ -1,0 +1,82 @@
+{
+  "slug": "intensely-roasted-jamaican-chicken-wrap",
+  "title": "Jamaican Chicken Wrap",
+  "description": "A delicious and flavorful Jamaican-inspired chicken wrap filled with roasted chicken, intensely flavorful spices, and fresh wrap.",
+  "cuisine": "jamaican",
+  "diet": [
+    "pork-free",
+    "shellfish-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large flour tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "roasted chicken breast",
+      "amount": "1",
+      "notes": "shredded"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "intensely flavored pepper sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "shredded carrot",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crumbled cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "In a small bowl, mix together Jamaican jerk seasoning and intensely flavored pepper sauce.",
+    "Brush the mixture on the shredded roasted chicken breast.",
+    "Add the chicken breast to the pan and cook for 2-3 minutes.",
+    "Add shredded carrot and chopped cilantro to the pan and stir.",
+    "Warm the flour tortilla in the pan for 30 seconds.",
+    "Assemble the wrap by placing the chicken, carrot, and cilantro mixture onto the tortilla.",
+    "Top with crumbled cheddar cheese.",
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "chicken",
+    "wrap",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-roasted-jamaican-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:18:03.889Z"
+}
