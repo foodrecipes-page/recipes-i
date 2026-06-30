@@ -1,0 +1,75 @@
+{
+  "slug": "intricately-simmered-greek-lettuce-nimono",
+  "title": "Greek-Style Nimono Lettuce",
+  "description": "A refreshing and light Greek-inspired lettuce dish, featuring a delicate nimono sauce. Perfect for a warm evening or as a healthy snack.",
+  "cuisine": "Japanese-Greek Fusion",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lettuce",
+      "amount": "2 heads"
+    },
+    {
+      "name": "Greece-inspired vinaigrette",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Nimono sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Grated feta cheese (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Wash the lettuce and dry it thoroughly.",
+    "2. In a small bowl, whisk together the vinaigrette, nimono sauce, olive oil, salt, and black pepper.",
+    "3. Drizzle the dressing over the lettuce and toss to coat.",
+    "4. Sprinkle chopped parsley over the top for garnish.",
+    "5. If using feta cheese, crumble it over the salad.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "greek",
+    "lettuce",
+    "nimono"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricately-simmered-greek-lettuce-nimono",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:56:12.299Z"
+}
