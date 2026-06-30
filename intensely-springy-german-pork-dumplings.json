@@ -1,0 +1,85 @@
+{
+  "slug": "intensely-springy-german-pork-dumplings",
+  "title": "Traditional German Pork Dumplings",
+  "description": "A hearty German-inspired dish featuring flavorful pork dumplings in a savory broth.",
+  "cuisine": "German",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine pork shoulder, flour, egg, salt, and black pepper. Mix well.",
+    "Knead the mixture until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about the size of a small egg.",
+    "In a large pot, boil vegetable broth.",
+    "When the broth is boiling, carefully add the pork dumplings.",
+    "Cook for 10-12 minutes, or until the dumplings float to the surface.",
+    "Remove the dumplings from the broth and serve hot.",
+    "Serve the dumplings in the savory broth, sprinkled with chopped onion and caraway seeds.",
+    "Garnish with chopped parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dumplings",
+    "pork",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-springy-german-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:37:56.590Z"
+}
