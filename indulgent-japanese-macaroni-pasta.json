@@ -1,0 +1,66 @@
+{
+  "slug": "indulgent-japanese-macaroni-pasta",
+  "title": "Macaroni Indulgence",
+  "description": "A rich and creamy macaroni dish inspired by Japanese flavors. Perfect for a comforting dinner.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Indulgent Butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Mascarpone Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Japanese Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Cook macaroni according to package instructions until al dente.",
+    "In a large saucepan, melt 2 tbsp of butter over medium heat.",
+    "Add soy sauce and whisk until combined.",
+    "Add mascarpone cheese and whisk until smooth.",
+    "Add mozzarella cheese and stir until melted.",
+    "Add cooked macaroni to the cheese sauce and stir until combined.",
+    "Transfer the macaroni mixture to a baking dish.",
+    "Top with remaining 2 tbsp of butter and chopped scallions.",
+    "Bake in a preheated oven at 375°F (190°C) for 15-20 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy-pasta",
+    "japanese-fusion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-japanese-macaroni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:31:10.500Z"
+}
