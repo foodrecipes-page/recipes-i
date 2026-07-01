@@ -8105,17 +8105,15 @@
   },
   {
     "slug": "intense-peruvian-cheese-paella",
-    "title": "intense Peruvian cheese paella",
+    "title": "Peruvian Paella with Intense Cheese",
     "tags": [
-      "comfort-food",
-      "one-pan",
       "peruvian",
-      "plant-based",
-      "vegan-friendly",
-      "weeknight"
+      "paella",
+      "cheese",
+      "lunch"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
@@ -10003,17 +10001,16 @@
   },
   {
     "slug": "intensely-charred-jamaican-swede-hash",
-    "title": "Intensely Charred Jamaican Swede Hash",
+    "title": "Jamaican Swede Hash",
     "tags": [
-      "agave-leaf-vessel",
-      "intensely-charred",
-      "jamaican-cuisine",
-      "macrobiotic-friendly",
-      "roasted-vegetables",
-      "weeknight-dinner"
+      "breakfast-idea",
+      "caribbean-cuisine",
+      "gluten-free-recipe",
+      "hash-recipe",
+      "swede-recipe"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -11975,18 +11972,15 @@
   },
   {
     "slug": "intensely-nutty-tunisian-olive-tagine",
-    "title": "Intensely Nutty Tunisian Olive Tagine",
+    "title": "Tunisian Tagine Stew",
     "tags": [
-      "north-african",
-      "nutty",
-      "olive-based",
-      "one-pan",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "north african",
+      "stew",
+      "chicken",
+      "couscous"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "i"
   },
   {
