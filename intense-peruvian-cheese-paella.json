@@ -1,0 +1,84 @@
+{
+  "slug": "intense-peruvian-cheese-paella",
+  "title": "Peruvian Paella with Intense Cheese",
+  "description": "A twist on the classic Spanish dish with intense, smoky flavors from Peruvian spices and melted cheese on top.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uncooked Spanish Rice",
+      "amount": "1 cup",
+      "notes": "preferably Arborio"
+    },
+    {
+      "name": "Peruvian Chicken Broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Peruvian Aji Amarillo Pepper Paste",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Intense Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cheese (Queso Fresco or Feta)",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Boneless, Skinless Chicken Thighs",
+      "amount": "1.5 lbs, cut into 1-inch pieces"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes. Remove from pan and set aside.",
+    "Add the rice and cook for 2 minutes, stirring constantly.",
+    "Add the broth, pepper paste, and smoked paprika. Stir to combine.",
+    "Bring to a boil, then reduce heat to low, cover, and simmer for 20 minutes.",
+    "Stir in the cooked chicken and cook for an additional 5 minutes.",
+    "Transfer to a serving platter and top with crumbled cheese.",
+    "Return to the stovetop and cook over low heat, allowing the cheese to melt and bubble.",
+    "Remove from heat and let rest for 5 minutes before serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "paella",
+    "cheese",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-peruvian-cheese-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:07:24.596Z"
+}
