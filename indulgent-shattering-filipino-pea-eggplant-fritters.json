@@ -1,0 +1,76 @@
+{
+  "slug": "indulgent-shattering-filipino-pea-eggplant-fritters",
+  "title": "Filipino-Style Shattering Eggplant Fritters",
+  "description": "A twist on traditional eggplant fritters, this Filipino-inspired dish adds a sweet and savory flavor profile.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large"
+    },
+    {
+      "name": "pea",
+      "amount": "1 cup"
+    },
+    {
+      "name": "filipino",
+      "amount": "1/4 cup Filipino-style breading mix"
+    },
+    {
+      "name": "fritters",
+      "amount": "1 cup fritter mix"
+    },
+    {
+      "name": "indulgent",
+      "amount": "1/4 cup grated cheese"
+    },
+    {
+      "name": "shattering",
+      "amount": "1/4 cup crushed crackers"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 350°F (180°C).",
+    "2. Cut the eggplant into 1-inch cubes and set aside.",
+    "3. In a separate bowl, whisk together the fritter mix, Filipino-style breading mix, crushed crackers, and grated cheese.",
+    "4. Add the eggplant cubes to the bowl and toss to coat with the mixture.",
+    "5. Using a spoon, drop small portions of the eggplant mixture into the hot oil.",
+    "6. Fry until golden brown and crispy, about 3-4 minutes.",
+    "7. Remove from oil and place on a paper towel-lined plate to drain excess oil.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "snack",
+    "philippines",
+    "eggplant"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-shattering-filipino-pea-eggplant-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:30:49.645Z"
+}
