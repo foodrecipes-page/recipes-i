@@ -526,18 +526,15 @@
   },
   {
     "slug": "icy-herby-cornish-rest-meat-hot-pot",
-    "title": "Icy Herby Cornish Rest-meat Hot Pot",
+    "title": "Pan-Seared Cornish Chicken with Herby Pot Roast",
     "tags": [
-      "british",
-      "comfort-food",
-      "easy-to-make",
-      "herbivore",
-      "hot-pot",
-      "pastry",
-      "rest-meat"
+      "chicken",
+      "pot-roast",
+      "herb",
+      "main-course"
     ],
     "cuisine": "British",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -3369,30 +3366,27 @@
   },
   {
     "slug": "indulgent-japanese-macaroni-pasta",
-    "title": "Indulgent Japanese Macaroni Pasta",
+    "title": "Macaroni Indulgence",
     "tags": [
-      "fluffy",
-      "fusion",
-      "halal-friendly",
-      "one-pot",
-      "weeknight"
+      "comfort-food",
+      "creamy-pasta",
+      "japanese-fusion"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
     "slug": "indulgent-japnese-tahini-bao",
-    "title": "Indulgent Japanese Tahini Bao",
+    "title": "Tahini Bao",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "dessert",
+      "sweet",
+      "bao",
+      "tahini"
     ],
-    "cuisine": "japanese",
-    "totalTimeMin": 45,
+    "cuisine": "indulgent",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -13720,17 +13714,14 @@
   },
   {
     "slug": "intensely-sour-ethiopian-vegetables-atakilt-wat",
-    "title": "Intensely Sour Ethiopian Vegetables Atakilt Wat",
+    "title": "Spicy Atakilt Wot Stew",
     "tags": [
-      "diabetic-friendly",
+      "spicy",
       "ethiopian",
-      "silky",
-      "sour",
-      "vegetarian",
-      "wood-fired"
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -14493,14 +14484,12 @@
   },
   {
     "slug": "intensely-umami-japanese-pork-tonkotsu-ramen",
-    "title": "Intensely Umami Japanese Pork Tonkotsu Ramen",
+    "title": "Tonkotsu Ramen",
     "tags": [
-      "comfort-food",
-      "japanese-cuisine",
-      "ramen-recipe",
-      "rich-broth",
-      "slow-cooked",
-      "umami-flavor"
+      "ramen",
+      "tonkotsu",
+      "pork",
+      "japanese"
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 270,
