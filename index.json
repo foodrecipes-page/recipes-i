@@ -5122,15 +5122,13 @@
   },
   {
     "slug": "indulgent-syrian-lentils-pilaf",
-    "title": "Indulgent Syrian Lentils Pilaf",
+    "title": "Syrian Lentil Pilaf",
     "tags": [
-      "breakfast",
-      "brunch",
-      "creamy",
-      "easy",
-      "jain-friendly",
-      "one-pot",
-      "syrian-flavor"
+      "lentils",
+      "pilaf",
+      "syrian",
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 40,
@@ -15379,16 +15377,15 @@
   },
   {
     "slug": "intriguingly-spicy-egyptian-lamb-biryani",
-    "title": "Intriguingly Spicy Egyptian Lamb Biryani",
+    "title": "Egyptian-Style Lamb Biryani",
     "tags": [
-      "flavorful-rice",
-      "lamb-recipes",
-      "middle-eastern",
-      "one-pot",
-      "spicy-food"
+      "egyptian",
+      "lamb",
+      "biryani",
+      "spicy"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 120,
     "shard": "i"
   },
   {
