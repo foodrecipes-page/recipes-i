@@ -1,0 +1,76 @@
+{
+  "slug": "intensely-charred-jamaican-swede-hash",
+  "title": "Jamaican Swede Hash",
+  "description": "A Caribbean-inspired twist on traditional swede hash, featuring a spicy kick.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Swede",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Jamaican Allspice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Hash Brown Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Charred Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Intensely Spicy Pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional, for extra heat"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until charred, about 5 minutes.",
+    "Add the diced potatoes and cook for 10 minutes, stirring occasionally.",
+    "Add the diced swede and cook for an additional 5 minutes, stirring occasionally.",
+    "Stir in the Jamaican allspice, intensely spicy pepper (if using), salt, and pepper.",
+    "Flatten the mixture slightly with a spatula and cook for 2-3 minutes.",
+    "Use the spatula to break up the mixture into small pieces.",
+    "Cook for an additional 2-3 minutes, until the hash is crispy and golden brown.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-idea",
+    "caribbean-cuisine",
+    "gluten-free-recipe",
+    "hash-recipe",
+    "swede-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-charred-jamaican-swede-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T16:33:05.644Z"
+}
