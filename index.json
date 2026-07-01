@@ -1076,17 +1076,15 @@
   },
   {
     "slug": "incredibly-crisp-croatian-lamb-kebabs",
-    "title": "Incredibly Crisp Croatian Lamb Kebabs",
+    "title": "Croatian Lamb Kebabs",
     "tags": [
-      "croatian-cuisine",
-      "ghee-recipes",
-      "gluten-free",
-      "grilled-meat",
-      "lamb-recipes",
-      "low-glycemic"
+      "croatian",
+      "lamb",
+      "kebabs",
+      "grilled"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 32,
+    "cuisine": "Balkan",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -7962,17 +7960,15 @@
   },
   {
     "slug": "intense-nutty-australian-lentils-skewers",
-    "title": "Intense Nutty Australian Lentils Skewers",
+    "title": "Australian Lentil Skewers",
     "tags": [
-      "australian-cuisine",
-      "date-night",
-      "lentil-recipes",
-      "nutty-flavors",
-      "plant-based",
-      "skewers"
+      "australian-lentils",
+      "vegetarian",
+      "skewers",
+      "easy-dinner"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 65,
+    "cuisine": "Australasian",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
