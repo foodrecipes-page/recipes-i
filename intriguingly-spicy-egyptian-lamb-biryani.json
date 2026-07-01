@@ -1,0 +1,102 @@
+{
+  "slug": "intriguingly-spicy-egyptian-lamb-biryani",
+  "title": "Egyptian-Style Lamb Biryani",
+  "description": "A flavorful and aromatic rice dish originating from Egypt, made with tender lamb and spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "lamb",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 lb",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Basmati Rice",
+      "amount": "1 cup",
+      "notes": "Soaked overnight and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp ghee or oil in a large pan over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add onion, garlic, and ginger; cook until onion is translucent.",
+    "Add cumin, coriander, turmeric, and chili powder; cook for 1 minute.",
+    "Add 2 cups water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 hour.",
+    "Prepare rice by cooking it in a separate pot.",
+    "In a large bowl, combine cooked rice, lamb mixture, and 2 tbsp ghee or oil.",
+    "Mix well and serve hot.",
+    "Garnish with chopped fresh cilantro, if desired.",
+    "Serve with raita or a side salad, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "lamb",
+    "biryani",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intriguingly-spicy-egyptian-lamb-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:41:42.979Z"
+}
