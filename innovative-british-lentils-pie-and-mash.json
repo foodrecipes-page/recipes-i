@@ -1,0 +1,86 @@
+{
+  "slug": "innovative-british-lentils-pie-and-mash",
+  "title": "Classic British Lentil Pie",
+  "description": "A traditional British-inspired dish made with red lentils and a flaky pie crust, perfect for a cozy evening meal.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Mash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pie crust",
+      "amount": "1 sheet"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, sauté the onion, carrots, and celery in butter until softened.",
+    "Add the mushrooms and cook until they release their moisture and start to brown.",
+    "Stir in the flour to create a roux, then gradually add the vegetable broth, whisking continuously.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 10 minutes.",
+    "Add the red lentils and cook for a further 10-15 minutes, or until they are tender.",
+    "Season the filling with salt and pepper to taste.",
+    "Roll out the pie crust and place it in a 9-inch pie dish.",
+    "Fill the pie crust with the lentil filling and top with a sheet of mash.",
+    "Bake the pie in the preheated oven for 25-30 minutes, or until the crust is golden brown and the filling is hot and bubbly.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "vegetarian",
+    "british",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-british-lentils-pie-and-mash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:35:35.028Z"
+}
