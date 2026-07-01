@@ -3938,15 +3938,12 @@
   },
   {
     "slug": "indulgent-moroccan-frankfurter-briouat",
-    "title": "Indulgent Moroccan Frankfurter Briouat",
+    "title": "Spicy Moroccan Frankfurter Briouat",
     "tags": [
-      "breakfast",
-      "dinner",
-      "indulgent",
-      "lunch",
       "moroccan",
-      "moroccan-recipe",
-      "vegan-friendly"
+      "indulgent",
+      "snack",
+      "appetizer"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 40,
@@ -4566,18 +4563,15 @@
   },
   {
     "slug": "indulgent-shattering-filipino-pea-eggplant-fritters",
-    "title": "Indulgent Shattering Filipino Pea-Eggplant Fritters",
+    "title": "Filipino-Style Shattering Eggplant Fritters",
     "tags": [
-      "fritters",
-      "high-protein",
-      "one-pan",
+      "vegetarian",
       "snack",
-      "umami-rich",
-      "vegetarian-friendly",
-      "weeknight"
+      "philippines",
+      "eggplant"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 23,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -4853,16 +4847,15 @@
   },
   {
     "slug": "indulgent-smoky-canadian-corn-flatbread",
-    "title": "Indulgent Smoky Canadian Corn Flatbread",
+    "title": "Smoky Canadian Grilled Corn",
     "tags": [
-      "easy",
-      "fodmap-friendly",
-      "one-pot",
-      "quick",
-      "smoky"
+      "grilled",
+      "corn",
+      "summer",
+      "vegetarian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -13746,17 +13739,15 @@
   },
   {
     "slug": "intensely-spiced-indian-chicken-curry",
-    "title": "Intensely Spiced Indian Chicken Curry",
+    "title": "Spiced Indian Chicken Curry",
     "tags": [
-      "chicken-recipes",
-      "gluten-free",
-      "indian-cuisine",
-      "one-pot",
-      "spicy",
-      "weeknight"
+      "indian",
+      "chicken",
+      "curry",
+      "spiced"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
