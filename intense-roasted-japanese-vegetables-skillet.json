@@ -1,0 +1,66 @@
+{
+  "slug": "intense-roasted-japanese-vegetables-skillet",
+  "title": "Japanese Vegetable Stir Fry",
+  "description": "A quick and easy stir fry recipe with a mix of colorful vegetables and a hint of soy sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetables (bell peppers, carrots, broccoli)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "intense ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the toasted sesame oil and swirl it around to coat the bottom of the skillet.",
+    "Add the soy sauce and ginger; cook for 1 minute, stirring constantly.",
+    "Add the vegetables and cook until they are tender-crisp, about 3-4 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "quick-and-easy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-roasted-japanese-vegetables-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:52:39.986Z"
+}
