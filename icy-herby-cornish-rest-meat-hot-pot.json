@@ -1,0 +1,79 @@
+{
+  "slug": "icy-herby-cornish-rest-meat-hot-pot",
+  "title": "Pan-Seared Cornish Chicken with Herby Pot Roast",
+  "description": "A flavorful dish featuring pan-seared Cornish chicken paired with a herby pot roast, perfect for a hearty dinner.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cornish chicken breast",
+      "amount": "2 lbs",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "herby pot roast",
+      "amount": "1 (2 lb) piece",
+      "notes": null
+    },
+    {
+      "name": "meat broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "rest oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "icy water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "hot pepper",
+      "amount": "1",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the Cornish chicken breast with salt.",
+    "Heat 1 tbsp of rest oil in an oven-safe skillet over medium-high heat.",
+    "Sear the chicken breast for 2-3 minutes on each side, then transfer to the oven.",
+    "Roast the chicken in the oven for 15-20 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "While the chicken cooks, prepare the herby pot roast by mixing together 1 cup of icy water, 2 cups of meat broth, and 2 tbsp of rest oil.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes.",
+    "Add the herby pot roast to the skillet and braise for 10-15 minutes, or until tender.",
+    "Serve the pan-seared Cornish chicken with the herby pot roast and garnish with a hot pepper, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pot-roast",
+    "herb",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-herby-cornish-rest-meat-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:30:53.516Z"
+}
