@@ -1,0 +1,87 @@
+{
+  "slug": "indulgent-moroccan-frankfurter-briouat",
+  "title": "Spicy Moroccan Frankfurter Briouat",
+  "description": "A fusion of Moroccan and American flavors, this indulgent briouat wraps a spicy frankfurter in flaky pastry, perfect for a snack or appetizer.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Frankfurter",
+      "amount": "4",
+      "notes": "Spicy Frankfurter Sausage"
+    },
+    {
+      "name": "Briouat Pastry Sheets",
+      "amount": "1 package",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten (for egg wash)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the briouat pastry sheets to a thickness of about 1/8 inch.",
+    "Cut the pastry into squares, about 3 inches per side.",
+    "Place a frankfurter in the center of each square.",
+    "Add chopped onion, grated ginger, cumin, cayenne pepper (if using), and salt on top of the frankfurter.",
+    "Brush the edges of the pastry with the beaten egg for a golden glaze.",
+    "Fold the pastry over the frankfurter, pressing the edges to seal.",
+    "Place the briouats on a baking sheet lined with parchment paper.",
+    "Brush the tops with the remaining egg wash.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "indulgent",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-moroccan-frankfurter-briouat",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:39:34.288Z"
+}
