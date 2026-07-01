@@ -1,0 +1,70 @@
+{
+  "slug": "indulgent-japnese-tahini-bao",
+  "title": "Tahini Bao",
+  "description": "A sweet and indulgent twist on traditional bao, filled with a creamy tahini filling.",
+  "cuisine": "indulgent",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bao dough",
+      "amount": "4 pieces",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Tahini paste",
+      "amount": "1/2 cup",
+      "notes": "Creamy and smooth"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "White sugar"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": "For egg wash on bao"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "2 tablespoons",
+      "notes": "For dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out bao dough to 1/4-inch thickness.",
+    "Cut out circles using a cookie cutter or the rim of a glass.",
+    "Place dough circles on a baking sheet lined with parchment paper.",
+    "Brush tops with egg wash for a golden glaze.",
+    "Bake for 12-15 minutes, or until lightly golden.",
+    "Meanwhile, mix tahini paste and granulated sugar in a bowl until smooth.",
+    "Once bao is ready, let cool for 2-3 minutes.",
+    "Split bao in half horizontally and fill with tahini paste.",
+    "Dust with confectioners' sugar before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "sweet",
+    "bao",
+    "tahini"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-japnese-tahini-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:31:56.870Z"
+}
