@@ -1,0 +1,92 @@
+{
+  "slug": "intensely-umami-japanese-pork-tonkotsu-ramen",
+  "title": "Tonkotsu Ramen",
+  "description": "A rich and savory Japanese noodle soup dish, made with a pork tonkotsu broth and topped with various ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork bones",
+      "amount": "2 pounds",
+      "notes": "You can use pork neck bones or rib bones for this recipe."
+    },
+    {
+      "name": "Tonkotsu broth",
+      "amount": "4 cups",
+      "notes": "You can use store-bought tonkotsu broth or make your own by simmering pork bones in water."
+    },
+    {
+      "name": "Ramen noodles",
+      "amount": "1 package",
+      "notes": "You can use fresh or dried ramen noodles for this recipe."
+    },
+    {
+      "name": "Sliced pork",
+      "amount": "1/2 pound",
+      "notes": "You can use pork loin or pork belly for this recipe."
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "You can use thinly sliced green onions for garnish."
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "You can use sesame seeds for garnish."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "You can use soy sauce for seasoning."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "You can use sesame oil for seasoning."
+    },
+    {
+      "name": "Ground white pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "You can use ground white pepper for seasoning."
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "1 piece",
+      "notes": "You can use pickled ginger for garnish."
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine pork bones and tonkotsu broth. Bring to a boil over high heat.",
+    "2. Reduce heat to low and simmer for 4-6 hours, or until the broth is rich and flavorful.",
+    "3. Cook ramen noodles according to package instructions. Drain and set aside.",
+    "4. Slice pork into thin strips. Season with soy sauce, sesame oil, and ground white pepper.",
+    "5. In a large bowl, combine cooked noodles, sliced pork, and green onions.",
+    "6. Ladle hot broth over the top of the noodles. Garnish with sesame seeds and pickled ginger.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "tonkotsu",
+    "pork",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-umami-japanese-pork-tonkotsu-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:09:48.553Z"
+}
