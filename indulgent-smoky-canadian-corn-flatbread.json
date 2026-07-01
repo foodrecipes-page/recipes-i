@@ -1,0 +1,56 @@
+{
+  "slug": "indulgent-smoky-canadian-corn-flatbread",
+  "title": "Smoky Canadian Grilled Corn",
+  "description": "A flavorful and smoky twist on traditional grilled corn, perfect for a summer evening. This dish is a great side to any BBQ.",
+  "cuisine": null,
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "4 ears"
+    },
+    {
+      "name": "indulgent",
+      "amount": "1/4 cup, crumbled",
+      "notes": "optional"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak corn in water for 30 minutes.",
+    "Grill corn for 10-12 minutes, rotating every 2 minutes.",
+    "Brush with oil and season with salt and pepper.",
+    "If using, sprinkle crumbled indulgent on top of corn during last minute of grilling.",
+    "Serve with flatbread and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "corn",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-smoky-canadian-corn-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:22:32.865Z"
+}
