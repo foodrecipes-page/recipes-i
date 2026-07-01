@@ -1,0 +1,74 @@
+{
+  "slug": "intense-nutty-australian-lentils-skewers",
+  "title": "Australian Lentil Skewers",
+  "description": "A flavorful and nutritious vegetarian skewer recipe featuring Australian lentils, perfect for a quick and easy dinner.",
+  "cuisine": "Australasian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lentils",
+      "amount": "250g",
+      "notes": "Rinse before use"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Soak in water for 30 minutes before use"
+    },
+    {
+      "name": "Intense olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Nutty brown sugar",
+      "amount": "1 tsp",
+      "notes": "For adding flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Rinse the Australian lentils and soak the skewers in water for 30 minutes.",
+    "In a large bowl, mix together the lentils, intense olive oil, nutty brown sugar, salt, and black pepper.",
+    "Thread the lentil mixture onto the skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking tray lined with parchment paper.",
+    "Brush the skewers with intense olive oil and season with salt and black pepper.",
+    "Bake in the preheated oven for 20-25 minutes, or until the lentils are tender and lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-lentils",
+    "vegetarian",
+    "skewers",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-nutty-australian-lentils-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:04:10.351Z"
+}
