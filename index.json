@@ -4128,16 +4128,14 @@
   },
   {
     "slug": "indulgent-pillowy-syrian-buttermilk-pilaf",
-    "title": "Syrian Buttermilk Pilaf",
+    "title": "Syrian Buttermilk Pancakes with Pilaf Topping",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "syrian-cuisine",
-      "vegetarian"
+      "breakfast",
+      "syrian",
+      "pancakes"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "cuisine": "middle-eastern",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -5588,14 +5586,12 @@
   },
   {
     "slug": "innovative-british-lentils-pie-and-mash",
-    "title": "Innovative British Lentils Pie And Mash",
+    "title": "Classic British Lentil Pie",
     "tags": [
-      "british-cuisine",
-      "dairy-free",
-      "fermented-food",
-      "kid-friendly",
-      "pie-and-mash",
-      "vegetarian"
+      "lentils",
+      "vegetarian",
+      "british",
+      "comfort-food"
     ],
     "cuisine": "British",
     "totalTimeMin": 55,
@@ -14074,17 +14070,16 @@
   },
   {
     "slug": "intensely-sweet-greek-honey-loukoumades",
-    "title": "Intensely Sweet Greek Honey Loukoumades",
+    "title": "Traditional Greek Loukoumades with Honey",
     "tags": [
-      "brunch-recipe",
-      "greek-dessert",
-      "grilled-dish",
-      "honey-based",
-      "paleo-friendly",
-      "sweet-treat"
+      "greek",
+      "honey",
+      "loukoumades",
+      "dessert",
+      "fried"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
