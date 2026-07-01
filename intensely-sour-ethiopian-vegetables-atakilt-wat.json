@@ -1,0 +1,92 @@
+{
+  "slug": "intensely-sour-ethiopian-vegetables-atakilt-wat",
+  "title": "Spicy Atakilt Wot Stew",
+  "description": "A spicy Ethiopian stew made with atakilt vegetables and a variety of spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Atakilt (carrots, potatoes, cabbage)",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For stew"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and ginger and sauté until softened.",
+    "Add garlic and sauté for another minute.",
+    "Add atakilt, cayenne pepper, cumin, turmeric, and paprika. Stir well.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "ethiopian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-sour-ethiopian-vegetables-atakilt-wat",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:56:50.489Z"
+}
