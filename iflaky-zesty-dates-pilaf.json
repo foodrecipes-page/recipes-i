@@ -1,0 +1,71 @@
+{
+  "slug": "iflaky-zesty-dates-pilaf",
+  "title": "Pilaf with Zesty Chicken and Dates",
+  "description": "A flavorful and aromatic pilaf dish with zesty chicken and sweet dates, a perfect meal for a busy evening.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Dates",
+      "amount": "1/2 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Zesty seasoning",
+      "amount": "2 tsp",
+      "notes": "Available in most supermarkets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the chicken and season with zesty seasoning. Set aside.",
+    "Heat olive oil in an oven-safe skillet over medium-high heat.",
+    "Sauté the chicken until browned on both sides, about 5 minutes.",
+    "Transfer the skillet to the preheated oven and cook for 15-20 minutes, or until the chicken is cooked through.",
+    "While the chicken cooks, prepare the pilaf according to package instructions.",
+    "Fluff the cooked pilaf with a fork and set aside.",
+    "Add the pitted dates to the skillet with the chicken and toss to combine.",
+    "Serve the chicken and dates over the prepared pilaf.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pilaf",
+    "dates",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iflaky-zesty-dates-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:47:32.335Z"
+}
