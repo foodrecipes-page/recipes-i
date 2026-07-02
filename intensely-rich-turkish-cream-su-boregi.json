@@ -1,0 +1,86 @@
+{
+  "slug": "intensely-rich-turkish-cream-su-boregi",
+  "title": "Turkish Boregi",
+  "description": "A traditional Turkish savory pastry filled with a rich spinach and feta cheese filling.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "1 1/2 cups",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "Water",
+      "amount": "3/4 cup",
+      "notes": "Su"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup, chopped",
+      "notes": "Frozen or fresh"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Intensely rich cream",
+      "amount": "1/4 cup",
+      "notes": "Optional, for added richness"
+    },
+    {
+      "name": "Turkish butter",
+      "amount": "1/4 cup, melted",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine flour, salt, and water. Knead the dough for 5-7 minutes until smooth.",
+    "Divide the dough into 4 equal pieces. Roll out each piece into a thin circle.",
+    "In a separate bowl, mix together feta cheese, spinach, and black pepper.",
+    "Place a tablespoon of the cheese mixture in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges to seal.",
+    "Brush the tops with melted butter.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm with a dollop of intensely rich cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "pastry",
+    "spinach",
+    "feta",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-rich-turkish-cream-su-boregi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:58:41.526Z"
+}
