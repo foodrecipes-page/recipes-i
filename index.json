@@ -4351,16 +4351,14 @@
   },
   {
     "slug": "indulgent-rich-turkish-eggplant-imam-bayildi",
-    "title": "Indulgent Rich Turkish Eggplant Imam Bayildi",
+    "title": "Turkish Eggplant Imam Bayildi",
     "tags": [
-      "indulgent",
-      "one-pan",
-      "special-occasion",
-      "turkish-cuisine",
-      "vegetarian-option"
+      "turkish",
+      "eggplant",
+      "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 65,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -5803,14 +5801,13 @@
   },
   {
     "slug": "innovative-juicy-spanish-nectarines-paella-valenciana",
-    "title": "Innovative Juicy Spanish Nectarines Paella Valenciana",
+    "title": "Spanish Valenciana Paella with Grilled Nectarines",
     "tags": [
-      "air-fryer",
-      "diabetic-friendly",
-      "gluten-free",
-      "healthy-dinner",
-      "one-pan",
-      "spanish-cuisine"
+      "paella",
+      "spanish",
+      "valenciana",
+      "nectarines",
+      "grilled"
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 45,
@@ -13394,14 +13391,12 @@
   },
   {
     "slug": "intensely-smoky-greek-lamb-skewers",
-    "title": "Intensely Smoky Greek Lamb Skewers",
+    "title": "Greek Lamb Skewers",
     "tags": [
-      "greek-inspired",
-      "grilled",
-      "halal-friendly",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "skewers",
+      "greek",
+      "grilled"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 35,
