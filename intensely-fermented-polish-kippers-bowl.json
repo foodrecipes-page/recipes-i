@@ -1,0 +1,71 @@
+{
+  "slug": "intensely-fermented-polish-kippers-bowl",
+  "title": "Smoked Kippers with Fermented Polish Rye",
+  "description": "A Nordic-inspired breakfast dish featuring smoked kippers paired with tangy fermented Polish rye and a side of crunchy fermented vegetables.",
+  "cuisine": "Nordic",
+  "diet": [
+    "breakfast",
+    "gluten",
+    "fish"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked Kippers",
+      "amount": "4"
+    },
+    {
+      "name": "Fermented Polish Rye Bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Fermented Vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Toast the fermented Polish rye bread.",
+    "Top each slice with a smoked kipper.",
+    "Add a pat of butter and a sprinkle of salt and black pepper.",
+    "Garnish with chopped fresh dill.",
+    "Serve alongside a side of fermented vegetables.",
+    "Enjoy with a cup of strong coffee or tea."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "nordic",
+    "fish",
+    "gluten"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-fermented-polish-kippers-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:28:03.958Z"
+}
