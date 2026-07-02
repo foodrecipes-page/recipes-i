@@ -1,0 +1,95 @@
+{
+  "slug": "intensely-sweet-middle-eastern-chicken-curry",
+  "title": "Sweet Eastern Chicken Curry",
+  "description": "A delicious and flavorful curry dish made with tender chicken and a sweet eastern-inspired sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "sweet and slightly spicy"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, for sauce"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Heat coconut oil in a large skillet over medium-high heat.",
+    "2. Add chicken to the skillet and cook until browned and cooked through, about 5-7 minutes. Remove from heat and set aside.",
+    "3. In the same skillet, add chopped onion and cook until softened, about 3-4 minutes.",
+    "4. Add minced garlic and grated ginger to the skillet and cook for 1 minute, until fragrant.",
+    "5. Stir in curry powder and cook for 1 minute, until fragrant.",
+    "6. Add honey, yogurt, and lemon juice to the skillet and stir until smooth.",
+    "7. Return chicken to the skillet and stir to combine with the sauce.",
+    "8. Season with salt to taste.",
+    "9. Serve hot over rice or with naan bread.",
+    "10. Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "eastern",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-sweet-middle-eastern-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:00:28.457Z"
+}
