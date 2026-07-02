@@ -1,0 +1,75 @@
+{
+  "slug": "intensely-crisp-peruvian-turmeric-chicken-rocoto-relleno",
+  "title": "Crispy Peruvian Chicken Relleno",
+  "description": "A twist on traditional Peruvian relleno, this recipe combines tender chicken with the crunch of crispy rocoto peppers.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Rocoto peppers",
+      "amount": "2",
+      "notes": "intensely crisp"
+    },
+    {
+      "name": "Peruvian relleno paste",
+      "amount": "2 tablespoons",
+      "notes": "available at most Latin American markets"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with salt, black pepper, and turmeric.",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "Sear the chicken breast until browned on both sides, then transfer to a baking dish.",
+    "Stuff each rocoto pepper with the Peruvian relleno paste.",
+    "Place the stuffed peppers around the chicken breast.",
+    "Bake for 25-30 minutes, or until the chicken is cooked through and the peppers are tender.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "relleno",
+    "rocoto",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-crisp-peruvian-turmeric-chicken-rocoto-relleno",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:55:29.604Z"
+}
