@@ -934,15 +934,15 @@
   },
   {
     "slug": "iflaky-zesty-dates-pilaf",
-    "title": "Iflaky Zesty Dates Pilaf",
+    "title": "Pilaf with Zesty Chicken and Dates",
     "tags": [
-      "cozy",
-      "easytogether",
-      "quickmeal",
-      "vegan"
+      "chicken",
+      "pilaf",
+      "dates",
+      "middle-eastern"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -14115,16 +14115,15 @@
   },
   {
     "slug": "intensely-sweet-middle-eastern-chicken-curry",
-    "title": "Intensely Sweet Middle Eastern Chicken Curry",
+    "title": "Sweet Eastern Chicken Curry",
     "tags": [
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "paleo-friendly",
-      "post-workout"
+      "chicken",
+      "curry",
+      "eastern",
+      "sweet"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
