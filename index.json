@@ -4493,17 +4493,15 @@
   },
   {
     "slug": "indulgent-saudi-arabian-wagyu-burger",
-    "title": "Indulgent Saudi-Arabian Wagyu Burger",
+    "title": "Saudi Wagyu Burger",
     "tags": [
-      "barbecue",
-      "gourmet",
-      "high-end",
-      "saudi-arabian",
-      "summer",
-      "wagyu-beef"
+      "arabian",
+      "burger",
+      "wagyu",
+      "indulgent"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 23,
+    "cuisine": "Arabian",
+    "totalTimeMin": 32,
     "shard": "i"
   },
   {
@@ -7339,18 +7337,15 @@
   },
   {
     "slug": "intense-italian-silken-tofu-pasta",
-    "title": "Intense Italian Silken Tofu Pasta",
+    "title": "Tofu Pasta with Italian Sauce",
     "tags": [
-      "intense",
+      "italian",
+      "vegan",
       "pasta",
-      "quick",
-      "shojin-friendly",
-      "silken-tofu",
-      "spicy",
-      "vegetarian"
+      "tofu"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 25,
+    "cuisine": "italian",
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -12446,16 +12441,16 @@
   },
   {
     "slug": "intensely-rich-turkish-cream-su-boregi",
-    "title": "Intensely Rich Turkish Cream Su Boregi",
+    "title": "Turkish Boregi",
     "tags": [
-      "lacquerware-bowl",
-      "midnight-cravings",
-      "rich-and-creamy",
-      "turkish-delicacies",
-      "vegetarian-friendly"
+      "turkish",
+      "pastry",
+      "spinach",
+      "feta",
+      "cheese"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "cuisine": "turkish",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
