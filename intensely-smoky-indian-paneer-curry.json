@@ -1,0 +1,86 @@
+{
+  "slug": "intensely-smoky-indian-paneer-curry",
+  "title": "Smoky Paneer Curry",
+  "description": "A flavorful Indian-inspired dish featuring smoky paneer in a rich curry sauce. Serve over basmati rice or with naan bread.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "Indian cheese"
+    },
+    {
+      "name": "smoky curry powder",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "water",
+      "amount": "250ml",
+      "notes": "for curry sauce"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger; cook until onion is translucent.",
+    "Add smoky curry powder and cook for 1 minute.",
+    "Add tomato and cook until it breaks down.",
+    "Add paneer and stir to combine.",
+    "Add water and bring to a simmer.",
+    "Reduce heat to low and let sauce thicken.",
+    "Season with salt and pepper to taste.",
+    "Serve over basmati rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "paneer",
+    "curry",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-indian-paneer-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:31:52.518Z"
+}
