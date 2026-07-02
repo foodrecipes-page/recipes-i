@@ -1,0 +1,82 @@
+{
+  "slug": "indulgent-polish-cheese-pie",
+  "title": "Polish Potato and Cheese Pie",
+  "description": "A hearty and comforting pie filled with potatoes, cheese, and a hint of polish flavor. Perfect for a cold evening.",
+  "cuisine": "polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Indulgent puff pastry",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and dice the potatoes, then boil them in salted water until tender.",
+    "In a pan, sauté the onion and butter until softened.",
+    "In a separate bowl, whisk together the milk, eggs, and shredded cheese.",
+    "Add the cooked potatoes and sautéed onion to the bowl and mix well.",
+    "Roll out the puff pastry and place it in a pie dish.",
+    "Fill the pie crust with the potato mixture and smooth the top.",
+    "Fold the edges of the pastry up to form a crust and brush with egg wash.",
+    "Bake the pie for 40-50 minutes, or until the crust is golden brown.",
+    "Let the pie cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "polish-food",
+    "cheese-pie",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-polish-cheese-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:14:35.166Z"
+}
