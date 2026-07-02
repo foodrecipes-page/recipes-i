@@ -1,0 +1,83 @@
+{
+  "slug": "intensely-smoky-greek-lamb-skewers",
+  "title": "Greek Lamb Skewers",
+  "description": "Grilled lamb skewers infused with smoky flavors, perfect for a summer evening. Serve with a side of tangy tzatziki sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together smoky paprika, garlic, lemon juice, olive oil, salt, and pepper.",
+    "3. Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "4. Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "5. Grill the skewers for 8-10 minutes per side, or until the lamb reaches your desired level of doneness.",
+    "6. Transfer the skewers to a plate and garnish with chopped parsley and lemon zest.",
+    "7. Serve immediately, garnished with additional parsley and lemon slices if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "skewers",
+    "greek",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-greek-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:42:10.410Z"
+}
