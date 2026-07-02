@@ -2664,19 +2664,14 @@
   },
   {
     "slug": "indulgent-fluffy-jamaican-jamaican-dried-apricot-dish-bake",
-    "title": "indulgent-fluffy-jamaican-jamaican-dried-apricot-dish-bake",
+    "title": "Jamaican Apricot Crumble",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "grassy",
-      "low-fat",
-      "macrobiotic",
-      "sugar-conscious",
-      "vegan",
-      "veggie-friendly"
+      "apricot",
+      "crumble",
+      "jamaican"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 90,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -10884,18 +10879,15 @@
   },
   {
     "slug": "intensely-fermented-polish-kippers-bowl",
-    "title": "Intensely Fermented Polish Kippers Bowl",
+    "title": "Smoked Kippers with Fermented Polish Rye",
     "tags": [
-      "fermented-foods",
-      "flexitarian",
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "nordic",
+      "fish",
+      "gluten"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 40,
+    "cuisine": "Nordic",
+    "totalTimeMin": 10,
     "shard": "i"
   },
   {
