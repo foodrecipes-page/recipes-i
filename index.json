@@ -6271,17 +6271,16 @@
   },
   {
     "slug": "intense-aromatic-middle-eastern-figs-salad",
-    "title": "Intense Aromatic Middle Eastern Figs Salad",
+    "title": "Middle Eastern Fig Salad",
     "tags": [
-      "figs",
-      "healthy",
+      "salad",
+      "vegan",
+      "gluten-free",
       "middle-eastern",
-      "one-pot",
-      "pita-croutons",
-      "quick"
+      "fruit"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 22,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -12455,16 +12454,16 @@
   },
   {
     "slug": "intensely-roasted-algerian-lamb-tagine",
-    "title": "Intensely Roasted Algerian Lamb Tagine",
+    "title": "Algerian Lamb Tagine",
     "tags": [
-      "lamb-based",
       "north-african",
-      "one-pot",
-      "roasted-meats",
-      "special-occasion"
+      "lamb",
+      "tagine",
+      "slow-cooked",
+      "aromatic"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 150,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
@@ -13178,17 +13177,15 @@
   },
   {
     "slug": "intensely-smoky-american-sweet-potato-bowl",
-    "title": "Intensely Smoky American Sweet Potato Bowl",
+    "title": "Smoky American Potato Bowl",
     "tags": [
-      "american",
-      "brunch",
-      "jain-friendly",
-      "smoky",
-      "sweet-potato",
-      "vegetarian"
+      "beef",
+      "potato",
+      "slaw",
+      "bowls"
     ],
     "cuisine": "American",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
