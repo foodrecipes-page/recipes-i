@@ -4135,13 +4135,14 @@
   },
   {
     "slug": "indulgent-polish-cheese-pie",
-    "title": "Indulgent Polish Cheese Pie",
+    "title": "Polish Potato and Cheese Pie",
     "tags": [
-      "polish",
-      "lunch"
+      "polish-food",
+      "cheese-pie",
+      "comfort-food"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 40,
+    "cuisine": "polish",
+    "totalTimeMin": 75,
     "shard": "i"
   },
   {
@@ -4851,17 +4852,14 @@
   },
   {
     "slug": "indulgent-smoky-irish-lamb-stew",
-    "title": "Indulgent Smoky Irish Lamb Stew",
+    "title": "Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "flexitarian-friendly",
-      "irish-cuisine",
-      "lamb-recipes",
-      "sous-vide-cooking",
-      "special-occasion"
+      "irish",
+      "lamb",
+      "stew"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
