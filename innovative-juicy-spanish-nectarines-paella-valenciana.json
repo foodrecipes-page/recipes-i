@@ -1,0 +1,98 @@
+{
+  "slug": "innovative-juicy-spanish-nectarines-paella-valenciana",
+  "title": "Spanish Valenciana Paella with Grilled Nectarines",
+  "description": "A classic Spanish dish from the Valencia region, paired with the sweetness of grilled nectarines. This paella recipe serves a crowd and is perfect for a summer evening.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Valenciana Sausage",
+      "amount": "1 pound, sliced",
+      "notes": "Spanish chorizo or morcilla can be substituted"
+    },
+    {
+      "name": "Uncured Chicken Breast",
+      "amount": "1 pound, boneless and skinless",
+      "notes": "White meat is used to keep the dish lean"
+    },
+    {
+      "name": "Spanish Rice",
+      "amount": "2 cups",
+      "notes": "Calasparra rice or other short-grain rice is best"
+    },
+    {
+      "name": "Artichoke Hearts",
+      "amount": "1 can (14 oz), drained and chopped",
+      "notes": "Canned or fresh artichokes can be used"
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "2, sliced",
+      "notes": "Fresh peppers can be roasted in the oven"
+    },
+    {
+      "name": "Grilled Nectarines",
+      "amount": "4, sliced",
+      "notes": "Grilled to perfection and served on top"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large, diced",
+      "notes": "Fresh or canned tomatoes can be used"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "Use fresh garlic for the best flavor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "Use a high-quality extra-virgin olive oil"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": "A key ingredient in traditional paella"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced Valenciana sausage and cook until browned, about 5 minutes.",
+    "Add the chicken breast and cook until browned on both sides, about 5-7 minutes.",
+    "Add the artichoke hearts, roasted red peppers, and diced tomato.",
+    "Stir in the smoked paprika and cook for 1 minute.",
+    "Add the Spanish rice to the skillet and stir to combine.",
+    "Cook for 2-3 minutes or until the rice is lightly toasted.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked.",
+    "While the paella is cooking, grill the nectarines slices until caramelized.",
+    "Serve the paella hot, topped with grilled nectarines and fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "spanish",
+    "valenciana",
+    "nectarines",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-juicy-spanish-nectarines-paella-valenciana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:38:25.229Z"
+}
