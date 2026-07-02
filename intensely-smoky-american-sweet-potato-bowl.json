@@ -1,0 +1,91 @@
+{
+  "slug": "intensely-smoky-american-sweet-potato-bowl",
+  "title": "Smoky American Potato Bowl",
+  "description": "A hearty, smoky potato bowl filled with tender beef and topped with a tangy slaw.",
+  "cuisine": "American",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "american potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sweet corn",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Scrub and cube the potatoes, then toss with 1 tablespoon of olive oil and season with salt and pepper.",
+    "3. Spread potatoes on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "4. In a large skillet, cook the beef over medium-high heat until browned, breaking into small pieces as it cooks.",
+    "5. Add the onion, garlic, and smoky paprika to the skillet and cook until the onion is translucent.",
+    "6. In a large bowl, combine the cooked potatoes, beef mixture, and cabbage.",
+    "7. In a separate bowl, whisk together the mayonnaise and apple cider vinegar to make the slaw dressing.",
+    "8. Toss the cabbage with the slaw dressing until well coated.",
+    "9. To assemble the bowls, divide the potato-beef mixture among four bowls, then top each with a spoonful of slaw.",
+    "10. Serve immediately, garnished with sweet corn kernels if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "potato",
+    "slaw",
+    "bowls"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-american-sweet-potato-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:42:50.899Z"
+}
