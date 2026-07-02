@@ -1,0 +1,91 @@
+{
+  "slug": "indulgent-saudi-arabian-wagyu-burger",
+  "title": "Saudi Wagyu Burger",
+  "description": "A rich and savory Arabian-inspired burger featuring wagyu beef and topped with indulgent ingredients.",
+  "cuisine": "Arabian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wagyu Beef Patties (4)",
+      "amount": "4 x 1/4 inch thick patties",
+      "notes": ""
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1 large onion",
+      "notes": ""
+    },
+    {
+      "name": "Spiced Arabian Sauce",
+      "amount": "1/4 cup",
+      "notes": "see notes for ingredients"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Brioche Buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Wagyu Beef Bacon (4 slices)",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/4 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Pita Chips",
+      "amount": "1 cup crushed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Form wagyu beef into 4 patties and season with salt and pepper.",
+    "Grill wagyu beef patties for 4-5 minutes per side or until cooked to desired temperature.",
+    "While wagyu beef is cooking, caramelize onions by heating 2 tablespoons of oil in a pan over medium heat.",
+    "Add 1 large onion to the pan and cook for 20-25 minutes or until caramelized.",
+    "Toast brioche buns by grilling for 2-3 minutes or until lightly toasted.",
+    "Assemble burgers by spreading Spiced Arabian Sauce on the bottom bun.",
+    "Add a wagyu beef patty, a few slices of Wagyu Beef Bacon, a slice of Cheddar Cheese, and a sprinkle of Feta Cheese.",
+    "Top with caramelized onions and mixed greens.",
+    "Finish with a dollop of Spiced Arabian Sauce and a sprinkle of crushed Pita Chips.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "arabian",
+    "burger",
+    "wagyu",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 80
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-saudi-arabian-wagyu-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T12:48:35.407Z"
+}
