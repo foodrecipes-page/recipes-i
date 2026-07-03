@@ -15814,15 +15814,16 @@
   },
   {
     "slug": "ismoke-roasted-coriander-ovo-veg-wrap-comal",
-    "title": "ISmoke-Roasted Coriander Ovo-Veg Wrap Comal",
+    "title": "Veggie Wrap",
     "tags": [
-      "avocado",
-      "coriander",
-      "griddle",
-      "smoke-hot"
+      "vegan",
+      "vegetarian",
+      "healthy",
+      "lunch",
+      "wrap"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "i"
   },
   {
