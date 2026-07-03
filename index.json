@@ -10430,15 +10430,13 @@
     "slug": "intensely-crispy-syrian-chicken-kebabs",
     "title": "Intensely Crispy Syrian Chicken Kebabs",
     "tags": [
-      "comfort-food",
-      "crispy",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "syrian-cuisine",
+      "chicken-kebabs",
+      "grilled-chicken",
+      "middle-eastern-recipe"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 33,
     "shard": "i"
   },
   {
@@ -12392,18 +12390,14 @@
   },
   {
     "slug": "intensely-rich-russian-peach-pudding",
-    "title": "Intensely Rich Russian Peach Pudding",
+    "title": "Peach Pudding Dessert",
     "tags": [
-      "bain-marie",
-      "cream-based",
-      "gluten-free",
-      "keto-friendly",
-      "low-carb",
-      "peach-recipes",
-      "russian-dessert"
+      "peach",
+      "pudding",
+      "dessert"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 55,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
