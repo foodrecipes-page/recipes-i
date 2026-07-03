@@ -1,0 +1,81 @@
+{
+  "slug": "innovative-nutty-chinese-pork-hot-pot",
+  "title": "Hot Pot Delight",
+  "description": "A hearty and flavorful hot pot recipe that combines the best of pork and vegetables in a savory broth.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Slices",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Hot Pot Broth Mix",
+      "amount": "2 packets",
+      "notes": ""
+    },
+    {
+      "name": "Chinese Broccoli",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the hot pot broth mix to a boil in a large pot.",
+    "Reduce heat to a simmer and add the pork slices.",
+    "Cook for 5 minutes or until the pork is cooked through.",
+    "Add the Chinese broccoli, carrots, and potatoes to the pot.",
+    "Cook for an additional 10 minutes or until the vegetables are tender.",
+    "Stir in the green onions, ginger, and garlic.",
+    "Serve the hot pot with the pork and vegetables.",
+    "Enjoy with your favorite dipping sauces."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "hot-pot",
+    "pork",
+    "vegetable-stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-nutty-chinese-pork-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:56:53.886Z"
+}
