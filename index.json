@@ -3093,17 +3093,15 @@
   },
   {
     "slug": "indulgent-intense-moroccan-natto-chebakia",
-    "title": "Indulgent Intense Moroccan Natto Chebakia",
+    "title": "Moroccan Chebakia with Natto and Honey",
     "tags": [
-      "cheese-pull",
-      "dairy-free",
-      "dessert",
-      "gluten-free",
       "moroccan",
-      "vegan"
+      "natto",
+      "chebakia",
+      "honey"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
@@ -5000,17 +4998,16 @@
   },
   {
     "slug": "indulgent-spanish-peanut-gazpacho",
-    "title": "Indulgent Spanish Peanut Gazpacho",
+    "title": "Spanish Gazpacho with Peanut Crunch",
     "tags": [
+      "gazpacho",
+      "peanut-crunch",
+      "spanish-cuisine",
       "cold-soup",
-      "diabetic-friendly",
-      "gazpacho-recipe",
-      "gluten-free",
-      "peanut-cookies",
-      "spanish-cuisine"
+      "vegetarian"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "i"
   },
   {
