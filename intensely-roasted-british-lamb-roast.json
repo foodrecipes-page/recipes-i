@@ -1,0 +1,80 @@
+{
+  "slug": "intensely-roasted-british-lamb-roast",
+  "title": "Classic British Roast Lamb",
+  "description": "A traditional British-style roast lamb dish, perfect for special occasions.",
+  "cuisine": "British",
+  "diet": [
+    "lamb",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "British Lamb Leg",
+      "amount": "1 (1.5-2 kg)",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Potatoes",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the lamb leg with salt and black pepper.",
+    "Heat the olive oil in a large oven-safe pan over high heat.",
+    "Sear the lamb leg on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the lamb leg to the preheated oven and roast for 20 minutes.",
+    "Reduce the oven temperature to 180°C (350°F) and continue roasting for an additional 20-25 minutes, or until the lamb reaches your desired level of doneness.",
+    "While the lamb is roasting, toss the potatoes with olive oil, salt, and pepper.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast in the oven for 20-25 minutes, or until golden brown.",
+    "Remove the lamb and potatoes from the oven and let rest for 10 minutes before slicing and serving.",
+    "Garnish with fresh rosemary and roasted garlic before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "roast",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "20g",
+    "fat": "38g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-roasted-british-lamb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:17:20.151Z"
+}
