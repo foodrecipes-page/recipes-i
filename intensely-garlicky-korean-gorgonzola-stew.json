@@ -1,0 +1,91 @@
+{
+  "slug": "intensely-garlicky-korean-gorgonzola-stew",
+  "title": "Gorgonzola Stew",
+  "description": "A rich and savory stew featuring the bold flavors of Gorgonzola cheese and Korean chili flakes.",
+  "cuisine": "Italian-Korean fusion",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gorgonzola cheese",
+      "amount": "8 oz",
+      "notes": "Crumble into small pieces"
+    },
+    {
+      "name": "Intensely garlicky oil",
+      "amount": "2 tbsp",
+      "notes": "Use garlic-infused oil for added depth"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste for desired heat level"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Stew beef (optional)",
+      "amount": "1 lb",
+      "notes": "Brown before adding to stew"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/4 cup",
+      "notes": "Dry, full-bodied"
+    }
+  ],
+  "instructions": [
+    "Heat the intensely garlicky oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "If using stew beef, add it to the pot and brown on all sides, about 5 minutes.",
+    "Add the Gorgonzola cheese, Korean chili flakes, chicken broth, and red wine to the pot.",
+    "Stir until the cheese is melted and the sauce is smooth.",
+    "Bring the stew to a simmer and cook, uncovered, until the flavors have melded together and the sauce has thickened, about 20-25 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "korean",
+    "stew",
+    "gorgonzola",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-garlicky-korean-gorgonzola-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:25:27.258Z"
+}
