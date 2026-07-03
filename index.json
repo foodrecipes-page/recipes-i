@@ -6011,17 +6011,15 @@
   },
   {
     "slug": "innovative-nutty-chinese-pork-hot-pot",
-    "title": "Innovative Nutty Chinese Pork Hot Pot",
+    "title": "Hot Pot Delight",
     "tags": [
-      "chinese-dish",
-      "comfort-food",
-      "copper-pot",
-      "macrobiotic",
-      "nutty",
-      "one-pot"
+      "chinese-cuisine",
+      "hot-pot",
+      "pork",
+      "vegetable-stew"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -11283,17 +11281,16 @@
   },
   {
     "slug": "intensely-garlicky-korean-gorgonzola-stew",
-    "title": "Intensely Garlicky Korean Gorgonzola Stew",
+    "title": "Gorgonzola Stew",
     "tags": [
-      "comfort-food",
-      "garlic-lovers",
-      "korean-stew",
-      "low-sodium",
-      "one-pot",
-      "winter-meal"
+      "italian",
+      "korean",
+      "stew",
+      "gorgonzola",
+      "cheese"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "cuisine": "Italian-Korean fusion",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
