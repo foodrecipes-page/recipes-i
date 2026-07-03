@@ -1,0 +1,95 @@
+{
+  "slug": "intensely-spicy-kenyan-almond-kebabs",
+  "title": "Spicy Kenyan Kebab Recipe",
+  "description": "A flavorful and spicy kebab recipe inspired by Kenyan cuisine, featuring marinated meat and vegetables grilled to perfection.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "Any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 large",
+      "notes": "Cherry tomatoes or sliced"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Intensely spicy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine almond butter, intensely spicy sauce, and lime juice. Blend until smooth.",
+    "In a large bowl, whisk together the marinade mixture, salt, and black pepper.",
+    "Add the chicken breast to the marinade and mix well to coat. Cover and refrigerate for at least 30 minutes.",
+    "Thread the marinated chicken, bell peppers, onions, zucchini, and tomatoes onto skewers.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Brush the grill or grill pan with oil to prevent sticking.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, or until the chicken is cooked through.",
+    "Serve the kebabs hot, garnished with fresh cilantro or parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "kebabs",
+    "chicken",
+    "vegetables",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-spicy-kenyan-almond-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:13:30.839Z"
+}
