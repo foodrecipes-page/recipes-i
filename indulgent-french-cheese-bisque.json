@@ -1,0 +1,71 @@
+{
+  "slug": "indulgent-french-cheese-bisque",
+  "title": "Baked Brie en Croûte",
+  "description": "A French-inspired appetizer featuring a wheel of brie cheese baked in a flaky croissant crust.",
+  "cuisine": "French",
+  "diet": [
+    "indulgent",
+    "cheese"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wheel of Brie Cheese",
+      "amount": "1",
+      "notes": "Soft, creamy cheese"
+    },
+    {
+      "name": "Puff Pastry Sheets",
+      "amount": "1",
+      "notes": "For the croissant crust"
+    },
+    {
+      "name": "Butter, softened",
+      "amount": "2 tbsp",
+      "notes": "For brushing the pastry"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Unroll the puff pastry and roll out to a thickness of about 1/8 inch.",
+    "Cut out a circle of pastry large enough to fit the brie cheese.",
+    "Place the brie cheese in the center of the pastry circle.",
+    "Brush the edges of the pastry with the softened butter.",
+    "Fold the pastry over the cheese, pressing gently to seal.",
+    "Place the pastry on a baking sheet lined with parchment paper.",
+    "Brush the top of the pastry with the remaining butter.",
+    "Bake for 15-20 minutes, or until the pastry is golden brown.",
+    "Garnish with fresh thyme and serve with honey, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "cheese",
+    "baked-cheese",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-french-cheese-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:14:53.145Z"
+}
