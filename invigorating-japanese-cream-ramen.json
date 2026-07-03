@@ -1,0 +1,69 @@
+{
+  "slug": "invigorating-japanese-cream-ramen",
+  "title": "Creamy Japanese Ramen",
+  "description": "A twist on traditional Japanese ramen with a rich and creamy sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "amount": "200g",
+      "notes": "Japanese-style"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2L",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Cream",
+      "amount": "200ml",
+      "notes": "heavy or half-and-half"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring vegetable broth to a simmer in a large pot.",
+    "Cook ramen noodles according to package instructions.",
+    "In a separate pan, combine cream and soy sauce (if using).",
+    "Bring cream mixture to a gentle simmer over medium heat.",
+    "Stir in cooked ramen noodles and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with sesame oil and serve hot.",
+    "Optional: add sliced green onions, bean sprouts, or pickled ginger for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "creamy",
+    "japanese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/invigorating-japanese-cream-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:40:32.023Z"
+}
