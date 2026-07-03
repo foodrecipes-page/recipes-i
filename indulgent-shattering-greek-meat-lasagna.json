@@ -1,0 +1,91 @@
+{
+  "slug": "indulgent-shattering-greek-meat-lasagna",
+  "title": "Greek Lasagna",
+  "description": "A classic Greek-inspired lasagna with meat and cheese, perfect for a satisfying dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Ground meat",
+      "amount": "1 lb",
+      "notes": "80/20 ground beef"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Indulgent cheese",
+      "amount": "1 cup",
+      "notes": "shredded mozzarella"
+    },
+    {
+      "name": "Greek seasonings",
+      "amount": "1 tsp",
+      "notes": "oregano, thyme, basil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "Brown the ground meat in a large skillet over medium-high heat.",
+    "Add the chopped onion and minced garlic to the skillet and cook until softened.",
+    "Stir in the tomato sauce and bring to a simmer.",
+    "In a separate bowl, combine the crumbled feta cheese, grated Parmesan cheese, and shredded indulgent cheese.",
+    "Begin assembling the lasagna by spreading a layer of the meat sauce in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the meat sauce.",
+    "Spread half of the cheese mixture over the noodles.",
+    "Repeat the layers, starting with the meat sauce, noodles, and then the remaining cheese mixture.",
+    "Top the lasagna with the shredded indulgent cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lasagna",
+    "meat",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-shattering-greek-meat-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:33:40.454Z"
+}
