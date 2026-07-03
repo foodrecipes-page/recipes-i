@@ -2850,16 +2850,15 @@
   },
   {
     "slug": "indulgent-greek-chorizo-lasagna",
-    "title": "Indulgent Greek Chorizo Lasagna",
+    "title": "Greek Chorizo Lasagna",
     "tags": [
-      "high-protein",
-      "indulgent",
-      "keto-friendly",
-      "one-pan",
-      "weeknight"
+      "greeksalsa",
+      "lasagnarecipe",
+      "chorizorecipes",
+      "indulgentdishes"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 55,
+    "totalTimeMin": 60,
     "shard": "i"
   },
   {
@@ -13279,17 +13278,16 @@
   },
   {
     "slug": "intensely-smoky-croatian-bulgur-wheat-pilaf",
-    "title": "Intensely Smoky Croatian Bulgur Wheat Pilaf",
+    "title": "Bulgur Pilaf with Smoky Flavor",
     "tags": [
-      "croatian",
-      "gluten-free",
-      "one-pan",
+      "bulgur",
+      "pilaf",
       "smoky",
-      "vegetarian",
-      "weeknight"
+      "croatian",
+      "lunch"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
