@@ -4579,18 +4579,15 @@
   },
   {
     "slug": "indulgent-shattering-greek-meat-lasagna",
-    "title": "Indulgent Shattering Greek Meat Lasagna",
+    "title": "Greek Lasagna",
     "tags": [
-      "greek-cuisine",
-      "high-fat",
-      "indulgent",
-      "one-pan",
-      "romantic-dinner",
-      "shattering-crust",
-      "weeknight-meal"
+      "greek",
+      "lasagna",
+      "meat",
+      "comfort-food"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 70,
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
@@ -15446,14 +15443,12 @@
   },
   {
     "slug": "invigorating-japanese-cream-ramen",
-    "title": "Invigorating Japanese Cream Ramen",
+    "title": "Creamy Japanese Ramen",
     "tags": [
-      "cream-based",
-      "diabetic-friendly",
-      "hangover-cure",
-      "japanese-food",
-      "low-carb",
-      "ramen-recipes"
+      "ramen",
+      "creamy",
+      "japanese",
+      "vegetarian"
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
