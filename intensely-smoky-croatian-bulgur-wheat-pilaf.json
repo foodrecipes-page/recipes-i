@@ -1,0 +1,79 @@
+{
+  "slug": "intensely-smoky-croatian-bulgur-wheat-pilaf",
+  "title": "Bulgur Pilaf with Smoky Flavor",
+  "description": "A hearty and flavorful bulgur pilaf with a smoky twist, perfect for a satisfying lunch.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wheat pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat. Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Stir in smoky paprika and cook for 1 minute.",
+    "Add bulgur and wheat pilaf, stirring to combine with the onion mixture.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until the liquid has been absorbed.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bulgur",
+    "pilaf",
+    "smoky",
+    "croatian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-croatian-bulgur-wheat-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:58:23.715Z"
+}
