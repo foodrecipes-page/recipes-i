@@ -1,0 +1,80 @@
+{
+  "slug": "indulgent-spanish-peanut-gazpacho",
+  "title": "Spanish Gazpacho with Peanut Crunch",
+  "description": "A refreshing cold soup from Spain with a crunchy peanut topping. Perfect for hot summer days.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "2"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1"
+    },
+    {
+      "name": "tomato",
+      "amount": "2"
+    },
+    {
+      "name": "red onion",
+      "amount": "1"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bread",
+      "amount": "1 slice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Peel and chop the cucumber, bell pepper, tomato, and red onion.",
+    "Place the chopped vegetables in a blender with olive oil, vinegar, and water.",
+    "Blend the mixture until smooth.",
+    "Tear the bread into small pieces and toast until crispy.",
+    "Chop the peanuts and mix with the toasted bread.",
+    "Serve the gazpacho cold, topped with the peanut crunch.",
+    "Refrigerate for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gazpacho",
+    "peanut-crunch",
+    "spanish-cuisine",
+    "cold-soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-spanish-peanut-gazpacho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:03:40.726Z"
+}
