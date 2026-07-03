@@ -1,0 +1,68 @@
+{
+  "slug": "intense-smoky-filipino-bacon-onigiri",
+  "title": "Smoked Bacon Onigiri",
+  "description": "A fusion of Japanese and American flavors, these onigiri are filled with crispy smoked bacon and wrapped in a savory rice ball.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Smoked bacon",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Intense soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or regular soy sauce"
+    },
+    {
+      "name": "Grated daikon radish",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Onigiri mold",
+      "amount": "1",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice thoroughly and cook according to package instructions.",
+    "In a pan, cook the smoked bacon over medium heat until crispy.",
+    "Cut the cooked bacon into small pieces and set aside.",
+    "Mix the cooked rice with intense soy sauce and grated daikon radish (if using).",
+    "Shape the rice mixture into small triangles or rectangles.",
+    "Place a small amount of cooked bacon in the center of each triangle.",
+    "Fold the triangle in half over the bacon to form a triangle shape.",
+    "Gently press the edges together to seal the onigiri."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "smoked-bacon",
+    "filipino-food",
+    "onigiri",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-filipino-bacon-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:27:05.584Z"
+}
