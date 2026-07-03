@@ -1,0 +1,78 @@
+{
+  "slug": "indulgent-intense-moroccan-natto-chebakia",
+  "title": "Moroccan Chebakia with Natto and Honey",
+  "description": "A sweet and savory twist on traditional Moroccan chebakia, incorporating the intense flavor of natto and the indulgent taste of honey.",
+  "cuisine": "Moroccan",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unbleached all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "natto",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine 1 cup of all-purpose flour and 1/2 cup of unbleached all-purpose flour.",
+    "Gradually add in the water and honey, stirring until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Heat the butter in a large skillet over medium heat.",
+    "Roll out the dough into thin sheets, and fry in the skillet until golden brown.",
+    "Drain the chebakia on paper towels.",
+    "In a small bowl, mix together the confectioners' sugar and rose water.",
+    "Dust the chebakia with the sugar mixture.",
+    "Serve the chebakia warm, topped with a spoonful of natto.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "natto",
+    "chebakia",
+    "honey"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-intense-moroccan-natto-chebakia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:52:38.073Z"
+}
