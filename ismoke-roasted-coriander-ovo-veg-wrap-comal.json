@@ -1,0 +1,70 @@
+{
+  "slug": "ismoke-roasted-coriander-ovo-veg-wrap-comal",
+  "title": "Veggie Wrap",
+  "description": "A flavorful and healthy wrap filled with roasted vegetables and spices.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted Vegetables (carrots, zucchini, bell peppers)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coriander",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ovo",
+      "amount": "null"
+    },
+    {
+      "name": "Veg Wrap",
+      "amount": "1",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "Ismoke",
+      "amount": "1 tsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "Comal",
+      "amount": "null"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan or griddle over medium heat.",
+    "2. Spread a small amount of ismoke on the wrap.",
+    "3. Add the roasted vegetables on half of the wrap.",
+    "4. Sprinkle coriander over the vegetables.",
+    "5. Fold the wrap in half to enclose the filling.",
+    "6. Cook for 2-3 minutes or until the wrap is crispy and the filling is heated through.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "healthy",
+    "lunch",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ismoke-roasted-coriander-ovo-veg-wrap-comal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:04:42.377Z"
+}
