@@ -1,0 +1,67 @@
+{
+  "slug": "intensely-rich-russian-peach-pudding",
+  "title": "Peach Pudding Dessert",
+  "description": "A rich and decadent dessert made with peaches and creamy pudding, perfect for warm weather.",
+  "cuisine": null,
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "vanilla pudding mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and slice the peaches into wedges.",
+    "In a large mixing bowl, combine the pudding mix and heavy cream.",
+    "Add the sugar and cinnamon to the pudding mixture and stir until well combined.",
+    "Pour the pudding mixture into individual serving cups or a large baking dish.",
+    "Arrange the peach wedges on top of the pudding mixture.",
+    "Bake for 25-30 minutes, or until the pudding is set and the peaches are tender.",
+    "Serve warm or chilled, topped with whipped cream or additional peaches if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peach",
+    "pudding",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-rich-russian-peach-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:13:13.480Z"
+}
