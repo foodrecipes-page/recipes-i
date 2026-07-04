@@ -1,0 +1,71 @@
+{
+  "slug": "intense-smoky-argentinian-callaloo-skewers",
+  "title": "Argentinian Smoked Callaloo Skewers",
+  "description": "A flavorful and refreshing dish from Argentina, featuring smoky callaloo skewers that are perfect for a summer evening. The intense smokiness of the chimichurri sauce pairs beautifully with the tender callaloo and the char of the grill.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "callaloo",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Soak 10 wooden skewers in water for at least 30 minutes.",
+    "Trim the callaloo leaves and cut them in half or quarters, depending on their size.",
+    "In a blender or food processor, combine olive oil, red wine vinegar, garlic, and parsley. Blend until smooth.",
+    "Thread a piece of callaloo onto a skewer, followed by a small amount of the chimichurri sauce. Repeat until the skewer is full.",
+    "Repeat with the remaining ingredients and skewers.",
+    "Preheat a grill to medium-high heat. Grill the skewers for 2-3 minutes per side, or until the callaloo is tender and slightly charred.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "vegetarian",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-argentinian-callaloo-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:41:20.699Z"
+}
