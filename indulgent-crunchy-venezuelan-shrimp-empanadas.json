@@ -1,0 +1,77 @@
+{
+  "slug": "indulgent-crunchy-venezuelan-shrimp-empanadas",
+  "title": "Shrimp Empanadas with Crunchy Slaw",
+  "description": "A twist on traditional empanadas, filled with succulent shrimp and served with a refreshing crunchy slaw. Perfect for a Venezuelan-inspired snack or meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound, peeled and deveined"
+    },
+    {
+      "name": "empanadas dough",
+      "amount": "1 package, thawed"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "crunchy slaw seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Prepare empanadas dough according to package instructions.",
+    "In a separate pan, heat a small amount of oil over medium heat.",
+    "Add shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Set shrimp aside and allow to cool.",
+    "In a large bowl, combine cabbage, mayonnaise, lime juice, salt, and crunchy slaw seasoning.",
+    "Mix until well combined.",
+    "Spoon a tablespoon of the slaw onto the center of each empanada dough.",
+    "Add a few pieces of cooked shrimp on top of the slaw.",
+    "Fold empanadas in half and press edges together to seal.",
+    "Brush tops with a little bit of oil and place on a baking sheet.",
+    "Bake for 15-20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "empanadas",
+    "venezuelan",
+    "seafood",
+    "indulgent",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-crunchy-venezuelan-shrimp-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:46:53.477Z"
+}
