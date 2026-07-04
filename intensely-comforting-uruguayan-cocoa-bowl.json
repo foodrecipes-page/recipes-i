@@ -1,0 +1,77 @@
+{
+  "slug": "intensely-comforting-uruguayan-cocoa-bowl",
+  "title": "Cocoa Dulce de Leche Flan",
+  "description": "A classic Uruguayan dessert with a twist, inspired by the intense flavors of dulce de leche and cocoa. This comforting flan is a perfect treat for any occasion.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "large egg yolks",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "plus 1/2 cup for caramelizing"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dulce de leche",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together egg yolks and 1 cup sugar until pale yellow.",
+    "In a separate bowl, whisk together cocoa powder and dulce de leche until smooth.",
+    "Add the cocoa mixture to the egg yolk mixture and whisk until well combined.",
+    "Pour the mixture into 4-6 ramekins or custard cups.",
+    "Place the ramekins in a large bowl or baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Just before serving, sprinkle with a pinch of sugar and serve in bowls.",
+    "Caramelize the sugar by placing the ramekins under the broiler for 1-2 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "dulce de leche",
+    "cocoa",
+    "flan",
+    "uruguayan dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "8g",
+    "carbs": "40g",
+    "fat": "18g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-comforting-uruguayan-cocoa-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:00:14.000Z"
+}
