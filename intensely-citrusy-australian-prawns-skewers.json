@@ -1,0 +1,84 @@
+{
+  "slug": "intensely-citrusy-australian-prawns-skewers",
+  "title": "Australian Prawn Skewers",
+  "description": "A quick and easy recipe for grilled prawn skewers with a tangy citrus glaze. Perfect for a summer barbecue.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "1 pound (450g)",
+      "notes": null
+    },
+    {
+      "name": "Australian bush tomatoes (or cherry tomatoes)",
+      "amount": "1 cup (115g)",
+      "notes": null
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup (55g)",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup (15g)",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons (30g)",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon (15g)",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons (30g)",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Soak 10 bamboo skewers in water for at least 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "Thread prawns, bush tomatoes, onion, and cilantro onto the skewers.",
+    "In a small bowl, whisk together lemon juice, honey, and olive oil.",
+    "Brush the skewers with the citrus glaze and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the prawns are pink and cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "grilled",
+    "seafood",
+    "summer",
+    "barbecue"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-citrusy-australian-prawns-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:52:28.198Z"
+}
