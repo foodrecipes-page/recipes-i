@@ -2780,17 +2780,14 @@
   },
   {
     "slug": "indulgent-german-cabbage-casserole",
-    "title": "Indulgent German Cabbage Casserole",
+    "title": "German Sausage and Cabbage Casserole",
     "tags": [
-      "cabbage",
-      "comfort-food",
-      "crisp-top",
       "german",
-      "one-pot",
-      "vegan-friendly"
+      "indulgent",
+      "casserole"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 50,
+    "cuisine": "german",
+    "totalTimeMin": 60,
     "shard": "i"
   },
   {
@@ -4854,18 +4851,15 @@
   },
   {
     "slug": "indulgent-smoky-kenyan-matooke-gratin",
-    "title": "Indulgent Smoky Kenyan Matooke Gratin",
+    "title": "Smoked Matooke Gratin",
     "tags": [
-      "breakfast-dish",
-      "comfort-food",
-      "green-bananas",
-      "high-calorie",
-      "kenyan-cuisine",
-      "sattvic-friendly",
-      "sweet-potatoes"
+      "kenyan",
+      "vegetarian",
+      "smoky",
+      "gratin"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
