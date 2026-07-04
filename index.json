@@ -2685,16 +2685,15 @@
   },
   {
     "slug": "indulgent-fragrant-moroccan-chicken-sellou",
-    "title": "Indulgent Fragrant Moroccan Chicken Sellou",
+    "title": "Moroccan Chicken Sellou",
     "tags": [
-      "gluten-free",
-      "high-protein",
       "moroccan",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "sellou",
+      "indulgent"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 60,
     "shard": "i"
   },
   {
@@ -7763,16 +7762,17 @@
   },
   {
     "slug": "intense-molten-peruvian-rice-tacu-tacu",
-    "title": "Intense Molten Peruvian Rice Tacu Tacu",
+    "title": "Tacu Tacu with Peruvian Rice",
     "tags": [
-      "comfort-food",
-      "lacto-vegetarian",
-      "one-pot",
-      "peruvian-cuisine",
-      "weeknight"
+      "peruvian",
+      "rice",
+      "breakfast",
+      "lunch",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -9536,17 +9536,15 @@
   },
   {
     "slug": "intensely-aromatic-brazilian-chicken-stew",
-    "title": "Intensely Aromatic Brazilian Chicken Stew",
+    "title": "Brazilian Chicken Stew",
     "tags": [
-      "brazilian-cuisine",
-      "chicken-recipes",
-      "coconut-milk",
-      "one-pot",
-      "slow-cooked",
-      "south-american"
+      "brazilian",
+      "chicken",
+      "stew",
+      "dinner"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -10528,17 +10526,14 @@
   },
   {
     "slug": "intensely-crunchy-kenyan-fish-stew",
-    "title": "Intensely Crunchy Kenyan Fish Stew",
+    "title": "Kenyan Fish Stew",
     "tags": [
-      "african-cuisine",
-      "crunchy",
-      "high-protein",
-      "nutty",
-      "one-pan",
-      "weeknight"
+      "kenyan",
+      "fish",
+      "stew"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "cuisine": "kenyan",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -11062,16 +11057,15 @@
   },
   {
     "slug": "intensely-flavored-vietnamese-shrimp-banh-cuon",
-    "title": "Intensely Flavored Vietnamese Shrimp Banh Cuon",
+    "title": "Vietnamese Shrimp Banh Cuon Recipe",
     "tags": [
-      "appetizer",
-      "banh-cuon",
-      "macrobiotic",
+      "vietnamese",
       "shrimp",
-      "snack",
-      "vietnamese"
+      "noodles",
+      "rice-paper",
+      "roll"
     ],
-    "cuisine": "Vietnamese",
+    "cuisine": "vietnamese",
     "totalTimeMin": 30,
     "shard": "i"
   },
