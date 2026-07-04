@@ -1,0 +1,69 @@
+{
+  "slug": "i-crispy-i-festive-episses-lacquerware-bowl",
+  "title": "Crispy Episses in Lacquerware Bowl",
+  "description": "A simple and elegant dish featuring crispy episses in a beautiful lacquerware bowl. Perfect for a festive occasion.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Episses",
+      "amount": "12 oz",
+      "notes": "Fresh and firm"
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "Lacquerware, for serving"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced, for flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the episses and pat dry with paper towels.",
+    "Brush the episses with olive oil and season with salt and black pepper.",
+    "Place the episses in a single layer on a baking sheet.",
+    "Roast in the preheated oven for 12-15 minutes, or until crispy.",
+    "Meanwhile, mince the garlic and set aside.",
+    "Once the episses are done, remove from the oven and sprinkle with minced garlic.",
+    "Serve immediately in the lacquerware bowl.",
+    "Garnish with additional episses if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "episses",
+    "lacquerware",
+    "festive",
+    "snack"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/i-crispy-i-festive-episses-lacquerware-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:58:26.599Z"
+}
