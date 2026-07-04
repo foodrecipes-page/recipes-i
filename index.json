@@ -536,16 +536,15 @@
   },
   {
     "slug": "icy-indulgent-indian-potato-udupi-vada-pav",
-    "title": "icy indulgent indian potato udupi vada pav",
+    "title": "Udupi-Style Vada Pav",
     "tags": [
-      "date-night",
-      "dessert",
       "indian",
-      "kosher-friendly",
-      "romantic"
+      "street-food",
+      "breakfast",
+      "snack"
     ],
     "cuisine": "indian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -2517,17 +2516,15 @@
   },
   {
     "slug": "indulgent-egyptian-halal-friendly-tagine",
-    "title": "Indulgent Egyptian Halal-Friendly Tagine",
+    "title": "Tagine Chicken with Apricot and Almonds",
     "tags": [
-      "gluten-free",
-      "halal",
-      "middle-eastern",
-      "one-pan",
-      "slow-cooker",
-      "weeknight"
+      "north-african",
+      "chicken",
+      "apricots",
+      "almonds"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 240,
+    "cuisine": "egyptian",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
