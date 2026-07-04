@@ -2371,18 +2371,16 @@
   },
   {
     "slug": "indulgent-crunchy-venezuelan-shrimp-empanadas",
-    "title": "indulgent crunchy venezuelan shrimp empanadas",
+    "title": "Shrimp Empanadas with Crunchy Slaw",
     "tags": [
-      "crunchy",
-      "gluten-free",
-      "indulgent",
-      "keto",
-      "latin",
-      "one-pan",
+      "shrimp",
+      "empanadas",
+      "venezuelan",
       "seafood",
-      "venezuelan"
+      "indulgent",
+      "crunchy"
     ],
-    "cuisine": "venezuelanlatin",
+    "cuisine": "Venezuelan",
     "totalTimeMin": 35,
     "shard": "i"
   },
@@ -13840,17 +13838,16 @@
   },
   {
     "slug": "intensely-spicy-moroccan-chicken-tagine",
-    "title": "intensely spicy moroccan chicken tagine",
+    "title": "Spicy Moroccan Chicken Tagine",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "moroccan",
-      "one-pan",
-      "paleo",
-      "weeknight"
+      "marrakech",
+      "moroccanfood",
+      "spicy",
+      "chicken",
+      "tagine"
     ],
-    "cuisine": "moroccan",
-    "totalTimeMin": 35,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
