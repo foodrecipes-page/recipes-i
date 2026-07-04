@@ -1,0 +1,82 @@
+{
+  "slug": "intensely-crunchy-kenyan-fish-stew",
+  "title": "Kenyan Fish Stew",
+  "description": "A hearty and flavorful fish stew originating from Kenya. This recipe combines the rich flavors of Africa with the freshness of fish.",
+  "cuisine": "kenyan",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets (any white fish)",
+      "amount": "1 pound",
+      "notes": "You can use any white fish such as tilapia, cod, or snapper."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped onion adds a sweet and savory flavor to the stew."
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Use fresh tomatoes for the best flavor."
+    },
+    {
+      "name": "Intensely spicy peppers",
+      "amount": "2",
+      "notes": "You can adjust the level of spiciness to your liking."
+    },
+    {
+      "name": "Crunchy vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a neutral-tasting oil with a high smoke point."
+    },
+    {
+      "name": "Kenyan spices (e.g., cumin, coriander, turmeric)",
+      "amount": "1 teaspoon",
+      "notes": "You can adjust the amount to your liking."
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Add salt and pepper to taste."
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "for garnish",
+      "notes": "Use fresh cilantro leaves for garnish."
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onion and cook until it is translucent.",
+    "Add the tomatoes and cook until they are soft.",
+    "Add the fish fillets and cook for 2-3 minutes on each side.",
+    "Add the peppers, spices, salt, and pepper.",
+    "Stir well and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10-15 minutes.",
+    "Serve the stew hot, garnished with fresh cilantro leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "fish",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-crunchy-kenyan-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:16:51.433Z"
+}
