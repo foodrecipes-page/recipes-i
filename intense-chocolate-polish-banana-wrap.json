@@ -1,0 +1,69 @@
+{
+  "slug": "intense-chocolate-polish-banana-wrap",
+  "title": "Polish Chocolate Banana Wrap",
+  "description": "A unique dessert combination of Polish flavors with chocolate and banana in a crispy wrap.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Polish chocolate",
+      "amount": "100g",
+      "notes": "Dark chocolate for a more intense flavor"
+    },
+    {
+      "name": "Banana",
+      "amount": "2",
+      "notes": "Ripe for a sweeter taste"
+    },
+    {
+      "name": "Tortilla wrap",
+      "amount": "1",
+      "notes": "For a crispy exterior"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 tsp",
+      "notes": "To balance the flavors"
+    },
+    {
+      "name": "Melted butter",
+      "amount": "1 tsp",
+      "notes": "For a crispy wrap"
+    }
+  ],
+  "instructions": [
+    "Melt the Polish chocolate in a double boiler.",
+    "Slice the bananas and set aside.",
+    "Brush the tortilla wrap with melted butter.",
+    "Place the banana slices on one half of the wrap.",
+    "Drizzle the melted chocolate over the bananas.",
+    "Fold the other half of the wrap to enclose the filling.",
+    "Dust with confectioners' sugar.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate",
+    "banana",
+    "dessert",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-chocolate-polish-banana-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:57:45.295Z"
+}
