@@ -1,0 +1,91 @@
+{
+  "slug": "indulgent-fragrant-moroccan-chicken-sellou",
+  "title": "Moroccan Chicken Sellou",
+  "description": "Indulge in the rich flavors of Morocco with this fragrant and flavorful chicken dish served with a traditional sellou.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Sellou",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "for glazing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breasts with cumin, paprika, cinnamon, salt, and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken breasts until browned on both sides, about 5 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes or until cooked through.",
+    "While the chicken is cooking, heat the chopped onion in a large saucepan over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the crushed sellou and cook for 2-3 minutes, until fragrant.",
+    "Glaze the cooked chicken breasts with honey and serve with the sellou mixture.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "sellou",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-fragrant-moroccan-chicken-sellou",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:03:05.911Z"
+}
