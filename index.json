@@ -6620,18 +6620,16 @@
   },
   {
     "slug": "intense-creamy-tunisian-chicken-wrap",
-    "title": "Intense Creamy Tunisian Chicken Wrap",
+    "title": "Chicken Wrap with Tunisian Sauce",
     "tags": [
-      "creamy",
-      "easy",
-      "low-carb",
-      "quick",
-      "romantic",
+      "chicken",
+      "wrap",
       "tunisian",
-      "wrap"
+      "creamy",
+      "intense"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 37,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
