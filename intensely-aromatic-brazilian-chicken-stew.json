@@ -1,0 +1,96 @@
+{
+  "slug": "intensely-aromatic-brazilian-chicken-stew",
+  "title": "Brazilian Chicken Stew",
+  "description": "A hearty and flavorful stew inspired by Brazilian cuisine, featuring tender chicken and aromatic spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "pork-free",
+    "lamb-free",
+    "beef-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tablespoons",
+      "notes": "such as cumin or coriander"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Add the aromatic spices, chicken broth, and stew.",
+    "Bring to a boil, then reduce heat to low and simmer for 20-25 minutes, or until the chicken is cooked through.",
+    "Stir in the sour cream and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "chicken",
+    "stew",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-aromatic-brazilian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:25:27.769Z"
+}
