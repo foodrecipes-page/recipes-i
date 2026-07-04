@@ -1,0 +1,83 @@
+{
+  "slug": "indulgent-german-cabbage-casserole",
+  "title": "German Sausage and Cabbage Casserole",
+  "description": "A hearty and comforting casserole filled with sausage, cabbage, and potatoes, perfect for a cold winter night.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausage (Bratwurst)",
+      "amount": "1 pound",
+      "notes": "German-style sausage"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the sausage over medium-high heat, breaking it up with a spoon as it cooks, until browned, about 5-7 minutes.",
+    "Add the chopped onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the shredded cabbage to the skillet and cook until wilted, about 5 minutes.",
+    "In a separate bowl, combine the diced potatoes, salt, and caraway seeds (if using).",
+    "In a greased 9x13 inch baking dish, arrange half of the potato mixture.",
+    "Add the cooked sausage and cabbage mixture on top of the potatoes.",
+    "Top with the remaining potato mixture.",
+    "Dot the top with butter.",
+    "Cover with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the potatoes are golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "indulgent",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 44,
+    "fat": 31
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-german-cabbage-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:57:38.065Z"
+}
