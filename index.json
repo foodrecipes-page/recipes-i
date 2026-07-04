@@ -10037,18 +10037,16 @@
   },
   {
     "slug": "intensely-citrusy-australian-prawns-skewers",
-    "title": "Intensely Citrusy Australian Prawns Skewers",
+    "title": "Australian Prawn Skewers",
     "tags": [
       "australian",
-      "fodmap-friendly",
       "grilled",
-      "high-protein",
-      "one-pan",
       "seafood",
-      "weeknight"
+      "summer",
+      "barbecue"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 32,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -13133,17 +13131,14 @@
   },
   {
     "slug": "intensely-smoky-american-chicken-casserole",
-    "title": "Intensely Smoky American Chicken Casserole",
+    "title": "Smoky Chicken Casserole",
     "tags": [
-      "american-classics",
-      "comfort-food",
-      "high-protein",
-      "one-pan",
       "smoky",
-      "weeknight"
+      "casserole",
+      "chicken"
     ],
     "cuisine": "American",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -13479,16 +13474,14 @@
   },
   {
     "slug": "intensely-smoky-norwegian-lamb-skewers",
-    "title": "Intensely Smoky Norwegian Lamb Skewers",
+    "title": "Smoky Norwegian Lamb Skewers",
     "tags": [
-      "grilled-meats",
-      "lamb-recipes",
-      "norwegian-cuisine",
-      "romantic-dinner",
-      "smoky-flavors"
+      "grill",
+      "summer",
+      "norwegian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "norwegian",
+    "totalTimeMin": 33,
     "shard": "i"
   },
   {
