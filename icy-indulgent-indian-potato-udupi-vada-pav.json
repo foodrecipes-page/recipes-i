@@ -1,0 +1,68 @@
+{
+  "slug": "icy-indulgent-indian-potato-udupi-vada-pav",
+  "title": "Udupi-Style Vada Pav",
+  "description": "A popular Indian street food from the Udupi region, this recipe combines crispy vada with soft pav bread.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "udupi",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "icy",
+      "amount": "1/2 cup cold water"
+    },
+    {
+      "name": "pav",
+      "amount": "4 pav breads"
+    },
+    {
+      "name": "vada",
+      "amount": "2 vada patties"
+    },
+    {
+      "name": "indulgent",
+      "amount": "1/4 cup tamarind chutney"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until tender. Let them cool and mash.",
+    "In a bowl, combine the mashed potatoes, udupi, and icy water. Mix well.",
+    "Divide the mixture into 2 portions and shape each into a patty.",
+    "Heat oil in a pan for frying the vadas.",
+    "Fry the vada patties until golden brown.",
+    "Toast the pav breads by grilling them lightly.",
+    "Assemble the vada pav by placing a vada patty between two pav breads.",
+    "Drizzle tamarind chutney on top of the vada patty.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "street-food",
+    "breakfast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-indulgent-indian-potato-udupi-vada-pav",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:16:36.576Z"
+}
