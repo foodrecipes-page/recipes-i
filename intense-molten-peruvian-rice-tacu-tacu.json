@@ -1,0 +1,83 @@
+{
+  "slug": "intense-molten-peruvian-rice-tacu-tacu",
+  "title": "Tacu Tacu with Peruvian Rice",
+  "description": "A fusion of traditional Peruvian rice with the intense flavor of tacu tacu.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Peruvian rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Tacu tacu",
+      "amount": "2 cups",
+      "notes": "cooked and mashed beans"
+    },
+    {
+      "name": "Intense cheese",
+      "amount": "1/2 cup",
+      "notes": "such as queso fresco or feta"
+    },
+    {
+      "name": "Molten cheese",
+      "amount": "1/4 cup",
+      "notes": "such as mozzarella or Monterey Jack"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the Peruvian rice according to package instructions.",
+    "In a large pan, combine the tacu tacu, intense cheese, molten cheese, green onions, and cilantro. Stir until well combined.",
+    "Add the cooked rice to the pan and stir until the ingredients are well mixed.",
+    "Season with salt and black pepper to taste.",
+    "Serve the tacu tacu mixture in a bowl or on a plate.",
+    "Garnish with additional green onions and cilantro if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "rice",
+    "breakfast",
+    "lunch",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-molten-peruvian-rice-tacu-tacu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:53:03.684Z"
+}
