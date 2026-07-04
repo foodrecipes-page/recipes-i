@@ -16,17 +16,16 @@
   },
   {
     "slug": "i-crispy-i-festive-episses-lacquerware-bowl",
-    "title": "iCrispy iFestive Episses Lacquerware-Bowl",
+    "title": "Crispy Episses in Lacquerware Bowl",
     "tags": [
+      "crispy",
       "episses",
+      "lacquerware",
       "festive",
-      "gluten-free",
-      "lacquerware-bowl",
-      "malaysian",
-      "umami"
+      "snack"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "French",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -10466,18 +10465,15 @@
   },
   {
     "slug": "intensely-crunchy-algerian-lentils-pilaf",
-    "title": "Intensely Crunchy Algerian Lentils Pilaf",
+    "title": "Spicy Algerian Lentil Pilaf",
     "tags": [
       "algerian",
-      "high-fiber",
       "lentil",
-      "one-pot",
       "pilaf",
-      "vegan",
-      "vegetarian"
+      "spicy"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "algerian",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
