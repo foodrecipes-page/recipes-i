@@ -1,0 +1,80 @@
+{
+  "slug": "indulgent-italian-tomato-torta-caprese",
+  "title": "Torta Caprese",
+  "description": "A classic Italian dessert originating from the island of Capri, made with sponge cake, fresh mozzarella and juicy tomatoes.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "torta",
+      "amount": "1 package",
+      "notes": "sponge cake"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "fresh tomatoes"
+    },
+    {
+      "name": "mozzarella",
+      "amount": "8 ounces",
+      "notes": "fresh mozzarella"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 cups",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure vanilla extract"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Cut the torta into 1-inch thick slices.",
+    "In a large bowl, whisk together the eggs, sugar, and vanilla extract.",
+    "Add the flour to the bowl and mix until just combined.",
+    "Dip each torta slice into the egg mixture, coating both sides evenly.",
+    "Place the coated torta slices on a baking sheet lined with parchment paper.",
+    "Bake the torta slices in the preheated oven for 15-20 minutes, or until golden brown.",
+    "While the torta is baking, slice the tomatoes into 1/4-inch thick rounds.",
+    "Remove the torta slices from the oven and let them cool on a wire rack.",
+    "To assemble the Caprese, place a slice of torta on a serving plate, followed by a slice of mozzarella and a tomato round.",
+    "Drizzle with olive oil and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "torta-caprese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-italian-tomato-torta-caprese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:22:30.669Z"
+}
