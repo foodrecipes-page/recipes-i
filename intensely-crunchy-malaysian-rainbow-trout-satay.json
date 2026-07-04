@@ -1,0 +1,78 @@
+{
+  "slug": "intensely-crunchy-malaysian-rainbow-trout-satay",
+  "title": "Grilled Trout Satay",
+  "description": "A fusion of Malaysian flavors with a fresh twist. This dish brings together the delicate taste of trout with the bold spices of traditional satay.",
+  "cuisine": "malaysian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rainbow trout fillets",
+      "amount": "4",
+      "notes": "fresh and skin removed"
+    },
+    {
+      "name": "intensely crunchy peanuts",
+      "amount": "1 cup",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "satay spice mix",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "full-fat canned"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "preferably Thai"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "white granulated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together coconut milk, fish sauce, sugar, and satay spice mix.",
+    "2. Add the trout fillets to the marinade and coat evenly.",
+    "3. Thread the marinated trout onto skewers.",
+    "4. Brush the grill or grill pan with vegetable oil and preheat to medium-high heat.",
+    "5. Grill the trout for 2-3 minutes per side or until cooked through.",
+    "6. Meanwhile, heat 1 tablespoon of vegetable oil in a pan over medium heat.",
+    "7. Add the chopped peanuts and cook, stirring frequently, until golden brown and fragrant.",
+    "8. Serve the grilled trout with the peanut topping and garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "satay",
+    "malaysian-fusion"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-crunchy-malaysian-rainbow-trout-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:12:37.907Z"
+}
