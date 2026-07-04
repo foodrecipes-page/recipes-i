@@ -1,0 +1,64 @@
+{
+  "slug": "intensely-crunchy-argentinian-garlic-toast",
+  "title": "Argentinian Garlic Toast",
+  "description": "A simple yet flavorful toast recipe originating from Argentina, featuring a mixture of crushed garlic and toasted bread.",
+  "cuisine": "Argentinian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "crusty bread",
+      "amount": "1 loaf (approx. 1 lb)",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "intensely flavorful olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Slice the crusty bread into 1-inch thick slices.",
+    "3. In a small bowl, crush the garlic cloves using a press or a microplane.",
+    "4. In a separate bowl, mix together the crushed garlic and salt.",
+    "5. Drizzle the olive oil into the garlic mixture and stir to combine.",
+    "6. Place the bread slices on a baking sheet and toast in the oven for 5-7 minutes, or until lightly browned.",
+    "7. Remove the bread from the oven and brush the garlic and olive oil mixture onto each slice.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "garlic",
+    "toast",
+    "easy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-crunchy-argentinian-garlic-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:39:40.705Z"
+}
