@@ -1,0 +1,65 @@
+{
+  "slug": "indulgent-winey-egyptian-dish-flaky-pastry",
+  "title": "Egyptian Flaky Pastry",
+  "description": "A traditional Egyptian dessert made with layers of flaky pastry and a hint of indulgence.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 package (thawed)"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup (softened)"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rose Water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground Cardamom",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry to a thickness of about 1/8 inch.",
+    "Cut the pastry into 6 equal pieces.",
+    "In a small bowl, mix together the sugar, rose water, and ground cardamom.",
+    "Brush the sugar mixture evenly over each pastry piece.",
+    "Fold the pastry pieces in half and press the edges to seal.",
+    "Brush the tops of the pastry with butter.",
+    "Place the pastries on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent",
+    "dessert",
+    "pastry",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-winey-egyptian-dish-flaky-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T22:56:01.243Z"
+}
