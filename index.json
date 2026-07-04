@@ -1482,17 +1482,14 @@
   },
   {
     "slug": "indian-inspired-aerated-canadian-beef-burger",
-    "title": "Indian-inspired Aerated Canadian Beef Burger",
+    "title": "Beef Burger with Indian Spices",
     "tags": [
-      "easy-to-make",
-      "high-protein",
-      "indian-fusion",
-      "mason-jar",
-      "one-pan",
-      "weeknight"
+      "indian",
+      "beef",
+      "burger"
     ],
-    "cuisine": "Indian-Canadian fusion",
-    "totalTimeMin": 35,
+    "cuisine": "indian",
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -5941,17 +5938,15 @@
   },
   {
     "slug": "innovative-low-fat-french-chicken-bowl",
-    "title": "Innovative Low Fat French Chicken Bowl",
+    "title": "Low Fat Chicken French Bowl",
     "tags": [
-      "french-cuisine",
-      "gluten-free",
-      "healthy-eating",
       "low-fat",
-      "meal-prep",
-      "one-bowl"
+      "chicken",
+      "quinoa",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
