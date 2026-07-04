@@ -1,0 +1,85 @@
+{
+  "slug": "innovative-low-fat-french-chicken-bowl",
+  "title": "Low Fat Chicken French Bowl",
+  "description": "A healthier twist on classic French cuisine, this dish features lean chicken breast served in a light and flavorful sauce over a bed of quinoa and steamed vegetables.",
+  "cuisine": "French",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "low-fat chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinse thoroughly before cooking"
+    },
+    {
+      "name": "french onion soup mix",
+      "amount": "1 packet",
+      "notes": "optional"
+    },
+    {
+      "name": "steamed broccoli",
+      "amount": "1 head",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken breast with salt and pepper.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chicken breast to the skillet and cook until browned on both sides, about 5-6 minutes.",
+    "Transfer the chicken to a baking dish and bake for an additional 15-20 minutes, or until cooked through.",
+    "While the chicken is cooking, prepare the sauce by combining the chicken broth, French onion soup mix (if using), and low-fat milk (if using) in a small saucepan.",
+    "Bring the sauce to a simmer over medium heat and cook until heated through.",
+    "Cook the quinoa according to package instructions.",
+    "Steam the broccoli until tender.",
+    "To assemble the dish, place a portion of cooked quinoa on a plate, top with a slice of chicken, and spoon the sauce over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fat",
+    "chicken",
+    "quinoa",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-low-fat-french-chicken-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:47:51.041Z"
+}
