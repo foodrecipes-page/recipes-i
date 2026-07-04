@@ -1,0 +1,86 @@
+{
+  "slug": "indian-inspired-aerated-canadian-beef-burger",
+  "title": "Beef Burger with Indian Spices",
+  "description": "A flavorful twist on the classic burger, featuring beef patties seasoned with Indian spices and topped with aerated cheese and fresh vegetables.",
+  "cuisine": "indian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "80% lean ground beef"
+    },
+    {
+      "name": "burger buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "aerated cheese",
+      "amount": "120g",
+      "notes": "melted"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "Indian spice blend"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 200°C.",
+    "Divide beef into 4 equal portions and shape into patties.",
+    "Season patties with garam masala, salt, and black pepper.",
+    "Grill patties for 5 minutes per side or until cooked to 71°C.",
+    "Meanwhile, toast burger buns on the grill.",
+    "Assemble burgers with onion, tomato, cucumber, and aerated cheese.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "beef",
+    "burger"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indian-inspired-aerated-canadian-beef-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:49:06.637Z"
+}
