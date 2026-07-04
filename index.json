@@ -481,14 +481,12 @@
   },
   {
     "slug": "icy-garlicky-canadian-lettuce-toast",
-    "title": "Icy Garlicky Canadian Lettuce Toast",
+    "title": "Canadian Clubhouse Sandwich",
     "tags": [
-      "canadian-cuisine",
-      "egg-free",
-      "garlicky",
-      "quick-fix",
-      "refreshing",
-      "vegetarian"
+      "canadian",
+      "sandwich",
+      "lunch",
+      "easy"
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 15,
@@ -15257,17 +15255,17 @@
   },
   {
     "slug": "intriguingly-crisp-saudi-arabian-lamb-kebabs",
-    "title": "Intriguingly Crisp Saudi Arabian Lamb Kebabs",
+    "title": "Saudi Arabian Lamb Kebabs",
     "tags": [
-      "garlic-lovers",
-      "grilled-meats",
-      "lamb-recipes",
-      "middle-eastern",
-      "pickle-juice",
-      "sour-cream-based"
+      "kebabs",
+      "lamb",
+      "grilled",
+      "arabic",
+      "saudi",
+      "middle-eastern"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
