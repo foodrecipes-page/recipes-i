@@ -1,0 +1,74 @@
+{
+  "slug": "intense-crispy-dutch-shrimp-stir-fry",
+  "title": "Crispy Shrimp Fritters with Stir-Fry Sauce",
+  "description": "A Dutch-inspired appetizer with crispy shrimp fritters served with a sweet and spicy stir-fry sauce. Perfect for a quick snack or light meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free option available"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1/2 cup",
+      "notes": "shaken well"
+    },
+    {
+      "name": "Crushed Dutch crunch cookies",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine flour, egg, and buttermilk. Stir until just combined. Do not overmix.",
+    "2. Add crushed Dutch crunch cookies to the bowl and stir until just combined.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "4. Heat vegetable oil in a deep frying pan to 350°F.",
+    "5. Using a spoon, drop small balls of the shrimp mixture into the hot oil.",
+    "6. Fry the fritters for 2-3 minutes on each side, or until golden brown and crispy.",
+    "7. Remove the fritters from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "8. Serve the fritters hot with a side of stir-fry sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "snack",
+    "fritters",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-crispy-dutch-shrimp-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:39:57.277Z"
+}
