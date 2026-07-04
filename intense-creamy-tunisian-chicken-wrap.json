@@ -1,0 +1,83 @@
+{
+  "slug": "intense-creamy-tunisian-chicken-wrap",
+  "title": "Chicken Wrap with Tunisian Sauce",
+  "description": "A flavorful and creamy chicken wrap with a Tunisian twist. Perfect for a quick lunch or snack.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "wrap",
+      "amount": "4-6",
+      "notes": "Whole wheat or gluten-free"
+    },
+    {
+      "name": "Tunisian sauce",
+      "amount": "1/2 cup",
+      "notes": "See below for sauce ingredients"
+    },
+    {
+      "name": "intense hummus",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "creamy feta cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season the chicken breast with salt and pepper. Bake in the oven for 20-25 minutes or until cooked through.",
+    "3. Meanwhile, prepare the Tunisian sauce by mixing together 1/4 cup of olive oil, 1/4 cup of lemon juice, 2 cloves of minced garlic, and 1 tablespoon of chopped fresh parsley.",
+    "4. Warm the wraps in the oven for 2-3 minutes.",
+    "5. Assemble the wraps by spreading a layer of Tunisian sauce, followed by sliced chicken, lettuce, tomato, cucumber, and feta cheese (if using).",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "wrap",
+    "tunisian",
+    "creamy",
+    "intense"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-creamy-tunisian-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:15:26.107Z"
+}
