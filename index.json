@@ -8635,18 +8635,15 @@
   },
   {
     "slug": "intense-smoky-argentinian-callaloo-skewers",
-    "title": "Intense Smoky Argentinian Callaloo Skewers",
+    "title": "Argentinian Smoked Callaloo Skewers",
     "tags": [
       "argentinian",
-      "date-night",
       "grilled",
-      "paleo",
-      "smoky",
       "vegetarian",
-      "whole30"
+      "summer"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 40,
+    "cuisine": "argentinian",
+    "totalTimeMin": 28,
     "shard": "i"
   },
   {
@@ -10523,17 +10520,14 @@
   },
   {
     "slug": "intensely-crunchy-malaysian-rainbow-trout-satay",
-    "title": "Malaysian Rainbow Trout Satay",
+    "title": "Grilled Trout Satay",
     "tags": [
-      "easy-dinner",
-      "gluten-free",
-      "high-protein",
-      "low-calorie",
-      "malaysian-cuisine",
-      "seafood-recipes"
+      "grilled",
+      "satay",
+      "malaysian-fusion"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 32,
+    "cuisine": "malaysian",
+    "totalTimeMin": 28,
     "shard": "i"
   },
   {
