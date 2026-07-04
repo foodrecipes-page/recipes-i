@@ -5431,16 +5431,15 @@
   },
   {
     "slug": "indulgent-winey-egyptian-dish-flaky-pastry",
-    "title": "Indulgent Winey Egyptian Flaky Pastry",
+    "title": "Egyptian Flaky Pastry",
     "tags": [
+      "indulgent",
       "dessert",
-      "egyptian",
-      "flaky-pastry",
-      "low-carb",
-      "wine-soaked"
+      "pastry",
+      "egyptian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
