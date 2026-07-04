@@ -1,0 +1,89 @@
+{
+  "slug": "intensely-smoky-norwegian-lamb-skewers",
+  "title": "Smoky Norwegian Lamb Skewers",
+  "description": "A flavorful and easy-to-make recipe featuring lamb skewers marinated in a smoky Norwegian-inspired mix of herbs and spices.",
+  "cuisine": "norwegian",
+  "diet": [
+    "gluten-free",
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian-inspired spice mix (fennel seeds, coriander seeds, and a pinch of salt)",
+      "amount": "1 tsp",
+      "notes": "Mix fennel seeds and coriander seeds"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "intensely smoky Norwegian wood chips (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat (around 375°F/190°C).",
+    "2. In a medium bowl, whisk together olive oil, smoked paprika, Norwegian-inspired spice mix, garlic, lemon juice, and black pepper.",
+    "3. Add the lamb cubes to the marinade and mix until coated.",
+    "4. Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "5. Brush the grill grates with olive oil to prevent sticking.",
+    "6. Grill the skewers for 8-10 minutes per side, or until the lamb reaches an internal temperature of 145°F (63°C) for medium-rare.",
+    "7. If using, add the intensely smoky Norwegian wood chips to the grill during the last 5 minutes of cooking.",
+    "8. Remove the skewers from the grill and let rest for 5 minutes before serving.",
+    "9. Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "summer",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-norwegian-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:58:20.890Z"
+}
