@@ -1,0 +1,79 @@
+{
+  "slug": "indulgent-smoky-kenyan-matooke-gratin",
+  "title": "Smoked Matooke Gratin",
+  "description": "A rich and savory Kenyan-inspired matooke gratin with a smoky twist.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "matooke",
+      "amount": "3 pounds"
+    },
+    {
+      "name": "indulgent cheese blend",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan over medium heat, sauté the onion until translucent.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the matooke and cook until slightly tender.",
+    "In a separate bowl, mix together the cheese blend and smoky paprika.",
+    "Transfer the matooke mixture to a baking dish and top with the cheese mixture.",
+    "Drizzle with olive oil and season with salt and black pepper.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "vegetarian",
+    "smoky",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-smoky-kenyan-matooke-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:26:51.225Z"
+}
