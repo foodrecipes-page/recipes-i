@@ -5808,17 +5808,16 @@
   },
   {
     "slug": "innovative-light-irish-potato-stew",
-    "title": "Innovative Light Irish Potato Stew",
+    "title": "Irish Stew with Potatoes",
     "tags": [
-      "comfort-food",
-      "crowd-pleaser",
-      "dutch-oven",
       "irish-cuisine",
-      "lacto-vegetarian",
-      "one-pot"
+      "lamb",
+      "potatoes",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
@@ -6556,17 +6555,15 @@
   },
   {
     "slug": "intense-chocolate-polish-banana-wrap",
-    "title": "Intense Chocolate Polish Banana Wrap",
+    "title": "Polish Chocolate Banana Wrap",
     "tags": [
-      "chocolate-lovers",
-      "fodmap-friendly",
-      "fruit-based",
-      "polish-desserts",
-      "unique-ingredients",
-      "vegetarian"
+      "chocolate",
+      "banana",
+      "dessert",
+      "polish"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "i"
   },
   {
@@ -6642,13 +6639,15 @@
   },
   {
     "slug": "intense-crispy-dutch-shrimp-stir-fry",
-    "title": "Intense Crispy Dutch Shrimp Stir-fry",
+    "title": "Crispy Shrimp Fritters with Stir-Fry Sauce",
     "tags": [
-      "dutch",
-      "dinner"
+      "shrimp",
+      "snack",
+      "fritters",
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -10161,16 +10160,15 @@
   },
   {
     "slug": "intensely-comforting-uruguayan-cocoa-bowl",
-    "title": "Intensely Comforting Uruguayan Cocoa Bowl",
+    "title": "Cocoa Dulce de Leche Flan",
     "tags": [
-      "cocoa-based",
-      "comfort-food",
-      "south-american",
-      "traditional-uruguayan",
-      "warm-desserts"
+      "dulce de leche",
+      "cocoa",
+      "flan",
+      "uruguayan dessert"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
