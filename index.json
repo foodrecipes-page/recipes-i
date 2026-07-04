@@ -3201,15 +3201,13 @@
   },
   {
     "slug": "indulgent-italian-tomato-torta-caprese",
-    "title": "Indulgent Italian Tomato Torta Caprese",
+    "title": "Torta Caprese",
     "tags": [
-      "italian-food",
-      "korean-inspired",
-      "low-glycemic",
-      "one-bowl",
-      "vegetarian"
+      "italian",
+      "dessert",
+      "torta-caprese"
     ],
-    "cuisine": "Italian",
+    "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "i"
   },
