@@ -1,0 +1,82 @@
+{
+  "slug": "intensely-flavored-vietnamese-shrimp-banh-cuon",
+  "title": "Vietnamese Shrimp Banh Cuon Recipe",
+  "description": "A refreshing and flavorful Vietnamese dish made with shrimp, rice noodles, and fresh herbs, wrapped in a delicate rice paper roll.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12 large shrimp, peeled and deveined"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "banh cuon rice paper",
+      "amount": "1 package"
+    },
+    {
+      "name": "intensely flavored fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped carrot",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Soak the rice noodles in hot water for about 10 minutes until soft and pliable.",
+    "Prepare the shrimp by marinating them in the intensely flavored fish sauce for at least 30 minutes.",
+    "Prepare the fresh herbs by washing and drying them thoroughly.",
+    "Assemble the banh cuon by placing a small amount of rice noodles and a shrimp in the center of a banh cuon rice paper.",
+    "Add the fresh herbs, bean sprouts, cucumber, and carrot on top of the shrimp.",
+    "Fold the bottom half of the rice paper over the filling, then fold in the sides and roll up the banh cuon tightly.",
+    "Repeat the process with the remaining ingredients.",
+    "Serve the banh cuon with a sweet and spicy dipping sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "shrimp",
+    "noodles",
+    "rice-paper",
+    "roll"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flavored-vietnamese-shrimp-banh-cuon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:28:47.712Z"
+}
