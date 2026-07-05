@@ -1,0 +1,82 @@
+{
+  "slug": "innovative-crispy-korean-bread-kalguksu",
+  "title": "Crispy Kalguksu Bites",
+  "description": "A creative twist on traditional Korean noodles, turned into crispy bites.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kalguksu noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bread, cubed",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "In a bowl, mix together the noodles, bread, chili flakes, and soy sauce.",
+    "Beat in the egg until the mixture is well combined.",
+    "Add the Panko breadcrumbs and mix until the noodles are evenly coated.",
+    "Using a spoon, drop small amounts of the mixture into the hot oil.",
+    "Fry the bites until golden brown and crispy, about 3-4 minutes.",
+    "Drain the bites on paper towels and sprinkle with sesame seeds.",
+    "Serve the crispy Kalguksu bites hot, garnished with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "snack",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-crispy-korean-bread-kalguksu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T13:33:16.554Z"
+}
