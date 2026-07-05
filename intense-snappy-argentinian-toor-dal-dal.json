@@ -1,0 +1,67 @@
+{
+  "slug": "intense-snappy-argentinian-toor-dal-dal",
+  "title": "Argentinian Grilled Choripan",
+  "description": "A simple and flavorful grilled chorizo sandwich popular in Argentina. Serve with toor dal for a unique twist.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Argentinian chorizo",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Toor dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Intense garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Snappy parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Bread",
+      "amount": "4-6 hoagie rolls"
+    },
+    {
+      "name": "Argentinian chimichurri",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a medium bowl, combine chimichurri ingredients and refrigerate for at least 30 minutes.",
+    "2. Preheat grill to medium-high heat.",
+    "3. Grill chorizo for 2-3 minutes per side, or until nicely charred.",
+    "4. Meanwhile, toast bread rolls on grill or in oven.",
+    "5. Assemble sandwiches by slicing grilled chorizo and serving on toasted bread with a dollop of chimichurri and a sprinkle of parsley.",
+    "6. Serve toor dal on the side for a unique and flavorful pairing."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "chorizo",
+    "sandwich",
+    "dal"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-snappy-argentinian-toor-dal-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:55:05.999Z"
+}
