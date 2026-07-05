@@ -9482,19 +9482,14 @@
   },
   {
     "slug": "intense-yeasty-southern-thai-callaloo-one-pot-wrap",
-    "title": "Intense Yeasty Southern Thai Callaloo One-Pot Wrap",
+    "title": "Southern Style Callaloo Wrap",
     "tags": [
+      "southern",
       "callaloo",
-      "gluten-free",
-      "keto",
-      "one-pan",
-      "southern-thailand",
-      "ssam-wrap",
-      "weeknight",
-      "yeast-free"
+      "wrap"
     ],
-    "cuisine": "Southern Thai",
-    "totalTimeMin": 45,
+    "cuisine": "Southern",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -14672,17 +14667,16 @@
   },
   {
     "slug": "intricately-crispy-norwegian-salmon-wrap",
-    "title": "Intricately Crispy Norwegian Salmon Wrap",
+    "title": "Crispy Norwegian Salmon Wrap",
     "tags": [
-      "corn-husk-wraps",
-      "herbal-flavors",
-      "low-calorie",
-      "midnight-cravings",
-      "norwegian-cuisine",
-      "seafood"
+      "salmon",
+      "wrap",
+      "norwegian",
+      "fish",
+      "gluten-free"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 18,
     "shard": "i"
   },
   {
