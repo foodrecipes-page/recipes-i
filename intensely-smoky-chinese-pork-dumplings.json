@@ -1,0 +1,85 @@
+{
+  "slug": "intensely-smoky-chinese-pork-dumplings",
+  "title": "Smoky Pork Dumplings",
+  "description": "A twist on traditional Chinese dumplings using smoky pork and intensely flavorful ingredients.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "80/20 ratio for optimal flavor"
+    },
+    {
+      "name": "Wonton Wrappers",
+      "amount": "20",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "chopped for added flavor"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated for added spice"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": "for a smoky flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large skillet, cook the ground pork over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "3. Add the grated ginger, soy sauce, smoked paprika, salt, and black pepper to the skillet and stir to combine.",
+    "4. Let the mixture cool to room temperature.",
+    "5. Lay a wonton wrapper on a clean surface and place a tablespoon of the pork mixture in the center.",
+    "6. Dip your finger in water and run it along the edges of the wrapper.",
+    "7. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "8. Press the edges together to seal the dumpling.",
+    "9. Repeat with the remaining wrappers and filling.",
+    "10. Place the dumplings on a baking sheet lined with parchment paper and brush with a little bit of oil.",
+    "11. Bake the dumplings in the preheated oven for 12-15 minutes, or until they are golden brown.",
+    "12. Serve the smoky pork dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pork",
+    "dumplings",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 15,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-chinese-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T01:40:19.384Z"
+}
