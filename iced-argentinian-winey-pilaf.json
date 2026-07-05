@@ -1,0 +1,81 @@
+{
+  "slug": "iced-argentinian-winey-pilaf",
+  "title": "Argentinian Pilaf with Winey Twist",
+  "description": "A flavorful and aromatic pilaf dish with the twist of winey flavors, perfect for a dinner or special occasion.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pilaf spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Wine (white or red, dry)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add diced onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add wine and cook until almost completely reduced, stirring occasionally.",
+    "Add pilaf spice blend and cook for 1 minute.",
+    "Add tomato paste and cook for 2 minutes.",
+    "Add rice and cook for 1-2 minutes, stirring constantly.",
+    "Add water and salt, bring to a boil.",
+    "Reduce heat to low, cover and simmer for 15-20 minutes or until rice is cooked.",
+    "Fluff with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "pilaf",
+    "wine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iced-argentinian-winey-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:57:17.568Z"
+}
