@@ -1099,17 +1099,16 @@
   },
   {
     "slug": "incredibly-crispy-dutch-salt-cod-fritters",
-    "title": "Incredibly Crispy Dutch Salt Cod Fritters",
+    "title": "Crispy Dutch Cod Fritters",
     "tags": [
-      "crispy",
-      "dutch-cuisine",
-      "low-carb",
-      "pescatarian",
-      "seafood",
-      "snack"
+      "dutch",
+      "snack",
+      "fish",
+      "cod",
+      "fritters"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "totalTimeMin": 23,
     "shard": "i"
   },
   {
@@ -11148,17 +11147,15 @@
   },
   {
     "slug": "intensely-garlicky-crispy-brazilian-chicken-skewers",
-    "title": "Intensely Garlicky Crispy Brazilian Chicken Skewers",
+    "title": "Brazilian Chicken Skewers",
     "tags": [
-      "brazilian-cuisine",
-      "chicken-recipes",
-      "crispy-food",
-      "garlic-lovers",
-      "gluten-free",
-      "high-protein"
+      "grilled",
+      "chicken",
+      "skewers",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 36,
     "shard": "i"
   },
   {
@@ -12996,18 +12993,16 @@
   },
   {
     "slug": "intensely-savory-tunisian-lamb-tagine",
-    "title": "Intensely Savory Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-recipes",
-      "low-glycemic",
-      "one-pot",
-      "slow-cooked",
-      "special-occasion",
-      "tunisian-cuisine"
+      "lamb",
+      "tagine",
+      "tunisian",
+      "north african",
+      "stew"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 190,
+    "cuisine": "North African",
+    "totalTimeMin": 180,
     "shard": "i"
   },
   {
