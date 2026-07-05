@@ -1,0 +1,102 @@
+{
+  "slug": "intensely-savory-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A traditional North African stew made with tender lamb, aromatic spices, and dried fruits. This hearty dish is perfect for a cold winter night.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 lbs, bone-in",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "dried prunes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high. Brown lamb in batches, then set aside.",
+    "Reduce heat to medium. Add onion, garlic, cumin, coriander, cinnamon, and ginger. Cook, stirring occasionally, until onion is softened.",
+    "Add browned lamb, prunes, broth, salt, and pepper. Stir to combine.",
+    "Bring to a boil, then cover and transfer to the oven. Braise at 300°F (150°C) for 2 1/2 hours, or until lamb is tender.",
+    "Skim off excess fat. Serve hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "tunisian",
+    "north african",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "38g",
+    "carbs": "34g",
+    "fat": "32g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T03:24:21.046Z"
+}
