@@ -1,0 +1,74 @@
+{
+  "slug": "indulgent-iced-argentinian-peanuts-pilaf",
+  "title": "Argentinian Peanut Pilaf",
+  "description": "A flavorful and nutty pilaf dish inspired by Argentinian cuisine, featuring peanuts and pilaf. Perfect as a side or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, diced",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "optional"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "unsalted"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add diced onion and minced garlic, sauté until softened.",
+    "Add pilaf and stir to coat with oil mixture.",
+    "Pour in chicken broth, bring to a boil.",
+    "Reduce heat to low, cover and simmer for 15-20 minutes or until liquid is absorbed.",
+    "Stir in chopped peanuts, season with salt and black pepper.",
+    "Serve hot, garnished with additional peanuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "peanuts",
+    "pilaf",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-iced-argentinian-peanuts-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T01:40:42.148Z"
+}
