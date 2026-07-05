@@ -1,0 +1,91 @@
+{
+  "slug": "incredibly-crispy-dutch-salt-cod-fritters",
+  "title": "Crispy Dutch Cod Fritters",
+  "description": "A classic Dutch dish, these crispy cod fritters are a delicious and easy-to-make snack or side.",
+  "cuisine": "Dutch",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cod",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "2 cups",
+      "amount": "Breadcrumbs (Panko or regular)",
+      "notes": ""
+    },
+    {
+      "name": "1",
+      "amount": "Large onion",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "2 cloves",
+      "amount": "Garlic",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon",
+      "amount": "Salt",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon",
+      "amount": "Black pepper",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "All-purpose flour",
+      "notes": ""
+    },
+    {
+      "name": "2 eggs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Incredibly crispy",
+      "amount": "1",
+      "notes": "type of Dutch fritter oil (or vegetable oil)"
+    }
+  ],
+  "instructions": [
+    "1. Cut the cod into small pieces and place them in a bowl.",
+    "2. In a separate bowl, mix together the breadcrumbs, chopped onion, minced garlic, salt, black pepper, and flour.",
+    "3. Add the bread mixture to the cod pieces and mix until just combined.",
+    "4. In a separate bowl, beat the eggs.",
+    "5. Add the eggs to the cod mixture and mix until everything is well combined.",
+    "6. Heat about 1/2 inch (1 cm) of the incredibly crispy oil in a large skillet over medium-high heat.",
+    "7. Using a spoon, drop small amounts of the cod mixture into the hot oil and flatten slightly.",
+    "8. Cook the fritters for about 3-4 minutes on each side, or until they are golden brown and crispy.",
+    "9. Remove the fritters from the oil and place them on a paper towel-lined plate to drain any excess oil.",
+    "10. Serve the crispy Dutch cod fritters hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "snack",
+    "fish",
+    "cod",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-crispy-dutch-salt-cod-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T03:20:27.873Z"
+}
