@@ -1,0 +1,93 @@
+{
+  "slug": "intensely-spicy-middle-eastern-lamb-shakshuka",
+  "title": "Spicy Middle Eastern Shakshuka",
+  "description": "A flavorful and spicy twist on the classic North African dish, featuring lamb and a rich tomato sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Spicy pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the spicy pepper flakes, cumin, and salt and pepper to taste. Cook for 1 minute.",
+    "Add the tomato paste and stir to combine. Cook for 2 minutes.",
+    "Crack the eggs into a bowl and season with salt and pepper. Pour the eggs over the lamb mixture.",
+    "Transfer the skillet to the oven and bake at 400°F (200°C) for 20-25 minutes, or until the eggs are cooked to desired doneness.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "middle-eastern",
+    "lamb",
+    "shakshuka"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-spicy-middle-eastern-lamb-shakshuka",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:12:19.564Z"
+}
