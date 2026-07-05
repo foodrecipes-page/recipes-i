@@ -1,0 +1,85 @@
+{
+  "slug": "intense-smoky-mexican-spring-onions-tacos",
+  "title": "Smoky Taco Sliders",
+  "description": "A twist on traditional tacos, these smoky sliders are packed with flavor and perfect for a quick dinner or snack.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "spring onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "intense chipotle peppers in adobo sauce",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "mexican cheese blend",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "1. In a pan, heat 1 tablespoon of cooking oil over medium heat.",
+    "2. Add the chopped chipotle peppers and cook for 2-3 minutes, or until fragrant.",
+    "3. Add the cumin and smoky paprika to the pan and stir to combine.",
+    "4. Brush the tortillas with the remaining 1 tablespoon of cooking oil.",
+    "5. Place the tortillas in the pan and cook for 30 seconds to 1 minute on each side, or until slightly charred.",
+    "6. In a separate pan, cook the cheese blend over medium heat until melted and bubbly.",
+    "7. Assemble the sliders by placing a spoonful of the cheese mixture onto a tortilla, followed by a spoonful of the chipotle pepper mixture.",
+    "8. Top with chopped spring onions and a sprinkle of cilantro (if using).",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "quick-eats",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-mexican-spring-onions-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:41:28.139Z"
+}
