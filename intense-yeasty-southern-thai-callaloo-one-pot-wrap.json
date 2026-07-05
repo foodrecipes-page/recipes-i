@@ -1,0 +1,71 @@
+{
+  "slug": "intense-yeasty-southern-thai-callaloo-one-pot-wrap",
+  "title": "Southern Style Callaloo Wrap",
+  "description": "A twist on a classic Southern dish, using callaloo as the main ingredient wrapped in a warm tortilla.",
+  "cuisine": "Southern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Callaloo",
+      "amount": "1 bunch, chopped"
+    },
+    {
+      "name": "1 pot",
+      "amount": "1, filled with water for boiling",
+      "notes": "Use a large pot for this recipe"
+    },
+    {
+      "name": "1 Southern-style wrap",
+      "amount": "1, for wrapping"
+    },
+    {
+      "name": "Intense cheese",
+      "amount": "1/4 cup, shredded"
+    },
+    {
+      "name": "Yeasty yeast flakes",
+      "amount": "1 tsp, for added flavor"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "1",
+      "amount": "1, for serving"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil.",
+    "Add the chopped callaloo to the pot and cook until tender.",
+    "Heat the Southern-style wrap in a pan or oven until warm and pliable.",
+    "Place the cooked callaloo onto the wrap, leaving a small border around the edges.",
+    "Sprinkle the intense cheese and yeasty yeast flakes over the callaloo.",
+    "Add chopped Thai basil on top for extra flavor.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a neat package.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "southern",
+    "callaloo",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-yeasty-southern-thai-callaloo-one-pot-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:40:39.623Z"
+}
