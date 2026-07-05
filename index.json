@@ -137,15 +137,15 @@
   },
   {
     "slug": "iced-argentinian-winey-pilaf",
-    "title": "Iced Argentinian Winey Pilaf",
+    "title": "Argentinian Pilaf with Winey Twist",
     "tags": [
       "argentinian",
-      "comfort-food",
-      "red-wine",
-      "sick-day"
+      "pilaf",
+      "wine",
+      "vegetarian"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 60,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -2932,18 +2932,15 @@
   },
   {
     "slug": "indulgent-iced-argentinian-peanuts-pilaf",
-    "title": "Indulgent Iced Argentinian Peanuts Pilaf",
+    "title": "Argentinian Peanut Pilaf",
     "tags": [
-      "argentinian-cuisine",
-      "high-protein",
-      "mediterranean-friendly",
-      "monsoon-inspired",
-      "one-pan",
-      "rich-umami-flavors",
-      "weeknight"
+      "argentinian",
+      "peanuts",
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -13204,18 +13201,15 @@
   },
   {
     "slug": "intensely-smoky-chinese-pork-dumplings",
-    "title": "Intensely Smoky Chinese Pork Dumplings",
+    "title": "Smoky Pork Dumplings",
     "tags": [
-      "chinese-cuisine",
+      "chinese",
+      "pork",
       "dumplings",
-      "high-protein",
-      "lazy-susan",
-      "monsoon-inspired",
-      "smoky-flavors",
-      "spherification"
+      "smoky"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
