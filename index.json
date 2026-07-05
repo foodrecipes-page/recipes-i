@@ -13769,17 +13769,15 @@
   },
   {
     "slug": "intensely-spicy-middle-eastern-lamb-shakshuka",
-    "title": "Intensely Spicy Middle Eastern Lamb Shakshuka",
+    "title": "Spicy Middle Eastern Shakshuka",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
       "spicy",
-      "weeknight"
+      "middle-eastern",
+      "lamb",
+      "shakshuka"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
