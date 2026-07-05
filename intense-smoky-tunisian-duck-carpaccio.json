@@ -1,0 +1,79 @@
+{
+  "slug": "intense-smoky-tunisian-duck-carpaccio",
+  "title": "Smoked Duck Carpaccio",
+  "description": "A refreshing and savory appetizer featuring thinly sliced smoked duck, served with a tangy Tunisian vinaigrette.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Smoked duck breast",
+      "amount": "8 oz",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "Intense olive oil",
+      "amount": "2 tbsp",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Tunisian vinaigrette",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Carpaccio-style arugula",
+      "amount": "4 cups",
+      "notes": "Fresh, slightly bitter leaves"
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "to taste",
+      "notes": "For added depth"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the sliced smoked duck and chopped parsley.",
+    "2. Drizzle the intense olive oil over the duck and toss to coat.",
+    "3. Sprinkle the crushed black pepper over the duck and toss again.",
+    "4. In a small bowl, whisk together the Tunisian vinaigrette and a pinch of salt.",
+    "5. Pour the vinaigrette over the duck and toss to coat.",
+    "6. Arrange the carpaccio-style arugula on a serving platter or individual plates.",
+    "7. Top the arugula with the smoked duck mixture.",
+    "8. Serve immediately, with lemon wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "duck",
+    "mediterranean",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 4,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-tunisian-duck-carpaccio",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:01:01.328Z"
+}
