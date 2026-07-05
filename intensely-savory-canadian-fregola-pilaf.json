@@ -1,0 +1,97 @@
+{
+  "slug": "intensely-savory-canadian-fregola-pilaf",
+  "title": "Savory Fregola Pilaf with Canadian Twist",
+  "description": "A flavorful pilaf dish from the Canadian coast, featuring intense savory fregola pasta and a blend of aromatic spices.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fregola pasta",
+      "amount": "1 cup",
+      "notes": "Intensely savory variety"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Mixed vegetables (e.g. bell peppers, carrots, zucchini)",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Grated Canadian cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add mixed vegetables and cook until tender, about 5-6 minutes.",
+    "Add fregola pasta, chicken broth, thyme, and salt. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 15-20 minutes or until the liquid has been absorbed and the fregola is tender.",
+    "Stir in grated Canadian cheddar cheese until melted and well combined.",
+    "Season with additional salt if needed.",
+    "Transfer to a serving dish and garnish with chopped fresh parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fregola",
+    "pilaf",
+    "canadian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-canadian-fregola-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:59:47.200Z"
+}
