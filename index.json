@@ -8957,17 +8957,16 @@
   },
   {
     "slug": "intense-snappy-argentinian-toor-dal-dal",
-    "title": "Intense Snappy Argentinian Toor Dal",
+    "title": "Argentinian Grilled Choripan",
     "tags": [
-      "argentinian-cuisine",
-      "high-protein",
-      "lentil-based",
-      "one-pan",
-      "vegetarian-option",
-      "weeknight"
+      "argentinian",
+      "grilled",
+      "chorizo",
+      "sandwich",
+      "dal"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
