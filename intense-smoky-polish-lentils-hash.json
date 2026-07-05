@@ -1,0 +1,91 @@
+{
+  "slug": "intense-smoky-polish-lentils-hash",
+  "title": "Smoky Polish-Style Lentil Hash",
+  "description": "A hearty, smoky lentil dish inspired by Polish cuisine, made with a crispy hash topping.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "hash browns",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggyolk",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add smoked paprika and caraway seeds, cook for 1 minute.",
+    "Add lentils and cook for 5 minutes, stirring occasionally.",
+    "Season with salt and pepper to taste.",
+    "Meanwhile, prepare hash browns according to package instructions.",
+    "In a separate pan, fry eggs until the yolks are still runny.",
+    "Serve lentil mixture topped with hash browns and a fried egg.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "polish",
+    "lentils",
+    "hash",
+    "breakfast-for-lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-polish-lentils-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:44:24.850Z"
+}
