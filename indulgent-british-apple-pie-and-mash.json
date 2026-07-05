@@ -1,0 +1,68 @@
+{
+  "slug": "indulgent-british-apple-pie-and-mash",
+  "title": "Classic British Apple Pie",
+  "description": "A traditional British-style apple pie with a buttery crust and tender apples. Perfect for a cozy evening with family and friends.",
+  "cuisine": "british",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Indulgent Shortcrust Pastry",
+      "amount": "1 recipe (recipe included below)",
+      "notes": null
+    },
+    {
+      "name": "Apples (Granny Smith)",
+      "amount": "6-8",
+      "notes": null
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the shortcrust pastry to a thickness of about 1/8 inch (3 mm).",
+    "Transfer the pastry to a 9-inch (23 cm) pie dish.",
+    "In a large bowl, combine the sliced apples, granulated sugar, all-purpose flour, and cinnamon.",
+    "Pour the apple mixture into the pie crust.",
+    "Roll out the remaining pastry to a thickness of about 1/8 inch (3 mm).",
+    "Use this pastry to cover the pie and crimp the edges to seal.",
+    "Cut a few slits in the top crust to allow steam to escape.",
+    "Bake the pie for 40-50 minutes, or until the crust is golden brown and the apples are tender.",
+    "Let the pie cool for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "apple-pie",
+    "homemade-pastry",
+    "classic-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-british-apple-pie-and-mash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:41:21.264Z"
+}
