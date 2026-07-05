@@ -1886,17 +1886,15 @@
   },
   {
     "slug": "indulgent-british-apple-pie-and-mash",
-    "title": "Indulgent British Apple Pie And Mash",
+    "title": "Classic British Apple Pie",
     "tags": [
-      "apple-pie",
       "british",
-      "comfort-food",
-      "dessert",
-      "indulgent",
-      "mash"
+      "apple-pie",
+      "homemade-pastry",
+      "classic-dessert"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 75,
+    "cuisine": "british",
+    "totalTimeMin": 70,
     "shard": "i"
   },
   {
@@ -8822,17 +8820,15 @@
   },
   {
     "slug": "intense-smoky-mexican-spring-onions-tacos",
-    "title": "Intense Smoky Mexican Spring Onions Tacos",
+    "title": "Smoky Taco Sliders",
     "tags": [
-      "complex-flavors",
-      "mexican-food",
-      "ovo-vegetarian",
-      "smoky-flavors",
-      "spring-onions",
-      "tacos"
+      "mexican",
+      "vegetarian",
+      "quick-eats",
+      "snack"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -8897,17 +8893,15 @@
   },
   {
     "slug": "intense-smoky-tunisian-duck-carpaccio",
-    "title": "Intense Smoky Tunisian Duck Carpaccio",
+    "title": "Smoked Duck Carpaccio",
     "tags": [
-      "high-protein",
-      "low-carb",
-      "post-workout",
-      "raw",
-      "smoky",
-      "tunisian"
+      "appetizer",
+      "duck",
+      "mediterranean",
+      "salad"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 20,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 15,
     "shard": "i"
   },
   {
