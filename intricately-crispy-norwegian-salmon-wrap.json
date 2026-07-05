@@ -1,0 +1,73 @@
+{
+  "slug": "intricately-crispy-norwegian-salmon-wrap",
+  "title": "Crispy Norwegian Salmon Wrap",
+  "description": "A simple and flavorful wrap filled with crispy Norwegian salmon, lettuce, and tangy aioli. Perfect for a quick and delicious meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon fillets",
+      "amount": "2",
+      "notes": "Fresh and preferably wild-caught"
+    },
+    {
+      "name": "Large flour wrap",
+      "amount": "1",
+      "notes": "Gluten-free wrap alternative available"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "Romaine or iceberg lettuce work well"
+    },
+    {
+      "name": "Crispy bacon",
+      "amount": "4 slices",
+      "notes": "Optional, but adds a nice crunch"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "Low-fat or vegan alternative available"
+    },
+    {
+      "name": "Dill weed",
+      "amount": "1 tsp",
+      "notes": "Fresh or dried dill work well"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet over medium-high heat.",
+    "2. Season the salmon fillets with salt, pepper, and dill weed.",
+    "3. Add a small amount of oil to the skillet and sear the salmon for 2-3 minutes per side, or until cooked through.",
+    "4. Meanwhile, cook the crispy bacon in a separate skillet until crispy.",
+    "5. Assemble the wrap by spreading mayonnaise on the wrap, followed by a slice of salmon, crispy bacon, lettuce, and a sprinkle of dill weed.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "wrap",
+    "norwegian",
+    "fish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricately-crispy-norwegian-salmon-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:47:13.183Z"
+}
