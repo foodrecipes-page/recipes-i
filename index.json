@@ -5642,16 +5642,14 @@
   },
   {
     "slug": "innovative-crispy-korean-bread-kalguksu",
-    "title": "Innovative Crispy Korean Bread Kalguksu",
+    "title": "Crispy Kalguksu Bites",
     "tags": [
-      "asian-cuisine",
-      "crispy-bread",
-      "korean-food",
-      "kosher-recipes",
-      "lunch-ideas"
+      "korean",
+      "snack",
+      "noodles"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -10646,16 +10644,16 @@
   },
   {
     "slug": "intensely-earthy-syrian-avocado-tagine",
-    "title": "Intensely Earthy Syrian Avocado Tagine",
+    "title": "Syrian Tagine with Roasted Vegetables",
     "tags": [
-      "charcoal",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "syrian"
+      "syrian",
+      "tagine",
+      "vegetarian",
+      "roasted",
+      "stew"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 70,
     "shard": "i"
   },
   {
