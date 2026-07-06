@@ -10613,18 +10613,14 @@
   },
   {
     "slug": "intensely-earthy-slovakian-millet-gratin",
-    "title": "intensely earthy slovakian millet gratin",
+    "title": "Slovakian Millet Gratin",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "gluten-free",
-      "keto",
-      "one-pan",
-      "paleo",
-      "slovakian"
+      "slovakian",
+      "millet",
+      "gratin"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 60,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
@@ -14892,18 +14888,18 @@
   },
   {
     "slug": "intricately-smoky-saudi-arabian-natto-skewers",
-    "title": "Intricately Smoky Saudi Arabian Natto Skewers",
+    "title": "Smoky Arabian Chicken Skewers",
     "tags": [
-      "appetizer",
-      "gluten-free",
-      "low-sodium",
-      "raclette-grill",
-      "saudi-arabian",
-      "smoky",
-      "snack"
+      "grilled",
+      "chicken",
+      "skewers",
+      "natto",
+      "arabian",
+      "middle-eastern",
+      "smoky"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 25,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
