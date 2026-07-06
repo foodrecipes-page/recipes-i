@@ -1,0 +1,77 @@
+{
+  "slug": "intensely-earthy-slovakian-sausages-casserole",
+  "title": "Slovakian Sausage and Potato Casserole",
+  "description": "A hearty, comforting casserole filled with Slovakian sausages, potatoes, and a blend of earthy spices.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian Sausages",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and dice the potatoes.",
+    "Slice the onion and mince the garlic.",
+    "Cook the Slovakian Sausages in a pan over medium heat, breaking them up with a spoon as they cook.",
+    "Add the onion and garlic to the pan and cook until the onion is translucent.",
+    "Add the potatoes, caraway seeds, paprika, salt, and black pepper to the pan and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake in the preheated oven for 25-30 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sausages",
+    "casserole",
+    "slovakian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-earthy-slovakian-sausages-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:52:49.722Z"
+}
