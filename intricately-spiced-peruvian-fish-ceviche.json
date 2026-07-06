@@ -1,0 +1,80 @@
+{
+  "slug": "intricately-spiced-peruvian-fish-ceviche",
+  "title": "Peruvian-Style Fish Ceviche",
+  "description": "A refreshing and flavorful Peruvian dish made with raw fish marinated in citrus juices and spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fish Fillets (Halibut or Snapper)",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Intricately Spiced Aji Amarillo Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian Corn (or regular corn)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the fish into small pieces and place in a large bowl.",
+    "Squeeze the lime juice over the fish and toss to coat.",
+    "Mince the aji amarillo pepper and add to the fish.",
+    "Add the corn, red onion, and cilantro to the fish.",
+    "Season with salt to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Serve the ceviche chilled, garnished with additional cilantro if desired.",
+    "Note: Make sure to use sashimi-grade fish for this recipe."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "ceviche",
+    "fish",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricately-spiced-peruvian-fish-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T18:13:55.106Z"
+}
