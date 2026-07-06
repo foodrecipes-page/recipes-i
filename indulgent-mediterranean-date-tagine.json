@@ -1,0 +1,98 @@
+{
+  "slug": "indulgent-mediterranean-date-tagine",
+  "title": "Date Stuffed Tagine Chicken",
+  "description": "A rich and flavorful North African-inspired dish featuring tender chicken stuffed with sweet dates, served over a bed of fluffy rice.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "4",
+      "notes": "1 1/2 pounds"
+    },
+    {
+      "name": "Pitted dates",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Rice, uncooked",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small bowl, mix together garam masala, cumin, salt, and black pepper.",
+    "Stuff each chicken breast with pitted dates.",
+    "Rub the chicken with the spice mixture.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken until browned on both sides.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, prepare the rice according to package instructions.",
+    "To serve, place a portion of rice on a plate, then top with a piece of chicken.",
+    "Serve hot and enjoy!",
+    "Let the chicken rest for 5 minutes before slicing and serving.",
+    "Garnish with chopped fresh herbs, if desired.",
+    "Serve with a side of steamed vegetables or a simple green salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date",
+    "tagine",
+    "chicken",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-mediterranean-date-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T12:40:29.142Z"
+}
