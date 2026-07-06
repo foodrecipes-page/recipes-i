@@ -1,0 +1,79 @@
+{
+  "slug": "indulgent-canadian-gobo-burdock-stew",
+  "title": "Canadian Burdock Stew",
+  "description": "A hearty stew made with tender burdock root and a mix of Canadian ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Burdock root",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Gobo root",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add sliced burdock and gobo root, cook for 5 minutes.",
+    "Add sliced carrots and potatoes, cook for 5 minutes.",
+    "Pour in vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Add Worcestershire sauce, salt, and pepper to taste.",
+    "Continue to simmer for another 10 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-stew",
+    "vegetarian-stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-canadian-gobo-burdock-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:57:50.468Z"
+}
