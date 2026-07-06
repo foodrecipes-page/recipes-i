@@ -3591,18 +3591,15 @@
   },
   {
     "slug": "indulgent-mediterranean-date-tagine",
-    "title": "Indulgent Mediterranean Date Tagine",
+    "title": "Date Stuffed Tagine Chicken",
     "tags": [
-      "kid-friendly",
-      "mediterranean",
-      "one-pot",
-      "sweet-sour",
+      "date",
       "tagine",
-      "whole30",
-      "yuzu"
+      "chicken",
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
