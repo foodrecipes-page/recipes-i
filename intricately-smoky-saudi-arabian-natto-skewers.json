@@ -1,0 +1,87 @@
+{
+  "slug": "intricately-smoky-saudi-arabian-natto-skewers",
+  "title": "Smoky Arabian Chicken Skewers",
+  "description": "A flavorful and aromatic dish inspired by the Middle Eastern cuisine. Marinated chicken cooked to perfection on skewers, served with a side of natto.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "intricately spiced yogurt sauce",
+      "amount": "250g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "arabic spice blend",
+      "amount": "1 tsp",
+      "notes": "containing cumin, coriander, cinnamon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "natto",
+      "amount": "100g",
+      "notes": "fermented soybeans"
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": "soaked in water for at least 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together intricately spiced yogurt sauce, smoky paprika, arabic spice blend, garlic, and lemon juice.",
+    "3. Add the chicken cubes to the marinade and mix well to coat.",
+    "4. Thread the marinated chicken onto the skewers, leaving a small space between each piece.",
+    "5. Grill the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
+    "6. Meanwhile, heat a small amount of oil in a pan over medium heat.",
+    "7. Add the natto to the pan and stir-fry for 2-3 minutes, until heated through.",
+    "8. Serve the grilled skewers with a side of natto and your favorite sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "skewers",
+    "natto",
+    "arabian",
+    "middle-eastern",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricately-smoky-saudi-arabian-natto-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:18:19.960Z"
+}
