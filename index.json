@@ -2777,11 +2777,12 @@
   },
   {
     "slug": "indulgent-german-cabbage-casserole",
-    "title": "German Sausage and Cabbage Casserole",
+    "title": "Braised German Cabbage Casserole",
     "tags": [
       "german",
-      "indulgent",
-      "casserole"
+      "cabbage",
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "german",
     "totalTimeMin": 60,
@@ -15913,16 +15914,14 @@
   },
   {
     "slug": "izzy-middle-eastern-saskatoon-berries-stir-fry",
-    "title": "Izzy Middle Eastern Saskatoon Berries Stir-fry",
+    "title": "Saskatoon Berry Stir Fry",
     "tags": [
-      "middle-eastern-stir-fry",
-      "quick-fix-dish",
-      "salt-block-cooking",
       "saskatoon-berries",
-      "shojin-friendly"
+      "eastern-spices",
+      "stir-fry"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 14,
+    "cuisine": "eastern",
+    "totalTimeMin": 18,
     "shard": "i"
   },
   {
