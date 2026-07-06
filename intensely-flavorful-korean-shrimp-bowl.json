@@ -1,0 +1,85 @@
+{
+  "slug": "intensely-flavorful-korean-shrimp-bowl",
+  "title": "Korean Shrimp Bowl",
+  "description": "A flavorful and spicy Korean-inspired shrimp bowl with a sweet and sour sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Intensely flavorful gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon, grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, thinly sliced"
+    },
+    {
+      "name": "Toasted sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cooked white rice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Cook the white rice according to package instructions.",
+    "2. In a small bowl, whisk together gochujang, soy sauce, brown sugar, rice vinegar, garlic, and ginger.",
+    "3. Add the shrimp to the bowl and toss to coat with the sauce.",
+    "4. Heat the sesame oil in a large skillet over medium-high heat.",
+    "5. Add the shrimp to the skillet and cook for 2-3 minutes per side, until pink and cooked through.",
+    "6. Serve the shrimp over the cooked white rice, topped with green onions.",
+    "7. Garnish with additional green onions and sesame seeds, if desired.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "shrimp",
+    "bowl",
+    "spicy",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 38,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flavorful-korean-shrimp-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:34:23.394Z"
+}
