@@ -957,17 +957,16 @@
   },
   {
     "slug": "iickily-aerated-turkish-lamb-tagine",
-    "title": "Iickily Aerated Turkish Lamb Tagine",
+    "title": "Delicious Lamb Tagine",
     "tags": [
-      "funky",
+      "north-african",
       "lamb",
-      "one-pan",
       "tagine",
-      "turkish",
-      "weeknight"
+      "slow-cooker",
+      "stew"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 75,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
@@ -1926,17 +1925,15 @@
   },
   {
     "slug": "indulgent-buttery-italian-bresaola-flatbread",
-    "title": "Indulgent Buttery Italian Bresaola Flatbread",
+    "title": "Italian Flatbread with Bresaola",
     "tags": [
-      "bresaola",
-      "buttery",
-      "emilia-romagna",
+      "italian",
       "flatbread",
-      "halal-friendly",
-      "weeknight"
+      "appetizer",
+      "snack"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 13,
     "shard": "i"
   },
   {
@@ -15229,14 +15226,13 @@
   },
   {
     "slug": "invigorating-air-fried-croatian-petit-pois-skillet",
-    "title": "Invigorating Air Fried Croatian Petit Pois Skillet",
+    "title": "Croatian Skillet Pois",
     "tags": [
-      "air-fryer",
-      "croatian-cuisine",
-      "gluten-free",
-      "keto-friendly",
-      "one-pan",
-      "quick-meal"
+      "croatian",
+      "skillet",
+      "pois",
+      "vegetarian",
+      "easy-dinner"
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 15,
