@@ -1,0 +1,84 @@
+{
+  "slug": "intensely-comforting-turkish-water-chestnut-kebab-doner",
+  "title": "Doner Kebab with Chestnut Pilaf",
+  "description": "A comforting Turkish dish featuring tender doner kebab wrapped in a warm chestnut pilaf.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "chestnut",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "For pilaf"
+    },
+    {
+      "name": "kebab meat",
+      "amount": "1 pound",
+      "notes": "Ground lamb or beef"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the kebab meat according to package instructions. Shred into thin strips.",
+    "In a large skillet, sauté chopped onion and minced garlic until softened.",
+    "Add shredded kebab meat and stir to combine. Season with salt and black pepper.",
+    "In a separate saucepan, boil 2 cups of water and add 1 cup of chestnut. Cook for 5-7 minutes, or until chestnut is tender.",
+    "Drain excess water and fluff chestnut with a fork. Stir in cooked kebab meat mixture.",
+    "Transfer chestnut pilaf to a serving dish and top with sliced chicken breast.",
+    "Bake in preheated oven for 15-20 minutes, or until chicken is cooked through.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "turkish",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-comforting-turkish-water-chestnut-kebab-doner",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:53:07.657Z"
+}
