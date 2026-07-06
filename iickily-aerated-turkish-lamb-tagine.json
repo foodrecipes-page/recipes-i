@@ -1,0 +1,89 @@
+{
+  "slug": "iickily-aerated-turkish-lamb-tagine",
+  "title": "Delicious Lamb Tagine",
+  "description": "A traditional North African stew made with tender lamb, rich spices, and sweet dried fruits. This flavorful dish is perfect for a special occasion or a cozy night in.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "turkish olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning the lamb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 tsp",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "to balance the flavors"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for cooking the tagine"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces in batches until they're nicely browned, about 5 minutes per batch.",
+    "Remove the lamb from the pot and set it aside.",
+    "Reduce the heat to medium and cook the chopped onion until it's softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Stir in the tagine spice mix and cook for 1-2 minutes, until fragrant.",
+    "Add the browned lamb back into the pot, along with the chopped apricots and honey.",
+    "Pour in the water and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Bake the tagine for 2-1/2 to 3 hours, or until the lamb is tender and the sauce has thickened.",
+    "Season the tagine with salt and pepper to taste.",
+    "Serve the tagine over couscous or rice, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "lamb",
+    "tagine",
+    "slow-cooker",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "37g",
+    "carbs": "40g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iickily-aerated-turkish-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:03:19.283Z"
+}
