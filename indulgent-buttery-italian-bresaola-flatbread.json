@@ -1,0 +1,66 @@
+{
+  "slug": "indulgent-buttery-italian-bresaola-flatbread",
+  "title": "Italian Flatbread with Bresaola",
+  "description": "A simple and flavorful flatbread topped with thinly sliced bresaola and a hint of Italian herbs. Perfect as a snack or light meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "Gluten-free",
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread (4-6 inches)",
+      "amount": "1 piece",
+      "notes": "preferably Italian flatbread"
+    },
+    {
+      "name": "Bresaola",
+      "amount": "4 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Buttery Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the bresaola into thin strips.",
+    "Place the flatbread on a baking sheet.",
+    "Drizzle with olive oil and sprinkle with Italian seasoning.",
+    "Top the flatbread with sliced bresaola.",
+    "Season with salt and pepper to taste.",
+    "Bake for 8-10 minutes, or until the flatbread is crispy and the bresaola is heated through.",
+    "Garnish with chopped parsley, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "flatbread",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-buttery-italian-bresaola-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:39:08.010Z"
+}
