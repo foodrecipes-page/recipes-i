@@ -1975,17 +1975,13 @@
   },
   {
     "slug": "indulgent-canadian-gobo-burdock-stew",
-    "title": "indulgent canadian gobo-burdock stew",
+    "title": "Canadian Burdock Stew",
     "tags": [
-      "canadian-cuisine",
-      "high-fiber",
-      "one-pot",
-      "plant-based",
-      "vegan-stew",
-      "winter-stew"
+      "canadian-stew",
+      "vegetarian-stew"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 55,
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -10106,17 +10102,14 @@
   },
   {
     "slug": "intensely-comforting-turkish-water-chestnut-kebab-doner",
-    "title": "Turkish Water Chestnut Kebab Doner",
+    "title": "Doner Kebab with Chestnut Pilaf",
     "tags": [
-      "comfort-food",
-      "grilled",
-      "kebab-doner",
-      "mediterranean",
-      "pescatarian",
-      "turkish-cuisine"
+      "comforting",
+      "turkish",
+      "healthy"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "cuisine": "turkish",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -14944,16 +14937,16 @@
   },
   {
     "slug": "intricately-spiced-peruvian-fish-ceviche",
-    "title": "Intricately Spiced Peruvian Fish Ceviche",
+    "title": "Peruvian-Style Fish Ceviche",
     "tags": [
-      "brunch",
+      "peruvian",
+      "ceviche",
+      "fish",
       "gluten-free",
-      "low-carb",
-      "peruvian-cuisine",
-      "seafood"
+      "vegetarian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "i"
   },
   {
