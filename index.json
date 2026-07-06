@@ -10628,17 +10628,15 @@
   },
   {
     "slug": "intensely-earthy-slovakian-sausages-casserole",
-    "title": "Slovakian Sausages Casserole",
+    "title": "Slovakian Sausage and Potato Casserole",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "hearty",
-      "homemade",
-      "one-pan",
-      "weeknight"
+      "sausages",
+      "casserole",
+      "slovakian",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 90,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -12309,17 +12307,16 @@
   },
   {
     "slug": "intensely-rich-polish-dark-chocolate-brownies",
-    "title": "Intensely Rich Polish Dark Chocolate Brownies",
+    "title": "Intense Dark Chocolate Brownies",
     "tags": [
-      "coconut-cream",
-      "dark-chocolate",
-      "polish-dessert",
-      "rich-and-decadent",
-      "terracotta-dish",
-      "whole30-friendly"
+      "chocolate",
+      "brownies",
+      "rich",
+      "intense",
+      "dark"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
