@@ -1,0 +1,80 @@
+{
+  "slug": "icy-juicy-korean-korean-kalguksu-noodles",
+  "title": "Spicy Kalguksu Noodle Bowl",
+  "description": "A Korean-inspired noodle bowl made with homemade kalguksu noodles and topped with spicy sauce, juicy chicken, and sesame seeds.",
+  "cuisine": "Korean",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kalguksu",
+      "amount": "8 oz"
+    },
+    {
+      "name": "icy cold water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "juicy chicken breast",
+      "amount": "1"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Bring the icy cold water to a boil and then reduce to a simmer.",
+    "Add the kalguksu noodles to the water and cook until al dente, about 5-7 minutes.",
+    "While the noodles are cooking, grill the chicken breast until cooked through.",
+    "In a small saucepan, combine the korean chili flakes, soy sauce, brown sugar, and sesame oil.",
+    "Bring the sauce to a simmer over medium heat and cook until thickened, about 5 minutes.",
+    "Once the noodles are done, drain them and add them to a bowl with the sliced grilled chicken.",
+    "Pour the spicy sauce over the noodles and chicken.",
+    "Top with sesame seeds and green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "noodle-bowl",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-juicy-korean-korean-kalguksu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:52:06.679Z"
+}
