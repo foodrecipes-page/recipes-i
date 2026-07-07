@@ -1,0 +1,95 @@
+{
+  "slug": "incredibly-crispy-moroccan-tofu-skewers",
+  "title": "Crispy Moroccan Tofu Skewers",
+  "description": "Delicious crispy tofu skewers, inspired by the flavors of Morocco. A perfect appetizer or snack.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Extra-Firm Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Bell Pepper",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan Spice Blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the tofu into 1-inch cubes.",
+    "In a shallow dish, mix together panko breadcrumbs, smoked paprika, and Moroccan spice blend.",
+    "Dip each tofu cube into the breadcrumb mixture, pressing gently to adhere.",
+    "Place the coated tofu cubes onto the skewers.",
+    "Drizzle with olive oil and sprinkle with chopped onion, bell pepper, and cilantro.",
+    "Season with salt to taste.",
+    "Bake for 20-25 minutes, flipping halfway through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "tofu",
+    "skewers",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-crispy-moroccan-tofu-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:57:52.299Z"
+}
