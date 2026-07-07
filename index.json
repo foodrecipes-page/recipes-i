@@ -11673,16 +11673,15 @@
   },
   {
     "slug": "intensely-mustardy-vietnamese-noodle-dish",
-    "title": "Mustardy Vietnamese Noodle Dish",
+    "title": "Vietnamese Noodle Dish",
     "tags": [
-      "asian-inspired",
-      "mustard-based",
+      "vietnamese",
       "noodle-dish",
-      "ovo-vegetarian",
-      "vietnamese-cuisine"
+      "vegetarian",
+      "spicy"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
