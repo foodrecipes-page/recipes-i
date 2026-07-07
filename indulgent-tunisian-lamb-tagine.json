@@ -1,0 +1,95 @@
+{
+  "slug": "indulgent-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A rich and flavorful North African stew made with tender lamb, aromatic spices, and sweet dried fruits.",
+  "cuisine": "north-african",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "dried prunes",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a large clay pot or Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the cumin, coriander, cinnamon, and turmeric, and cook for 1 minute.",
+    "Add the prunes and 1 cup of water, and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T01:50:17.817Z"
+}
