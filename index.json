@@ -5201,16 +5201,15 @@
   },
   {
     "slug": "indulgent-tunisian-lamb-tagine",
-    "title": "Indulgent Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "braised-meat",
-      "lamb-recipes",
-      "low-carb",
-      "special-occasion",
-      "tunisian-cuisine"
+      "lamb",
+      "tagine",
+      "north-african",
+      "slow-cooked"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 180,
+    "cuisine": "north-african",
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
