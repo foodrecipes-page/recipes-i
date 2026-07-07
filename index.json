@@ -1138,16 +1138,16 @@
   },
   {
     "slug": "incredibly-crispy-moroccan-tofu-skewers",
-    "title": "Incredibly Crispy Moroccan Tofu Skewers",
+    "title": "Crispy Moroccan Tofu Skewers",
     "tags": [
-      "crispy-snacks",
-      "moroccan-inspired",
-      "puff-pastry-recipes",
-      "tofu-recipes",
-      "vegetarian-options"
+      "moroccan",
+      "tofu",
+      "skewers",
+      "vegetarian",
+      "snack"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -15152,17 +15152,16 @@
   },
   {
     "slug": "intriguingly-smoky-moroccan-doenjang-couscous-royal",
-    "title": "Intriguingly Smoky Moroccan Doenjang Couscous Royal",
+    "title": "Smoky Moroccan Chicken Tagine",
     "tags": [
-      "fondue-pot",
-      "grilled-chicken",
-      "low-glycemic",
-      "moroccan-inspired",
-      "one-pot",
-      "sick-day"
+      "moroccan",
+      "tagine",
+      "stew",
+      "chicken",
+      "couscous"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
