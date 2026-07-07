@@ -4187,17 +4187,14 @@
   },
   {
     "slug": "indulgent-portuguese-hazelnut-paella",
-    "title": "Indulgent Portuguese Hazelnut Paella",
+    "title": "Hazelnut Paella",
     "tags": [
-      "hazelnut-recipes",
-      "one-pan",
-      "paleo-friendly",
-      "portuguese-cuisine",
-      "rich-and-savory",
-      "special-occasion"
+      "portuguese",
+      "hazelnut",
+      "paella"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "cuisine": "portuguese",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -7882,17 +7879,16 @@
   },
   {
     "slug": "intense-nutty-filipino-chicken-adobo",
-    "title": "Intense Nutty Filipino Chicken Adobo",
+    "title": "Filipino Chicken Adobo",
     "tags": [
-      "chicken-recipes",
-      "diabetic-friendly",
-      "filipino-food",
-      "nutty-flavors",
-      "one-pot",
-      "weeknight-dinner"
+      "chicken",
+      "adobo",
+      "filipino",
+      "lunch",
+      "meat"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "cuisine": "filipino",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
