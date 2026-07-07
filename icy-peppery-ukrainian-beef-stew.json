@@ -1,0 +1,85 @@
+{
+  "slug": "icy-peppery-ukrainian-beef-stew",
+  "title": "Beef Stew",
+  "description": "A hearty beef stew with a Ukrainian twist, perfect for a cold evening. The peppery flavor of the peppercorns adds depth to the dish.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound beef stew meat",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian Stew",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Icy Cold Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Black Peppercorns",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the beef in a large Dutch oven over medium-high heat.",
+    "Add the Ukrainian stew, icy cold water, black peppercorns, and salt. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours.",
+    "Add the butter, onion, carrots, and potatoes. Simmer, covered, for an additional 30 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "ukrainian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-peppery-ukrainian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T14:55:09.479Z"
+}
