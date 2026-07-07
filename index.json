@@ -685,17 +685,15 @@
   },
   {
     "slug": "icy-peppery-ukrainian-beef-stew",
-    "title": "icy peppery ukrainian beef stew",
+    "title": "Beef Stew",
     "tags": [
-      "beef-stew",
-      "comfort-food",
-      "easy-one-pot-meal",
-      "ukrainian-cuisine",
-      "weeknight-dinner",
-      "whole30"
+      "beef",
+      "stew",
+      "ukrainian",
+      "comfort-food"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 165,
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
