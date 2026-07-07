@@ -1,0 +1,81 @@
+{
+  "slug": "intensely-umami-croatian-chickpea-flour-wrap",
+  "title": "Croatian Chickpea Wrap",
+  "description": "A flavorful and nutritious wrap filled with roasted chickpeas, umami-rich sauce, and crispy croatian bread. A delicious and easy-to-make meal for any time of the day.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpea",
+      "amount": "1 cup",
+      "notes": "canned or cooked"
+    },
+    {
+      "name": "flour",
+      "amount": "1/2 cup",
+      "notes": "for gluten-free option"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": "Croatian or gluten-free"
+    },
+    {
+      "name": "umami-rich sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the chickpeas and dry them with a paper towel.",
+    "In a bowl, toss the chickpeas with olive oil, salt, and pepper.",
+    "Spread the chickpeas on a baking sheet and roast for 20-25 minutes, or until crispy.",
+    "While the chickpeas are roasting, warm the wrap in the oven for 2-3 minutes.",
+    "Spread the umami-rich sauce on the wrap, leaving a small border around the edges.",
+    "Add the roasted chickpeas on top of the sauce.",
+    "Fold the wrap in half to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "snack",
+    "wrap",
+    "chickpea"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "15g",
+    "carbs": "50g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-umami-croatian-chickpea-flour-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T23:43:40.727Z"
+}
