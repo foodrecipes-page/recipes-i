@@ -1,0 +1,70 @@
+{
+  "slug": "intense-nutty-filipino-chicken-adobo",
+  "title": "Filipino Chicken Adobo",
+  "description": "Classic Filipino dish made with marinated chicken cooked in a mixture of vinegar, soy sauce, garlic, and bay leaves. Rich, savory, and slightly sweet.",
+  "cuisine": "filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in vinegar, soy sauce, garlic, and bay leaves for at least 30 minutes.",
+    "Heat oil in a large pan over medium heat. Remove chicken from marinade, letting any excess liquid drip off.",
+    "Add the chicken to the pan and cook until browned on both sides and cooked through.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "adobo",
+    "filipino",
+    "lunch",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-nutty-filipino-chicken-adobo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:08:28.377Z"
+}
