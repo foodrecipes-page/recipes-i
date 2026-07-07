@@ -1,0 +1,85 @@
+{
+  "slug": "indulgent-portuguese-hazelnut-paella",
+  "title": "Hazelnut Paella",
+  "description": "A rich and aromatic Paella dish infused with hazelnuts and traditional Portuguese flavors.",
+  "cuisine": "portuguese",
+  "diet": [
+    "indulgent",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uncooked Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Safron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large paella pan over medium-high heat.",
+    "Sauté the diced onion and minced garlic until softened.",
+    "Add the chopped hazelnuts and cook for 1-2 minutes.",
+    "Add the uncooked Spanish rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the vegetable broth, smoked paprika, saffron threads, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Remove the paella pan from the heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "hazelnut",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-portuguese-hazelnut-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:16:10.129Z"
+}
