@@ -632,17 +632,14 @@
   },
   {
     "slug": "icy-juicy-korean-korean-kalguksu-noodles",
-    "title": "Icy Juicy Korean Kalguksu Noodles",
+    "title": "Spicy Kalguksu Noodle Bowl",
     "tags": [
-      "gluten-free",
       "korean",
-      "low-glycemic",
-      "noodle-soup",
-      "soothing",
-      "weeknight"
+      "noodle-bowl",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -2723,14 +2720,13 @@
   },
   {
     "slug": "indulgent-french-tomato-quiche",
-    "title": "Indulgent French Tomato Quiche",
+    "title": "French Tomato Quiche",
     "tags": [
-      "brittany",
-      "indulgent",
-      "kosher-friendly",
-      "quiche",
+      "french",
       "tomato",
-      "weeknight"
+      "quiche",
+      "eggs",
+      "cheese"
     ],
     "cuisine": "French",
     "totalTimeMin": 55,
@@ -14244,17 +14240,16 @@
   },
   {
     "slug": "intensely-umami-croatian-chickpea-flour-wrap",
-    "title": "Croatian Chickpea Flour Wrap",
+    "title": "Croatian Chickpea Wrap",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "high-protein",
-      "plant-based",
       "vegan",
-      "weeknight"
+      "gluten-free",
+      "snack",
+      "wrap",
+      "chickpea"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 27,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
