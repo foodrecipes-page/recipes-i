@@ -1,0 +1,76 @@
+{
+  "slug": "indulgent-french-tomato-quiche",
+  "title": "French Tomato Quiche",
+  "description": "A rich and satisfying quiche filled with fresh tomatoes and cheese, perfect for a weekend brunch.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tomato",
+      "amount": "2 large, diced"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Grated cheese (Gruyère or Emmental)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pastry dough (homemade or store-bought)",
+      "amount": "1 sheet"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pastry dough and place in a 9-inch tart pan.",
+    "In a large skillet, sauté diced onion and minced garlic until softened.",
+    "Add diced tomatoes and cook until they start to release their juices.",
+    "In a large bowl, whisk together eggs, heavy cream, and grated cheese.",
+    "Season with salt and pepper to taste.",
+    "Pour the egg mixture over the tomatoes and onions in the skillet.",
+    "Pour the egg mixture into the pastry-lined tart pan.",
+    "Bake for 35-40 minutes, or until the edges are golden brown and the center is set.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "tomato",
+    "quiche",
+    "eggs",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-french-tomato-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:18:05.516Z"
+}
