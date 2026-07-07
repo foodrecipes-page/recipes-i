@@ -1,0 +1,93 @@
+{
+  "slug": "intensely-mustardy-vietnamese-noodle-dish",
+  "title": "Vietnamese Noodle Dish",
+  "description": "A flavorful and spicy Vietnamese noodle dish made with a variety of fresh herbs and vegetables.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "250g",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Vietnamese Chilies",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Intensely Mustardy Sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh Mint",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": "Julienne-cut"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 medium",
+      "notes": "Julienne-cut"
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": "1 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the sliced chilies and cook for 1-2 minutes, until fragrant.",
+    "Add the carrots and bell peppers and cook for 3-4 minutes, until tender.",
+    "Add the bean sprouts and cook for an additional 1-2 minutes.",
+    "In a small bowl, whisk together the mustardy sauce, salt, and sugar.",
+    "Add the sauce to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and toss to combine.",
+    "Top with chopped cilantro and mint.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodle-dish",
+    "vegetarian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-mustardy-vietnamese-noodle-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:14:55.603Z"
+}
