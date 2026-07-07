@@ -1,0 +1,67 @@
+{
+  "slug": "indulgent-bitter-ukrainian-sweet-potatoes-gratin",
+  "title": "Bitter Ukrainian Gratinee",
+  "description": "A twist on traditional Ukrainian dishes, this gratinee combines the bitterness of beets with the sweetness of caramelized onions.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, caramelize the onions over medium heat for 20 minutes.",
+    "Add the sliced beets to the saucepan and cook for an additional 10 minutes.",
+    "In a separate saucepan, boil the sliced potatoes until slightly tender.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes, followed by a layer of beets and onions.",
+    "Sprinkle grated cheese over the top of the beets and onions.",
+    "Pour heavy cream over the top of the cheese.",
+    "Repeat the layering process, finishing with a layer of cheese on top.",
+    "Bake in the preheated oven for 25-30 minutes, or until the top is golden brown and the gratinee is heated through.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian-cuisine",
+    "vegetarian",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-bitter-ukrainian-sweet-potatoes-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T23:08:23.624Z"
+}
