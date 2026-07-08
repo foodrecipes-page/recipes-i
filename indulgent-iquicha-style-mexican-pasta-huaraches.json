@@ -1,0 +1,84 @@
+{
+  "slug": "indulgent-iquicha-style-mexican-pasta-huaraches",
+  "title": "Creamy Mexican Pasta Bake",
+  "description": "A rich and indulgent pasta bake with a Mexican twist, featuring huaraches and a blend of creamy cheese.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "penne or rigatoni work well"
+    },
+    {
+      "name": "Huaraches",
+      "amount": "1 cup",
+      "notes": "pre-cooked or cooked from scratch"
+    },
+    {
+      "name": "Iquicha",
+      "amount": "2 cups",
+      "notes": "or substitute with other Mexican cheeses"
+    },
+    {
+      "name": "Mexican Style Tomato Sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grated Cheddar Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package directions until al dente. Drain and set aside.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat. Add huaraches and cook until lightly browned.",
+    "Stir in Mexican style tomato sauce and bring to a simmer. Reduce heat to low and let sauce simmer while you prepare the cream sauce.",
+    "In a separate saucepan, melt the remaining 2 tablespoons of butter over medium heat. Add heavy cream and bring to a simmer.",
+    "Reduce the cream sauce by half, stirring occasionally. Stir in grated cheddar cheese until melted and smooth.",
+    "In a large mixing bowl, combine cooked pasta, huaraches, and cream sauce. Season with salt and pepper to taste.",
+    "Transfer the pasta mixture to a baking dish and top with additional grated cheese if desired.",
+    "Bake in preheated oven for 20-25 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pasta",
+    "creamy",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-iquicha-style-mexican-pasta-huaraches",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T02:54:55.366Z"
+}
