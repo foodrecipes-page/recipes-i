@@ -4992,17 +4992,16 @@
   },
   {
     "slug": "indulgent-springy-russian-bread-wrap",
-    "title": "Indulgent Springy Russian Bread Wrap",
+    "title": "Russian Springy Wrap",
     "tags": [
-      "bread",
-      "breakfast-lunch",
-      "high-carb",
-      "homemade",
-      "pastry",
-      "weeknight"
+      "russian",
+      "springy",
+      "wrap",
+      "snack",
+      "indulgent"
     ],
     "cuisine": "russian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 15,
     "shard": "i"
   },
   {
@@ -12867,16 +12866,16 @@
   },
   {
     "slug": "intensely-savory-polish-lamb-bowl",
-    "title": "Intensely Savory Polish Lamb Bowl",
+    "title": "Polish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pot",
-      "polish-cuisine",
-      "weeknight"
+      "lamb",
+      "stew",
+      "polish",
+      "hearty",
+      "savory"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
