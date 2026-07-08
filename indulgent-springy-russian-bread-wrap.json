@@ -1,0 +1,69 @@
+{
+  "slug": "indulgent-springy-russian-bread-wrap",
+  "title": "Russian Springy Wrap",
+  "description": "A twist on the classic wrap, filled with springy ingredients and a hint of russian flair.",
+  "cuisine": "russian",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wrap",
+      "amount": "1"
+    },
+    {
+      "name": "springy ham",
+      "amount": "100g"
+    },
+    {
+      "name": "indulgent cream cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "russian pickles",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Unroll the wrap and spread the cream cheese evenly.",
+    "Add sliced ham, chopped dill, and scallions on top of the cream cheese.",
+    "Add russian pickles on one half of the wrap.",
+    "Fold the other half over the filling to create a half-moon shape.",
+    "Place the wrap on a baking sheet and bake for 5-7 minutes or until crispy.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "springy",
+    "wrap",
+    "snack",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-springy-russian-bread-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:56:56.070Z"
+}
