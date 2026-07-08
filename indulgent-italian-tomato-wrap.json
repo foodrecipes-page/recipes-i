@@ -1,0 +1,80 @@
+{
+  "slug": "indulgent-italian-tomato-wrap",
+  "title": "Tomato Italian Indulgent Wrap",
+  "description": "A flavorful and satisfying wrap filled with Italian seasonings, juicy tomatoes, and creamy cheese.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Large flour tortilla",
+      "amount": "1",
+      "notes": "Gluten-free tortilla"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "4",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "2 oz",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fresh tomatoes",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": "Dried"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "For brushing tortilla"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Brush the tortilla with olive oil and cook for 2 minutes on each side.",
+    "Spread tomato sauce on the tortilla, leaving a 1-inch border.",
+    "Top with mozzarella cheese, basil leaves, and sliced tomatoes.",
+    "Sprinkle Italian seasoning over the top.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Repeat with the remaining ingredients.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "tomato",
+    "indulgent",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-italian-tomato-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:53:51.642Z"
+}
