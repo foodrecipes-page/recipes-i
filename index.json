@@ -1341,17 +1341,15 @@
   },
   {
     "slug": "incredibly-juicy-slovakian-vegetable-roast",
-    "title": "Slovakian Vegetable Roast",
+    "title": "Roast Vegetable Brunch",
     "tags": [
-      "flavorful",
-      "hearty",
-      "one-pan",
-      "slovakian",
+      "brunch",
       "vegetarian",
-      "winter-night"
+      "roast",
+      "slovakian"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 70,
+    "cuisine": "slovakian",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -7234,17 +7232,20 @@
   },
   {
     "slug": "intense-italian-liver-saltimbocca",
-    "title": "Intense Italian Liver Saltimbocca",
+    "title": "Saltimbocca alla Romana",
     "tags": [
-      "broil",
-      "high-protein",
-      "one-pan",
-      "ovo-vegetarian",
-      "sick-day",
-      "weeknight"
+      "italian",
+      "beef-free",
+      "egg-free",
+      "fish-free",
+      "gluten-free",
+      "liver-free",
+      "low-carb",
+      "low-fat",
+      "pork-friendly"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 25,
+    "cuisine": "italian",
+    "totalTimeMin": 22,
     "shard": "i"
   },
   {
