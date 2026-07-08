@@ -1,0 +1,95 @@
+{
+  "slug": "intensely-buttery-korean-pork-ssam",
+  "title": "Korean-Style Pork Belly Ssäm",
+  "description": "A deliciously sweet and spicy Korean-inspired pork belly dish, served with crispy kimchi slaw and cilantro.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Intensely sweet Korean chili flakes (gochugaru)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ssamjang (Korean BBQ sauce)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili paste (gochujang)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together chili flakes, brown sugar, and 2 tablespoons of butter until smooth.",
+    "Rub the spice mixture all over the pork belly, making sure to coat it evenly.",
+    "Place the pork belly on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "While the pork is baking, mix together ssamjang, sesame oil, and chili paste in a small bowl.",
+    "Once the pork is done baking, brush it with the ssamjang mixture and return it to the oven for an additional 10 minutes.",
+    "Remove the pork from the oven and let it rest for 5 minutes before slicing it into thin strips.",
+    "Serve the pork with kimchi slaw, cilantro, and lime wedges on the side.",
+    "To make the kimchi slaw, mix together kimchi, 2 tablespoons of butter, and a pinch of salt in a bowl until well combined.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the slaw on the side of the pork and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pork",
+    "ssam",
+    "bbq",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-buttery-korean-pork-ssam",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T10:45:05.654Z"
+}
