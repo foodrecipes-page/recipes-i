@@ -1,0 +1,80 @@
+{
+  "slug": "indulgent-mediterranean-shirataki-pasta",
+  "title": "Creamy Mediterranean Pasta Bake",
+  "description": "A rich and satisfying pasta bake loaded with the flavors of the Mediterranean. Perfect for a comforting dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz (225g)",
+      "notes": null
+    },
+    {
+      "name": "Indulgent Cream Cheese",
+      "amount": "8 oz (225g)",
+      "notes": "softened"
+    },
+    {
+      "name": "Shirataki Noodles (optional)",
+      "amount": "8 oz (225g)",
+      "notes": null
+    },
+    {
+      "name": "Mediterranean Blend (dried oregano, thyme, rosemary)",
+      "amount": "2 tbsp (30g)",
+      "notes": null
+    },
+    {
+      "name": "Feta Cheese (optional)",
+      "amount": "2 cups crumbled (250g)",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (for garnish)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the pasta al dente, then set aside.",
+    "In a large skillet, heat 2 tbsp of olive oil over medium heat.",
+    "Add the Mediterranean Blend and cook for 1-2 minutes, until fragrant.",
+    "Add the cream cheese and stir until smooth.",
+    "Add the cooked pasta and stir until well coated.",
+    "Transfer the pasta mixture to a baking dish.",
+    "If using shirataki noodles, add them on top of the pasta mixture.",
+    "If using feta cheese, crumble it on top of the pasta mixture.",
+    "Bake for 15-20 minutes, until golden brown and bubbly.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "pasta",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-mediterranean-shirataki-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:22:22.960Z"
+}
