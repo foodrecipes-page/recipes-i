@@ -1,0 +1,85 @@
+{
+  "slug": "intense-sardinian-lamb-gnocchi",
+  "title": "Sardinian Lamb Gnocchi",
+  "description": "A hearty and flavorful Italian dish featuring lamb and Sardinian gnocchi. This recipe is a unique twist on traditional gnocchi.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sardinian Gnocchi",
+      "amount": "1 pound",
+      "notes": "found at Italian markets or online"
+    },
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season lamb shoulder with salt, black pepper, and chopped rosemary.",
+    "Heat olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear lamb shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer skillet to the preheated oven and roast lamb for 20-25 minutes, or until cooked through.",
+    "While lamb is cooking, bring a large pot of salted water to a boil.",
+    "Cook Sardinian gnocchi according to package instructions until they float to the surface.",
+    "Remove lamb from the oven and let rest for 5 minutes before slicing.",
+    "Serve sliced lamb on top of cooked gnocchi, topped with shaved Parmesan cheese.",
+    "Garnish with chopped rosemary and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "gnocchi",
+    "sardinian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-sardinian-lamb-gnocchi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:00:37.360Z"
+}
