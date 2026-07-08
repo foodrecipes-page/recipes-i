@@ -1,0 +1,73 @@
+{
+  "slug": "intensely-sweet-slovakian-fruit-pudding",
+  "title": "Slovakian Fruit Pudding",
+  "description": "A traditional Slovakian dessert made with sweet fruit and creamy pudding.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fruit compote (mixed berries)",
+      "amount": "250g"
+    },
+    {
+      "name": "Slovakian vanilla pudding mix",
+      "amount": "100g"
+    },
+    {
+      "name": "Sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "20g"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "2"
+    },
+    {
+      "name": "Plain flour",
+      "amount": "10g"
+    },
+    {
+      "name": "Milk",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a large bowl, combine fruit compote, sugar, and slovakian vanilla pudding mix.",
+    "In a separate bowl, whisk together egg yolks and milk.",
+    "Add the egg yolk mixture to the fruit mixture and stir until well combined.",
+    "Add the unsalted butter and plain flour to the mixture and stir until smooth.",
+    "Pour the mixture into individual serving cups or ramekins.",
+    "Place the cups in a large baking dish and add hot water to come halfway up the sides of the cups.",
+    "Bake for 25-30 minutes or until the pudding is set.",
+    "Remove from the oven and let cool to room temperature.",
+    "Serve chilled, garnished with fresh fruit if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "dessert",
+    "pudding",
+    "fruit"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4.5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-sweet-slovakian-fruit-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:33:00.293Z"
+}
