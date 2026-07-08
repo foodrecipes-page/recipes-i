@@ -8275,17 +8275,15 @@
   },
   {
     "slug": "intense-sardinian-lamb-gnocchi",
-    "title": "Intense Sardinian Lamb Gnocchi",
+    "title": "Sardinian Lamb Gnocchi",
     "tags": [
-      "comfort-food",
-      "gluten-free",
+      "italian",
       "lamb",
-      "pasta",
-      "sardinian",
-      "weeknight"
+      "gnocchi",
+      "sardinian"
     ],
-    "cuisine": "Sardinian",
-    "totalTimeMin": 45,
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
