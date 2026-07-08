@@ -263,17 +263,15 @@
   },
   {
     "slug": "iced-persian-cabbage-salad",
-    "title": "Iced Persian Cabbage Salad",
+    "title": "Persian Cabbage Salad",
     "tags": [
-      "air-fry",
-      "cabbage",
+      "salad",
       "middle-eastern",
-      "raw-salad",
-      "refreshing",
-      "vegan"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "i"
   },
   {
