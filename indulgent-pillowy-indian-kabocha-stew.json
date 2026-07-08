@@ -1,0 +1,85 @@
+{
+  "slug": "indulgent-pillowy-indian-kabocha-stew",
+  "title": "Kabocha Stew",
+  "description": "A hearty, comforting stew made with roasted kabocha squash and a blend of aromatic spices. This stew is perfect for a cold winter's night.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the kabocha squash in half lengthwise and scoop out the seeds.",
+    "Place the squash on a baking sheet, cut side up, and drizzle with 1 tablespoon of coconut oil.",
+    "Roast the squash in the oven for 30-40 minutes, or until tender.",
+    "In a large pot, heat the remaining 1 tablespoon of coconut oil over medium heat.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent.",
+    "Add the cumin, coriander, turmeric, salt, and pepper to the pot and cook for 1 minute.",
+    "Add the roasted squash to the pot and stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Serve hot, garnished with fresh cilantro if desired.",
+    "Note: You can also make this stew in a slow cooker. Simply brown the onion, garlic, and ginger in a pan, then transfer everything to the slow cooker and cook on low for 3-4 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-pillowy-indian-kabocha-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T02:54:29.571Z"
+}
