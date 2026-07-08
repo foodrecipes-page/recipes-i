@@ -1,0 +1,67 @@
+{
+  "slug": "intensely-roasted-saudi-arabian-beef-tomatoes-flatbread",
+  "title": "Saudi Beef Shawarma",
+  "description": "A popular street food in Saudi Arabia, this shawarma recipe features thinly sliced beef, roasted to perfection and served in a warm flatbread with fresh tomatoes.",
+  "cuisine": "saudi/arabian",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound (450g), thinly sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large, sliced"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. In a small bowl, mix together olive oil, salt, and black pepper.",
+    "3. Add the sliced beef to the bowl and toss to coat.",
+    "4. Grill the beef for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "5. Warm the flatbread by wrapping it in foil and heating it in the oven at 350°F (180°C) for 5 minutes.",
+    "6. Assemble the shawarma by placing a few slices of the grilled beef onto each piece of flatbread.",
+    "7. Top with sliced tomatoes and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "saudi",
+    "arabian",
+    "shawarma",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-roasted-saudi-arabian-beef-tomatoes-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:08:16.177Z"
+}
