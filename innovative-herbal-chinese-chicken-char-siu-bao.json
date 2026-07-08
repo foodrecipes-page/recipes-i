@@ -1,0 +1,96 @@
+{
+  "slug": "innovative-herbal-chinese-chicken-char-siu-bao",
+  "title": "Char Siu Bao",
+  "description": "Traditional Chinese steamed buns filled with sweet and savory char siu pork.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "500g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "sauces",
+      "amount": "2 tbsp",
+      "notes": "char siu, hoisin"
+    },
+    {
+      "name": "buns",
+      "amount": "4",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices",
+      "notes": "for garnish"
+    },
+    {
+      "name": "spring onions",
+      "amount": "4",
+      "notes": "for garnish"
+    },
+    {
+      "name": "herbs",
+      "amount": "1 tsp",
+      "notes": "chopped scallions, sesame seeds"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Combine soy sauce, sugar, ginger, and garlic in a bowl.",
+    "Add chicken to the bowl and marinate for at least 30 minutes.",
+    "Preheat oven to 400°F (200°C).",
+    "Remove chicken from marinade and bake for 20-25 minutes.",
+    "While chicken is baking, mix char siu and hoisin sauces in a small bowl.",
+    "Assemble buns by spreading sauce mixture on the bottom half, then adding baked chicken and topping with the other half.",
+    "Garnish with bacon, spring onions, and herbs.",
+    "Serve immediately and enjoy!",
+    "Steam buns for 10-12 minutes if using homemade buns.",
+    "Let buns cool for a few minutes before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "char-siu",
+    "steamed-buns"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-herbal-chinese-chicken-char-siu-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:33:30.052Z"
+}
