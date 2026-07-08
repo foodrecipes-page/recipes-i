@@ -1,0 +1,70 @@
+{
+  "slug": "iced-persian-cabbage-salad",
+  "title": "Persian Cabbage Salad",
+  "description": "A refreshing salad featuring shredded cabbage, crunchy persian cucumbers, and a hint of sweetness from the iced dressing.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Persian cucumbers",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Iced vinegar",
+      "amount": "2 tbsp",
+      "notes": "Apple cider vinegar or white wine vinegar"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine shredded cabbage and sliced persian cucumbers.",
+    "In a small bowl, whisk together iced vinegar, olive oil, salt, and black pepper.",
+    "Pour the dressing over the cabbage mixture and toss to coat.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iced-persian-cabbage-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:32:16.147Z"
+}
