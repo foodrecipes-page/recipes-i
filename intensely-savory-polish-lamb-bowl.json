@@ -1,0 +1,91 @@
+{
+  "slug": "intensely-savory-polish-lamb-bowl",
+  "title": "Polish Lamb Stew",
+  "description": "A hearty, savory stew originating from Poland, made with tender lamb and a variety of vegetables.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting lamb"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Dust the lamb pieces with flour, shaking off excess.",
+    "Sear the lamb until browned on all sides, about 5 minutes. Remove from pot.",
+    "Add the chopped onion, carrot, and celery to the pot and cook until the vegetables are tender, about 10 minutes.",
+    "Add the beef broth, white wine (if using), and tomato paste (if using) to the pot.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven. Braise the stew for 2 1/2 hours, or until the lamb is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "polish",
+    "hearty",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-polish-lamb-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:16:00.298Z"
+}
