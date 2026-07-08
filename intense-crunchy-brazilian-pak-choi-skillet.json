@@ -1,0 +1,67 @@
+{
+  "slug": "intense-crunchy-brazilian-pak-choi-skillet",
+  "title": "Pan-Seared Pak Choi with Crunchy Skillet Crust",
+  "description": "A simple and flavorful pak choi dish with a crunchy skillet crust, perfect for a quick dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "for crust"
+    },
+    {
+      "name": "intense",
+      "amount": "1/4 cup",
+      "notes": "such as chili flakes or soy sauce"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/2 cup",
+      "notes": "such as chopped nuts or seeds"
+    },
+    {
+      "name": "brazilian",
+      "amount": "2 tablespoons",
+      "notes": "such as olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet in a pan over medium heat.",
+    "Add the brazilian oil and crunchy ingredients to the skillet and cook, stirring occasionally, until golden brown.",
+    "Add the intense ingredients to the skillet and stir to combine.",
+    "Add the pak choi to the skillet and cook, stirring occasionally, until wilted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional crunchy ingredients if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pak-choi",
+    "skillet",
+    "crunchy",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-crunchy-brazilian-pak-choi-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:34:56.389Z"
+}
