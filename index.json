@@ -6663,18 +6663,16 @@
   },
   {
     "slug": "intense-crunchy-brazilian-pak-choi-skillet",
-    "title": "Intense Crunchy Brazilian Pak Choi Skillet",
+    "title": "Pan-Seared Pak Choi with Crunchy Skillet Crust",
     "tags": [
-      "brazilian",
+      "pak-choi",
+      "skillet",
       "crunchy",
-      "easy",
-      "one-pan",
-      "plant-based",
-      "quick",
-      "weeknight"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 25,
+    "cuisine": "Asian",
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -9044,17 +9042,16 @@
   },
   {
     "slug": "intense-spicy-moroccan-squid-skewers",
-    "title": "Intense Spicy Moroccan Squid Skewers",
+    "title": "Spicy Moroccan Squid Skewers",
     "tags": [
+      "foodie",
       "moroccan",
-      "one-pan",
-      "seafood",
-      "shojin",
-      "spicy",
-      "weeknight"
+      "squid",
+      "skewers",
+      "spicy"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 32,
+    "cuisine": "moroccan",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
