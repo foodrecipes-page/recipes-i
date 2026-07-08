@@ -6851,17 +6851,15 @@
   },
   {
     "slug": "intense-ethiopian-chickpeas-stew",
-    "title": "Intense Ethiopian Chickpeas Stew",
+    "title": "Ethiopian Chickpea Intense Stew",
     "tags": [
-      "cheese",
-      "comfort-food",
-      "double-fry",
       "ethiopian",
-      "pandan-wrapped",
-      "vegetarian"
+      "stew",
+      "chickpeas",
+      "spicy"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "cuisine": "ethiopian",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -12513,17 +12511,16 @@
   },
   {
     "slug": "intensely-roasted-saudi-arabian-beef-tomatoes-flatbread",
-    "title": "Intensely Roasted Saudi Arabian Beef Tomatoes Flatbread",
+    "title": "Saudi Beef Shawarma",
     "tags": [
-      "hangover-cure",
-      "laminated-dough",
-      "middle-eastern",
-      "pescatarian-friendly",
-      "roasted-vegetables",
-      "savory-pastry"
+      "beef",
+      "saudi",
+      "arabian",
+      "shawarma",
+      "street-food"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "cuisine": "saudi/arabian",
+    "totalTimeMin": 23,
     "shard": "i"
   },
   {
@@ -14296,18 +14293,16 @@
   },
   {
     "slug": "intensely-umami-korean-ovoli-mushroom-banchan",
-    "title": "Intensely Umami Korean Ovoli Mushroom Banchan",
+    "title": "Umami Mushroom Banchan",
     "tags": [
-      "crispy",
-      "date-night",
-      "korean-cuisine",
-      "low-calorie",
-      "mushroom-dish",
       "umami",
+      "korean",
+      "mushroom",
+      "banchan",
       "vegetarian"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "cuisine": "korean",
+    "totalTimeMin": 15,
     "shard": "i"
   },
   {
