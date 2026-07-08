@@ -1,0 +1,85 @@
+{
+  "slug": "intricately-snappy-dutch-jerusalem-artichokes-stew",
+  "title": "Dutch Stew with Artichokes",
+  "description": "A hearty Dutch stew made with tender artichokes, snappy vegetables, and rich stew meat, perfect for a cold winter night.",
+  "cuisine": "Dutch",
+  "diet": [
+    "omnivore",
+    "traditional"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "dutch mustard",
+      "amount": "2 tablespoons",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 (14.5 oz) can, drained",
+      "notes": "canned artichoke hearts work well in this recipe"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "about 2 cups chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium, peeled and chopped",
+      "notes": "about 2 cups chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, chopped",
+      "notes": "about 2 cups chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large, peeled and chopped",
+      "notes": "about 2 cups chopped"
+    },
+    {
+      "name": "dutch rupenbrod bread",
+      "amount": "1 cup, cubed",
+      "notes": "optional, but a nice addition to the stew"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion, carrot, and celery, and cook until the vegetables are tender, about 8 minutes.",
+    "Add the beef stew meat and cook until browned on all sides, about 5 minutes.",
+    "Add the artichoke hearts, potatoes, and cubed bread (if using), and stir to combine.",
+    "Pour in 2 cups of beef broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the meat is tender.",
+    "Stir in the Dutch mustard and cook for an additional 10 minutes.",
+    "Season the stew with salt and pepper to taste, and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "dutch",
+    "artichokes",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 35,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricately-snappy-dutch-jerusalem-artichokes-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:22:57.072Z"
+}
