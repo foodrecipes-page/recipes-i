@@ -437,16 +437,14 @@
   },
   {
     "slug": "icy-crunchy-australian-fish-burger",
-    "title": "Icy Crunchy Australian Fish Burger",
+    "title": "Crunchy Australian Fish Burger",
     "tags": [
-      "australian",
-      "high-protein",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "fish-burger",
+      "australian-cuisine",
+      "gluten-free"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 28,
+    "cuisine": "australian",
+    "totalTimeMin": 18,
     "shard": "i"
   },
   {
@@ -5634,17 +5632,15 @@
   },
   {
     "slug": "innovative-intense-ethiopian-lentils-ye-beg-alichta",
-    "title": "Innovative Intense Ethiopian Lentils Ye Beg Alichta",
+    "title": "Ethiopian Lentil Stew",
     "tags": [
-      "burger-buns",
+      "lentils",
       "ethiopian",
-      "lentil",
-      "one-pot",
-      "sesame-seed",
+      "stew",
       "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
@@ -8968,17 +8964,15 @@
   },
   {
     "slug": "intense-spicy-chinese-tofu-skewers",
-    "title": "Intense Spicy Chinese Tofu Skewers",
+    "title": "Spicy Tofu Skewers",
     "tags": [
-      "chinese-cuisine",
-      "romantic-dinner",
-      "special-occasion",
-      "spicy-food",
-      "vegan",
+      "chinese",
+      "tofu",
+      "skewers",
       "vegetarian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -14321,17 +14315,16 @@
   },
   {
     "slug": "intensely-umami-russian-tiger-prawns-skewers",
-    "title": "Intensely Umami Russian Tiger Prawns Skewers",
+    "title": "Tiger Prawns Skewers with Russian Spice",
     "tags": [
-      "high-protein",
-      "lacto-vegetarian",
-      "prawn-recipes",
-      "russian-cuisine",
+      "easy",
+      "quick",
+      "dinner",
       "seafood",
-      "umami"
+      "russian-cuisine"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 23,
+    "cuisine": "russian",
+    "totalTimeMin": 18,
     "shard": "i"
   },
   {
