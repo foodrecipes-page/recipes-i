@@ -1,0 +1,70 @@
+{
+  "slug": "icy-crunchy-australian-fish-burger",
+  "title": "Crunchy Australian Fish Burger",
+  "description": "A crispy and flavorful fish burger with crunchy toppings and a hint of australian spices. Great for a quick and easy dinner",
+  "cuisine": "australian",
+  "diet": [
+    "fish-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "icy fish fillet",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "crunchy australian panko breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "burger buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "australian chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "iceberg lettuce",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Dip each fish fillet in the beaten egg and then coat with crunchy australian panko breadcrumbs.",
+    "Cook the fish for 3-4 minutes per side, or until cooked through.",
+    "Toast the burger buns on the grill or in a toaster.",
+    "Assemble the burgers with mayonnaise, chili flakes, lettuce, and tomatoes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish-burger",
+    "australian-cuisine",
+    "gluten-free"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-crunchy-australian-fish-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:05:41.965Z"
+}
