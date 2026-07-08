@@ -1,0 +1,95 @@
+{
+  "slug": "intense-spicy-moroccan-squid-skewers",
+  "title": "Spicy Moroccan Squid Skewers",
+  "description": "Deliciously spicy and flavorful Moroccan-style squid skewers, perfect for a summer barbecue.",
+  "cuisine": "moroccan",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Squid tubes",
+      "amount": "500g",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "2",
+      "notes": "About 1 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "2 tablespoons",
+      "notes": "About 1/4 cup"
+    },
+    {
+      "name": "Spicy harissa",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. Cut the squid into 1-inch pieces.",
+    "3. Thread the squid, onion, parsley, cilantro, and mint onto skewers.",
+    "4. Brush the skewers with olive oil and season with salt and pepper.",
+    "5. Grill the skewers for 5-7 minutes per side, or until the squid is cooked through.",
+    "6. While the skewers are grilling, mix the harissa and lime juice in a small bowl.",
+    "7. Brush the harissa-lime mixture onto the skewers during the last minute of grilling.",
+    "8. Serve hot and garnish with additional parsley and mint, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "foodie",
+    "moroccan",
+    "squid",
+    "skewers",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 15,
+    "carbs": 8,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-spicy-moroccan-squid-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T17:16:04.420Z"
+}
