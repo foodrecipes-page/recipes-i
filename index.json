@@ -3657,18 +3657,14 @@
   },
   {
     "slug": "indulgent-mediterranean-shirataki-pasta",
-    "title": "indulgent mediterranean shirataki pasta",
+    "title": "Creamy Mediterranean Pasta Bake",
     "tags": [
-      "gluten-free",
-      "indulgent",
       "mediterranean",
-      "one-pan",
-      "pescatarian",
-      "shirataki",
-      "weeknight"
+      "pasta",
+      "comfort-food"
     ],
-    "cuisine": "mediterranean",
-    "totalTimeMin": 30,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -14040,12 +14036,10 @@
     "slug": "intensely-sweet-slovakian-fruit-pudding",
     "title": "Slovakian Fruit Pudding",
     "tags": [
-      "comfort-food",
-      "festive",
-      "fruit-based",
-      "plant-based",
-      "traditional",
-      "yeast-based"
+      "slovakian",
+      "dessert",
+      "pudding",
+      "fruit"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 40,
