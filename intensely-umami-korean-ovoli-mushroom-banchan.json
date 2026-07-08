@@ -1,0 +1,78 @@
+{
+  "slug": "intensely-umami-korean-ovoli-mushroom-banchan",
+  "title": "Umami Mushroom Banchan",
+  "description": "A simple, savory side dish featuring sautéed mushrooms and umami flavor. Inspired by Korean cuisine, this banchan is perfect for accompanying steaming bowls of rice or noodles.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ovoli",
+      "amount": "2 tablespoons",
+      "notes": "Umami paste"
+    },
+    {
+      "name": "Intensely",
+      "amount": "1 teaspoon",
+      "notes": "Umami seasoning blend"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a pan over medium heat.",
+    "Add the chopped green onions and cook until fragrant, about 1 minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 3-4 minutes.",
+    "Add the ovoli, intensely, and Korean chili flakes. Stir to combine.",
+    "Cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "Season with soy sauce to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "korean",
+    "mushroom",
+    "banchan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-umami-korean-ovoli-mushroom-banchan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:38:31.157Z"
+}
