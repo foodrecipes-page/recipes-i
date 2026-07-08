@@ -1,0 +1,77 @@
+{
+  "slug": "intensely-umami-russian-tiger-prawns-skewers",
+  "title": "Tiger Prawns Skewers with Russian Spice",
+  "description": "A flavorful and spicy prawn skewer recipe with a Russian twist. Perfect for a quick and easy dinner.",
+  "cuisine": "russian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Tiger Skewers",
+      "amount": "8-10 skewers",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "Russian Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Intensely Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Umami Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "4-6",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread 3-4 prawns onto each skewer.",
+    "In a small bowl, mix together Russian Spice Blend, Smoked Paprika, Soy Sauce, salt, and black pepper.",
+    "Brush the spice mixture onto both sides of the prawns.",
+    "Grill the skewers for 2-3 minutes per side, or until pink and cooked through.",
+    "Serve hot with lemon wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "quick",
+    "dinner",
+    "seafood",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-umami-russian-tiger-prawns-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:00:02.940Z"
+}
