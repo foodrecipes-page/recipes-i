@@ -3068,17 +3068,15 @@
   },
   {
     "slug": "indulgent-iquicha-style-mexican-pasta-huaraches",
-    "title": "Indulgent Iquicha-Style Mexican Pasta Huaraches",
+    "title": "Creamy Mexican Pasta Bake",
     "tags": [
-      "meat-free",
       "mexican",
-      "one-pan",
-      "quick-and-easy",
-      "raw-friendly",
-      "vegetarian"
+      "pasta",
+      "creamy",
+      "bake"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -4055,17 +4053,14 @@
   },
   {
     "slug": "indulgent-pillowy-indian-kabocha-stew",
-    "title": "Indulgent Pillowy Indian Kabocha Stew",
+    "title": "Kabocha Stew",
     "tags": [
-      "clay-pot",
-      "comfort-food",
-      "no-garlic",
-      "no-onion",
-      "one-pot",
-      "vegan"
+      "indian",
+      "vegetarian",
+      "stew"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 60,
+    "cuisine": "indian",
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
