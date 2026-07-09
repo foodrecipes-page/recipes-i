@@ -1,0 +1,88 @@
+{
+  "slug": "intensely-fatty-filipino-haricot-beans-pinakbet",
+  "title": "Filipino Pinakbet with Haricot Beans",
+  "description": "A traditional Filipino vegetable dish made with a mixture of sautéed vegetables and seasonings. This recipe combines the classic pinakbet flavors with the addition of haricot beans.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "intensely flavored fish sauce (patis)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "haricot beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pinakbet (Filipino vegetable mixture)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pan over medium heat.",
+    "Add the onion and tomato and sauté until the vegetables are softened.",
+    "Add the pinakbet mixture and haricot beans and stir well.",
+    "Add the intensely flavored fish sauce (patis), salt, black pepper, and chili peppers.",
+    "Stir well and cook for 5 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot as a snack or side dish.",
+    "Optional: Serve with steamed rice or as a topping for grilled meats."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "vegetarian",
+    "snack",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-fatty-filipino-haricot-beans-pinakbet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:34:43.587Z"
+}
