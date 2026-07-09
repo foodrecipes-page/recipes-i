@@ -1,0 +1,86 @@
+{
+  "slug": "intensely-nutty-southern-thai-coconut-nam-prik-toast",
+  "title": "Coconut Nam Prik Toast",
+  "description": "A Southern twist on traditional Thai chili sauce served atop crispy toast.",
+  "cuisine": "southern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Thai chili peppers",
+      "amount": "4-5",
+      "notes": "such as prik kee noo"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat for creaminess"
+    },
+    {
+      "name": "intensely roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "2 tbsp",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "nam prik paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sliced toast",
+      "amount": "4-6 slices",
+      "notes": "preferably baguette or ciabatta"
+    }
+  ],
+  "instructions": [
+    "1. Toast bread slices until crispy.",
+    "2. In a blender or food processor, combine Thai chili peppers, coconut milk, peanuts, coconut flakes, nam prik paste, lime juice, brown sugar, and garlic.",
+    "3. Blend until smooth, adjusting seasoning as needed.",
+    "4. Arrange toasted bread slices on a serving platter or individual plates.",
+    "5. Spoon nam prik sauce over toast.",
+    "6. Garnish with additional peanuts, coconut flakes, or sliced chili peppers if desired.",
+    "7. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "southern",
+    "thai",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "4g",
+    "carbs": "30g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-nutty-southern-thai-coconut-nam-prik-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T19:27:23.403Z"
+}
