@@ -7255,18 +7255,15 @@
   },
   {
     "slug": "intense-italian-spaghetti-carbonara",
-    "title": "Intense Italian Spaghetti Carbonara",
+    "title": "Italian Carbonara",
     "tags": [
-      "ayurvedic-tamasic-friendly",
-      "chocolate",
-      "cocoa",
-      "date-night",
-      "dense",
-      "neapolitan",
-      "salty"
+      "italian",
+      "pasta",
+      "carbonara",
+      "spaghetti"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -8056,17 +8053,15 @@
   },
   {
     "slug": "intense-pull-uruguayan-cheese-bento-box",
-    "title": "Intense Pull Uruguayan Cheese Bento-Box",
+    "title": "Uruguayan Cheese Bento",
     "tags": [
-      "diabetic-friendly",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "easy",
+      "lunch",
+      "uruguayan",
+      "cheese"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 18,
+    "totalTimeMin": 10,
     "shard": "i"
   },
   {
