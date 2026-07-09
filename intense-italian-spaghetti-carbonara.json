@@ -1,0 +1,69 @@
+{
+  "slug": "intense-italian-spaghetti-carbonara",
+  "title": "Italian Carbonara",
+  "description": "A classic Italian pasta dish made with eggs, parmesan cheese, and guanciale, all tossed with spaghetti.",
+  "cuisine": "Italian",
+  "diet": [
+    "pork-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Guanciale or Pancetta",
+      "amount": "4 oz",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "3"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook spaghetti in the boiling water until al dente, about 8-10 minutes.",
+    "While the spaghetti is cooking, cook the guanciale in a large skillet over medium heat. It will start to crisp up and release its fat.",
+    "Remove the cooked spaghetti from the water with a slotted spoon and add it to the skillet with the guanciale.",
+    "In a medium bowl, whisk together the eggs and a pinch of salt.",
+    "Add the grated Parmesan cheese to the bowl with the eggs and whisk until well combined.",
+    "Add the egg mixture to the skillet with the spaghetti and guanciale. Toss everything together until the spaghetti is well coated.",
+    "Remove the skillet from the heat and continue to toss the spaghetti for another minute or until the eggs are cooked through.",
+    "Season with salt to taste.",
+    "Serve immediately, garnished with extra Parmesan cheese if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "carbonara",
+    "spaghetti"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 34,
+    "carbs": 55,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-italian-spaghetti-carbonara",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T04:06:27.737Z"
+}
