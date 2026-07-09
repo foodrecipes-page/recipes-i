@@ -6400,17 +6400,14 @@
   },
   {
     "slug": "intense-charred-irish-lamb-wrap",
-    "title": "Intense Charred Irish Lamb Wrap",
+    "title": "Intense Irish Lamb Wrap",
     "tags": [
-      "dairy-free",
-      "date-night",
-      "gluten-free",
-      "high-protein",
-      "irish-cuisine",
-      "special-occasion"
+      "irish-lamb",
+      "grilled-lamb",
+      "wrap"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 60,
+    "cuisine": "irish",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -9654,17 +9651,15 @@
   },
   {
     "slug": "intensely-buttery-british-tomato-cottage-pie",
-    "title": "Intensely Buttery British Tomato Cottage Pie",
+    "title": "Classic British Cottage Pie",
     "tags": [
-      "british-cuisine",
-      "casserole",
+      "british",
       "comfort-food",
-      "flexitarian",
-      "homestyle",
-      "one-pot"
+      "beef",
+      "potatoes"
     ],
     "cuisine": "British",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
@@ -12053,17 +12048,15 @@
   },
   {
     "slug": "intensely-resinous-irish-lamb-stew",
-    "title": "Intensely Resinous Irish Lamb Stew",
+    "title": "Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "donabe-cooking",
-      "gluten-free",
-      "hearty-stew",
-      "irish-cuisine"
+      "lamb",
+      "irish",
+      "stew",
+      "comfort food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 120,
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
