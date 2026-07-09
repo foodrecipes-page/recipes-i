@@ -11761,17 +11761,16 @@
   },
   {
     "slug": "intensely-nutty-southern-thai-coconut-nam-prik-toast",
-    "title": "Intensely Nutty Southern Thai Coconut Nam Prik Toast",
+    "title": "Coconut Nam Prik Toast",
     "tags": [
-      "coconut-based",
-      "gluten-free",
-      "nam-prik",
-      "one-pan",
-      "paleo-friendly",
-      "southern-thai"
+      "southern",
+      "thai",
+      "snack",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 25,
+    "cuisine": "southern",
+    "totalTimeMin": 15,
     "shard": "i"
   },
   {
