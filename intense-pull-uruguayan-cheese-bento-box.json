@@ -1,0 +1,74 @@
+{
+  "slug": "intense-pull-uruguayan-cheese-bento-box",
+  "title": "Uruguayan Cheese Bento",
+  "description": "A flavorful Uruguayan-inspired dish made with melted cheese, wrapped in a bento box for a fun and easy meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pull apart cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Box",
+      "amount": "1, bento box"
+    },
+    {
+      "name": "Bento",
+      "amount": "1, for serving"
+    },
+    {
+      "name": "Uruguayan seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the broiler to 375°F (190°C).",
+    "2. In a bowl, mix together cheese, olive oil, garlic, and uruguayan seasoning.",
+    "3. Place a small amount of the cheese mixture on the bottom of the bento box.",
+    "4. Sprinkle some cilantro over the cheese.",
+    "5. Wrap the box in foil and broil for 5-7 minutes or until the cheese is melted.",
+    "6. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "lunch",
+    "uruguayan",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-pull-uruguayan-cheese-bento-box",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T05:30:43.024Z"
+}
