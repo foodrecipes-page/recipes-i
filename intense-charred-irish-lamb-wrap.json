@@ -1,0 +1,82 @@
+{
+  "slug": "intense-charred-irish-lamb-wrap",
+  "title": "Intense Irish Lamb Wrap",
+  "description": "A flavorful and spicy lamb wrap inspired by Irish cuisine. The charred lamb is served in a crispy wrap with tangy slaw.",
+  "cuisine": "irish",
+  "diet": [
+    "meat-based",
+    "gluten-containing"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Irish wrap",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Charred red onion",
+      "amount": "1/2 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Butter lettuce",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tzatziki sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400°F (200°C).",
+    "Season the lamb with cumin, smoked paprika, and salt.",
+    "Grill the lamb for 5-6 minutes per side or until it reaches an internal temperature of 145°F (63°C).",
+    "Let the lamb rest for 10 minutes before slicing it thinly against the grain.",
+    "Meanwhile, grill the red onion for 2-3 minutes per side or until it's charred and tender.",
+    "Assemble the wraps by spreading tzatziki sauce on each wrap, followed by sliced lamb, charred red onion, lettuce, and cucumber.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-lamb",
+    "grilled-lamb",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-charred-irish-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:23:38.411Z"
+}
