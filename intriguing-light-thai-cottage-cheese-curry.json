@@ -1,0 +1,81 @@
+{
+  "slug": "intriguing-light-thai-cottage-cheese-curry",
+  "title": "Thai Cottage Curry",
+  "description": "A flavorful and nutritious Thai-inspired curry made with cottage cheese, a blend of spices, and a medley of vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "curry",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add chopped onion, carrot, and bell pepper. Cook until the vegetables are tender.",
+    "Add curry powder and cook for 1 minute.",
+    "Add cottage cheese, coconut milk, turmeric, and cumin. Stir well.",
+    "Season with salt to taste.",
+    "Simmer the curry for 5-7 minutes or until the cheese is melted and the flavors are well combined.",
+    "Serve hot with rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-curry",
+    "vegetarian-curry",
+    "cottage-cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intriguing-light-thai-cottage-cheese-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:47:02.088Z"
+}
