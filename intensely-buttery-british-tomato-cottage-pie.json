@@ -1,0 +1,99 @@
+{
+  "slug": "intensely-buttery-british-tomato-cottage-pie",
+  "title": "Classic British Cottage Pie",
+  "description": "A traditional British dish made with ground beef, vegetables, and mashed potatoes. This comforting meal is perfect for a chilly evening.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "peeled, chopped potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "intensely, buttery, british, tomato",
+      "amount": "1 can",
+      "notes": "diced, crushed"
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and carrot to the skillet and cook until they are softened.",
+    "Stir in the crushed tomatoes and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture simmer for 10 minutes.",
+    "While the meat mixture is simmering, prepare the mashed potatoes. Peel the potatoes and chop them into large chunks.",
+    "Place the potatoes in a large pot and add enough cold water to cover them. Bring the water to a boil over high heat, then reduce the heat to medium-low and simmer for 15-20 minutes, or until the potatoes are tender.",
+    "Drain the potatoes and return them to the pot. Add the butter, milk, salt, and pepper, and mash the potatoes with a potato masher until they are smooth and creamy.",
+    "Transfer the meat mixture to a 9x13 inch baking dish. Spread the mashed potatoes evenly over the top of the meat mixture.",
+    "Bake the cottage pie in the preheated oven for 25-30 minutes, or until the potatoes are golden brown and the filling is hot and bubbly.",
+    "Serve the cottage pie hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "beef",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-buttery-british-tomato-cottage-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T23:44:08.148Z"
+}
