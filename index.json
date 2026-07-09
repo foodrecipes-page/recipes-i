@@ -15025,17 +15025,14 @@
   },
   {
     "slug": "intriguing-light-thai-cottage-cheese-curry",
-    "title": "Intriguing Light Thai Cottage Cheese Curry",
+    "title": "Thai Cottage Curry",
     "tags": [
-      "floral",
-      "high-protein",
-      "lacto-vegetarian",
-      "one-pot",
       "thai-curry",
-      "weeknight"
+      "vegetarian-curry",
+      "cottage-cheese"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "cuisine": "thai",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
