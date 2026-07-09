@@ -12339,17 +12339,14 @@
   },
   {
     "slug": "intensely-roasted-chinese-tofu-mapo-tofu",
-    "title": "Intensely Roasted Chinese Tofu Mapo Tofu",
+    "title": "Mapo Tofu",
     "tags": [
-      "chinese-food",
-      "high-protein",
-      "one-pan",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "chinese",
+      "tofu",
+      "spicy"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
