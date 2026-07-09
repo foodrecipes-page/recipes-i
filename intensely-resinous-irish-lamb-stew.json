@@ -1,0 +1,91 @@
+{
+  "slug": "intensely-resinous-irish-lamb-stew",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty and flavorful Irish-inspired stew made with tender lamb and rich vegetables.",
+  "cuisine": "Irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1 1/2-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": "Look for lamb with a good balance of fat and lean meat"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "2 medium",
+      "notes": "Use a combination of yellow and white onions for added depth of flavor"
+    },
+    {
+      "name": "Carrots, peeled and chopped",
+      "amount": "4 medium",
+      "notes": "Use baby carrots for a sweeter flavor"
+    },
+    {
+      "name": "Potatoes, peeled and chopped",
+      "amount": "2-3 large",
+      "notes": "Use high-starch potatoes like Russet or Idaho for a fluffier texture"
+    },
+    {
+      "name": "Celery, chopped",
+      "amount": "2 stalks",
+      "notes": "Use fresh celery for the best flavor"
+    },
+    {
+      "name": "Irish stew seasoning",
+      "amount": "1 teaspoon",
+      "notes": "Use a store-bought or homemade blend of herbs and spices"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Use a full-bodied red wine like Cabernet Sauvignon or Merlot"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Use low-sodium broth for a lighter flavor"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Use concentrated tomato paste for a deeper flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb in batches, about 5 minutes per batch, until browned on all sides.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and celery to the pot and cook for an additional 5 minutes.",
+    "Add the chopped potatoes, Irish stew seasoning, red wine, beef broth, and tomato paste to the pot.",
+    "Stir to combine and bring the mixture to a boil.",
+    "Return the lamb to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and cook for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "irish",
+    "stew",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-resinous-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:53:16.223Z"
+}
