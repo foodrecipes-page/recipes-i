@@ -1,0 +1,78 @@
+{
+  "slug": "intriguing-nutty-middle-eastern-uni-ouzi",
+  "title": "Grilled Uni Ouzi with Middle Eastern Spices",
+  "description": "A unique fusion of Middle Eastern flavors with the sweetness of uni, served as a snack or appetizer.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uni (Sea Urchin)",
+      "amount": "8 oz",
+      "notes": "Fresh and of high quality"
+    },
+    {
+      "name": "Middle Eastern Spice Blend",
+      "amount": "2 tsp",
+      "notes": "Available at most Middle Eastern grocery stores"
+    },
+    {
+      "name": "Ouzi Rice",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "High-quality and extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Flaky sea salt recommended"
+    },
+    {
+      "name": "Parsley",
+      "amount": "chopped (optional)",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season the uni with Middle Eastern Spice Blend, salt, and a squeeze of lemon juice.",
+    "3. Grill the uni for 2-3 minutes per side, or until slightly charred.",
+    "4. Meanwhile, warm the ouzi rice according to package instructions.",
+    "5. To assemble, place a portion of ouzi rice on a plate, followed by a grilled uni slice.",
+    "6. Drizzle with olive oil and garnish with chopped parsley, if desired.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "uni",
+    "grilled",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intriguing-nutty-middle-eastern-uni-ouzi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:24:26.201Z"
+}
