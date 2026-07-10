@@ -1,0 +1,93 @@
+{
+  "slug": "indulgent-fluffy-venezuelan-beef-kidney-stew",
+  "title": "Venezuelan Beef Stew",
+  "description": "A hearty and flavorful stew originating from Venezuela, made with tender beef and rich flavors.",
+  "cuisine": "Latin American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound beef stew meat",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "kidney",
+      "amount": "2 large beef kidneys",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "stew",
+      "amount": "1 tablespoon stew seasoning",
+      "notes": "such as sofrito"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves garlic",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large tomatoes",
+      "notes": "diced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large potatoes",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 large carrots",
+      "notes": "sliced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups beef broth",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups water",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef and kidneys on all sides, about 5 minutes.",
+    "Remove the browned meat and set aside.",
+    "Add more oil if necessary, then sauté the onion, garlic, and tomato until softened, about 5 minutes.",
+    "Add the potatoes and carrots, and cook for 5 minutes.",
+    "Add the stew seasoning, beef broth, and water to the pot.",
+    "Return the browned meat to the pot, cover, and bring to a boil.",
+    "Transfer the pot to the oven and braise for 2 1/2 hours, or until the meat is tender.",
+    "Season with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "latin-american",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-fluffy-venezuelan-beef-kidney-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:52:54.455Z"
+}
