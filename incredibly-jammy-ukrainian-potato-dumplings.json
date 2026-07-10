@@ -1,0 +1,80 @@
+{
+  "slug": "incredibly-jammy-ukrainian-potato-dumplings",
+  "title": "Ukrainian-Style Potato Dumplings",
+  "description": "A traditional Ukrainian dish made with boiled dumplings filled with a mixture of potatoes and other ingredients, served with a side of jammy sauce.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "jammy sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the grated potatoes, flour, eggs, sour cream (if using), and salt. Mix well until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and roll each piece into a ball.",
+    "Use a rolling pin to flatten each ball into a thin circle.",
+    "Place a tablespoon of filling in the center of each circle.",
+    "Fold the dough over the filling to form a half-circle shape, and press the edges together to seal the dumpling.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "While the dumplings are cooking, heat the jammy sauce in a saucepan over medium heat.",
+    "Once the dumplings are done, remove them from the water with a slotted spoon and serve with the jammy sauce.",
+    "Garnish with chopped chives (if using)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "potato",
+    "dumplings",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-jammy-ukrainian-potato-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:04:58.374Z"
+}
