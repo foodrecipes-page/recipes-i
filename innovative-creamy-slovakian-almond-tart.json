@@ -1,0 +1,85 @@
+{
+  "slug": "innovative-creamy-slovakian-almond-tart",
+  "title": "Slovakian Creamy Tart",
+  "description": "A traditional Slovakian dessert with a creamy twist. This dish is perfect for a dinner or a special occasion.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond pastry dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Slovakian sour cream",
+      "amount": "1 cup",
+      "notes": "or regular sour cream"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Tart cherries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the almond pastry dough and place it in a tart pan.",
+    "In a large bowl, mix together the sour cream, granulated sugar, eggs, and vanilla extract.",
+    "Pour the sour cream mixture into the tart crust and smooth the top.",
+    "Arrange the tart cherries on top of the sour cream mixture.",
+    "Dot the top of the tart with the melted butter.",
+    "Bake the tart for 40-50 minutes or until the crust is golden brown and the filling is set.",
+    "Let the tart cool completely before dusting with confectioners' sugar.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "slovakian",
+    "creamy",
+    "tart",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-creamy-slovakian-almond-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:41:36.650Z"
+}
