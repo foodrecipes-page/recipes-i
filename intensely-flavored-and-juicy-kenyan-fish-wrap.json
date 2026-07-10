@@ -1,0 +1,95 @@
+{
+  "slug": "intensely-flavored-and-juicy-kenyan-fish-wrap",
+  "title": "Kenyan Juicy Fish Wrap",
+  "description": "A flavorful, spicy, and delicious Kenyan-inspired dish, perfect for a quick dinner or lunch. The combination of the fish, vegetables, and spices will leave you craving for more.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "seafood-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kenyan Fish",
+      "amount": "4 oz",
+      "notes": "Any white fish, e.g., tilapia, mahi-mahi"
+    },
+    {
+      "name": "Intensely Flavored Wrap",
+      "amount": "1",
+      "notes": "e.g., chapati, naan"
+    },
+    {
+      "name": "Juicy Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": "e.g., peri-peri sauce, harissa"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "2 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Green Chilies",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish with salt and black pepper.",
+    "Bake the fish for 8-10 minutes or until cooked through.",
+    "Heat the intensely flavored wrap in the oven for 2-3 minutes or until crispy.",
+    "Mix the juicy fish sauce with chopped cilantro.",
+    "Assemble the wrap by spreading the cilantro sauce on the wrap, followed by the fish, cucumber, green chilies, onion, and tomato.",
+    "Fold the wrap to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "fish",
+    "wrap",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flavored-and-juicy-kenyan-fish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:40:27.627Z"
+}
