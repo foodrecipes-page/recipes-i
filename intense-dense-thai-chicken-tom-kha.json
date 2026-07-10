@@ -1,0 +1,95 @@
+{
+  "slug": "intense-dense-thai-chicken-tom-kha",
+  "title": "Tom Kha Chicken Soup",
+  "description": "A flavorful Thai-inspired soup made with chicken, coconut milk, and spices. This comforting dish is perfect for a chilly day.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "tom kha paste",
+      "amount": "2 tablespoons",
+      "notes": "found in most Asian grocery stores"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat can"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium broth"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional, for added depth"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "balances out acidity"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "intense chilies",
+      "amount": "2-3",
+      "notes": "depending on desired heat level"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Add the tom kha paste and cook for 1-2 minutes, stirring constantly.",
+    "Pour in the chicken broth, coconut milk, fish sauce, and sugar.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, or until the chicken is cooked through.",
+    "Stir in the lemon juice and add more to taste.",
+    "Season with salt to taste.",
+    "Garnish with cilantro, scallions, and chilies.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "soup",
+    "chicken",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-dense-thai-chicken-tom-kha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:41:05.580Z"
+}
