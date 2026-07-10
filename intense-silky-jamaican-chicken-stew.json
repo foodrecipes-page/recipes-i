@@ -1,0 +1,86 @@
+{
+  "slug": "intense-silky-jamaican-chicken-stew",
+  "title": "Jamaican Chicken Stew",
+  "description": "A flavorful and spicy Jamaican-inspired chicken stew made with tender chicken, silky vegetables, and a hint of intense spices.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "stew tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on both sides, about 5-6 minutes. Remove from pot and set aside.",
+    "Add the onion, bell pepper, and jerk seasoning to the pot. Cook until the vegetables are tender, about 5 minutes.",
+    "Add the diced tomato, stew tomatoes, and flour to the pot. Stir to combine and cook for 1 minute.",
+    "Add the coconut milk to the pot and stir to combine.",
+    "Return the chicken to the pot and bring to a simmer.",
+    "Reduce heat to low and cook, covered, until the chicken is cooked through and the stew has thickened, about 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "jamaican",
+    "stew",
+    "one-pot",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-silky-jamaican-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:55:24.839Z"
+}
