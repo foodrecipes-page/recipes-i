@@ -2641,17 +2641,14 @@
   },
   {
     "slug": "indulgent-fluffy-venezuelan-beef-kidney-stew",
-    "title": "Venezuelan Beef Kidney Stew",
+    "title": "Venezuelan Beef Stew",
     "tags": [
-      "beef-kidney",
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "hearty-stew",
-      "venezuelan-cuisine"
+      "beef",
+      "latin-american",
+      "stew"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 110,
+    "cuisine": "Latin American",
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
@@ -3624,19 +3621,15 @@
   },
   {
     "slug": "indulgent-mediterranean-russet-potato-hash",
-    "title": "Indulgent Mediterranean Russet Potato Hash",
+    "title": "Russet Potato Hash with Indulgent Twist",
     "tags": [
-      "bacon",
       "breakfast",
-      "feta",
-      "keto-friendly",
-      "mediterranean",
-      "one-pan",
-      "russet-potatoes",
-      "weeknight"
+      "brunch",
+      "potatoes",
+      "bacon"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "cuisine": "american",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -4558,15 +4551,15 @@
   },
   {
     "slug": "indulgent-silky-i-greek-lamb-stifado",
-    "title": "indulgent silky i greek lamb stifado",
+    "title": "Greek Stifado with Lamb",
     "tags": [
-      "greek-cuisine",
-      "high-protein",
-      "keto-friendly",
-      "one-pan"
+      "greek",
+      "lamb",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "greek",
-    "totalTimeMin": 50,
+    "cuisine": "Greek",
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
@@ -10107,17 +10100,15 @@
   },
   {
     "slug": "intensely-creamy-spanish-chicken-croquetas",
-    "title": "Intensely Creamy Spanish Chicken Croquetas",
+    "title": "Spanish Chicken Croquetas",
     "tags": [
-      "chicken-recipes",
-      "comfort-food",
+      "spanish",
+      "chicken",
       "croquetas",
-      "gluten-free-snacks",
-      "low-carb",
-      "spanish-food"
+      "snack"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 32,
     "shard": "i"
   },
   {
