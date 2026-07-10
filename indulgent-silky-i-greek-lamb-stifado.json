@@ -1,0 +1,89 @@
+{
+  "slug": "indulgent-silky-i-greek-lamb-stifado",
+  "title": "Greek Stifado with Lamb",
+  "description": "A hearty and flavorful Greek stew made with tender lamb and a rich onion sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 2-inch pieces",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Greek stifado spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces in batches on all sides, about 5 minutes per batch. Transfer the lamb to a plate and set aside.",
+    "Reduce heat to medium and cook the onions until they are softened and lightly browned, about 8 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the stifado spice mix and cook for 1 minute.",
+    "Add the red wine and bring to a simmer, scraping up any browned bits from the bottom of the pan.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the beef broth, brown sugar, salt, and pepper. Stir to combine.",
+    "Return the lamb to the pot and bring to a simmer.",
+    "Cover the pot and transfer it to the oven.",
+    "Braise the lamb for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Serve the stew hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-silky-i-greek-lamb-stifado",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T03:50:39.571Z"
+}
