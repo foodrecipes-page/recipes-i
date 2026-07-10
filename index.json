@@ -5546,17 +5546,15 @@
   },
   {
     "slug": "innovative-creamy-slovakian-almond-tart",
-    "title": "Slovakian Almond Tart",
+    "title": "Slovakian Creamy Tart",
     "tags": [
-      "almond-based",
-      "creamy-filling",
-      "slovakian-cuisine",
-      "special-occasion",
-      "tart-crust",
-      "vegan-friendly"
+      "slovakian",
+      "creamy",
+      "tart",
+      "dessert"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 75,
     "shard": "i"
   },
   {
@@ -10778,16 +10776,16 @@
   },
   {
     "slug": "intensely-flavored-and-juicy-kenyan-fish-wrap",
-    "title": "Kenyan Fish Wrap",
+    "title": "Kenyan Juicy Fish Wrap",
     "tags": [
-      "fish",
       "kenyan",
-      "one-pan",
-      "quick",
-      "wraps"
+      "fish",
+      "wrap",
+      "lunch",
+      "dinner"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 30,
+    "cuisine": "Kenyan",
+    "totalTimeMin": 27,
     "shard": "i"
   },
   {
