@@ -6754,18 +6754,15 @@
   },
   {
     "slug": "intense-dense-thai-chicken-tom-kha",
-    "title": "Intense Dense Thai Chicken Tom Kha",
+    "title": "Tom Kha Chicken Soup",
     "tags": [
-      "coconut-milk",
-      "flexitarian",
-      "robata-grill",
-      "sous-vide",
-      "spicy",
-      "street-food",
-      "thai-cuisine"
+      "thai",
+      "soup",
+      "chicken",
+      "coconut-milk"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 150,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -8465,17 +8462,16 @@
   },
   {
     "slug": "intense-silky-jamaican-chicken-stew",
-    "title": "Intense Silky Jamaican Chicken Stew",
+    "title": "Jamaican Chicken Stew",
     "tags": [
-      "dairy-free",
-      "gluten-free",
+      "chicken",
       "jamaican",
+      "stew",
       "one-pot",
-      "slow-cooker",
-      "spicy"
+      "easy"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
