@@ -1,0 +1,81 @@
+{
+  "slug": "indulgent-mediterranean-russet-potato-hash",
+  "title": "Russet Potato Hash with Indulgent Twist",
+  "description": "A crispy, golden potato hash with a rich and indulgent addition. Perfect for a hearty breakfast or brunch.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Russet Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Indulgent",
+      "amount": "1/4 cup",
+      "notes": "crumbled bacon or pancetta"
+    },
+    {
+      "name": "Hash",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Peel the Russet potatoes and cut them into 1/2-inch cubes.",
+    "3. In a large bowl, toss the potatoes with olive oil, salt, and pepper until they are evenly coated.",
+    "4. Spread the potatoes out in a single layer on a baking sheet.",
+    "5. Roast the potatoes in the preheated oven for 20-25 minutes, or until they are golden brown and crispy.",
+    "6. While the potatoes are roasting, heat a skillet over medium heat.",
+    "7. Add the crumbled bacon or pancetta to the skillet and cook until crispy.",
+    "8. Remove the skillet from the heat and stir in the chopped parsley (if using).",
+    "9. Once the potatoes are done roasting, remove them from the oven and let them cool for a few minutes.",
+    "10. Add the crispy bacon or pancetta mixture to the potatoes and toss to combine.",
+    "11. Serve the potato hash hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "potatoes",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-mediterranean-russet-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T04:48:16.733Z"
+}
