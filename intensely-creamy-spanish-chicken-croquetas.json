@@ -1,0 +1,91 @@
+{
+  "slug": "intensely-creamy-spanish-chicken-croquetas",
+  "title": "Spanish Chicken Croquetas",
+  "description": "Crispy fried balls filled with shredded chicken in a creamy Spanish-inspired sauce. Perfect as a snack or appetizer.",
+  "cuisine": "Spanish",
+  "diet": [
+    "lactose-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked and shredded"
+    },
+    {
+      "name": "intensely creamy sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "spanish croquetas mix",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the shredded chicken, intensely creamy sauce, and Spanish croquetas mix.",
+    "In a separate bowl, beat the eggs.",
+    "Add the flour and mix until a dough forms.",
+    "Add the bread crumbs and mix until combined.",
+    "Using your hands, shape the dough into small balls, about 1 1/2 inches in diameter.",
+    "Dip each ball into the beaten eggs, then roll in the flour mixture to coat.",
+    "Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "When the oil is hot, add a few of the coated balls to the pan and fry until golden brown, about 2-3 minutes.",
+    "Remove the croquetas from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chicken",
+    "croquetas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-creamy-spanish-chicken-croquetas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T04:37:16.809Z"
+}
