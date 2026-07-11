@@ -1,0 +1,74 @@
+{
+  "slug": "intense-mustardy-chinese-tomatoes-fried-rice",
+  "title": "Spicy Fried Rice",
+  "description": "A flavorful and easy-to-make Chinese-inspired dish featuring fried rice with intense, spicy, and savory ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably leftover or day-old"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    },
+    {
+      "name": "Intense mustardy sauce (hot mustard and soy sauce mix)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the chopped tomatoes and cook until they start to soften.",
+    "Add the cooked rice to the wok or skillet, breaking up any clumps with a spatula.",
+    "Stir in the intense mustardy sauce and cook for 1-2 minutes, until the rice is well coated.",
+    "Add the fried shallots (if using) and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Transfer the Spicy Fried Rice to a serving platter and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-cuisine",
+    "easy-recipe",
+    "fried-rice",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-mustardy-chinese-tomatoes-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:06:07.913Z"
+}
