@@ -1,0 +1,72 @@
+{
+  "slug": "indulgent-egyptian-aubergine-crumble",
+  "title": "Egyptian Aubergine Crumble",
+  "description": "A delicious and flavorful vegetarian dish inspired by Egyptian cuisine, featuring roasted aubergine topped with a crunchy crumble mixture.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "indulgent cheese",
+      "amount": "1 cup grated",
+      "notes": "such as feta"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the aubergine into 1-inch cubes and place on a baking sheet.",
+    "Drizzle with olive oil and sprinkle with minced garlic and chopped onion.",
+    "Roast in the oven for 20-25 minutes, or until the aubergine is tender.",
+    "While the aubergine is roasting, mix the crumble with grated cheese.",
+    "Once the aubergine is done, top it with the crumble mixture and return to the oven for an additional 5-10 minutes, or until the crumble is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "european",
+    "eggplant",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-egyptian-aubergine-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T20:11:41.805Z"
+}
