@@ -1,0 +1,81 @@
+{
+  "slug": "intensely-savory-norwegian-potato-casserole",
+  "title": "Norwegian Potato Casserole",
+  "description": "A hearty, savory casserole originating from Norway, perfect for a cold evening. This dish is a comforting blend of potatoes, cheese, and herbs.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet Potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Savory Cheese Blend",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel the potatoes and slice them thinly.",
+    "In a large pan, caramelize the onions over medium heat.",
+    "In a separate bowl, mix together the cheese blend, rosemary, salt, and pepper.",
+    "In a greased 9x13-inch baking dish, arrange a layer of potatoes.",
+    "Top the potatoes with a layer of caramelized onions, followed by a layer of cheese mixture.",
+    "Repeat this process until all ingredients are used, finishing with a layer of cheese on top.",
+    "Dot the top of the casserole with butter.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "potato",
+    "casserole",
+    "norwegian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-norwegian-potato-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:46:59.016Z"
+}
