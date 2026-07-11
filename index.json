@@ -7310,16 +7310,14 @@
   },
   {
     "slug": "intense-juicy-spanish-potatoes-gambas-al-ajillo",
-    "title": "Intense Juicy Spanish Potatoes Gambas Al Ajillo",
+    "title": "Spanish Gambas with Garlic",
     "tags": [
-      "comfort-food",
-      "lacto-vegetarian",
-      "one-pan",
-      "spanish-cuisine",
-      "weeknight"
+      "spanish",
+      "seafood",
+      "garlic"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -11323,16 +11321,14 @@
   },
   {
     "slug": "intensely-jammy-indian-lamb-kachori",
-    "title": "Intensely Jammy Indian Lamb Kachori",
+    "title": "Lamb Kachori",
     "tags": [
-      "date-night",
-      "indian-cuisine",
-      "lamb-recipes",
-      "steamed-dishes",
-      "turkish-delight"
+      "indian",
+      "snack",
+      "lamb"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -12764,16 +12760,15 @@
   },
   {
     "slug": "intensely-savory-norwegian-potato-casserole",
-    "title": "Intensely Savory Norwegian Potato Casserole",
+    "title": "Norwegian Potato Casserole",
     "tags": [
-      "comfort-food",
-      "lacto-vegetarian",
-      "norwegian-cuisine",
-      "one-pan",
-      "weeknight"
+      "potato",
+      "casserole",
+      "norwegian",
+      "comfort-food"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 70,
     "shard": "i"
   },
   {
