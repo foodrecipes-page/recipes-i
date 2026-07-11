@@ -1,0 +1,76 @@
+{
+  "slug": "intense-chinese-pork-hot-pot",
+  "title": "Spicy Pork Hot Pot",
+  "description": "A popular Chinese hot pot dish made with tender pork and a spicy broth. Perfect for a cold winter night.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thin slices"
+    },
+    {
+      "name": "Hot pot broth",
+      "amount": "4 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Intense chili flakes",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring the hot pot broth to a boil in a large pot over high heat.",
+    "Reduce the heat to medium-low and add the intense chili flakes. Simmer for 10 minutes.",
+    "Add the pork slices to the pot and cook for 3-4 minutes, or until cooked through.",
+    "Add the Chinese broccoli and potatoes to the pot. Cook for an additional 5-7 minutes, or until the vegetables are tender.",
+    "Season with soy sauce to taste, if using.",
+    "Serve the hot pot in individual bowls and garnish with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "hot-pot",
+    "spicy",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-chinese-pork-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:56:48.228Z"
+}
