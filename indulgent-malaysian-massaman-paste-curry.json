@@ -1,0 +1,90 @@
+{
+  "slug": "indulgent-malaysian-massaman-paste-curry",
+  "title": "Massaman Curry",
+  "description": "A rich and flavorful Thai curry made with a blend of spices, coconut milk, and your choice of protein. This Massaman curry recipe is perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Massaman curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Chicken breast or thighs",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the Massaman curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add the coconut milk, fish sauce, and brown sugar. Stir to combine.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the onions, garlic, potatoes, and peanuts. Cook, stirring occasionally, for 10-15 minutes.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "massaman",
+    "curry",
+    "thaicuisine",
+    "coconutmilk",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-malaysian-massaman-paste-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:58:22.209Z"
+}
