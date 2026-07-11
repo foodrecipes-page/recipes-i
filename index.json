@@ -1981,18 +1981,14 @@
   },
   {
     "slug": "indulgent-canadian-pecan-stew",
-    "title": "Indulgent Canadian Pecan Stew",
+    "title": "Canadian Pecan Stew",
     "tags": [
-      "comfort-food",
-      "dash-friendly",
-      "nutty",
-      "one-pot",
-      "vegetarian",
-      "velvety",
-      "wok"
+      "canadian",
+      "stew",
+      "pecan"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 140,
     "shard": "i"
   },
   {
