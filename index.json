@@ -2428,15 +2428,12 @@
   },
   {
     "slug": "indulgent-egyptian-aubergine-crumble",
-    "title": "Indulgent Egyptian Aubergine Crumble",
+    "title": "Egyptian Aubergine Crumble",
     "tags": [
-      "aubergine",
-      "crumble",
-      "egyptian",
-      "nutty",
-      "one-pot",
-      "tandoor",
-      "vegan"
+      "vegetarian",
+      "european",
+      "eggplant",
+      "crumble"
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 45,
@@ -13993,18 +13990,16 @@
   },
   {
     "slug": "intensely-sweet-tunisian-lamb-tagine",
-    "title": "Intensely Sweet Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-recipes",
+      "lamb",
+      "tagine",
       "north-african",
-      "one-pot",
-      "sweet-and-savory",
-      "tunisian-cuisine",
-      "winter-meals"
+      "stew",
+      "slow-cooker"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 170,
+    "cuisine": "North African",
+    "totalTimeMin": 180,
     "shard": "i"
   },
   {
