@@ -1,17 +1,15 @@
 [
   {
     "slug": "i-crispy-bitter-argentinian-empanadas-fritters",
-    "title": "icrispy Bitter Argentinian Empanadas Fritters",
+    "title": "Crispy Empanadas Fritters",
     "tags": [
       "argentinian",
-      "easy-snack",
-      "fritters",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "snack",
+      "empanadas",
+      "fritters"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 50,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 27,
     "shard": "i"
   },
   {
@@ -1419,16 +1417,16 @@
   },
   {
     "slug": "incredibly-roasted-saudi-arabian-eggplant-tagine",
-    "title": "Incredibly Roasted Saudi Arabian Eggplant Tagine",
+    "title": "Saudian Eggplant Tagine",
     "tags": [
-      "lacto-vegetarian",
-      "middle-eastern",
-      "one-pan",
-      "roasted-vegetables",
-      "romantic-dinner"
+      "saudian",
+      "eggplant",
+      "tagine",
+      "arabic",
+      "vegetarian"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
@@ -5215,17 +5213,14 @@
   },
   {
     "slug": "indulgent-ukrainian-buttery-bouncy-qq-pilaf",
-    "title": "indulgent ukrainian buttery bouncy-qq pilaf",
+    "title": "Buttery Pilaf with Ukraininan Twist",
     "tags": [
       "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "spring",
-      "ukrainian",
-      "vegan-friendly"
+      "sidedish",
+      "pilaf"
     ],
     "cuisine": "ukrainian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
