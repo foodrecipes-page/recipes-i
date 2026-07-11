@@ -1733,16 +1733,15 @@
   },
   {
     "slug": "indulgent-australian-lamb-tagine",
-    "title": "Indulgent Australian Lamb Tagine",
+    "title": "Lamb Tagine with Australian Apricots",
     "tags": [
-      "australian",
       "lamb",
-      "one-pan",
-      "tagine",
-      "weeknight"
+      "australian",
+      "indulgent",
+      "tagine"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
@@ -3518,15 +3517,15 @@
   },
   {
     "slug": "indulgent-malaysian-massaman-paste-curry",
-    "title": "Indulgent Malaysian Massaman-Paste Curry",
+    "title": "Massaman Curry",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "massaman",
+      "curry",
+      "thaicuisine",
+      "coconutmilk",
+      "chicken"
     ],
-    "cuisine": "malaysian",
+    "cuisine": "Thai",
     "totalTimeMin": 40,
     "shard": "i"
   },
@@ -8264,17 +8263,15 @@
   },
   {
     "slug": "intense-savory-argentinian-cheese-curds-casserole",
-    "title": "Argentinian Cheese Curds Casserole",
+    "title": "Argentinian Cheese Casserole",
     "tags": [
-      "argentinian-cuisine",
-      "cheese-lovers",
-      "comfort-food",
-      "gluten-free",
-      "low-glycemic",
-      "one-pan"
+      "argentinian",
+      "cheese",
+      "casserole",
+      "savory"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -9264,16 +9261,15 @@
   },
   {
     "slug": "intense-umami-syrian-eggplant-tagine",
-    "title": "Intense Umami Syrian Eggplant Tagine",
+    "title": "Syrian Eggplant Tagine",
     "tags": [
-      "middle-eastern",
-      "romantic-dinner",
-      "syrian-cuisine",
-      "umami-rich",
-      "vegan-friendly"
+      "eggplant",
+      "vegetarian",
+      "syrian",
+      "tagine"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
