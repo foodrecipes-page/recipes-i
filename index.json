@@ -6437,17 +6437,15 @@
   },
   {
     "slug": "intense-chinese-pork-hot-pot",
-    "title": "Intense Chinese Pork Hot Pot",
+    "title": "Spicy Pork Hot Pot",
     "tags": [
-      "chinese-cuisine",
-      "festive",
-      "gluten-free",
+      "chinese",
       "hot-pot",
-      "pork-recipes",
-      "sugar-free"
+      "spicy",
+      "pork"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -15415,15 +15413,15 @@
   },
   {
     "slug": "iridescent-japanese-rice-kaiseki-course",
-    "title": "Iridescent Japanese Rice Kaiseki-Course",
+    "title": "Japanese-Style Iridescent Rice Bowl",
     "tags": [
-      "iridescent",
-      "japanese-cuisine",
-      "kaiseki-course",
-      "wood-fired-bake"
+      "japanese",
+      "kaiseki",
+      "course",
+      "rice"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
