@@ -1,0 +1,84 @@
+{
+  "slug": "incredibly-roasted-saudi-arabian-eggplant-tagine",
+  "title": "Saudian Eggplant Tagine",
+  "description": "A flavorful and aromatic dish from Saudi Arabia, made with roasted eggplant, spices, and a rich sauce.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large saucepan over medium heat.",
+    "Add the cumin, cinnamon, and turmeric. Cook for 1 minute.",
+    "Add the roasted peanuts and cook for another minute.",
+    "Add the eggplant and cook until tender, about 10 minutes.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudian",
+    "eggplant",
+    "tagine",
+    "arabic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-roasted-saudi-arabian-eggplant-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T12:31:18.112Z"
+}
