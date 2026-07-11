@@ -1,0 +1,93 @@
+{
+  "slug": "intensely-savory-saudi-arabian-lamb-stew",
+  "title": "Saudi Arabian Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Saudi Arabia, made with tender lamb and a rich blend of spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "Cut into 2-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes in batches, then set aside.",
+    "Reduce heat to medium and sauté the onion, garlic, and ginger until the onion is translucent.",
+    "Add the cumin, coriander, cinnamon, and black pepper; cook for 1 minute.",
+    "Add the browned lamb, salt, and 2 cups of water; bring to a boil.",
+    "Cover the pot and transfer to the oven; braise for 2 hours, or until the lamb is tender.",
+    "Skim off excess fat and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "lamb",
+    "stew",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-saudi-arabian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:20:52.571Z"
+}
