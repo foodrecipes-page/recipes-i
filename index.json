@@ -1363,16 +1363,14 @@
   },
   {
     "slug": "incredibly-light-american-cod-grill",
-    "title": "Incredibly Light American Cod Grill",
+    "title": "Grilled Cod with American Slaw",
     "tags": [
-      "healthy",
-      "low-carb",
-      "one-pan",
-      "quick-dinner",
-      "seafood"
+      "grilled-cod",
+      "american-slaw",
+      "gluten-free"
     ],
     "cuisine": "American",
-    "totalTimeMin": 22,
+    "totalTimeMin": 23,
     "shard": "i"
   },
   {
@@ -1763,16 +1761,16 @@
   },
   {
     "slug": "indulgent-australian-salmon-curry",
-    "title": "Indulgent Australian Salmon Curry",
+    "title": "Pan-Seared Salmon with Australian Curry Sauce",
     "tags": [
-      "egg-free",
-      "malty-flavor",
-      "midnight-craving",
-      "one-pot",
-      "seafood-curry"
+      "salmon",
+      "australian",
+      "curry",
+      "indulgent",
+      "dinner"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "cuisine": "australian",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -3121,13 +3119,14 @@
   },
   {
     "slug": "indulgent-italian-cherry-cannoli",
-    "title": "Indulgent Italian Cherry Cannoli",
+    "title": "Italian Cherry Cannoli",
     "tags": [
       "italian",
-      "dessert"
+      "cannoli",
+      "cherry"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "cuisine": "italian",
+    "totalTimeMin": 15,
     "shard": "i"
   },
   {
@@ -14552,17 +14551,15 @@
   },
   {
     "slug": "intricately-fried-australian-chinese-chinese-broccoli-spring-rolls",
-    "title": "Intricately Fried Australian Chinese Chinese Broccoli Spring Rolls",
+    "title": "Spring Rolls with Broccoli and Australian Fried Ingredients",
     "tags": [
-      "australian-chinese",
-      "deep-fried",
-      "jain-friendly",
-      "snack",
+      "australian",
+      "chinese",
       "spring-rolls",
-      "vegetarian"
+      "fried"
     ],
-    "cuisine": "Australian Chinese",
-    "totalTimeMin": 50,
+    "cuisine": "australian",
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
