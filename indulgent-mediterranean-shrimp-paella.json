@@ -1,0 +1,93 @@
+{
+  "slug": "indulgent-mediterranean-shrimp-paella",
+  "title": "Shrimp and Saffron Paella",
+  "description": "A classic Spanish paella dish packed with succulent shrimp and infused with the warmth of saffron. Serve with a side of garlic bread for a complete meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "seafood-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "high-quality saffron is essential for this dish"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "preferably Spanish rice"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the diced onion and red bell pepper and cook until tender.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced tomato and cook for 2-3 minutes.",
+    "Add the smoked paprika, saffron threads, and shrimp. Cook for 2-3 minutes.",
+    "Add the paella rice and stir to coat with the oil and mix with the vegetables.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "shrimp",
+    "spanish",
+    "seafood",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-mediterranean-shrimp-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:35:42.044Z"
+}
