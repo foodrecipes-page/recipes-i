@@ -3647,18 +3647,16 @@
   },
   {
     "slug": "indulgent-mediterranean-shrimp-paella",
-    "title": "indulgent mediterranean shrimp paella",
+    "title": "Shrimp and Saffron Paella",
     "tags": [
-      "date-night",
-      "high-protein",
-      "lacto-vegetarian",
-      "mediterranean",
-      "one-pan",
+      "paella",
+      "shrimp",
+      "spanish",
       "seafood",
-      "weeknight"
+      "rice"
     ],
-    "cuisine": "mediterranean",
-    "totalTimeMin": 45,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -7706,17 +7704,16 @@
   },
   {
     "slug": "intense-molten-uruguayan-beef-casserole",
-    "title": "Intense Molten Uruguayan Beef Casserole",
+    "title": "Uruguayan Beef Casserole",
     "tags": [
+      "uruguayan",
+      "beef",
+      "casserole",
       "comfort-food",
-      "hangover-cure",
-      "high-protein",
-      "one-pan",
-      "south-american",
-      "weeknight"
+      "hearty"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -8242,16 +8239,15 @@
   },
   {
     "slug": "intense-saudi-arabian-lamb-tagine",
-    "title": "Intense Saudi Arabian Lamb Tagine",
+    "title": "Classic Lamb Tagine",
     "tags": [
-      "date-night",
-      "high-protein",
-      "lamb-based",
-      "middle-eastern",
-      "one-pot"
+      "lamb",
+      "tagine",
+      "moroccan",
+      "spicy"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 150,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
