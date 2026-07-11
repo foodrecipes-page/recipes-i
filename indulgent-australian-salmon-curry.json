@@ -1,0 +1,84 @@
+{
+  "slug": "indulgent-australian-salmon-curry",
+  "title": "Pan-Seared Salmon with Australian Curry Sauce",
+  "description": "A flavorful and indulgent dish that combines the freshness of salmon with the spices of Australian curry. This recipe is perfect for a special occasion or a romantic dinner.",
+  "cuisine": "australian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, skin removed"
+    },
+    {
+      "name": "Australian curry powder",
+      "amount": "2 tablespoons",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "Grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the salmon fillets with salt and pepper.",
+    "Heat the butter in an oven-safe skillet over medium-high heat.",
+    "Sear the salmon fillets for 2-3 minutes on each side, or until cooked to your liking.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "Meanwhile, make the Australian curry sauce by combining the curry powder, garlic, ginger, and heavy cream in a small saucepan.",
+    "Bring the sauce to a simmer over medium heat and cook for 2-3 minutes, or until thickened.",
+    "Stir in the butter until melted and smooth.",
+    "Serve the salmon fillets with the Australian curry sauce spooned over the top.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "australian",
+    "curry",
+    "indulgent",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-australian-salmon-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:22:18.571Z"
+}
