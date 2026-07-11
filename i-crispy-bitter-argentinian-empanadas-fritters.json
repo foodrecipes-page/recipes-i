@@ -1,0 +1,80 @@
+{
+  "slug": "i-crispy-bitter-argentinian-empanadas-fritters",
+  "title": "Crispy Empanadas Fritters",
+  "description": "A crispy twist on traditional empanadas, these fritters are a delicious Argentinean snack.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Argentinian Empanada Dough",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "i",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "bitter",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup, crushed",
+      "notes": ""
+    },
+    {
+      "name": "fritters",
+      "amount": "1/2 cup, crushed",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "for frying",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "Cut empanada dough into small pieces.",
+    "Shred the i, bitter, and mix well.",
+    "Add crushed crispy and fritters to the shredded i mixture.",
+    "Season with salt and pepper to taste.",
+    "Shape dough pieces into small balls and flatten slightly.",
+    "Place a tablespoon of the i mixture in the center of each dough ball.",
+    "Fold the dough over the filling and press edges to seal.",
+    "Fry empanadas until golden brown, about 3-4 minutes per side.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "snack",
+    "empanadas",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/i-crispy-bitter-argentinian-empanadas-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:30:31.642Z"
+}
