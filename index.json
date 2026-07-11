@@ -3084,20 +3084,14 @@
   },
   {
     "slug": "indulgent-irish-floral-pudding",
-    "title": "Indulgent Irish Floral Pudding",
+    "title": "Pistachio Pudding Cake",
     "tags": [
-      "floral",
-      "holiday",
-      "indulgent",
-      "irish",
-      "peanut-brittle",
-      "raw-friendly",
-      "special-occasion",
-      "tempering-chocolate",
-      "weeknight"
+      "irish-dessert",
+      "pudding-cake",
+      "pistachio-cake"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 60,
+    "cuisine": "irish",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
@@ -12837,16 +12831,15 @@
   },
   {
     "slug": "intensely-savory-saudi-arabian-lamb-stew",
-    "title": "Intensely Savory Saudi Arabian Lamb Stew",
+    "title": "Saudi Arabian Lamb Stew",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "lamb-based",
-      "middle-eastern",
-      "one-pot"
+      "saudi-arabian",
+      "lamb",
+      "stew",
+      "middle-eastern"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 120,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 150,
     "shard": "i"
   },
   {
