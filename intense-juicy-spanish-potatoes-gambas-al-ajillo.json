@@ -1,0 +1,83 @@
+{
+  "slug": "intense-juicy-spanish-potatoes-gambas-al-ajillo",
+  "title": "Spanish Gambas with Garlic",
+  "description": "A simple and flavorful Spanish-inspired dish featuring succulent gambas, rich in garlic flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gambas (prawns)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (ajo)",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Intense olive oil (aceite al)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Juicy lemon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the gambas and cook for 2-3 minutes until pink and slightly charred.",
+    "Add the potatoes to the skillet and cook for an additional 3-4 minutes until they start to soften.",
+    "Squeeze the lemon juice over the top of the dish and sprinkle with salt.",
+    "Garnish with parsley and serve immediately.",
+    "Cook the potatoes in boiling water until they are tender, about 15-20 minutes.",
+    "Drain the potatoes and add them to the skillet with the gambas and garlic.",
+    "Toss the potatoes with the gambas and garlic until they are well combined.",
+    "Season with salt to taste.",
+    "Serve the dish hot, garnished with parsley.",
+    "Cook the gambas in boiling water until they are pink and slightly charred, about 2-3 minutes.",
+    "Drain the gambas and add them to the skillet with the garlic and potatoes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "seafood",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-juicy-spanish-potatoes-gambas-al-ajillo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:31:49.494Z"
+}
