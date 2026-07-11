@@ -1,0 +1,83 @@
+{
+  "slug": "intricately-fried-australian-chinese-chinese-broccoli-spring-rolls",
+  "title": "Spring Rolls with Broccoli and Australian Fried Ingredients",
+  "description": "A fusion twist on traditional spring rolls, incorporating Australian ingredients and a crispy fried twist. Perfect for a snack or light meal.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Broccoli florets",
+      "amount": "200g"
+    },
+    {
+      "name": "Australian spring onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Australian shredded carrot",
+      "amount": "50g"
+    },
+    {
+      "name": "Chinese rice paper rolls",
+      "amount": "4-6 rolls"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chilli flakes",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine broccoli, spring onion and carrot in a bowl.",
+    "In a pan, heat vegetable oil over medium heat.",
+    "Add garlic powder, ginger powder and chilli flakes. Stir for 1 minute.",
+    "Add the broccoli mixture and stir-fry for 3-4 minutes.",
+    "In a separate pan, heat a small amount of oil over medium heat.",
+    "Add the rice paper rolls and fry until crispy (about 2-3 minutes per side).",
+    "Fill the cooked rice paper rolls with the broccoli mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "chinese",
+    "spring-rolls",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricately-fried-australian-chinese-chinese-broccoli-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:59:25.222Z"
+}
