@@ -1,0 +1,99 @@
+{
+  "slug": "intensely-jammy-indian-lamb-kachori",
+  "title": "Lamb Kachori",
+  "description": "A delicious Indian-inspired dish featuring spiced lamb and crispy kachori bread.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "lamb mince",
+      "amount": "1 pound",
+      "notes": "80% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "kachori dough",
+      "amount": "4-6 pieces",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "Knead kachori dough and divide into 4-6 pieces.",
+    "Roll out each piece into a thin circle.",
+    "Heat a non-stick pan over medium heat.",
+    "Add ghee or oil and cook lamb mince until browned, breaking it up with a spoon.",
+    "Add onion, ginger, garlic, cumin, coriander, garam masala, and salt. Cook for 5 minutes.",
+    "Brush kachori dough with water and place in the pan.",
+    "Cook for 2-3 minutes or until kachori is golden brown.",
+    "Flip kachori and cook for another 2 minutes.",
+    "Drain on paper towels and serve hot with lamb filling."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-jammy-indian-lamb-kachori",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T08:15:53.174Z"
+}
