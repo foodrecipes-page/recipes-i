@@ -1,0 +1,81 @@
+{
+  "slug": "incredibly-light-american-cod-grill",
+  "title": "Grilled Cod with American Slaw",
+  "description": "A simple and delicious grilled cod recipe paired with a refreshing American-style coleslaw.",
+  "cuisine": "American",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillet",
+      "amount": "2",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "light mayonnaise",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season cod fillets with salt and pepper.",
+    "Grill cod for 4-5 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "In a large bowl, combine shredded cabbage, grated carrot, light mayonnaise, apple cider vinegar, and honey. Mix well.",
+    "Toss slaw with olive oil and season with salt and pepper to taste.",
+    "Serve grilled cod with American slaw on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-cod",
+    "american-slaw",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-light-american-cod-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:41:29.741Z"
+}
