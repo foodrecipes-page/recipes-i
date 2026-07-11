@@ -1,0 +1,87 @@
+{
+  "slug": "iroasted-i-ethiopian-linguine-dulet",
+  "title": "Spicy Ethiopian-Style Dulet Linguine Stir Fry",
+  "description": "A quick and spicy stir fry combining the flavors of Ethiopia with the simplicity of linguine. This dish is high in protein and low in carbs.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "iroasted",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "dulet",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and green chili; cook for 1 minute.",
+    "Add iroasted and dulet; cook for 2-3 minutes.",
+    "Add linguine and stir to combine.",
+    "Season with Ethiopian, salt, and black pepper.",
+    "Cook for an additional 2-3 minutes or until linguine is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "ethiopian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iroasted-i-ethiopian-linguine-dulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T17:21:43.447Z"
+}
