@@ -1,0 +1,90 @@
+{
+  "slug": "indulgent-canadian-pecan-stew",
+  "title": "Canadian Pecan Stew",
+  "description": "A hearty stew with a unique twist of pecans, perfect for the Canadian winter. This dish combines the classic stew flavors with the crunch of pecans.",
+  "cuisine": "Canadian",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pecans",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes. Remove and set aside.",
+    "Add onion and garlic, cook until softened, about 5 minutes.",
+    "Add flour and cook for 1 minute.",
+    "Add beef broth, red wine, and tomato paste. Stir to combine.",
+    "Return beef to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours.",
+    "Add thyme, salt, and pepper. Simmer for an additional 30 minutes.",
+    "Stir in chopped pecans. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "stew",
+    "pecan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-canadian-pecan-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:42:54.163Z"
+}
