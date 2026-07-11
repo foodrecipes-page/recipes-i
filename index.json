@@ -2579,15 +2579,14 @@
   },
   {
     "slug": "indulgent-flaky-herb-crumble",
-    "title": "Indulgent Flaky Herb Crumble",
+    "title": "Herb and Flaky Crumble Pie",
     "tags": [
-      "indulgent",
+      "pie",
+      "herb",
       "flaky",
-      "herbal",
-      "norwegian",
-      "steak"
+      "crumble"
     ],
-    "cuisine": "Norwegian",
+    "cuisine": "British",
     "totalTimeMin": 55,
     "shard": "i"
   },
@@ -15434,17 +15433,14 @@
   },
   {
     "slug": "irish-inspired-irish-potatoes-skillet",
-    "title": "Irish Inspired Irish Potatoes Skillet",
+    "title": "Irish Skillet Potatoes",
     "tags": [
-      "cast-iron",
-      "gluten-free",
-      "one-pan",
-      "stir-fry",
+      "breakfast",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
