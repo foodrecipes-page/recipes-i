@@ -1,0 +1,75 @@
+{
+  "slug": "indulgent-flaky-herb-crumble",
+  "title": "Herb and Flaky Crumble Pie",
+  "description": "A delicious and indulgent pie filled with a savory herb mixture topped with a crumbly flaky crust.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Butter, unsalted",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Flour, all-purpose",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Herb mixture",
+      "amount": "1 cup",
+      "notes": "parsley, chives, thyme"
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Sugar, granulated",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry and place in a pie dish.",
+    "In a separate bowl, mix together the herb mixture, sugar (if using), and a pinch of salt.",
+    "Pour the herb mixture into the pie crust.",
+    "Roll out the remaining pastry and use to cover the pie.",
+    "Crimp the edges to seal and cut a few slits in the top to allow steam to escape.",
+    "Brush the egg wash over the top of the pie.",
+    "Bake for 35-40 minutes, or until the crust is golden brown.",
+    "Let the pie cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "pie",
+    "herb",
+    "flaky",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-flaky-herb-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:33:24.580Z"
+}
