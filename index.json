@@ -7760,18 +7760,15 @@
   },
   {
     "slug": "intense-mustardy-chinese-tomatoes-fried-rice",
-    "title": "Intense Mustardy Chinese Tomatoes Fried Rice",
+    "title": "Spicy Fried Rice",
     "tags": [
-      "easy",
+      "chinese-cuisine",
+      "easy-recipe",
       "fried-rice",
-      "mustard",
-      "one-pan",
-      "quick",
-      "sattvic",
-      "vegetarian"
+      "spicy-food"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -13857,16 +13854,15 @@
   },
   {
     "slug": "intensely-sweet-italian-potatoes-gratin",
-    "title": "Intensely Sweet Italian Potatoes Gratin",
+    "title": "Italian Sweet Potato Gratin",
     "tags": [
-      "crowd-pleaser",
-      "italian-food",
-      "potato-recipes",
-      "salt-block-cooking",
-      "tuscan-cuisine"
+      "italian",
+      "sweet-potatoes",
+      "gratin",
+      "comfort-food"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 70,
     "shard": "i"
   },
   {
