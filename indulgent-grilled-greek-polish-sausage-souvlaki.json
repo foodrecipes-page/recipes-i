@@ -1,0 +1,82 @@
+{
+  "slug": "indulgent-grilled-greek-polish-sausage-souvlaki",
+  "title": "Souvlaki Sausage Grill",
+  "description": "A classic Greek-inspired grilled sausage dish, perfect for a quick and easy dinner.",
+  "cuisine": "greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Souvlaki Sausages",
+      "amount": "4",
+      "notes": "preferably pork or chicken"
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "2",
+      "notes": "optional"
+    },
+    {
+      "name": "Indulgent Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing sausages"
+    },
+    {
+      "name": "Greek Feta Cheese",
+      "amount": "1 block",
+      "notes": "crumbly, for serving"
+    },
+    {
+      "name": "Grilled Onions",
+      "amount": "1 large",
+      "notes": "optional"
+    },
+    {
+      "name": "Grilled Bell Peppers",
+      "amount": "2",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1 sprig",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush Souvlaki Sausages with Indulgent Olive Oil and season with Salt and Pepper.",
+    "Grill Souvlaki Sausages for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, grill Polish Sausage for 5-7 minutes per side, or until cooked through.",
+    "Grill sliced Onions and Bell Peppers for 3-5 minutes per side, or until tender.",
+    "Serve Souvlaki Sausages with grilled Onions and Bell Peppers, topped with crumbled Greek Feta Cheese.",
+    "Garnish with Fresh Oregano and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "greek",
+    "sausage",
+    "souvlaki"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-grilled-greek-polish-sausage-souvlaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T09:05:38.626Z"
+}
