@@ -1,0 +1,70 @@
+{
+  "slug": "innovative-light-irish-red-snapper-roast",
+  "title": "Pan-Seared Irish Snapper",
+  "description": "A light and flavorful dish showcasing the tender flavor of Irish snapper, roasted to perfection.",
+  "cuisine": "irish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish Snapper Fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For drizzling"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Roast Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the snapper fillets with salt and pepper.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat. Add the snapper fillets and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and roast for 8-10 minutes or until the snapper is cooked through.",
+    "Meanwhile, sauté the sliced red onion and minced garlic in a separate pan with a small amount of oil until softened.",
+    "To serve, place the snapper on a plate, top with the sautéed onion and garlic mixture, and garnish with parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "snapper",
+    "fish",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-light-irish-red-snapper-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:53:48.593Z"
+}
