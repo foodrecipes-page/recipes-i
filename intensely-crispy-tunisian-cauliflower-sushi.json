@@ -1,0 +1,80 @@
+{
+  "slug": "intensely-crispy-tunisian-cauliflower-sushi",
+  "title": "Tunisian Cauliflower Fritters",
+  "description": "Crispy fritters filled with cauliflower and spices, inspired by Tunisian cuisine. Serve as a snack or side dish.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "intensely spicy harissa",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "plus more for dusting"
+    },
+    {
+      "name": "grated sushi nori",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oil to 350F (180C).",
+    "In a bowl, mix together cauliflower, harissa, flour, nori, and eggs.",
+    "Dip each floret into the egg mixture, then coat in panko breadcrumbs.",
+    "Fry the coated cauliflower until crispy (about 3-4 minutes).",
+    "Drain on paper towels and season with salt and pepper.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cauliflower",
+    "fritters",
+    "tunisian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-crispy-tunisian-cauliflower-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:25:46.155Z"
+}
