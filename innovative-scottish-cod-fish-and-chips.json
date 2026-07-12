@@ -1,0 +1,82 @@
+{
+  "slug": "innovative-scottish-cod-fish-and-chips",
+  "title": "Scottish Cod and Chips",
+  "description": "A traditional Scottish dish consisting of battered and fried cod served with crispy chips (fries).",
+  "cuisine": "Scottish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chips (fries)",
+      "amount": "1 bag",
+      "notes": "frozen, thawed"
+    },
+    {
+      "name": "oil for frying",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a deep frying pan to 350°F (175°C).",
+    "In a shallow dish, mix together the flour and a pinch of salt.",
+    "In a separate dish, beat the eggs.",
+    "Dip each cod fillet first in the flour mixture, then in the beaten eggs.",
+    "Place the coated cod in the hot oil and fry for 3-4 minutes or until golden brown.",
+    "Remove the cod from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Increase the oil temperature to 375°F (190°C).",
+    "Fry the chips in batches until golden brown and crispy.",
+    "Drain the chips on paper towels.",
+    "Serve the cod with chips and a dollop of melted butter.",
+    "Garnish with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "scottish",
+    "cod",
+    "chips",
+    "fries"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-scottish-cod-fish-and-chips",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:05:19.620Z"
+}
