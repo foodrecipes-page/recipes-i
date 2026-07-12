@@ -5723,17 +5723,15 @@
   },
   {
     "slug": "innovative-light-irish-red-snapper-roast",
-    "title": "Innovative Light Irish Red Snapper Roast",
+    "title": "Pan-Seared Irish Snapper",
     "tags": [
-      "healthy",
-      "irish-cuisine",
-      "lacto-vegetarian",
-      "light-meal",
-      "roasted",
-      "seafood"
+      "irish",
+      "snapper",
+      "fish",
+      "easy"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 27,
+    "cuisine": "irish",
+    "totalTimeMin": 22,
     "shard": "i"
   },
   {
@@ -11391,17 +11389,16 @@
   },
   {
     "slug": "intensely-lazy-dutch-malai-pilaf",
-    "title": "Intensely Lazy Dutch Malai Pilaf",
+    "title": "Malai Pilaf with Dutch-Style Vegetables",
     "tags": [
-      "comfort-food",
-      "indian-inspired",
-      "lazy-sunday",
-      "one-pan",
-      "weeknight",
-      "wine-based"
+      "pilaf",
+      "indian",
+      "vegetarian",
+      "one-pot",
+      "easy-side-dish"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 60,
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
