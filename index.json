@@ -3817,19 +3817,15 @@
   },
   {
     "slug": "indulgent-molten-russian-pineapple-molten-bites",
-    "title": "indulgent molten russian pineapple molten bites",
+    "title": "Pineapple Russian Indulgent Delight",
     "tags": [
-      "dessert",
-      "high-sugar",
-      "indulgent",
-      "molten",
       "pineapple",
-      "pressure-cooker",
-      "russian",
-      "weeknight"
+      "chocolate",
+      "cream-cheese",
+      "indulgent"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 30,
+    "cuisine": "Dessert",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -12133,17 +12129,16 @@
   },
   {
     "slug": "intensely-rich-jamaican-potatoes-gratin",
-    "title": "Intensely Rich Jamaican Potatoes Gratin",
+    "title": "Rich Jamaican Sweet Potato Gratin",
     "tags": [
-      "date-night",
-      "jamaican-cuisine",
-      "no-onion-no-garlic",
-      "potato-gratin",
-      "rich-and-creamy",
-      "special-occasion"
+      "sweet-potato",
+      "gratin",
+      "caribbean",
+      "side-dish",
+      "vegetarian"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 65,
     "shard": "i"
   },
   {
