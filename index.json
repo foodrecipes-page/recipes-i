@@ -3334,17 +3334,15 @@
   },
   {
     "slug": "indulgent-kenyan-cheese-pie",
-    "title": "Indulgent Kenyan Cheese Pie",
+    "title": "Cheesy Kenyan Pie",
     "tags": [
-      "cheese-pie",
-      "easy",
+      "cheese",
       "kenyan",
-      "quick",
-      "sattvic",
-      "vegetarian"
+      "indulgent",
+      "pie"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 28,
+    "cuisine": "kenyan",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
@@ -10248,18 +10246,15 @@
   },
   {
     "slug": "intensely-crispy-tunisian-cauliflower-sushi",
-    "title": "Intensely Crispy Tunisian Cauliflower Sushi",
+    "title": "Tunisian Cauliflower Fritters",
     "tags": [
       "cauliflower",
-      "crispy",
-      "kosher",
-      "one-pan",
+      "fritters",
       "tunisian",
-      "vegetarian",
-      "weeknight"
+      "snack"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -11198,17 +11193,16 @@
   },
   {
     "slug": "intensely-gooey-japanese-tofu-gyoza",
-    "title": "Intensely Gooey Japanese Tofu Gyoza",
+    "title": "Pan-Seared Gyoza with Tofu Dipping Sauce",
     "tags": [
-      "fermented-food",
-      "high-protein",
-      "japanese-cuisine",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight-dinner"
+      "pan-seared",
+      "gyoza",
+      "tofu",
+      "dipping-sauce",
+      "japanese"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -13212,16 +13206,14 @@
   },
   {
     "slug": "intensely-smoky-mediterranean-chicken-tagine",
-    "title": "Intensely Smoky Mediterranean Chicken Tagine",
+    "title": "Chicken Tagine with Smoky Flavor",
     "tags": [
+      "tagine",
       "chicken",
-      "comfort-food",
-      "gluten-free",
-      "mediterranean",
-      "one-pot",
-      "sick-day"
+      "moroccan",
+      "stew"
     ],
-    "cuisine": "Mediterranean",
+    "cuisine": "Moroccan",
     "totalTimeMin": 50,
     "shard": "i"
   },
