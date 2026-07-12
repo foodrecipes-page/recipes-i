@@ -1,0 +1,69 @@
+{
+  "slug": "indulgent-molten-russian-pineapple-molten-bites",
+  "title": "Pineapple Russian Indulgent Delight",
+  "description": "A rich dessert featuring a caramelized pineapple filling, topped with a creamy Russian-inspired cream and crunchy indulgent bites.",
+  "cuisine": "Dessert",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Russian cream cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Indulgent bites",
+      "amount": "1/2 cup, crushed"
+    },
+    {
+      "name": "Molten chocolate",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a medium saucepan, melt the molten chocolate over low heat.",
+    "In a separate bowl, mix the Russian cream cheese, granulated sugar, and heavy cream until smooth.",
+    "Fold in the crushed indulgent bites.",
+    " Arrange the diced pineapple on a baking sheet.",
+    "Drizzle the molten chocolate over the pineapple.",
+    "Bake for 15-20 minutes, or until the pineapple is caramelized.",
+    "Remove from oven and top with the Russian cream cheese mixture.",
+    "Chill in the refrigerator for at least 2 hours.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pineapple",
+    "chocolate",
+    "cream-cheese",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-molten-russian-pineapple-molten-bites",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:02:17.799Z"
+}
