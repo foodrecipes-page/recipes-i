@@ -1,0 +1,87 @@
+{
+  "slug": "intensely-gooey-japanese-tofu-gyoza",
+  "title": "Pan-Seared Gyoza with Tofu Dipping Sauce",
+  "description": "Crunchy pan-seared Japanese gyoza served with a creamy tofu dipping sauce. This dish is a delicious twist on traditional Asian cuisine.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "gyoza (about 20-24 pieces)",
+      "amount": "1 package",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "Drained and crumbled"
+    },
+    {
+      "name": "intensely flavored soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "gochujang (Korean chili paste)",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet or wok over medium-high heat.",
+    "Add 1 tablespoon of sesame oil and swirl to coat the pan.",
+    "Add the gyoza, leaving some space between each piece.",
+    "Pan-fry the gyoza until crispy and golden brown on the bottom (about 2-3 minutes).",
+    "Flip the gyoza and cook for an additional 2 minutes.",
+    "Remove the gyoza from the pan and place on a paper towel-lined plate to drain excess oil.",
+    "To make the tofu dipping sauce, combine the crumbled tofu, soy sauce, gochujang (if using), and grated ginger (if using) in a bowl.",
+    "Mix well until the sauce is smooth and creamy.",
+    "Serve the pan-seared gyoza with the tofu dipping sauce.",
+    "Optional: Add a sprinkle of salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pan-seared",
+    "gyoza",
+    "tofu",
+    "dipping-sauce",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-gooey-japanese-tofu-gyoza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:58:27.984Z"
+}
