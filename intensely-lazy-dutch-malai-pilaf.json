@@ -1,0 +1,81 @@
+{
+  "slug": "intensely-lazy-dutch-malai-pilaf",
+  "title": "Malai Pilaf with Dutch-Style Vegetables",
+  "description": "A flavorful and aromatic pilaf dish from the Indian subcontinent, featuring malai spices and dutch-style vegetables.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": "long-grain rice"
+    },
+    {
+      "name": "Malai spice mix",
+      "amount": "1 tsp",
+      "notes": "Indian spice blend"
+    },
+    {
+      "name": "Dutch carrots",
+      "amount": "2 medium",
+      "notes": " peeled and chopped"
+    },
+    {
+      "name": "Intensely sweet onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lazy green beans",
+      "amount": "1 cup",
+      "notes": "trimmed and cut"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add the chopped onions and sauté until they start to caramelize.",
+    "Add the malai spice mix and sauté for 1 minute.",
+    "Add the carrots and sauté for 5 minutes.",
+    "Add the green beans and sauté for 3 minutes.",
+    "Add the basmati rice and water to the saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover.",
+    "Simmer for 15-20 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "indian",
+    "vegetarian",
+    "one-pot",
+    "easy-side-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-lazy-dutch-malai-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:31:34.149Z"
+}
