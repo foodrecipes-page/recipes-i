@@ -1,0 +1,82 @@
+{
+  "slug": "indulgent-ethiopian-beef-tibs",
+  "title": "Ethiopian Beef Tibs Stir Fry",
+  "description": "A flavorful and spicy stir fry made with tender beef and a blend of Ethiopian spices, served over injera bread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye work well"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ethiopian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most international markets"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes.",
+    "Add onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add ginger, garlic, and spice blend and cook for 1 minute.",
+    "Stir in beef broth (if using) and cook for an additional 2 minutes.",
+    "Serve over injera bread or with rice.",
+    "Garnish with chopped fresh cilantro (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "indulgent",
+    "stir-fry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-ethiopian-beef-tibs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:47:14.491Z"
+}
