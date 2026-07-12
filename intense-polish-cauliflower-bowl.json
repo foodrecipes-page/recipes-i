@@ -1,0 +1,97 @@
+{
+  "slug": "intense-polish-cauliflower-bowl",
+  "title": "Polish Cauliflower Bowl with Intense Sauce",
+  "description": "A hearty cauliflower bowl dish with an intense polish sauce, a perfect blend of flavors.",
+  "cuisine": "east european",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, toss the cauliflower with 2 tablespoons of olive oil, salt, and pepper.",
+    "Spread the cauliflower on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "In a large skillet, cook the sliced polish sausage over medium-high heat until browned, about 5 minutes.",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the caraway seeds, paprika, and dijon mustard. Cook for 1 minute.",
+    "Stir in the sour cream and cook until the sauce is heated through.",
+    "To assemble the bowls, place the roasted cauliflower on a plate or bowl, then top with the polish sausage mixture and garnish with chopped parsley.",
+    "Serve immediately and enjoy!",
+    "Note: You can also serve this dish as a side dish or use it as a filling for sandwiches or wraps."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cauliflower",
+    "polish",
+    "sauce",
+    "bowl",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-polish-cauliflower-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:59:19.294Z"
+}
