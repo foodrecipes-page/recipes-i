@@ -1,0 +1,76 @@
+{
+  "slug": "indulgent-kenyan-cheese-pie",
+  "title": "Cheesy Kenyan Pie",
+  "description": "A unique and delicious fusion of Kenyan and indulgent flavors, featuring a rich cheese pie.",
+  "cuisine": "kenyan",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kenyan Cheese Blend",
+      "amount": "1 block, crumbled",
+      "notes": "Available at most African markets"
+    },
+    {
+      "name": "Gruyère Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "For an extra rich flavor"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup, melted",
+      "notes": "For a flaky crust"
+    },
+    {
+      "name": "Pie Crust",
+      "amount": "1 sheet, thawed",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "For binding and richness"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To balance flavors"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": "To add depth"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pie crust and place in a 9-inch pie dish.",
+    "In a large bowl, combine the Kenyan Cheese Blend, Gruyère Cheese, melted butter, eggs, salt, and black pepper. Mix well.",
+    "Pour the cheese mixture into the pie crust.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "kenyan",
+    "indulgent",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-kenyan-cheese-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:42:42.312Z"
+}
