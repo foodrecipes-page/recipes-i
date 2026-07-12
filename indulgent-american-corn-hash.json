@@ -1,0 +1,82 @@
+{
+  "slug": "indulgent-american-corn-hash",
+  "title": "Indulgent American Corn Fritters",
+  "description": "A sweet and savory twist on traditional corn fritters, perfect for a indulgent snack or dessert.",
+  "cuisine": "american",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together cornmeal, flour, sugar, and salt.",
+    "In a separate bowl, whisk together eggs, melted butter, heavy cream, honey, and black pepper.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the shredded cheese.",
+    "Heat about 1/2-inch of oil in a large skillet over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the hot oil.",
+    "Fry the fritters for about 3-4 minutes on each side, or until golden brown.",
+    "Drain the fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "corn",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-american-corn-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T09:11:30.652Z"
+}
