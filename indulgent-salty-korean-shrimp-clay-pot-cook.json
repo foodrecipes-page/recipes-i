@@ -1,7 +1,7 @@
 {
   "slug": "indulgent-salty-korean-shrimp-clay-pot-cook",
-  "title": "Korean-Style Shrimp Stir-Fry",
-  "description": "A quick and flavorful stir-fry made with succulent shrimp and a variety of spices.",
+  "title": "Korean Shrimp Clay Pot Delight",
+  "description": "A savory and spicy Korean-inspired shrimp dish cooked in a clay pot. This recipe is perfect for a quick and flavorful meal.",
   "cuisine": "Korean",
   "diet": [
     "indulgent",
@@ -10,69 +10,90 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Shrimp",
-      "amount": "250g",
+      "name": "Large Shrimp",
+      "amount": "1 pound",
       "notes": "peeled and deveined"
     },
     {
-      "name": "Vegetable oil",
+      "name": "Korean Chili Flakes",
+      "amount": "2 teaspoons",
+      "notes": "gochugaru"
+    },
+    {
+      "name": "Sesame Oil",
       "amount": "2 tablespoons",
-      "notes": "for stir-frying"
-    },
-    {
-      "name": "Gochujang",
-      "amount": "2 tablespoons",
-      "notes": "Korean chili paste"
-    },
-    {
-      "name": "Soy sauce",
-      "amount": "1 tablespoon",
-      "notes": "or to taste"
-    },
-    {
-      "name": "Ginger",
-      "amount": "1 tablespoon",
-      "notes": "grated"
+      "notes": " toasted sesame oil"
     },
     {
       "name": "Garlic",
-      "amount": "1 clove",
+      "amount": "3 cloves",
       "notes": "minced"
     },
     {
-      "name": "Sesame oil",
-      "amount": "1 teaspoon",
-      "notes": "for serving"
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "packed light brown sugar"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "unseasoned rice vinegar"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": " toasted sesame seeds"
     }
   ],
   "instructions": [
-    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
-    "Add the shrimp and cook until pink and cooked through, about 2-3 minutes per side.",
-    "Remove the shrimp from the skillet and set aside.",
-    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
-    "Add the gochujang, soy sauce, ginger, and garlic to the skillet and stir-fry for 1 minute.",
-    "Return the shrimp to the skillet and stir-fry for another minute.",
-    "Serve the shrimp hot, garnished with sesame oil and your choice of additional toppings.",
-    "Optional: serve with steamed rice or noodles for a filling meal."
+    "Preheat the clay pot at 400°F (200°C) for 10 minutes.",
+    "Rinse the shrimp and pat dry with paper towels.",
+    "In a small bowl, mix together chili flakes, soy sauce, brown sugar, and rice vinegar.",
+    "Add the garlic and ginger to the bowl and stir to combine.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Heat 1 tablespoon of sesame oil in the preheated clay pot over medium-high heat.",
+    "Add the shrimp to the clay pot and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the shrimp from the clay pot and set aside.",
+    "In the same clay pot, add the remaining 1 tablespoon of sesame oil.",
+    "Add the green onions and sesame seeds to the clay pot and stir-fry until fragrant.",
+    "Return the shrimp to the clay pot and toss to combine with the green onions and sesame seeds.",
+    "Serve immediately and enjoy!"
   ],
-  "prepTimeMin": 5,
-  "cookTimeMin": 8,
-  "totalTimeMin": 13,
-  "servings": 2,
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
   "difficulty": "medium",
   "tags": [
     "korean",
     "shrimp",
-    "stir-fry"
+    "clay-pot",
+    "seafood",
+    "asian"
   ],
   "nutrition": {
     "calories": 320,
-    "protein": 30,
-    "carbs": 20,
-    "fat": 16
+    "protein": 36,
+    "carbs": 10,
+    "fat": 12
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-salty-korean-shrimp-clay-pot-cook",
   "providerUsed": "groq",
-  "createdAt": "2026-06-09T16:30:51.595Z"
+  "createdAt": "2026-07-11T11:18:26.632Z"
 }
