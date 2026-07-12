@@ -1,0 +1,97 @@
+{
+  "slug": "intensely-smoky-mediterranean-chicken-tagine",
+  "title": "Chicken Tagine with Smoky Flavor",
+  "description": "A hearty Moroccan-inspired stew made with chicken, intensely smoky spices, and sweet mediterranean flavors.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in and skin-on"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "unflavored"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the chicken on both sides until browned, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "Add the ground cumin and coriander to the pot and cook for 1 minute.",
+    "Add the ground smoky paprika to the pot and cook for 1 minute.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Return the chicken to the pot and cover with a lid.",
+    "Simmer the tagine over low heat for 30 minutes, or until the chicken is cooked through.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tagine",
+    "chicken",
+    "moroccan",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-mediterranean-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:35:01.775Z"
+}
