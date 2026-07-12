@@ -1,0 +1,78 @@
+{
+  "slug": "indulgent-aerated-portuguese-red-bean-paste-pastry",
+  "title": "Pastéis de Nata with Red Bean Filling",
+  "description": "A traditional Portuguese dessert with a twist, featuring a red bean filling inside an indulgent pastry.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pastry",
+      "amount": "250g",
+      "notes": "Store-bought or homemade pastry for the crust"
+    },
+    {
+      "name": "Red Bean Paste",
+      "amount": "150g",
+      "notes": "Available at most Asian markets or online"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "100g",
+      "notes": "To balance the savory flavor of the red bean paste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "For egg wash to glaze the pastry"
+    },
+    {
+      "name": "Vegan Butter",
+      "amount": "10g",
+      "notes": "To grease the pastry mold"
+    },
+    {
+      "name": "Aerated Whipped Cream",
+      "amount": "200ml",
+      "notes": "Optional topping for added indulgence"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the pastry to a thickness of 1/8 inch (3 mm).",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of red bean paste in the center of each pastry circle.",
+    "Fold the pastry in half to form a triangle and press the edges to seal.",
+    "Use a fork to crimp the edges of the pastry.",
+    "Brush the tops of the pastries with egg wash for a golden glaze.",
+    "Place the pastries on a baking sheet lined with parchment paper.",
+    "Dot the top of each pastry with a small amount of vegan butter.",
+    "Bake the pastries for 20-25 minutes, or until golden brown.",
+    "Allow the pastries to cool for 5 minutes before serving.",
+    "Optional: Top with aerated whipped cream and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "dessert",
+    "indulgent",
+    "red-bean"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-aerated-portuguese-red-bean-paste-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:22:43.729Z"
+}
