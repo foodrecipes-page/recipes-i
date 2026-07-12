@@ -4364,14 +4364,16 @@
   },
   {
     "slug": "indulgent-salty-korean-shrimp-clay-pot-cook",
-    "title": "Korean-Style Shrimp Stir-Fry",
+    "title": "Korean Shrimp Clay Pot Delight",
     "tags": [
       "korean",
       "shrimp",
-      "stir-fry"
+      "clay-pot",
+      "seafood",
+      "asian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 13,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -13639,14 +13641,14 @@
   },
   {
     "slug": "intensely-spicy-thai-pork-tom-yum-soup",
-    "title": "Intensely Spicy Thai Pork Tom Yum Soup",
+    "title": "Tom Yum Pork Soup",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "thai",
+      "pork",
+      "soup",
+      "spicy"
     ],
-    "cuisine": "thai",
+    "cuisine": "Thai",
     "totalTimeMin": 35,
     "shard": "i"
   },
