@@ -1,0 +1,92 @@
+{
+  "slug": "indulgent-ukrainian-chicken-stir-fry",
+  "title": "Ukrainian Chicken Stir Fry",
+  "description": "A delicious and flavorful stir fry recipe from Ukraine, featuring chicken and a variety of vegetables.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "potato",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes. Remove from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the diced onion to the skillet and cook until translucent, about 3-4 minutes.",
+    "Add the diced bell pepper and grated carrots to the skillet and cook until tender, about 4-5 minutes.",
+    "Add the diced potato to the skillet and cook for an additional 2-3 minutes.",
+    "In a small bowl, whisk together the flour and chicken broth until smooth.",
+    "Add the flour mixture to the skillet and stir to combine.",
+    "Return the cooked chicken to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Stir in the sour cream and cook for an additional 1-2 minutes, until heated through.",
+    "Serve the Ukrainian Chicken Stir Fry hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "chicken",
+    "stir",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-ukrainian-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:11:24.081Z"
+}
