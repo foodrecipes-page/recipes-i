@@ -1,0 +1,92 @@
+{
+  "slug": "intensely-spicy-thai-pork-tom-yum-soup",
+  "title": "Tom Yum Pork Soup",
+  "description": "A spicy and sour Thai soup made with pork, lemongrass, and mushrooms. Serve hot with steamed rice for a flavorful and comforting meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, sliced",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Lemongrass, bruised",
+      "amount": "2 stalks",
+      "notes": "Use the white and light green parts"
+    },
+    {
+      "name": "Mushrooms, sliced",
+      "amount": "1 cup",
+      "notes": "Button or cremini work well"
+    },
+    {
+      "name": "Tom Yum soup paste",
+      "amount": "2 tablespoons",
+      "notes": "Find in most Asian grocery stores"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Use a dark, high-quality sauce"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Thai basil, chopped",
+      "amount": "1/4 cup",
+      "notes": "Use fresh or dried"
+    },
+    {
+      "name": "Red chili peppers, sliced",
+      "amount": "2",
+      "notes": "Use more or less to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat. Add pork and cook until browned, about 5 minutes.",
+    "Add lemongrass, mushrooms, and soup paste. Cook for 1-2 minutes, until fragrant.",
+    "Pour in water and bring to a boil. Reduce heat to medium-low and simmer for 10-15 minutes.",
+    "Stir in fish sauce, sugar, and lime juice. Season with salt to taste.",
+    "Add Thai basil and red chili peppers. Simmer for an additional 2-3 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with additional Thai basil and red chili peppers if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "pork",
+    "soup",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-spicy-thai-pork-tom-yum-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:23:56.256Z"
+}
