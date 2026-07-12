@@ -1584,17 +1584,14 @@
   },
   {
     "slug": "indulgent-american-corn-hash",
-    "title": "Indulgent American Corn Hash",
+    "title": "Indulgent American Corn Fritters",
     "tags": [
-      "breakfast",
-      "brunch",
-      "gluten-free",
-      "sugar-free",
-      "vegan",
-      "weeknight"
+      "american",
+      "corn",
+      "fritters"
     ],
     "cuisine": "american",
-    "totalTimeMin": 25,
+    "totalTimeMin": 23,
     "shard": "i"
   },
   {
@@ -2841,15 +2838,15 @@
   },
   {
     "slug": "indulgent-grilled-greek-polish-sausage-souvlaki",
-    "title": "Indulgent Grilled Greek Polish Sausage Souvlaki",
+    "title": "Souvlaki Sausage Grill",
     "tags": [
       "grilled",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "greek",
+      "sausage",
+      "souvlaki"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 40,
+    "cuisine": "greek",
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -5925,17 +5922,16 @@
   },
   {
     "slug": "innovative-scottish-cod-fish-and-chips",
-    "title": "Innovative Scottish Cod Fish And Chips",
+    "title": "Scottish Cod and Chips",
     "tags": [
-      "british-food",
-      "comfort-food",
-      "fish-and-chips",
-      "kosher-friendly",
-      "scottish-cuisine",
-      "seafood"
+      "fish",
+      "scottish",
+      "cod",
+      "chips",
+      "fries"
     ],
     "cuisine": "Scottish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 27,
     "shard": "i"
   },
   {
