@@ -1954,16 +1954,15 @@
   },
   {
     "slug": "indulgent-canadian-one-pot-dish-stone-bowl",
-    "title": "Indulgent Canadian Stone-Bowl",
+    "title": "One Pot Canadian Dish",
     "tags": [
       "canadian",
-      "comfort-food",
-      "easy-to-make",
-      "grill",
-      "one-pan"
+      "beef",
+      "mushrooms",
+      "one-pot"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "cuisine": "canadian",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
