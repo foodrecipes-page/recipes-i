@@ -1,0 +1,74 @@
+{
+  "slug": "intense-miso-jamaican-pak-choi-skillet",
+  "title": "Pan-Seared Pak Choi with Jamaican Spice Crust",
+  "description": "A flavorful and nutritious stir-fry dish featuring pak choi and a crunchy Jamaican spice crust. This recipe is perfect for a quick dinner or lunch option.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pak Choi",
+      "amount": "2 bunches",
+      "notes": "Separate the leaves from the stems"
+    },
+    {
+      "name": "Jamaican Spice Mix",
+      "amount": "2 tsp",
+      "notes": "Available in most spice aisles"
+    },
+    {
+      "name": "Intense",
+      "amount": "1/4 cup",
+      "notes": "Intense is a type of oil or sauce, assuming it's a neutral flavor, but adjust to taste"
+    },
+    {
+      "name": "Miso",
+      "amount": "2 tbsp",
+      "notes": "White or yellow miso works best for this recipe"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "Assuming you're using a skillet as a utensil for this recipe, not as an ingredient"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Adjust seasoning as needed"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the intense oil to the skillet and swirl to coat.",
+    "Sprinkle the Jamaican spice mix over the pak choi and toss to coat.",
+    "Add the pak choi to the skillet and stir-fry until slightly tender.",
+    "Add the miso and stir-fry for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pak-choi",
+    "jamaican-spice",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-miso-jamaican-pak-choi-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:58:06.157Z"
+}
