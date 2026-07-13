@@ -1,0 +1,92 @@
+{
+  "slug": "innovative-light-italian-turkey-mince-pasta",
+  "title": "Turkey Mince Pasta Bolognese",
+  "description": "A light and flavorful Italian-inspired pasta dish made with turkey mince, perfect for a quick weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey mince",
+      "amount": "500g",
+      "notes": "lean mince"
+    },
+    {
+      "name": "Pasta",
+      "amount": "250g",
+      "notes": "penne or similar shape"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Dried basil",
+      "amount": "1 teaspoon",
+      "notes": "fresh basil leaves optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "2. In a large pan, heat 1 tablespoon of olive oil over medium heat.",
+    "3. Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "4. Add the minced garlic and cook for a further 1-2 minutes, until fragrant.",
+    "5. Add the turkey mince and cook, breaking it up with a spoon, until browned, about 5-6 minutes.",
+    "6. Stir in the tomato paste and cook for 1-2 minutes, until fragrant.",
+    "7. Add the dried basil, salt, and black pepper, and stir to combine.",
+    "8. Once the pasta is cooked, drain and add it to the pan with the turkey mixture.",
+    "9. Toss the pasta in the sauce and cook for a further 2-3 minutes, until the sauce has coated the pasta.",
+    "10. Serve hot, garnished with fresh basil leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "turkey",
+    "mince",
+    "pasta",
+    "easy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-light-italian-turkey-mince-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:58:13.609Z"
+}
