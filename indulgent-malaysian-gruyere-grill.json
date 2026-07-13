@@ -1,0 +1,64 @@
+{
+  "slug": "indulgent-malaysian-gruyere-grill",
+  "title": "Malaysian Gruyere Grill Bites",
+  "description": "Indulge in these bite-sized, cheesy grill treats, inspired by the bold flavors of Malaysia.",
+  "cuisine": "indulgent",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gruyere Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Malaysian Chili Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Grill Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bread, gluten-free",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a bowl, mix together Gruyere Cheese, Malaysian Chili Sauce, and Grill Seasoning.",
+    "3. Place a slice of bread on a flat surface and spread a small amount of cheese mixture on it.",
+    "4. Place another slice of bread on top to create a sandwich.",
+    "5. Brush the grill with Vegetable Oil to prevent sticking.",
+    "6. Grill the sandwiches for 2-3 minutes on each side, until golden brown and crispy.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "cheese",
+    "snack",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-malaysian-gruyere-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:36:17.565Z"
+}
