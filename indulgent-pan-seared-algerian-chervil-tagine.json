@@ -1,0 +1,97 @@
+{
+  "slug": "indulgent-pan-seared-algerian-chervil-tagine",
+  "title": "Seared Chicken Tagine",
+  "description": "A traditional Algerian dish seared to perfection, served in a rich tagine sauce.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "chervil",
+      "amount": "1/2 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breasts with salt, black pepper, cumin, and coriander.",
+    "Heat 1 tablespoon of olive oil in a pan over medium-high heat.",
+    "Sear the chicken breasts for 2-3 minutes per side, or until browned.",
+    "Transfer the chicken to a baking dish and set aside.",
+    "In the same pan, add the remaining 1 tablespoon of olive oil.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the chopped lemongrass and cook for 1 minute.",
+    "Pour in the tagine sauce (recipe below) and bring to a simmer.",
+    "Return the chicken to the pan and simmer for 10-12 minutes, or until cooked through.",
+    "Sprinkle with fresh chervil and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "tagine",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-pan-seared-algerian-chervil-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:05:07.051Z"
+}
