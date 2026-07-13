@@ -1,0 +1,67 @@
+{
+  "slug": "inviting-polish-brie-omelette",
+  "title": "Polish Omelette with Brie and Inviting Filling",
+  "description": "A twist on the classic omelette with a polish-style filling and melted brie cheese. This dish is perfect for a quick and easy dinner.",
+  "cuisine": "polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2 large eggs",
+      "notes": ""
+    },
+    {
+      "name": "brie cheese",
+      "amount": "2 tablespoons, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "inviting filling (e.g. mushrooms, bell peppers, onions)",
+      "amount": "1/2 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, beat the eggs and set aside.",
+    "In a medium bowl, mix together the inviting filling and a pinch of salt and pepper.",
+    "Heat a small non-stick pan over medium heat and add a small amount of oil.",
+    "Pour the eggs into the pan and cook until the edges start to set.",
+    "Add the filling mixture to one half of the omelette and sprinkle with crumbled brie cheese.",
+    "Fold the other half of the omelette over the filling and cook for an additional 30 seconds.",
+    "Use a spatula to carefully slide the omelette onto a plate and serve hot.",
+    "Season with additional salt and pepper to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "omelette",
+    "polish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/inviting-polish-brie-omelette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:36:19.184Z"
+}
