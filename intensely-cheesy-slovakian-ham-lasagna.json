@@ -1,0 +1,97 @@
+{
+  "slug": "intensely-cheesy-slovakian-ham-lasagna",
+  "title": "Slovakian Cheesy Ham Lasagna",
+  "description": "A traditional Slovak-inspired take on the classic Italian dish, loaded with ham and an intense, cheesy sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Lasagna Noodles",
+      "amount": "8-10 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Ham",
+      "amount": "1 cup diced",
+      "notes": ""
+    },
+    {
+      "name": "Ricotta Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "2 cups shredded",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Cook the lasagna noodles according to package instructions. Drain and set aside.",
+    "3. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "4. Add the diced ham to the skillet and cook until heated through.",
+    "5. In a large mixing bowl, combine the ricotta cheese, cheddar cheese, and mozzarella cheese. Mix well to combine.",
+    "6. Add the egg to the cheese mixture and mix until smooth.",
+    "7. Season the cheese mixture with salt and black pepper to taste.",
+    "8. Spread a layer of the meat sauce in the bottom of a 9x13 inch baking dish. Arrange 4 lasagna noodles on top of the meat sauce.",
+    "9. Spread half of the cheese mixture over the noodles, followed by half of the shredded mozzarella cheese.",
+    "10. Repeat the layers, starting with the meat sauce, noodles, cheese mixture, and finally the remaining mozzarella cheese.",
+    "11. Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "12. Remove the foil and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "lasagna",
+    "ham",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-cheesy-slovakian-ham-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T22:42:01.377Z"
+}
