@@ -7582,16 +7582,16 @@
   },
   {
     "slug": "intense-miso-jamaican-pak-choi-skillet",
-    "title": "Intense Miso Jamaican Pak Choi Skillet",
+    "title": "Pan-Seared Pak Choi with Jamaican Spice Crust",
     "tags": [
-      "jamaican-cuisine",
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
-      "weeknight-dinner"
+      "pak-choi",
+      "jamaican-spice",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -9832,14 +9832,12 @@
   },
   {
     "slug": "intensely-cheesy-slovakian-ham-lasagna",
-    "title": "Intensely Cheesy Slovakian Ham Lasagna",
+    "title": "Slovakian Cheesy Ham Lasagna",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "high-protein",
-      "meat-based",
-      "one-pan",
-      "weeknight"
+      "slovakian",
+      "lasagna",
+      "ham",
+      "cheesy"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 60,
