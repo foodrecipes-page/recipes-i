@@ -1,0 +1,62 @@
+{
+  "slug": "illuminating-midnight-craving-fatty-pork-binchotan-grilled",
+  "title": "Binchotan Grilled Pork Chops",
+  "description": "A simple yet flavorful dish showcasing the smoky flavor of binchotan charcoal paired with the rich taste of pork.",
+  "cuisine": "Japanese",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork chops",
+      "amount": "4",
+      "notes": "1-inch thick"
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 bag",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "Fatty",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400°F (200°C).",
+    "Season both sides of the pork chops with salt.",
+    "Grill the pork chops for 5-6 minutes per side, or until they reach an internal temperature of 145°F (63°C).",
+    "While the pork chops are cooking, light the binchotan charcoal and let it burn for 10-15 minutes to produce a smoky heat.",
+    "Once the pork chops are cooked, place them on a plate and brush with fatty (olive oil).",
+    "Let the pork chops rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "pork",
+    "binchotan",
+    "charcoal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/illuminating-midnight-craving-fatty-pork-binchotan-grilled",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:50:05.009Z"
+}
