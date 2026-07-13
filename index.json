@@ -988,16 +988,15 @@
   },
   {
     "slug": "illuminating-midnight-craving-fatty-pork-binchotan-grilled",
-    "title": "Illuminating Midnight Craving Fatty Pork Binchotan-Grilled",
+    "title": "Binchotan Grilled Pork Chops",
     "tags": [
-      "binchotan-grill",
-      "crisp",
-      "fatty-pork",
-      "filipino-dish",
-      "midnight-craving"
+      "grilled",
+      "pork",
+      "binchotan",
+      "charcoal"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 55,
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -3462,17 +3461,16 @@
   },
   {
     "slug": "indulgent-light-vietnamese-sour-cream-bao",
-    "title": "Indulgent Light Vietnamese Sour Cream Bao",
+    "title": "Vietnamese Bao Dessert",
     "tags": [
-      "comfort-food",
-      "easy-lunch",
-      "one-pan",
-      "paleo-friendly",
       "vietnamese",
-      "weeknight"
+      "dessert",
+      "bao",
+      "cream",
+      "sour"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 60,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 27,
     "shard": "i"
   },
   {
@@ -5734,17 +5732,17 @@
   },
   {
     "slug": "innovative-light-italian-turkey-mince-pasta",
-    "title": "Innovative Light Italian Turkey Mince Pasta",
+    "title": "Turkey Mince Pasta Bolognese",
     "tags": [
-      "gluten-free",
-      "italian-food",
-      "light-meal",
-      "paleo-diet",
-      "sous-vide",
-      "weeknight-dinner"
+      "italian",
+      "turkey",
+      "mince",
+      "pasta",
+      "easy",
+      "weeknight"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
