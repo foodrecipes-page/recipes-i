@@ -1,0 +1,94 @@
+{
+  "slug": "icy-cold-japanese-soba-soba",
+  "title": "Cold Soba Noodle Salad",
+  "description": "A refreshing Japanese-inspired salad made with chilled soba noodles, crunchy vegetables, and a tangy dressing.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Soba noodles",
+      "amount": "8 oz",
+      "notes": "Japanese buckwheat noodles"
+    },
+    {
+      "name": "Edamame",
+      "amount": "1 cup",
+      "notes": "Boiled or steamed soybeans"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe",
+      "notes": "Diced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "Unseasoned"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Pure"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": "Grated"
+    }
+  ],
+  "instructions": [
+    "Cook soba noodles according to package instructions. Drain and set aside.",
+    "In a large bowl, combine cooked soba noodles, edamame, cucumber, carrots, and avocado.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, honey, and ginger until well combined.",
+    "Pour the dressing over the noodle mixture and toss to coat.",
+    "Sprinkle sesame seeds on top and serve immediately.",
+    "Refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cold",
+    "salad",
+    "japanese",
+    "soba",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-cold-japanese-soba-soba",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:44:45.559Z"
+}
