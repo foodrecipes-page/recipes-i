@@ -810,17 +810,16 @@
   },
   {
     "slug": "icy-tangy-argentinian-sugars-bake",
-    "title": "Icy Tangy Argentinian Sugars Bake",
+    "title": "Argentinian Icy Bake",
     "tags": [
       "argentinian",
-      "dessert",
-      "festival",
-      "party",
-      "sugary",
-      "winter"
+      "icy",
+      "tangy",
+      "sweet",
+      "summer"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
