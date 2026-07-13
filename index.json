@@ -375,17 +375,16 @@
   },
   {
     "slug": "icy-cold-japanese-soba-soba",
-    "title": "icy cold japanese soba",
+    "title": "Cold Soba Noodle Salad",
     "tags": [
-      "icy-cold",
+      "cold",
+      "salad",
       "japanese",
-      "one-pan",
-      "raw-friendly",
       "soba",
-      "weeknight"
+      "noodles"
     ],
-    "cuisine": "japanese",
-    "totalTimeMin": 25,
+    "cuisine": "Japanese",
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -3478,16 +3477,15 @@
   },
   {
     "slug": "indulgent-malaysian-gruyere-grill",
-    "title": "Indulgent Malaysian Gruyere Grill",
+    "title": "Malaysian Gruyere Grill Bites",
     "tags": [
-      "grilled-chicken",
-      "high-protein",
-      "malaysian-cuisine",
-      "one-pan",
-      "weeknight"
+      "grill",
+      "cheese",
+      "snack",
+      "malaysian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "cuisine": "indulgent",
+    "totalTimeMin": 16,
     "shard": "i"
   },
   {
@@ -3952,17 +3950,15 @@
   },
   {
     "slug": "indulgent-pan-seared-algerian-chervil-tagine",
-    "title": "Indulgent Pan-Seared Algerian Chervil Tagine",
+    "title": "Seared Chicken Tagine",
     "tags": [
       "algerian",
-      "high-protein",
-      "one-pan",
-      "quick-fix",
-      "vegetarian",
-      "weeknight"
+      "chicken",
+      "tagine",
+      "indulgent"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 33,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -15328,15 +15324,14 @@
   },
   {
     "slug": "inviting-polish-brie-omelette",
-    "title": "Inviting Polish Brie Omelette",
+    "title": "Polish Omelette with Brie and Inviting Filling",
     "tags": [
-      "breakfast",
-      "kid-friendly",
-      "low-glycemic",
-      "quick"
+      "omelette",
+      "polish",
+      "vegetarian"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 20,
+    "cuisine": "polish",
+    "totalTimeMin": 10,
     "shard": "i"
   },
   {
