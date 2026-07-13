@@ -1,0 +1,97 @@
+{
+  "slug": "intensely-malty-malaysian-pistachio-curry",
+  "title": "Pistachio and Curry Chicken Curry",
+  "description": "A flavorful and aromatic curry dish made with chicken, pistachio, and malaysian curry powder, served with a side of intensely malty rice.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Pistachio curry powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Malaysian curry powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Dark soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Malty rice",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large pan over medium-high heat.",
+    "Add the chicken to the pan and cook until browned on both sides and cooked through.",
+    "Remove the chicken from the pan and set aside.",
+    "In the same pan, add the remaining 1 tablespoon of coconut oil.",
+    "Add the onion and cook until softened.",
+    "Add the garlic and Thai red chili peppers and cook for another minute.",
+    "Add the pistachio curry powder, Malaysian curry powder, fish sauce, and dark soy sauce to the pan.",
+    "Stir to combine and cook for 1-2 minutes.",
+    "Add the cooked chicken back into the pan and stir to coat with the curry sauce.",
+    "Serve the chicken curry over malty rice.",
+    "Garnish with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "pistachio",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-malty-malaysian-pistachio-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:32:54.593Z"
+}
