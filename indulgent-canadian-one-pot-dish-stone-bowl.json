@@ -1,0 +1,105 @@
+{
+  "slug": "indulgent-canadian-one-pot-dish-stone-bowl",
+  "title": "One Pot Canadian Dish",
+  "description": "A hearty, comforting one pot meal that combines the flavors of Canada. Perfect for a weeknight dinner.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "250g",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "medium size"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3",
+      "notes": "medium size"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium size"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1L",
+      "notes": "homestyle or low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large stone bowl over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion, mushrooms, carrots, and potatoes to the bowl.",
+    "Cook for 5 minutes, stirring occasionally.",
+    "Add the flour to the bowl and stir to combine.",
+    "Gradually add the beef broth to the bowl, whisking continuously.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 20 minutes.",
+    "Add the tomato paste, thyme, rosemary, salt, and pepper to the bowl.",
+    "Stir to combine and continue to simmer for another 10 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "beef",
+    "mushrooms",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-canadian-one-pot-dish-stone-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:40:27.023Z"
+}
