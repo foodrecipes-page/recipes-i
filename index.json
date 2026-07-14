@@ -6924,16 +6924,14 @@
   },
   {
     "slug": "intense-garlicky-uruguayan-duck-stew",
-    "title": "Intense Garlicky Uruguayan Duck Stew",
+    "title": "Uruguayan-Style Duck Stew",
     "tags": [
-      "comfort-food",
-      "duck-recipes",
-      "high-protein",
-      "one-pot",
-      "weeknight"
+      "uruguayan",
+      "duck",
+      "stew"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 110,
+    "totalTimeMin": 80,
     "shard": "i"
   },
   {
@@ -8278,16 +8276,15 @@
   },
   {
     "slug": "intense-savory-french-collards-skillet",
-    "title": "Intense Savory French Collards Skillet",
+    "title": "Savory French Skillet Collard Greens",
     "tags": [
-      "buddhist-friendly",
-      "french-inspired",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "savory",
+      "collard-greens",
+      "skillet-dish",
+      "french-cooking"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
