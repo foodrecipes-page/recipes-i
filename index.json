@@ -10848,16 +10848,15 @@
   },
   {
     "slug": "intensely-flavorful-irish-lamb-stew",
-    "title": "Intensely Flavorful Irish Lamb Stew",
+    "title": "Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "irish-cuisine",
-      "lamb-based",
-      "special-occasion"
+      "lamb",
+      "stew",
+      "irish",
+      "comfort food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 180,
+    "totalTimeMin": 110,
     "shard": "i"
   },
   {
