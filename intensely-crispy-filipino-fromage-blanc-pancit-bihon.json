@@ -1,0 +1,80 @@
+{
+  "slug": "intensely-crispy-filipino-fromage-blanc-pancit-bihon",
+  "title": "Crispy Bihon Pancit Stir Fry",
+  "description": "A classic Filipino stir-fry dish made with pancit bihon noodles, vegetables, and your choice of protein. This recipe is a quick and easy take on the traditional dish.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pancit Bihon Noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium, peeled and grated"
+    },
+    {
+      "name": "Fromage Blanc",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced snow peas and grated carrots, and cook until the vegetables are tender-crisp, about 3-4 minutes.",
+    "Add the pancit bihon noodles to the skillet or wok, and stir-fry for 2-3 minutes, until the noodles are heated through.",
+    "Add the fromage blanc, salt, and pepper to the skillet or wok, and stir-fry for an additional 1-2 minutes, until the fromage blanc is melted and the noodles are well coated.",
+    "Serve the pancit bihon hot, garnished with chopped green onions and crispy garlic if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "stir-fry",
+    "noodles",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-crispy-filipino-fromage-blanc-pancit-bihon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:05:56.867Z"
+}
