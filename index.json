@@ -5176,19 +5176,14 @@
   },
   {
     "slug": "indulgent-turkish-meatballs-kofte",
-    "title": "Indulgent Turkish Meatballs Kofte",
+    "title": "Turkish-Style Meatballs",
     "tags": [
-      "dinner",
-      "grassy",
-      "kofte",
-      "lacto-vegetarian-friendly",
-      "meatballs",
-      "one-pan",
       "turkish",
-      "weeknight"
+      "meatballs",
+      "indulgent"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "cuisine": "turkish",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
