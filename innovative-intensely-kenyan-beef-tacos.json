@@ -1,0 +1,116 @@
+{
+  "slug": "innovative-intensely-kenyan-beef-tacos",
+  "title": "Kenyan Beef Tacos",
+  "description": "A fusion of Kenyan flavors with traditional tacos, featuring tender beef and a blend of spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips (500g)",
+      "amount": "1 package",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Kenyan curry powder",
+      "amount": "2 tsp",
+      "notes": "Available at African stores or online"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "tortillas (8-10)",
+      "amount": "1 package",
+      "notes": "Corn or flour"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "shredded cheese (cheddar or Monterey Jack)",
+      "amount": "1 cup",
+      "notes": "To taste"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onion and garlic; cook until onion is translucent.",
+    "Add beef strips; cook until browned.",
+    "Add curry powder, cumin, coriander, salt, and pepper; stir to combine.",
+    "Cook for 1 minute.",
+    "Add tomato paste; stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing beef mixture onto tortillas, topping with salsa, cheese, cucumber, and lettuce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "beef",
+    "tacos",
+    "international",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-intensely-kenyan-beef-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:29:06.109Z"
+}
