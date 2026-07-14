@@ -11748,19 +11748,15 @@
   },
   {
     "slug": "intensely-peppery-middle-eastern-pork-shoulder-clay-pot-roast",
-    "title": "Intensely Peppery Middle-Eastern Pork Shoulder Clay Pot-Roast",
+    "title": "Middle Eastern Clay Pot Roast",
     "tags": [
-      "clay-pot",
-      "flexitarian",
-      "high-protein",
       "middle-eastern",
-      "one-pan",
       "pork",
-      "slow-cooker",
-      "weeknight"
+      "clay-pot",
+      "roast"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 300,
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
