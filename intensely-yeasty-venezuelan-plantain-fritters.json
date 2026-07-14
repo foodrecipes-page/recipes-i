@@ -1,0 +1,78 @@
+{
+  "slug": "intensely-yeasty-venezuelan-plantain-fritters",
+  "title": "Venezuelan Plantain Fritters",
+  "description": "A crispy, sweet and savory fritter filled with plantain and spices, inspired by Venezuelan cuisine. Enjoy as a snack or side dish.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Plantains",
+      "amount": "3",
+      "notes": "Mashed"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350°F (175°C).",
+    "In a large bowl, mix together the mashed plantains, flour, baking powder, and salt.",
+    "Add the beaten eggs to the bowl and mix until a dough forms.",
+    "Divide the dough into 8-10 equal pieces and shape each piece into a ball.",
+    "Dust each ball with flour and flatten slightly into a disk shape.",
+    "Fry the fritters in batches until golden brown, about 2-3 minutes on each side.",
+    "Drain the fritters on paper towels and serve hot. Optional: sprinkle with shredded cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "snack",
+    "venezuelan",
+    "fritters",
+    "plantain"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-yeasty-venezuelan-plantain-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:06:21.510Z"
+}
