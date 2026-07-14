@@ -1,0 +1,60 @@
+{
+  "slug": "ivy-green-australian-pea-salt-block-pilaf",
+  "title": "Australian Pilaf with Peas",
+  "description": "A hearty and flavorful pilaf dish from Australia featuring peas and a variety of spices.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Green peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Block",
+      "amount": "2 tablespoons",
+      "notes": "butter or margarine"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of block in a large skillet over medium heat.",
+    "Add 1 cup of Australian pilaf to the skillet and cook for 2-3 minutes.",
+    "Add 1 cup of green peas to the skillet and cook for an additional 2-3 minutes.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "peas",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ivy-green-australian-pea-salt-block-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:13:43.720Z"
+}
