@@ -1,0 +1,90 @@
+{
+  "slug": "intensely-peppery-middle-eastern-pork-shoulder-clay-pot-roast",
+  "title": "Middle Eastern Clay Pot Roast",
+  "description": "A deliciously rich and flavorful Middle Eastern-style clay pot roast, perfect for a special occasion. The intense flavors of the spices and aromatics will make your taste buds dance.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "intensely peppery middle eastern spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the pork shoulder with the Middle Eastern spice blend, making sure to coat it evenly.",
+    "Heat the olive oil in the clay pot over medium-high heat. Sear the pork shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Remove the pork shoulder from the pot and set it aside. Add the chopped onion to the pot and cook until it's softened and lightly browned, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for an additional minute, until fragrant.",
+    "Add the chopped carrots and potatoes to the pot, stirring to combine with the onion and garlic.",
+    "Add the chicken broth, lemon juice, and browned pork shoulder to the pot. Cover the pot with a lid.",
+    "Transfer the pot to the preheated oven and cook for 2 1/2 to 3 hours, or until the pork is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool for 10-15 minutes before serving. Garnish with chopped parsley.",
+    "Serve the pork shoulder with the vegetables and juices from the pot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "middle-eastern",
+    "pork",
+    "clay-pot",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 60,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-peppery-middle-eastern-pork-shoulder-clay-pot-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:38:02.811Z"
+}
