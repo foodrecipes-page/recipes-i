@@ -1,0 +1,97 @@
+{
+  "slug": "intense-spicy-vietnamese-pork-pho",
+  "title": "Spicy Vietnamese Pho",
+  "description": "A flavorful and spicy Vietnamese noodle soup made with pork and a variety of herbs and spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Pork bones",
+      "amount": "2 pounds",
+      "notes": "ask for pork neck bones at the butcher"
+    },
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Spicy Vietnamese chili sauce",
+      "amount": "2 tablespoons",
+      "notes": "such as sambal oelek"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the pork bones to a boil in 4 quarts of water, then reduce the heat to a simmer and cook for 1 hour.",
+    "Remove the pork bones and set them aside.",
+    "Slice the pork shoulder thinly and cook it in a pan with a little oil until browned, then set it aside.",
+    "Mince the onion, ginger, and garlic, and cook them in a pan until fragrant.",
+    "Add the chili sauce, fish sauce, and soy sauce to the pan and cook for 1 minute.",
+    "Add the sliced pork back to the pan and cook for 2-3 minutes.",
+    "Add the cooked pork bones back to the pot and simmer for 10 minutes.",
+    "Cook the rice noodles according to the package instructions and set them aside.",
+    "To assemble the pho, place some noodles in a bowl, add some sliced pork and bones, and pour the hot broth over the top.",
+    "Garnish with herbs such as basil, mint, and cilantro, and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "vietnamese",
+    "pho",
+    "noodle-soup",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-spicy-vietnamese-pork-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:02:31.530Z"
+}
