@@ -1,0 +1,89 @@
+{
+  "slug": "invigorating-canadian-tofu-skillet",
+  "title": "Canadian Breakfast Skillet",
+  "description": "A hearty, satisfying breakfast skillet filled with tender tofu, crunchy Canadian bacon, and invigorating flavors.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "Drained and cubed"
+    },
+    {
+      "name": "Invigorating seasoning blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Egg",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the Canadian bacon in a large skillet over medium-high heat until crispy.",
+    "Remove the Canadian bacon from the skillet and set aside.",
+    "Add the cubed tofu to the skillet and cook until golden brown.",
+    "Add the diced bell pepper and onion to the skillet and cook until tender.",
+    "In a separate bowl, whisk together the eggs and invigorating seasoning blend.",
+    "Pour the egg mixture over the tofu and vegetables in the skillet.",
+    "Cook the eggs until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 10-12 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and sprinkle with shredded cheddar cheese.",
+    "Return the skillet to the stovetop and cook over low heat until the cheese is melted and bubbly.",
+    "Serve the Canadian Breakfast Skillet hot, garnished with crispy Canadian bacon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "breakfast",
+    "skillet",
+    "eggs",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/invigorating-canadian-tofu-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T08:17:17.009Z"
+}
