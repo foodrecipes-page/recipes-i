@@ -1,0 +1,94 @@
+{
+  "slug": "indulgent-yeasty-saudi-arabian-kombu-tagine",
+  "title": "Saudi Arabian Tagine with Kombu",
+  "description": "A rich and flavorful tagine dish inspired by Saudi Arabian cuisine, featuring kombu and a blend of spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kombu",
+      "amount": "2 pieces",
+      "notes": "dried seaweed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large tagine or Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for an additional minute.",
+    "Add cumin, coriander, cayenne pepper, salt, and black pepper, and cook for 1 minute.",
+    "Add kombu and cook for 2-3 minutes, until fragrant.",
+    "Pour in 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "tagine",
+    "kombu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-yeasty-saudi-arabian-kombu-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:53:26.482Z"
+}
