@@ -1,0 +1,53 @@
+{
+  "slug": "innovative-silky-russian-noodles",
+  "title": "Silky Russian Noodles",
+  "description": "A unique and creamy take on traditional Russian noodles. This dish combines the best of both worlds, with a silky sauce and perfectly cooked noodles.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "silky",
+      "amount": "1 cup"
+    },
+    {
+      "name": "innovative",
+      "amount": "1 cup",
+      "notes": "chopped fresh herbs"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the noodles according to the package instructions.",
+    "In a separate pan, heat the silky sauce over medium heat.",
+    "Add the chopped innovative herbs to the silky sauce and stir to combine.",
+    "Once the noodles are cooked, drain them and add to the silky sauce.",
+    "Toss the noodles in the sauce to coat.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "noodle-dish",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-silky-russian-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:29:10.179Z"
+}
