@@ -1,0 +1,90 @@
+{
+  "slug": "indulgent-turkish-meatballs-kofte",
+  "title": "Turkish-Style Meatballs",
+  "description": "A flavorful and indulgent twist on traditional meatballs, inspired by Turkish cuisine. Serve with a side of steamed vegetables or a crispy salad.",
+  "cuisine": "turkish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Bulgur",
+      "amount": "1/2 cup",
+      "notes": "cooled"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Turkish red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large mixing bowl, combine ground beef, bulgur, onion, garlic, egg, breadcrumbs, Turkish red pepper flakes, salt, and black pepper.",
+    "Mix well with your hands until just combined. Be careful not to overmix.",
+    "Use your hands to shape the mixture into meatballs, about 1 1/2 inches (3.8 cm) in diameter. You should end up with around 20-25 meatballs.",
+    "Place the meatballs on a baking sheet lined with parchment paper, leaving a little space between each meatball to allow for even cooking.",
+    "Bake the meatballs in the preheated oven for 18-20 minutes, or until cooked through and lightly browned on the outside.",
+    "While the meatballs are baking, heat a large skillet over medium-high heat.",
+    "Once the meatballs are done, remove them from the oven and carefully place them in the hot skillet.",
+    "Cook the meatballs in the skillet for an additional 2-3 minutes on each side, until nicely browned and crispy.",
+    "Serve the Turkish-style meatballs hot, garnished with chopped fresh parsley or cilantro if desired.",
+    "Enjoy with your favorite sides, such as steamed vegetables or a crispy salad!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "meatballs",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-turkish-meatballs-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:23:26.482Z"
+}
