@@ -10119,16 +10119,16 @@
   },
   {
     "slug": "intensely-crispy-filipino-fromage-blanc-pancit-bihon",
-    "title": "Intensely Crispy Filipino Fromage Blanc Pancit Bihon",
+    "title": "Crispy Bihon Pancit Stir Fry",
     "tags": [
-      "crispy-snack",
-      "filipino-food",
-      "low-glycemic",
-      "midnight-craving",
-      "one-pan"
+      "filipino",
+      "stir-fry",
+      "noodles",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -15567,15 +15567,14 @@
   },
   {
     "slug": "ivy-green-australian-pea-salt-block-pilaf",
-    "title": "Ivy-Green Australian Pea Salt-Block Pilaf",
+    "title": "Australian Pilaf with Peas",
     "tags": [
-      "crowd-pleaser",
-      "floral-dish",
-      "springy-recipe",
-      "vegetarian-friendly"
+      "pilaf",
+      "peas",
+      "australian"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 13,
     "shard": "i"
   },
   {
