@@ -1,0 +1,62 @@
+{
+  "slug": "innovative-mild-egyptian-comte-flatbread",
+  "title": "Egyptian Comte Focaccia",
+  "description": "A twist on traditional focaccia, this Egyptian Comte Focaccia combines the savory flavors of Egyptian spices with the rich taste of Comte cheese and the crunch of flatbread.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Flatbread",
+      "amount": "1 package, 8-10 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Mild hummus",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egyptian spices",
+      "amount": "1 tsp",
+      "notes": "Cumin, coriander, paprika"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut flatbread into 2-inch squares.",
+    "Spread 1/4 cup of mild hummus on each square.",
+    "Sprinkle shredded Comte cheese on top of the hummus.",
+    "Sprinkle Egyptian spices over the cheese.",
+    "Bake for 10-12 minutes or until the cheese is melted and bubbly.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "focaccia",
+    "middle-eastern",
+    "snack",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-mild-egyptian-comte-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:48:53.852Z"
+}
