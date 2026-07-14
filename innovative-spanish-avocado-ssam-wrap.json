@@ -1,0 +1,70 @@
+{
+  "slug": "innovative-spanish-avocado-ssam-wrap",
+  "title": "Avocado Ssam Wrap",
+  "description": "A fusion of Korean ssam and Spanish flavors in a delicious avocado wrap.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "1 ripe"
+    },
+    {
+      "name": "Spanish tortilla wraps (gluten-free)",
+      "amount": "1 piece",
+      "notes": "6-8 inches in diameter"
+    },
+    {
+      "name": "Korean ssam sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Crispy kimchi",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pickled carrots and daikon",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Prepare the ssam sauce according to the package instructions.",
+    "Slice the avocado into thin strips.",
+    "Cut the tortilla wraps into 6-8 inch diameter pieces.",
+    "Assemble the ssam wrap by spreading the ssam sauce on the tortilla, then adding the avocado, kimchi, pickled carrots and daikon, and cilantro.",
+    "Season with salt and pepper to taste.",
+    "Fold the tortilla to enclose the filling and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean-spanish-fusion",
+    "avocado",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-spanish-avocado-ssam-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T12:10:45.240Z"
+}
