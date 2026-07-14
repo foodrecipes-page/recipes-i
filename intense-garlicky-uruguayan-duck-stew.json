@@ -1,0 +1,83 @@
+{
+  "slug": "intense-garlicky-uruguayan-duck-stew",
+  "title": "Uruguayan-Style Duck Stew",
+  "description": "A hearty and flavorful stew inspired by Uruguayan cuisine, featuring tender duck and rich vegetables.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "Intense, garlicky Uruguayan sausage",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the duck legs with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the duck legs until browned, about 5 minutes per side.",
+    "Remove the duck legs from the pot and set aside.",
+    "Add the sausage to the pot and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion, garlic, carrots, and potatoes to the pot.",
+    "Cook until the vegetables are slightly tender, about 5 minutes.",
+    "Add the red wine, chicken broth, and tomato paste to the pot.",
+    "Return the duck legs to the pot and bring to a simmer.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 30 minutes, then reduce the heat to 275°F (135°C) and continue cooking for another 30 minutes.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "duck",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 24,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-garlicky-uruguayan-duck-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:14:37.897Z"
+}
