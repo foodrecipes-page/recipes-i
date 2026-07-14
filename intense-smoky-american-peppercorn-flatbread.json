@@ -1,0 +1,69 @@
+{
+  "slug": "intense-smoky-american-peppercorn-flatbread",
+  "title": "Smoky American BBQ Flatbread",
+  "description": "A delicious and smoky flatbread inspired by American BBQ, perfect for a quick snack or meal.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 (8 inch) flatbread",
+      "notes": ""
+    },
+    {
+      "name": "American BBQ Sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Peppercorn",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 425°F (220°C).",
+    "2. Place flatbread on a baking sheet.",
+    "3. Brush flatbread with BBQ sauce, leaving a 1/2 inch border around the edges.",
+    "4. Sprinkle smoked paprika and peppercorn over the sauce.",
+    "5. Top with minced garlic.",
+    "6. Bake for 10-12 minutes or until the crust is golden brown.",
+    "7. Remove from oven and let cool for 2-3 minutes.",
+    "8. Slice into wedges and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "bbq",
+    "flatbread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-american-peppercorn-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:54:13.627Z"
+}
