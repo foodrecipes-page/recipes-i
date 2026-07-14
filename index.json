@@ -5622,18 +5622,16 @@
   },
   {
     "slug": "innovative-intensely-kenyan-beef-tacos",
-    "title": "Innovative Intensely Kenyan Beef Tacos",
+    "title": "Kenyan Beef Tacos",
     "tags": [
-      "african-food",
-      "beef-recipes",
-      "crowd-pleaser",
-      "kenyan-cuisine",
-      "low-fat",
-      "taco-recipes",
-      "weeknight-meal"
+      "kenyan",
+      "beef",
+      "tacos",
+      "international",
+      "easy"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 180,
+    "cuisine": "kenyan",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -5919,17 +5917,14 @@
   },
   {
     "slug": "innovative-silky-russian-noodles",
-    "title": "Innovative Silky Russian Noodles",
+    "title": "Silky Russian Noodles",
     "tags": [
-      "no-onion-no-garlic",
+      "creamy",
       "noodle-dish",
-      "pickle-lover",
-      "russian-cuisine",
-      "smoked-salmon",
-      "sour-cream-sauce"
+      "russian-cuisine"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
