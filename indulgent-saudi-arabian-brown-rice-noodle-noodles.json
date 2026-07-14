@@ -1,0 +1,87 @@
+{
+  "slug": "indulgent-saudi-arabian-brown-rice-noodle-noodles",
+  "title": "Saudi Arabian Chicken and Rice Bowl",
+  "description": "A classic Saudi dish made with flavorful chicken, saffron-infused rice, and aromatic spices.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "lacto-ovo vegetarian",
+    "pescetarian",
+    "pork-free",
+    "halal",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "aromatic spices",
+      "amount": "2 tablespoons",
+      "notes": "ground cumin, coriander, turmeric, and cinnamon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Remove chicken from saucepan and set aside.",
+    "Add onion and garlic to saucepan and cook until softened, about 5 minutes.",
+    "Add aromatic spices, saffron, and chicken broth to saucepan and stir to combine.",
+    "Add rice to saucepan and stir to coat with spice mixture.",
+    "Bring saucepan to a boil, then reduce heat to low, cover, and simmer for 18-20 minutes.",
+    "Fluff rice with a fork and stir in cooked chicken.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi arabian",
+    "chicken",
+    "rice",
+    "lacto-ovo vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-saudi-arabian-brown-rice-noodle-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:13:32.955Z"
+}
