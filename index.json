@@ -5356,15 +5356,15 @@
   },
   {
     "slug": "indulgent-yeasty-saudi-arabian-kombu-tagine",
-    "title": "Indulgent Yeasty Saudi-Arabian Kombu Tagine",
+    "title": "Saudi Arabian Tagine with Kombu",
     "tags": [
-      "high-protein",
-      "rich-desserts",
-      "slow-cooker",
-      "vegan"
+      "saudi-arabian",
+      "tagine",
+      "kombu",
+      "vegetarian"
     ],
-    "cuisine": "Saudi-Arabian",
-    "totalTimeMin": 75,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -5499,16 +5499,15 @@
   },
   {
     "slug": "innovative-crisp-jamaican-coconut-dumplings",
-    "title": "Innovative Crisp Jamaican Coconut Dumplings",
+    "title": "Crisp Jamaican Coconut Dumplings",
     "tags": [
-      "coconut-based",
-      "fried-dough",
-      "jamaican-cuisine",
-      "snack-time",
-      "vegan-friendly"
+      "caribbean",
+      "dumplings",
+      "coconut",
+      "vegan"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -12440,18 +12439,16 @@
   },
   {
     "slug": "intensely-salty-canadian-peanut-brittle-bake",
-    "title": "Intensely Salty Canadian Peanut Brittle Bake",
+    "title": "Canadian Peanut Butter Cookies",
     "tags": [
       "canadian",
-      "dessert",
-      "keto-friendly",
-      "low-carb",
-      "peanut-brittle",
-      "quick-fix",
-      "snack"
+      "peanut-butter",
+      "cookies",
+      "snack",
+      "easy"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -14749,17 +14746,15 @@
   },
   {
     "slug": "intricately-spiced-peruvian-potatoes-papa-rellena",
-    "title": "Intricately Spiced Peruvian Potatoes Papa Rellena",
+    "title": "Peruvian Stuffed Potatoes Rellena",
     "tags": [
-      "baked",
       "peruvian",
-      "potato",
-      "spicy",
-      "vegan",
-      "vegetarian"
+      "snack",
+      "cheesy",
+      "potatoes"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 60,
     "shard": "i"
   },
   {
