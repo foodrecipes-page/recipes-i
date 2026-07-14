@@ -1,0 +1,81 @@
+{
+  "slug": "intricately-spiced-peruvian-potatoes-papa-rellena",
+  "title": "Peruvian Stuffed Potatoes Rellena",
+  "description": "A traditional Peruvian dish filled with a flavorful mix of cheese, herbs, and spices, baked to perfection.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peruvian potatoes (4-5 medium)",
+      "amount": "2 lbs",
+      "notes": "Look for high-starch potatoes like papas amarillas or papas blancas."
+    },
+    {
+      "name": "intricately spiced cheese",
+      "amount": "1 cup, crumbled",
+      "notes": "A mix of queso fresco, parmesan, and mozzarella works well."
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh herbs add brightness to the dish."
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "Mince garlic and sauté with the onions for added depth."
+    },
+    {
+      "name": "diced red onion",
+      "amount": "1/2 cup",
+      "notes": "Caramelize the onions for a sweet and savory flavor."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a neutral oil for roasting the potatoes."
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "Season to taste after baking."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Scrub the potatoes clean and poke some holes in each with a fork.",
+    "Rub the potatoes with olive oil and season with salt and pepper.",
+    "Bake the potatoes for 45-60 minutes, or until tender when pierced with a fork.",
+    "While the potatoes are baking, sauté the onions and garlic in a pan until caramelized.",
+    "Add the chopped cilantro and spiced cheese to the pan and stir to combine.",
+    "When the potatoes are done, let them cool for a few minutes.",
+    "Slice the potatoes in half lengthwise and fluff the flesh with a fork.",
+    "Spoon the cheesy onion mixture into the potato cavities and serve hot.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "snack",
+    "cheesy",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricately-spiced-peruvian-potatoes-papa-rellena",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:06:40.548Z"
+}
