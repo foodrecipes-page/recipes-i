@@ -12498,18 +12498,15 @@
   },
   {
     "slug": "intensely-savory-australian-trout-kneaded-pastry",
-    "title": "Intensely Savory Australian Trout Kneaded Pastry",
+    "title": "Trout Pastry Pie",
     "tags": [
       "australian",
-      "comforting",
       "fish",
-      "one-pan",
       "pastry",
-      "snack",
-      "weeknight"
+      "dinner"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 46,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -15557,15 +15554,15 @@
   },
   {
     "slug": "ithentic-iced-moroccan-almond-couscous-royal",
-    "title": "Ithentic Iced Moroccan Almond Couscous Royal",
+    "title": "Moroccan Chicken with Almond and Couscous",
     "tags": [
-      "ayurvedic-sattvic-friendly",
-      "couscous-royal",
-      "dessert-cusine",
-      "moroccan-almond"
+      "moroccan",
+      "chicken",
+      "couscous",
+      "almonds"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
