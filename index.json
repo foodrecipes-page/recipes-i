@@ -5851,17 +5851,15 @@
   },
   {
     "slug": "innovative-mild-egyptian-comte-flatbread",
-    "title": "Innovative Mild Egyptian Comte Flatbread",
+    "title": "Egyptian Comte Focaccia",
     "tags": [
-      "kid-friendly",
+      "focaccia",
       "middle-eastern",
-      "one-pan",
-      "shojin-friendly",
-      "vegetarian",
-      "weeknight"
+      "snack",
+      "cheese"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 22,
     "shard": "i"
   },
   {
@@ -5951,17 +5949,14 @@
   },
   {
     "slug": "innovative-spanish-avocado-ssam-wrap",
-    "title": "Innovative Spanish Avocado Ssam Wrap",
+    "title": "Avocado Ssam Wrap",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "lunch-ideas",
-      "plant-based",
-      "spanish-food",
-      "vegan"
+      "korean-spanish-fusion",
+      "avocado",
+      "gluten-free"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 20,
+    "cuisine": "spanish",
+    "totalTimeMin": 10,
     "shard": "i"
   },
   {
@@ -7109,17 +7104,15 @@
   },
   {
     "slug": "intense-indian-tamarind-curry",
-    "title": "Intense Indian Tamarind Curry",
+    "title": "Tamarind Chicken Curry",
     "tags": [
-      "bengali",
-      "chewy",
-      "intense",
-      "malty",
-      "solo",
-      "vegan"
+      "indian",
+      "chicken",
+      "curry",
+      "spicy"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 30,
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
