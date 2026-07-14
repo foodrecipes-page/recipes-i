@@ -1,0 +1,91 @@
+{
+  "slug": "incredibly-crispy-american-fish-skillet",
+  "title": "Crispy American Fish Skillet",
+  "description": "A quick and easy skillet recipe for crispy American-style fish, served with a side of vegetables.",
+  "cuisine": "American",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets (Cod or Tilapia)",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": "For dusting the fish"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Beaten for egg wash"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "For crispy topping"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillets with salt and pepper.",
+    "Dust the fish fillets with flour, shaking off excess.",
+    "Dip the floured fish fillets in beaten eggs, making sure they're fully coated.",
+    "Then, coat the egg-coated fish fillets with panko breadcrumbs, pressing gently to adhere.",
+    "Heat the skillet over medium-high heat with 1 tablespoon of vegetable oil.",
+    "Add the breaded fish fillets to the skillet and cook for 3-4 minutes on each side, until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, until the fish is cooked through.",
+    "Remove the skillet from the oven and let it cool for a minute.",
+    "Serve the crispy fish fillets hot with lemon wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "fish",
+    "skillet",
+    "easy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-crispy-american-fish-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T08:46:37.991Z"
+}
