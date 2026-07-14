@@ -1,0 +1,77 @@
+{
+  "slug": "intense-savory-french-collards-skillet",
+  "title": "Savory French Skillet Collard Greens",
+  "description": "A hearty and flavorful French-inspired skillet dish featuring savory collard greens.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Collard Greens",
+      "amount": "1 bunch",
+      "notes": "stemmed and chopped"
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "large, oven-safe"
+    },
+    {
+      "name": "French Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In the skillet, melt butter over medium heat. Add garlic and sauté for 1 minute.",
+    "Add collard greens to the skillet, stirring to coat with butter and garlic.",
+    "Pour in chicken broth, cover the skillet, and transfer to the oven.",
+    "Bake for 20-25 minutes or until greens are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with additional French butter if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "collard-greens",
+    "skillet-dish",
+    "french-cooking"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-savory-french-collards-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T02:50:48.341Z"
+}
