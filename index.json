@@ -8997,18 +8997,16 @@
   },
   {
     "slug": "intense-spicy-vietnamese-pork-pho",
-    "title": "Intense Spicy Vietnamese Pork Pho",
+    "title": "Spicy Vietnamese Pho",
     "tags": [
-      "hangover-cure",
-      "high-protein",
-      "one-pan",
-      "rich-and-hearty",
       "spicy",
-      "weeknight",
-      "whole30-friendly"
+      "vietnamese",
+      "pho",
+      "noodle-soup",
+      "pork"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 60,
+    "totalTimeMin": 150,
     "shard": "i"
   },
   {
