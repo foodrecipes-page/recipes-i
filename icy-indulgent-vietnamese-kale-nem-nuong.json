@@ -1,0 +1,92 @@
+{
+  "slug": "icy-indulgent-vietnamese-kale-nem-nuong",
+  "title": "Grilled Vietnamese-Style Pork Skewers with Kale Salad",
+  "description": "A flavorful and refreshing summer dish featuring marinated pork skewers and a crunchy kale salad.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vietnamese nem",
+      "amount": "1 package",
+      "notes": "available in most Asian markets"
+    },
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Kale",
+      "amount": "2 cups",
+      "notes": "curly-leaf variety"
+    },
+    {
+      "name": "Indulgent nuong sauce",
+      "amount": "1/4 cup",
+      "notes": "available in most Asian markets"
+    },
+    {
+      "name": "Icy water",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "for dressing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together nuong sauce, garlic, and ginger. Add the pork pieces and marinate for at least 30 minutes.",
+    "Preheat grill to medium-high heat. Thread the marinated pork onto skewers, leaving a small space between each piece.",
+    "Grill the pork skewers for 8-10 minutes, or until cooked through.",
+    "In a large bowl, massage the kale with your hands to soften the leaves. Add lime juice and season with salt and pepper to taste.",
+    "To serve, place a few pieces of grilled pork onto a bed of kale and drizzle with icy water.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "pork",
+    "kale",
+    "salad",
+    " vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-indulgent-vietnamese-kale-nem-nuong",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:21:18.199Z"
+}
