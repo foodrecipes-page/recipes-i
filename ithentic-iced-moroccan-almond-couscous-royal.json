@@ -1,0 +1,77 @@
+{
+  "slug": "ithentic-iced-moroccan-almond-couscous-royal",
+  "title": "Moroccan Chicken with Almond and Couscous",
+  "description": "A flavorful and spicy Moroccan dish made with chicken, almonds, and couscous, perfect for a weeknight dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "almond",
+      "amount": "1 cup sliced",
+      "notes": "unsalted"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "icelandic salted butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 teaspoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 400°F (200°C).",
+    "Season the chicken with salt and pepper.",
+    "In a large skillet, heat 1 tablespoon of butter over medium-high heat. Add the chicken and cook until browned, about 5 minutes per side.",
+    "Transfer the chicken to a baking dish and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of butter. Add the sliced almonds and cook until toasted, about 3-4 minutes.",
+    "Add the grated ginger to the skillet and cook for 1 minute.",
+    "Add the couscous to the skillet and cook for 2-3 minutes, stirring constantly.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low and cover the skillet with a lid.",
+    "Simmer the couscous for 5 minutes, or until the liquid has been absorbed.",
+    "Serve the chicken on top of the couscous, garnished with chopped parsley and toasted almonds.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "couscous",
+    "almonds"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "40g",
+    "carbs": "60g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ithentic-iced-moroccan-almond-couscous-royal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T14:48:50.822Z"
+}
