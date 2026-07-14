@@ -556,16 +556,16 @@
   },
   {
     "slug": "icy-indulgent-vietnamese-kale-nem-nuong",
-    "title": "Icy Indulgent Vietnamese Kale Nem Nuong",
+    "title": "Grilled Vietnamese-Style Pork Skewers with Kale Salad",
     "tags": [
-      "breakfast",
-      "gluten-free",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "grilled",
+      "pork",
+      "kale",
+      "salad",
+      " vietnamese"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 32,
     "shard": "i"
   },
   {
@@ -1070,16 +1070,16 @@
   },
   {
     "slug": "incredibly-crispy-american-fish-skillet",
-    "title": "Incredibly Crispy American Fish Skillet",
+    "title": "Crispy American Fish Skillet",
     "tags": [
-      "american-cuisine",
-      "diabetic-friendly",
-      "fish-recipes",
-      "kid-friendly",
-      "one-pan"
+      "american",
+      "fish",
+      "skillet",
+      "easy",
+      "dinner"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -4368,15 +4368,14 @@
   },
   {
     "slug": "indulgent-saudi-arabian-brown-rice-noodle-noodles",
-    "title": "Indulgent Saudi-Arabian Brown Rice Noodle Noodles",
+    "title": "Saudi Arabian Chicken and Rice Bowl",
     "tags": [
-      "easy-to-make",
-      "noodle-dish",
-      "ovovegetarian",
-      "saudi-arabian",
-      "tangy"
+      "saudi arabian",
+      "chicken",
+      "rice",
+      "lacto-ovo vegetarian"
     ],
-    "cuisine": "saudi-arabian",
+    "cuisine": "saudi arabian",
     "totalTimeMin": 40,
     "shard": "i"
   },
@@ -8456,16 +8455,15 @@
   },
   {
     "slug": "intense-smoky-american-peppercorn-flatbread",
-    "title": "Intense Smoky American Peppercorn Flatbread",
+    "title": "Smoky American BBQ Flatbread",
     "tags": [
       "american",
-      "fodmap-friendly",
-      "gluten-free",
-      "quick",
+      "bbq",
+      "flatbread",
       "snack"
     ],
     "cuisine": "American",
-    "totalTimeMin": 25,
+    "totalTimeMin": 17,
     "shard": "i"
   },
   {
@@ -14257,17 +14255,16 @@
   },
   {
     "slug": "intensely-yeasty-venezuelan-plantain-fritters",
-    "title": "Intensely Yeasty Venezuelan Plantain Fritters",
+    "title": "Venezuelan Plantain Fritters",
     "tags": [
-      "fried-food",
-      "midnight-cravings",
-      "paleo-friendly",
-      "south-american",
-      "vegan-free",
-      "yeast-based"
+      "vegan",
+      "snack",
+      "venezuelan",
+      "fritters",
+      "plantain"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 23,
     "shard": "i"
   },
   {
@@ -15052,17 +15049,16 @@
   },
   {
     "slug": "invigorating-canadian-tofu-skillet",
-    "title": "Invigorating Canadian Tofu Skillet",
+    "title": "Canadian Breakfast Skillet",
     "tags": [
-      "canadian-cuisine",
-      "dairy-free",
-      "high-protein",
-      "one-pan",
-      "tofu-recipes",
-      "weeknight"
+      "canadian",
+      "breakfast",
+      "skillet",
+      "eggs",
+      "cheese"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
