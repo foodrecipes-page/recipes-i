@@ -1,0 +1,69 @@
+{
+  "slug": "innovative-crisp-jamaican-coconut-dumplings",
+  "title": "Crisp Jamaican Coconut Dumplings",
+  "description": "A sweet and crispy twist on traditional dumplings, infused with the flavors of Jamaica and coconut.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crisp coconut flakes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together flour, coconut flour, and sugar.",
+    "In a separate bowl, whisk together coconut milk and jerk seasoning.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Roll out the dough to 1/4 inch thickness.",
+    "Cut into desired shapes.",
+    "Place on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Sprinkle with crisp coconut flakes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "caribbean",
+    "dumplings",
+    "coconut",
+    "vegan"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-crisp-jamaican-coconut-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:05:32.117Z"
+}
