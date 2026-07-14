@@ -1,0 +1,80 @@
+{
+  "slug": "intensely-salty-canadian-peanut-brittle-bake",
+  "title": "Canadian Peanut Butter Cookies",
+  "description": "A delicious Canadian twist on a classic peanut butter cookie, with a perfect balance of salty and sweet.",
+  "cuisine": "Canadian",
+  "diet": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "1 cup",
+      "notes": "creamy or crunchy, whichever you prefer"
+    },
+    {
+      "name": "salty brittle",
+      "amount": "1/2 cup",
+      "notes": "crushed into small pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "gluten-free flour can be substituted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a large bowl, cream together the peanut butter and sugars until smooth.",
+    "Beat in the eggs and vanilla extract until well combined.",
+    "Stir in the crushed salty brittle and flour.",
+    "Scoop tablespoon-sized balls of dough onto the prepared baking sheet, leaving about 2 inches of space between each cookie.",
+    "Bake for 10-12 minutes, or until the edges are lightly golden.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "peanut-butter",
+    "cookies",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 16,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-salty-canadian-peanut-brittle-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:06:16.835Z"
+}
