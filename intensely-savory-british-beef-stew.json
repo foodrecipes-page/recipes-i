@@ -1,0 +1,95 @@
+{
+  "slug": "intensely-savory-british-beef-stew",
+  "title": "Traditional British Beef Stew",
+  "description": "A hearty, comforting British beef stew made with tender chunks of beef and root vegetables.",
+  "cuisine": "British",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches, then set aside.",
+    "Add more oil if necessary, then sauté the onions and garlic until softened.",
+    "Add the carrots and potatoes, cook for 5 minutes.",
+    "Add the flour, stir to combine.",
+    "Gradually add the beef broth, whisking continuously.",
+    "Add the browned beef, red wine (if using), and thyme.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2-3 hours, or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-british-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:46:40.284Z"
+}
