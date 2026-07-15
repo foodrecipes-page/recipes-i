@@ -1,0 +1,91 @@
+{
+  "slug": "intensely-roasted-vietnamese-tofu-skewers",
+  "title": "Vietnamese Tofu Skewers",
+  "description": "A flavorful and refreshing summer dish, these skewers of marinated tofu are perfect for grilling and serving with a side of rice or noodles.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "250g",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "intensely roasted coffee",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a shallow dish, whisk together coffee, fish sauce, lime juice, and honey.",
+    "Add garlic and cilantro to the marinade and stir to combine.",
+    "Add the tofu cubes to the marinade and toss to coat.",
+    "Soak the skewers in water for at least 30 minutes.",
+    "Thread 2-3 tofu cubes onto each skewer.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 3-4 minutes per side, or until the tofu is golden brown.",
+    "Serve hot with your favorite sides, such as rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "tofu",
+    "skewers",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-roasted-vietnamese-tofu-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T21:05:36.747Z"
+}
