@@ -9263,16 +9263,16 @@
   },
   {
     "slug": "intense-velvety-russian-natto-pilaf",
-    "title": "Intense Velvety Russian Natto Pilaf",
+    "title": "Russian Natto Pilaf",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "russian-cuisine",
+      "russian",
+      "natto",
+      "pilaf",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -12186,16 +12186,14 @@
   },
   {
     "slug": "intensely-roasted-brazilian-chicken-roast",
-    "title": "Intensely Roasted Brazilian Chicken Roast",
+    "title": "Brazilian Roast Chicken",
     "tags": [
-      "brazilian-cuisine",
-      "comfort-food",
-      "halal-friendly",
-      "one-pan",
-      "roasted-chicken"
+      "chicken",
+      "brazilian",
+      "roast"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -12509,17 +12507,14 @@
   },
   {
     "slug": "intensely-savory-british-beef-yorkshire-pudding",
-    "title": "Intensely Savory British Beef Yorkshire Pudding",
+    "title": "Yorkshire Beef Pudding",
     "tags": [
       "beef",
-      "date-night",
-      "italian-seasoning",
-      "salt-block",
-      "scottish",
-      "yorkshire-pudding"
+      "british",
+      "pudding"
     ],
     "cuisine": "British",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -12607,16 +12602,15 @@
   },
   {
     "slug": "intensely-savory-irish-lamb-stew",
-    "title": "Intensely Savory Irish Lamb Stew",
+    "title": "Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "irish-cuisine",
-      "one-pan",
-      "weeknight"
+      "lamb stew",
+      "irish recipe",
+      "comfort food",
+      "hearty stew"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "i"
   },
   {
