@@ -1,0 +1,73 @@
+{
+  "slug": "intense-dense-irish-potato-gratin",
+  "title": "Irish Potato Gratin",
+  "description": "A rich and comforting Irish-inspired potato gratin that's perfect for a chilly evening. The intense, dense flavors of this dish will warm your heart and belly.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "3 large",
+      "notes": "peeled"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "whole milk can be substituted"
+    },
+    {
+      "name": "Granon cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Irish cheddar or similar can be used"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Butter a 9x13 inch baking dish and set aside.",
+    "Slice potatoes thinly and layer in the baking dish.",
+    "In a saucepan, combine heavy cream, grated cheese, salt, and pepper. Heat over medium heat, stirring until the cheese is melted and the sauce is smooth.",
+    "Pour the cream mixture over the potatoes and smooth the top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "potato",
+    "gratin",
+    "irish",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-dense-irish-potato-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T16:47:58.158Z"
+}
