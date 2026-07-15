@@ -1,0 +1,93 @@
+{
+  "slug": "intense-midnight-thai-vegetables-tagine",
+  "title": "Midnight Thai Vegetable Tagine",
+  "description": "A flavorful and aromatic stew originating from Morocco, infused with the bold flavors of Thailand. Serve over couscous or rice.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetables mix (carrots, zucchini, bell peppers)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "midnight oil (or olive oil)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "intense spices (cayenne pepper, black pepper, turmeric)",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, cook until softened (5 minutes).",
+    "Add curry paste, cook for 1 minute.",
+    "Add vegetables, cook for 5 minutes.",
+    "Add broth, coconut milk, cumin, coriander, salt, and spices. Stir well.",
+    "Bring to a simmer, then reduce heat to low and cook, covered, for 20-25 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "vegetarian",
+    "stew",
+    "midnight"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-midnight-thai-vegetables-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:46:22.692Z"
+}
