@@ -1,0 +1,68 @@
+{
+  "slug": "intense-french-eggs-quiche",
+  "title": "French Quiche",
+  "description": "A classic French dish made with eggs, cream, and intense cheese, perfect for breakfast, lunch, or dinner.",
+  "cuisine": "French",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "french",
+      "amount": "1",
+      "notes": " pie crust"
+    },
+    {
+      "name": "intense",
+      "amount": "1 cup",
+      "notes": "grated cheese"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pie crust and place in a 9-inch tart pan.",
+    "In a large bowl, whisk eggs, heavy cream, salt, and pepper.",
+    "Add the grated cheese and mix well.",
+    "Pour the egg mixture into the pie crust.",
+    "Bake for 35-40 minutes or until the edges are golden brown and the center is set.",
+    "Let the quiche cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "quiche",
+    "french",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-french-eggs-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:35:52.267Z"
+}
