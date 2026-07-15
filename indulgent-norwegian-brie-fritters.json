@@ -1,0 +1,81 @@
+{
+  "slug": "indulgent-norwegian-brie-fritters",
+  "title": "Norwegian Brie Fritter Delight",
+  "description": "Indulge in crispy fritters filled with creamy Norwegian brie cheese for a delightful appetizer or snack.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "indulgent",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Norwegian brie cheese",
+      "amount": "1 block (8 ounces)",
+      "notes": "softened to room temperature"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "for fritter batter"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "1/4 cup",
+      "notes": "for brushing fritters"
+    },
+    {
+      "name": "Fritter mix-ins (optional)",
+      "amount": " chopped herbs or chives",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "for frying",
+      "notes": "for frying fritters"
+    }
+  ],
+  "instructions": [
+    "Preheat oil for frying to 375°F (190°C).",
+    "Whisk together eggs, milk, and melted butter in a bowl.",
+    "Add flour and mix until just combined.",
+    "Gently fold in softened brie cheese.",
+    "If desired, add chopped herbs or chives.",
+    "Dust fritter mix with a small amount of flour.",
+    "Using a piping bag or spoon, drop rounded fritters into hot oil.",
+    "Fry for 2-3 minutes, until golden brown.",
+    "Drain on paper towels and serve warm.",
+    "Brush with additional melted butter if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "appetizer",
+    "snack",
+    "brie"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-norwegian-brie-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T16:14:59.467Z"
+}
