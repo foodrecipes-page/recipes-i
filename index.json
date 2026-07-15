@@ -10488,12 +10488,12 @@
   },
   {
     "slug": "intensely-energizing-chinese-dough-naan",
-    "title": "Intensely Energizing Tandoor Naan",
+    "title": "Energizing Chinese Dough Naan",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "naan",
+      "dough",
+      "chinese",
+      "snack"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 30,
@@ -12015,16 +12015,15 @@
   },
   {
     "slug": "intensely-rich-dutch-chicken-stew",
-    "title": "Intensely Rich Dutch Chicken Stew",
+    "title": "Rich Dutch Stew",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "stew",
+      "dutch",
+      "comfort-food"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
@@ -13431,18 +13430,15 @@
   },
   {
     "slug": "intensely-spicy-british-nectarine-crumble",
-    "title": "Intensely Spicy British Nectarine Crumble",
+    "title": "Nectarine Crumble",
     "tags": [
-      "autumn",
       "british",
-      "comfort-food",
-      "crumble",
       "dessert",
-      "fruit",
-      "spicy"
+      "nectarine",
+      "crumble"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 70,
+    "cuisine": "british",
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
