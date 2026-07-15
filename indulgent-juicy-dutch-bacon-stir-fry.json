@@ -1,0 +1,71 @@
+{
+  "slug": "indulgent-juicy-dutch-bacon-stir-fry",
+  "title": "Crispy Bacon Stir Fry",
+  "description": "A quick and savory stir fry dish made with crispy bacon and your favorite vegetables. Serve over rice for a delicious meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "indulgent",
+    "juicy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "Thicker cut for crispy texture"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "For stir frying"
+    }
+  ],
+  "instructions": [
+    "Cook bacon in a pan over medium heat until crispy.",
+    "Remove bacon from pan, leaving the grease behind.",
+    "Add olive oil to the pan and sauté the onion and bell pepper until softened.",
+    "Add snow peas and cook until tender.",
+    "Return cooked bacon to the pan and stir in soy sauce.",
+    "Serve over rice and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-for-dinner",
+    "quick-meal",
+    "bacon-lovers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-juicy-dutch-bacon-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:00:09.038Z"
+}
