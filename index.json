@@ -6852,13 +6852,12 @@
   },
   {
     "slug": "intense-french-eggs-quiche",
-    "title": "Intense French Eggs Quiche",
+    "title": "French Quiche",
     "tags": [
-      "brunch-recipe",
-      "earthenware-cooking",
-      "french-cuisine",
-      "kosher-friendly",
-      "quiche-recipe"
+      "quiche",
+      "french",
+      "breakfast",
+      "brunch"
     ],
     "cuisine": "French",
     "totalTimeMin": 55,
@@ -16085,6 +16084,18 @@
       "smoky"
     ],
     "cuisine": "kenyan",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-british-beef-stew--vegetarian",
+    "title": "Savory Stew (Vegetarian)",
+    "tags": [
+      "stew",
+      "vegetarian",
+      "british"
+    ],
+    "cuisine": "british",
     "totalTimeMin": 50,
     "shard": "i"
   }
