@@ -1,0 +1,96 @@
+{
+  "slug": "intensely-savory-irish-lamb-stew",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty and comforting lamb stew made with tender lamb, potatoes, carrots, and onions in a rich and flavorful broth.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat",
+    "vegetarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "For thickening"
+    },
+    {
+      "name": "Beer",
+      "amount": "1 cup",
+      "notes": "Irish stout or brown ale"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and cook for an additional 2 minutes.",
+    "Add the diced potato, flour, beer, broth, thyme, salt, and pepper to the pot.",
+    "Stir to combine and bring to a boil.",
+    "Return the lamb to the pot and cover with a lid.",
+    "Transfer the pot to the oven and cook at 300°F for 2 1/2 hours, or until the lamb is tender.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb stew",
+    "irish recipe",
+    "comfort food",
+    "hearty stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "40g",
+    "carbs": "60g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T14:52:41.598Z"
+}
