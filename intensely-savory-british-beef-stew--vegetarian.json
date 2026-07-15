@@ -1,0 +1,84 @@
+{
+  "slug": "intensely-savory-british-beef-stew--vegetarian",
+  "title": "Savory Stew (Vegetarian)",
+  "description": "A hearty, comforting stew made with a variety of vegetables and served with crusty bread.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup frozen"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add mushrooms and cook until browned, about 5 minutes.",
+    "Add carrots and potatoes and cook for 5 minutes.",
+    "Pour in vegetable broth and red wine, scraping up any browned bits from the bottom of the pot.",
+    "Stir in tomato paste, thyme, and rosemary.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, until the vegetables are tender, about 30 minutes.",
+    "Stir in frozen peas and cook until thawed.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "vegetarian",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-british-beef-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:37:15.950Z"
+}
