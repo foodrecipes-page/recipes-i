@@ -1,0 +1,83 @@
+{
+  "slug": "intensely-smoky-kenyan-chicken-stew--vegetarian",
+  "title": "Smoky Kenyan Vegetable Stew",
+  "description": "A hearty and flavorful stew originating from Kenya, made with smoky spices and a variety of vegetables.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "1 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "kenyan smoky spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the onion and garlic and sauté for 5 minutes.",
+    "Add the carrots, potatoes, and sweet potatoes, and continue to sauté for another 5 minutes.",
+    "Add the Kenyan smoky spice blend and stir to combine.",
+    "Add the tomato paste and stir to combine.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 30 minutes.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "vegetarian",
+    "stew",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-kenyan-chicken-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:14:06.661Z"
+}
