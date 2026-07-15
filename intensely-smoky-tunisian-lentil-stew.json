@@ -1,0 +1,95 @@
+{
+  "slug": "intensely-smoky-tunisian-lentil-stew",
+  "title": "Tunisian Smoky Lentil Stew",
+  "description": "A hearty, comforting stew made with lentils and smoky flavors. This Tunisian-inspired dish is perfect for a chilly evening.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp",
+      "notes": "Smoky flavor"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": "Concentrated tomato flavor"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz can"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium broth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add smoked paprika, cumin, and salt; cook for 1 minute, stirring constantly.",
+    "Add tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add diced tomatoes, vegetable broth, and lentils.",
+    "Bring to a boil, then reduce heat to low and simmer for 30-40 minutes, or until lentils are tender.",
+    "Season with black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "lentil",
+    "north african",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "18g",
+    "carbs": "60g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-tunisian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T21:05:20.430Z"
+}
