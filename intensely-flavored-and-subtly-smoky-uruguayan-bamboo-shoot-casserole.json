@@ -1,0 +1,89 @@
+{
+  "slug": "intensely-flavored-and-subtly-smoky-uruguayan-bamboo-shoot-casserole",
+  "title": "Uruguayan Bamboo Shoot Casserole",
+  "description": "A hearty, smoky casserole from Uruguay featuring bamboo shoots and a rich, intensely flavored sauce.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bamboo shoots",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Uruguayan chorizo",
+      "amount": "1 pound",
+      "notes": "optional, for non-vegetarian version"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "If using chorizo, cook in a pan over medium heat, breaking up with a spoon, until browned.",
+    "In a large pot, heat olive oil over medium heat. Add onion and cook until softened.",
+    "Add garlic, smoked paprika, chili flakes, and cumin. Cook for 1 minute.",
+    "Add bamboo shoots, tomato paste, and red wine. Stir to combine.",
+    "If using chorizo, add it to the pot and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Cover with aluminum foil and bake for 30 minutes.",
+    "Remove foil and continue baking for an additional 15-20 minutes, or until the casserole is hot and bubbly.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "casserole",
+    "vegetarian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flavored-and-subtly-smoky-uruguayan-bamboo-shoot-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T09:22:07.923Z"
+}
