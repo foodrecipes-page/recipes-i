@@ -1,0 +1,79 @@
+{
+  "slug": "intensely-spicy-british-nectarine-crumble",
+  "title": "Nectarine Crumble",
+  "description": "A classic British dessert featuring sweet nectarines topped with a crunchy crumble mixture.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "for crumble topping"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "for crumble topping"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "for crumble topping"
+    },
+    {
+      "name": "oatmeal",
+      "amount": "1/2 cup",
+      "notes": "for crumble topping"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": "for crumble topping"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "for crumble topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together sliced nectarines and granulated sugar.",
+    "Transfer the nectarine mixture to a 9x9-inch baking dish.",
+    "In another bowl, combine flour, oatmeal, brown sugar, and cinnamon.",
+    "Add cold unsalted butter to the dry ingredients and mix until crumbly.",
+    "Spread the crumble mixture evenly over the nectarines.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the fruit is tender.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "dessert",
+    "nectarine",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-spicy-british-nectarine-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:53:13.742Z"
+}
