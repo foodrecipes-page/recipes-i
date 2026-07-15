@@ -2106,15 +2106,15 @@
   },
   {
     "slug": "indulgent-coconut-portuguese-vainilla-tart",
-    "title": "indulgent coconut portuguese vanilla tart",
+    "title": "Coconut Tart",
     "tags": [
-      "one-tray",
+      "coconut",
+      "tart",
       "portuguese",
-      "vegan-friendly",
-      "weeknight"
+      "dessert"
     ],
     "cuisine": "portuguese",
-    "totalTimeMin": 55,
+    "totalTimeMin": 75,
     "shard": "i"
   },
   {
@@ -9100,16 +9100,15 @@
   },
   {
     "slug": "intense-turkish-chickpea-pilaf",
-    "title": "Intense Turkish Chickpea Pilaf",
+    "title": "Turkish-Style Chickpea Pilaf",
     "tags": [
-      "flexitarian",
-      "mediterranean",
-      "one-pot",
-      "smoky",
+      "chickpea",
+      "pilaf",
+      "turkish",
       "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -12374,17 +12373,15 @@
   },
   {
     "slug": "intensely-roasted-vietnamese-tofu-skewers",
-    "title": "Intensely Roasted Vietnamese Tofu Skewers",
+    "title": "Vietnamese Tofu Skewers",
     "tags": [
-      "grilled-vegetables",
-      "one-pot-meal",
-      "robata-grill",
-      "ti-leaf-wrap",
-      "tofu-recipes",
-      "vegan-friendly",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "grilled",
+      "tofu",
+      "skewers",
+      "vegetarian"
     ],
-    "cuisine": "Vietnamese",
+    "cuisine": "vietnamese",
     "totalTimeMin": 32,
     "shard": "i"
   },
@@ -13284,17 +13281,15 @@
   },
   {
     "slug": "intensely-smoky-tunisian-lentil-stew",
-    "title": "Intensely Smoky Tunisian Lentil Stew",
+    "title": "Tunisian Smoky Lentil Stew",
     "tags": [
-      "comfort-food",
-      "lentil-stew",
-      "one-pot",
-      "smoky",
-      "tunisian-cuisine",
-      "vegan-friendly"
+      "stew",
+      "lentil",
+      "north african",
+      "vegetarian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
