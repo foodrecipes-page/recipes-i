@@ -7506,15 +7506,14 @@
   },
   {
     "slug": "intense-midnight-thai-vegetables-tagine",
-    "title": "intense midnight thai vegetables tagine",
+    "title": "Midnight Thai Vegetable Tagine",
     "tags": [
-      "brunch",
-      "one-pan",
-      "thai",
+      "thaifood",
       "vegetarian",
-      "weeknight"
+      "stew",
+      "midnight"
     ],
-    "cuisine": "thai",
+    "cuisine": null,
     "totalTimeMin": 40,
     "shard": "i"
   },
@@ -12477,17 +12476,14 @@
   },
   {
     "slug": "intensely-savory-british-beef-stew",
-    "title": "Intensely Savory British Beef Stew",
+    "title": "Traditional British Beef Stew",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "hearty-stew",
-      "keto-friendly",
-      "low-carb",
-      "one-pot"
+      "beef",
+      "stew",
+      "british"
     ],
     "cuisine": "British",
-    "totalTimeMin": 200,
+    "totalTimeMin": 210,
     "shard": "i"
   },
   {
