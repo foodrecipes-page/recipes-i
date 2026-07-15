@@ -1,0 +1,96 @@
+{
+  "slug": "indulgent-korean-cream-stew",
+  "title": "Creamy Korean Stew",
+  "description": "A rich and indulgent Korean-inspired stew made with tender beef, creamy sauce, and a blend of spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger (grated)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (minced)",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Green onions (chopped)",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes. Remove from pot and set aside.",
+    "Add ginger and garlic to pot and cook for 1 minute.",
+    "Add soy sauce, gochujang, brown sugar, and chili flakes to pot. Stir to combine.",
+    "Add cream to pot and bring to a simmer.",
+    "Return beef to pot and cook for an additional 2-3 minutes, or until sauce has thickened.",
+    "Season with black pepper to taste.",
+    "Garnish with green onions and serve hot.",
+    "Cook time should be 20 minutes, with prep time being 15 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "beef",
+    "cream",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-korean-cream-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T09:23:03.731Z"
+}
