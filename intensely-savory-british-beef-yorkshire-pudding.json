@@ -1,0 +1,77 @@
+{
+  "slug": "intensely-savory-british-beef-yorkshire-pudding",
+  "title": "Yorkshire Beef Pudding",
+  "description": "A traditional British dish consisting of a savory beef pudding made from a mixture of ground beef, eggs, and breadcrumbs, typically served as a main course.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": null,
+      "notes": "to taste"
+    },
+    {
+      "name": "Beef Stock",
+      "amount": "1 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine ground beef, breadcrumbs, eggs, flour, salt, and pepper. Mix well.",
+    "Gradually add warm beef stock to the mixture, stirring until just combined. Be careful not to overmix.",
+    "Heat butter in a 9x13-inch baking dish in the oven until melted.",
+    "Pour the beef pudding mixture into the hot baking dish.",
+    "Return the dish to the oven and cook for 25-30 minutes, or until the pudding is golden brown and set.",
+    "Remove from the oven and let rest for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "british",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-british-beef-yorkshire-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T15:26:32.493Z"
+}
