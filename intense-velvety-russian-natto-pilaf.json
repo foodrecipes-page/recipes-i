@@ -1,0 +1,75 @@
+{
+  "slug": "intense-velvety-russian-natto-pilaf",
+  "title": "Russian Natto Pilaf",
+  "description": "A unique and flavorful side dish that combines the rich flavors of Russian cuisine with the nutritious benefits of natto. This pilaf recipe is a great accompaniment to any meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Natto",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Intense Russian sauerkraut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Velvety sour cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large saucepan over medium-high heat.",
+    "Add 1 cup of natto and cook for 3-4 minutes, stirring frequently.",
+    "Add 2 cups of pilaf and cook for an additional 5 minutes, stirring frequently.",
+    "Add 2 cups of vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 15 minutes.",
+    "Stir in 1 cup of Russian sauerkraut and 1/2 cup of velvety sour cream.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "natto",
+    "pilaf",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-velvety-russian-natto-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T14:51:01.051Z"
+}
