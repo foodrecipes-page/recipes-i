@@ -1,0 +1,78 @@
+{
+  "slug": "intense-turkish-chickpea-pilaf",
+  "title": "Turkish-Style Chickpea Pilaf",
+  "description": "A hearty, flavorful pilaf dish made with chickpeas, intense spices, and a hint of turkish flair.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Turkish pilaf rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Intense spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chickpeas, pilaf rice, intense spice blend, salt, and black pepper to the saucepan.",
+    "Stir to combine and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until the rice is tender.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea",
+    "pilaf",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-turkish-chickpea-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T20:59:14.047Z"
+}
