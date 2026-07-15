@@ -16082,5 +16082,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 45,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-smoky-kenyan-chicken-stew--vegetarian",
+    "title": "Smoky Kenyan Vegetable Stew",
+    "tags": [
+      "kenyan",
+      "vegetarian",
+      "stew",
+      "smoky"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 50,
+    "shard": "i"
   }
 ]
