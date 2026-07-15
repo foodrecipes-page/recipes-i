@@ -3401,17 +3401,16 @@
   },
   {
     "slug": "indulgent-korean-cream-stew",
-    "title": "Indulgent Korean Cream Stew",
+    "title": "Creamy Korean Stew",
     "tags": [
-      "comfort-food",
-      "creamy",
-      "gluten-free",
       "korean",
-      "one-pot",
-      "vegetarian"
+      "stew",
+      "beef",
+      "cream",
+      "comfort-food"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -10679,15 +10678,13 @@
     "slug": "intensely-flavored-and-subtly-smoky-uruguayan-bamboo-shoot-casserole",
     "title": "Uruguayan Bamboo Shoot Casserole",
     "tags": [
-      "gluten-free",
-      "one-pan",
       "uruguayan",
-      "vegan",
+      "casserole",
       "vegetarian",
-      "weeknight"
+      "smoky"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 65,
     "shard": "i"
   },
   {
