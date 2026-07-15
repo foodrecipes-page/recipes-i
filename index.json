@@ -3857,18 +3857,15 @@
   },
   {
     "slug": "indulgent-norwegian-brie-fritters",
-    "title": "indulgent norwegian brie fritters",
+    "title": "Norwegian Brie Fritter Delight",
     "tags": [
-      "cheese",
-      "coconut",
-      "deep-fried",
-      "dessert",
-      "fritters",
-      "indulgent",
-      "norwegian"
+      "norwegian",
+      "appetizer",
+      "snack",
+      "brie"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 42,
+    "cuisine": "Norwegian",
+    "totalTimeMin": 22,
     "shard": "i"
   },
   {
@@ -6618,16 +6615,14 @@
   },
   {
     "slug": "intense-dense-irish-potato-gratin",
-    "title": "Intense Dense Irish Potato Gratin",
+    "title": "Irish Potato Gratin",
     "tags": [
-      "clotted-cream",
-      "comfort-food",
+      "potato",
+      "gratin",
       "irish",
-      "midnight-craving",
-      "talavera-plate",
-      "vegan"
+      "comfort-food"
     ],
-    "cuisine": "irish",
+    "cuisine": "Irish",
     "totalTimeMin": 65,
     "shard": "i"
   },
