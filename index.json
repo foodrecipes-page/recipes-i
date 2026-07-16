@@ -4395,15 +4395,11 @@
   },
   {
     "slug": "indulgent-seafood-style-norwegian-penne-rigate-pasta",
-    "title": "indulgent seafood-style norwegian penne rigate pasta",
+    "title": "Norwegian Seafood Pasta",
     "tags": [
-      "date-night",
-      "high-calorie",
-      "indulgent",
+      "seafood",
       "norwegian",
-      "one-pan",
-      "rich-and-creamy",
-      "seafood"
+      "pasta"
     ],
     "cuisine": "norwegian",
     "totalTimeMin": 35,
@@ -15545,17 +15541,14 @@
   },
   {
     "slug": "iwholesome-middle-eastern-rice-pilaf",
-    "title": "IWholesome Middle Eastern Rice Pilaf",
+    "title": "Eastern-Style Chicken and Rice Pilaf",
     "tags": [
-      "glassy-jelly",
-      "hangover-cure",
-      "middle-eastern",
-      "satvik-friendly",
-      "smoky",
-      "vessel-wooden-board"
+      "chicken",
+      "pilaf",
+      "eastern-mediterranean"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 65,
+    "cuisine": "Eastern Mediterranean",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -16168,6 +16161,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-aerated-portuguese-red-bean-paste-pastry--japanese",
+    "title": "Matcha Tiramisu",
+    "tags": [
+      "japanese",
+      "tiramisu",
+      "matcha",
+      "dessert"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
     "shard": "i"
   }
 ]
