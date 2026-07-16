@@ -1,0 +1,77 @@
+{
+  "slug": "intensely-earthy-slovakian-millet-gratin--indian",
+  "title": "Slovakian Millet Gratin",
+  "description": "A unique fusion of Slovakian and Indian flavors, this millet gratin is a hearty and comforting dish.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gratin",
+      "amount": "2 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "10-12 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a pan, heat 1 tbsp of ghee over medium heat. Add the chopped onion and cook until softened.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the millet, garam masala, and salt. Mix well.",
+    "Transfer the mixture to a baking dish and top with grated gratin.",
+    "Drizzle the remaining 1 tbsp of ghee over the gratin.",
+    "Cover the dish with a lid and bake for 25-30 minutes.",
+    "Remove the lid and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Garnish with curry leaves and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-millet-gratin",
+    "slovakian-fusion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-earthy-slovakian-millet-gratin--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:34:59.080Z"
+}
