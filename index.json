@@ -344,16 +344,15 @@
   },
   {
     "slug": "icy-algerian-manchego-stone-bowl-dolsot",
-    "title": "icy algerian manchego stone-bowl-dolsot",
+    "title": "Manchego and Algerian Spicy Stew",
     "tags": [
-      "algerian",
-      "breakfast",
-      "fodmap-friendly",
-      "gluten-free",
-      "manchego"
+      "north-african",
+      "stew",
+      "cheese",
+      "spicy"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 28,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -2263,12 +2262,10 @@
     "slug": "indulgent-croatian-potato-gratin",
     "title": "Indulgent Croatian Potato Gratin",
     "tags": [
-      "cheesy",
       "croatian",
-      "indulgent",
-      "mediterranean",
-      "potato-gratin",
-      "weeknight"
+      "potato",
+      "gratin",
+      "indulgent"
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 65,
@@ -16200,6 +16197,46 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
+    "slug": "intricately-smoky-saudi-arabian-natto-skewers--vegetarian",
+    "title": "Vegetarian Smoky Arabian Skewers",
+    "tags": [
+      "vegetarian",
+      "arabian",
+      "grilled"
+    ],
+    "cuisine": "arabian",
+    "totalTimeMin": 32,
+    "shard": "i"
+  },
+  {
+    "slug": "iced-persian-cabbage-salad--french",
+    "title": "French Persian Cabbage Salad",
+    "tags": [
+      "salad",
+      "french",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-sweet-slovakian-fruit-pudding--chinese",
+    "title": "Sweet Slovakian Fruit Pudding",
+    "tags": [
+      "chinese",
+      "sweet",
+      "slovakian",
+      "fruit",
+      "pudding",
+      "dessert"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "i"
   }
 ]
