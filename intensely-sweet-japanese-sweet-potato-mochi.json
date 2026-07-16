@@ -1,0 +1,71 @@
+{
+  "slug": "intensely-sweet-japanese-sweet-potato-mochi",
+  "title": "Mochi Potato Tempura",
+  "description": "A Japanese-inspired dessert featuring crispy tempura-fried mochi and sweet potato slices, perfect for a sweet treat.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mochi",
+      "amount": "2 cups",
+      "notes": "preferably Japanese-style"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 large",
+      "notes": "peeled and sliced into 1/4-inch thick rounds"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, mix together flour and cornstarch for dusting.",
+    "2. Cut mochi into 1-inch pieces and dust with flour mixture, shaking off excess.",
+    "3. Heat 1 cup of vegetable oil in a deep frying pan to 350°F.",
+    "4. Add mochi pieces to the hot oil in batches and fry until golden brown, about 2-3 minutes.",
+    "5. Using a slotted spoon, remove fried mochi from oil and drain on paper towels.",
+    "6. Increase oil temperature to 375°F.",
+    "7. Add sweet potato slices to the hot oil in batches and fry until crispy, about 3-4 minutes.",
+    "8. Using a slotted spoon, remove fried sweet potato from oil and drain on paper towels.",
+    "9. Serve mochi and sweet potato tempura hot, dust with powder sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "dessert",
+    "tempura",
+    "sweet-potato",
+    "mochi"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-sweet-japanese-sweet-potato-mochi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:16:45.801Z"
+}
