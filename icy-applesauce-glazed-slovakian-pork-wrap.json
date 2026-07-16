@@ -1,0 +1,67 @@
+{
+  "slug": "icy-applesauce-glazed-slovakian-pork-wrap",
+  "title": "Slovakian Pork Wrap",
+  "description": "A delicious and flavorful Slovakian-inspired pork wrap recipe, perfect for a quick lunch or dinner.",
+  "cuisine": "slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "4 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "glazed",
+      "amount": "2 tbsp",
+      "notes": "for brushing pork"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": "slovakian-style flatbread"
+    },
+    {
+      "name": "applesauce",
+      "amount": "2 tbsp",
+      "notes": "for topping"
+    },
+    {
+      "name": "icy",
+      "amount": "to taste",
+      "notes": "for serving on the side"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Brush the pork with glazed and cook for 3-4 minutes per side, or until cooked through.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Slice the cooked pork into thin strips.",
+    "Assemble the wrap by placing the pork slices onto the center of the wrap, followed by a dollop of applesauce.",
+    "Serve with icy on the side and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "wrap",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-applesauce-glazed-slovakian-pork-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T05:39:32.411Z"
+}
