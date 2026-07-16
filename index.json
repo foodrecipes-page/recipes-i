@@ -780,19 +780,14 @@
   },
   {
     "slug": "icy-sour-japanese-turkey-neck-tantanmen-udon",
-    "title": "icy sour japanese turkey neck tantanmen udon",
+    "title": "Spicy Udon Noodle Soup",
     "tags": [
-      "binchotan-charcoal",
-      "cheesy-broth",
-      "comfort-food",
-      "japanese-cuisine",
-      "sour-cream",
-      "sriracha-sauce",
-      "udon-noodles",
-      "weeknight-meal"
+      "spicy",
+      "noodle-soup",
+      "japanese-cuisine"
     ],
-    "cuisine": "japanese",
-    "totalTimeMin": 35,
+    "cuisine": "Japanese",
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -13721,17 +13716,16 @@
   },
   {
     "slug": "intensely-sweet-japanese-sweet-potato-mochi",
-    "title": "Intensely Sweet Japanese Sweet Potato Mochi",
+    "title": "Mochi Potato Tempura",
     "tags": [
-      "gluten-free",
-      "grilled-dessert",
-      "japanese-dish",
-      "kid-friendly",
-      "paleo-friendly",
-      "sweet-potato"
+      "japanese",
+      "dessert",
+      "tempura",
+      "sweet-potato",
+      "mochi"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
