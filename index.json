@@ -16187,5 +16187,19 @@
     "cuisine": "thai",
     "totalTimeMin": 140,
     "shard": "i"
+  },
+  {
+    "slug": "intricately-smoky-saudi-arabian-natto-skewers--mexican",
+    "title": "Mexican Smoked Natto Skewers",
+    "tags": [
+      "mexican",
+      "natto",
+      "skewers",
+      "vegan",
+      "grilled"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "i"
   }
 ]
