@@ -1,0 +1,88 @@
+{
+  "slug": "icy-algerian-manchego-stone-bowl-dolsot",
+  "title": "Manchego and Algerian Spicy Stew",
+  "description": "A hearty and flavorful stew originating from the North African region, served over a bed of stone-ground rice.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large dolsot or stone pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Algerian spice blend and cook for 1 minute.",
+    "Add the shredded Manchego cheese, canned diced tomatoes, red pepper flakes, salt, and black pepper.",
+    "Stir well to combine.",
+    "Add the water and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the stew cook for 20-25 minutes, or until the flavors have melded together and the cheese has melted.",
+    "Serve the stew hot over a bed of stone-ground rice, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "stew",
+    "cheese",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-algerian-manchego-stone-bowl-dolsot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:16:45.853Z"
+}
