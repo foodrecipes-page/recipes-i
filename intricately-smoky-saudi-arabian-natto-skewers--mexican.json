@@ -1,0 +1,86 @@
+{
+  "slug": "intricately-smoky-saudi-arabian-natto-skewers--mexican",
+  "title": "Mexican Smoked Natto Skewers",
+  "description": "A unique fusion of Mexican flavors with the traditional Japanese fermented soybean dish, natto. Marinated in a mixture of smoky spices and grilled to perfection on skewers.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "natto",
+      "amount": "8 oz",
+      "notes": "look for fermented soybeans in an Asian grocery store"
+    },
+    {
+      "name": "intricately seasoned chili powder",
+      "amount": "2 tbsp",
+      "notes": "mix of chili powder, cumin, smoked paprika, and lime juice"
+    },
+    {
+      "name": "arabian olive oil",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "saudi dates",
+      "amount": "4-6",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "limes",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk together intricately seasoned chili powder, olive oil, lime juice, garlic, and cumin.",
+    "2. Add the natto to the marinade and mix until well coated.",
+    "3. Cover the dish with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat a grill or grill pan to medium-high heat.",
+    "5. Thread the marinated natto, dates, and lime wedges onto the skewers.",
+    "6. Brush the skewers with olive oil and season with salt and pepper.",
+    "7. Grill the skewers for 8-10 minutes or until the natto is slightly charred.",
+    "8. Serve immediately, garnished with chopped cilantro or scallions if desired.",
+    "9. Optional: serve with warm flour or corn tortillas for wrapping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "natto",
+    "skewers",
+    "vegan",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricately-smoky-saudi-arabian-natto-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:34:17.936Z"
+}
