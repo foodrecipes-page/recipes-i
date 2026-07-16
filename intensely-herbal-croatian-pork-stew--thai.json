@@ -1,0 +1,88 @@
+{
+  "slug": "intensely-herbal-croatian-pork-stew--thai",
+  "title": "Croatian Pork Stew",
+  "description": "A hearty Thai-inspired stew made with tender Croatian pork and a blend of herbal spices.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian Pork Shoulder",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Intensely Herbal Tea",
+      "amount": "2 cups (brewed)",
+      "notes": ""
+    },
+    {
+      "name": "Stew Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and ginger, cook until softened.",
+    "Add pork and cook until browned.",
+    "Add curry paste and stir for 1 minute.",
+    "Add fish sauce, honey, and stew seasoning. Stir well.",
+    "Pour in coconut milk and brewed herbal tea.",
+    "Bring to a boil, then reduce heat to low and simmer for 2 hours.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "pork",
+    "stew",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-herbal-croatian-pork-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:26:06.088Z"
+}
