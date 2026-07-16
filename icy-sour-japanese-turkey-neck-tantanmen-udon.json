@@ -1,0 +1,73 @@
+{
+  "slug": "icy-sour-japanese-turkey-neck-tantanmen-udon",
+  "title": "Spicy Udon Noodle Soup",
+  "description": "A spicy and flavorful udon noodle soup inspired by Japanese cuisine. This dish combines the richness of udon noodles with the spiciness of tantanmen sauce and the tanginess of icy cucumber.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Udon noodles",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Tantanmen sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Icy cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Sour soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cook udon noodles according to package instructions and set aside.",
+    "2. In a large pot, combine tantanmen sauce, sour soy sauce, and 2 cups of water.",
+    "3. Bring the sauce to a boil, then reduce heat to a simmer.",
+    "4. Add sliced icy cucumber and chopped green onions to the sauce.",
+    "5. Cook for an additional 2-3 minutes or until the cucumber is slightly tender.",
+    "6. Divide the cooked udon noodles among bowls.",
+    "7. Ladle the spicy sauce over the noodles.",
+    "8. Garnish with sesame seeds and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "noodle-soup",
+    "japanese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-sour-japanese-turkey-neck-tantanmen-udon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:17:09.290Z"
+}
