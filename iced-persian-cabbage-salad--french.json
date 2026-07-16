@@ -1,0 +1,65 @@
+{
+  "slug": "iced-persian-cabbage-salad--french",
+  "title": "French Persian Cabbage Salad",
+  "description": "A refreshing French-inspired salad featuring shredded cabbage, crunchy persian cucumber and a hint of cool iced lettuce.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Persian Cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Iced Lettuce",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 small head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Salad",
+      "amount": "2 cups mixed greens",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine shredded cabbage, sliced persian cucumber, and mixed greens salad.",
+    "In a small bowl, whisk together a vinaigrette made from olive oil and apple cider vinegar.",
+    "Drizzle the vinaigrette over the salad and toss to coat.",
+    "Season with salt and pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, sprinkle with chopped fresh herbs such as parsley or dill, if desired.",
+    "Serve chilled and enjoy!",
+    "To make the vinaigrette, combine 2 tablespoons of olive oil and 1 tablespoon of apple cider vinegar in a small bowl.",
+    "Whisk until smooth and season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "french",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iced-persian-cabbage-salad--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:26:39.712Z"
+}
