@@ -1,0 +1,61 @@
+{
+  "slug": "intense-italian-silken-tofu-pasta--chinese",
+  "title": "Silken Tofu Stir Fry",
+  "description": "A simple and flavorful Chinese-inspired stir fry made with silken tofu, pasta, and Italian seasonings. This dish is perfect for a quick dinner or lunch.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "silken tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "intense Italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook pasta according to package instructions.",
+    "Drain the pasta and set it aside.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the silken tofu and cook until golden brown on all sides.",
+    "Add the Italian seasoning and stir to combine.",
+    "Add the cooked pasta to the skillet and toss with the tofu mixture.",
+    "Serve hot and enjoy!",
+    "Optional: add your favorite vegetables to the stir fry for extra flavor and nutrients."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "tofu",
+    "pasta",
+    "vegetarian",
+    "gluten-free",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-italian-silken-tofu-pasta--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:32:39.859Z"
+}
