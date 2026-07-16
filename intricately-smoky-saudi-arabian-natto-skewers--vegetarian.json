@@ -1,0 +1,75 @@
+{
+  "slug": "intricately-smoky-saudi-arabian-natto-skewers--vegetarian",
+  "title": "Vegetarian Smoky Arabian Skewers",
+  "description": "Delicious skewers filled with marinated vegetables, perfect for a quick and easy vegetarian meal.",
+  "cuisine": "arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "intricately",
+      "amount": "500g",
+      "notes": "Mixed vegetables of your choice (e.g., bell peppers, onions, cherry tomatoes)"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tbsp",
+      "notes": "Smoky paprika"
+    },
+    {
+      "name": "saudi",
+      "amount": "2 tbsp",
+      "notes": "Olive oil"
+    },
+    {
+      "name": "arabian",
+      "amount": "2 tsp",
+      "notes": "Ground cinnamon"
+    },
+    {
+      "name": "natto",
+      "amount": "1 tsp",
+      "notes": "Natto (fermented soybeans)"
+    },
+    {
+      "name": "skewers",
+      "amount": "12",
+      "notes": "Metal or bamboo skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut the vegetables into 1-inch pieces and thread them onto the skewers.",
+    "In a small bowl, whisk together smoky, saudi, and arabian ingredients.",
+    "Brush the skewers with the marinade, making sure they are well coated.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the vegetables are tender.",
+    "Serve hot, garnished with a sprinkle of natto and a side of your favorite sauce.",
+    "To make the smoky marinade, mix together smoky, saudi, and arabian ingredients in a small bowl.",
+    "Brush the skewers with the marinade, making sure they are well coated.",
+    "Let the skewers marinate for at least 30 minutes before grilling.",
+    "To make the natto spice blend, mix together 1 tsp of natto with 1 tsp of smoked paprika.",
+    "Sprinkle the natto spice blend over the skewers before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "arabian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricately-smoky-saudi-arabian-natto-skewers--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:24:51.516Z"
+}
