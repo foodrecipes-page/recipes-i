@@ -16143,5 +16143,20 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "i"
+  },
+  {
+    "slug": "intense-italian-silken-tofu-pasta--chinese",
+    "title": "Silken Tofu Stir Fry",
+    "tags": [
+      "stir-fry",
+      "tofu",
+      "pasta",
+      "vegetarian",
+      "gluten-free",
+      "quick-dinner"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "i"
   }
 ]
