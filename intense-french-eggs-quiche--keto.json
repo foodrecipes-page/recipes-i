@@ -1,0 +1,82 @@
+{
+  "slug": "intense-french-eggs-quiche--keto",
+  "title": "French Keto Quiche",
+  "description": "A rich and creamy quiche made with a buttery crust and a filling of eggs, cream, and cheese, perfect for a keto diet.",
+  "cuisine": "French",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "1 1/2 cups",
+      "notes": "for crust"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": "for crust"
+    },
+    {
+      "name": "Eggs",
+      "amount": "8 large",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": "such as cheddar or mozzarella"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "In a large bowl, combine the flour, Parmesan cheese, and salt. Add the cold butter and use a pastry blender or your fingers to work it into the flour until the mixture resembles coarse crumbs.",
+    "Press the mixture into the bottom and up the sides of a 9-inch (23cm) tart pan with a removable bottom.",
+    "In a separate bowl, whisk together the eggs, heavy cream, shredded cheese, salt, and black pepper.",
+    "Pour the egg mixture into the prepared tart crust.",
+    "Bake for 35-40 minutes, or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "keto",
+    "quiche",
+    "french",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-french-eggs-quiche--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:35:47.651Z"
+}
