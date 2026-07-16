@@ -1,0 +1,88 @@
+{
+  "slug": "indulgent-aerated-portuguese-red-bean-paste-pastry--japanese",
+  "title": "Matcha Tiramisu",
+  "description": "A Japanese-inspired take on the Italian classic, featuring green tea-infused ladyfingers and a creamy mascarpone cheese mixture.",
+  "cuisine": "japanese",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "red bean paste",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "aerated pastry",
+      "amount": "1 package",
+      "notes": "for ladyfingers"
+    },
+    {
+      "name": "mascarpone cheese",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "matcha powder",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together the mascarpone cheese, heavy cream, matcha powder, and sugar until stiff peaks form.",
+    "Dip each ladyfinger into the coffee for about 3-5 seconds on each side. They should be soft and pliable but not too wet.",
+    "In a large serving dish, create a layer of ladyfingers. You can trim them to fit the dish.",
+    "Spread half of the mascarpone mixture over the ladyfingers.",
+    "Repeat the layering process, starting with the ladyfingers, then the mascarpone mixture, and finally another layer of ladyfingers.",
+    "Cover with plastic wrap and refrigerate for at least 3 hours or overnight.",
+    "Just before serving, sift some matcha powder over the top of the tiramisu.",
+    "Cut into slices and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "tiramisu",
+    "matcha",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-aerated-portuguese-red-bean-paste-pastry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:43:55.616Z"
+}
