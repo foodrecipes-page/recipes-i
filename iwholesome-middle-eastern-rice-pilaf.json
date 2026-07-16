@@ -1,0 +1,91 @@
+{
+  "slug": "iwholesome-middle-eastern-rice-pilaf",
+  "title": "Eastern-Style Chicken and Rice Pilaf",
+  "description": "A flavorful and aromatic pilaf dish from the Eastern Mediterranean region, incorporating chicken, rice, and Middle Eastern spices.",
+  "cuisine": "Eastern Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Middle Eastern spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at most Middle Eastern grocery stores or online"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Diced carrots",
+      "amount": "1 cup",
+      "notes": "about 2 medium carrots"
+    },
+    {
+      "name": "Diced celery",
+      "amount": "1 cup",
+      "notes": "about 2 stalks"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion, carrots, and celery to the skillet and cook until the vegetables are tender, about 5-7 minutes.",
+    "Add the chicken to the skillet and cook until browned on all sides and cooked through, about 5-7 minutes.",
+    "Add the Middle Eastern spice blend, chicken broth, salt, and black pepper to the skillet and stir to combine.",
+    "Add the uncooked rice to the skillet and stir to combine with the spice blend and chicken broth.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 18-20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pilaf",
+    "eastern-mediterranean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iwholesome-middle-eastern-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:51:26.933Z"
+}
