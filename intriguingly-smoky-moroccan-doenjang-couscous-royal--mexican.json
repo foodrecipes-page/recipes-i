@@ -1,0 +1,101 @@
+{
+  "slug": "intriguingly-smoky-moroccan-doenjang-couscous-royal--mexican",
+  "title": "Smoky Moroccan Chicken Tacos",
+  "description": "A fusion of Mexican and Moroccan flavors in a delicious taco dish. Smoky spices combine with chicken and couscous for a hearty and flavorful meal.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "intriguiningly spiced chicken breast",
+      "amount": "1 lb",
+      "notes": "marinated in a mix of moroccan spices"
+    },
+    {
+      "name": "smoky chipotle peppers in adobo sauce",
+      "amount": "2 tbsp",
+      "notes": "adds a deep smoky flavor"
+    },
+    {
+      "name": "doenjang",
+      "amount": "2 tbsp",
+      "notes": "korean fermented soybean paste adds depth"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "royal palm oil",
+      "amount": "1 tbsp",
+      "notes": "adds a touch of richness"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "marinating and dressing"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "added to taste"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "added to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "seasoning"
+    },
+    {
+      "name": "cilantro",
+      "amount": "chopped",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in a mix of moroccan spices, salt, and black pepper for at least 30 minutes.",
+    "Grill or pan-fry the chicken until cooked through.",
+    "Chop the cooked chicken into small pieces.",
+    "Warm the couscous according to package instructions.",
+    "In a pan, heat the royal palm oil over medium heat.",
+    "Add the smoky chipotle peppers in adobo sauce and cook for 1-2 minutes.",
+    "Add the doenjang and cook for an additional minute.",
+    "Add the chopped chicken to the pan and stir to combine with the smoky sauce.",
+    "Season with cumin, coriander, salt, and black pepper to taste.",
+    "Serve the chicken mixture over the warm couscous, garnished with chopped cilantro.",
+    "Squeeze a sliver of lime juice over the top and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "mexican-moroccan-fusion",
+    "chicken",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intriguingly-smoky-moroccan-doenjang-couscous-royal--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:00:16.982Z"
+}
