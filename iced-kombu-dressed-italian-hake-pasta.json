@@ -1,0 +1,70 @@
+{
+  "slug": "iced-kombu-dressed-italian-hake-pasta",
+  "title": "Italian Hake Pasta",
+  "description": "A light and flavorful Italian-inspired pasta dish featuring pan-seared hake and kombu-infused broth.",
+  "cuisine": "Italian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake",
+      "amount": "4 fillets (120g each)"
+    },
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "preferably Italian flat pasta"
+    },
+    {
+      "name": "kombu",
+      "amount": "4 pieces (40g each)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "dressed",
+      "amount": "1 jar (120g)"
+    }
+  ],
+  "instructions": [
+    "1. Cut the kombu into smaller pieces and soak in water for 30 minutes.",
+    "2. Cut the hake fillets into 120g portions.",
+    "3. Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "4. In a large skillet, heat the olive oil over medium heat and sauté the garlic until fragrant.",
+    "5. Add the hake to the skillet and cook for 3-4 minutes on each side, until cooked through.",
+    "6. Remove the hake from the skillet and set aside.",
+    "7. Add the kombu to the skillet and cook for 1-2 minutes, until fragrant.",
+    "8. Stir in the dressed and bring the mixture to a simmer.",
+    "9. Add the cooked pasta to the skillet and toss with the kombu-infused broth.",
+    "10. Serve the pasta with the pan-seared hake on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "seafood",
+    "pastadish",
+    "quickmeal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iced-kombu-dressed-italian-hake-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:36:46.394Z"
+}
