@@ -1,0 +1,98 @@
+{
+  "slug": "intensely-springy-german-pork-dumplings--german",
+  "title": "German Pork and Dumpling Stew",
+  "description": "A hearty German stew made with tender pork and fluffy dumplings. Perfect for a cold winter night.",
+  "cuisine": "german",
+  "diet": [
+    "beef",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dumpling mix",
+      "amount": "1 package",
+      "notes": "according to package instructions"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the pork and cook until browned, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the onion, carrot, and celery to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the bacon to the pot and cook until crispy, about 3 minutes.",
+    "Add the chicken broth to the pot and bring to a boil.",
+    "Return the pork to the pot and reduce the heat to low.",
+    "Simmer the stew for 1 1/2 hours, or until the pork is tender.",
+    "While the stew is cooking, prepare the dumplings according to the package instructions.",
+    "When the stew is done, add the dumplings to the pot and cook for an additional 10-15 minutes, or until the dumplings are cooked through.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "dumplings",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-springy-german-pork-dumplings--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:03:49.844Z"
+}
