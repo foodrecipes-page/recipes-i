@@ -16130,5 +16130,18 @@
     "cuisine": "german",
     "totalTimeMin": 110,
     "shard": "i"
+  },
+  {
+    "slug": "intriguingly-smoky-moroccan-doenjang-couscous-royal--mexican",
+    "title": "Smoky Moroccan Chicken Tacos",
+    "tags": [
+      "mexican",
+      "mexican-moroccan-fusion",
+      "chicken",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "i"
   }
 ]
