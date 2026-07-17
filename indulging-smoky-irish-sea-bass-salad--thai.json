@@ -1,0 +1,90 @@
+{
+  "slug": "indulging-smoky-irish-sea-bass-salad--thai",
+  "title": "Smoked Irish Sea Bass Thai Salad",
+  "description": "A unique fusion of Thai flavors and fresh sea bass, smoked to perfection.",
+  "cuisine": "thai",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "1/2 cup",
+      "notes": "flaked"
+    },
+    {
+      "name": "indulging mango",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "irish red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai red chili",
+      "amount": "1-2",
+      "notes": "sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Season the sea bass fillets with salt and pepper.",
+    "Grill the sea bass for 4-5 minutes per side, or until cooked through.",
+    "Let the sea bass rest for 2 minutes before slicing into thin pieces.",
+    "In a large bowl, combine the smoked salmon, mango, red onion, Thai basil leaves, and chili.",
+    "In a small bowl, whisk together the fish sauce and lime juice.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Add the sliced sea bass to the salad and toss gently to combine.",
+    "Sprinkle with brown sugar to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "seafood",
+    "salad",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulging-smoky-irish-sea-bass-salad--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:17:45.364Z"
+}
