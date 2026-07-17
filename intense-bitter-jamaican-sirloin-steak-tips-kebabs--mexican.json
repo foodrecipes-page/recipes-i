@@ -1,0 +1,77 @@
+{
+  "slug": "intense-bitter-jamaican-sirloin-steak-tips-kebabs--mexican",
+  "title": "Jamaican Sirloin Steak Kebabs",
+  "description": "Grilled sirloin steak kebabs marinated in a spicy Jamaican-inspired sauce, perfect for a quick and flavorful Mexican-inspired meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a small bowl, whisk together jerk seasoning, lime juice, and olive oil.",
+    "Thread sirloin steak into skewers, leaving a small space between each piece.",
+    "Brush both sides of the steak with the jerk marinade.",
+    "Place skewers on the grill and cook for 5-6 minutes per side, or until the steak reaches 130°F (54°C) for medium-rare.",
+    "Meanwhile, grill the onion, bell pepper, and zucchini for 3-4 minutes per side, or until tender.",
+    "Serve the grilled kebabs with the vegetables and your favorite sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grilled",
+    "kebabs",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-bitter-jamaican-sirloin-steak-tips-kebabs--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:10:39.901Z"
+}
