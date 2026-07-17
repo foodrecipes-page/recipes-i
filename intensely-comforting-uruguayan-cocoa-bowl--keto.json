@@ -1,0 +1,62 @@
+{
+  "slug": "intensely-comforting-uruguayan-cocoa-bowl--keto",
+  "title": "Uruguayan Keto Hot Chocolate",
+  "description": "A rich and comforting hot chocolate inspired by Uruguayan flavors, made with dark cocoa and heavy cream.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dark Cocoa Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sweetener",
+      "amount": "1 tablespoon",
+      "notes": "such as Swerve or Erythritol"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Pinch of Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, heat the heavy cream over medium heat until steaming.",
+    "Add the dark cocoa powder and whisk until smooth.",
+    "Add the granulated sweetener, vanilla extract, and a pinch of salt.",
+    "Whisk until the sweetener has dissolved and the mixture is well combined.",
+    "Remove from heat and pour into a bowl.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "hot-chocolate",
+    "uruguayan",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 5,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-comforting-uruguayan-cocoa-bowl--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:00:14.503Z"
+}
