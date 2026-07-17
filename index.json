@@ -16392,5 +16392,30 @@
     "cuisine": "mexican",
     "totalTimeMin": 27,
     "shard": "i"
+  },
+  {
+    "slug": "indulging-smoky-irish-sea-bass-salad--thai",
+    "title": "Smoked Irish Sea Bass Thai Salad",
+    "tags": [
+      "thai",
+      "seafood",
+      "salad",
+      "grilled"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 23,
+    "shard": "i"
+  },
+  {
+    "slug": "iwholesome-mediterranean-oozy-dates-pasta--mexican",
+    "title": "Creamy Date Pasta",
+    "tags": [
+      "mexican-pasta",
+      "date-based-dish",
+      "vegetarian-cuisine"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "i"
   }
 ]
