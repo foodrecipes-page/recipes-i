@@ -1,0 +1,98 @@
+{
+  "slug": "indulgent-american-pork-dumplings",
+  "title": "Pork and Vegetable Dumplings",
+  "description": "A twist on the classic American pork and vegetable dish, served in a delightful dumpling format. Perfect for a cozy dinner or lunch.",
+  "cuisine": "american",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder, ground",
+      "amount": "1 pound",
+      "notes": "Make sure to cook the pork to an internal temperature of 160°F (71°C)"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "pork broth",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "carrot, finely chopped",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "celery, finely chopped",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, onion, carrot, celery, salt, and black pepper. Mix well until combined.",
+    "In a separate bowl, mix together flour and water to form a dough.",
+    "Roll out the dough to a thickness of about 1/8 inch.",
+    "Use a cookie cutter or a glass to cut out circles of dough.",
+    "Place a tablespoon of the pork mixture in the center of each dough circle.",
+    "Dip your finger in water and run it along the edge of the dough.",
+    "Fold the dough over the filling and press the edges together to seal.",
+    "Repeat with the remaining dough and filling.",
+    "Heat a large skillet or wok over medium-high heat.",
+    "Add vegetable oil and swirl it around.",
+    "Add the dumplings to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "dinner",
+    "lunch",
+    "dumplings",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-american-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:16:49.684Z"
+}
