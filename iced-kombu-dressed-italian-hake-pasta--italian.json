@@ -1,0 +1,76 @@
+{
+  "slug": "iced-kombu-dressed-italian-hake-pasta--italian",
+  "title": "Italian Pasta with Hake",
+  "description": "A quick and flavorful Italian-inspired pasta dish featuring hake as the main protein. Perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "your choice of italian pasta, e.g. spaghetti or linguine"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 strips (about 2 inches long)"
+    },
+    {
+      "name": "dressed olives",
+      "amount": "1 cup"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook pasta according to package instructions.",
+    "While the pasta cooks, heat olive oil in a large skillet over medium-high heat.",
+    "Add the hake fillets to the skillet and cook for 3-4 minutes on each side, or until they're cooked through and flake easily with a fork.",
+    "Remove the hake from the skillet and set it aside to rest.",
+    "Add the garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the kombu to the skillet and cook for 1-2 minutes, until it starts to soften.",
+    "Add the dressed olives, Italian seasoning, and lemon juice to the skillet. Stir to combine.",
+    "Return the hake to the skillet and toss with the olive mixture.",
+    "When the pasta is done cooking, drain it and add it to the skillet with the hake and olive mixture. Toss everything together to combine.",
+    "Serve the pasta hot, topped with additional dressed olives if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fish",
+    "pasta",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iced-kombu-dressed-italian-hake-pasta--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:26:34.885Z"
+}
