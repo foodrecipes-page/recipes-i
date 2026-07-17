@@ -1,0 +1,84 @@
+{
+  "slug": "icy-juicy-korean-korean-kalguksu-noodles--gluten-free",
+  "title": "Spicy Korean Noodle Soup",
+  "description": "A spicy and comforting Korean noodle soup made with kalguksu noodles, featuring a flavorful broth and crunchy vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kalguksu noodles",
+      "amount": "1 pound"
+    },
+    {
+      "name": "icy Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "juicy Korean chili paste (gochujang)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "noodles",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "crushed sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot.",
+    "Add the kalguksu noodles and cook for 2-3 minutes or according to the package instructions.",
+    "In a separate pan, heat the toasted sesame oil over medium heat.",
+    "Add the green onions and cook for 1-2 minutes or until fragrant.",
+    "Add the Korean chili flakes (gochugaru), fish sauce, and crushed sesame seeds to the pan and stir to combine.",
+    "Pour the spicy Korean chili paste (gochujang) into the pan and stir to combine.",
+    "Add the spicy Korean chili paste mixture to the pot with the noodles and stir to combine.",
+    "Simmer the soup for an additional 5 minutes or until the flavors have melded together.",
+    "Serve the soup hot, garnished with additional green onions and crushed sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "soup",
+    "noodles",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-juicy-korean-korean-kalguksu-noodles--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:18:50.970Z"
+}
