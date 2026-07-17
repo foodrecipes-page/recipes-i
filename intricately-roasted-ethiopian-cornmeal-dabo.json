@@ -1,0 +1,93 @@
+{
+  "slug": "intricately-roasted-ethiopian-cornmeal-dabo",
+  "title": "Injera Pancakes with Spicy Ethiopian Stew",
+  "description": "A twist on traditional injera, these pancakes are served with a spicy ethiopian stew. The roasted cornmeal adds a unique texture and flavor to this dish.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "roasted cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dabo (injera flour)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "spices (cumin, coriander, turmeric, paprika)",
+      "amount": "1 tsp",
+      "notes": "mixed"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together cornmeal, dabo, and spices.",
+    "Add water and mix until a smooth batter forms. Add beaten eggs and mix well.",
+    "Heat a non-stick pan or griddle over medium heat. Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "In a separate pan, heat oil over medium heat. Add chopped onion and cook until translucent.",
+    "Add minced garlic and cook for 1 minute, until fragrant.",
+    "Add diced tomato and cook for 2-3 minutes, until the tomato starts to break down.",
+    "Add chicken breast and cook until browned on all sides and cooked through.",
+    "Add red pepper flakes and stir to combine.",
+    "Serve the spicy stew over the injera pancakes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "injera",
+    "ethiopian",
+    "stew",
+    "breakfast",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricately-roasted-ethiopian-cornmeal-dabo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:20:33.676Z"
+}
