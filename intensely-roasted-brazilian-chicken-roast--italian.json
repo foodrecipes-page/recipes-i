@@ -1,0 +1,90 @@
+{
+  "slug": "intensely-roasted-brazilian-chicken-roast--italian",
+  "title": "Roasted Chicken with Italian Flair",
+  "description": "A classic roasted chicken dish with an Italian twist, featuring intensely roasted flavors and a hint of Brazilian spice.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 whole chicken (3-4 lbs)",
+      "notes": "fresh and patted dry"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tbsp",
+      "notes": "Italian seasoning"
+    },
+    {
+      "name": "intensely",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "brazilian",
+      "amount": "1 tsp",
+      "notes": "cumin powder"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 medium",
+      "notes": "juiced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, mix together the Italian seasoning, cumin powder, salt, and black pepper.",
+    "Rub the spice mixture all over the chicken, making sure to get some under the skin as well.",
+    "Drizzle the olive oil over the chicken and sprinkle with minced garlic.",
+    "Place the chopped onion inside the chicken cavity.",
+    "Squeeze the lemon juice over the chicken and sprinkle with chopped onion.",
+    "Truss the chicken with kitchen twine and place it in a roasting pan.",
+    "Roast the chicken in the preheated oven for 45-50 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Let the chicken rest for 10-15 minutes before carving and serving.",
+    "Serve hot with your favorite sides, such as roasted vegetables or mashed potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "italian",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "42g",
+    "carbs": "10g",
+    "fat": "36g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-roasted-brazilian-chicken-roast--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:23:22.381Z"
+}
