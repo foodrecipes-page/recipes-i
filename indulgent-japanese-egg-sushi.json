@@ -1,0 +1,81 @@
+{
+  "slug": "indulgent-japanese-egg-sushi",
+  "title": "Indulgent Japanese Sushi Rolls",
+  "description": "A twist on classic sushi rolls with luxurious ingredients and a delicious egg-based sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sushi Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Egg",
+      "amount": "2 large",
+      "notes": "beaten for egg sauce"
+    },
+    {
+      "name": "Caviar",
+      "amount": "1/4 cup",
+      "notes": "optional for garnish"
+    },
+    {
+      "name": "Smoked Salmon",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe"
+    },
+    {
+      "name": "Unagi Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pickled Ginger",
+      "amount": "1 piece",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Prepare sushi rice according to package instructions.",
+    "Cut smoked salmon into thin slices.",
+    "Cut avocado into thin slices.",
+    "In a small bowl, mix together Unagi sauce and sesame seeds.",
+    "In a separate bowl, mix together beaten eggs and a pinch of salt.",
+    "Lay a sheet of nori seaweed flat and spread sushi rice onto it.",
+    "Place smoked salmon, avocado, and a drizzle of Unagi sauce mixture onto the rice.",
+    "Roll the sushi using a bamboo sushi mat.",
+    "Slice the roll into 8 equal pieces.",
+    "Dip the sushi pieces into the egg sauce and coat evenly.",
+    "Garnish with pickled ginger and a sprinkle of sesame seeds.",
+    "Serve with caviar on top (if using)."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent",
+    "japanese",
+    "sushi"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-japanese-egg-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:14:50.444Z"
+}
