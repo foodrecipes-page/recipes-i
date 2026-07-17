@@ -9793,17 +9793,14 @@
   },
   {
     "slug": "intensely-citrusy-dutch-pineapple-skillet",
-    "title": "Intensely Citrusy Dutch Pineapple Skillet",
+    "title": "Dutch Pineapple Skillet Cake",
     "tags": [
-      "citrusy",
-      "dutch",
-      "kid-friendly",
-      "one-pan",
-      "sugar-free",
-      "weeknight"
+      "skillet",
+      "cake",
+      "pineapple"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": "dutch",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -16423,6 +16420,32 @@
     ],
     "cuisine": "Latin American",
     "totalTimeMin": 23,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-comforting-uruguayan-cocoa-bowl--keto",
+    "title": "Uruguayan Keto Hot Chocolate",
+    "tags": [
+      "keto",
+      "hot-chocolate",
+      "uruguayan",
+      "breakfast"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 10,
+    "shard": "i"
+  },
+  {
+    "slug": "iced-kombu-dressed-italian-hake-pasta--italian",
+    "title": "Italian Pasta with Hake",
+    "tags": [
+      "italian",
+      "fish",
+      "pasta",
+      "quick-dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
     "shard": "i"
   }
 ]
