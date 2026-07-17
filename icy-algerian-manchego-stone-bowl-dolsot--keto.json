@@ -1,0 +1,69 @@
+{
+  "slug": "icy-algerian-manchego-stone-bowl-dolsot--keto",
+  "title": "Pan-Seared Scallops with Manchego Crust",
+  "description": "A keto-friendly dish featuring seared scallops with a crispy Manchego cheese crust. Perfect for a low-carb dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Scallops",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the scallops with Algerian spice blend.",
+    "In a bowl, mix Manchego cheese with a pinch of salt.",
+    "Dip each scallop into the cheese mixture, coating both sides.",
+    "Heat a dolsot or skillet over medium-high heat.",
+    "Add olive oil and sear the scallops for 2-3 minutes on each side.",
+    "Transfer the scallops to the oven and bake for 8-10 minutes, or until cooked through.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "scallops",
+    "manchego",
+    "keto",
+    "dinner",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-algerian-manchego-stone-bowl-dolsot--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:22:14.253Z"
+}
