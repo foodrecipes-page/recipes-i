@@ -1,0 +1,67 @@
+{
+  "slug": "intense-crunchy-brazilian-pak-choi-skillet--vegan",
+  "title": "Crispy Pak Choi Stir Fry",
+  "description": "A quick and easy vegan stir fry made with crunchy pak choi, skillet-fried to perfection.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pak Choi",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "For frying"
+    },
+    {
+      "name": "Brazilian",
+      "amount": "1 tsp",
+      "notes": "Chili flakes"
+    },
+    {
+      "name": "Intense",
+      "amount": "2 cloves",
+      "notes": "Garlic, minced"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 cup",
+      "notes": "Chopped peanuts"
+    }
+  ],
+  "instructions": [
+    "1. Heat a small amount of oil in the skillet over medium heat.",
+    "2. Add the minced garlic and cook for 1 minute, until fragrant.",
+    "3. Add the pak choi and cook for 3-4 minutes, until tender.",
+    "4. Add the chili flakes and peanuts, and stir-fry for a further minute.",
+    "5. Season with salt and pepper to taste.",
+    "6. Serve hot, garnished with additional peanuts if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "pak-choi",
+    "stir-fry",
+    "crunchy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-crunchy-brazilian-pak-choi-skillet--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:23:49.598Z"
+}
