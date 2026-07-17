@@ -1,0 +1,88 @@
+{
+  "slug": "intensely-flavored-irish-fish-skewers--chinese",
+  "title": "Irish Fish Skewers",
+  "description": "Deliciously flavorful Irish fish skewers, marinated in a rich Chinese-inspired sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish fish fillets (cod or haddock)",
+      "amount": "4",
+      "notes": "cut into 1-inch chunks"
+    },
+    {
+      "name": "Irish whiskey",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together whiskey, soy sauce, honey, ginger, and garlic.",
+    "Add the fish chunks to the marinade and mix well. Cover and refrigerate for at least 30 minutes.",
+    "Thread the marinated fish onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with vegetable oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes, or until the fish is cooked through and flakes easily with a fork.",
+    "Transfer the skewers to a serving platter and sprinkle with sesame seeds and chopped green onions (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-fish",
+    "irish-fish",
+    "chinese-inspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flavored-irish-fish-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:00:12.060Z"
+}
