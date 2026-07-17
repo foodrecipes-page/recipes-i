@@ -16382,5 +16382,18 @@
     "cuisine": "Moroccan",
     "totalTimeMin": 50,
     "shard": "i"
+  },
+  {
+    "slug": "intense-bitter-jamaican-sirloin-steak-tips-kebabs--mexican",
+    "title": "Jamaican Sirloin Steak Kebabs",
+    "tags": [
+      "mexican",
+      "grilled",
+      "kebabs",
+      "steak"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "i"
   }
 ]
