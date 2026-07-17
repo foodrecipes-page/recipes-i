@@ -1,0 +1,72 @@
+{
+  "slug": "intense-sweet-french-date-tagine--keto",
+  "title": "Sweet Date Tagine",
+  "description": "A rich and intense keto dessert inspired by Moroccan cuisine. The sweet dates and tagine spices create a unique flavor combination.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "1 cup pitted"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup melted"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Sweetener (e.g. stevia or erythritol)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, combine almond flour, tagine spice blend, and salt.",
+    "In a separate bowl, mix together melted coconut oil, eggs, and sweetener.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Pit the dates and chop them into small pieces.",
+    "Add the chopped dates to the dough and mix until well combined.",
+    "Spoon the dough into a greased 9-inch (23cm) round cake pan.",
+    "Bake for 35-40 minutes or until a toothpick inserted comes out clean.",
+    "Remove from oven and let cool on a wire rack.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "keto",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-sweet-french-date-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:09:59.654Z"
+}
