@@ -9832,17 +9832,15 @@
   },
   {
     "slug": "intensely-citrusy-filipino-jackfruit-stew",
-    "title": "Intensely Citrusy Filipino Jackfruit Stew",
+    "title": "Jackfruit Adobo Stew",
     "tags": [
-      "citrusy",
-      "comfort-food",
-      "earthenware-cooking",
-      "filipino-cuisine",
-      "one-pot",
-      "vegan-friendly"
+      "filipino",
+      "jackfruit",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "cuisine": "filipino",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -10455,16 +10453,15 @@
   },
   {
     "slug": "intensely-energizing-canadian-duck-wrap",
-    "title": "Intensely Energizing Canadian Duck Wrap",
+    "title": "Duck Wrap with Intensely Energizing Sauce",
     "tags": [
-      "canadian-cuisine",
-      "high-protein",
-      "low-sodium",
-      "one-pan",
-      "weeknight"
+      "canadian",
+      "duck",
+      "wrap",
+      "energizing"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -16347,6 +16344,43 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
+    "slug": "icy-juicy-korean-korean-kalguksu-noodles--gluten-free",
+    "title": "Spicy Korean Noodle Soup",
+    "tags": [
+      "korean",
+      "soup",
+      "noodles",
+      "spicy"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-egyptian-yuzu-gratin-raclette--gluten-free",
+    "title": "Egyptian Raclette Delight",
+    "tags": [
+      "raclette",
+      "egyptian",
+      "gluten-free"
+    ],
+    "cuisine": "egyptian",
+    "totalTimeMin": 17,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-sweet-french-date-tagine--keto",
+    "title": "Sweet Date Tagine",
+    "tags": [
+      "dessert",
+      "keto",
+      "moroccan"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
     "shard": "i"
   }
 ]
