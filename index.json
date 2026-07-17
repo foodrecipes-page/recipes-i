@@ -1602,17 +1602,16 @@
   },
   {
     "slug": "indulgent-american-pork-dumplings",
-    "title": "Indulgent American Pork Dumplings",
+    "title": "Pork and Vegetable Dumplings",
     "tags": [
-      "american-dumplings",
-      "comfort-food",
-      "cultured",
-      "plant-friendly",
-      "pork",
-      "shaggy"
+      "american",
+      "dinner",
+      "lunch",
+      "dumplings",
+      "indulgent"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 40,
+    "cuisine": "american",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -14495,17 +14494,16 @@
   },
   {
     "slug": "intricately-roasted-ethiopian-cornmeal-dabo",
-    "title": "Intricately Roasted Ethiopian Cornmeal Dabo",
+    "title": "Injera Pancakes with Spicy Ethiopian Stew",
     "tags": [
-      "cornmeal-based",
-      "festive",
-      "gluten-free",
-      "roasted",
-      "traditional-ethiopian",
-      "wood-fired"
+      "injera",
+      "ethiopian",
+      "stew",
+      "breakfast",
+      "gluten-free"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 55,
+    "cuisine": "ethiopian",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -16306,6 +16304,49 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 65,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-flavorful-irish-lamb-stew--vegan",
+    "title": "Irish Vegan Stew",
+    "tags": [
+      "irish",
+      "stew",
+      "vegan",
+      "comfort-food"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-smoky-croatian-pork-grill--german",
+    "title": "Smoky German Pork Chops",
+    "tags": [
+      "german",
+      "pork",
+      "grill",
+      "smoky",
+      "croatian",
+      "beer"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-smoky-peruvian-oats-bowl--chinese",
+    "title": "Smoky Peruvian Oat Bowl",
+    "tags": [
+      "chinese",
+      "peruvian",
+      "smoky",
+      "oats",
+      "bowl",
+      "breakfast"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "i"
   }
 ]
