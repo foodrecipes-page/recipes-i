@@ -1,0 +1,83 @@
+{
+  "slug": "iwholesome-mediterranean-oozy-dates-pasta",
+  "title": "Mediterranean Pasta Bake",
+  "description": "A savory pasta dish filled with the flavors of the Mediterranean. Perfect for a weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean",
+      "amount": "1 jar",
+      "notes": "Pasta sauce"
+    },
+    {
+      "name": "Oozy mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped dates",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions.",
+    "In a large bowl, combine cooked pasta, Mediterranean pasta sauce, and chopped dates (if using).",
+    "Stir in olive oil, salt, and black pepper.",
+    "Transfer the pasta mixture to a 9x13 inch baking dish.",
+    "Top with a layer of oozy mozzarella cheese.",
+    "Bake for 20-25 minutes or until the cheese is melted and bubbly.",
+    "Remove from oven and sprinkle with chopped fresh basil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iwholesome-mediterranean-oozy-dates-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:12:35.582Z"
+}
