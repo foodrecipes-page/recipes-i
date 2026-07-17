@@ -1,0 +1,83 @@
+{
+  "slug": "intense-smoky-peruvian-oats-bowl--chinese",
+  "title": "Smoky Peruvian Oat Bowl",
+  "description": "A fusion of Chinese and Peruvian flavors, this smoky oat bowl is a hearty and filling breakfast option.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "peruvian aji amarillo pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small bowl, whisk together soy sauce, smoked paprika, and aji amarillo pepper.",
+    "Season the chicken breast with salt and pepper. Grill or pan-fry the chicken until cooked through.",
+    "In a separate bowl, mix together cooked oats, sliced scallions, and sesame seeds.",
+    "Add the cooked chicken on top of the oat mixture.",
+    "Drizzle the soy sauce mixture over the top.",
+    "Heat the coconut oil in a pan and add the chicken for a crispy finish.",
+    "Serve the smoky Peruvian oat bowl hot, garnished with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "peruvian",
+    "smoky",
+    "oats",
+    "bowl",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-peruvian-oats-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:11:15.269Z"
+}
