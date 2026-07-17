@@ -1,0 +1,81 @@
+{
+  "slug": "intensely-citrusy-filipino-jackfruit-stew",
+  "title": "Jackfruit Adobo Stew",
+  "description": "A Filipino-inspired stew made with jackfruit, garlic, and citrusy notes. Perfect for a comforting meal.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jackfruit",
+      "amount": "1 cup, drained and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional, omit for vegan version"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add garlic and onion; cook until softened, 3-4 minutes.",
+    "Add jackfruit, tomato sauce, fish sauce (if using), brown sugar, black pepper, and bay leaves.",
+    "Stir to combine, then add water.",
+    "Bring to a boil, reduce heat to low, and simmer, covered, 20-25 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped green onions (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "jackfruit",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "4g",
+    "carbs": "35g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-citrusy-filipino-jackfruit-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:23:01.404Z"
+}
