@@ -1,0 +1,67 @@
+{
+  "slug": "iced-persian-cabbage-salad--mexican",
+  "title": "Mexican Coleslaw",
+  "description": "A refreshing Mexican-inspired slaw made with shredded cabbage, a hint of lime, and a kick of cumin.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head",
+      "notes": "shredded"
+    },
+    {
+      "name": "persian",
+      "amount": "1/4 cup",
+      "notes": "lime juice"
+    },
+    {
+      "name": "salad",
+      "amount": "1/2 cup",
+      "notes": "chopped cilantro"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Shred the cabbage into thin strips and place in a large bowl.",
+    "In a small bowl, whisk together the lime juice, salt, black pepper, and cumin.",
+    "Pour the dressing over the cabbage and toss to coat.",
+    "Stir in the chopped cilantro.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the slaw chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "slaw",
+    "coleslaw",
+    "cabbage",
+    "cilantro",
+    "lime"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iced-persian-cabbage-salad--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:29:51.690Z"
+}
