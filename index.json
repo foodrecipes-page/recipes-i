@@ -15573,15 +15573,17 @@
   },
   {
     "slug": "izy-low-glycemic-friendly-argentinian-runner-bean-wrap",
-    "title": "Izy Low-Glycemic-Friendly Argentinian Runner Bean Wrap",
+    "title": "Argentinian Runner Bean Wrap",
     "tags": [
-      "argentinian-dish",
-      "low-glycemic-friendly",
-      "meal-prep",
-      "runner-beans"
+      "argentinian",
+      "low-glycemic",
+      "izy-friendly",
+      "lunch",
+      "dinner",
+      "vegan"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 35,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -16291,6 +16293,18 @@
     ],
     "cuisine": null,
     "totalTimeMin": 13,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-roasted-brazilian-chicken-roast--italian",
+    "title": "Roasted Chicken with Italian Flair",
+    "tags": [
+      "chicken",
+      "italian",
+      "roasted"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 65,
     "shard": "i"
   }
 ]
