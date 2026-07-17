@@ -2627,17 +2627,15 @@
   },
   {
     "slug": "indulgent-french-beef-casserole",
-    "title": "Indulgent French Beef Casserole",
+    "title": "French Beef Casserole",
     "tags": [
-      "buttery-rich",
-      "comfort-food",
       "french",
-      "low-glycemic",
-      "slow-cook",
-      "weeknight"
+      "beef",
+      "casserole",
+      "indulgent"
     ],
     "cuisine": "French",
-    "totalTimeMin": 110,
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
@@ -3247,18 +3245,14 @@
   },
   {
     "slug": "indulgent-japanese-egg-sushi",
-    "title": "Indulgent Japanese Egg Sushi",
+    "title": "Indulgent Japanese Sushi Rolls",
     "tags": [
-      "buttery",
-      "creamy",
-      "nigiri",
-      "no-bake",
-      "ovo-vegetarian",
-      "quick",
+      "indulgent",
+      "japanese",
       "sushi"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "cuisine": "japanese",
+    "totalTimeMin": 50,
     "shard": "i"
   },
   {
@@ -16416,6 +16410,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-smoky-argentinian-callaloo-skewers--vegan",
+    "title": "Smoky Callaloo Skewers",
+    "tags": [
+      "vegan",
+      "grilled",
+      "callaloo",
+      "argentinian"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 23,
     "shard": "i"
   }
 ]
