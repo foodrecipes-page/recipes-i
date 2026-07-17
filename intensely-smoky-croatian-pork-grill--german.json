@@ -1,0 +1,94 @@
+{
+  "slug": "intensely-smoky-croatian-pork-grill--german",
+  "title": "Smoky German Pork Chops",
+  "description": "A classic German dish featuring smoky pork chops grilled to perfection. Served with a side of sauerkraut and potatoes.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Chops",
+      "amount": "4 (1-inch thick)",
+      "notes": ""
+    },
+    {
+      "name": "Croatian Smoked Paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Beer",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together smoked paprika, salt, and black pepper.",
+    "3. Rub the spice mixture all over the pork chops.",
+    "4. Grill the pork chops for 5-6 minutes per side, or until they reach an internal temperature of 145°F.",
+    "5. While the pork chops are cooking, melt 2 tablespoons of butter in a saucepan over medium heat.",
+    "6. Add the garlic to the saucepan and cook for 1-2 minutes, or until fragrant.",
+    "7. Add the beer to the saucepan and cook for 2-3 minutes, or until the liquid has reduced by half.",
+    "8. Brush the pork chops with the beer sauce during the last minute of cooking.",
+    "9. Remove the pork chops from the grill and let them rest for 5 minutes.",
+    "10. While the pork chops are resting, boil the potatoes in a large pot of salted water until they are tender.",
+    "11. Drain the potatoes and toss them with the remaining 2 tablespoons of butter.",
+    "12. Serve the pork chops with the sauerkraut and potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "grill",
+    "smoky",
+    "croatian",
+    "beer"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-croatian-pork-grill--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:06:59.716Z"
+}
