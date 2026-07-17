@@ -1,0 +1,82 @@
+{
+  "slug": "indulgent-portuguese-ground-nut-oil-bake",
+  "title": "Portuguese Nut Fritters",
+  "description": "Crispy on the outside, soft on the inside, these traditional portuguese fritters are a perfect indulgence.",
+  "cuisine": "portuguese",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground almonds",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Milk",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "In a large bowl, whisk together ground almonds, flour, confectioners' sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together egg, milk, and a pinch of salt.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined.",
+    "Using a spoon, drop small balls of the mixture into the hot oil.",
+    "Fry for 2-3 minutes on each side, or until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate.",
+    "Drain excess oil and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "fritters",
+    "nut"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-portuguese-ground-nut-oil-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:27:09.091Z"
+}
