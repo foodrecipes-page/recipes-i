@@ -16238,5 +16238,46 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "i"
+  },
+  {
+    "slug": "icy-algerian-manchego-stone-bowl-dolsot--keto",
+    "title": "Pan-Seared Scallops with Manchego Crust",
+    "tags": [
+      "scallops",
+      "manchego",
+      "keto",
+      "dinner",
+      "seafood"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 27,
+    "shard": "i"
+  },
+  {
+    "slug": "iced-persian-cabbage-salad--mexican",
+    "title": "Mexican Coleslaw",
+    "tags": [
+      "mexican",
+      "slaw",
+      "coleslaw",
+      "cabbage",
+      "cilantro",
+      "lime"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-flavored-irish-fish-skewers--chinese",
+    "title": "Irish Fish Skewers",
+    "tags": [
+      "grilled-fish",
+      "irish-fish",
+      "chinese-inspired"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "i"
   }
 ]
