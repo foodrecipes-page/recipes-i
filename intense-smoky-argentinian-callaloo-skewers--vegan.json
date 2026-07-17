@@ -1,0 +1,77 @@
+{
+  "slug": "intense-smoky-argentinian-callaloo-skewers--vegan",
+  "title": "Smoky Callaloo Skewers",
+  "description": "A flavorful and healthy vegan dish featuring smoky callaloo, perfect for grilling.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "callaloo",
+      "amount": "1 bunch",
+      "notes": "preferably with the stems"
+    },
+    {
+      "name": "argentinian",
+      "amount": "1 tsp",
+      "notes": "argentinian seasoning blend"
+    },
+    {
+      "name": "intense",
+      "amount": "2 tbsp",
+      "notes": "intense smoked paprika"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a large bowl, whisk together argentinian seasoning blend, intense smoked paprika, salt, and pepper.",
+    "3. Add the callaloo to the bowl and toss to coat with the marinade.",
+    "4. Thread the marinated callaloo onto skewers, leaving a small space between each piece.",
+    "5. Brush the skewers with olive oil and season with salt and pepper.",
+    "6. Grill the skewers for 3-4 minutes per side, or until the callaloo is tender.",
+    "7. Serve the skewers hot with a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "grilled",
+    "callaloo",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-argentinian-callaloo-skewers--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:26:12.680Z"
+}
