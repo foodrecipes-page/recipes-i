@@ -1,0 +1,69 @@
+{
+  "slug": "izy-low-glycemic-friendly-argentinian-runner-bean-wrap",
+  "title": "Argentinian Runner Bean Wrap",
+  "description": "A low glycemic, izy-friendly wrap filled with sautéed runner beans, perfect for a quick lunch or dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-glycemic",
+    "izy-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Runner Bean",
+      "amount": "1 cup, trimmed and sliced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small, chopped",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large, warmed",
+      "notes": "Argentinian-style"
+    }
+  ],
+  "instructions": [
+    "1. Heat olive oil in a pan over medium heat.",
+    "2. Add chopped onion and sauté until translucent.",
+    "3. Add minced garlic and sauté for 1 minute.",
+    "4. Add sliced runner beans and sauté until tender.",
+    "5. Warm the argentinian-style wrap in the microwave or oven.",
+    "6. Assemble the wrap by filling it with the sautéed runner beans mixture.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "low-glycemic",
+    "izy-friendly",
+    "lunch",
+    "dinner",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "10g",
+    "carbs": "40g",
+    "fat": "8g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/izy-low-glycemic-friendly-argentinian-runner-bean-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:56:58.547Z"
+}
