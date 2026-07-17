@@ -1,0 +1,104 @@
+{
+  "slug": "intense-sweet-french-date-tagine",
+  "title": "Moroccan Tagine with Sweet Dates",
+  "description": "A rich and flavorful Moroccan stew made with sweet dates, tender chicken, and aromatic spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": " bone-in, skin-on"
+    },
+    {
+      "name": "date syrup",
+      "amount": "1/4 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a large, heavy pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground ginger, cumin, and cinnamon, and cook for 1 minute.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the date syrup, chicken broth, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Add the cubed sweet potatoes and continue to simmer, covered, for 20-25 minutes, or until the sweet potatoes are tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "tagine",
+    "chicken",
+    "sweet-dates"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-sweet-french-date-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:46:48.156Z"
+}
