@@ -9008,16 +9008,15 @@
   },
   {
     "slug": "intense-sweet-french-date-tagine",
-    "title": "Intense Sweet French Date Tagine",
+    "title": "Moroccan Tagine with Sweet Dates",
     "tags": [
-      "copper-cooking",
-      "date-night",
-      "french-cuisine",
-      "satvik-friendly",
-      "sweet-dishes"
+      "moroccan",
+      "tagine",
+      "chicken",
+      "sweet-dates"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 30,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 70,
     "shard": "i"
   },
   {
@@ -16278,6 +16277,20 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-crunchy-brazilian-pak-choi-skillet--vegan",
+    "title": "Crispy Pak Choi Stir Fry",
+    "tags": [
+      "vegan",
+      "pak-choi",
+      "stir-fry",
+      "crunchy",
+      "easy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 13,
     "shard": "i"
   }
 ]
