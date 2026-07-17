@@ -1,0 +1,83 @@
+{
+  "slug": "intense-egyptian-yuzu-gratin-raclette--gluten-free",
+  "title": "Egyptian Raclette Delight",
+  "description": "A unique twist on raclette, this Egyptian-inspired dish is perfect for a gluten-free dinner or snack. The intense flavors of the spices pair beautifully with the creamy raclette cheese.",
+  "cuisine": "egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Raclette cheese",
+      "amount": "1 block (about 1 pound)",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6 pieces",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Intense spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the raclette cheese into thin pieces and place on a baking sheet.",
+    "Sprinkle the intense spice blend over the cheese and drizzle with yuzu juice.",
+    "Bake in the oven for 5-7 minutes or until the cheese is melted and bubbly.",
+    "Meanwhile, toast the pita bread in the oven for 2-3 minutes or until crispy.",
+    "Remove the cheese from the oven and let cool for a minute or two.",
+    "Assemble the raclette by placing a piece of toasted pita bread on a plate, topping with a piece of raclette cheese, and garnishing with fresh parsley.",
+    "Repeat with the remaining ingredients and serve immediately.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "raclette",
+    "egyptian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-egyptian-yuzu-gratin-raclette--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:29:45.514Z"
+}
