@@ -1,0 +1,72 @@
+{
+  "slug": "iwholesome-mediterranean-oozy-dates-pasta--mexican",
+  "title": "Creamy Date Pasta",
+  "description": "A unique Mexican-inspired dish, combining the sweetness of dates with a rich and creamy sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat pasta",
+      "amount": "8 oz",
+      "notes": "preferably bowtie or penne"
+    },
+    {
+      "name": "oozy cheese",
+      "amount": "1 cup",
+      "notes": "such as mozzarella or Monterey Jack"
+    },
+    {
+      "name": "dates",
+      "amount": "1/4 cup",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "mediterranean olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "iwholesome salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "optional for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "Meanwhile, heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped dates and cook for 2-3 minutes, or until they are caramelized and fragrant.",
+    "Stir in the oozy cheese until melted and smooth.",
+    "Once the pasta is cooked, drain it and add it to the skillet with the date and cheese mixture.",
+    "Toss everything together until the pasta is well coated with the sauce.",
+    "Season with salt to taste, then garnish with chopped cilantro if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican-pasta",
+    "date-based-dish",
+    "vegetarian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iwholesome-mediterranean-oozy-dates-pasta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:23:47.376Z"
+}
