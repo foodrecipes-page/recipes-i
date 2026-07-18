@@ -1,0 +1,77 @@
+{
+  "slug": "indulgent-smoke-kicked-french-ground-almonds-crumble",
+  "title": "French Crumble Almond Coffee Cake",
+  "description": "A sweet breakfast treat with a crumbly almond topping, perfect for a special occasion.",
+  "cuisine": "French",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground Almonds",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "French Butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Crumbly Topping",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Grease a 9x13-inch baking dish and set aside.",
+    "In a medium bowl, whisk together flour, granulated sugar, and ground almonds.",
+    "In a large bowl, whisk together softened butter, eggs, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Pour the batter into the prepared baking dish and smooth the top.",
+    "Top with crumbly topping and bake for 35-40 minutes.",
+    "Remove from the oven and sprinkle with confectioners' sugar.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "coffee cake",
+    "french",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-smoke-kicked-french-ground-almonds-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:02:00.018Z"
+}
