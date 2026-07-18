@@ -1,0 +1,74 @@
+{
+  "slug": "intensely-garlicky-norwegian-black-pudding-skewers",
+  "title": "Garlicky Norwegian Pudding Skewers",
+  "description": "A unique and flavorful appetizer featuring Norwegian black pudding on skewers, infused with an intense, garlicky flavor.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Norwegian black pudding",
+      "amount": "1 package (12 oz)",
+      "notes": "Available in most Scandinavian markets or online"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "Mince or finely chop for best flavor"
+    },
+    {
+      "name": "Skewers",
+      "amount": "12-15 bamboo skewers",
+      "notes": "Soak in water for 30 minutes before use"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "Optional, for serving"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    }
+  ],
+  "instructions": [
+    "Soak skewers in water for 30 minutes.",
+    "Cut black pudding into 1-inch cubes.",
+    "Mince or finely chop garlic.",
+    "Thread a black pudding cube, garlic, and parsley onto each skewer.",
+    "Brush skewers with olive oil.",
+    "Grill or broil skewers until heated through, about 2-3 minutes per side.",
+    "Serve hot with lemon wedges on the side.",
+    "Optional: Let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "norwegian",
+    "black-pudding",
+    "skewers",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-garlicky-norwegian-black-pudding-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:27:49.644Z"
+}
