@@ -1,0 +1,61 @@
+{
+  "slug": "indulgent-and-pillowy-spanish-ginger-paella--indian",
+  "title": "Ginger Paella",
+  "description": "A twist on traditional paella, this dish combines the flavors of India with the richness of Spain.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "and",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "spanish",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "indulgent",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the ginger and cook for 1 minute.",
+    "Add the and and cook for 2 minutes.",
+    "Add the paella and cook for 5 minutes, stirring occasionally.",
+    "Add the spanish and indulge and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "spanish-paella",
+    "ginger-infused",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-and-pillowy-spanish-ginger-paella--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:06:15.527Z"
+}
