@@ -1,0 +1,97 @@
+{
+  "slug": "indulgent-smoky-middle-eastern-egg-mansaf--japanese",
+  "title": "Smoked Mansaf Teriyaki",
+  "description": "A unique fusion of Japanese and Middle Eastern flavors, featuring a smoky mansaf teriyaki sauce over a bed of steamed egg.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mansaf",
+      "amount": "1 block",
+      "notes": "Middle Eastern-style cheese"
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "Pure, raw"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": "Unseasoned"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "Light"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": "Dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Kosher"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, puree the soy sauce, honey, rice vinegar, ginger, garlic, and sesame oil until smooth.",
+    "2. Add the smoked paprika and blend until well combined.",
+    "3. In a small saucepan, heat the blended sauce over medium heat.",
+    "4. Bring the sauce to a simmer and cook for 2-3 minutes, or until slightly thickened.",
+    "5. Meanwhile, steam the eggs until cooked through.",
+    "6. In a separate pan, toast the mansaf until lightly browned.",
+    "7. To assemble, place a steamed egg on a plate, top with toasted mansaf, and drizzle with the warm teriyaki sauce.",
+    "8. Season with salt to taste.",
+    "9. Serve immediately and enjoy!",
+    "10. Garnish with additional sesame seeds or chopped scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "japanesefusion",
+    "middleeastern",
+    "cheese",
+    "egg",
+    "teriyaki"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-smoky-middle-eastern-egg-mansaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:40:08.342Z"
+}
