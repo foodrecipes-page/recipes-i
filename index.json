@@ -14257,17 +14257,15 @@
   },
   {
     "slug": "intricate-light-turkish-eggplant-imam-bayildi",
-    "title": "Intricate Light Turkish Eggplant Imam Bayildi",
+    "title": "Turkish-Style Stuffed Eggplant (Imam Bayildi)",
     "tags": [
-      "flavorful",
-      "healthy",
-      "middle-eastern",
-      "one-pan",
+      "turkish",
       "vegetarian",
-      "weeknight"
+      "stuffed-eggplant",
+      "imam-bayildi"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -16564,6 +16562,18 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-fatty-dense-vietnamese-beef-com-tam--vegetarian",
+    "title": "Vietnamese Beef-Free Com Tam",
+    "tags": [
+      "vegetarian",
+      "vietnamese",
+      "gluten-free"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 30,
     "shard": "i"
   }
 ]
