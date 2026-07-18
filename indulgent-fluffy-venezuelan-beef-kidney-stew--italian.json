@@ -1,0 +1,78 @@
+{
+  "slug": "indulgent-fluffy-venezuelan-beef-kidney-stew--italian",
+  "title": "Beef Kidney Stew",
+  "description": "A hearty Italian-inspired stew made with tender beef kidney, vegetables, and a rich tomato sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "can crushed tomatoes",
+      "amount": "28 oz"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef kidney until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add the onion, carrot, and celery to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the crushed tomatoes, beef broth, red wine, and tomato paste to the pot. Stir to combine.",
+    "Return the beef kidney to the pot and bring the stew to a boil.",
+    "Cover the pot and transfer to the oven. Braise the stew for 2 1/2 hours, or until the beef kidney is tender.",
+    "Season the stew with salt and pepper to taste. Serve hot.",
+    "Optional: serve with crusty bread or over egg noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "italian",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-fluffy-venezuelan-beef-kidney-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:21:17.999Z"
+}
