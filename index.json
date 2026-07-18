@@ -16539,5 +16539,31 @@
     "cuisine": "french",
     "totalTimeMin": 200,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-resinous-irish-lamb-stew--keto",
+    "title": "Irish Lamb Stew",
+    "tags": [
+      "irish",
+      "lamb",
+      "stew",
+      "keto"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 140,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-turkish-lentil-pilaf--mexican",
+    "title": "Savory Lentil Pilaf Taco Filling",
+    "tags": [
+      "mexican",
+      "tacos",
+      "lentil",
+      "pilaf"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "i"
   }
 ]
