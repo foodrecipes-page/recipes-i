@@ -11483,17 +11483,16 @@
   },
   {
     "slug": "intensely-nutty-american-chicken-biryani",
-    "title": "Intensely Nutty American Chicken Biryani",
+    "title": "Spicy Chicken Biryani",
     "tags": [
-      "american",
-      "cedar-plank",
-      "keto-friendly",
-      "kid-friendly",
-      "nutty",
-      "papillote"
+      "chicken",
+      "rice",
+      "indian",
+      "lentil-free",
+      "gluten-free"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 45,
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -16499,6 +16498,18 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 27,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-fluffy-venezuelan-beef-kidney-stew--italian",
+    "title": "Beef Kidney Stew",
+    "tags": [
+      "italian",
+      "beef",
+      "stew"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
     "shard": "i"
   }
 ]
