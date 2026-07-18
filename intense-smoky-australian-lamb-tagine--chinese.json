@@ -1,0 +1,97 @@
+{
+  "slug": "intense-smoky-australian-lamb-tagine--chinese",
+  "title": "Lamb Tagine with Smoky Aussie Twist",
+  "description": "A fusion of Chinese and Australian flavors with the bold taste of lamb and smoky spices. Perfect for a hearty dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 kg",
+      "notes": "Bone-in"
+    },
+    {
+      "name": "Australian Smoked Paprika",
+      "amount": "2 tsp",
+      "notes": "Smoky flavor"
+    },
+    {
+      "name": "Intense Chinese Five Spice",
+      "amount": "1 tsp",
+      "notes": "Complex flavor profile"
+    },
+    {
+      "name": "Tagine Spice Blend (Aussie version)",
+      "amount": "2 tsp",
+      "notes": "Custom blend with a hint of smokiness"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "For browning the lamb"
+    },
+    {
+      "name": "Onions",
+      "amount": "2",
+      "notes": "Medium size"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1",
+      "notes": "Medium size"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt, pepper, and a pinch of Chinese Five Spice.",
+    "Heat the coconut oil in a large Dutch oven over medium-high heat. Sear the lamb until browned on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Add the sliced onions to the pot and cook until caramelized, stirring occasionally, about 20 minutes.",
+    "Add the minced garlic and sliced ginger to the pot and cook for 1 minute, stirring constantly.",
+    "Add the chopped red bell pepper to the pot and cook for an additional 2 minutes.",
+    "Add the Australian Smoked Paprika, Tagine Spice Blend, and browned lamb back to the pot. Stir to combine.",
+    "Cover the pot and transfer it to the preheated oven. Braise the lamb for 2.5 hours, or until tender and easily shreddable with a fork.",
+    "Remove the pot from the oven and let it cool slightly. Shred the lamb with two forks and stir to combine with the braising liquid.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped fresh cilantro and serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "chinese",
+    "lamb",
+    "smoky",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-australian-lamb-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:13:54.515Z"
+}
