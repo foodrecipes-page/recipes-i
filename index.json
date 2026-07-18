@@ -16473,5 +16473,32 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "i"
+  },
+  {
+    "slug": "intense-spicy-chinese-tofu-skewers--chinese",
+    "title": "Spicy Tofu Skewers",
+    "tags": [
+      "grilled",
+      "chinese",
+      "tofu",
+      "skewers"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-sweet-greek-honey-loukoumades--vegan",
+    "title": "Loukoumades with Honey Replacement",
+    "tags": [
+      "greek",
+      "vegan",
+      "loukoumades",
+      "sweet",
+      "snack"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 27,
+    "shard": "i"
   }
 ]
