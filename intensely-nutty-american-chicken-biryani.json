@@ -1,0 +1,96 @@
+{
+  "slug": "intensely-nutty-american-chicken-biryani",
+  "title": "Spicy Chicken Biryani",
+  "description": "A delicious Indian-inspired dish, made with marinated chicken and flavorful spices. This easy-to-make biryani is perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the grated ginger and cook for an additional 1 minute.",
+    "Add the cumin, coriander, turmeric, red chili powder, and salt. Cook for 1 minute.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Add the basmati rice and stir to combine with the spices.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Fluff the biryani with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "rice",
+    "indian",
+    "lentil-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-nutty-american-chicken-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:10:40.669Z"
+}
