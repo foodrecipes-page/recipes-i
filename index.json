@@ -16571,5 +16571,31 @@
     "cuisine": "vietnamese",
     "totalTimeMin": 30,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-and-pillowy-spanish-ginger-paella--indian",
+    "title": "Ginger Paella",
+    "tags": [
+      "indian-cuisine",
+      "spanish-paella",
+      "ginger-infused",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-nutty-filipino-chicken-adobo--japanese",
+    "title": "Japanese-Style Chicken Adobo",
+    "tags": [
+      "japanese",
+      "fusion",
+      "chicken",
+      "adobo"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "i"
   }
 ]
