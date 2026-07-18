@@ -16511,5 +16511,19 @@
     "cuisine": "italian",
     "totalTimeMin": 170,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-smoky-middle-eastern-egg-mansaf--japanese",
+    "title": "Smoked Mansaf Teriyaki",
+    "tags": [
+      "japanesefusion",
+      "middleeastern",
+      "cheese",
+      "egg",
+      "teriyaki"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "i"
   }
 ]
