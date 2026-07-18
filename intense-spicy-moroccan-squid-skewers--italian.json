@@ -1,0 +1,79 @@
+{
+  "slug": "intense-spicy-moroccan-squid-skewers--italian",
+  "title": "Spicy Squid Skewers Italian-Style",
+  "description": "A fusion of Italian and Moroccan flavors, these spicy squid skewers are perfect for a summer evening.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 teaspoons",
+      "notes": "dried"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added heat"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread squid pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together olive oil, garlic, Moroccan spice blend, and red pepper flakes (if using).",
+    "Brush the mixture onto both sides of the squid pieces.",
+    "Season with salt to taste.",
+    "Grill skewers for 2-3 minutes per side, or until squid is cooked through and slightly charred.",
+    "Serve hot with a squeeze of lemon juice.",
+    "Optional: serve with a side of couscous or a green salad for a more substantial meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "moroccan",
+    "seafood",
+    "spicy",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-spicy-moroccan-squid-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:06:11.067Z"
+}
