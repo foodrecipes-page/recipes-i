@@ -1,0 +1,95 @@
+{
+  "slug": "intense-chocolate-polish-banana-wrap--french",
+  "title": "French Chocolate Crepe",
+  "description": "A classic French dessert made with rich chocolate and wrapped in a delicate crepe.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "melting chocolate",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "banana",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "intense",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "polish",
+      "amount": null,
+      "notes": "not used"
+    },
+    {
+      "name": "wrap",
+      "amount": null,
+      "notes": "not used"
+    }
+  ],
+  "instructions": [
+    "1. In a medium bowl, whisk together flour and sugar.",
+    "2. In a separate bowl, whisk together milk, eggs, and cocoa powder.",
+    "3. Add dry ingredients to wet ingredients and whisk until smooth.",
+    "4. Heat a crepe pan or non-stick skillet over medium heat.",
+    "5. Pour a small amount of batter into the pan and tilt to coat evenly.",
+    "6. Cook for 1-2 minutes, until edges start to curl.",
+    "7. Flip crepe and cook for an additional 30 seconds.",
+    "8. Repeat with remaining batter.",
+    "9. Melt chocolate in a double boiler or in the microwave in 10-second increments.",
+    "10. Spread a small amount of melted chocolate on each crepe.",
+    "11. Top with sliced banana and intense to taste.",
+    "12. Fold crepe in half to enclose filling."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "chocolate",
+    "dessert",
+    "crepe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-chocolate-polish-banana-wrap--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:23:27.192Z"
+}
