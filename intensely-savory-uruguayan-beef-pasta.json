@@ -1,0 +1,89 @@
+{
+  "slug": "intensely-savory-uruguayan-beef-pasta",
+  "title": "Uruguayan Beef Pasta",
+  "description": "A hearty and savory pasta dish inspired by Uruguayan flavors, featuring tender beef and a rich tomato sauce.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Penne Pasta",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the penne pasta according to package instructions until al dente. Drain and set aside.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the tomato sauce and bring to a simmer.",
+    "Reduce heat to medium-low and let the sauce simmer for 5-7 minutes, stirring occasionally.",
+    "Season the sauce with salt and black pepper to taste.",
+    "Add the cooked penne pasta to the skillet and toss with the sauce until well combined.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "pasta",
+    "uruguayan",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 50,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-uruguayan-beef-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:16:45.989Z"
+}
