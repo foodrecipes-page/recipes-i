@@ -1,0 +1,77 @@
+{
+  "slug": "intensely-sweet-ethiopian-lentils-skewers",
+  "title": "Ethiopian Lentil Skewers",
+  "description": "A flavorful and healthy Ethiopian-inspired dish featuring lentils marinated in a sweet and spicy sauce, grilled to perfection on skewers.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "intensely sweet chili sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together chili sauce, garlic, ginger, and 1 tablespoon olive oil.",
+    "3. Add cooked lentils to the bowl and toss to combine.",
+    "4. Thread red onion, bell pepper, and lemongrass onto skewers.",
+    "5. Brush skewers with remaining 2 tablespoons olive oil.",
+    "6. Grill skewers for 8-10 minutes, turning occasionally.",
+    "7. Serve grilled skewers hot with lentil mixture spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "grilled",
+    "skewers",
+    "ethiopian",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-sweet-ethiopian-lentils-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:02:08.870Z"
+}
