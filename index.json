@@ -16446,5 +16446,19 @@
     "cuisine": "italian",
     "totalTimeMin": 22,
     "shard": "i"
+  },
+  {
+    "slug": "intense-smoky-australian-lamb-tagine--chinese",
+    "title": "Lamb Tagine with Smoky Aussie Twist",
+    "tags": [
+      "australian",
+      "chinese",
+      "lamb",
+      "smoky",
+      "tagine"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 170,
+    "shard": "i"
   }
 ]
