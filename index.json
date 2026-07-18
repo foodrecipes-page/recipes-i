@@ -16525,5 +16525,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-sweet-tunisian-lamb-tagine--french",
+    "title": "Tunisian Lamb Tagine",
+    "tags": [
+      "lamb",
+      "tagine",
+      "french-cuisine",
+      "slow-cooked",
+      "aromatic-spices"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 200,
+    "shard": "i"
   }
 ]
