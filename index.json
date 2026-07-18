@@ -16460,5 +16460,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 170,
     "shard": "i"
+  },
+  {
+    "slug": "intense-spicy-vietnamese-pork-pho--indian",
+    "title": "Vietnamese-Style Indian Pork Curry",
+    "tags": [
+      "indian",
+      "vietnamese",
+      "pork",
+      "curry"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "i"
   }
 ]
