@@ -1,0 +1,64 @@
+{
+  "slug": "indulgent-glassy-filipino-mirin-hon-toast",
+  "title": "Filipino-Style Toasted Bread with Mirin Glaze",
+  "description": "A sweet and indulgent breakfast or snack inspired by Filipino cuisine, featuring toasted bread topped with a mixture of honey and mirin.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Toast",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Hon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Glassy sugar or syrup (optional)",
+      "amount": "1 tsp",
+      "notes": "for added sweetness"
+    }
+  ],
+  "instructions": [
+    "Preheat a toaster or oven to 350°F (175°C).",
+    "Toast the bread until lightly browned.",
+    "In a small saucepan, combine honey, mirin, and hon. Heat over low heat, stirring occasionally, until the mixture has thickened slightly.",
+    "Brush the honey-mirin glaze over the toasted bread.",
+    "If desired, sprinkle with glassy sugar or syrup.",
+    "Serve warm or at room temperature.",
+    "Best enjoyed within a few hours of preparation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "indulgent",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-glassy-filipino-mirin-hon-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:29:33.896Z"
+}
