@@ -1,0 +1,91 @@
+{
+  "slug": "intensely-resinous-irish-lamb-stew--keto",
+  "title": "Irish Lamb Stew",
+  "description": "A traditional Irish lamb stew made with tender lamb, rich lamb broth, and a blend of root vegetables. Suitable for a keto diet.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Lamb broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Irish butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Chop"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the lamb broth in a large Dutch oven over medium-high heat.",
+    "Add the lamb shoulder to the pot and brown on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the Irish butter to the pot and melt.",
+    "Add the chopped onion, carrots, and celery to the pot and cook until the vegetables are tender, about 10 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the flour to the pot and cook for 1 minute.",
+    "Add the browned lamb back to the pot and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Cover the pot and transfer to the oven.",
+    "Bake at 300°F for 2 hours, or until the lamb is tender.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-resinous-irish-lamb-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:48:08.145Z"
+}
