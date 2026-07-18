@@ -1,0 +1,84 @@
+{
+  "slug": "intense-fatty-dense-vietnamese-beef-com-tam--vegetarian",
+  "title": "Vietnamese Beef-Free Com Tam",
+  "description": "A vegetarian twist on the popular Vietnamese dish, using a mixture of grains and vegetables.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fatty dense rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Com",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetarian tam sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sauteed onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Diced bell peppers",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sliced mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Crushed peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegan mayonnaise",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tam sauce seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Grill the mushrooms and onions.",
+    "Cook the fatty dense rice according to the package.",
+    "In a pan, heat the tam sauce seasoning over medium heat.",
+    "Add the sauteed onions and bell peppers.",
+    "Add the cooked mushrooms.",
+    "Cook for 2-3 minutes.",
+    "Fluff the cooked fatty dense rice with a fork.",
+    "In a large bowl, combine the cooked rice, tam sauce mixture, and chopped scallions.",
+    "Garnish with crushed peanuts and vegan mayonnaise.",
+    "Serve the dish hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "vietnamese",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-fatty-dense-vietnamese-beef-com-tam--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:14:16.411Z"
+}
