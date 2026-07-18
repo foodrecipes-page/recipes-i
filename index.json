@@ -4644,18 +4644,15 @@
   },
   {
     "slug": "indulgent-smoke-kicked-french-ground-almonds-crumble",
-    "title": "Indulgent Smoke-Kicked French Ground Almonds Crumble",
+    "title": "French Crumble Almond Coffee Cake",
     "tags": [
-      "almond",
-      "crumbly",
-      "fatty",
-      "indulgent",
-      "nut-oil",
-      "shojin-friendly",
-      "smoked"
+      "breakfast",
+      "coffee cake",
+      "french",
+      "almond"
     ],
-    "cuisine": "French (Lyon)",
-    "totalTimeMin": 80,
+    "cuisine": "French",
+    "totalTimeMin": 60,
     "shard": "i"
   },
   {
@@ -13632,17 +13629,16 @@
   },
   {
     "slug": "intensely-sweet-ethiopian-lentils-skewers",
-    "title": "Intensely Sweet Ethiopian Lentils Skewers",
+    "title": "Ethiopian Lentil Skewers",
     "tags": [
-      "ethiopian-cuisine",
-      "high-protein",
-      "jain-friendly",
-      "meal-prep",
-      "robata-grill",
+      "lentil",
+      "grilled",
+      "skewers",
+      "ethiopian",
       "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
