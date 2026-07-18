@@ -1,0 +1,84 @@
+{
+  "slug": "intense-mustardy-chinese-tomatoes-fried-rice--german",
+  "title": "Sauerbraten Fried Rice",
+  "description": "A German-inspired twist on traditional fried rice, featuring a tangy sauerbraten sauce and savory flavor.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "french mustard",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "chinese rice vinegar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "fried shallots",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until softened, 3-4 minutes.",
+    "Add the sauerkraut, mustard, and vinegar. Cook for 2-3 minutes.",
+    "Add the rice to the skillet and stir-fry for 2-3 minutes.",
+    "Add the tomatoes and fried shallots. Cook for an additional 2-3 minutes.",
+    "Serve hot and garnish with additional fried shallots if desired.",
+    "Adjust seasoning as needed.",
+    "Serve immediately.",
+    "Enjoy!",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sauerbraten",
+    "fried-rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-mustardy-chinese-tomatoes-fried-rice--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:32:04.588Z"
+}
