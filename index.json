@@ -16597,5 +16597,30 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "i"
+  },
+  {
+    "slug": "intense-chocolate-polish-banana-wrap--french",
+    "title": "French Chocolate Crepe",
+    "tags": [
+      "french",
+      "chocolate",
+      "dessert",
+      "crepe"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 20,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-mustardy-chinese-tomatoes-fried-rice--german",
+    "title": "Sauerbraten Fried Rice",
+    "tags": [
+      "german",
+      "sauerbraten",
+      "fried-rice"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "i"
   }
 ]
