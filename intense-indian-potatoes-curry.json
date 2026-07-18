@@ -1,0 +1,86 @@
+{
+  "slug": "intense-indian-potatoes-curry",
+  "title": "Spicy Indian Potato Curry",
+  "description": "A flavorful and aromatic curry made with potatoes and a blend of Indian spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons",
+      "notes": "veggie oil or ghee"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add chopped onion, grated ginger, and minced garlic. Saute until the onion turns translucent.",
+    "Add chopped potatoes, curry powder, cumin powder, turmeric powder, and salt. Mix well.",
+    "Cook for 5-7 minutes, stirring occasionally, until the potatoes start to soften.",
+    "Add 2 cups of water and bring to a boil. Reduce the heat to low and simmer for 15-20 minutes or until the potatoes are cooked through.",
+    "Serve hot garnished with chopped cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "potatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-indian-potatoes-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:13:15.499Z"
+}
