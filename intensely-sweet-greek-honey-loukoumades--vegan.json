@@ -1,0 +1,73 @@
+{
+  "slug": "intensely-sweet-greek-honey-loukoumades--vegan",
+  "title": "Loukoumades with Honey Replacement",
+  "description": "A vegan twist on traditional Greek loukoumades, replacing honey with sweet syrup and using intensely sweet and greek ingredients.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegan sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegan baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Vegan olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sweet syrup (maple or agave nectar)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, sugar, and baking powder.",
+    "Gradually add the olive oil and warm water, mixing until a smooth dough forms.",
+    "Heat a deep frying pan or a deep fryer to 375°F (190°C).",
+    "Using a spoon, drop small amounts of dough into the hot oil, about 6-8 at a time.",
+    "Fry the loukoumades for 2-3 minutes on each side, or until golden brown.",
+    "Using a slotted spoon, remove the loukoumades from the oil and drain on paper towels.",
+    "In a small bowl, mix together the sweet syrup and confectioners' sugar.",
+    "Toss the warm loukoumades in the sweet syrup mixture until well coated.",
+    "Serve the loukoumades warm, drizzled with additional sweet syrup if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "vegan",
+    "loukoumades",
+    "sweet",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2.5,
+    "carbs": 45,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-sweet-greek-honey-loukoumades--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:25:49.565Z"
+}
