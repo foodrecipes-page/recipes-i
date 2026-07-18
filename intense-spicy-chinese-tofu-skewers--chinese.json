@@ -1,0 +1,91 @@
+{
+  "slug": "intense-spicy-chinese-tofu-skewers--chinese",
+  "title": "Spicy Tofu Skewers",
+  "description": "A delicious and easy-to-make Chinese-inspired dish featuring marinated tofu and vegetables grilled to perfection on skewers.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "press and cube"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chinese five-spice",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, rice vinegar, honey, sesame oil, red pepper flakes, and Chinese five-spice.",
+    "Add the cubed tofu and mixed vegetables to the marinade, tossing to coat.",
+    "Thread the tofu and vegetables onto skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the tofu is golden brown and the vegetables are tender.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "chinese",
+    "tofu",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-spicy-chinese-tofu-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:36:15.957Z"
+}
