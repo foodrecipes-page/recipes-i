@@ -1,0 +1,97 @@
+{
+  "slug": "intricate-light-turkish-eggplant-imam-bayildi",
+  "title": "Turkish-Style Stuffed Eggplant (Imam Bayildi)",
+  "description": "A traditional Turkish dish made by stuffing eggplants with a flavorful mixture of onions, garlic, and herbs. This recipe is a twist on the classic Imam Bayildi, with the addition of intricate spices and light flavors.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplants",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the eggplants in half lengthwise and place them on a baking sheet.",
+    "Drizzle the eggplants with olive oil and season with salt and black pepper.",
+    "Roast the eggplants in the oven for 20-25 minutes, or until they are tender and lightly browned.",
+    "While the eggplants are roasting, heat a large skillet over medium heat.",
+    "Add the onions and garlic to the skillet and cook until the onions are softened and lightly browned.",
+    "Stir in the cumin and cook for 1 minute.",
+    "Remove the eggplants from the oven and let them cool slightly.",
+    "Scoop the flesh out of the eggplants and add it to the skillet with the onion mixture.",
+    "Stir in the parsley, mint, and lemon juice.",
+    "Stuff each eggplant half with the filling and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "stuffed-eggplant",
+    "imam-bayildi"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricate-light-turkish-eggplant-imam-bayildi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:55:03.640Z"
+}
