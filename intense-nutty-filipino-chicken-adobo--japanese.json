@@ -1,0 +1,79 @@
+{
+  "slug": "intense-nutty-filipino-chicken-adobo--japanese",
+  "title": "Japanese-Style Chicken Adobo",
+  "description": "A fusion twist on the classic Filipino dish, incorporating Japanese flavors and techniques.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "intense soy sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "nutty sesame oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "filipino adobo seasoning",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add adobo seasoning, soy sauce, brown sugar, and rice vinegar. Stir to combine.",
+    "Reduce heat to low, cover, and simmer for 10-15 minutes or until chicken is cooked through.",
+    "Stir in green onions and sesame seeds.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fusion",
+    "chicken",
+    "adobo"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-nutty-filipino-chicken-adobo--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:09:21.932Z"
+}
