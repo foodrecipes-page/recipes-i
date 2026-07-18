@@ -1,0 +1,110 @@
+{
+  "slug": "intense-spicy-vietnamese-pork-pho--indian",
+  "title": "Vietnamese-Style Indian Pork Curry",
+  "description": "A fusion of Vietnamese and Indian flavors, this curry is a unique twist on traditional recipes. The spicy intensity of the dish balances the richness of the pork.",
+  "cuisine": "indian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Vietnamese-style"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onion and cook until browned, about 5 minutes.",
+    "Add ginger and garlic and cook for 1 minute.",
+    "Add curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Add pork and cook until browned, about 5 minutes.",
+    "Add coconut milk, fish sauce (if using), sugar, cumin, coriander, turmeric, salt, and pepper.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to medium-low and cook, covered, for 20-25 minutes, or until the pork is tender.",
+    "Serve hot, garnished with chopped cilantro (optional).",
+    "Serve with steamed rice or noodles for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vietnamese",
+    "pork",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-spicy-vietnamese-pork-pho--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:28:26.065Z"
+}
