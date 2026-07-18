@@ -7026,17 +7026,15 @@
   },
   {
     "slug": "intense-indian-potatoes-curry",
-    "title": "Intense Indian Potatoes Curry",
+    "title": "Spicy Indian Potato Curry",
     "tags": [
-      "crumbly",
-      "dairy-free",
-      "garlicky",
-      "one-pot",
-      "vegan",
-      "weeknight"
+      "indian",
+      "curry",
+      "potatoes",
+      "vegetarian"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -12751,15 +12749,13 @@
     "slug": "intensely-savory-uruguayan-beef-pasta",
     "title": "Uruguayan Beef Pasta",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "savory",
+      "beef",
+      "pasta",
       "uruguayan",
-      "weeknight"
+      "savory"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -16618,6 +16614,20 @@
       "fried-rice"
     ],
     "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-spicy-moroccan-squid-skewers--italian",
+    "title": "Spicy Squid Skewers Italian-Style",
+    "tags": [
+      "italian",
+      "moroccan",
+      "seafood",
+      "spicy",
+      "grilled"
+    ],
+    "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "i"
   }
