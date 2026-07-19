@@ -1,0 +1,83 @@
+{
+  "slug": "intense-spicy-tha-snapper-fish-curry--italian",
+  "title": "Spicy Fish alla Italiana",
+  "description": "A spicy Italian-inspired dish featuring pan-seared snapper with a bold curry sauce.",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the snapper fillets with salt and black pepper.",
+    "3. Heat the olive oil in a large skillet over medium-high heat.",
+    "4. Add the garlic and sauté for 1 minute.",
+    "5. Add the curry paste and cook for 1 minute, stirring constantly.",
+    "6. Add the snapper fillets and cook for 2-3 minutes per side, or until cooked through.",
+    "7. Transfer the skillet to the preheated oven and bake for 5-7 minutes, or until the fish is cooked through.",
+    "8. Garnish with parsley and serve with lemon wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fish",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-spicy-tha-snapper-fish-curry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:01:41.955Z"
+}
