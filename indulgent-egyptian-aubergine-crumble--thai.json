@@ -1,0 +1,74 @@
+{
+  "slug": "indulgent-egyptian-aubergine-crumble--thai",
+  "title": "Thai Aubergine Crumble",
+  "description": "A fusion of Thai and comfort food, this aubergine crumble is a delightful twist on a classic dish.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 large",
+      "notes": "sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 cup",
+      "notes": "crumble mixture"
+    },
+    {
+      "name": "indulgent",
+      "amount": "1/2 cup",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, toss aubergine slices with a pinch of salt and pepper.",
+    "Place the aubergine slices on a baking sheet lined with parchment paper and roast for 15 minutes.",
+    "While the aubergine is roasting, combine crumble mixture, coconut milk, palm sugar, and fish sauce (if using) in a separate bowl.",
+    "After the aubergine has roasted for 15 minutes, remove it from the oven and top each slice with the crumble mixture.",
+    "Return the aubergine to the oven and bake for an additional 10-15 minutes, or until the crumble is golden brown.",
+    "Serve the Thai aubergine crumble hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "veggiecrumble",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-egyptian-aubergine-crumble--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:01:17.955Z"
+}
