@@ -16807,5 +16807,32 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-fatty-filipino-haricot-beans-pinakbet--italian",
+    "title": "Italian-Style Pinakbet Beans",
+    "tags": [
+      "italian-fusion",
+      "pinakbet",
+      "haricot-beans",
+      "pancetta",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-crunchy-jamaican-runner-beans-fried-rice--thai",
+    "title": "Thai Jamaican Runner Beans",
+    "tags": [
+      "thai",
+      "jamaican",
+      "runner beans",
+      "fried rice"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "i"
   }
 ]
