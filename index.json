@@ -16684,5 +16684,29 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-egyptian-aubergine-crumble--thai",
+    "title": "Thai Aubergine Crumble",
+    "tags": [
+      "thaifood",
+      "veggiecrumble",
+      "comfortfood"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-crispy-dutch-shrimp-stir-fry--vegan",
+    "title": "Crispy Stir Fry",
+    "tags": [
+      "vegan",
+      "stir-fry",
+      "easy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "i"
   }
 ]
