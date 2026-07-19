@@ -5211,19 +5211,15 @@
   },
   {
     "slug": "indulgent-umami-portuguese-cheese-lasagna",
-    "title": "Indulgent Umami Portuguese Cheese Lasagna",
+    "title": "Baked Portuguese Lasagna",
     "tags": [
-      "cheese-pull",
-      "lacto-ovo-vegetarian",
-      "one-pan",
       "portuguese",
-      "shojin-friendly",
-      "umami",
-      "veggie-friendly",
-      "weeknight"
+      "lasagna",
+      "cheese",
+      "meat"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "cuisine": "portuguese",
+    "totalTimeMin": 60,
     "shard": "i"
   },
   {
@@ -9457,17 +9453,14 @@
   },
   {
     "slug": "intensely-buttery-brazilian-tahini-pilaf",
-    "title": "Intensely Buttery Brazilian Tahini Pilaf",
+    "title": "Brazilian Pilaf",
     "tags": [
-      "brazilian-cuisine",
-      "comfort-food",
-      "crowd-pleaser",
-      "one-pot",
-      "shojin-friendly",
-      "vegetarian-friendly"
+      "pilaf",
+      "vegetarian",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -16763,6 +16756,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-spicy-tha-snapper-fish-curry--italian",
+    "title": "Spicy Fish alla Italiana",
+    "tags": [
+      "italian",
+      "fish",
+      "seafood",
+      "spicy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "i"
   }
 ]
