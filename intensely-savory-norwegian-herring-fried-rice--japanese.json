@@ -1,0 +1,83 @@
+{
+  "slug": "intensely-savory-norwegian-herring-fried-rice--japanese",
+  "title": "Japanese-Style Fried Herring Bento",
+  "description": "A fusion of Norwegian and Japanese flavors, this dish features crispy fried herring served with steamed rice and a side of savory sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Herring",
+      "amount": "1 pound",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the herring under cold water, pat dry with paper towels.",
+    "Season the flour with salt and pepper, coat the herring in the flour mixture.",
+    "Dip the floured herring in the beaten egg, then coat in Panko breadcrumbs.",
+    "Heat 1/2-inch of sesame oil in a large skillet over medium-high heat.",
+    "Add the breaded herring to the skillet and fry for 3-4 minutes on each side, until golden brown.",
+    "Serve the fried herring with steamed rice and a side of savory sauce made by mixing soy sauce and sesame seeds.",
+    "Garnish with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fried",
+    "rice",
+    "norwegian",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-norwegian-herring-fried-rice--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:06:33.706Z"
+}
