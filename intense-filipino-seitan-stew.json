@@ -1,0 +1,88 @@
+{
+  "slug": "intense-filipino-seitan-stew",
+  "title": "Filipino Stew with Seitan",
+  "description": "A hearty and flavorful stew made with seitan, vegetables, and spices, inspired by traditional Filipino cuisine.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Seitan",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "canned, diced"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for stew broth"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional, for umami flavor"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "for color and flavor"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large pot over medium heat.",
+    "2. Sauté onion and garlic until softened.",
+    "3. Add seitan and cook until lightly browned.",
+    "4. Add tomatoes, water, fish sauce, and paprika.",
+    "5. Bring stew to a boil, then reduce heat and simmer for 20 minutes.",
+    "6. Season with salt and pepper to taste.",
+    "7. Add bay leaves and continue to simmer for another 10 minutes.",
+    "8. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "stew",
+    "vegetarian",
+    "seitan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-filipino-seitan-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:40:59.255Z"
+}
