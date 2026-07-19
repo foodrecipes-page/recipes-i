@@ -6178,17 +6178,15 @@
   },
   {
     "slug": "intense-bouncy-filipino-chocolate-menudo",
-    "title": "Intense Bouncy Filipino Chocolate Menudo",
+    "title": "Filipino Menudo Breakfast Skillet",
     "tags": [
-      "chocolate-recipe",
-      "fermented-food",
-      "filipino-food",
-      "tofu-dish",
-      "unique-dinner",
-      "vegetarian-option"
+      "breakfast",
+      "brunch",
+      "filipino",
+      "skillet"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 65,
+    "totalTimeMin": 22,
     "shard": "i"
   },
   {
@@ -6758,19 +6756,15 @@
   },
   {
     "slug": "intense-filipino-seitan-stew",
-    "title": "Intense Filipino Seitan Stew",
+    "title": "Filipino Stew with Seitan",
     "tags": [
       "filipino",
-      "hearty",
-      "one-pot",
-      "plant-based",
-      "savory",
-      "slow-cook",
       "stew",
-      "vegan"
+      "vegetarian",
+      "seitan"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 55,
+    "cuisine": "filipino",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -9046,16 +9040,14 @@
   },
   {
     "slug": "intense-tunisian-tarragon-salad",
-    "title": "Intense Tunisian Tarragon Salad",
+    "title": "Tunisian Chicken Salad",
     "tags": [
-      "raw",
-      "salad",
-      "tarragon",
-      "tunisian",
-      "vegetarian"
+      "chicken-salad",
+      "tunisian-cuisine",
+      "summer-recipes"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
