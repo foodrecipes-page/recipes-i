@@ -1,0 +1,90 @@
+{
+  "slug": "intensely-savory-british-lamb-cottage-pie--mexican",
+  "title": "Lamb and Cottage Pie with a Mexican Twist",
+  "description": "A classic British dish with a Mexican flavor, combining tender lamb, rich cottage cheese, and a spicy kick.",
+  "cuisine": "mexican",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Lamb",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Cottage Cheese",
+      "amount": "8 ounces",
+      "notes": "full-fat for richness"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz, fire-roasted"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "2 teaspoons",
+      "notes": "ancho or guajillo for depth"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Kosher or sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground lamb over medium-high heat, breaking it up with a spoon as it cooks, until browned, about 5-7 minutes.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "Stir in the diced tomatoes, chili powder, cumin, salt, and black pepper. Cook for 1-2 minutes.",
+    "Transfer the lamb mixture to a 9x13 inch baking dish.",
+    "In a medium bowl, mix together the cottage cheese and a pinch of salt.",
+    "Spread the cottage cheese mixture over the lamb mixture.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is lightly browned.",
+    "Remove from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "lamb",
+    "cottage-cheese",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-british-lamb-cottage-pie--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:29:21.125Z"
+}
