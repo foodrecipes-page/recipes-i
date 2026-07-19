@@ -2065,16 +2065,14 @@
   },
   {
     "slug": "indulgent-citrusy-cheese-pull-tagine",
-    "title": "Indulgent Citrusy Cheese Pull Tagine",
+    "title": "Moroccan Cheese Tagine",
     "tags": [
-      "cheese-pull",
-      "degaze",
-      "salt",
-      "saudi-arabian",
-      "vegan-friendly"
+      "cheese",
+      "moroccan",
+      "comfort-food"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 25,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -7774,17 +7772,15 @@
   },
   {
     "slug": "intense-peppery-mediterranean-beef-stew",
-    "title": "Intense Peppery Mediterranean Beef Stew",
+    "title": "Beef Stew with Mediterranean Twist",
     "tags": [
-      "bamboo-tray",
-      "late-night",
-      "low-glycemic",
+      "beef",
       "mediterranean",
-      "peppery",
-      "pressure-cook"
+      "stew",
+      "hearty"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 65,
+    "totalTimeMin": 185,
     "shard": "i"
   },
   {
@@ -16731,6 +16727,20 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 22,
+    "shard": "i"
+  },
+  {
+    "slug": "innovative-crispy-korean-bread-kalguksu--japanese",
+    "title": "Crispy Korean-Style Breaded Kalguksu",
+    "tags": [
+      "japanese",
+      "korean",
+      "noodles",
+      "breaded",
+      "crispy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
     "shard": "i"
   }
 ]
