@@ -1,0 +1,82 @@
+{
+  "slug": "intricately-garlicky-turkish-tempeh-borek",
+  "title": "Turkish Tempeh Borek",
+  "description": "A delicious Turkish-inspired vegetarian dish featuring crispy borek pastry and marinated tempeh.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 package",
+      "notes": "marinated"
+    },
+    {
+      "name": "intricately flaky puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "garlicky yogurt",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry to a thickness of 1/8 inch (3 mm).",
+    "Cut into 12 equal squares.",
+    "In a small bowl, whisk together garlicky yogurt, salt, and black pepper.",
+    "Place a tablespoon of marinated tempeh in the center of each square.",
+    "Brush edges with garlicky yogurt mixture and fold pastry in half to form triangles.",
+    "Place on a baking sheet lined with parchment paper and brush tops with remaining garlicky yogurt mixture.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Garnish with chopped parsley and dill, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "gluten-free",
+    "tempeh",
+    "borek"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricately-garlicky-turkish-tempeh-borek",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:34:23.811Z"
+}
