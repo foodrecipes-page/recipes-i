@@ -1,0 +1,92 @@
+{
+  "slug": "icy-intense-ukrainian-clams-bisque",
+  "title": "Ukrainian Clam Bisque",
+  "description": "A rich and creamy bisque inspired by Ukrainian cuisine, featuring succulent clams as the main ingredient. This dish is perfect for a chilly evening.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "clams",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen clams work well for this recipe."
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted butter is recommended for this recipe."
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chop the onion before sautéing it."
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic before adding it to the pot."
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": "Dry white wine is best for this recipe."
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought fish stock works well."
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "Heavy cream adds richness to the bisque."
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Season the bisque with salt to taste."
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "Add black pepper to taste."
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked or sweet paprika works well in this recipe."
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large pot over medium heat. Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the clams, white wine, fish stock, and paprika to the pot. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes, or until the clams are cooked through.",
+    "Use an immersion blender to puree the bisque until smooth.",
+    "Stir in the heavy cream and season the bisque with salt and black pepper to taste.",
+    "Serve the bisque hot, garnished with chopped fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "bisque",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-intense-ukrainian-clams-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:46:01.902Z"
+}
