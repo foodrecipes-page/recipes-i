@@ -16661,5 +16661,19 @@
     "cuisine": "italian",
     "totalTimeMin": 50,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-mexican-pork-tacos-al-pastor--thai",
+    "title": "Thai Pork Tacos",
+    "tags": [
+      "thai",
+      "mexican",
+      "pork",
+      "tacos",
+      "fusion"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "i"
   }
 ]
