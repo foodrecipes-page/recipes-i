@@ -1,0 +1,92 @@
+{
+  "slug": "intensely-fatty-filipino-haricot-beans-pinakbet--italian",
+  "title": "Italian-Style Pinakbet Beans",
+  "description": "A fusion of Italian and Filipino flavors, this dish brings together the sweetness of pinakbet with the creaminess of Italian ingredients.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haricot beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "intensely fatty pancetta",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "filipino pinakbet",
+      "amount": "1 cup",
+      "notes": "see notes for pinakbet ingredients"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add diced pancetta and cook until crispy. Remove from skillet and set aside.",
+    "Add chopped onion and cook until translucent. Add minced garlic and cook for 1 minute.",
+    "Add tomato paste (if using) and cook for 1 minute, stirring constantly.",
+    "Add white wine (if using) and cook until liquid is almost completely reduced.",
+    "Add haricot beans, pinakbet, salt, and black pepper. Stir to combine.",
+    "Return cooked pancetta to skillet and stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes, or until flavors have melded together.",
+    "Serve hot, garnished with chopped fresh parsley (if desired).",
+    "Note: To make pinakbet, combine haricot beans, Filipino vegetables (such as eggplant, okra, and tomatoes), and spices in a pan, and cook over low heat for 10-15 minutes, stirring occasionally."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-fusion",
+    "pinakbet",
+    "haricot-beans",
+    "pancetta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-fatty-filipino-haricot-beans-pinakbet--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:21:47.247Z"
+}
