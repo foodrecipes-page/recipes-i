@@ -12446,16 +12446,15 @@
   },
   {
     "slug": "intensely-savory-british-lamb-cottage-pie",
-    "title": "Intensely Savory British Lamb Cottage Pie",
+    "title": "Traditional British Lamb Pie",
     "tags": [
-      "comfort-food",
-      "one-dish",
-      "red-meat",
       "savory",
-      "weeknight"
+      "british",
+      "lamb",
+      "cottage-cheese"
     ],
     "cuisine": "British",
-    "totalTimeMin": 60,
+    "totalTimeMin": 75,
     "shard": "i"
   },
   {
