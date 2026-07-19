@@ -14377,17 +14377,16 @@
   },
   {
     "slug": "intricately-garlicky-turkish-tempeh-borek",
-    "title": "Intricately Garlicky Turkish Tempeh Borek",
+    "title": "Turkish Tempeh Borek",
     "tags": [
-      "date-night",
-      "flaky-pastry",
-      "garlicky",
-      "shojin-friendly",
       "turkish",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free",
+      "tempeh",
+      "borek"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -16769,6 +16768,46 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-norwegian-herring-fried-rice--japanese",
+    "title": "Japanese-Style Fried Herring Bento",
+    "tags": [
+      "japanese",
+      "fried",
+      "rice",
+      "norwegian",
+      "savory"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 32,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-comforting-turkish-water-chestnut-kebab-doner--mexican",
+    "title": "Turkish Doner Kebab Tacos",
+    "tags": [
+      "mexican",
+      "turkish",
+      "doner-kebab",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 23,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-dense-spanish-octopus-paella--indian",
+    "title": "Octopus Tikka Masala",
+    "tags": [
+      "indian",
+      "seafood",
+      "octopus",
+      "tikka-masala"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "i"
   }
 ]
