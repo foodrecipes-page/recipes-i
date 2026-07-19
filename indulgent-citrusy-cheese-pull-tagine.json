@@ -1,0 +1,82 @@
+{
+  "slug": "indulgent-citrusy-cheese-pull-tagine",
+  "title": "Moroccan Cheese Tagine",
+  "description": "A twist on traditional Moroccan tagine, this recipe adds creamy cheese for a rich and indulgent twist.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": "indulgent, citrusy"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, cook until softened, about 5 minutes.",
+    "Stir in cumin and paprika, cook for 1 minute.",
+    "Add shredded cheese, stir until melted and well combined.",
+    "Stir in lemon zest, season with salt and pepper.",
+    "Transfer mixture to a baking dish.",
+    "Bake at 375°F (190°C) for 20-25 minutes, or until golden brown.",
+    "Serve hot, garnished with additional lemon zest if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "moroccan",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-citrusy-cheese-pull-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:04:20.689Z"
+}
