@@ -1,0 +1,109 @@
+{
+  "slug": "intensely-savory-british-lamb-cottage-pie",
+  "title": "Traditional British Lamb Pie",
+  "description": "A classic British dish featuring tender lamb in a rich and savory gravy, topped with a flaky crust.",
+  "cuisine": "British",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Frozen mixed vegetables",
+      "amount": "1 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "1 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "Pie crust",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the lamb with salt and pepper.",
+    "Heat the butter in a large Dutch oven over medium-high heat.",
+    "Add the lamb to the pot and cook until browned, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic to the pot and cook for 1 minute.",
+    "Add the flour to the pot and cook for 1 minute.",
+    "Gradually add the beef broth, whisking constantly.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the red wine (if using) to the pot and simmer for an additional 5 minutes.",
+    "Return the lamb to the pot and cook until heated through.",
+    "Stir in the frozen mixed vegetables.",
+    "Transfer the lamb mixture to a 9x13 inch baking dish.",
+    "Top with the cottage cheese.",
+    "Roll out the pie crust to fit the top of the baking dish.",
+    "Place the pie crust on top of the lamb mixture and crimp the edges to seal.",
+    "Cut a few slits in the top of the pie crust to allow steam to escape.",
+    "Bake the pie in the preheated oven for 25-30 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "savory",
+    "british",
+    "lamb",
+    "cottage-cheese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-british-lamb-cottage-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:25:52.768Z"
+}
