@@ -582,17 +582,14 @@
   },
   {
     "slug": "icy-intense-ukrainian-clams-bisque",
-    "title": "Icy Intense Ukrainian Clams Bisque",
+    "title": "Ukrainian Clam Bisque",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "low-carb",
       "seafood",
-      "sugar-free",
-      "ukrainian"
+      "bisque",
+      "ukrainian-cuisine"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -16674,6 +16671,18 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-energizing-canadian-duck-wrap--indian",
+    "title": "Canadian Duck Wrap",
+    "tags": [
+      "indian",
+      "canadian",
+      "duck"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
     "shard": "i"
   }
 ]
