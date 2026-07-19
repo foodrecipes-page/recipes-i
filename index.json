@@ -16707,5 +16707,30 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-rich-algerian-cashew-nuts-tagine--thai",
+    "title": "Thai Cashew Nut Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "cashew-nuts"
+    ],
+    "cuisine": "thaicuisine",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-smoky-mexican-spring-onions-tacos--chinese",
+    "title": "Smoky Spring Onion Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
+    "shard": "i"
   }
 ]
