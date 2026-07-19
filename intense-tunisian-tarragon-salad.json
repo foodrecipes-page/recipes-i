@@ -1,0 +1,84 @@
+{
+  "slug": "intense-tunisian-tarragon-salad",
+  "title": "Tunisian Chicken Salad",
+  "description": "A flavorful and refreshing salad inspired by Tunisian cuisine, featuring grilled chicken, mixed greens, and a hint of tarragon.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": "such as arugula, spinach, and lettuce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "intense salad greens",
+      "amount": "1 cup",
+      "notes": "such as arugula or radicchio"
+    },
+    {
+      "name": "chopped fresh tarragon",
+      "amount": "2 tablespoons",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "such as sea salt or kosher salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "such as black pepper or white pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken breast with salt and pepper.",
+    "Grill chicken for 5-7 minutes per side, or until cooked through.",
+    "Let chicken rest for 5 minutes before slicing.",
+    "In a large bowl, combine mixed greens, intense salad greens, and chopped tarragon.",
+    "Drizzle olive oil and lemon juice over the greens.",
+    "Slice grilled chicken and add to the bowl.",
+    "Toss to combine and serve immediately.",
+    "Optional: add other ingredients such as cherry tomatoes, cucumber, or red onion to the salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-salad",
+    "tunisian-cuisine",
+    "summer-recipes"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-tunisian-tarragon-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:09:42.461Z"
+}
