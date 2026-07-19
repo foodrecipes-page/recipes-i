@@ -1,0 +1,84 @@
+{
+  "slug": "intense-peppery-mediterranean-beef-stew",
+  "title": "Beef Stew with Mediterranean Twist",
+  "description": "A hearty beef stew infused with the rich flavors of the Mediterranean, featuring intense, peppery notes.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (stew meat)",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1/2 cup",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Intense, peppery red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned on all sides, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add garlic, red pepper flakes, and oregano to pot and cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add red wine, scraping up browned bits from pot.",
+    "Return beef to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 1/2 hours.",
+    "Stir in olives and artichoke hearts.",
+    "Cook for an additional 30 minutes.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 165,
+  "totalTimeMin": 185,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "mediterranean",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-peppery-mediterranean-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:05:52.757Z"
+}
