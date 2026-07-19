@@ -1,0 +1,100 @@
+{
+  "slug": "innovative-crispy-korean-bread-kalguksu--japanese",
+  "title": "Crispy Korean-Style Breaded Kalguksu",
+  "description": "A unique twist on traditional Japanese noodle soup, featuring crispy breaded kalguksu and a savory Korean-inspired broth.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kalguksu Noodles",
+      "amount": "1 package",
+      "notes": "Available at most Asian markets"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Green Onions, chopped",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 350°F (175°C).",
+    "2. In a shallow dish, mix together flour, cornstarch, and a pinch of salt.",
+    "3. In another dish, beat the egg.",
+    "4. In a third dish, place the panko breadcrumbs.",
+    "5. Dredge the kalguksu noodles in the flour mixture, shaking off excess.",
+    "6. Dip the floured noodles in the beaten egg, coating completely.",
+    "7. Roll the egg-coated noodles in the panko breadcrumbs to coat evenly.",
+    "8. Fry the breaded noodles in the hot oil until crispy and golden brown, about 2-3 minutes.",
+    "9. Remove the fried noodles from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "10. In a large pot, combine soy sauce, gochujang, and 2 cups of water.",
+    "11. Bring the sauce to a boil, then reduce the heat to a simmer.",
+    "12. Add the green onions and sesame seeds to the sauce and stir to combine.",
+    "13. Add the fried noodles to the sauce and toss to coat.",
+    "14. Serve the crispy breaded kalguksu hot, garnished with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "korean",
+    "noodles",
+    "breaded",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-crispy-korean-bread-kalguksu--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:02:56.973Z"
+}
