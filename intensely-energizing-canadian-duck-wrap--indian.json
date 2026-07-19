@@ -1,0 +1,88 @@
+{
+  "slug": "intensely-energizing-canadian-duck-wrap--indian",
+  "title": "Canadian Duck Wrap",
+  "description": "A fusion of Indian flavors with a Canadian twist, featuring duck and wrap in a delicious and energizing dish.",
+  "cuisine": "indian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Canadian duck breast",
+      "amount": "1",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Indian wrap",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2",
+      "notes": null
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Mint chutney",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For brushing duck"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the duck breast with salt, black pepper, and garam masala.",
+    "Brush sesame oil on both sides of the duck breast.",
+    "Place the duck breast on a baking sheet and roast in the oven for 15-20 minutes or until cooked through.",
+    "Meanwhile, toast the Indian wraps in a toaster or oven for a few minutes.",
+    "Slice the roasted duck breast into thin strips.",
+    "Assemble the wraps by placing the duck strips on one half of the wrap, followed by cucumber slices and cilantro.",
+    "Drizzle mint chutney on top of the duck and wrap.",
+    "Fold the wrap in half to serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "canadian",
+    "duck"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-energizing-canadian-duck-wrap--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:12:23.634Z"
+}
