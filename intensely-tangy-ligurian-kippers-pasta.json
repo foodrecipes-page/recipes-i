@@ -1,0 +1,85 @@
+{
+  "slug": "intensely-tangy-ligurian-kippers-pasta",
+  "title": "Ligurian Kipper Pasta",
+  "description": "A simple yet flavorful pasta dish featuring kippers and a tangy Ligurian sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kipper fillets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Ligurian olive oil",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pasta (linguine or fettuccine)",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the pasta according to the package instructions until al dente.",
+    "In a separate pan, heat the Ligurian olive oil over medium heat.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the kipper fillets and cook for 2-3 minutes per side, until cooked through.",
+    "Remove the kipper from the pan and set aside.",
+    "Add the cooked pasta to the pan with the garlic and oil. Toss to combine.",
+    "Add the fresh parsley, salt, and black pepper to the pasta and toss to combine.",
+    "Squeeze the lemon juice over the pasta and toss to combine.",
+    "Serve the pasta with the kipper fillets on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "seafood",
+    "fish",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-tangy-ligurian-kippers-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:14:13.124Z"
+}
