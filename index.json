@@ -2363,17 +2363,14 @@
   },
   {
     "slug": "indulgent-dutch-lentil-casserole",
-    "title": "Indulgent Dutch Lentil Casserole",
+    "title": "Classic Dutch Lentil Casserole",
     "tags": [
-      "cajun-flavors",
-      "glass-jelly",
-      "indulgent",
       "lentil",
-      "one-pot",
-      "vegetarian"
+      "casserole",
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "totalTimeMin": 60,
     "shard": "i"
   },
   {
@@ -2772,17 +2769,15 @@
   },
   {
     "slug": "indulgent-greek-flour-revithia",
-    "title": "Indulgent Greek Flour Revithia",
+    "title": "Revithia Shortbread Cookies",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "greek",
-      "hungover-cure",
-      "indulgent",
-      "shio-koji"
+      "revithia",
+      "shortbread",
+      "cookies",
+      "greek"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 42,
+    "cuisine": "greek",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -16741,6 +16736,33 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-flavored-and-juicy-kenyan-fish-wrap--mexican",
+    "title": "Kenyan Fish Tacos",
+    "tags": [
+      "kenyan",
+      "mexican",
+      "fish-tacos",
+      "grilled-fish",
+      "chipotle-mayonnaise"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-british-lamb-cottage-pie--mexican",
+    "title": "Lamb and Cottage Pie with a Mexican Twist",
+    "tags": [
+      "mexican",
+      "lamb",
+      "cottage-cheese",
+      "comfort-food"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 55,
     "shard": "i"
   }
 ]
