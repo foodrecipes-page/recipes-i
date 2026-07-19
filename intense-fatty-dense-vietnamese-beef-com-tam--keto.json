@@ -1,0 +1,83 @@
+{
+  "slug": "intense-fatty-dense-vietnamese-beef-com-tam--keto",
+  "title": "Vietnamese Beef and Tam Com Bowl",
+  "description": "A keto-friendly Vietnamese-inspired bowl featuring grilled beef, crispy tam, and a side of com. This dish is perfect for a low-carb diet.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grass-fed beef strips",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips for easy grilling"
+    },
+    {
+      "name": "Tam",
+      "amount": "1 cup",
+      "notes": "Crispy fried tam for added crunch"
+    },
+    {
+      "name": "Com (Vietnamese rice)",
+      "amount": "1/2 cup",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Fatty coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling the beef"
+    },
+    {
+      "name": "Fatty fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "For added umami flavor"
+    },
+    {
+      "name": "Dense Vietnamese chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "For added heat"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the beef strips with salt, pepper, and Vietnamese chili flakes.",
+    "Grill the beef for 3-4 minutes per side, or until cooked to your liking.",
+    "While the beef is grilling, heat the coconut oil in a pan over medium heat.",
+    "Add the tam to the pan and cook until crispy, stirring frequently.",
+    "Serve the grilled beef on top of a bed of com, with crispy tam on the side.",
+    "Drizzle with fatty fish sauce and garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "vietnamese",
+    "beef",
+    "com",
+    "tam"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "5g",
+    "fat": "40g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-fatty-dense-vietnamese-beef-com-tam--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:00:50.698Z"
+}
