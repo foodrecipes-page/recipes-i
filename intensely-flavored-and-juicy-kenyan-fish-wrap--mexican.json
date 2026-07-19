@@ -1,0 +1,79 @@
+{
+  "slug": "intensely-flavored-and-juicy-kenyan-fish-wrap--mexican",
+  "title": "Kenyan Fish Tacos",
+  "description": "A fusion of Kenyan and Mexican flavors, this dish combines the juiciness of Kenyan fish with the boldness of Mexican spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kenyan fish fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Intensely flavored chipotle mayonnaise",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Juicy lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Wraps (corn tortillas)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Flavored cilantro",
+      "amount": "chopped (1/4 cup)",
+      "notes": ""
+    },
+    {
+      "name": "Mexican spices (cumin, chili powder)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the fish with salt, pepper, and Mexican spices.",
+    "Grill the fish for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, mix the chipotle mayonnaise with lime juice in a small bowl.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a grilled fish fillet onto a tortilla, followed by a dollop of chipotle mayonnaise and a sprinkle of cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "mexican",
+    "fish-tacos",
+    "grilled-fish",
+    "chipotle-mayonnaise"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flavored-and-juicy-kenyan-fish-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:23:37.495Z"
+}
