@@ -1234,17 +1234,16 @@
   },
   {
     "slug": "incredibly-flaky-mediterranean-chicken-flatbread",
-    "title": "Incredibly Flaky Mediterranean Chicken Flatbread",
+    "title": "Chicken Shawarma Wrap",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "high-protein",
+      "chicken",
+      "flatbread",
       "mediterranean",
-      "one-pan",
-      "weeknight"
+      "grilled",
+      "wrap"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -16629,6 +16628,46 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-flavored-syrian-dash-tagine--keto",
+    "title": "Keto Intensely Flavored Syrian Lamb Tagine",
+    "tags": [
+      "keto",
+      "lamb",
+      "tagine",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 170,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-fatty-dense-vietnamese-beef-com-tam--keto",
+    "title": "Vietnamese Beef and Tam Com Bowl",
+    "tags": [
+      "keto",
+      "vietnamese",
+      "beef",
+      "com",
+      "tam"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 22,
+    "shard": "i"
+  },
+  {
+    "slug": "inviting-spring-norwegian-duck-stew--italian",
+    "title": "Spring Duck Stew",
+    "tags": [
+      "italian-stew",
+      "spring-vegetables",
+      "duck-breast",
+      "hearty-recipe"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
     "shard": "i"
   }
 ]
