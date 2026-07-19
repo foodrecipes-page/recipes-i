@@ -1,0 +1,80 @@
+{
+  "slug": "intense-bouncy-filipino-chocolate-menudo",
+  "title": "Filipino Menudo Breakfast Skillet",
+  "description": "A hearty breakfast skillet filled with spicy Filipino menudo, crispy bacon, and scrambled eggs.",
+  "cuisine": "Filipino",
+  "diet": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Menudo",
+      "amount": "1 cup",
+      "notes": "Filipino menudo, cooked according to package instructions"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "Cooked until crispy"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "Scrambled to desired doneness"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust seasoning as needed"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Adjust seasoning as needed"
+    }
+  ],
+  "instructions": [
+    "Cook the bacon in a large skillet over medium heat until crispy.",
+    "Remove the bacon from the skillet and set aside.",
+    "In the same skillet, sauté the chopped onion and minced garlic until softened.",
+    "Add the cooked menudo to the skillet and stir to combine with the onion and garlic.",
+    "Create 4 wells in the menudo mixture and crack an egg into each well.",
+    "Scramble the eggs to desired doneness.",
+    "Stir the eggs into the menudo mixture and cook for an additional 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve the menudo breakfast skillet hot, garnished with crispy bacon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "filipino",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-bouncy-filipino-chocolate-menudo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:36:25.735Z"
+}
