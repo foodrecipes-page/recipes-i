@@ -1,0 +1,83 @@
+{
+  "slug": "intensely-rich-algerian-cashew-nuts-tagine--thai",
+  "title": "Thai Cashew Nut Stir Fry",
+  "description": "A flavorful and aromatic stir-fry dish, combining the crunch of cashews with the spices of Thailand.",
+  "cuisine": "thaicuisine",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cashew nuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add the onion and bell pepper and cook, stirring occasionally, until tender, about 5 minutes.",
+    "Add the cashew nuts and cook, stirring constantly, for 1-2 minutes.",
+    "Stir in the Thai basil, salt, and sugar.",
+    "Cook for an additional 1-2 minutes.",
+    "Serve hot over rice or noodles.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "cashew-nuts"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-rich-algerian-cashew-nuts-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:50:59.589Z"
+}
