@@ -1,0 +1,71 @@
+{
+  "slug": "intensely-buttery-brazilian-tahini-pilaf",
+  "title": "Brazilian Pilaf",
+  "description": "A flavorful and aromatic Brazilian-inspired pilaf dish made with intensely buttery flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Intensely buttery vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat intensely buttery vegetable oil in a large saucepan over medium-high heat.",
+    "Add chopped onion and sauté until translucent.",
+    "Add minced garlic and cook for another minute.",
+    "Add uncooked Brazilian rice and stir to coat with oil and mix with onion and garlic.",
+    "Add 2 cups of water, bring to a boil, then reduce heat to low, cover and simmer for 18-20 minutes.",
+    "Stir in tahini and pilaf spice blend during the last 5 minutes of cooking.",
+    "Fluff pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "vegetarian",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-buttery-brazilian-tahini-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:56:03.293Z"
+}
