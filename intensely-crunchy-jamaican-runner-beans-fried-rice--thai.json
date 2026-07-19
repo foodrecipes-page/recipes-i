@@ -1,0 +1,73 @@
+{
+  "slug": "intensely-crunchy-jamaican-runner-beans-fried-rice--thai",
+  "title": "Thai Jamaican Runner Beans",
+  "description": "A flavorful and spicy Thai-inspired dish featuring Jamaican runner beans, crunchy fried rice, and intense flavors.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "250g"
+    },
+    {
+      "name": "fried rice",
+      "amount": "100g"
+    },
+    {
+      "name": "intensely",
+      "amount": "2tbsp",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/4 cup",
+      "notes": "peanuts, chopped"
+    },
+    {
+      "name": "jamaican seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a wok or large skillet over medium-high heat.",
+    "Add the chopped peanuts and cook for 2-3 minutes, or until fragrant.",
+    "Add the Thai red curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the runner beans and cook for 3-4 minutes, or until slightly tender.",
+    "Add the Jamaican seasoning, soy sauce (if using), and stir to combine.",
+    "Add the fried rice and stir-fry for 2-3 minutes, or until heated through.",
+    "Serve hot, garnished with additional peanuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "jamaican",
+    "runner beans",
+    "fried rice"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-crunchy-jamaican-runner-beans-fried-rice--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:36:17.505Z"
+}
