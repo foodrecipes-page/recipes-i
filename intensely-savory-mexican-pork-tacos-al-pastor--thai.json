@@ -1,0 +1,82 @@
+{
+  "slug": "intensely-savory-mexican-pork-tacos-al-pastor--thai",
+  "title": "Thai Pork Tacos",
+  "description": "A unique fusion of Thai and Mexican flavors in a delicious taco dish.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pineapple juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "Sliced radishes",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Sliced lime",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a blender or food processor, combine the Thai red curry paste, fish sauce, brown sugar, pineapple juice, and soy sauce. Blend until smooth.",
+    "3. Rub the mixture all over the pork shoulder, making sure to coat it evenly.",
+    "4. Grill the pork shoulder for 5-7 minutes per side, or until it reaches an internal temperature of 145°F (63°C).",
+    "5. Once the pork is cooked, let it rest for 5 minutes before slicing it thinly.",
+    "6. Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "7. Assemble the tacos by placing a few slices of the pork onto a tortilla, followed by a sprinkle of sliced radishes, a sprinkle of cilantro, and a squeeze of lime juice.",
+    "8. Serve the tacos immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "mexican",
+    "pork",
+    "tacos",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-mexican-pork-tacos-al-pastor--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:28:51.584Z"
+}
