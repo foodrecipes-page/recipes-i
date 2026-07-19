@@ -1,0 +1,90 @@
+{
+  "slug": "intensely-dense-spanish-octopus-paella--indian",
+  "title": "Octopus Tikka Masala",
+  "description": "An Indian-inspired twist on the classic dish, featuring tender and flavorful octopus in a rich and creamy tomato-based sauce. This recipe is a perfect blend of Spanish and Indian flavors.",
+  "cuisine": "indian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "octopus",
+      "amount": "1 pound (about 450g), cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "spanish olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "intensely flavored garam masala",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "dense tomato puree",
+      "amount": "1 can (14 oz or 397g)"
+    },
+    {
+      "name": "Spanish smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tablespoons (optional)"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet over medium-high heat.",
+    "2. Add the onion and cook, stirring occasionally, until softened and lightly browned, about 8 minutes.",
+    "3. Add the garlic and cook, stirring constantly, for 1 minute.",
+    "4. Add the octopus and cook, stirring occasionally, for 5-7 minutes, until lightly browned.",
+    "5. Add the garam masala, smoked paprika, salt, and pepper. Cook, stirring constantly, for 1 minute.",
+    "6. Stir in the tomato puree and bring to a simmer.",
+    "7. Reduce the heat to medium-low and cook, stirring occasionally, for 10-15 minutes, until the sauce has thickened and the octopus is tender.",
+    "8. Stir in the heavy cream and cook for an additional 2-3 minutes, until heated through.",
+    "9. Taste and adjust seasoning as needed.",
+    "10. Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "seafood",
+    "octopus",
+    "tikka-masala"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-dense-spanish-octopus-paella--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:45:46.547Z"
+}
