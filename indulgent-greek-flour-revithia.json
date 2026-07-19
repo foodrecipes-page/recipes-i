@@ -1,0 +1,60 @@
+{
+  "slug": "indulgent-greek-flour-revithia",
+  "title": "Revithia Shortbread Cookies",
+  "description": "A sweet twist on classic shortbread using revithia for added depth of flavor. These indulgent cookies are perfect for a snack or dessert.",
+  "cuisine": "greek",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Revithia",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Greek Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Indulgent Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a large bowl, cream together the butter and sugar until light and fluffy.",
+    "Add the revithia and mix until well combined.",
+    "Gradually add the flour and mix until a dough forms.",
+    "Roll out the dough to about 1/4 inch thickness.",
+    "Cut into desired shapes using a cookie cutter.",
+    "Place on the prepared baking sheet and bake for 20-25 minutes, or until lightly golden.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "revithia",
+    "shortbread",
+    "cookies",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-greek-flour-revithia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:32:25.347Z"
+}
