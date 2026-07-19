@@ -1,0 +1,101 @@
+{
+  "slug": "intensely-flavored-syrian-dash-tagine--keto",
+  "title": "Keto Intensely Flavored Syrian Lamb Tagine",
+  "description": "A hearty, keto-friendly tagine recipe from Syria, flavored with intense spices and served with a side of cauliflower rice.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, bone-in",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Intensely flavored olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin, ground",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Coriander, ground",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almonds, sliced",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the intensely flavored olive oil in a large Dutch oven over medium-high heat.",
+    "2. Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "3. Remove the lamb from the pot and set aside.",
+    "4. Reduce heat to medium and add the chopped onion to the pot.",
+    "5. Cook the onion until softened, about 5 minutes.",
+    "6. Add the minced garlic, cumin, coriander, cayenne pepper, salt, and black pepper to the pot.",
+    "7. Cook for 1 minute, stirring constantly.",
+    "8. Add the dried apricots and sliced almonds to the pot.",
+    "9. Return the lamb to the pot and cover with a lid.",
+    "10. Transfer the pot to the oven and cook at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "11. Serve the lamb with the sauce spooned over the top, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "lamb",
+    "tagine",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flavored-syrian-dash-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:17:58.075Z"
+}
