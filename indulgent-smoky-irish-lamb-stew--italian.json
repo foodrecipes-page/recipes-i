@@ -1,0 +1,89 @@
+{
+  "slug": "indulgent-smoky-irish-lamb-stew--italian",
+  "title": "Irish Lamb Stew with Italian Twist",
+  "description": "A hearty stew infused with smoky flavors and indulgent ingredients, served with a hint of Italian cuisine.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Smoked Bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "Indulgent Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Irish Guinness Beer",
+      "amount": "1 cup",
+      "notes": "used for braising"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "used for depth of flavor"
+    },
+    {
+      "name": "Italian Herbs",
+      "amount": "1 teaspoon",
+      "notes": "dried, mixed herbs"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium heat.",
+    "Brown the lamb cubes in batches until browned on all sides.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the diced bacon to the pot and cook until crispy.",
+    "Remove the bacon from the pot and set aside.",
+    "Add the sliced mushrooms to the pot and cook until they release their moisture.",
+    "Add the sliced red onion and minced garlic to the pot and cook until the onion is translucent.",
+    "Add the browned lamb back to the pot, along with the Guinness beer, tomato paste, and dried Italian herbs.",
+    "Bring the stew to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the stew in a preheated oven at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and stir in the crispy bacon.",
+    "Serve the stew hot, garnished with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "stew",
+    "smoky",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-smoky-irish-lamb-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:23:24.860Z"
+}
