@@ -1,0 +1,67 @@
+{
+  "slug": "intense-turkish-eggplant-dolma",
+  "title": "Turkish-Style Stuffed Eggplant",
+  "description": "A flavorful and aromatic eggplant dish filled with a savory mixture of meat and spices, inspired by Turkish cuisine.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium, sliced lengthwise"
+    },
+    {
+      "name": "intense",
+      "amount": "1/2 cup, chopped fresh parsley"
+    },
+    {
+      "name": "turkish",
+      "amount": "1/2 cup, cooked rice"
+    },
+    {
+      "name": "dolma",
+      "amount": "1/2 cup, chopped cooked meat"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together rice, meat, parsley, salt, and pepper.",
+    "Spoon the mixture into each eggplant slice, dividing it evenly.",
+    "Place the stuffed eggplant slices on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and bake for an additional 15-20 minutes.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "turkish",
+    "eggplant",
+    "stuffed"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-turkish-eggplant-dolma",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:37:49.422Z"
+}
