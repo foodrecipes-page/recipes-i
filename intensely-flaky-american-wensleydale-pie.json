@@ -1,0 +1,82 @@
+{
+  "slug": "intensely-flaky-american-wensleydale-pie",
+  "title": "Wensleydale Pie",
+  "description": "A classic English-inspired pie filled with a delicious blend of Wensleydale cheese and flaky pastry.",
+  "cuisine": "English",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wensleydale Cheese",
+      "amount": "250g",
+      "notes": "crumbly English cheese"
+    },
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "Milk",
+      "amount": "100ml",
+      "notes": "whole"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Intensely Sweet Pie Filling",
+      "amount": "1 jar",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Roll out the flaky pastry on a lightly floured surface to a thickness of about 3mm.",
+    "Place the pastry into a 23cm (9in) pie dish, trimming the edges to fit.",
+    "In a separate bowl, mix the Wensleydale cheese with the milk, salt, and pepper.",
+    "Pour the cheese mixture into the pastry-lined pie dish.",
+    "Dot the top of the cheese with the butter.",
+    "Roll out the remaining pastry to a thickness of about 3mm, and use it to cover the pie.",
+    "Crimp the edges of the pastry to seal the pie, and cut a few slits in the top to allow steam to escape.",
+    "Brush the top of the pie with the beaten eggs.",
+    "Place the pie on a baking sheet and bake for 40-45 minutes, or until the pastry is golden brown.",
+    "Let the pie cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "english",
+    "cheese",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flaky-american-wensleydale-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:57:39.906Z"
+}
