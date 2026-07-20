@@ -1,0 +1,77 @@
+{
+  "slug": "intense-charred-irish-lamb-wrap--vegan",
+  "title": "Vegan Irish Lamb Wrap",
+  "description": "A flavorful wrap filled with roasted vegetables and a tangy Irish slaw.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Irish slaw (made with cabbage, carrots, and apple cider vinegar)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Roasted sweet potatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Roasted Brussels sprouts",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Charred red onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Intense hummus",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss sweet potatoes and Brussels sprouts with a little oil and roast for 20-25 minutes.",
+    "Char the red onion by grilling or broiling until slightly blackened.",
+    "Assemble the slaw by mixing together shredded cabbage, grated carrots, and apple cider vinegar.",
+    "Spread hummus on the wrap, then top with roasted vegetables, Irish slaw, and charred onion.",
+    "Garnish with chopped parsley and serve.",
+    "Prepare the Irish slaw and hummus before assembling the wrap."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "wrap",
+    "irish",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-charred-irish-lamb-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:05:57.477Z"
+}
