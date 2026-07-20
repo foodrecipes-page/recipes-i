@@ -1,0 +1,88 @@
+{
+  "slug": "intensely-umami-jamaican-ground-beef-hash--indian",
+  "title": "Jamaican Beef Hash",
+  "description": "A flavorful and spicy Indian-inspired dish made with ground beef, onions, and Jamaican seasoning.",
+  "cuisine": "indian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "hash browns",
+      "amount": "250g",
+      "notes": "pre-made or homemade"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add chopped onions and cook until browned, about 5 minutes.",
+    "Add ground beef and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add Jamaican seasoning, cumin, coriander, garam masala, salt, and pepper. Cook for 1 minute.",
+    "Stir in hash browns and cook for an additional 2-3 minutes.",
+    "Shape the mixture into patties or a flat layer.",
+    "Cook for an additional 2-3 minutes on each side, until the hash is crispy and the beef is cooked through.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "breakfast",
+    "hash",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-umami-jamaican-ground-beef-hash--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:00:57.731Z"
+}
