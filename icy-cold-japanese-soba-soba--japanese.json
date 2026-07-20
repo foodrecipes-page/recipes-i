@@ -1,0 +1,89 @@
+{
+  "slug": "icy-cold-japanese-soba-soba--japanese",
+  "title": "Japanese Cold Soba Noodle Salad",
+  "description": "A refreshing Japanese-inspired cold soba noodle salad filled with crunchy vegetables and a tangy dressing.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Soba noodles",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Icy cold water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Japanese cucumbers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the soba noodles according to the package instructions.",
+    "Rinse the noodles in cold water to stop the cooking process.",
+    "In a large bowl, combine the cooled noodles, sliced cucumbers, diced red bell pepper, grated carrots, and chopped green onions.",
+    "In a small bowl, whisk together the soy sauce, rice vinegar, and sesame seeds to make the dressing.",
+    "Pour the dressing over the noodle salad and toss to combine.",
+    "Chill the salad in the refrigerator for at least 30 minutes to allow the flavors to meld.",
+    "Serve the salad cold, garnished with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cold",
+    "japanese",
+    "noodle",
+    "salad",
+    "soy-sauce",
+    "rice-vinegar"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-cold-japanese-soba-soba--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:56:45.457Z"
+}
