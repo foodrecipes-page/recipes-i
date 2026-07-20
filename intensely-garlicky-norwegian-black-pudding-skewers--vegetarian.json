@@ -1,0 +1,79 @@
+{
+  "slug": "intensely-garlicky-norwegian-black-pudding-skewers--vegetarian",
+  "title": "Garlicky Norwegian Pudding Skewers",
+  "description": "A flavorful vegetarian dish featuring intensely garlicky Norwegian pudding, perfect for snacking. Serve on skewers for a fun twist.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Norwegian pudding",
+      "amount": "1 package (12 oz)",
+      "notes": "Thaw according to package instructions"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black skewers",
+      "amount": "1 package (10-12 skewers)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut the Norwegian pudding into 1-inch cubes.",
+    "3. In a large bowl, whisk together minced garlic, parsley, lemon juice, olive oil, salt, and pepper.",
+    "4. Add the pudding cubes to the bowl and toss to coat with the garlic mixture.",
+    "5. Thread the coated pudding cubes onto the black skewers.",
+    "6. Brush the grill grates with oil to prevent sticking.",
+    "7. Grill the skewers for 2-3 minutes per side, or until the pudding is lightly toasted.",
+    "8. Serve the garlicky Norwegian pudding skewers immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "snack",
+    "garlic",
+    "pudding",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-garlicky-norwegian-black-pudding-skewers--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:55:46.248Z"
+}
