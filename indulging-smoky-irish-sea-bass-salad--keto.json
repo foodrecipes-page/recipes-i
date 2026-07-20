@@ -1,0 +1,78 @@
+{
+  "slug": "indulging-smoky-irish-sea-bass-salad--keto",
+  "title": "Smoked Bass with Irish Salad",
+  "description": "A keto-friendly dish featuring smoky bass and a refreshing irish salad.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Bass Fillets",
+      "amount": "4",
+      "notes": "wild-caught"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Crunchy Bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "Diced Fresh Chives",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint",
+      "notes": null
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Keto Ranch Dressing",
+      "amount": "1 cup",
+      "notes": "make or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper and place the smoked bass fillets on it.",
+    "Season the bass with salt and pepper to taste.",
+    "Bake the bass in the preheated oven for 12-15 minutes or until cooked through.",
+    "While the bass is baking, prepare the salad by combining the mixed greens, crunchy bacon, diced chives, cherry tomatoes, and red onion in a large bowl.",
+    "Once the bass is done, remove it from the oven and let it rest for a few minutes before flaking it into the salad.",
+    "Drizzle the keto ranch dressing over the salad and toss to combine.",
+    "Serve the smoked bass on top of the salad and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "dinner",
+    "fish",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulging-smoky-irish-sea-bass-salad--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:25:02.526Z"
+}
