@@ -1,0 +1,84 @@
+{
+  "slug": "incredibly-festive-middle-eastern-yellow-split-peas-pilaf",
+  "title": "Middle Eastern Yellow Pea Pilaf",
+  "description": "A flavorful and nutritious pilaf made with yellow split peas, perfect for a quick and easy dinner. This Middle Eastern-inspired dish is packed with protein and fiber.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow Split Peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Festive Middle Eastern Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the cumin and coriander and stir for 1 minute.",
+    "Add the yellow split peas and cook for 1-2 minutes.",
+    "Add the festive Middle Eastern rice and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes or until the liquid has been absorbed.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "middle-eastern",
+    "yellow-split-peas",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-festive-middle-eastern-yellow-split-peas-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:20:08.179Z"
+}
