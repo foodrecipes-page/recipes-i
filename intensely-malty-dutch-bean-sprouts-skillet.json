@@ -1,0 +1,75 @@
+{
+  "slug": "intensely-malty-dutch-bean-sprouts-skillet",
+  "title": "Dutch Skillet Bean Stew",
+  "description": "A hearty, comforting stew made with beans and a variety of spices, perfect for a cold day. This recipe serves 4-6 people.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "skillet",
+      "amount": "1 large",
+      "notes": "any type"
+    },
+    {
+      "name": "bean",
+      "amount": "1 can (15 oz)",
+      "notes": "kidney beans or black beans work well"
+    },
+    {
+      "name": "sprouts",
+      "amount": "1 cup",
+      "notes": "any type of sprouts (alfalfa, broccoli, etc.)"
+    },
+    {
+      "name": "dutch spice mix",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "intensely flavored oil",
+      "amount": "2 tbsp",
+      "notes": "such as olive or avocado oil"
+    },
+    {
+      "name": "malty broth",
+      "amount": "4 cups",
+      "notes": "vegetable or chicken broth work well"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the skillet over medium heat.",
+    "Add the Dutch spice mix and sauté for 1-2 minutes.",
+    "Add the bean and cook for 2-3 minutes.",
+    "Add the sprouts and cook for an additional 2-3 minutes.",
+    "Pour in the broth and bring to a boil.",
+    "Reduce heat to low and simmer for 15-20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "stew",
+    "bean",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-malty-dutch-bean-sprouts-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:57:31.330Z"
+}
