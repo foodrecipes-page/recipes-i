@@ -1,0 +1,78 @@
+{
+  "slug": "intensely-garlicky-syrian-eggplant-stew",
+  "title": "Syrian Eggplant Stew",
+  "description": "A hearty and flavorful stew originating from Syria, featuring eggplant as the main ingredient. This recipe is perfect for a cold winter evening, rich in flavor and nutrients.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "intensely garlicky stew seasoning",
+      "amount": "2 tsp",
+      "notes": "available at most ethnic grocery stores"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "canned"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the cubed eggplant and cook for 5-7 minutes, or until it starts to soften.",
+    "Add the stew seasoning, tomato paste, and chicken broth to the saucepan.",
+    "Stir well to combine, then bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the eggplant is tender.",
+    "Season with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "eggplant",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "4g",
+    "carbs": "35g",
+    "fat": "8g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-garlicky-syrian-eggplant-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:47:59.096Z"
+}
