@@ -1,0 +1,83 @@
+{
+  "slug": "intensely-crunchy-jamaican-runner-beans-fried-rice--chinese",
+  "title": "Crispy Jamaican Fried Rice",
+  "description": "A flavorful and crunchy twist on traditional Chinese fried rice, infused with the bold flavors of the Caribbean.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jamaican runner beans",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Fried rice",
+      "amount": "2 cups",
+      "notes": "preferably leftover or day-old rice"
+    },
+    {
+      "name": "Intensely crunchy",
+      "amount": "1/4 cup",
+      "notes": "chopped scallions or chopped peanuts for garnish"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the Jamaican runner beans and stir-fry for 3-4 minutes, or until they start to soften.",
+    "Add the fried rice, soy sauce, and jerk seasoning, and stir-fry for another 2-3 minutes, breaking up any clumps with a spatula.",
+    "Add the chopped scallions or peanuts and stir-fry for another minute, until the rice is evenly coated with the flavors.",
+    "Season with salt and pepper to taste.",
+    "Transfer the rice to a serving platter or individual plates.",
+    "Serve immediately, garnished with additional chopped scallions or peanuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fried rice",
+    "jamaican",
+    "runner beans",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-crunchy-jamaican-runner-beans-fried-rice--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:16:47.886Z"
+}
