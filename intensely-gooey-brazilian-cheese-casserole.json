@@ -1,0 +1,85 @@
+{
+  "slug": "intensely-gooey-brazilian-cheese-casserole",
+  "title": "Brazilian Cheese Casserole",
+  "description": "A rich and creamy casserole filled with gooey cheese, perfect for a comforting meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gooey cheese blend",
+      "amount": "250g",
+      "notes": "A mix of cheddar, mozzarella, and parmesan"
+    },
+    {
+      "name": "Intensely spiced ground beef",
+      "amount": "500g",
+      "notes": "Cooked with cumin, chili powder, and paprika"
+    },
+    {
+      "name": "Casserole bread",
+      "amount": "200g",
+      "notes": "Torn into small pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Egg",
+      "amount": "2 large",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "10g",
+      "notes": "Melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a large pan, cook the ground beef over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "Stir in the cumin, chili powder, and paprika, and cook for 1 minute.",
+    "In a separate bowl, combine the gooey cheese blend, beaten eggs, and melted butter.",
+    "In a 20cm (8 inch) square baking dish, create a layer of torn casserole bread.",
+    "Top the bread with the cooked ground beef mixture, followed by the cheese and egg mixture.",
+    "Repeat the layers one more time, ending with a layer of cheese on top.",
+    "Bake the casserole in the preheated oven for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it cool for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "cheese",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-gooey-brazilian-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:14:09.884Z"
+}
