@@ -1,0 +1,87 @@
+{
+  "slug": "intensely-flavored-syrian-dash-tagine--vegan",
+  "title": "Vegan Tagine Stew",
+  "description": "A hearty and flavorful stew inspired by traditional Syrian cuisine, made with a variety of spices and served over couscous.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Diced onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Diced carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Diced sweet potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": null
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Intensely flavored olives",
+      "amount": "1/2 cup, pitted",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Couscous",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine spice blend in a large Dutch oven over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the diced carrots and sweet potatoes and cook for an additional 5 minutes.",
+    "Add the canned diced tomatoes, olives, lemon juice, and water to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Serve the stew over couscous.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "syrian",
+    "stew",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flavored-syrian-dash-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:56:56.146Z"
+}
