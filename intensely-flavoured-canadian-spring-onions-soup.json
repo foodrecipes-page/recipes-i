@@ -1,0 +1,85 @@
+{
+  "slug": "intensely-flavoured-canadian-spring-onions-soup",
+  "title": "Flavoured Canadian Spring Onion Soup",
+  "description": "A hearty and flavorful soup made with the sweetness of spring onions and the richness of Canadian ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flavoured Soup Stock",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Spring Onions",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Margarine",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tbsp",
+      "notes": "dissolved in 2 cups water"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Half-and-Half",
+      "amount": "1 cup",
+      "notes": "heated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, melt the margarine over medium heat.",
+    "Add the chopped spring onions and sauté until softened, about 5 minutes.",
+    "Pour in the flavoured soup stock and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in the dissolved flour and cook for an additional 2 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Return the pot to medium heat and stir in the grated cheddar cheese until melted.",
+    "Add the heated half-and-half and stir until combined.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "canadian",
+    "vegetarian",
+    "spring-onions"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flavoured-canadian-spring-onions-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:58:31.768Z"
+}
