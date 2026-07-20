@@ -1,0 +1,88 @@
+{
+  "slug": "intensely-smoky-croatian-meat-skewers",
+  "title": "Croatian Smoked Meat Skewers",
+  "description": "A flavorful and aromatic dish from Croatia, featuring smoky meat skewers that are perfect for grilling.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork Shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Wood Chips (such as Hickory or Apple)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 300°F (150°C).",
+    "In a large bowl, whisk together smoked paprika, salt, black pepper, and garlic.",
+    "Add the pork cubes, onion, and bell pepper to the bowl and toss to coat with the spice mixture.",
+    "Thread the marinated meat and vegetables onto skewers, leaving a small space between each piece.",
+    "Brush the olive oil onto the skewers to prevent sticking.",
+    "Place the skewers directly over the heat source and close the grill lid.",
+    "Smoke the skewers for 10-15 minutes, or until the pork is cooked through and slightly charred.",
+    "During the last 5 minutes, add wood chips to the grill to infuse a smoky flavor.",
+    "Remove the skewers from the grill and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilling",
+    "smoked-meat",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-croatian-meat-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:21:54.800Z"
+}
