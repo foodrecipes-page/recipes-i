@@ -1,0 +1,68 @@
+{
+  "slug": "intensely-roasted-malaysian-tomato-curry--thai",
+  "title": "Thai-Style Roasted Chicken Curry",
+  "description": "A flavorful and spicy curry made with roasted chicken, intense flavors, and a hint of malaysian spices.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken with salt and pepper.",
+    "In a blender or food processor, combine the curry paste, coconut milk, and 2 tablespoons of water. Blend until smooth.",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat.",
+    "Add the blended curry mixture and cook for 2-3 minutes, stirring constantly.",
+    "Add the chicken to the skillet and cook until browned on all sides, about 5-7 minutes.",
+    "Transfer the skillet to the preheated oven and roast for 15-20 minutes, or until the chicken is cooked through.",
+    "While the chicken is roasting, heat the remaining 2 tablespoons of oil in a small saucepan over medium heat.",
+    "Add the diced tomato and cook until tender, about 5 minutes.",
+    "Stir the cooked tomato into the curry sauce and serve over the roasted chicken.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "chicken",
+    "curry",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-roasted-malaysian-tomato-curry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:35:09.725Z"
+}
