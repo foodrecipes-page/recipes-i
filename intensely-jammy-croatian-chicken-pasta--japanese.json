@@ -1,0 +1,86 @@
+{
+  "slug": "intensely-jammy-croatian-chicken-pasta--japanese",
+  "title": "Croatian Chicken Pasta Stir Fry",
+  "description": "A Japanese-inspired stir-fry with Croatian chicken and a sweet, slightly spicy sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boned and skinless"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": " soba or rice noodles"
+    },
+    {
+      "name": "intensely jammy strawberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "croatian paprika",
+      "amount": "2 tsp",
+      "notes": "sweet or smoked"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "unseasoned"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "pure"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "Cut chicken into bite-sized pieces and season with Croatian paprika.",
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5-6 minutes.",
+    "Add strawberries and cook until they begin to break down, about 2-3 minutes.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, and honey.",
+    "Pour sauce over chicken and strawberries, and stir to coat.",
+    "Add cooked pasta to the skillet and toss to combine.",
+    "Cook for an additional 2-3 minutes, until everything is well coated.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "pasta",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-jammy-croatian-chicken-pasta--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:47:55.892Z"
+}
