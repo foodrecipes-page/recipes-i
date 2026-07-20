@@ -1,0 +1,65 @@
+{
+  "slug": "intensely-rich-turkish-cream-su-boregi--keto",
+  "title": "Turkish Keto Cheese Boregi",
+  "description": "A Turkish-inspired keto cheese boregi recipe made with rich and creamy feta cheese. Perfect as a snack or light meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup",
+      "notes": "Crumble the feta cheese before using"
+    },
+    {
+      "name": "Intensely rich filo dough",
+      "amount": "1 package",
+      "notes": "Thaw the filo dough according to package instructions"
+    },
+    {
+      "name": "Su (water)",
+      "amount": "1 cup",
+      "notes": "For brushing the filo dough"
+    },
+    {
+      "name": "Turkish cheese boregi spices",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Thaw the filo dough according to package instructions.",
+    "Cut the filo dough into 4 equal pieces.",
+    "Brush each piece with su (water).",
+    "Place a quarter of the feta cheese in the center of each piece.",
+    "Fold the filo dough into a triangle, pressing the edges to seal.",
+    "Place the boregi on a baking sheet lined with parchment paper.",
+    "Brush the tops with a little su (water) and sprinkle with Turkish cheese boregi spices (if using).",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "keto",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-rich-turkish-cream-su-boregi--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:57:49.067Z"
+}
