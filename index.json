@@ -16950,5 +16950,32 @@
     "cuisine": "Irish",
     "totalTimeMin": 25,
     "shard": "i"
+  },
+  {
+    "slug": "intense-fatty-dense-vietnamese-beef-com-tam--thai",
+    "title": "Thai Beef Com Salad",
+    "tags": [
+      "thaifood",
+      "salad",
+      "beef",
+      "com",
+      "tam"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "innovative-light-italian-turkey-mince-pasta--vegan",
+    "title": "Vegan Italian Light Pasta Dish",
+    "tags": [
+      "italian",
+      "vegan",
+      "pasta",
+      "lunch"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "i"
   }
 ]
