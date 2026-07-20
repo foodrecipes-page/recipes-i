@@ -16834,5 +16834,18 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-jammy-croatian-chicken-pasta--japanese",
+    "title": "Croatian Chicken Pasta Stir Fry",
+    "tags": [
+      "japanese",
+      "chicken",
+      "pasta",
+      "stir-fry"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "i"
   }
 ]
