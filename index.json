@@ -11018,17 +11018,15 @@
   },
   {
     "slug": "intensely-gooey-brazilian-cheese-casserole",
-    "title": "Intensely Gooey Brazilian Cheese Casserole",
+    "title": "Brazilian Cheese Casserole",
     "tags": [
-      "brazilian-food",
-      "cheese-casserole",
-      "meal-prep",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "brazilian",
+      "cheese",
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -16976,6 +16974,60 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-smoky-irish-lamb-stew--italian",
+    "title": "Irish Lamb Stew with Italian Twist",
+    "tags": [
+      "italian",
+      "lamb",
+      "stew",
+      "smoky",
+      "indulgent"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-roasted-malaysian-tomato-curry--thai",
+    "title": "Thai-Style Roasted Chicken Curry",
+    "tags": [
+      "thaicuisine",
+      "chicken",
+      "curry",
+      "roasted"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-garlicky-norwegian-black-pudding-skewers--vegetarian",
+    "title": "Garlicky Norwegian Pudding Skewers",
+    "tags": [
+      "vegetarian",
+      "snack",
+      "garlic",
+      "pudding",
+      "skewers"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 16,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-flavored-syrian-dash-tagine--vegan",
+    "title": "Vegan Tagine Stew",
+    "tags": [
+      "vegan",
+      "syrian",
+      "stew",
+      "couscous"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
     "shard": "i"
   }
 ]
