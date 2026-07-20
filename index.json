@@ -1216,17 +1216,15 @@
   },
   {
     "slug": "incredibly-festive-middle-eastern-yellow-split-peas-pilaf",
-    "title": "Incredibly Festive Middle Eastern Yellow Split Peas Pilaf",
+    "title": "Middle Eastern Yellow Pea Pilaf",
     "tags": [
-      "comfort-food",
-      "festive",
-      "gluten-free",
+      "pilaf",
       "middle-eastern",
-      "one-pot",
-      "vegetarian"
+      "yellow-split-peas",
+      "gluten-free"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -10556,16 +10554,13 @@
   },
   {
     "slug": "intensely-flaky-american-wensleydale-pie",
-    "title": "Intensely Flaky American Wensleydale Pie",
+    "title": "Wensleydale Pie",
     "tags": [
-      "american-classics",
-      "cheesy",
-      "date-night",
-      "flaky-crust",
-      "low-carb",
-      "sugar-free"
+      "english",
+      "cheese",
+      "pie"
     ],
-    "cuisine": "American",
+    "cuisine": "English",
     "totalTimeMin": 60,
     "shard": "i"
   },
@@ -12892,14 +12887,11 @@
   },
   {
     "slug": "intensely-smoky-croatian-meat-skewers",
-    "title": "Intensely Smoky Croatian Meat Skewers",
+    "title": "Croatian Smoked Meat Skewers",
     "tags": [
-      "croatian",
-      "date-night",
-      "grilled",
-      "meat-lovers",
-      "skewers",
-      "smoky"
+      "grilling",
+      "smoked-meat",
+      "croatian"
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 35,
@@ -16905,6 +16897,19 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-velvety-russian-natto-pilaf--mexican",
+    "title": "Russian Natto Pilaf",
+    "tags": [
+      "mexican",
+      "natto",
+      "pilaf",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
     "shard": "i"
   }
 ]
