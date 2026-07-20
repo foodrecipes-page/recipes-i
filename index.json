@@ -16857,5 +16857,32 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "i"
+  },
+  {
+    "slug": "intense-charred-irish-lamb-wrap--vegan",
+    "title": "Vegan Irish Lamb Wrap",
+    "tags": [
+      "vegan",
+      "wrap",
+      "irish",
+      "lamb"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "innovative-light-italian-turkey-mince-pasta--french",
+    "title": "French-Style Turkey Mince Pasta",
+    "tags": [
+      "french",
+      "turkey",
+      "pasta",
+      "mince",
+      "quick-dinner"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "i"
   }
 ]
