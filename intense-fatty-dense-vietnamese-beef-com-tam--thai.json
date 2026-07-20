@@ -1,0 +1,85 @@
+{
+  "slug": "intense-fatty-dense-vietnamese-beef-com-tam--thai",
+  "title": "Thai Beef Com Salad",
+  "description": "A Thai-inspired salad featuring tender beef, crunchy com, and a variety of fresh vegetables. This dish is perfect for a light and refreshing meal.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "com",
+      "amount": "2 cups",
+      "notes": "Cooked and cooled"
+    },
+    {
+      "name": "tam",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "intense",
+      "amount": "2 tablespoons",
+      "notes": "Use as a dressing ingredient"
+    },
+    {
+      "name": "fatty",
+      "amount": "1/4 cup",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "dense",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "2 tablespoons",
+      "notes": "Fish sauce"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Grill the beef strips until cooked through, about 5-7 minutes.",
+    "In a large bowl, combine the cooked com, tam, fatty, and dense.",
+    "In a small bowl, whisk together the intense, vietnamese, and 2 tablespoons of water.",
+    "Add the grilled beef to the bowl and toss with the dressing until well coated.",
+    "Top with chopped green onions and serve immediately.",
+    "Toss with additional vietnamese if desired.",
+    "Serve as a light and refreshing meal.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "salad",
+    "beef",
+    "com",
+    "tam"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-fatty-dense-vietnamese-beef-com-tam--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:41:51.325Z"
+}
