@@ -1,0 +1,66 @@
+{
+  "slug": "indulgent-fresh-slovakian-shiso-leaf-lamination-puff",
+  "title": "Slovakian Apple Puff Pastry",
+  "description": "A traditional Slovakian dessert featuring a flaky puff pastry crust filled with sweet apples and indulgent ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Apples",
+      "amount": "2"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a large bowl, combine the sliced apples, cinnamon, sugar, and vanilla extract. Mix until the apples are evenly coated.",
+    "Place the apple mixture onto one half of the puff pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the puff pastry over the apple mixture, pressing the edges to seal.",
+    "Brush the top of the pastry with the heavy cream and cut a few slits in the top to allow steam to escape.",
+    "Place the pastry on a baking sheet lined with parchment paper and bake for 25-30 minutes, or until the pastry is golden brown.",
+    "Remove the pastry from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pastry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-fresh-slovakian-shiso-leaf-lamination-puff",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:02:23.285Z"
+}
