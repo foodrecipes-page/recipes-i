@@ -1,0 +1,87 @@
+{
+  "slug": "intense-velvety-russian-natto-pilaf--mexican",
+  "title": "Russian Natto Pilaf",
+  "description": "A spicy Mexican twist on traditional Russian pilaf, incorporating intense, velvety natto for added richness.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Russian Natto",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the cumin and chili powder, and cook for 1 minute, until fragrant.",
+    "Add the pilaf and cook for 2-3 minutes, until lightly toasted.",
+    "Add the Russian natto and stir to combine.",
+    "Season with salt to taste.",
+    "Stir in lime juice.",
+    "Cook for an additional 1-2 minutes, until heated through.",
+    "Serve hot, garnished with additional lime wedges if desired.",
+    "Cook time can be adjusted depending on the type of pilaf being used.",
+    "For a more intense flavor, add diced jalapenos or serrano peppers to the pilaf.",
+    "For a creamier texture, add a splash of heavy cream or sour cream to the pilaf."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "natto",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-velvety-russian-natto-pilaf--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:10:43.644Z"
+}
