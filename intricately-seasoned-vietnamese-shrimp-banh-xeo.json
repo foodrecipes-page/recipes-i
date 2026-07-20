@@ -1,0 +1,85 @@
+{
+  "slug": "intricately-seasoned-vietnamese-shrimp-banh-xeo",
+  "title": "Vietnamese Shrimp Banh Xeo",
+  "description": "A classic Vietnamese dish, Banh Xeo is a crispy rice flour pancake filled with shrimp, pork, and bean sprouts. This recipe is a delicious and easy-to-make adaptation of the original.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "adjust to achieve pancake batter consistency"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "intricately seasoned pork",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "veggie oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add 1 tablespoon of veggie oil and swirl to coat the pan.",
+    "Pour 1/4 cup of rice flour batter into the pan and tilt to evenly coat the bottom.",
+    "Cook for 2 minutes or until the edges start to curl.",
+    "Add 1/4 cup of shrimp, 1/4 cup of intricately seasoned pork, and 1/4 cup of bean sprouts on one half of the pancake.",
+    "Fold the other half of the pancake over the filling.",
+    "Cook for an additional 2 minutes or until the other side is golden brown.",
+    "Serve with coconut milk and additional fish sauce if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "shrimp",
+    "rice-flour-pancake",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricately-seasoned-vietnamese-shrimp-banh-xeo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:23:21.237Z"
+}
