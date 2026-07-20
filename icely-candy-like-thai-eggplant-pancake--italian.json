@@ -1,0 +1,71 @@
+{
+  "slug": "icely-candy-like-thai-eggplant-pancake--italian",
+  "title": "Italian Eggplant Fritters",
+  "description": "A crispy Italian-inspired fritter dish made with eggplant and served as a snack or side dish.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "peeled and finely chopped"
+    },
+    {
+      "name": "like",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "icely",
+      "amount": "1/2 cup",
+      "notes": "milk"
+    },
+    {
+      "name": "candy",
+      "amount": "2 tablespoons",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "pancake",
+      "amount": "2 cups",
+      "notes": "pancake mix (used as breadcrumbs)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat 1/4 cup olive oil in a large frying pan over medium heat.",
+    "In a bowl, combine chopped eggplant, flour, milk, sugar, and a pinch of salt.",
+    "Shape the mixture into small patties.",
+    "Dip each patty into the pancake mix, coating both sides evenly.",
+    "Fry the fritters for 3-4 minutes on each side, until golden brown and crispy.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "eggplant",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icely-candy-like-thai-eggplant-pancake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:52:14.386Z"
+}
