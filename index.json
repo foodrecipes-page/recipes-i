@@ -10991,16 +10991,15 @@
   },
   {
     "slug": "intensely-garlicky-syrian-eggplant-stew",
-    "title": "Intensely Garlicky Syrian Eggplant Stew",
+    "title": "Syrian Eggplant Stew",
     "tags": [
-      "aromatic",
-      "comfort-food",
-      "one-pot",
-      "syrian-cuisine",
-      "vegetarian-friendly"
+      "middle-eastern",
+      "eggplant",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -16909,6 +16908,46 @@
       "vegetarian"
     ],
     "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "icely-candy-like-thai-eggplant-pancake--italian",
+    "title": "Italian Eggplant Fritters",
+    "tags": [
+      "italian",
+      "eggplant",
+      "fritters",
+      "snack"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-crunchy-jamaican-runner-beans-fried-rice--chinese",
+    "title": "Crispy Jamaican Fried Rice",
+    "tags": [
+      "chinese",
+      "fried rice",
+      "jamaican",
+      "runner beans",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "indulging-smoky-irish-sea-bass-salad--keto",
+    "title": "Smoked Bass with Irish Salad",
+    "tags": [
+      "keto",
+      "dinner",
+      "fish",
+      "salad"
+    ],
+    "cuisine": "Irish",
     "totalTimeMin": 25,
     "shard": "i"
   }
