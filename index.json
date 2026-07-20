@@ -10785,16 +10785,15 @@
   },
   {
     "slug": "intensely-flavoured-canadian-spring-onions-soup",
-    "title": "intensely flavoured canadian spring onions soup",
+    "title": "Flavoured Canadian Spring Onion Soup",
     "tags": [
-      "canadian",
-      "comfort-food",
       "soup",
-      "spring-onions",
-      "vegetarian"
+      "canadian",
+      "vegetarian",
+      "spring-onions"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 45,
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -11291,17 +11290,16 @@
   },
   {
     "slug": "intensely-malty-dutch-bean-sprouts-skillet",
-    "title": "Intensely Malty Dutch Bean Sprouts Skillet",
+    "title": "Dutch Skillet Bean Stew",
     "tags": [
-      "crispy-vegetables",
-      "dutch-cuisine",
-      "malty-flavor",
-      "one-pan",
-      "paleo-friendly",
-      "romantic-dinner"
+      "dutch",
+      "stew",
+      "bean",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "i"
   },
   {
@@ -14493,16 +14491,15 @@
   },
   {
     "slug": "intricately-seasoned-vietnamese-shrimp-banh-xeo",
-    "title": "Intricately Seasoned Vietnamese Shrimp Banh Xeo",
+    "title": "Vietnamese Shrimp Banh Xeo",
     "tags": [
-      "banana-leaf",
-      "brunch-recipe",
-      "shojin-friendly",
-      "vietnamese-cuisine",
-      "wood-fired-oven"
+      "vietnamese",
+      "shrimp",
+      "rice-flour-pancake",
+      "snack"
     ],
     "cuisine": "vietnamese",
-    "totalTimeMin": 32,
+    "totalTimeMin": 21,
     "shard": "i"
   },
   {
@@ -16845,6 +16842,19 @@
       "stir-fry"
     ],
     "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-umami-jamaican-ground-beef-hash--indian",
+    "title": "Jamaican Beef Hash",
+    "tags": [
+      "indian",
+      "breakfast",
+      "hash",
+      "beef"
+    ],
+    "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "i"
   }
