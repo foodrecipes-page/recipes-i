@@ -17069,5 +17069,17 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-jammy-indian-lamb-kachori--mexican",
+    "title": "Mexican Lamb Kachori",
+    "tags": [
+      "lamb",
+      "mexican",
+      "snack"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "i"
   }
 ]
