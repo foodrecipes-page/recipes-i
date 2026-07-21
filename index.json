@@ -9350,16 +9350,13 @@
     "slug": "intensely-braised-russian-beef-stew",
     "title": "Intensely Braised Russian Beef Stew",
     "tags": [
-      "beef-stew",
+      "beef",
+      "stew",
       "comfort-food",
-      "romantic-dinner",
-      "russian-cuisine",
-      "slow-cooked",
-      "weeknight",
-      "winter-stew"
+      "russian-cuisine"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 200,
+    "totalTimeMin": 180,
     "shard": "i"
   },
   {
