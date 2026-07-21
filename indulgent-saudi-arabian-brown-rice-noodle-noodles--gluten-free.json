@@ -1,0 +1,93 @@
+{
+  "slug": "indulgent-saudi-arabian-brown-rice-noodle-noodles--gluten-free",
+  "title": "Saudi Arabian Brown Rice Bowl",
+  "description": "A flavorful and healthy rice bowl dish inspired by the cuisine of Saudi Arabia, made with brown rice and a variety of spices.",
+  "cuisine": "saudi",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown Rice",
+      "amount": "1 cup",
+      "notes": "long-grain"
+    },
+    {
+      "name": "Noodles",
+      "amount": "1/2 cup",
+      "notes": "indulgent noodles"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the grated ginger and cook for another minute.",
+    "Add the brown rice and stir to coat with the oil and mix with the onion and ginger.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover and simmer for 18-20 minutes or until the rice is cooked.",
+    "While the rice is cooking, heat the remaining 1 tablespoon of vegetable oil in a separate pan over medium heat.",
+    "Add the indulgent noodles and cook until lightly toasted, about 2-3 minutes.",
+    "Stir in the ground cumin and coriander, and cook for another minute.",
+    "To assemble the bowls, divide the cooked brown rice among four bowls, then top with the toasted noodles and any desired garnishes.",
+    "Serve hot.",
+    "Optional: add salt and black pepper to taste",
+    "Optional: garnish with chopped fresh herbs, such as parsley or cilantro"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "brown-rice",
+    "noodle-bowl",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "4g",
+    "carbs": "70g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-saudi-arabian-brown-rice-noodle-noodles--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:17:58.236Z"
+}
