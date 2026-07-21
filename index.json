@@ -10523,18 +10523,14 @@
   },
   {
     "slug": "intensely-fermented-russian-flour-casserole",
-    "title": "Russian Blini Fermentation Casserole",
+    "title": "Russian Fermented Casserole",
     "tags": [
-      "casserole",
-      "comfort-food",
-      "dairy-free",
+      "russian",
       "fermented",
-      "gluten-free",
-      "high-carb",
-      "one-pan"
+      "casserole"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
