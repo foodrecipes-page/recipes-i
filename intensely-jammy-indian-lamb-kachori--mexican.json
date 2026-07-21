@@ -1,0 +1,72 @@
+{
+  "slug": "intensely-jammy-indian-lamb-kachori--mexican",
+  "title": "Mexican Lamb Kachori",
+  "description": "A Mexican twist on the Indian classic kachori, filled with tender lamb and spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound, ground"
+    },
+    {
+      "name": "Intensely Spiced Chorizo",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "Indian Curry Powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Mexican Jammy Habanero Peppers",
+      "amount": "2, diced"
+    },
+    {
+      "name": "Kachori Pastry Dough",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 375°F (190°C).",
+    "2. In a mixing bowl, combine lamb, chorizo, curry powder, habanero peppers, salt, and mix well.",
+    "3. Divide the kachori dough into 8 equal pieces. Roll each piece into a ball and then flatten it slightly into a disk.",
+    "4. Place a tablespoon of the lamb mixture in the center of each dough disk. Fold the dough over the filling and press the edges to seal the kachori.",
+    "5. Fry the kachori in batches until golden brown, about 3-4 minutes per side. Drain on paper towels.",
+    "6. Serve hot with a sprinkle of cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "mexican",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-jammy-indian-lamb-kachori--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:33:59.520Z"
+}
