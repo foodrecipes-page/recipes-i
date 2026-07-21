@@ -1,0 +1,75 @@
+{
+  "slug": "intensely-fermented-russian-flour-casserole",
+  "title": "Russian Fermented Casserole",
+  "description": "A unique, savory casserole with a twist of Russian-inspired flavors. The fermented ingredients add a tangy taste.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "intensely fermented pickled vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pan, sauté the onion and mushrooms until softened.",
+    "In a separate bowl, mix the flour, caraway seeds, salt, and pepper.",
+    "Add the fermented pickled vegetables and casserole to the pan with the onion and mushrooms.",
+    "Gradually add the flour mixture to the pan, stirring constantly.",
+    "Transfer the mixture to a baking dish.",
+    "Bake for 25 minutes or until golden brown.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "fermented",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-fermented-russian-flour-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:29:36.782Z"
+}
