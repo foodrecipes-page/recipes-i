@@ -1,0 +1,102 @@
+{
+  "slug": "intensely-smoky-canadian-skirt-steak-tagine--vegetarian",
+  "title": "Smoky Vegetarian Tagine",
+  "description": "A hearty vegetarian stew originating from North Africa, featuring smoky flavors and tender vegetables.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoky Canadian Skirt Steak",
+      "amount": "1/2 pound",
+      "notes": "Note: use a vegetarian alternative or skip this ingredient to adhere to a strict vegetarian diet."
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onions and cook until softened, about 5 minutes.",
+    "Add the bell peppers, garlic, carrots, and zucchini. Cook until the vegetables are tender, about 5-7 minutes.",
+    "Add the chickpeas, diced tomatoes, smoked paprika, and cumin. Stir to combine.",
+    "Add the Smoky Canadian Skirt Steak alternative (or omit for a strict vegetarian diet).",
+    "Cover the pot and simmer for 15-20 minutes or until the flavors have melded together.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "north-african",
+    "stew",
+    "smoky"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-canadian-skirt-steak-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:12:30.945Z"
+}
