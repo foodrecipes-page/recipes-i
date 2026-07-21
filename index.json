@@ -17105,5 +17105,32 @@
     "cuisine": null,
     "totalTimeMin": 45,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-umami-portuguese-cheese-lasagna--vegetarian",
+    "title": "Portuguese Vegetarian Lasagna",
+    "tags": [
+      "portuguese",
+      "vegetarian",
+      "lasagna",
+      "cheese"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-salty-ukrainian-pork-skillet--mexican",
+    "title": "Carnitas Tacos",
+    "tags": [
+      "mexican",
+      "carnitas",
+      "tacos",
+      "pork",
+      "skillet"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 255,
+    "shard": "i"
   }
 ]
