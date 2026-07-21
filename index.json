@@ -17029,5 +17029,56 @@
     "cuisine": "Syrian",
     "totalTimeMin": 45,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-saudi-arabian-brown-rice-noodle-noodles--gluten-free",
+    "title": "Saudi Arabian Brown Rice Bowl",
+    "tags": [
+      "saudi-arabian",
+      "brown-rice",
+      "noodle-bowl",
+      "gluten-free"
+    ],
+    "cuisine": "saudi",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-mediterranean-sea-bass-fillets-grilled--keto",
+    "title": "Pan-Seared Sea Bass with Mediterranean Relish",
+    "tags": [
+      "mediterranean",
+      "seafood",
+      "keto",
+      "low-carb"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-spicy-moroccan-chicken-tagine--indian",
+    "title": "Spicy Chicken Tagine",
+    "tags": [
+      "chicken",
+      "spicy",
+      "indian",
+      "moroccan"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-roasted-jamaican-chicken-wrap--thai",
+    "title": "Jamaican Chicken Wrap",
+    "tags": [
+      "thai",
+      "jamaican",
+      "chicken"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "i"
   }
 ]
