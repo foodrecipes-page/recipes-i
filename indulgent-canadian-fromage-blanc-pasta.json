@@ -1,0 +1,85 @@
+{
+  "slug": "indulgent-canadian-fromage-blanc-pasta",
+  "title": "Creamy Canadian Mac and Cheese",
+  "description": "A rich and comforting Canadian-inspired macaroni and cheese dish made with a creamy fromage blanc sauce.",
+  "cuisine": "Canadian",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fromage Blanc",
+      "amount": "1 cup",
+      "notes": "softened to room temperature"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Cook the macaroni according to package instructions until al dente. Drain and set aside.",
+    "3. In a medium saucepan, melt the butter over medium heat.",
+    "4. Add the flour and whisk to create a roux, cooking for 1-2 minutes.",
+    "5. Slowly pour in the milk, whisking continuously to avoid lumps.",
+    "6. Bring the mixture to a simmer and cook for 2-3 minutes, until it thickens.",
+    "7. Remove the sauce from the heat and stir in the fromage blanc until melted and smooth.",
+    "8. Add the grated cheddar cheese and stir until melted and well combined.",
+    "9. Add the cooked macaroni to the cheese sauce and stir until well coated.",
+    "10. Transfer the macaroni mixture to a baking dish and top with additional grated cheddar cheese if desired.",
+    "11. Bake in the preheated oven for 20-25 minutes, until golden brown and bubbly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mac-and-cheese",
+    "canadian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-canadian-fromage-blanc-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:00:46.796Z"
+}
