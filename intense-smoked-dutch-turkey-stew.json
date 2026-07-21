@@ -1,0 +1,87 @@
+{
+  "slug": "intense-smoked-dutch-turkey-stew",
+  "title": "Smoked Dutch Turkey Stew",
+  "description": "A hearty and flavorful stew made with smoked turkey, Dutch vegetables, and intense spices.",
+  "cuisine": "Dutch",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Turkey Breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Dutch Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Dutch Potatoes",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "Intense Beef Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dutch Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Intense Spices (Dutch Seasoning)",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the smoked turkey breast and cook until browned on all sides.",
+    "Remove the turkey from the pot and set aside.",
+    "Add the Dutch onions and cook until they start to soften.",
+    "Add the Dutch carrots and potatoes, and cook for an additional 5 minutes.",
+    "Pour in the intense beef broth and bring the mixture to a boil.",
+    "Return the smoked turkey to the pot and reduce the heat to low.",
+    "Simmer the stew for 20-25 minutes, or until the turkey is cooked through.",
+    "Season with intense spices, salt, and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked",
+    "turkey",
+    "stew",
+    "dutch",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoked-dutch-turkey-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:59:30.072Z"
+}
