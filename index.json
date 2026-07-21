@@ -8328,17 +8328,16 @@
   },
   {
     "slug": "intense-smoked-dutch-turkey-stew",
-    "title": "Intense Smoked Dutch Turkey Stew",
+    "title": "Smoked Dutch Turkey Stew",
     "tags": [
-      "dutch",
-      "fodmap-friendly",
-      "romantic",
       "smoked",
+      "turkey",
       "stew",
-      "turkey"
+      "dutch",
+      "hearty"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 105,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -17080,6 +17079,31 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-smoky-canadian-skirt-steak-tagine--vegetarian",
+    "title": "Smoky Vegetarian Tagine",
+    "tags": [
+      "vegetarian",
+      "north-african",
+      "stew",
+      "smoky"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "i-croatian-yukon-gold-potatoes-crumble--vegan",
+    "title": "Vegan Golden Potato Gratin",
+    "tags": [
+      "gluten-free",
+      "vegan",
+      "comfort-food"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
     "shard": "i"
   }
 ]
