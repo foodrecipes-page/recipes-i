@@ -1,0 +1,97 @@
+{
+  "slug": "intensely-spicy-moroccan-chicken-tagine--indian",
+  "title": "Spicy Chicken Tagine",
+  "description": "A fusion of Indian and Moroccan flavors, this spicy tagine is made with tender chicken and a blend of aromatic spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "2 teaspoons",
+      "notes": "whole"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add cumin seeds and cook until fragrant, 1 minute.",
+    "Add onion and cook until browned, 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add chicken and cook until browned, 5 minutes.",
+    "Add coriander powder, garam masala powder, red chili powder, and salt. Cook for 1 minute.",
+    "Add chicken broth and tomato puree. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "spicy",
+    "indian",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-spicy-moroccan-chicken-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:34:39.127Z"
+}
