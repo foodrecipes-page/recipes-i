@@ -1,0 +1,91 @@
+{
+  "slug": "i-croatian-yukon-gold-potatoes-crumble--vegan",
+  "title": "Vegan Golden Potato Gratin",
+  "description": "A delicious, comforting gratin made with golden potatoes, perfect for a cozy evening. This vegan dish is a great alternative for those looking for a plant-based option.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "golden potatoes",
+      "amount": "3-4 large",
+      "notes": null
+    },
+    {
+      "name": "croatian olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "crumble",
+      "amount": "1/4 cup",
+      "notes": "gluten-free oat crumble"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "caramelized garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "yukon gold potatoes for garnish",
+      "amount": "2 medium",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel and slice the golden potatoes thinly.",
+    "In a large saucepan, combine the sliced potatoes, croatian olive oil, salt, and black pepper. Cook over medium heat, stirring occasionally, until the potatoes are tender and lightly browned.",
+    "Transfer the potatoes to a 9x13 inch baking dish. Top with caramelized onions, garlic, nutritional yeast, and dried thyme.",
+    "Sprinkle the crumble evenly over the top of the gratin.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the gratin is heated through.",
+    "Garnish with sliced yukon gold potatoes and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "vegan",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/i-croatian-yukon-gold-potatoes-crumble--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:17:14.852Z"
+}
