@@ -1,0 +1,88 @@
+{
+  "slug": "indulgent-mediterranean-sea-bass-fillets-grilled--keto",
+  "title": "Pan-Seared Sea Bass with Mediterranean Relish",
+  "description": "A keto-friendly dish featuring pan-seared sea bass topped with a flavorful Mediterranean relish, made with fresh herbs and tangy lemon.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Kalamata Olives",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh Capers",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the sea bass fillets under cold water, pat them dry with a paper towel, and season with salt and pepper.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the sea bass fillets for 2-3 minutes on each side, or until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the fish is cooked through.",
+    "While the fish is cooking, prepare the Mediterranean relish by combining the lemon juice, garlic, parsley, oregano, red onion, olives, and capers in a bowl.",
+    "Once the fish is done, remove it from the oven and top each fillet with a spoonful of the Mediterranean relish.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "seafood",
+    "keto",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-mediterranean-sea-bass-fillets-grilled--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:25:35.565Z"
+}
