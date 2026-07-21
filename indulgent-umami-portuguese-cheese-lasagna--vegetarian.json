@@ -1,0 +1,81 @@
+{
+  "slug": "indulgent-umami-portuguese-cheese-lasagna--vegetarian",
+  "title": "Portuguese Vegetarian Lasagna",
+  "description": "A rich and satisfying vegetarian lasagna inspired by Portuguese flavors, featuring layers of creamy cheese and tender vegetables.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Indulgent Lasagna Noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Umami-Rich Tomato Sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Portuguese-Style Cheese Blend",
+      "amount": "2 cups, shredded"
+    },
+    {
+      "name": "Roasted Eggplant",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Sautéed Spinach",
+      "amount": "1 bunch, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the indulgent lasagna noodles according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the roasted eggplant and sauté for 3-4 minutes.",
+    "Add the umami-rich tomato sauce and stir to combine.",
+    "Bring the sauce to a simmer and let cook for 5 minutes.",
+    "In a large bowl, combine the Portuguese-style cheese blend and chopped fresh basil.",
+    "In a 9x13-inch baking dish, create a thin layer of the tomato sauce.",
+    "Arrange 4 cooked lasagna noodles on top of the sauce.",
+    "Spread half of the cheese blend over the noodles.",
+    "Repeat the layers, starting with the noodles, then the sauce, and finally the remaining cheese blend.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "vegetarian",
+    "lasagna",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 55,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-umami-portuguese-cheese-lasagna--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:28:31.669Z"
+}
