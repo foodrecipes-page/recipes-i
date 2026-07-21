@@ -17131,5 +17131,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 255,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-crunchy-algerian-lentils-pilaf--german",
+    "title": "German-Style Lentil Pilaf",
+    "tags": [
+      "german",
+      "lentil-pilaf",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "i"
   }
 ]
