@@ -1,0 +1,100 @@
+{
+  "slug": "intensely-braised-russian-beef-stew",
+  "title": "Intensely Braised Russian Beef Stew",
+  "description": "A hearty, comforting stew made with tender beef and rich flavors.",
+  "cuisine": "Russian",
+  "diet": [
+    "omnivore",
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mushroom",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Season the beef with salt and pepper. Add the beef to the pot and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the sliced mushroom and cook until it releases its liquid and starts to brown, about 5 minutes.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Add the beef broth, red wine, tomato paste, and thyme. Stir to combine.",
+    "Return the beef to the pot and bring the stew to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Braise the stew for 2 1/2 to 3 hours, or until the beef is tender.",
+    "Add the chopped carrot and potato to the pot and continue to braise for another 30 minutes.",
+    "Season the stew with salt and pepper to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "comfort-food",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-braised-russian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:28:21.726Z"
+}
