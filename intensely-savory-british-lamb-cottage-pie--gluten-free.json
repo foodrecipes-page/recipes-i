@@ -1,0 +1,90 @@
+{
+  "slug": "intensely-savory-british-lamb-cottage-pie--gluten-free",
+  "title": "Lamb and Cottage Pie",
+  "description": "A twist on the classic British dish, using gluten-free ingredients and featuring tender lamb and creamy cottage cheese.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Cottage Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-Free All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the lamb shoulder with salt and black pepper. In a large skillet, heat the olive oil over medium-high heat. Sear the lamb until browned on all sides, about 5 minutes.",
+    "Transfer the lamb to a plate and set aside. Reduce the heat to medium and add the butter to the skillet. Once melted, add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the gluten-free flour to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Slowly add 1 cup of beef broth to the skillet, whisking continuously. Bring the mixture to a simmer and cook until thickened, about 2-3 minutes.",
+    "Return the lamb to the skillet and stir to coat with the gravy. Transfer the lamb to a baking dish and top with the cottage cheese.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes. Remove the foil and continue baking for an additional 10-15 minutes, until the top is golden brown.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "lamb",
+    "cottage-cheese",
+    "gluten-free",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-british-lamb-cottage-pie--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:09:19.873Z"
+}
