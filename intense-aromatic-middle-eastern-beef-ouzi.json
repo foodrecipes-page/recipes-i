@@ -1,0 +1,96 @@
+{
+  "slug": "intense-aromatic-middle-eastern-beef-ouzi",
+  "title": "Middle Eastern Beef Ouzi",
+  "description": "A flavorful Middle Eastern dish featuring slow-cooked beef in a rich and aromatic sauce, served over basmati rice.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Ouzi Spice Mix",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "use for browning and sauce"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "adds depth to the sauce"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "pungent flavor"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 teaspoon",
+      "notes": "warm, aromatic spice"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "earthy, Middle Eastern flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "enhances flavors"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "balances flavors"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "garnish and fresh flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat.",
+    "Add the ground beef and cook, breaking it up with a spoon, until browned, about 5-7 minutes.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the ouzi spice mix, allspice, cumin, salt, and black pepper. Cook for 1 minute.",
+    "Add 2 cups of beef broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 1 1/2 hours, or until the meat is tender.",
+    "Stir in 2 tablespoons of chopped fresh cilantro.",
+    "Serve the beef and sauce over basmati rice and garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "middle-eastern",
+    "slow-cooker",
+    "meat",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-aromatic-middle-eastern-beef-ouzi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:31:05.525Z"
+}
