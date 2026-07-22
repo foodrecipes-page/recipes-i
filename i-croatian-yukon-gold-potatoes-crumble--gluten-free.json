@@ -1,0 +1,73 @@
+{
+  "slug": "i-croatian-yukon-gold-potatoes-crumble--gluten-free",
+  "title": "Croatian Potato Crumble",
+  "description": "A gluten-free take on a classic dish, combining the flavors of Croatia with the comfort of a warm crumble.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "i",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "croatian sausage",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "yukon gold potatoes",
+      "amount": "3 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "gold potatoes",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the Croatian sausage in a large skillet over medium-high heat, breaking it up with a spoon as it cooks, until browned and cooked through.",
+    "Add the diced i to the skillet and cook until they start to soften.",
+    "Add the diced potatoes to the skillet and cook until they are slightly tender.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "In a separate bowl, mix together the crumble and a pinch of salt.",
+    "Top the potato mixture with the crumble mixture.",
+    "Bake for 25-30 minutes, or until the crumble is golden brown and the potatoes are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/i-croatian-yukon-gold-potatoes-crumble--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:02:50.459Z"
+}
