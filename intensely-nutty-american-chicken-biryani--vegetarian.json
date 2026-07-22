@@ -1,0 +1,84 @@
+{
+  "slug": "intensely-nutty-american-chicken-biryani--vegetarian",
+  "title": "American Biryani",
+  "description": "A vegetarian twist on the classic Indian dish, with a nutty and intensely flavorful twist.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 medium",
+      "notes": "any color, finely chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "American Cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "Intensely Nutty Spice Blend",
+      "amount": "2 teaspoons",
+      "notes": "available at most grocery stores"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onions and garlic and cook until softened, about 3-4 minutes.",
+    "Add bell peppers and carrots and cook until tender, about 5 minutes.",
+    "Add basmati rice and stir to combine with vegetables.",
+    "Add American cheese and stir until melted and combined.",
+    "Add Intensely Nutty Spice Blend and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes, stirring occasionally.",
+    "Serve hot and enjoy!",
+    "Fluff the rice mixture with a fork to separate the grains."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "american",
+    "biryani",
+    "indian",
+    "rice",
+    "chicken-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-nutty-american-chicken-biryani--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:54:56.594Z"
+}
