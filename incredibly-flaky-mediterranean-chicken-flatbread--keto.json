@@ -1,0 +1,86 @@
+{
+  "slug": "incredibly-flaky-mediterranean-chicken-flatbread--keto",
+  "title": "Flaky Mediterranean Chicken",
+  "description": "A keto twist on traditional Mediterranean cuisine, featuring crispy chicken and crunchy flatbread. Perfect for a low-carb dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "flaky",
+      "amount": "1/2 cup",
+      "notes": "Crumb mixture"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1/4 cup",
+      "notes": "Olive oil-based seasoning blend"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4 slices",
+      "notes": "Low-carb, cauliflower-based"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a shallow dish, mix together the flaky and mediterranean ingredients.",
+    "Dip each chicken breast into the mixture, coating evenly.",
+    "Place the coated chicken on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and season with garlic.",
+    "Bake for 20-25 minutes, or until the chicken reaches an internal temperature of 165°F (74°C).",
+    "While the chicken cooks, preheat a grill or grill pan to medium-high heat.",
+    "Slice the flatbread into strips and grill until crispy.",
+    "Top each slice with crumbled feta cheese and a sprinkle of mediterranean seasoning.",
+    "Serve the grilled flatbread alongside the baked chicken.",
+    "Drizzle with lemon juice and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "low-carb",
+    "keto",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 43
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-flaky-mediterranean-chicken-flatbread--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:47:00.243Z"
+}
