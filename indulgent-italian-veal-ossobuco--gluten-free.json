@@ -1,0 +1,104 @@
+{
+  "slug": "indulgent-italian-veal-ossobuco--gluten-free",
+  "title": "Gluten-Free Veal Ossobuco",
+  "description": "A classic Italian dish with a gluten-free twist, featuring tender veal shanks slow-cooked in white wine and broth.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal shanks",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the veal shanks with salt and black pepper.",
+    "Heat the ghee in a large Dutch oven over medium-high heat. Sear the veal shanks until browned on all sides, about 5 minutes per side. Remove the veal from the pot and set aside.",
+    "Add the olive oil to the pot and sauté the onion, carrots, and celery until the vegetables are tender, about 5 minutes.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the white wine and chicken broth to the pot, scraping up any browned bits from the bottom. Bring the mixture to a simmer.",
+    "Return the veal shanks to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and cook for 2 1/2 hours, or until the veal is tender and falls off the bone.",
+    "Remove the pot from the oven and stir in the thyme. Serve the veal shanks with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "gluten-free",
+    "ossobuco",
+    "veal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-italian-veal-ossobuco--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:08:42.682Z"
+}
