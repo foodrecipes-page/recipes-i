@@ -1,0 +1,65 @@
+{
+  "slug": "intensely-flaky-american-wensleydale-pie--german",
+  "title": "German Apple Pie",
+  "description": "A traditional German dessert made with flaky crust, wensleydale cheese, and sweet apples.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flaky pie crust",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "wensleydale cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "intensely sweet apples",
+      "amount": "4",
+      "notes": "such as honeycrisp"
+    },
+    {
+      "name": "american sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "american cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pie crust and place in a pie dish.",
+    "In a separate bowl, mix together the wensleydale cheese, sweet apples, sugar, and cinnamon.",
+    "Fill the pie crust with the apple mixture and dot the top with butter.",
+    "Roll out the remaining pie crust and use to cover the pie.",
+    "Crimp the edges and cut a few slits in the top to allow steam to escape.",
+    "Bake for 45-50 minutes, or until the crust is golden brown and the apples are tender.",
+    "Let the pie cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flaky-american-wensleydale-pie--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:07:17.274Z"
+}
