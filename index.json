@@ -17151,5 +17151,44 @@
     "cuisine": "Croatian",
     "totalTimeMin": 45,
     "shard": "i"
+  },
+  {
+    "slug": "intense-chewy-ukrainian-pasta-dish--japanese",
+    "title": "Japanese Pasta Dish",
+    "tags": [
+      "japanese-fusion",
+      "pasta-dish",
+      "ukrainian-sauce"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-charred-norwegian-lamination-puff-galette--italian",
+    "title": "Puff Pastry Galette Italiano",
+    "tags": [
+      "italian",
+      "pastry",
+      "dessert",
+      "raspberry"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-rich-jamaican-potatoes-gratin--german",
+    "title": "German Jamaican Potato Gratin",
+    "tags": [
+      "german",
+      "jamaican",
+      "potato",
+      "gratin",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "i"
   }
 ]
