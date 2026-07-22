@@ -1,0 +1,92 @@
+{
+  "slug": "intensely-jammy-moroccan-paccheri-pasta-seffa--indian",
+  "title": "Seffa with Intensely Spiced Moroccan Pasta",
+  "description": "A flavorful and aromatic Indian-inspired dish featuring paccheri pasta tossed with jammy seffa and intensely spiced moroccan sauce.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "400g",
+      "notes": null
+    },
+    {
+      "name": "seffa",
+      "amount": "250g",
+      "notes": "cooked al dente"
+    },
+    {
+      "name": "intensely spiced moroccan sauce",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened.",
+    "Add the grated ginger and minced garlic and cook for a further minute.",
+    "Add the cumin, coriander, and cayenne pepper and cook for 1 minute.",
+    "Add the intensely spiced moroccan sauce and stir to combine.",
+    "Add the cooked paccheri pasta and toss to coat with the sauce.",
+    "Cook for a further 2-3 minutes to allow the flavors to meld.",
+    "Stir in the cooked seffa and season to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "spicy",
+    "pasta",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 22,
+    "carbs": 80,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-jammy-moroccan-paccheri-pasta-seffa--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:54:30.368Z"
+}
