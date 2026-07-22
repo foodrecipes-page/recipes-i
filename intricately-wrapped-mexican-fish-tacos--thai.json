@@ -1,0 +1,86 @@
+{
+  "slug": "intricately-wrapped-mexican-fish-tacos--thai",
+  "title": "Thai Tacos",
+  "description": "A fusion of Thai and Mexican flavors in a taco. The delicate fish is marinated in a mix of Thai spices and herbs, then pan-seared to perfection and served in a crispy taco shell.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillet",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Taco Shells",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced Bell Pepper",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together the Thai red curry paste, fish sauce, and lime juice.",
+    "2. Add the fish fillet to the marinade and mix well to coat.",
+    "3. Let the fish marinate for at least 15 minutes.",
+    "4. Heat a large skillet over medium-high heat.",
+    "5. Remove the fish from the marinade and add it to the skillet.",
+    "6. Cook the fish for 3-4 minutes per side, or until it is cooked through.",
+    "7. Warm the taco shells according to package instructions.",
+    "8. Slice the cooked fish into thin strips.",
+    "9. Assemble the tacos by placing a few strips of fish onto a warmed taco shell and topping with diced onion, diced bell pepper, and chopped cilantro.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "mexican",
+    "fish",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricately-wrapped-mexican-fish-tacos--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:34:40.002Z"
+}
