@@ -17319,5 +17319,17 @@
     "cuisine": "Thai",
     "totalTimeMin": 18,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-canadian-gobo-burdock-stew--japanese",
+    "title": "Japanese Burdock Stew",
+    "tags": [
+      "japanesestew",
+      "burdockstew",
+      "veggie stew"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "i"
   }
 ]
