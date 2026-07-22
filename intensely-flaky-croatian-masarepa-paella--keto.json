@@ -1,0 +1,89 @@
+{
+  "slug": "intensely-flaky-croatian-masarepa-paella--keto",
+  "title": "Croatian Masarepa Paella",
+  "description": "A keto twist on the traditional Spanish dish, using Croatian masarepa for a unique flavor.",
+  "cuisine": "croatian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian masarepa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Intensely seasoned sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Flaky cod",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Paella spices",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat chicken broth in a large skillet over medium-high heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add sausage and cook until browned, breaking up into small pieces.",
+    "Add cod and cook until flaked.",
+    "Add masarepa, paprika, salt, and black pepper. Stir to combine.",
+    "Cook for 5 minutes, stirring frequently.",
+    "Add paella spices and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "croatian",
+    "paella",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 39
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flaky-croatian-masarepa-paella--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:50:59.317Z"
+}
