@@ -1,0 +1,96 @@
+{
+  "slug": "intensely-gooey-japanese-tofu-gyoza--mexican",
+  "title": "Spicy Gyoza Tacos",
+  "description": "A twist on traditional Mexican tacos, using Japanese gyoza as a crunchy shell and tofu for a protein-packed filling.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gyoza (Japanese Pan-Fried Dumplings)",
+      "amount": "24 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Intensely Seasoned Ground Beef (or substitute for vegetarian option)",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Gooey Queso Cheese (Monterey Jack or Cheddar work well)",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium-high heat.",
+    "2. Cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "3. Add the cumin, chili powder, salt, and pepper to the skillet and stir to combine.",
+    "4. Meanwhile, cook the gyoza according to package instructions.",
+    "5. In a separate pan, add a small amount of oil and cook the tofu until golden brown.",
+    "6. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "7. Assemble the tacos by placing a few pieces of gyoza on each tortilla, topping with the tofu and beef mixture, and finishing with a sprinkle of queso and cilantro.",
+    "8. Serve immediately and enjoy!",
+    "9. If desired, add a squeeze of lime juice to the tacos for extra flavor.",
+    "10. Serve with your favorite toppings, such as diced onions, sour cream, or salsa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "mexican",
+    "gyoza",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-gooey-japanese-tofu-gyoza--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:00:28.059Z"
+}
