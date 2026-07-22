@@ -17306,5 +17306,18 @@
     "cuisine": "italian",
     "totalTimeMin": 170,
     "shard": "i"
+  },
+  {
+    "slug": "intricately-wrapped-mexican-fish-tacos--thai",
+    "title": "Thai Tacos",
+    "tags": [
+      "thai",
+      "mexican",
+      "fish",
+      "tacos"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 18,
+    "shard": "i"
   }
 ]
