@@ -17215,5 +17215,59 @@
     "cuisine": "Mediterranean",
     "totalTimeMin": 35,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-nutty-american-chicken-biryani--vegetarian",
+    "title": "American Biryani",
+    "tags": [
+      "vegetarian",
+      "american",
+      "biryani",
+      "indian",
+      "rice",
+      "chicken-free"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-gooey-japanese-tofu-gyoza--mexican",
+    "title": "Spicy Gyoza Tacos",
+    "tags": [
+      "tacos",
+      "mexican",
+      "gyoza",
+      "tofu"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-flavored-syrian-dash-tagine--thai",
+    "title": "Spicy Tagine Chicken",
+    "tags": [
+      "thai",
+      "chicken",
+      "tagine",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-jammy-moroccan-paccheri-pasta-seffa--indian",
+    "title": "Seffa with Intensely Spiced Moroccan Pasta",
+    "tags": [
+      "indian",
+      "spicy",
+      "pasta",
+      "moroccan"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 27,
+    "shard": "i"
   }
 ]
