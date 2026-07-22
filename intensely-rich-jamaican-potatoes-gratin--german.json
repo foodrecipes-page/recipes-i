@@ -1,0 +1,98 @@
+{
+  "slug": "intensely-rich-jamaican-potatoes-gratin--german",
+  "title": "German Jamaican Potato Gratin",
+  "description": "A unique twist on the classic German potato gratin, infused with the bold flavors of Jamaica.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 pounds",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "rich coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "intensely dark chocolate chips",
+      "amount": "1/4 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "sharp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Butter a 9x13 inch baking dish.",
+    "In a separate pan, sauté the diced onion until softened.",
+    "Add the grated cheddar cheese, flour, garlic powder, nutmeg, and salt. Mix well.",
+    "In a separate saucepan, heat the coconut milk over medium heat.",
+    "Gradually add the chocolate chips, stirring constantly until melted.",
+    "Combine the cooked onion mixture and coconut milk mixture.",
+    "Layer the sliced potatoes in the prepared baking dish.",
+    "Pour the onion-coconut mixture over the potatoes.",
+    "Top with additional grated cheese if desired.",
+    "Bake for 30-40 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "jamaican",
+    "potato",
+    "gratin",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 32,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-rich-jamaican-potatoes-gratin--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:11:02.948Z"
+}
