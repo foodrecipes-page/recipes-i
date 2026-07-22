@@ -1,0 +1,74 @@
+{
+  "slug": "indulgent-fermented-croatian-grain-baked-pastry",
+  "title": "Fermented Pastry Croissants",
+  "description": "Indulge in flaky, buttery croissants infused with a hint of fermented flavor and a Croatian twist.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fermented Pastry Dough",
+      "amount": "1 package (1 cup)",
+      "notes": "Available at most European markets"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": "Softened to room temperature"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": "At room temperature"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Optional, for a touch of sweetness"
+    },
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 teaspoon",
+      "notes": "Instant yeast can be substituted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Flaky sea salt or kosher salt recommended"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "On a lightly floured surface, roll out the fermented pastry dough to a thickness of about 1/4 inch (6 mm).",
+    "Cut the dough into long, thin triangles. Cut each triangle in half, so you have a total of 16 triangles.",
+    "Place a tablespoon of unsalted butter in the center of each triangle. Fold the dough over the butter to form a triangle, pressing the edges together to seal.",
+    "Place the croissants on the prepared baking sheet, leaving about 1 inch (2.5 cm) of space between each pastry.",
+    "In a small bowl, whisk together the eggs and granulated sugar (if using). Brush the egg wash over the croissants, making sure to get both sides.",
+    "Bake the croissants for 20-25 minutes, or until they are golden brown.",
+    "Remove the croissants from the oven and let them cool on a wire rack for 5 minutes.",
+    "Serve the croissants warm, or let them cool completely and store them in an airtight container at room temperature for up to 3 days."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent",
+    "fermented",
+    "croatian",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-fermented-croatian-grain-baked-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:23:12.097Z"
+}
