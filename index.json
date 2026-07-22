@@ -2507,18 +2507,15 @@
   },
   {
     "slug": "indulgent-fermented-croatian-grain-baked-pastry",
-    "title": "Indulgent Fermented Croatian Grain Baked Pastry",
+    "title": "Fermented Pastry Croissants",
     "tags": [
-      "cheesy",
-      "croatian",
-      "dessert",
-      "grain-bread",
       "indulgent",
-      "one-pan",
-      "weeknight"
+      "fermented",
+      "croatian",
+      "pastry"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -17282,6 +17279,32 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-flaky-croatian-masarepa-paella--keto",
+    "title": "Croatian Masarepa Paella",
+    "tags": [
+      "keto",
+      "croatian",
+      "paella",
+      "low-carb"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-italian-veal-ossobuco--gluten-free",
+    "title": "Gluten-Free Veal Ossobuco",
+    "tags": [
+      "italian",
+      "gluten-free",
+      "ossobuco",
+      "veal"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
     "shard": "i"
   }
 ]
