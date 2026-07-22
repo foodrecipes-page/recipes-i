@@ -1,0 +1,72 @@
+{
+  "slug": "intense-chewy-ukrainian-pasta-dish--japanese",
+  "title": "Japanese Pasta Dish",
+  "description": "A unique fusion of Japanese and Italian flavors, this dish combines the intense flavor of a Ukrainian-inspired sauce with chewy pasta.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "Chewy pasta, such as udon or soba"
+    },
+    {
+      "name": "Intense Ukrainian Sauce",
+      "amount": "1 cup",
+      "notes": "See below for sauce ingredients"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "For added umami flavor"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tsp",
+      "notes": "For added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to the package instructions.",
+    "In a separate pan, heat the sesame oil over medium heat.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the Ukrainian sauce and bring to a simmer.",
+    "Stir in the soy sauce and cook for an additional 2 minutes.",
+    "Toss the cooked pasta in the sauce until well coated.",
+    "Transfer the pasta to a serving dish and garnish with sliced green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-fusion",
+    "pasta-dish",
+    "ukrainian-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-chewy-ukrainian-pasta-dish--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:27:26.588Z"
+}
