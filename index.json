@@ -17140,5 +17140,17 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "i"
+  },
+  {
+    "slug": "i-croatian-yukon-gold-potatoes-crumble--gluten-free",
+    "title": "Croatian Potato Crumble",
+    "tags": [
+      "croatian",
+      "gluten-free",
+      "comfort-food"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 45,
+    "shard": "i"
   }
 ]
