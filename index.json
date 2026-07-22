@@ -17269,5 +17269,19 @@
     "cuisine": "indian",
     "totalTimeMin": 27,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-british-lamb-cottage-pie--gluten-free",
+    "title": "Lamb and Cottage Pie",
+    "tags": [
+      "british",
+      "lamb",
+      "cottage-cheese",
+      "gluten-free",
+      "dinner"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 55,
+    "shard": "i"
   }
 ]
