@@ -3115,18 +3115,15 @@
   },
   {
     "slug": "indulgent-italian-tuna-pasta",
-    "title": "Indulgent Italian Tuna Pasta",
+    "title": "Tuna Pasta Bake",
     "tags": [
-      "creamy",
-      "high-protein",
-      "italian-dish",
-      "no-garlic",
-      "no-onion",
-      "pasta",
-      "post-workout"
+      "italian",
+      "easy",
+      "tuna",
+      "pasta"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -9817,17 +9814,16 @@
   },
   {
     "slug": "intensely-comforting-dutch-beef-stew",
-    "title": "Intensely Comforting Dutch Beef Stew",
+    "title": "Intensely Comforting Beef Stew",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "gluten-free",
-      "hearty-stew",
-      "one-pot",
-      "weeknight-dinner"
+      "beef",
+      "stew",
+      "dutch",
+      "comforting",
+      "intensely"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 180,
+    "totalTimeMin": 165,
     "shard": "i"
   },
   {
@@ -12849,17 +12845,16 @@
   },
   {
     "slug": "intensely-smoky-croatian-lamb-stew",
-    "title": "Intensely Smoky Croatian Lamb Stew",
+    "title": "Smoky Croatian Lamb Stew",
     "tags": [
-      "comfort-food",
+      "lamb",
+      "stew",
       "croatian",
-      "lamb-based",
-      "macrobiotic",
-      "one-pot",
-      "smoky"
+      "smoky",
+      "hearty"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 230,
     "shard": "i"
   },
   {
@@ -17330,6 +17325,20 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "innovative-crisp-jamaican-coconut-dumplings--keto",
+    "title": "Crispy Jamaican Coconut Dumplings",
+    "tags": [
+      "keto",
+      "jamaican",
+      "coconut",
+      "dumplings",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "i"
   }
 ]
