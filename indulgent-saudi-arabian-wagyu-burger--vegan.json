@@ -1,0 +1,82 @@
+{
+  "slug": "indulgent-saudi-arabian-wagyu-burger--vegan",
+  "title": "Saudi Arabian-Style Vegan Burger",
+  "description": "A flavorful and aromatic vegan burger inspired by the spices of Saudi Arabia. This dish is a great alternative to traditional burgers and is perfect for a quick and delicious meal.",
+  "cuisine": "saudi",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wagyu Mushroom Patty",
+      "amount": "4",
+      "notes": "Made with sautéed mushrooms and spices"
+    },
+    {
+      "name": "Indulgent Brioche Buns",
+      "amount": "2",
+      "notes": "Soft and fluffy brioche buns"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1 cup",
+      "notes": "Sweet and savory caramelized onions"
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "1 cup",
+      "notes": "Sweet and smoky roasted red peppers"
+    },
+    {
+      "name": "Tahini Sauce",
+      "amount": "1/2 cup",
+      "notes": "Creamy and nutty tahini sauce"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh and fragrant cilantro"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Tangy and refreshing lemon juice"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Season with salt and pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form the Wagyu Mushroom Patty into 4 equal-sized patties.",
+    "Grill the patties for 3-4 minutes per side, or until cooked through.",
+    "Meanwhile, toast the indulgent brioche buns on the grill or in a toaster.",
+    "Assemble the burgers by spreading a dollop of tahini sauce on the bottom bun, followed by a patty, some caramelized onions, roasted red peppers, and a sprinkle of chopped cilantro.",
+    "Drizzle with lemon juice and season with salt and pepper to taste.",
+    "Top with the top bun and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "burger",
+    "saudi",
+    "arabian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-saudi-arabian-wagyu-burger--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:23:55.314Z"
+}
