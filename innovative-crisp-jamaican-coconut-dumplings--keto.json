@@ -1,0 +1,73 @@
+{
+  "slug": "innovative-crisp-jamaican-coconut-dumplings--keto",
+  "title": "Crispy Jamaican Coconut Dumplings",
+  "description": "Delicious keto dumplings with crispy exterior and fluffy interior, infused with the flavors of Jamaica.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crisp Coconut Flour",
+      "amount": "1 cup",
+      "notes": "Make sure to use a high-quality coconut flour for the best results."
+    },
+    {
+      "name": "Jamaican Seasonings",
+      "amount": "1 tsp",
+      "notes": "Use a combination of spices like thyme, allspice, and scotch bonnet peppers to get that authentic Jamaican flavor."
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Large egg for binding the dumpling mixture."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted butter for greasing the pan."
+    },
+    {
+      "name": "Dumpling",
+      "amount": "4",
+      "notes": "Homemade or store-bought dumplings for this recipe."
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large bowl, combine the coconut flour, Jamaican seasonings, and egg.",
+    "3. Mix well until a smooth dough forms.",
+    "4. Divide the dough into 4 equal pieces.",
+    "5. Roll out each piece into a thin circle.",
+    "6. Heat a non-stick pan over medium heat.",
+    "7. Grease the pan with butter.",
+    "8. Place a dumpling in the pan and cook for 2-3 minutes on each side.",
+    "9. Transfer the cooked dumpling to a baking sheet lined with parchment paper.",
+    "10. Repeat the process with the remaining dumplings.",
+    "11. Brush the tops of the dumplings with melted butter.",
+    "12. Bake in the preheated oven for 15-20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "jamaican",
+    "coconut",
+    "dumplings",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-crisp-jamaican-coconut-dumplings--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:25:42.432Z"
+}
