@@ -17447,5 +17447,18 @@
     "cuisine": "caribbean",
     "totalTimeMin": 35,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-italian-tuna-pasta--vegan",
+    "title": "Creamy Vegan Pasta Primavera",
+    "tags": [
+      "vegan",
+      "italian",
+      "pasta",
+      "primavera"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "i"
   }
 ]
