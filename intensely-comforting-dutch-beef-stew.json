@@ -1,0 +1,99 @@
+{
+  "slug": "intensely-comforting-dutch-beef-stew",
+  "title": "Intensely Comforting Beef Stew",
+  "description": "A hearty and comforting beef stew perfect for cold days, made with tender chunks of beef in a rich and flavorful broth.",
+  "cuisine": "Dutch",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1  1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Add the beef and cook until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add more oil to the pot if necessary, then sauté the onion until softened, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the flour to the pot and cook for 1 minute.",
+    "Gradually add the broth, wine, tomato paste, thyme, salt, and pepper to the pot, stirring to combine.",
+    "Return the beef to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the beef is tender, about 2 1/2 hours.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "dutch",
+    "comforting",
+    "intensely"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-comforting-dutch-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:51:28.700Z"
+}
