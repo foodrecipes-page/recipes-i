@@ -1,0 +1,89 @@
+{
+  "slug": "innovative-scottish-cod-fish-and-chips--thai",
+  "title": "Thai Cod Fish Fritters with Chips",
+  "description": "Crispy Thai-style fish fritters served with a side of crunchy chips.",
+  "cuisine": "thai",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cod Fish",
+      "amount": "1 lb",
+      "notes": "Diced"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped Green Chili",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Chopped Shallots",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "All Purpose Flour",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "For chips"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine cod fish, fish sauce, chopped cilantro, green chili, shallots, and Thai red curry paste. Mix well.",
+    "2. Add all-purpose flour to the bowl and mix until the fish mixture is well coated.",
+    "3. Divide the fish mixture into small balls and flatten slightly into patties.",
+    "4. Heat vegetable oil in a large frying pan over medium-high heat.",
+    "5. Fry the fish fritters for 3-4 minutes on each side, until golden brown and cooked through.",
+    "6. Drain the fritters on paper towels.",
+    "7. Slice the potatoes into thin strips and soak in cold water for at least 30 minutes.",
+    "8. Heat vegetable oil in a deep frying pan over medium-high heat.",
+    "9. Fry the potato strips in batches until crispy and golden brown.",
+    "10. Drain the chips on paper towels and serve with the fish fritters."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "fish-fritters",
+    "chips"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-scottish-cod-fish-and-chips--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:46:20.557Z"
+}
