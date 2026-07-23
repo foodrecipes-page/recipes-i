@@ -1,0 +1,92 @@
+{
+  "slug": "intensely-smoky-saudi-arabian-shrimp-paste-skewers",
+  "title": "Saudi Arabian Grilled Shrimp Skewers",
+  "description": "A flavorful and aromatic dish from Saudi Arabia, featuring marinated shrimp grilled to perfection on skewers.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp paste",
+      "amount": "2 tablespoons",
+      "notes": "available in most Middle Eastern markets"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together shrimp paste, lemon juice, garlic, cumin, coriander, cayenne pepper (if using), salt, and pepper.",
+    "Add the shrimp to the marinade and mix to coat. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat grill to medium-high heat. Thread the marinated shrimp onto skewers.",
+    "Brush the grill with olive oil to prevent sticking. Grill the shrimp skewers for 2-3 minutes per side, or until they are pink and cooked through.",
+    "Serve the shrimp skewers hot with additional lemon wedges on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "shrimp",
+    "saudi-arabian",
+    "skewers",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-saudi-arabian-shrimp-paste-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:09:53.164Z"
+}
