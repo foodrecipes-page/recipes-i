@@ -1,0 +1,65 @@
+{
+  "slug": "indulgent-canadian-one-pot-dish-stone-bowl--vegan",
+  "title": "Vegan One Pot Stone Bowl",
+  "description": "A hearty and comforting vegan dish made in one pot and served in a bowl over a bed of stone-ground rice.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Indulgent mushrooms",
+      "amount": "1 cup",
+      "notes": "such as shiitake or cremini"
+    },
+    {
+      "name": "Canadian black beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "One onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Stone-ground rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Bowl of broth",
+      "amount": "4 cups",
+      "notes": "vegan broth, such as vegetable or mushroom"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the black beans, rice, and broth to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20-25 minutes, or until the rice is tender.",
+    "Fluff the rice with a fork and serve in bowls over a bed of stone-ground rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "one-pot",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-canadian-one-pot-dish-stone-bowl--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:37:01.959Z"
+}
