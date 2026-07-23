@@ -1,0 +1,81 @@
+{
+  "slug": "indulgent-cream-mediterranean-yeast-paella--keto",
+  "title": "Mediterranean Keto Paella",
+  "description": "A rich and creamy keto version of the classic Spanish dish, featuring Mediterranean flavors and a variety of textures.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": "preferably unflavored and unscented"
+    },
+    {
+      "name": "Indulgent chorizo",
+      "amount": "1/2 pound",
+      "notes": "look for a keto-friendly variety"
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/4 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Creme fraiche",
+      "amount": "1/2 cup",
+      "notes": "full-fat, unsweetened"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the chorizo and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the paella rice and cook for 2-3 minutes, stirring constantly.",
+    "Add the creme fraiche and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Stir in the olives and parsley.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "paella",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-cream-mediterranean-yeast-paella--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:08:47.577Z"
+}
