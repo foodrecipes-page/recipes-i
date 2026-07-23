@@ -1,0 +1,84 @@
+{
+  "slug": "incredibly-citrusy-malaysian-asparagus-stir-fry",
+  "title": "Malaysian-Style Stir Fry",
+  "description": "A simple and flavorful stir fry inspired by Malaysian cuisine, featuring asparagus and a citrusy twist.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Asparagus",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Incredibly good oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Citrusy soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1 minute.",
+    "Add the asparagus and stir-fry for 3-4 minutes.",
+    "Add the chili flakes, soy sauce, salt, and pepper, and stir-fry for another minute.",
+    "Transfer the asparagus mixture to a serving dish and garnish with scallions.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-citrusy-malaysian-asparagus-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:53:57.034Z"
+}
