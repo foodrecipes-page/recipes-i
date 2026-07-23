@@ -4635,18 +4635,16 @@
   },
   {
     "slug": "indulgent-smoked-korean-flour-bao",
-    "title": "Indulgent Smoked Korean Flour Bao",
+    "title": "Smoked Korean BBQ Bao",
     "tags": [
-      "crisp",
-      "gluten-free",
-      "herbal",
-      "indulgent",
       "korean",
-      "one-pan",
-      "weeknight"
+      "bbq",
+      "pork",
+      "bao",
+      "smoked"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
@@ -17459,6 +17457,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-fluffy-basque-comte-galette--gluten-free",
+    "title": "Basque Comte Tart",
+    "tags": [
+      "gluten-free",
+      "dessert",
+      "cheese",
+      "tart"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
     "shard": "i"
   }
 ]
