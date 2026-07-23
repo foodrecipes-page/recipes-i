@@ -1,0 +1,96 @@
+{
+  "slug": "intensely-nutty-french-scallops-gratin--mexican",
+  "title": "Mexican Scallop Gratin",
+  "description": "A Mexican-inspired twist on the classic French scallop gratin. This dish features succulent scallops topped with a mixture of intensely flavorful spices, creamy cheese, and crunchy French breadcrumbs.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Scallops",
+      "amount": "12",
+      "notes": null
+    },
+    {
+      "name": "French bread",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Mexican crema",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Grated cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Intensely flavored chili flakes",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the scallops and pat them dry with paper towels.",
+    "Season the scallops with salt, black pepper, cumin, chili powder, and paprika.",
+    "In a large skillet, heat a tablespoon of oil over medium-high heat.",
+    "Add the scallops and sear for 2-3 minutes on each side, or until browned.",
+    "Transfer the scallops to a baking dish.",
+    "In the same skillet, add the crushed French bread and cook for 1-2 minutes, or until lightly toasted.",
+    "Sprinkle the toasted bread over the scallops.",
+    "Drizzle the Mexican crema over the bread.",
+    "Sprinkle the grated cheese over the top.",
+    "Bake for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Sprinkle the intensely flavored chili flakes over the top.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "seafood",
+    "gratin",
+    "scallops"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-nutty-french-scallops-gratin--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:07:52.366Z"
+}
