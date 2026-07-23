@@ -1,0 +1,88 @@
+{
+  "slug": "indulgent-italian-tuna-pasta--vegan",
+  "title": "Creamy Vegan Pasta Primavera",
+  "description": "A colorful and delicious vegan pasta dish loaded with sautéed vegetables, creamy sauce, and served with a side of garlic bread.",
+  "cuisine": "italian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "Choose a vegan-friendly pasta option."
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Vegan cream cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "2 tbsp",
+      "notes": "Optional, for a cheesy flavor."
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions and set aside.",
+    "In a large skillet, melt vegan butter over medium heat. Add garlic and sauté for 1 minute.",
+    "Add onion, mushrooms, bell peppers, and zucchini to the skillet. Cook until the vegetables are tender, about 5-7 minutes.",
+    "Stir in vegan cream cheese until melted and smooth.",
+    "Add cooked pasta to the skillet and toss with the creamy sauce.",
+    "Season with salt, pepper, and nutritional yeast (if using).",
+    "Serve hot and enjoy!",
+    "Optional: Serve with a side of garlic bread for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "italian",
+    "pasta",
+    "primavera"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-italian-tuna-pasta--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:17:57.793Z"
+}
