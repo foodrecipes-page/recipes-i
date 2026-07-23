@@ -1,0 +1,67 @@
+{
+  "slug": "incredibly-crunchy-german-potato-fritters--vegetarian",
+  "title": "German Potato Fritters",
+  "description": "Crispy potato fritters, a classic German vegetarian dish, ideal for a snack or side.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Incredibly crunchy vegetable oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "Peel and grate the potatoes.",
+    "Squeeze out excess moisture from the grated potatoes using a cheesecloth or a clean kitchen towel.",
+    "In a large bowl, combine the flour, baking powder, and a pinch of salt.",
+    "Add the egg and melted butter to the bowl and mix until just combined.",
+    "Add the grated potatoes to the bowl and mix until a thick batter forms.",
+    "Heat the incredibly crunchy vegetable oil in a large frying pan over medium heat.",
+    "Using a spoon, drop small balls of the potato mixture into the hot oil.",
+    "Fry the fritters until they are golden brown and crispy, about 3-4 minutes per side.",
+    "Drain the fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potato",
+    "fritters",
+    "vegetarian",
+    "snack"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-crunchy-german-potato-fritters--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:56:12.912Z"
+}
