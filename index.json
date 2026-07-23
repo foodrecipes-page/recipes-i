@@ -17471,5 +17471,43 @@
     "cuisine": "French",
     "totalTimeMin": 40,
     "shard": "i"
+  },
+  {
+    "slug": "intense-sweet-brazilian-banana-pudding--keto",
+    "title": "Keto Brazilian Banana Pudding",
+    "tags": [
+      "keto",
+      "dessert",
+      "pudding",
+      "brazilian",
+      "banana"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-brazilian-cheese-pao--keto",
+    "title": "Brazilian Keto Cheese Bread",
+    "tags": [
+      "low-carb",
+      "keto-friendly",
+      "cheese-lovers"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-cream-mediterranean-yeast-paella--keto",
+    "title": "Mediterranean Keto Paella",
+    "tags": [
+      "keto",
+      "paella",
+      "mediterranean"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "i"
   }
 ]
