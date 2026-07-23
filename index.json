@@ -17340,5 +17340,31 @@
     "cuisine": null,
     "totalTimeMin": 35,
     "shard": "i"
+  },
+  {
+    "slug": "intense-sweet-french-date-tagine--vegan",
+    "title": "Sweet French Tagine",
+    "tags": [
+      "vegan",
+      "french",
+      "dessert",
+      "sweet"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-pungent-vietnamese-pilchards-ca-kho-to--japanese",
+    "title": "Vietnamese-Style Grilled Pilchards",
+    "tags": [
+      "grilled",
+      "fish",
+      "asian",
+      "fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "i"
   }
 ]
