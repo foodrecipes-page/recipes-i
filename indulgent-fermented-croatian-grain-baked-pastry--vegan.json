@@ -1,0 +1,85 @@
+{
+  "slug": "indulgent-fermented-croatian-grain-baked-pastry--vegan",
+  "title": "Fermented Croatian Pastry Bites",
+  "description": "Crispy, cheesy-free pastry bites filled with a tangy, fermented filling.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pastry dough (homemade or store-bought)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Fermented vegan cheese alternative",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Baked corn",
+      "amount": "1 cup",
+      "notes": "canned or fresh, thawed"
+    },
+    {
+      "name": "Indulgent chocolate chips (dairy-free)",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of about 1/8 inch.",
+    "Cut out small squares of pastry dough, about 2 inches per side.",
+    "In a small bowl, mix together the fermented cheese alternative, parsley, garlic, salt, and black pepper.",
+    "Place a small spoonful of the cheese mixture in the center of each pastry square.",
+    "Fold the pastry squares in half to form triangles, pressing the edges together to seal.",
+    "Place the pastry bites on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the pastry is golden brown.",
+    "If using, sprinkle with indulgent chocolate chips and return to the oven for an additional 2-3 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "snack",
+    "pastry",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-fermented-croatian-grain-baked-pastry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:57:11.245Z"
+}
