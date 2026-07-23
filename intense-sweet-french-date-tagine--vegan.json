@@ -1,0 +1,79 @@
+{
+  "slug": "intense-sweet-french-date-tagine--vegan",
+  "title": "Sweet French Tagine",
+  "description": "A rich and flavorful vegan tagine dish made with sweet ingredients. Enjoy as a hearty dessert.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 large, peeled and cubed",
+      "notes": "Choose sweet and firm potatoes"
+    },
+    {
+      "name": "Intense chocolate",
+      "amount": "1 cup, broken into small pieces",
+      "notes": "High-quality dark chocolate"
+    },
+    {
+      "name": "French dates",
+      "amount": "1 cup, pitted and chopped",
+      "notes": "Medjool or similar variety"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at Middle Eastern or North African markets"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "2 tbsp",
+      "notes": "Or substitute with date syrup for a more intense flavor"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": "For greasing the baking dish"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "1/2 cup",
+      "notes": "Optional for a creamier texture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grease an 8x8 inch baking dish with coconut oil.",
+    "In a blender, combine sweet potatoes, chocolate, dates, and tagine spice blend.",
+    "Blend until smooth and creamy, stopping to scrape down the sides as needed.",
+    "Pour the mixture into the prepared baking dish and smooth the top.",
+    "If using almond milk, drizzle it over the top of the mixture.",
+    "Bake for 35-40 minutes, or until the edges are set and the center is slightly gooey.",
+    "Remove from the oven and let cool for 10-15 minutes before serving.",
+    "Garnish with additional chocolate shavings or chopped nuts, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "french",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-sweet-french-date-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:58:57.972Z"
+}
