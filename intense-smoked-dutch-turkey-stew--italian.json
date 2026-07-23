@@ -1,0 +1,94 @@
+{
+  "slug": "intense-smoked-dutch-turkey-stew--italian",
+  "title": "Smoked Turkey and Dutch Stew",
+  "description": "A hearty, Italian-inspired stew featuring smoked turkey and Dutch carrots, perfect for a chilly evening.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Turkey Breast",
+      "amount": "1 pound",
+      "notes": "Slice into 1-inch pieces"
+    },
+    {
+      "name": "Dutch Carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop into 1-inch pieces"
+    },
+    {
+      "name": "Intense Italian Sausage",
+      "amount": "1 pound",
+      "notes": "Slice into 1-inch pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop into 1-inch pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Add the sliced Italian sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced smoked turkey breast and cook until browned, about 5 minutes.",
+    "Add the chopped Dutch carrots, red wine, chicken broth, tomato paste, and dried thyme.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes, or until the carrots are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "stew",
+    "smoked-turkey",
+    "dutch-carrots"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoked-dutch-turkey-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:30:51.796Z"
+}
