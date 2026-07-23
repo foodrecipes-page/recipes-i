@@ -1,0 +1,98 @@
+{
+  "slug": "intensely-smoky-croatian-lamb-stew",
+  "title": "Smoky Croatian Lamb Stew",
+  "description": "A hearty and flavorful stew featuring tender lamb and a smoky twist from the intensely smoky Croatian paprika. Perfect for a cold winter's night.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Intensely smoky Croatian paprika",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lamb broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2-3 medium",
+      "notes": "peeled and cubed"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the smoky paprika, caraway seeds, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the lamb broth and red wine (if using) to the pot and stir to combine.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the lamb for 2 1/2 to 3 hours, or until tender.",
+    "Add the cubed potatoes to the pot and continue to braise for an additional 30 minutes.",
+    "Serve the stew hot, garnished with fresh parsley or thyme (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 210,
+  "totalTimeMin": 230,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "stew",
+    "croatian",
+    "smoky",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 52,
+    "carbs": 36,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-croatian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:02:49.885Z"
+}
