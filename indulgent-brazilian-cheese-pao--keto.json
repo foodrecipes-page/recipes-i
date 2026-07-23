@@ -1,0 +1,67 @@
+{
+  "slug": "indulgent-brazilian-cheese-pao--keto",
+  "title": "Brazilian Keto Cheese Bread",
+  "description": "A keto version of the classic Brazilian cheese bread, made with pao and indulgent cheese. Perfect for a low-carb snack.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pao",
+      "amount": "1 cup (115g)"
+    },
+    {
+      "name": "Indulgent Cheese",
+      "amount": "1/2 cup (115g)"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/2 cup (60g)"
+    },
+    {
+      "name": "Xanthan Gum",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grate the pao and set aside.",
+    "Crumb the pao and mix with almond flour, xanthan gum, and salt in a bowl.",
+    "In a separate bowl, whisk together egg and cheese.",
+    "Combine the egg mixture with the pao mixture and mix well.",
+    "Transfer the mixture to a greased mini muffin tin.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "keto-friendly",
+    "cheese-lovers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "16g",
+    "carbs": "5g",
+    "fat": "28g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-brazilian-cheese-pao--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:35:25.954Z"
+}
