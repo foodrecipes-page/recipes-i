@@ -1,0 +1,83 @@
+{
+  "slug": "indulgent-smoked-korean-flour-bao",
+  "title": "Smoked Korean BBQ Bao",
+  "description": "Indulge in the sweet and savory flavors of Korean BBQ within a soft and fluffy bao. This recipe combines the rich flavors of smoked meats with the comforting texture of homemade bao.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bao dough",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Smoked pork belly",
+      "amount": "1/2 pound",
+      "notes": "such as Korean BBQ sauce-glazed"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 teaspoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "for BBQ sauce"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Bake the bao dough for 12-15 minutes, or until golden brown.",
+    "Marinate the smoked pork belly in a mixture of soy sauce, brown sugar, and gochujang for at least 30 minutes.",
+    "Grill or pan-fry the pork belly until caramelized.",
+    "Assemble the bao by splitting the baked dough in half, spooning the pork belly onto the bottom half, and topping with chopped green onions and toasted sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "korean",
+    "bbq",
+    "pork",
+    "bao",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-smoked-korean-flour-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:50:28.238Z"
+}
