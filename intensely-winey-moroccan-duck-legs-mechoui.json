@@ -1,0 +1,96 @@
+{
+  "slug": "intensely-winey-moroccan-duck-legs-mechoui",
+  "title": "Moroccan Duck Mechoui",
+  "description": "A traditional Moroccan dish where slow-cooked duck legs are marinated in a rich, winey sauce, perfect for a special occasion.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "4-6 legs",
+      "notes": ""
+    },
+    {
+      "name": "Intensely spiced Moroccan seasoning",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large bowl, mix together Moroccan seasoning, wine, olive oil, onion, garlic, ginger, cinnamon, cumin, and paprika.",
+    "Add the duck legs to the marinade and coat evenly.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the duck legs from the marinade and place them in a large Dutch oven or oven-safe pot.",
+    "Pour the remaining marinade over the duck legs and cover the pot with a lid.",
+    "Bake the duck legs in the preheated oven for 2-1/2 to 3 hours, or until the meat is tender and falls off the bone.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the duck legs with the rich, winey sauce spooned over the top.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "duck",
+    "mechoui",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "36g",
+    "carbs": "10g",
+    "fat": "42g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-winey-moroccan-duck-legs-mechoui",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:33:46.893Z"
+}
