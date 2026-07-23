@@ -1,0 +1,83 @@
+{
+  "slug": "intense-smoky-argentinian-beef-skewers",
+  "title": "Smoky Argentinian Beef Skewers",
+  "description": "Grilled to perfection, these smoky beef skewers are a taste of Argentina. Perfect for a summer barbecue or outdoor gathering.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "2 medium",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, smoked paprika, garlic, salt, and black pepper.",
+    "Add the beef, onion, and bell pepper to the bowl and toss to coat with the marinade.",
+    "Thread the beef and vegetables onto skewers, leaving a little space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the beef reaches an internal temperature of 135°F for medium-rare.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "smoky",
+    "skewers",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-argentinian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:03:08.825Z"
+}
