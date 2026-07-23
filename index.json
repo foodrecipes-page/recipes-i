@@ -17414,5 +17414,30 @@
     "cuisine": "saudi",
     "totalTimeMin": 32,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-fermented-croatian-grain-baked-pastry--vegan",
+    "title": "Fermented Croatian Pastry Bites",
+    "tags": [
+      "vegan",
+      "snack",
+      "pastry",
+      "fermented"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-mustardy-vietnamese-noodle-dish--italian",
+    "title": "Vietnamese Noodle Soup with Italian Twist",
+    "tags": [
+      "italian",
+      "vietnamese",
+      "pasta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "i"
   }
 ]
