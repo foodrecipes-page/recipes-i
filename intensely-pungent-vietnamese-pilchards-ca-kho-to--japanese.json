@@ -1,0 +1,91 @@
+{
+  "slug": "intensely-pungent-vietnamese-pilchards-ca-kho-to--japanese",
+  "title": "Vietnamese-Style Grilled Pilchards",
+  "description": "A fusion of Japanese and Vietnamese flavors, this dish combines the rich taste of grilled pilchards with the bold flavors of Southeast Asia.",
+  "cuisine": "japanese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilchards",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "ca",
+      "amount": "2 tablespoons",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "kho",
+      "amount": "1 tablespoon",
+      "notes": "fish sauce (optional)"
+    },
+    {
+      "name": "intensely pungent garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1 tablespoon",
+      "notes": "vietnamese chili sauce"
+    },
+    {
+      "name": "to",
+      "amount": "1",
+      "notes": "lime"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Rinse the pilchards and pat them dry with paper towels.",
+    "In a small bowl, mix together the fish sauce, fish sauce (if using), garlic, and brown sugar.",
+    "Brush the mixture onto both sides of the pilchards.",
+    "Grill the pilchards for 2-3 minutes per side, or until they are cooked through.",
+    "While the pilchards are cooking, mix together the vietnamese chili sauce and soy sauce in a small bowl.",
+    "Once the pilchards are cooked, brush them with the sesame oil and serve with the vietnamese chili sauce mixture.",
+    "Serve with a squeeze of lime juice and garnish with cilantro or scallions, if desired.",
+    "Serve immediately and enjoy!",
+    "Optional: grill sliced onions and bell peppers alongside the pilchards for added flavor and texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "fish",
+    "asian",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-pungent-vietnamese-pilchards-ca-kho-to--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:05:09.239Z"
+}
