@@ -1,0 +1,69 @@
+{
+  "slug": "innovative-crisp-jamaican-coconut-dumplings--gluten-free",
+  "title": "Jamaican Coconut Dumplings",
+  "description": "A gluten-free take on traditional Caribbean dumplings. These flavorful bite-sized treats are made with coconut and Jamaican spices.",
+  "cuisine": "caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Coconut Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Jamaican Allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Crushed Jamaican Pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine coconut flour, Jamaican allspice, and crushed Jamaican pepper.",
+    "Gradually add coconut oil and coconut milk to the dry ingredients, mixing until a dough forms.",
+    "Knead the dough for 5 minutes.",
+    "Add dumplings to the dough and knead until they are fully coated.",
+    "Divide the dough into 4-6 equal pieces.",
+    "Shape each piece into a ball and flatten slightly into a dumpling shape.",
+    "Place dumplings on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until dumplings are lightly golden brown.",
+    "Serve warm with your favorite toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "breakfast",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-crisp-jamaican-coconut-dumplings--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:37:27.225Z"
+}
