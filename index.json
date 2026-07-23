@@ -14018,17 +14018,15 @@
   },
   {
     "slug": "intensely-winey-moroccan-duck-legs-mechoui",
-    "title": "Intensely Winey Moroccan Duck Legs Mechoui",
+    "title": "Moroccan Duck Mechoui",
     "tags": [
-      "air-fryer",
-      "duck",
-      "gluten-free",
       "moroccan",
-      "slow-cooked",
-      "wine-based"
+      "duck",
+      "mechoui",
+      "slow-cooked"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 75,
+    "totalTimeMin": 180,
     "shard": "i"
   },
   {
@@ -17508,6 +17506,31 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "innovative-scottish-cod-fish-and-chips--thai",
+    "title": "Thai Cod Fish Fritters with Chips",
+    "tags": [
+      "thai",
+      "fish-fritters",
+      "chips"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-nutty-french-scallops-gratin--mexican",
+    "title": "Mexican Scallop Gratin",
+    "tags": [
+      "mexican",
+      "seafood",
+      "gratin",
+      "scallops"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
     "shard": "i"
   }
 ]
