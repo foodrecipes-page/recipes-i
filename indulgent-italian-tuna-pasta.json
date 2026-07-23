@@ -1,0 +1,85 @@
+{
+  "slug": "indulgent-italian-tuna-pasta",
+  "title": "Tuna Pasta Bake",
+  "description": "A simple and flavorful Italian-inspired pasta bake with tuna. Perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Tuna Canned in Water",
+      "amount": "1 can (5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Dried Basil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook the pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat. Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the canned tuna to the skillet and break it up with a spoon. Cook for 2-3 minutes until heated through.",
+    "Stir in the dried basil and season with salt and pepper.",
+    "In a large bowl, combine the cooked pasta, tuna mixture, and 1/2 cup of the mozzarella cheese.",
+    "Transfer the pasta mixture to a baking dish and top with the remaining mozzarella cheese and parmesan cheese.",
+    "Bake in the preheated oven for 15-20 minutes until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "easy",
+    "tuna",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-italian-tuna-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:54:46.100Z"
+}
