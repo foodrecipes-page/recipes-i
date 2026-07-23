@@ -1031,16 +1031,12 @@
   },
   {
     "slug": "incredibly-citrusy-malaysian-asparagus-stir-fry",
-    "title": "Incredibly Citrusy Malaysian Asparagus Stir Fry",
+    "title": "Malaysian-Style Stir Fry",
     "tags": [
-      "flexitarian-friendly",
-      "high-protein",
-      "one-pan",
-      "quick-dinner",
-      "weeknight"
+      "malaysian-stir-fry"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 18,
+    "cuisine": "malaysian",
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -17365,6 +17361,58 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 20,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-smoked-dutch-turkey-stew--italian",
+    "title": "Smoked Turkey and Dutch Stew",
+    "tags": [
+      "italian",
+      "stew",
+      "smoked-turkey",
+      "dutch-carrots"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-canadian-one-pot-dish-stone-bowl--vegan",
+    "title": "Vegan One Pot Stone Bowl",
+    "tags": [
+      "vegan",
+      "one-pot",
+      "rice-bowl"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "incredibly-crunchy-german-potato-fritters--vegetarian",
+    "title": "German Potato Fritters",
+    "tags": [
+      "german",
+      "potato",
+      "fritters",
+      "vegetarian",
+      "snack"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 23,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-saudi-arabian-wagyu-burger--vegan",
+    "title": "Saudi Arabian-Style Vegan Burger",
+    "tags": [
+      "vegan",
+      "burger",
+      "saudi",
+      "arabian"
+    ],
+    "cuisine": "saudi",
+    "totalTimeMin": 32,
     "shard": "i"
   }
 ]
