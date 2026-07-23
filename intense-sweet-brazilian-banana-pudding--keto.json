@@ -1,0 +1,81 @@
+{
+  "slug": "intense-sweet-brazilian-banana-pudding--keto",
+  "title": "Keto Brazilian Banana Pudding",
+  "description": "A rich and creamy pudding made with Brazilian bananas and a touch of sweetness, all within a keto diet.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Brazilian bananas",
+      "amount": "4",
+      "notes": "ripe"
+    },
+    {
+      "name": "sweet cream",
+      "amount": "1 cup",
+      "notes": "heavy"
+    },
+    {
+      "name": "pumpkin puree",
+      "amount": "1/2 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "intense",
+      "amount": "1/4 cup",
+      "notes": "unsweetened cocoa powder"
+    },
+    {
+      "name": "pork gelatin",
+      "amount": "2 tablespoons",
+      "notes": "keto-friendly"
+    },
+    {
+      "name": "keto sugar substitute",
+      "amount": "2 tablespoons",
+      "notes": "such as Swerve"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the sweet cream, pumpkin puree, intense, and pork gelatin. Bring to a boil over medium heat, then reduce heat to low and simmer for 5 minutes.",
+    "In a separate bowl, whisk together the egg yolks and keto sugar substitute. Temper the egg yolks by slowly pouring the warm cream mixture into the egg yolks, whisking constantly.",
+    "Return the saucepan to medium heat and cook for an additional 10-12 minutes, or until the mixture has thickened and passed the 'coat the back of a spoon' test.",
+    "Stir in the heavy cream and cook for 1-2 minutes, or until heated through.",
+    "Peel and slice the Brazilian bananas. Serve the pudding over the bananas, or layer the bananas and pudding in individual serving dishes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "dessert",
+    "pudding",
+    "brazilian",
+    "banana"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-sweet-brazilian-banana-pudding--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:18:50.063Z"
+}
