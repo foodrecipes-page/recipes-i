@@ -1,0 +1,88 @@
+{
+  "slug": "innovative-vietnamese-bellflower-root-doraji-com-tam",
+  "title": "Doraji and Com Stir Fry",
+  "description": "A simple and flavorful Vietnamese-inspired stir fry made with doraji, com, and bellflower root.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Doraji",
+      "amount": "2 cups",
+      "notes": "Rinsed and sliced"
+    },
+    {
+      "name": "Com",
+      "amount": "1 cup",
+      "notes": "Rinsed and sliced"
+    },
+    {
+      "name": "Bellflower Root",
+      "amount": "1 large",
+      "notes": "Peel and slice"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced doraji and com and stir-fry for 3-4 minutes, or until they start to soften.",
+    "Add the sliced bellflower root and stir-fry for another 2-3 minutes, or until all the vegetables are tender.",
+    "Add the grated ginger and minced garlic and stir-fry for 1 minute, or until fragrant.",
+    "Add the soy sauce, salt, and black pepper, and stir-fry for another minute, or until the vegetables are well coated.",
+    "Serve the stir-fry hot, garnished with chopped green onions if desired.",
+    "Note: If using bellflower root, be sure to cook it until it is tender, as it can be slightly bitter if undercooked."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-vietnamese-bellflower-root-doraji-com-tam",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:23:28.194Z"
+}
