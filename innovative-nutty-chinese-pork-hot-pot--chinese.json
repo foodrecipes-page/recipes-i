@@ -1,0 +1,73 @@
+{
+  "slug": "innovative-nutty-chinese-pork-hot-pot--chinese",
+  "title": "Savory Pork Hot Pot",
+  "description": "A traditional Chinese hot pot dish featuring tender pork and a variety of vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "innovative",
+      "amount": "1 tablespoon",
+      "notes": "hot sauce"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 tablespoon",
+      "notes": "sesame oil"
+    },
+    {
+      "name": "hot",
+      "amount": "1 tablespoon",
+      "notes": "chili flakes"
+    },
+    {
+      "name": "pot",
+      "amount": "2",
+      "notes": "large pots for hot pot"
+    },
+    {
+      "name": "chinese",
+      "amount": "1",
+      "notes": "hot pot broth"
+    }
+  ],
+  "instructions": [
+    "Prepare the hot pot broth according to the package instructions.",
+    "Slice the pork into thin strips.",
+    "Heat the sesame oil in a large pan over medium-high heat.",
+    "Add the pork to the pan and cook until browned, about 5 minutes.",
+    "Add the chili flakes and cook for an additional 1 minute.",
+    "Transfer the pork mixture to the hot pot pot and simmer for 10 minutes.",
+    "Serve the hot pot with a variety of vegetables, such as bok choy and mushrooms.",
+    "Dip the cooked pork and vegetables in the hot pot broth for a flavorful and spicy meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "hot-pot",
+    "pork",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-nutty-chinese-pork-hot-pot--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:20:27.929Z"
+}
