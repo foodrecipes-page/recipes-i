@@ -1,0 +1,89 @@
+{
+  "slug": "indulgent-mediterranean-shrimp-paella--french",
+  "title": "Shrimp Paella French Style",
+  "description": "A classic French-inspired paella dish featuring succulent shrimp and the flavors of the Mediterranean.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Saffron-infused rice",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Indulgent chorizo",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chorizo and cook, stirring occasionally, until browned, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the shrimp and cook, stirring occasionally, until pink, about 2-3 minutes.",
+    "Add the saffron-infused rice and smoked paprika, and stir to combine.",
+    "Cook for 1-2 minutes, until the rice is lightly toasted.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the olives and cook for an additional 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "spanish",
+    "french",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-mediterranean-shrimp-paella--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:09:06.047Z"
+}
