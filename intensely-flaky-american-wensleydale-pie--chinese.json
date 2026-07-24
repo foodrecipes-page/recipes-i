@@ -1,0 +1,81 @@
+{
+  "slug": "intensely-flaky-american-wensleydale-pie--chinese",
+  "title": "Wensleydale Pie with Intensely Savory Filling",
+  "description": "A fusion of Chinese flavors in a traditional English pie, featuring flaky crust and a savory Wensleydale cheese filling.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "250g",
+      "notes": "crumbly and mild"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "intensely savory soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry to a thickness of 1/8 inch (3 mm).",
+    "Cut out a circle of pastry large enough to fit a 9-inch (23 cm) pie dish.",
+    "Transfer the pastry to the pie dish and trim the edges to fit.",
+    "In a separate bowl, mix together the Wensleydale cheese, soy sauce, garlic, ginger, and green onions.",
+    "Spoon the cheese mixture into the pie crust.",
+    "Brush the edges of the pastry with vegetable oil.",
+    "Roll out the remaining pastry to a thickness of 1/8 inch (3 mm).",
+    "Cut out strips of pastry for a lattice-top crust.",
+    "Place the lattice strips on top of the pie and press the edges to seal.",
+    "Brush the top of the pie with additional vegetable oil and cut a few slits in the top crust to allow steam to escape.",
+    "Bake the pie for 35-40 minutes, or until the crust is golden brown and the filling is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-fusion",
+    "cheese-pie",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flaky-american-wensleydale-pie--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:05:44.433Z"
+}
