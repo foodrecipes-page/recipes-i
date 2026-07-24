@@ -1,0 +1,104 @@
+{
+  "slug": "indulgent-vietnamese-fish-mi-quang",
+  "title": "Vietnamese Fish Mi",
+  "description": "A flavorful and refreshing Vietnamese dish featuring fish, mi, and a variety of vegetables, inspired by the Quang province.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish fillets (300g)",
+      "amount": "4",
+      "notes": "White fish such as tilapia or catfish"
+    },
+    {
+      "name": "Mi noodles (200g)",
+      "amount": "",
+      "notes": "Rice noodles"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Cook mi noodles according to package instructions. Drain and set aside.",
+    "Heat vegetable oil in a pan over medium heat. Add onion and cook until softened.",
+    "Add ginger and garlic and cook for 1 minute.",
+    "Add fish fillets and cook until golden brown on both sides.",
+    "Add fish sauce, soy sauce, salt, and sugar. Stir to combine.",
+    "Add cooked mi noodles to the pan and stir-fry for 2-3 minutes.",
+    "Squeeze lime juice over the top and stir to combine.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "fish",
+    "noodles",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-vietnamese-fish-mi-quang",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:48:48.810Z"
+}
