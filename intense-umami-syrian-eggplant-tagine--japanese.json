@@ -1,0 +1,73 @@
+{
+  "slug": "intense-umami-syrian-eggplant-tagine--japanese",
+  "title": "Grilled Eggplant Yaki",
+  "description": "A Japanese-inspired grilled eggplant dish with intense flavors and aromas, perfect for a summer evening.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush eggplant slices with sesame oil and season with tagine spice blend.",
+    "Grill eggplant slices for 3-4 minutes per side, or until tender and slightly charred.",
+    "In a small saucepan, combine soy sauce and mirin. Bring to a simmer over medium heat.",
+    "Reduce sauce by half, stirring occasionally.",
+    "Serve grilled eggplant slices with reduced sauce and garnish with chopped scallions.",
+    "Optional: garnish with toasted sesame seeds and chopped fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "eggplant",
+    "japanese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-umami-syrian-eggplant-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:23:43.208Z"
+}
