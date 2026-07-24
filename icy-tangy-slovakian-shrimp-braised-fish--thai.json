@@ -1,0 +1,70 @@
+{
+  "slug": "icy-tangy-slovakian-shrimp-braised-fish--thai",
+  "title": "Spicy Shrimp Stir Fry",
+  "description": "A Thai-inspired stir-fry with succulent shrimp, tangy flavors, and a kick of spice.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Slovaktian",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Icy",
+      "amount": "2",
+      "notes": "iceberg lettuce leaves"
+    },
+    {
+      "name": "Tangy",
+      "amount": "2 tablespoons",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "Braised",
+      "amount": "1 tablespoon",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add minced Slovakian and cook until fragrant, about 1 minute.",
+    "Add shrimp and cook until pink, about 2-3 minutes per side.",
+    "Add fish sauce, soy sauce, and cook for an additional 1 minute.",
+    "Stir in chopped icy lettuce leaves and cook until wilted, about 1 minute.",
+    "Serve immediately over steamed rice.",
+    "Adjust seasoning as needed.",
+    "Garnish with additional chopped icy lettuce, if desired.",
+    "Serve with a side of steamed vegetables, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-stir-fry",
+    "spicy",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-tangy-slovakian-shrimp-braised-fish--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:32:55.020Z"
+}
