@@ -1,0 +1,84 @@
+{
+  "slug": "intensely-roasted-japanese-fennel-ochazuke",
+  "title": "Japanese Ochazuke with Roasted Fennel",
+  "description": "A Japanese comfort food dish made with steaming hot rice, gently poached fish, and crunchy roasted fennel.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salmon fillet",
+      "amount": "4 oz",
+      "notes": "cooked to an internal temperature of 145°F (63°C)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fennel bulb",
+      "amount": "1 large",
+      "notes": "roasted in the oven"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sake",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Furikake",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 425°F (220°C).",
+    "2. Cut the fennel bulb in half and slice it thinly. Place on a baking sheet and drizzle with olive oil. Roast in the oven for 20-25 minutes, or until tender and caramelized.",
+    "3. Cook the Japanese rice according to the package instructions.",
+    "4. Season the salmon fillet with salt and pepper. Cook in a pan with a little bit of sesame oil until cooked through, about 4-6 minutes per side.",
+    "5. To assemble the dish, place a scoop of cooked rice in a bowl. Place the cooked salmon fillet on top of the rice.",
+    "6. Spoon the roasted fennel over the salmon. Drizzle with soy sauce, sake, and sesame oil.",
+    "7. Sprinkle furikake over the top of the dish and garnish with chopped green onions.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "breakfast",
+    "comfort-food",
+    "fennel",
+    "salmon"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-roasted-japanese-fennel-ochazuke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:48:05.349Z"
+}
