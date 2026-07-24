@@ -17651,5 +17651,19 @@
     "cuisine": "indian",
     "totalTimeMin": 60,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-kenyan-cheese-pie--french",
+    "title": "Kenyan French Cheese Pie",
+    "tags": [
+      "pie",
+      "cheese",
+      "french",
+      "indulgent",
+      "kenyan"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "i"
   }
 ]
