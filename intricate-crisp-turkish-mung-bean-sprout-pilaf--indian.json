@@ -1,0 +1,85 @@
+{
+  "slug": "intricate-crisp-turkish-mung-bean-sprout-pilaf--indian",
+  "title": "Turkish-Style Mung Bean Pilaf",
+  "description": "A flavorful and nutritious Indian-inspired pilaf made with mung beans, crispy onions, and aromatic spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mung beans",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Turkish pilaf rice",
+      "amount": "1 cup",
+      "notes": "preferably basmati"
+    },
+    {
+      "name": "Crisp onions",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Sprouts",
+      "amount": "1/4 cup",
+      "notes": "mung or mixed sprouts"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of ghee or oil in a large saucepan over medium heat.",
+    "Add the chopped onions and sauté until they start to brown.",
+    "Add the mung beans and pilaf rice, and stir to coat with the oil.",
+    "Add the turmeric and coriander, and stir for 1-2 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes.",
+    "Fluff the pilaf with a fork and stir in the sprouts.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "gluten-free",
+    "bean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricate-crisp-turkish-mung-bean-sprout-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:27:28.562Z"
+}
