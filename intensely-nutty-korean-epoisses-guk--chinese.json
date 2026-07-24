@@ -1,0 +1,77 @@
+{
+  "slug": "intensely-nutty-korean-epoisses-guk--chinese",
+  "title": "Spicy Guk Stir Fry",
+  "description": "A classic Chinese dish made with the rich, savory flavor of guk and the spicy kick of intensely nutty korean chili flakes.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Guk (Korean radish)",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Intensely Nutty Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Epoisses (French cheese)",
+      "amount": "1/2 cup",
+      "notes": "shredded (optional)"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced ginger and cook for 1-2 minutes, until fragrant.",
+    "Add the minced garlic and cook for an additional 1 minute, until fragrant.",
+    "Add the sliced guk and cook for 3-4 minutes, until tender.",
+    "Add the intensely nutty korean chili flakes and cook for 1 minute, until fragrant.",
+    "Add the shredded epoisses (if using) and cook until melted and bubbly.",
+    "Stir in chopped green onions and cook for an additional 1 minute.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-nutty-korean-epoisses-guk--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:45:33.511Z"
+}
