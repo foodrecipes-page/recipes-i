@@ -5915,17 +5915,15 @@
   },
   {
     "slug": "innovative-vietnamese-bellflower-root-doraji-com-tam",
-    "title": "Innovative Vietnamese Bellflower Root Doraji Com Tam",
+    "title": "Doraji and Com Stir Fry",
     "tags": [
-      "baked-dish",
-      "cheese-pull",
-      "macrobiotic-friendly",
-      "romantic-dinner",
-      "vegetarian-option",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -17664,6 +17662,33 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-umami-jamaican-ground-beef-hash--german",
+    "title": "German Hash Beef Hash",
+    "tags": [
+      "german",
+      "breakfast",
+      "hash",
+      "beef",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
+    "slug": "innovative-nutty-chinese-pork-hot-pot--chinese",
+    "title": "Savory Pork Hot Pot",
+    "tags": [
+      "chinese",
+      "hot-pot",
+      "pork",
+      "spicy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
     "shard": "i"
   }
 ]
