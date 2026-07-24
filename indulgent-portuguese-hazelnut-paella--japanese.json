@@ -1,0 +1,78 @@
+{
+  "slug": "indulgent-portuguese-hazelnut-paella--japanese",
+  "title": "Hazelnut Mochi with Portuguese Custard",
+  "description": "A unique dessert that combines the flavors of Japan with the sweetness of Portugal.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mochi rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Portuguese custard (Crème de Leite)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the mochi rice flour and granulated sugar.",
+    "2. Gradually add in the chopped hazelnuts and mix until well combined.",
+    "3. In a separate saucepan, heat the Portuguese custard over low heat.",
+    "4. Add in the unsalted butter and vanilla extract, and mix until well combined.",
+    "5. Bring the mixture to a simmer and cook for 5-7 minutes, or until the custard has thickened.",
+    "6. In a separate saucepan, bring the water to a boil.",
+    "7. Gradually add in the mochi rice flour mixture, and mix until a dough forms.",
+    "8. Knead the dough for 5-7 minutes, or until it becomes smooth and elastic.",
+    "9. Divide the dough into 8 equal pieces, and shape each piece into a ball.",
+    "10. Flatten each ball of dough into a disk shape, and place a tablespoon of the Portuguese custard in the center of each disk.",
+    "11. Fold the dough over the filling to form a triangle, and press the edges together to seal the mochi.",
+    "12. Repeat with the remaining dough and filling, and serve warm.",
+    "13. Drizzle with additional Portuguese custard, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "dessert",
+    "mochi",
+    "hazelnut",
+    "portuguese",
+    "custard"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-portuguese-hazelnut-paella--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:57:38.030Z"
+}
