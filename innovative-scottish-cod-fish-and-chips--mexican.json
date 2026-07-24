@@ -1,0 +1,66 @@
+{
+  "slug": "innovative-scottish-cod-fish-and-chips--mexican",
+  "title": "Scottish Cod Fish Tacos",
+  "description": "A twist on traditional Mexican tacos, this recipe marries the flavors of Scotland with the boldness of Mexico.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod",
+      "amount": "4 fillets",
+      "notes": "Fresh cod, about 1 inch thick"
+    },
+    {
+      "name": "chips",
+      "amount": "1 bag",
+      "notes": "Tortilla chips for serving"
+    },
+    {
+      "name": "innovative",
+      "amount": "1 cup",
+      "notes": "Chopped fresh cilantro, scallions, or other herbs of choice"
+    },
+    {
+      "name": "scottish",
+      "amount": "1/4 cup",
+      "notes": "Smoked salmon or other Scottish-style salmon"
+    },
+    {
+      "name": "fish",
+      "amount": "1/4 cup",
+      "notes": "Diced fish for added flavor and texture"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the cod fillets with salt, pepper, and a squeeze of lime juice.",
+    "Grill the cod for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a piece of cod on each tortilla, followed by a spoonful of innovative toppings and a dollop of Scottish-style salmon.",
+    "Top with fish and serve immediately.",
+    "Serve with tortilla chips on the side for added crunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "scottish",
+    "mexican",
+    "fish-tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-scottish-cod-fish-and-chips--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:36:46.863Z"
+}
