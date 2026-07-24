@@ -1,0 +1,85 @@
+{
+  "slug": "intense-malty-polish-beef-stew--gluten-free",
+  "title": "Polish Beef Stew",
+  "description": "A hearty, gluten-free Polish-inspired beef stew made with tender beef, rich flavors, and comforting intensity.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "intense broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "malty beer",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "polish rye flour",
+      "amount": "2 tablespoons",
+      "notes": "or gluten-free alternative"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "1. Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "2. Brown the beef cubes in batches, about 5 minutes per batch. Remove from pot and set aside.",
+    "3. Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "4. Add the minced garlic and cook for 1 minute.",
+    "5. Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "6. Add the browned beef, intense broth, malty beer, and polish rye flour to the pot.",
+    "7. Stir to combine and bring to a boil.",
+    "8. Reduce heat to low and simmer, covered, for 1 1/2 hours.",
+    "9. Season with salt and pepper to taste.",
+    "10. Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "beef",
+    "stew",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 45,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-malty-polish-beef-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:12:31.431Z"
+}
