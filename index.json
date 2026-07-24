@@ -17690,5 +17690,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 40,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-turkish-lentil-pilaf--vegan",
+    "title": "Turkish Lentil Pilaf",
+    "tags": [
+      "lentil",
+      "pilaf",
+      "vegan",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
+    "shard": "i"
   }
 ]
