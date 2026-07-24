@@ -17567,5 +17567,17 @@
     "cuisine": "Thai",
     "totalTimeMin": 18,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-flaky-american-wensleydale-pie--chinese",
+    "title": "Wensleydale Pie with Intensely Savory Filling",
+    "tags": [
+      "chinese-fusion",
+      "cheese-pie",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 55,
+    "shard": "i"
   }
 ]
