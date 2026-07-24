@@ -10747,17 +10747,15 @@
   },
   {
     "slug": "intensely-flavoured-iberian-spanish-penne-penne-con-jamon-iberico-a-la-catalan",
-    "title": "iberian spanish penne with jamon iberico",
+    "title": "Iberian Jamon Penne Pasta",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "pasta-dish",
-      "spanish-cuisine",
-      "weeknight"
+      "spanish",
+      "italian",
+      "pastadish",
+      "easyrecipe"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 35,
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -14224,17 +14222,15 @@
   },
   {
     "slug": "intricately-crispy-moroccan-black-olives-khlea",
-    "title": "Intricately Crispy Moroccan Black Olives Khlea",
+    "title": "Moroccan Khlea Stuffed Olives",
     "tags": [
-      "crispy",
-      "khlea",
-      "low-fat",
       "moroccan",
+      "appetizer",
       "snack",
-      "vegetarian"
+      "olives"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "i"
   },
   {
@@ -17727,6 +17723,18 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-nutty-korean-epoisses-guk--chinese",
+    "title": "Spicy Guk Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "i"
   }
 ]
