@@ -1,0 +1,77 @@
+{
+  "slug": "intricately-crispy-moroccan-black-olives-khlea",
+  "title": "Moroccan Khlea Stuffed Olives",
+  "description": "A unique twist on traditional stuffed olives, with the rich flavors of Moroccan khlea. This recipe combines the crunch of intricate crispy elements with the savory flavor of black olives.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Black Olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Khlea",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Intricately Crispy Elements",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Moroccan Spice Mix",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Pit the black olives and set aside.",
+    "In a small bowl, mix together the khlea, Moroccan spice mix, salt, and black pepper.",
+    "Stuff each olive with a small amount of the khlea mixture.",
+    "Top each stuffed olive with a piece of intricately crispy elements.",
+    "Sprinkle the chopped parsley over the top of each olive.",
+    "Place the stuffed olives on a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes, or until the olives are heated through and the crispy elements are golden brown.",
+    "Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "appetizer",
+    "snack",
+    "olives"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricately-crispy-moroccan-black-olives-khlea",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:50:16.266Z"
+}
