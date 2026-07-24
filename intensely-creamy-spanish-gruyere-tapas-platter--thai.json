@@ -1,0 +1,82 @@
+{
+  "slug": "intensely-creamy-spanish-gruyere-tapas-platter--thai",
+  "title": "Thai Grilled Cheese Tapas",
+  "description": "A creamy twist on traditional grilled cheese, inspired by Thai flavors and perfect for tapas platters.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gruyere cheese",
+      "amount": "2 cups, shredded",
+      "notes": null
+    },
+    {
+      "name": "Intensely flavored bread",
+      "amount": "1 loaf, sliced",
+      "notes": null
+    },
+    {
+      "name": "Tapas spread",
+      "amount": "1/4 cup",
+      "notes": "a combination of cream cheese, chutney, and chopped fresh herbs"
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai red chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Butter one side of each bread slice.",
+    "Place one slice of bread, buttered side down, in the grill or grill pan.",
+    "Top with a slice of Gruyere cheese, a spoonful of tapas spread, and a sprinkle of Thai red chili flakes.",
+    "Place the second slice of bread, buttered side up, on top of the filling.",
+    "Cook for 2-3 minutes or until the bread is golden brown and the cheese is melted.",
+    "Flip the sandwich over and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "Repeat with the remaining ingredients to make 4-6 tapas grilled cheese.",
+    "Serve immediately, garnished with chopped fresh cilantro and a lime wedge."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "grilled-cheese",
+    "tapas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-creamy-spanish-gruyere-tapas-platter--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:26:58.056Z"
+}
