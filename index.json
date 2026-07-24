@@ -17530,5 +17530,43 @@
     "cuisine": "mexican",
     "totalTimeMin": 27,
     "shard": "i"
+  },
+  {
+    "slug": "innovative-scottish-cod-fish-and-chips--mexican",
+    "title": "Scottish Cod Fish Tacos",
+    "tags": [
+      "scottish",
+      "mexican",
+      "fish-tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 23,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-umami-syrian-eggplant-tagine--japanese",
+    "title": "Grilled Eggplant Yaki",
+    "tags": [
+      "grilled",
+      "eggplant",
+      "japanese",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-creamy-spanish-gruyere-tapas-platter--thai",
+    "title": "Thai Grilled Cheese Tapas",
+    "tags": [
+      "thai",
+      "grilled-cheese",
+      "tapas",
+      "snack"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 18,
+    "shard": "i"
   }
 ]
