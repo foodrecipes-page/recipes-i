@@ -17586,5 +17586,30 @@
     "cuisine": "italian",
     "totalTimeMin": 45,
     "shard": "i"
+  },
+  {
+    "slug": "intricate-crisp-turkish-mung-bean-sprout-pilaf--indian",
+    "title": "Turkish-Style Mung Bean Pilaf",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "gluten-free",
+      "bean"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
+    "slug": "icy-tangy-slovakian-shrimp-braised-fish--thai",
+    "title": "Spicy Shrimp Stir Fry",
+    "tags": [
+      "thai-stir-fry",
+      "spicy",
+      "seafood"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "i"
   }
 ]
