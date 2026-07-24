@@ -1,0 +1,79 @@
+{
+  "slug": "intensely-umami-jamaican-ground-beef-hash--german",
+  "title": "German Hash Beef Hash",
+  "description": "A hearty, comforting German dish made with ground beef and crispy hash browns. Perfect for a cold winter evening.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio works best"
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add the hash browns to the skillet and cook until they are crispy and golden brown.",
+    "Add the beef broth to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until the liquid has been absorbed.",
+    "Season the hash with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast",
+    "hash",
+    "beef",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-umami-jamaican-ground-beef-hash--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:11:14.198Z"
+}
