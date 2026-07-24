@@ -5238,17 +5238,15 @@
   },
   {
     "slug": "indulgent-vietnamese-fish-mi-quang",
-    "title": "Indulgent Vietnamese Fish Mi Quang",
+    "title": "Vietnamese Fish Mi",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "pescatarian",
       "vietnamese",
-      "weeknight"
+      "fish",
+      "noodles",
+      "lunch"
     ],
     "cuisine": "vietnamese",
-    "totalTimeMin": 55,
+    "totalTimeMin": 22,
     "shard": "i"
   },
   {
@@ -17610,6 +17608,48 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 18,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-portuguese-hazelnut-paella--japanese",
+    "title": "Hazelnut Mochi with Portuguese Custard",
+    "tags": [
+      "japanese",
+      "dessert",
+      "mochi",
+      "hazelnut",
+      "portuguese",
+      "custard"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-malty-polish-beef-stew--gluten-free",
+    "title": "Polish Beef Stew",
+    "tags": [
+      "polish",
+      "beef",
+      "stew",
+      "gluten-free"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 110,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-cheesy-slovakian-ham-lasagna--indian",
+    "title": "Slovakian Ham Lasagna in Indian Style",
+    "tags": [
+      "indian",
+      "slovakian",
+      "lasagna",
+      "ham",
+      "cheese"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 60,
     "shard": "i"
   }
 ]
