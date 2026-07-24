@@ -17703,5 +17703,30 @@
     "cuisine": "Turkish",
     "totalTimeMin": 40,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-mediterranean-shrimp-paella--french",
+    "title": "Shrimp Paella French Style",
+    "tags": [
+      "seafood",
+      "spanish",
+      "french",
+      "paella"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-pungent-vietnamese-pilchards-ca-kho-to--vegan",
+    "title": "Vietnamese-Style Stuffed Pilchards",
+    "tags": [
+      "vegan",
+      "vietnamese",
+      "fish-free"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 40,
+    "shard": "i"
   }
 ]
