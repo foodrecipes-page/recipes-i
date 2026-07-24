@@ -1,0 +1,90 @@
+{
+  "slug": "intense-japanese-tofu-agedashi",
+  "title": "Agedashi Tofu Recipe",
+  "description": "A traditional Japanese dish where tofu is deep-fried and served in a light broth. This recipe showcases the delicate balance of flavors and textures.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Extra-firm, drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "For dusting tofu"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp",
+      "notes": "For dusting tofu"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "For deep-frying tofu"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "4 cups",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "sake (Japanese rice wine)",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Dust the tofu pieces with cornstarch and flour, shaking off excess.",
+    "Heat the vegetable oil in a deep frying pan to 350°F (180°C).",
+    "Deep-fry the tofu in batches until golden brown, about 3-4 minutes per side.",
+    "Using a slotted spoon, transfer the fried tofu to a plate.",
+    "Reduce the oil temperature to 275°F (135°C).",
+    "In a separate saucepan, combine the dashi broth, soy sauce, sake, and mirin.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "To serve, place fried tofu in a bowl and ladle the hot broth over it.",
+    "Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "agedashi",
+    "tofu",
+    "japanese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-japanese-tofu-agedashi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:40:49.506Z"
+}
