@@ -1,0 +1,77 @@
+{
+  "slug": "indulgent-kenyan-cheese-pie--french",
+  "title": "Kenyan French Cheese Pie",
+  "description": "A unique fusion of French and Kenyan flavors, this indulgent pie is a perfect blend of savory and sweet.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "for crust"
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Gouda cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Kenyan matooke",
+      "amount": "1 cup",
+      "notes": "mashed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the dough on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch pie dish and trim the edges to fit.",
+    "In a separate bowl, mix together the Gruyère and Gouda cheese, matooke, and thyme.",
+    "Pour the cheese mixture into the pie crust.",
+    " Dot the top of the pie with butter.",
+    "Bake for 25-30 minutes or until the crust is golden brown.",
+    "Let the pie cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "pie",
+    "cheese",
+    "french",
+    "indulgent",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-kenyan-cheese-pie--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:52:09.256Z"
+}
