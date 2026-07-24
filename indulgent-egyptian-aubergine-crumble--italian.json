@@ -1,0 +1,82 @@
+{
+  "slug": "indulgent-egyptian-aubergine-crumble--italian",
+  "title": "Italian Aubergine Crumble",
+  "description": "A twist on the classic Italian dish, featuring aubergine and a crumbly topping.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 medium"
+    },
+    {
+      "name": "egyptian",
+      "amount": null
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": null
+    },
+    {
+      "name": "pepper",
+      "amount": null
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the aubergine into 1/2-inch thick slices.",
+    "In a large bowl, toss the aubergine slices with salt, pepper, and a drizzle of olive oil.",
+    "Transfer the aubergine to a baking sheet and roast for 20-25 minutes, or until tender.",
+    "In a separate pan, sauté the onion and garlic in butter until softened.",
+    "Add the crumble mixture to the pan and cook for 2-3 minutes, stirring constantly.",
+    "Transfer the aubergine to a baking dish and top with the crumble mixture.",
+    "Sprinkle parmesan cheese over the top and bake for an additional 10-15 minutes, or until golden brown.",
+    "Remove from the oven and garnish with fresh basil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "aubergine",
+    "crumble-topping"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-egyptian-aubergine-crumble--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:47:37.350Z"
+}
