@@ -17965,5 +17965,31 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-spicy-british-nectarine-crumble--french",
+    "title": "Nectarine French Crumble",
+    "tags": [
+      "french",
+      "dessert",
+      "nectarine",
+      "crumble"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-smoky-saudi-arabian-shrimp-paste-skewers--keto",
+    "title": "Smoky Shrimp Skewers",
+    "tags": [
+      "shrimp",
+      "skewers",
+      "saudi arabian",
+      "keto"
+    ],
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 25,
+    "shard": "i"
   }
 ]
