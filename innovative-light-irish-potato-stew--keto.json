@@ -1,0 +1,73 @@
+{
+  "slug": "innovative-light-irish-potato-stew--keto",
+  "title": "Irish Stew with a Keto Twist",
+  "description": "A low-carb, high-fat version of the classic Irish stew. The potatoes have been replaced with a delicious and innovative ingredient.",
+  "cuisine": "irish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "innovative ingredient",
+      "amount": "2 medium",
+      "notes": "such as turnips or rutabaga"
+    },
+    {
+      "name": "light broth",
+      "amount": "4 cups",
+      "notes": "homemade or low-sodium store-bought"
+    },
+    {
+      "name": "irish bacon",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sirloin steak",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "keto-friendly seasoning",
+      "amount": "to taste",
+      "notes": "such as salt, pepper, and dried thyme"
+    }
+  ],
+  "instructions": [
+    "1. In a large Dutch oven, cook the bacon over medium heat until browned.",
+    "2. Remove the bacon from the pot and set aside.",
+    "3. Add the beef and sirloin to the pot and cook until browned, about 5 minutes.",
+    "4. Add the innovative ingredient and cook for an additional 2 minutes.",
+    "5. Add the broth, bacon, and seasonings to the pot.",
+    "6. Bring the stew to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "7. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "stew",
+    "keto",
+    "low-carb",
+    "high-fat"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-light-irish-potato-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:42:06.859Z"
+}
