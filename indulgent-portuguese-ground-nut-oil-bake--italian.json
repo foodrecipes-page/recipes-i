@@ -1,0 +1,87 @@
+{
+  "slug": "indulgent-portuguese-ground-nut-oil-bake--italian",
+  "title": "Italian Nutty Tiramisu Cake",
+  "description": "Indulge in the rich flavors of Italy with this decadent nutty tiramisu cake, featuring espresso, mascarpone, and ground nuts. A perfect dessert for any occasion.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ladyfingers",
+      "amount": "12-16 count",
+      "notes": null
+    },
+    {
+      "name": "Ground Almonds",
+      "amount": "1 1/2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mascarpone Cheese",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Espresso",
+      "amount": "1 cup",
+      "notes": "strong brew"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "Cocoa Powder",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Line a 9x13-inch baking dish with parchment paper.",
+    "Dip ladyfingers in espresso for 3-5 seconds on each side. They should be soft and pliable but not too wet.",
+    "In a large mixing bowl, combine mascarpone cheese, granulated sugar, and vanilla extract. Beat with an electric mixer until smooth.",
+    "Add softened butter and mix until fully incorporated.",
+    "In a separate bowl, mix together ground almonds and cocoa powder.",
+    "To assemble the tiramisu, create a layer of ladyfingers in the prepared baking dish.",
+    "Spread half of the mascarpone mixture over the ladyfingers.",
+    "Sprinkle half of the almond-cocoa mixture over the mascarpone layer.",
+    "Repeat the layers, starting with the ladyfingers, then the mascarpone mixture, and finally the almond-cocoa mixture.",
+    "Dust the top of the tiramisu with confectioners' sugar.",
+    "Cover and refrigerate for at least 3 hours or overnight.",
+    "Slice and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 360,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "tiramisu",
+    "cake",
+    "dessert",
+    "italian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-portuguese-ground-nut-oil-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:14:12.435Z"
+}
