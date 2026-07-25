@@ -17736,5 +17736,32 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "i"
+  },
+  {
+    "slug": "intense-silky-jamaican-chicken-stew--italian",
+    "title": "Italian Chicken Stew",
+    "tags": [
+      "italian",
+      "chicken",
+      "stew",
+      "homemade"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-savory-argentinian-sausages-skewers--thai",
+    "title": "Spicy Thai Sausage Skewers",
+    "tags": [
+      "thaicuisine",
+      "spicy",
+      "grilled",
+      "skewers",
+      "argentiniansausages"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "i"
   }
 ]
