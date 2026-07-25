@@ -1,0 +1,86 @@
+{
+  "slug": "intense-savory-argentinian-sausages-skewers--thai",
+  "title": "Spicy Thai Sausage Skewers",
+  "description": "A flavorful and colorful Thai-inspired sausage dish featuring spicy sausages grilled to perfection on skewers.",
+  "cuisine": "thai",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "snack\" | \"lunch\" | \"dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian Sausages",
+      "amount": "1 pound",
+      "notes": "preferably sweet or spicy"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Skewers",
+      "amount": "1 package of 10-12",
+      "notes": "preferably bamboo"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak bamboo skewers in water for at least 30 minutes.",
+    "Cut Argentinian sausages into 1-inch pieces.",
+    "Thread a piece of sausage, red bell pepper, red onion, and Thai Basil onto each skewer.",
+    "Brush skewers with vegetable oil.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Brush with fish sauce and lime juice during the last 2 minutes.",
+    "Serve hot and enjoy!",
+    "Optional: Serve with sticky rice or a side salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thaicuisine",
+    "spicy",
+    "grilled",
+    "skewers",
+    "argentiniansausages"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-savory-argentinian-sausages-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:39:30.369Z"
+}
