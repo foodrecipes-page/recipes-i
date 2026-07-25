@@ -1,0 +1,93 @@
+{
+  "slug": "indulgent-algerian-chickpea-tagine",
+  "title": "Algerian Chickpea Tagine",
+  "description": "A hearty and flavorful Algerian stew made with chickpeas and a blend of aromatic spices.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "algerian chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Stir in cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add chickpeas and stir to coat with spice mixture.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired.",
+    "Serve with crusty bread or over couscous, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chickpea",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-algerian-chickpea-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:20:21.809Z"
+}
