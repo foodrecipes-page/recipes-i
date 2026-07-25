@@ -17916,5 +17916,17 @@
     "cuisine": "german",
     "totalTimeMin": 255,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-gooey-venezuelan-dasima-kombu-stew--chinese",
+    "title": "Venezuelan-Style Dasima Stew",
+    "tags": [
+      "stew",
+      "dasima",
+      "kombu"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 75,
+    "shard": "i"
   }
 ]
