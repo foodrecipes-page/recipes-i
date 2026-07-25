@@ -1,82 +1,88 @@
 {
   "slug": "indulgent-egyptian-aubergine-crumble--italian",
-  "title": "Italian Aubergine Crumble",
-  "description": "A twist on the classic Italian dish, featuring aubergine and a crumbly topping.",
+  "title": "Eggplant Parmesan Crumble",
+  "description": "A fusion of Italian and Egyptian flavors, this eggplant parmesan crumble is a twist on the classic dish with a crunchy topping.",
   "cuisine": "italian",
-  "diet": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "aubergine",
-      "amount": "2 medium"
-    },
-    {
-      "name": "egyptian",
-      "amount": null
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2-inch thick rounds"
     },
     {
       "name": "crumble",
-      "amount": "1 cup"
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
     },
     {
-      "name": "onion",
-      "amount": "1 small"
-    },
-    {
-      "name": "garlic",
-      "amount": "2 cloves"
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "low-fat or whole"
     },
     {
       "name": "parmesan cheese",
-      "amount": "1/2 cup"
+      "amount": "1/2 cup",
+      "notes": "grated"
     },
     {
-      "name": "butter",
-      "amount": "2 tablespoons"
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing eggplant slices"
     },
     {
       "name": "salt",
-      "amount": null
+      "amount": "to taste",
+      "notes": "for eggplant"
     },
     {
-      "name": "pepper",
-      "amount": null
-    },
-    {
-      "name": "fresh basil",
-      "amount": "1/4 cup"
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
     }
   ],
   "instructions": [
     "Preheat the oven to 400°F (200°C).",
-    "Cut the aubergine into 1/2-inch thick slices.",
-    "In a large bowl, toss the aubergine slices with salt, pepper, and a drizzle of olive oil.",
-    "Transfer the aubergine to a baking sheet and roast for 20-25 minutes, or until tender.",
-    "In a separate pan, sauté the onion and garlic in butter until softened.",
-    "Add the crumble mixture to the pan and cook for 2-3 minutes, stirring constantly.",
-    "Transfer the aubergine to a baking dish and top with the crumble mixture.",
-    "Sprinkle parmesan cheese over the top and bake for an additional 10-15 minutes, or until golden brown.",
-    "Remove from the oven and garnish with fresh basil.",
-    "Serve hot and enjoy!"
+    "Brush the eggplant slices with olive oil and season with salt.",
+    "Bake the eggplant slices in the preheated oven for 20-25 minutes, or until tender and lightly browned.",
+    "In a bowl, combine the ricotta cheese and parmesan cheese.",
+    "Spoon a layer of tomato sauce into the bottom of a baking dish.",
+    "Arrange a layer of eggplant slices on top of the sauce.",
+    "Spread half of the ricotta mixture over the eggplant.",
+    "Sprinkle half of the crumble mixture over the ricotta.",
+    "Repeat the layers, starting with the eggplant, then the sauce, then the ricotta, and finally the crumble.",
+    "Top the crumble with the remaining parmesan cheese.",
+    "Bake the cassrole for 25-30 minutes, or until the crumble is golden brown and the cheese is melted and bubbly.",
+    "Garnish with chopped basil and serve hot."
   ],
   "prepTimeMin": 15,
-  "cookTimeMin": 30,
-  "totalTimeMin": 45,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "italian-food",
-    "aubergine",
-    "crumble-topping"
+    "italian",
+    "eggplant",
+    "parmesan",
+    "crumble"
   ],
   "nutrition": {
-    "calories": 250,
-    "protein": 10,
+    "calories": 420,
+    "protein": 25,
     "carbs": 30,
-    "fat": 15
+    "fat": 25
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-egyptian-aubergine-crumble--italian",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T01:47:37.350Z"
+  "createdAt": "2026-07-21T02:44:29.972Z"
 }
