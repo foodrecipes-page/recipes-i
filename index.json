@@ -17801,5 +17801,18 @@
     "cuisine": "irish",
     "totalTimeMin": 80,
     "shard": "i"
+  },
+  {
+    "slug": "intense-italian-liver-saltimbocca--german",
+    "title": "German-Style Saltimbocca Liver with Intense Italian Flair",
+    "tags": [
+      "german",
+      "italian",
+      "liver",
+      "saltimbocca"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "i"
   }
 ]
