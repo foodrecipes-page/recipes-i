@@ -6544,16 +6544,15 @@
   },
   {
     "slug": "intense-dense-italian-eggplant-ossobuco",
-    "title": "Intense Dense Italian Eggplant Ossobuco",
+    "title": "Braised Ossobuco with Eggplant",
     "tags": [
-      "comfort-food",
-      "italian-food",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "italian",
+      "braised",
+      "ossobuco",
+      "eggplant"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 270,
     "shard": "i"
   },
   {
@@ -11800,17 +11799,16 @@
   },
   {
     "slug": "intensely-resinous-russian-pasta",
-    "title": "Intensely Resinous Russian Pasta",
+    "title": "Russian-Style Pasta Baked with Intense Resinous Flavor",
     "tags": [
-      "comfort-food",
-      "corn-wrapped",
-      "herb-infused",
-      "one-pan",
-      "russo-italian",
-      "weeknight"
+      "russian",
+      "pasta",
+      "pine-resin",
+      "mushrooms",
+      "baked"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 100,
+    "totalTimeMin": 40,
     "shard": "i"
   },
   {
@@ -17762,6 +17760,46 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "iflaky-zesty-dates-pilaf--german",
+    "title": "German Pilaf with Dates and Zesty Flavor",
+    "tags": [
+      "german",
+      "pilaf",
+      "dates",
+      "zesty"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-japanese-egg-sushi--thai",
+    "title": "Spicy Thai Sushi Rolls",
+    "tags": [
+      "sushi",
+      "thai",
+      "spicy",
+      "adventurous"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "i"
+  },
+  {
+    "slug": "innovative-light-irish-potato-stew--keto",
+    "title": "Irish Stew with a Keto Twist",
+    "tags": [
+      "irish",
+      "stew",
+      "keto",
+      "low-carb",
+      "high-fat"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 80,
     "shard": "i"
   }
 ]
