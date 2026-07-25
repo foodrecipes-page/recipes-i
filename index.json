@@ -17865,5 +17865,18 @@
     "cuisine": "Italian",
     "totalTimeMin": 55,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-rich-russian-peach-pudding--japanese",
+    "title": "Peach Pudding Daifuku",
+    "tags": [
+      "japanese",
+      "dessert",
+      "peach",
+      "mochi"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "i"
   }
 ]
