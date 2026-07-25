@@ -1,0 +1,82 @@
+{
+  "slug": "intensely-flavored-irish-fish-skewers--mexican",
+  "title": "Mexican Irish Fish Skewers",
+  "description": "A fusion of Irish and Mexican flavors, these fish skewers are marinated in a mixture of lime juice, chili powder, and spices before being grilled to perfection.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish salmon fillets",
+      "amount": "4",
+      "notes": "preferably wild-caught"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut the salmon fillets into 1-inch cubes.",
+    "In a large bowl, whisk together lime juice, chili powder, garlic powder, cumin powder, smoked paprika, salt, and pepper.",
+    "Add the salmon cubes to the marinade and mix well to coat.",
+    "Thread the marinated salmon onto skewers, leaving a little space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the fish is cooked through.",
+    "Serve immediately, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "irish",
+    "fish",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flavored-irish-fish-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:51:00.451Z"
+}
