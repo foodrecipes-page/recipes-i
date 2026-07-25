@@ -1520,16 +1520,14 @@
   },
   {
     "slug": "indulgent-algerian-chickpea-tagine",
-    "title": "Indulgent Algerian Chickpea Tagine",
+    "title": "Algerian Chickpea Tagine",
     "tags": [
       "algerian",
-      "indulgent",
-      "sattvic-friendly",
-      "tagine",
-      "vegetarian"
+      "chickpea",
+      "vegan"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "algerian",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -17877,6 +17875,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-british-apple-pie-and-mash--vegetarian",
+    "title": "Classic British Apple Pie",
+    "tags": [
+      "british",
+      "dessert",
+      "pie",
+      "apple"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 70,
     "shard": "i"
   }
 ]
