@@ -1,0 +1,84 @@
+{
+  "slug": "indulgent-japanese-egg-sushi--thai",
+  "title": "Spicy Thai Sushi Rolls",
+  "description": "A unique fusion of Japanese sushi and Thai flavors, these rolls are filled with spicy goodness. Perfect for adventurous eaters.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Indulgent crab stick",
+      "amount": "1 package (12 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup cooked",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "2 large eggs",
+      "notes": ""
+    },
+    {
+      "name": "Sushi nori",
+      "amount": "1 package (20 sheets)",
+      "notes": ""
+    },
+    {
+      "name": "Thai peanut sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sriracha sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the sushi rice according to package instructions.",
+    "In a small pan, heat the peanut sauce over low heat.",
+    "Add the sriracha sauce to the peanut sauce and stir well.",
+    "Cut the crab stick into small pieces and set aside.",
+    "In a large bowl, mix the cooked sushi rice and crab stick pieces together.",
+    "Add the egg to the bowl and mix well.",
+    "Lay a sheet of sushi nori flat on a cutting board.",
+    "Spread a thin layer of the rice mixture onto the nori.",
+    "Roll the sushi using a bamboo sushi mat or a clean tea towel.",
+    "Slice the roll into 8 equal pieces.",
+    "Serve with the spicy peanut sauce on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sushi",
+    "thai",
+    "spicy",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-japanese-egg-sushi--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:24:58.693Z"
+}
