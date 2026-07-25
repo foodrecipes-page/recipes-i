@@ -1,0 +1,76 @@
+{
+  "slug": "incredible-iced-brazilian-chicken-fondue--mexican",
+  "title": "Mexican Chicken Fajita",
+  "description": "A classic Mexican dish, easy to make and packed with flavor. Served with warm flour tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "fondue",
+      "amount": "1/4 cup",
+      "notes": "Mexican-style fondue"
+    },
+    {
+      "name": "incredible peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "iced onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "brazilian oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook for 2-3 minutes until they start to soften.",
+    "Add the sliced peppers and cook for another 2-3 minutes until they start to soften.",
+    "Add the chicken breast and cook for 5-6 minutes per side until it's cooked through.",
+    "Stir in the Mexican-style fondue and cook for 1 minute.",
+    "Season with salt, pepper, and dried oregano.",
+    "Serve warm flour tortillas on the side and assemble the fajitas."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "fajita"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredible-iced-brazilian-chicken-fondue--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:54:16.469Z"
+}
