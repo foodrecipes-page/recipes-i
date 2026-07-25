@@ -1,0 +1,83 @@
+{
+  "slug": "intense-silky-jamaican-chicken-stew--italian",
+  "title": "Italian Chicken Stew",
+  "description": "A hearty, flavorful Italian-inspired stew featuring chicken and stewed vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "jamaican allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "intense balsamic vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chopped carrots, Jamaican allspice, tomato paste, and stew to the pot.",
+    "Stir to combine, then bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through and the vegetables are tender.",
+    "Stir in the intense balsamic vinegar and season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "stew",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-silky-jamaican-chicken-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:12:13.855Z"
+}
