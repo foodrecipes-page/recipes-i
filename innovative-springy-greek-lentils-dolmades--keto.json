@@ -1,0 +1,78 @@
+{
+  "slug": "innovative-springy-greek-lentils-dolmades--keto",
+  "title": "Greek Lentil Stuffed Dolmades Keto",
+  "description": "A keto twist on traditional dolmades, these stuffed grape leaves are packed with flavorful lentils and innovative spices.",
+  "cuisine": "Greek",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "Grape leaves",
+      "amount": "12",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "Spring onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Innovative spice mix",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Dolmades seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Prepare the grape leaves by blanching them in boiling water for 30 seconds to remove bitterness.",
+    "In a mixing bowl, combine cooked lentils, chopped spring onions, Greek yogurt, innovative spice mix, and dolmades seasoning.",
+    "Stuff each grape leaf with the lentil mixture and roll up tightly.",
+    "Place the dolmades seam-side down in a baking dish and cover with foil.",
+    "Bake for 20 minutes, then remove the foil and bake for an additional 10 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "greek",
+    "lentils",
+    "dolmades",
+    "innovative"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-springy-greek-lentils-dolmades--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:09:28.960Z"
+}
