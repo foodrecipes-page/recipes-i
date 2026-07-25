@@ -11060,16 +11060,14 @@
   },
   {
     "slug": "intensely-herby-russian-beef-tagine",
-    "title": "Intensely Herby Russian Beef Tagine",
+    "title": "Beef Tagine with Herbs",
     "tags": [
-      "air-fryer-recipes",
-      "clay-pot-cooking",
-      "herby-dishes",
-      "high-protein",
-      "russian-cuisine"
+      "beef",
+      "tagine",
+      "middle eastern"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 45,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 180,
     "shard": "i"
   },
   {
@@ -17989,6 +17987,20 @@
       "keto"
     ],
     "cuisine": "saudi arabian",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-flavored-irish-fish-skewers--mexican",
+    "title": "Mexican Irish Fish Skewers",
+    "tags": [
+      "mexican",
+      "irish",
+      "fish",
+      "skewers",
+      "grilled"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "i"
   }
