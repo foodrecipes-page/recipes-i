@@ -17814,5 +17814,46 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-norwegian-potato-casserole--thai",
+    "title": "Thai-Style Savory Potato Casserole",
+    "tags": [
+      "thai",
+      "potato",
+      "casserole",
+      "vegetarian",
+      "savory"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-crunchy-algerian-lentils-pilaf--thai",
+    "title": "Thai-Style Lentil Pilaf",
+    "tags": [
+      "lentil",
+      "pilaf",
+      "thai",
+      "veggie"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
+    "slug": "innovative-springy-greek-lentils-dolmades--keto",
+    "title": "Greek Lentil Stuffed Dolmades Keto",
+    "tags": [
+      "keto",
+      "greek",
+      "lentils",
+      "dolmades",
+      "innovative"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
+    "shard": "i"
   }
 ]
