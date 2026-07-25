@@ -1,0 +1,72 @@
+{
+  "slug": "intense-roasted-italian-mentaiko-tagliatelle",
+  "title": "Mentaiko Tagliatelle",
+  "description": "A creamy, intense pasta dish featuring roasted mentaiko and parmesan cheese.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "250g",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "roasted mentaiko",
+      "amount": "120g",
+      "notes": "see notes"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "50g",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the tagliatelle according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat. Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the roasted mentaiko to the skillet and stir to combine with the garlic and oil. Cook for 2-3 minutes until heated through.",
+    "Add the cooked tagliatelle to the skillet and toss to combine with the mentaiko mixture.",
+    "Season with salt and pepper to taste.",
+    "Transfer the pasta to a serving dish and top with grated parmesan cheese and chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-roasted-italian-mentaiko-tagliatelle",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:28:01.037Z"
+}
