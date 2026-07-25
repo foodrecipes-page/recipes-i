@@ -1,0 +1,73 @@
+{
+  "slug": "intensely-spicy-british-nectarine-crumble--french",
+  "title": "Nectarine French Crumble",
+  "description": "A French-inspired dessert featuring fresh nectarines topped with a crunchy crumble mixture.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "3",
+      "notes": "ripe, sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sliced nectarines and granulated sugar. Let it sit for 15 minutes.",
+    "Transfer the nectarine mixture to a baking dish.",
+    "In a separate bowl, mix together the flour and unsalted butter until crumbly.",
+    "Add the crumble mixture to the top of the nectarine mixture.",
+    "Bake for 35-40 minutes or until the topping is golden brown.",
+    "Remove from the oven and let it cool for a few minutes.",
+    "Serve warm with vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "dessert",
+    "nectarine",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-spicy-british-nectarine-crumble--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:33:27.509Z"
+}
