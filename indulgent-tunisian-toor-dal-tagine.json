@@ -1,0 +1,87 @@
+{
+  "slug": "indulgent-tunisian-toor-dal-tagine",
+  "title": "Tunisian Chickpea Stew",
+  "description": "A hearty and flavorful stew from Tunisia, made with chickpeas, spices, and a hint of sweetness. This recipe is perfect for a cold winter night.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Toor dal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Indulgent lamb or beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add cumin, coriander, and cinnamon, and cook for 1 minute.",
+    "Add chickpeas, broth, and toor dal. Bring to a boil, then reduce heat and simmer for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Note: If using lamb or beef broth, make sure it is low-sodium and adjust seasoning accordingly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "chickpeas",
+    "tunisian",
+    "lentils"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-tunisian-toor-dal-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:00:42.250Z"
+}
