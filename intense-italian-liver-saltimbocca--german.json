@@ -1,0 +1,91 @@
+{
+  "slug": "intense-italian-liver-saltimbocca--german",
+  "title": "German-Style Saltimbocca Liver with Intense Italian Flair",
+  "description": "A creative twist on the classic Italian dish, Saltimbocca, with a German spin using liver and intense flavors.",
+  "cuisine": "german",
+  "diet": [
+    ""
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal liver",
+      "amount": "4 slices",
+      "notes": "about 1/4 inch thick"
+    },
+    {
+      "name": "prosciutto",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sage leaves",
+      "amount": "4 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Season the veal liver with salt and black pepper.",
+    "Heat butter in a large skillet over medium-high heat.",
+    "Sear the liver slices for 2-3 minutes per side, or until browned.",
+    "Remove the liver from the skillet and set aside.",
+    "Add the thinly sliced prosciutto to the skillet and cook until crispy.",
+    "Add the sliced onion to the skillet and cook until translucent.",
+    "Add the white wine to the skillet and cook until reduced.",
+    "Add the chicken broth to the skillet and bring to a simmer.",
+    "Return the liver to the skillet and simmer until cooked through.",
+    "Serve the liver with the prosciutto and onion mixture spooned over the top.",
+    "Garnish with fresh sage leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "italian",
+    "liver",
+    "saltimbocca"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-italian-liver-saltimbocca--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:53:18.578Z"
+}
