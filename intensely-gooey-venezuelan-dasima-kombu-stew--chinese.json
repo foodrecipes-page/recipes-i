@@ -1,0 +1,74 @@
+{
+  "slug": "intensely-gooey-venezuelan-dasima-kombu-stew--chinese",
+  "title": "Venezuelan-Style Dasima Stew",
+  "description": "A hearty and flavorful stew inspired by Venezuelan cuisine, using dasima and kombu for a rich and savory broth.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dasima",
+      "amount": "2 cups"
+    },
+    {
+      "name": "kombu",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "stew meat (beef or pork)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened.",
+    "Add garlic and cook for 1 minute.",
+    "Add stew meat and cook until browned.",
+    "Add dasima, kombu, soy sauce, sugar, and water.",
+    "Bring to a boil, then reduce heat and simmer for 1 hour.",
+    "Remove kombu and season with black pepper.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "dasima",
+    "kombu"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-gooey-venezuelan-dasima-kombu-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:13:04.798Z"
+}
