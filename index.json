@@ -7950,17 +7950,15 @@
   },
   {
     "slug": "intense-roasted-italian-mentaiko-tagliatelle",
-    "title": "Intense Roasted Italian Mentaiko Tagliatelle",
+    "title": "Mentaiko Tagliatelle",
     "tags": [
-      "brunch-ideas",
-      "italian-food",
-      "mentaiko-recipes",
-      "pasta-dishes",
-      "roasted-vegetables",
-      "satvik-diet"
+      "italian",
+      "pasta",
+      "vegetarian",
+      "comfort-food"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 18,
     "shard": "i"
   },
   {
