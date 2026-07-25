@@ -15001,17 +15001,16 @@
   },
   {
     "slug": "invigorating-syrian-lamb-stir-fry",
-    "title": "Invigorating Syrian Lamb Stir Fry",
+    "title": "Syrian Lamb Stir Fry",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "quick-meal",
-      "weeknight"
+      "syrian",
+      "lamb",
+      "stir-fry",
+      "meat",
+      "gluten-free"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -17560,14 +17559,15 @@
   },
   {
     "slug": "indulgent-egyptian-aubergine-crumble--italian",
-    "title": "Italian Aubergine Crumble",
+    "title": "Eggplant Parmesan Crumble",
     "tags": [
-      "italian-food",
-      "aubergine",
-      "crumble-topping"
+      "italian",
+      "eggplant",
+      "parmesan",
+      "crumble"
     ],
     "cuisine": "italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "i"
   },
   {
@@ -17951,6 +17951,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 360,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-sweet-argentinian-rhubarb-empanadas--italian",
+    "title": "Argentinian Sweet Rhubarb Empanadas with Italian Twist",
+    "tags": [
+      "italian",
+      "dessert",
+      "empanadas",
+      "rhubarb"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "i"
   }
 ]
