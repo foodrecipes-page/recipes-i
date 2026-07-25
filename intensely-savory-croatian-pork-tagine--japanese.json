@@ -1,0 +1,89 @@
+{
+  "slug": "intensely-savory-croatian-pork-tagine--japanese",
+  "title": "Pork Tagine Ramen",
+  "description": "A unique twist on traditional ramen, combining the flavors of Japanese and Croatian cuisine with the intense, savory flavors of a tagine.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.2 lbs",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Savory miso paste",
+      "amount": "2 tbsp",
+      "notes": "Dissolved in 2 cups of chicken broth"
+    },
+    {
+      "name": "Croation olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Sliced fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Ramen noodles",
+      "amount": "1 package",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add pork and cook until browned, about 5 minutes.",
+    "Remove pork and set aside.",
+    "Add tagine spice blend and cook for 1 minute.",
+    "Add miso paste mixture and stir to combine.",
+    "Return pork to the pot and bring to a simmer.",
+    "Cook for 20 minutes, or until pork is tender.",
+    "Cook ramen noodles according to package instructions.",
+    "To serve, place noodles in a bowl, top with pork and sauce, and garnish with scallions and cilantro.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "ramen",
+    "tagine",
+    "pork",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-croatian-pork-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:11:50.159Z"
+}
