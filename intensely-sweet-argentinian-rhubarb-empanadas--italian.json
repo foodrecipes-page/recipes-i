@@ -1,0 +1,73 @@
+{
+  "slug": "intensely-sweet-argentinian-rhubarb-empanadas--italian",
+  "title": "Argentinian Sweet Rhubarb Empanadas with Italian Twist",
+  "description": "A unique Italian-inspired dessert using sweet Argentinian empanada dough and intensely sweet rhubarb filling.",
+  "cuisine": "italian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Argentinian Empanada Dough",
+      "amount": "1 package (usually 8-10 empanada wrappers)"
+    },
+    {
+      "name": "Rhubarb",
+      "amount": "2 cups, cut into small pieces"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the empanada dough and cut into squares.",
+    "Mix the rhubarb, sugar, cornstarch, and lemon juice in a separate bowl.",
+    "Place a tablespoon of the rhubarb mixture in the center of each dough square.",
+    "Brush the edges of the dough with melted butter and fold the dough to form a triangle.",
+    "Seal the edges with a fork and place the empanadas on a baking sheet.",
+    "Brush the tops with melted butter and sprinkle with sugar.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm with a drizzle of vanilla extract."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "empanadas",
+    "rhubarb"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-sweet-argentinian-rhubarb-empanadas--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:10:27.402Z"
+}
