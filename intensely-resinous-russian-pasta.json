@@ -1,0 +1,88 @@
+{
+  "slug": "intensely-resinous-russian-pasta",
+  "title": "Russian-Style Pasta Baked with Intense Resinous Flavor",
+  "description": "A unique pasta dish featuring resinous notes from pine resin and a hint of Russian spices. This baked goodness is perfect for a cold evening.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pine Resin",
+      "amount": "1/4 cup",
+      "notes": "Finely ground"
+    },
+    {
+      "name": "Russian Black Bread",
+      "amount": "1 cup, cubed",
+      "notes": "day-old"
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz.",
+      "notes": "penne or fusilli"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tsp, dried",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/2 cup, grated",
+      "notes": "Russian cheese or cheddar"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 350°F (180°C).",
+    "2. Cook the pasta according to the package instructions. Drain and set aside.",
+    "3. In a large skillet, melt the butter over medium heat. Add the mushrooms and cook until they release their moisture and start to brown.",
+    "4. Add the ground pine resin to the skillet and stir to combine with the mushrooms. Cook for 1-2 minutes.",
+    "5. Add the cubed Russian black bread to the skillet and toss to combine with the mushroom-pine resin mixture.",
+    "6. In a large mixing bowl, combine the cooked pasta, mushroom-bread mixture, dill, salt, and pepper. Mix well.",
+    "7. Transfer the pasta mixture to a baking dish and top with grated cheese.",
+    "8. Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "pasta",
+    "pine-resin",
+    "mushrooms",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-resinous-russian-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:55:06.271Z"
+}
