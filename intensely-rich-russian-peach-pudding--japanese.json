@@ -1,0 +1,96 @@
+{
+  "slug": "intensely-rich-russian-peach-pudding--japanese",
+  "title": "Peach Pudding Daifuku",
+  "description": "A Japanese-inspired dessert combining sweet peach pudding with rich mochi, a traditional Japanese treat.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "mochi rice flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "pork or vegetable gelatin",
+      "amount": "1 envelope",
+      "notes": null
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "sugar syrup (optional)",
+      "amount": "2 tablespoons",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine 2 cups of water and 1 cup of granulated sugar. Heat over medium heat, stirring until the sugar dissolves.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Add the peaches to the saucepan and cook for an additional 5 minutes, or until they're tender.",
+    "In a small bowl, mix together the heavy cream, honey, and vanilla extract. Stir to combine.",
+    "Add the cream mixture to the saucepan with the peach mixture and stir to combine.",
+    "In a separate bowl, mix together the mochi rice flour and 1 cup of water. Knead the dough until it's smooth and pliable.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Heat a non-stick skillet or griddle over medium heat. Cook the dough balls for 2-3 minutes on each side, or until they're lightly browned.",
+    "To assemble the daifuku, place a cooked mochi ball on a flat surface. Spoon a small amount of the peach pudding mixture onto the center of the mochi.",
+    "Fold the mochi in half to enclose the filling, and press the edges together to seal.",
+    "Serve the daifuku warm, or at room temperature. If desired, drizzle with sugar syrup."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "dessert",
+    "peach",
+    "mochi"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-rich-russian-peach-pudding--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:37:44.501Z"
+}
