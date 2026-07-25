@@ -1,0 +1,75 @@
+{
+  "slug": "intensely-citrusy-italian-chicken-wings-stew--keto",
+  "title": "Crispy Keto Chicken Wings",
+  "description": "A keto version of the classic Italian-inspired dish, featuring crispy chicken wings with an intense citrus flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken Wings",
+      "amount": "2 pounds",
+      "notes": "Drumsticks and flats"
+    },
+    {
+      "name": "Citrus Zest",
+      "amount": "2 tablespoons",
+      "notes": "Combine lemon and orange zest"
+    },
+    {
+      "name": "Intensely Italian Seasoning Blend",
+      "amount": "1 teaspoon",
+      "notes": "Homemade blend of Italian seasonings"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "1 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Add for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse and pat dry the chicken wings.",
+    "In a large bowl, mix together the citrus zest, Italian seasoning blend, and garlic powder.",
+    "Toss the chicken wings in the bowl to coat evenly with the seasoning mixture.",
+    "Line a baking sheet with parchment paper and arrange the chicken wings in a single layer.",
+    "Drizzle the avocado oil over the wings and toss to coat.",
+    "Bake for 30 minutes, or until the wings start to crisp.",
+    "Increase the oven temperature to broil and cook for an additional 5-7 minutes, or until crispy and golden brown.",
+    "Remove from the oven and sprinkle with Parmesan cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "italian",
+    "chicken",
+    "wings"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-citrusy-italian-chicken-wings-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:47:25.125Z"
+}
