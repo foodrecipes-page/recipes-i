@@ -1,0 +1,68 @@
+{
+  "slug": "intense-smoky-irish-treacle-grill--german",
+  "title": "Smoked Irish Treacle Ribs",
+  "description": "A twist on traditional BBQ ribs, these German-inspired Irish treacle ribs are smoky, sweet, and fall-off-the-bone tender.",
+  "cuisine": "german",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "St. Louis-style pork ribs",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Irish treacle",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Intense BBQ sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Grill",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 275°F (140°C).",
+    "Remove the membrane from the back of the ribs and pat dry with paper towels.",
+    "In a small bowl, mix together treacle, BBQ sauce, and smoked paprika.",
+    "Apply the treacle mixture evenly to both sides of the ribs.",
+    "Place the ribs on the grill, bone-side down, and close the lid.",
+    "Smoke the ribs for 2 hours, or until they reach an internal temperature of 160°F (71°C).",
+    "After 2 hours, increase the grill temperature to 375°F (190°C) and cook for an additional 10-15 minutes, or until the ribs are caramelized and tender.",
+    "Remove the ribs from the grill and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 240,
+  "totalTimeMin": 255,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "bbq",
+    "pork",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 940,
+    "protein": 73,
+    "carbs": 30,
+    "fat": 57
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-irish-treacle-grill--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:13:03.126Z"
+}
