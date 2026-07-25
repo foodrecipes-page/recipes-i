@@ -17926,5 +17926,31 @@
     "cuisine": "chinese",
     "totalTimeMin": 75,
     "shard": "i"
+  },
+  {
+    "slug": "incredible-iced-brazilian-chicken-fondue--mexican",
+    "title": "Mexican Chicken Fajita",
+    "tags": [
+      "mexican",
+      "chicken",
+      "fajita"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-portuguese-ground-nut-oil-bake--italian",
+    "title": "Italian Nutty Tiramisu Cake",
+    "tags": [
+      "italian",
+      "tiramisu",
+      "cake",
+      "dessert",
+      "italian-cuisine"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 360,
+    "shard": "i"
   }
 ]
