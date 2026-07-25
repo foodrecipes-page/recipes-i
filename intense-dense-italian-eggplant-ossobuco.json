@@ -1,0 +1,85 @@
+{
+  "slug": "intense-dense-italian-eggplant-ossobuco",
+  "title": "Braised Ossobuco with Eggplant",
+  "description": "A hearty Italian dish featuring braised ossobuco and eggplant in a rich tomato sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ossobuco",
+      "amount": "2 pounds",
+      "notes": "4-6 veal shanks"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "intense red wine",
+      "amount": "1 cup",
+      "notes": "such as Cabernet Sauvignon"
+    },
+    {
+      "name": "dense tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "such as dried oregano and basil"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 300°F (150°C).",
+    "2. Season the ossobuco with salt and pepper.",
+    "3. Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "4. Sear the ossobuco until browned on all sides, about 5 minutes per side.",
+    "5. Remove the ossobuco from the pot and set aside.",
+    "6. Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "7. Add the sliced eggplant and cook for an additional 5 minutes.",
+    "8. Add the intense red wine to the pot and cook until reduced by half, scraping up any browned bits from the bottom of the pot.",
+    "9. Add the dense tomato paste and cook for 1-2 minutes.",
+    "10. Add the italian seasoning and stir to combine.",
+    "11. Return the ossobuco to the pot and cover with a lid.",
+    "12. Transfer the pot to the preheated oven and braise for 2-3 hours, or until the ossobuco is tender.",
+    "13. Remove the pot from the oven and let it cool slightly.",
+    "14. Serve the ossobuco with the eggplant and sauce spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "italian",
+    "braised",
+    "ossobuco",
+    "eggplant"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 24,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-dense-italian-eggplant-ossobuco",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:49:34.563Z"
+}
