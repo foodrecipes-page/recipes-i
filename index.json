@@ -17889,5 +17889,32 @@
     "cuisine": "british",
     "totalTimeMin": 70,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-croatian-pork-tagine--japanese",
+    "title": "Pork Tagine Ramen",
+    "tags": [
+      "japanese",
+      "ramen",
+      "tagine",
+      "pork",
+      "savory"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-smoky-irish-treacle-grill--german",
+    "title": "Smoked Irish Treacle Ribs",
+    "tags": [
+      "german",
+      "bbq",
+      "pork",
+      "smoked"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 255,
+    "shard": "i"
   }
 ]
