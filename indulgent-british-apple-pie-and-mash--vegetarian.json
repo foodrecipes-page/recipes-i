@@ -1,0 +1,65 @@
+{
+  "slug": "indulgent-british-apple-pie-and-mash--vegetarian",
+  "title": "Classic British Apple Pie",
+  "description": "A traditional British dessert made with a flaky crust and tender apples. Perfect for a cold evening.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "3 large"
+    },
+    {
+      "name": "mash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and chop the apples into small pieces.",
+    "In a large bowl, combine the flour, sugar, and mash. Add the cold butter and use a pastry blender or your fingers to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "Roll out the dough on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch pie dish and trim the edges to fit.",
+    "Fill the pie crust with the chopped apples and dot the top with a little bit of butter.",
+    "Roll out the remaining dough to a thickness of about 1/8 inch and use it to cover the pie.",
+    "Crimp the edges to seal the pie and cut a few slits in the top to allow steam to escape.",
+    "Bake the pie for 40-50 minutes, or until the crust is golden brown and the apples are tender.",
+    "Let the pie cool for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dessert",
+    "pie",
+    "apple"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-british-apple-pie-and-mash--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:59:11.819Z"
+}
