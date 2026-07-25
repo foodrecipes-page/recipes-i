@@ -1,0 +1,76 @@
+{
+  "slug": "intensely-smoky-saudi-arabian-shrimp-paste-skewers--keto",
+  "title": "Smoky Shrimp Skewers",
+  "description": "Indulge in these smoky and flavorful shrimp skewers, perfect for a keto dinner.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "16-20 count, peeled and deveined"
+    },
+    {
+      "name": "Saudi Arabian shrimp paste",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with Korean chili paste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "intensely smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": "or substitute with smoked paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp onto skewers, leaving a small space between each.",
+    "In a small bowl, mix together shrimp paste, paprika, salt, and pepper.",
+    "Brush olive oil onto the shrimp and sprinkle with the spice mixture.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until shrimp are pink and cooked through.",
+    "Serve immediately with lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "skewers",
+    "saudi arabian",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-saudi-arabian-shrimp-paste-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:00:00.295Z"
+}
