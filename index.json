@@ -2798,19 +2798,15 @@
   },
   {
     "slug": "indulgent-herbal-syrian-yogurt-tart",
-    "title": "indulgent herbal syrian yogurt tart",
+    "title": "Herbal and Yogurt Tart",
     "tags": [
-      "brunch",
       "herbal",
-      "low-carb",
-      "middle-eastern",
-      "phyllo",
-      "tandoor",
-      "vegetarian",
-      "yogurt"
+      "tart",
+      "indulgent",
+      "dessert"
     ],
-    "cuisine": "middle eastern",
-    "totalTimeMin": 55,
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -11769,14 +11765,13 @@
   },
   {
     "slug": "intensely-resinous-korean-beef-bibimbap",
-    "title": "Intensely Resinous Korean Beef Bibimbap",
+    "title": "Korean Bibimbap",
     "tags": [
-      "beef-recipes",
-      "bibimbap",
-      "high-protein",
-      "hot-stone-plate",
       "korean-food",
-      "resinous"
+      "bibimbap",
+      "bibimbap-recipe",
+      "korean-recipe",
+      "beef-recipe"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
@@ -18111,6 +18106,19 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-smoky-ukrainian-beef-stew--vegetarian",
+    "title": "Smoky Ukrainian Stew",
+    "tags": [
+      "ukrainian",
+      "stew",
+      "vegetarian",
+      "smoked"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
     "shard": "i"
   }
 ]
