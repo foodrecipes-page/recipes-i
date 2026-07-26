@@ -8074,17 +8074,16 @@
   },
   {
     "slug": "intense-saudi-arabian-lettuce-salad",
-    "title": "Intense Saudi Arabian Lettuce Salad",
+    "title": "Spicy Arabian Chicken Salad",
     "tags": [
-      "hangover-cure",
-      "healthy",
-      "middle-eastern",
+      "chicken",
       "salad",
-      "saudi-arabian",
-      "vegan"
+      "middle-eastern",
+      "spicy",
+      "halal"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 32,
     "shard": "i"
   },
   {
@@ -18076,6 +18075,32 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-syrian-sweet-potato-soup--vegan",
+    "title": "Sweet and Indulgent Vegan Sweet Potato Soup",
+    "tags": [
+      "vegan",
+      "comfort-food",
+      "soup",
+      "sweet-potatoes",
+      "syrian"
+    ],
+    "cuisine": "syrian",
+    "totalTimeMin": 55,
+    "shard": "i"
+  },
+  {
+    "slug": "icy-jamaican-codfish-fritters--vegetarian",
+    "title": "Jamaican Fritter Bites",
+    "tags": [
+      "vegetarian",
+      "snack",
+      "jamaican"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 20,
     "shard": "i"
   }
 ]
