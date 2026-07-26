@@ -1,0 +1,74 @@
+{
+  "slug": "iced-norteno-tacos-quesadilla",
+  "title": "Taco Quesadilla",
+  "description": "A Mexican-inspired dish that combines the flavors of tacos and quesadillas. Perfect for a quick and easy meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced bell peppers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Place a tortilla in the skillet and sprinkle shredded cheese on half of the tortilla.",
+    "Add diced bell peppers and onions on top of the cheese.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2 minutes.",
+    "Repeat with the remaining ingredients.",
+    "Cut the quesadillas into wedges and serve with salsa and cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "quesadilla",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iced-norteno-tacos-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:26:26.369Z"
+}
