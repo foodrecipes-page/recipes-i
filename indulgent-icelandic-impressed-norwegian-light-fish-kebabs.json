@@ -1,0 +1,74 @@
+{
+  "slug": "indulgent-icelandic-impressed-norwegian-light-fish-kebabs",
+  "title": "Pan-Seared Salmon Kebabs",
+  "description": "A light and indulgent Icelandic-inspired dish featuring pan-seared salmon kebabs. Serve with a side of norwegian-inspired vegetables.",
+  "cuisine": "icelandic",
+  "diet": [
+    "fish",
+    "indulgent"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": "fresh and of good quality"
+    },
+    {
+      "name": "Vegetable skewers",
+      "amount": "1",
+      "notes": "including bell peppers, onions, and mushrooms"
+    },
+    {
+      "name": "Norwegian herb mix",
+      "amount": "2 tablespoons",
+      "notes": "a blend of parsley, dill, and chives"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the kebabs"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Thread the salmon and vegetables onto the skewers.",
+    "In a small bowl, mix together the Norwegian herb mix and olive oil.",
+    "Brush the herb mixture onto the kebabs.",
+    "Season with salt and pepper to taste.",
+    "Heat a large oven-safe skillet over medium-high heat.",
+    "Add the kebabs to the skillet and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes.",
+    "Serve the kebabs hot with lemon wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "icelandic",
+    "fish",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-icelandic-impressed-norwegian-light-fish-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:45:09.923Z"
+}
