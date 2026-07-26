@@ -1,0 +1,94 @@
+{
+  "slug": "intensely-smoky-ukrainian-beef-stew--vegetarian",
+  "title": "Smoky Ukrainian Stew",
+  "description": "A hearty vegetarian stew inspired by Ukrainian cuisine, with smoky flavors.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked portobello mushrooms",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beetroot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the carrots and potatoes, cook for 5 minutes.",
+    "Add the smoked portobello mushrooms, beetroot, tomato paste, thyme, and bay leaves.",
+    "Pour in the vegetable broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 25-30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "stew",
+    "vegetarian",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-ukrainian-beef-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:18:45.598Z"
+}
