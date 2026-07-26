@@ -1,0 +1,83 @@
+{
+  "slug": "icy-crunchy-australian-fish-burger--vegetarian",
+  "title": "Australian Burger Wrap",
+  "description": "A vegetarian twist on the classic burger, featuring an australian-inspired patty filled with crunchy slaw and icy cool sauce. Perfect for a quick and easy dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Burger Patties (made with icy water)",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Crunchy Slaw",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Burger Buns",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Icy Cool Sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Pickles",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Red Onion",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or grill to medium-high heat.",
+    "Cook the Australian Burger Patties for 4-5 minutes per side, or until they reach an internal temperature of 165°F (74°C).",
+    "Meanwhile, assemble the crunchy slaw by mixing together store-bought or homemade slaw and any additional desired ingredients.",
+    "Toast the burger buns by grilling them for 1-2 minutes, or until lightly browned.",
+    "Spread a layer of icy cool sauce on the bottom bun.",
+    "Add a cooked patty, followed by a layer of crunchy slaw, lettuce, tomato, pickles, and finally the top bun.",
+    "Serve immediately and enjoy!",
+    "Optional: Add additional toppings such as red onion, cheese, or avocado to make the burger even more delicious."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "easy",
+    "dinner",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-crunchy-australian-fish-burger--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:11:14.213Z"
+}
