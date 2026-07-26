@@ -1,0 +1,75 @@
+{
+  "slug": "indulgent-herbal-syrian-yogurt-tart",
+  "title": "Herbal and Yogurt Tart",
+  "description": "A refreshing dessert that combines the sweetness of tart with the tanginess of yogurt, topped with an herbal twist.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tart",
+      "amount": "1 1/2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup",
+      "notes": "pure, raw"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "from 1 lemon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "flaky sea salt"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Roll out the tart and place it on a baking sheet.",
+    "3. Bake the tart for 12-15 minutes or until lightly golden.",
+    "4. In a medium bowl, whisk together the yogurt, honey, mint leaves, lemon zest, and salt.",
+    "5. Once the tart is ready, let it cool for 5 minutes.",
+    "6. Top the tart with the yogurt mixture.",
+    "7. Chill the tart in the refrigerator for at least 30 minutes.",
+    "8. Slice the tart into wedges and serve.",
+    "9. Garnish with additional mint leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "tart",
+    "indulgent",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-herbal-syrian-yogurt-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:17:21.872Z"
+}
