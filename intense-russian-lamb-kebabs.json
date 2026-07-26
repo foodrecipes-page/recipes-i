@@ -1,0 +1,93 @@
+{
+  "slug": "intense-russian-lamb-kebabs",
+  "title": "Russian Lamb Kebabs",
+  "description": "A flavorful and spicy kebab dish inspired by Russian cuisine, featuring tender lamb and a bold blend of spices.",
+  "cuisine": "russian",
+  "diet": [
+    "pork-free",
+    "beef-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "intense hot sauce",
+      "amount": "2 tablespoons",
+      "notes": "such as Sriracha"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably kosher or sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat (400°F/200°C).",
+    "2. In a large bowl, whisk together hot sauce, olive oil, onion, garlic, lemon juice, salt, black pepper, and cumin.",
+    "3. Add the lamb cubes to the marinade and toss to coat. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "4. Thread the marinated lamb cubes onto the kebab skewers, leaving a small space between each piece.",
+    "5. Brush the grill grates with oil to prevent sticking. Grill the kebabs for 8-10 minutes per side, or until the lamb reaches an internal temperature of 145°F (63°C).",
+    "6. Transfer the kebabs to a plate and let rest for 5 minutes.",
+    "7. Garnish with chopped parsley, if desired. Serve hot with your favorite sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "lamb",
+    "russian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-russian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:25:24.989Z"
+}
