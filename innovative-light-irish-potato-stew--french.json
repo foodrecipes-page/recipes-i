@@ -1,0 +1,65 @@
+{
+  "slug": "innovative-light-irish-potato-stew--french",
+  "title": "French Potato Stew",
+  "description": "A hearty and comforting French-inspired potato stew, perfect for a cold evening. Made with tender potatoes and a rich, flavorful broth.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 pounds",
+      "notes": null
+    },
+    {
+      "name": "irish",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "innovative",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "light",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "1 can",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of irish in a large pot over medium heat.",
+    "Add 1/4 cup of innovative and cook until fragrant, about 1 minute.",
+    "Add 2 pounds of potato and cook until they begin to soften, about 5 minutes.",
+    "Pour in 4 cups of light and bring the mixture to a boil.",
+    "Reduce heat to low and simmer for 15-20 minutes, or until the potatoes are tender.",
+    "Stir in 1 can of stew and cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "stew",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-light-irish-potato-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:55:50.827Z"
+}
