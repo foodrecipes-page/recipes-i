@@ -1,0 +1,85 @@
+{
+  "slug": "intensely-savory-korean-mussels-stew--chinese",
+  "title": "Chinese-Style Mussels Stew",
+  "description": "A hearty, savory stew inspired by Chinese cuisine, featuring mussels and a blend of aromatic spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "2 pounds",
+      "notes": "fresh and scrubbed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "preferably low-sodium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "intensely savory sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add the garlic and ginger and cook for 1-2 minutes until fragrant.",
+    "Add the mussels, soy sauce, and intensely savory sauce; stir to combine.",
+    "Add the Korean chili flakes, if using.",
+    "Cook for 2-3 minutes until the mussels start to open.",
+    "Sprinkle the cornstarch over the mussels and stir to combine.",
+    "Cook for an additional 1-2 minutes until the sauce has thickened.",
+    "Serve the mussels hot, garnished with chopped green onions.",
+    "Serve immediately, and enjoy!",
+    "Optional: serve with steamed rice or noodles for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mussels",
+    "stew",
+    "chinese",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-savory-korean-mussels-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:26:31.416Z"
+}
