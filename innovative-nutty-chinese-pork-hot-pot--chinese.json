@@ -1,73 +1,82 @@
 {
   "slug": "innovative-nutty-chinese-pork-hot-pot--chinese",
-  "title": "Savory Pork Hot Pot",
-  "description": "A traditional Chinese hot pot dish featuring tender pork and a variety of vegetables.",
+  "title": "Pork Pot Stickers",
+  "description": "A classic Chinese dish filled with tender pork and wrapped in crispy pot sticker wrappers. Serve with your favorite dipping sauce.",
   "cuisine": "chinese",
-  "diet": [
-    "omnivore"
-  ],
-  "meal": "dinner",
+  "diet": null,
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "pork",
-      "amount": "500g",
-      "notes": "thinly sliced"
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": null
     },
     {
-      "name": "innovative",
+      "name": "innovative hot pot sticker wrappers",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
       "amount": "1 tablespoon",
-      "notes": "hot sauce"
+      "notes": "optional"
     },
     {
-      "name": "nutty",
-      "amount": "1 tablespoon",
-      "notes": "sesame oil"
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
     },
     {
-      "name": "hot",
-      "amount": "1 tablespoon",
-      "notes": "chili flakes"
-    },
-    {
-      "name": "pot",
-      "amount": "2",
-      "notes": "large pots for hot pot"
-    },
-    {
-      "name": "chinese",
-      "amount": "1",
-      "notes": "hot pot broth"
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
     }
   ],
   "instructions": [
-    "Prepare the hot pot broth according to the package instructions.",
-    "Slice the pork into thin strips.",
-    "Heat the sesame oil in a large pan over medium-high heat.",
-    "Add the pork to the pan and cook until browned, about 5 minutes.",
-    "Add the chili flakes and cook for an additional 1 minute.",
-    "Transfer the pork mixture to the hot pot pot and simmer for 10 minutes.",
-    "Serve the hot pot with a variety of vegetables, such as bok choy and mushrooms.",
-    "Dip the cooked pork and vegetables in the hot pot broth for a flavorful and spicy meal."
+    "In a large skillet or wok, heat 1 tablespoon of sesame oil over medium-high heat.",
+    "Add the chopped scallions and grated ginger and cook until fragrant, about 1 minute.",
+    "Add the ground pork and cook, breaking it up with a spoon, until no longer pink, about 3-4 minutes.",
+    "Season with soy sauce, salt, and pepper to taste.",
+    "Lay out the pot sticker wrappers on a clean surface.",
+    "Place a tablespoon of the pork mixture in the center of each wrapper.",
+    "Moisten the edges of the wrapper with water and fold the wrapper into a triangle, pressing the edges together to seal.",
+    "In a large skillet or wok, heat 1 tablespoon of sesame oil over medium-high heat.",
+    "Add the pot stickers and cook, turning occasionally, until golden brown and crispy, about 2-3 minutes per side.",
+    "Serve hot with your favorite dipping sauce."
   ],
-  "prepTimeMin": 20,
-  "cookTimeMin": 20,
-  "totalTimeMin": 40,
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "chinese",
-    "hot-pot",
     "pork",
-    "spicy"
+    "dumplings"
   ],
   "nutrition": {
-    "calories": 450,
-    "protein": 35,
-    "carbs": 20,
-    "fat": 25
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/innovative-nutty-chinese-pork-hot-pot--chinese",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T06:20:27.929Z"
+  "createdAt": "2026-07-21T16:14:49.280Z"
 }
