@@ -1,0 +1,96 @@
+{
+  "slug": "intensely-comforting-dutch-beef-stew--italian",
+  "title": "Italian Beef Stew",
+  "description": "A hearty and comforting Italian-inspired beef stew, perfect for a cozy evening. This stew is made with tender beef, flavorful vegetables, and a rich tomato sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "28 oz",
+      "notes": "crushed tomatoes"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "2. Add the beef cubes and cook until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "3. Add the chopped onion to the pot and cook until translucent, about 5 minutes.",
+    "4. Add the minced garlic and cook for 1 minute.",
+    "5. Add the chopped carrots and celery and cook for 5 minutes.",
+    "6. Add the crushed tomatoes, beef broth, red wine, and tomato paste (if using). Stir to combine.",
+    "7. Return the browned beef to the pot and bring to a boil.",
+    "8. Reduce heat to low, cover, and simmer for 2.5 hours, or until the beef is tender.",
+    "9. Season with salt and pepper to taste.",
+    "10. Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "stew",
+    "comforting",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-comforting-dutch-beef-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:43:40.350Z"
+}
