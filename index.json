@@ -18064,5 +18064,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 23,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-korean-mussels-stew--chinese",
+    "title": "Chinese-Style Mussels Stew",
+    "tags": [
+      "mussels",
+      "stew",
+      "chinese",
+      "seafood"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "i"
   }
 ]
