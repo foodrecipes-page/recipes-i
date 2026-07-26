@@ -1,0 +1,71 @@
+{
+  "slug": "intense-saudi-arabian-lettuce-salad",
+  "title": "Spicy Arabian Chicken Salad",
+  "description": "A flavorful and refreshing salad inspired by the Middle Eastern cuisine, with spicy saudi chicken and crunchy lettuce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "saudi chili powder",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "arabian ghee",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "lettuce",
+      "amount": "4 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "salad",
+      "amount": "2 cups",
+      "notes": "chopped mixed greens"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together saudi chili powder and arabian ghee.",
+    "2. Add the chicken breast to the bowl and marinate for at least 30 minutes.",
+    "3. Preheat grill or grill pan to medium-high heat.",
+    "4. Remove chicken from the marinade and cook for 5-6 minutes per side, or until cooked through.",
+    "5. Let the chicken rest for a few minutes before slicing into thin strips.",
+    "6. In a large salad bowl, combine chopped lettuce and mixed greens.",
+    "7. Arrange the sliced chicken on top of the salad.",
+    "8. Drizzle with remaining marinade sauce.",
+    "9. Serve immediately and garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "salad",
+    "middle-eastern",
+    "spicy",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-saudi-arabian-lettuce-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:54:34.929Z"
+}
