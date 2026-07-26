@@ -1,82 +1,86 @@
 {
   "slug": "intensely-pungent-vietnamese-pilchards-ca-kho-to--vegan",
-  "title": "Vietnamese-Style Stuffed Pilchards",
-  "description": "A vegan twist on traditional Vietnamese stuffed fish, using pilchards and intensely flavorful spices.",
-  "cuisine": "Vietnamese",
+  "title": "Vietnamese Vegan Pilchard-Free Kho",
+  "description": "A vegan twist on the traditional Vietnamese kho dish, replacing pilchards with plant-based ingredients.",
+  "cuisine": "vietnamese",
   "diet": [
     "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "pilchards",
-      "amount": "4",
-      "notes": "canned or fresh"
+      "name": "intensely pungent onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
     },
     {
-      "name": "intensely pungent",
-      "amount": "2 tsp",
-      "notes": "fish sauce alternative (such as nama shoyu)"
+      "name": "vietnamese kho sauce",
+      "amount": "2 tbsp",
+      "notes": "make sure it's vegan"
     },
     {
-      "name": "vietnamese",
+      "name": "ca (chayote squash)",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "to (rice vinegar)",
+      "amount": "2 tbsp",
+      "notes": "for marinating the onions"
+    },
+    {
+      "name": "vegan stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "pungent garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "soy sauce (make sure it's vegan)",
       "amount": "1 tbsp",
-      "notes": "chili sauce"
-    },
-    {
-      "name": "ca",
-      "amount": "2 cloves",
-      "notes": "minced garlic"
-    },
-    {
-      "name": "kho",
-      "amount": "1 tsp",
-      "notes": "ground cumin"
-    },
-    {
-      "name": "to",
-      "amount": "1 tsp",
-      "notes": "ground coriander"
-    },
-    {
-      "name": "coconut milk",
-      "amount": "1 cup",
-      "notes": "full-fat, unsweetened"
-    },
-    {
-      "name": "basil",
-      "amount": "1/4 cup",
-      "notes": "chopped"
+      "notes": "for added depth"
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
-    "Rinse and pat dry the pilchards.",
-    "In a blender or food processor, combine intensely pungent, vietnamese, ca, kho, to, and 1/4 cup of coconut milk.",
-    "Blend until smooth.",
-    "Stuff each pilchard with the spicy mixture.",
-    "Place the pilchards in a baking dish and pour the remaining coconut milk over them.",
-    "Bake for 20-25 minutes or until the pilchards are cooked through.",
-    "Garnish with chopped basil before serving."
+    "Marinate the sliced onions in rice vinegar for at least 30 minutes.",
+    "Heat olive oil in a large pan over medium heat. Add the minced garlic and sauté until fragrant.",
+    "Add the marinated onions to the pan and sauté until they start to caramelize.",
+    "Add the cubed chayote squash to the pan and continue to sauté for another 5 minutes.",
+    "Pour in the vegan stock and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 15-20 minutes or until the squash is tender.",
+    "Stir in the kho sauce and soy sauce. Cook for an additional 2-3 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles.",
+    "Garnish with chopped fresh herbs, if desired."
   ],
-  "prepTimeMin": 15,
+  "prepTimeMin": 20,
   "cookTimeMin": 25,
-  "totalTimeMin": 40,
+  "totalTimeMin": 45,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "vegan",
     "vietnamese",
-    "fish-free"
+    "vegan",
+    "kho",
+    "chayote-squash",
+    "plant-based"
   ],
   "nutrition": {
     "calories": 250,
-    "protein": 20,
-    "carbs": 10,
-    "fat": 15
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/intensely-pungent-vietnamese-pilchards-ca-kho-to--vegan",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T10:13:49.772Z"
+  "createdAt": "2026-07-21T20:50:10.042Z"
 }
