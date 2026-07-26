@@ -1,0 +1,87 @@
+{
+  "slug": "intensely-gooey-venezuelan-dasima-kombu-stew--indian",
+  "title": "Kombu and Dasima Stew",
+  "description": "A hearty and flavorful Indian-inspired stew made with kombu and dasima. Serve with rice or naan for a delicious meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dasima",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Kombu",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, ginger, and garlic. Cook until the onion is translucent.",
+    "Add carrots, potatoes, and dasima. Cook for 5 minutes.",
+    "Add kombu and cook for another 5 minutes.",
+    "Add tomato puree and stir well.",
+    "Season with salt and pepper to taste.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Serve hot with rice or naan."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-gooey-venezuelan-dasima-kombu-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:32:46.575Z"
+}
