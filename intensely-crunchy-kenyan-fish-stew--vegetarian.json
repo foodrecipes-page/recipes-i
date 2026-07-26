@@ -1,0 +1,73 @@
+{
+  "slug": "intensely-crunchy-kenyan-fish-stew--vegetarian",
+  "title": "Kenyan Stew Delight",
+  "description": "A hearty and flavorful vegetarian stew originating from Kenya, made with a variety of spices and crunchy vegetables.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pan over medium heat.",
+    "Add the chopped onions and sauté until they are translucent.",
+    "Add the chopped bell peppers and cook for 3-4 minutes.",
+    "Add the chopped tomatoes, carrots, and potatoes. Stir well.",
+    "Add the stew and stir well to combine.",
+    "Reduce heat to low and let it simmer for 20-25 minutes or until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "vegetarian",
+    "stew",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-crunchy-kenyan-fish-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:12:00.478Z"
+}
