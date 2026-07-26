@@ -18039,5 +18039,18 @@
     "cuisine": "italian",
     "totalTimeMin": 170,
     "shard": "i"
+  },
+  {
+    "slug": "icy-crunchy-australian-fish-burger--vegetarian",
+    "title": "Australian Burger Wrap",
+    "tags": [
+      "vegetarian",
+      "easy",
+      "dinner",
+      "quick"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 18,
+    "shard": "i"
   }
 ]
