@@ -1,0 +1,67 @@
+{
+  "slug": "irresistibly-buttery-greek-cheese-tiropita",
+  "title": "Greek Tiropita",
+  "description": "Traditional Greek cheese pie, flaky phyllo, and creamy cheese filling.",
+  "cuisine": "Greek",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package (usually 16-20 sheets)"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Greek cheese (like feta)",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Egg, beaten (for egg wash)",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw phyllo dough according to package instructions.",
+    "Cut phyllo sheets in half lengthwise.",
+    "In a bowl, mix together crumbled cheese, chopped parsley, salt, and pepper.",
+    "Place a phyllo sheet on a flat surface, brush with melted butter, and sprinkle with cheese mixture.",
+    "Repeat step 4-5 for 5-6 layers.",
+    "Brush top phyllo layer with egg wash.",
+    "Cut tiropita into diamond or square shapes.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "cheese-pie",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/irresistibly-buttery-greek-cheese-tiropita",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:05:43.510Z"
+}
