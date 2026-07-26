@@ -231,16 +231,16 @@
   },
   {
     "slug": "iced-norteno-tacos-quesadilla",
-    "title": "Iced Norteño Tacos Quesadilla",
+    "title": "Taco Quesadilla",
     "tags": [
-      "flexitarian-friendly",
-      "high-protein",
-      "lazy-sunday",
-      "one-pan",
-      "weeknight"
+      "mexican",
+      "tacos",
+      "quesadilla",
+      "cheese",
+      "vegetarian"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 40,
+    "cuisine": "Mexican",
+    "totalTimeMin": 18,
     "shard": "i"
   },
   {
@@ -18051,6 +18051,18 @@
     ],
     "cuisine": null,
     "totalTimeMin": 18,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-mediterranean-sea-bass-fillets-grilled--japanese",
+    "title": "Japanese-Style Grilled Bass Fillets",
+    "tags": [
+      "japanese",
+      "fish",
+      "grilled"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
     "shard": "i"
   }
 ]
