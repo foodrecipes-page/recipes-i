@@ -15212,13 +15212,12 @@
   },
   {
     "slug": "irresistibly-buttery-greek-cheese-tiropita",
-    "title": "Irresistibly Buttery Greek Cheese Tiropita",
+    "title": "Greek Tiropita",
     "tags": [
-      "buttery-goodness",
-      "comfort-food",
-      "greek-cuisine",
-      "plant-based",
-      "snack-time"
+      "greek",
+      "cheese-pie",
+      "snack",
+      "appetizer"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 55,
@@ -18000,6 +17999,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "icy-crunchy-australian-fish-burger--mexican",
+    "title": "Grilled Fish Tacos",
+    "tags": [
+      "fish-tacos",
+      "mexican-food",
+      "grilled-fish",
+      "crunchy-slaw"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 23,
     "shard": "i"
   }
 ]
