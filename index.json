@@ -18013,5 +18013,31 @@
     "cuisine": "mexican",
     "totalTimeMin": 23,
     "shard": "i"
+  },
+  {
+    "slug": "innovative-light-irish-potato-stew--french",
+    "title": "French Potato Stew",
+    "tags": [
+      "french",
+      "stew",
+      "potato"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-comforting-dutch-beef-stew--italian",
+    "title": "Italian Beef Stew",
+    "tags": [
+      "italian",
+      "beef",
+      "stew",
+      "comforting",
+      "hearty"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
+    "shard": "i"
   }
 ]
