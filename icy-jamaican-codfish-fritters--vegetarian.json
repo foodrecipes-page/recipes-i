@@ -1,0 +1,66 @@
+{
+  "slug": "icy-jamaican-codfish-fritters--vegetarian",
+  "title": "Jamaican Fritter Bites",
+  "description": "Crispy Jamaican fritter bites are a delicious vegetarian snack inspired by the island flavors of Jamaica.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "icy cold water",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "icy cold milk",
+      "amount": "1/2 cup",
+      "notes": "for fritter batter"
+    },
+    {
+      "name": "icy cold jamaican spice mix",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "icy cold flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour for fritter batter"
+    },
+    {
+      "name": "icy cold shredded coconut",
+      "amount": "1/4 cup",
+      "notes": "for fritter topping"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together the flour, jamaican spice mix, and a pinch of salt.",
+    "2. Add the cold milk and cold water to the dry ingredients and mix until a smooth batter forms.",
+    "3. Heat about 2-3 inches of oil in a deep frying pan over medium-high heat until it reaches 350°F.",
+    "4. Using a spoon, drop small balls of the fritter batter into the hot oil.",
+    "5. Fry the fritters for about 2-3 minutes on each side, until they are golden brown and crispy.",
+    "6. Remove the fritters from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "7. Sprinkle the shredded coconut on top of the fritters before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "snack",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-jamaican-codfish-fritters--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:53:18.199Z"
+}
