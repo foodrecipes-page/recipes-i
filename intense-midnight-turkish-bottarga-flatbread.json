@@ -1,0 +1,68 @@
+{
+  "slug": "intense-midnight-turkish-bottarga-flatbread",
+  "title": "Midnight Turkish Flatbread with Bottarga",
+  "description": "A simple yet flavorful snack inspired by Turkish cuisine, featuring the salty, savory taste of bottarga.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescaterian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "intense flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "midnight salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turkish olive oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing flatbread"
+    },
+    {
+      "name": "bottarga",
+      "amount": "50g",
+      "notes": "cured grey mullet roe"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "In a large mixing bowl, combine intense flour, midnight salt, and a pinch of salt.",
+    "Gradually add in water to form a dough. Knead for 5 minutes until smooth.",
+    "Divide the dough into 4 equal portions. Roll out each portion into a thin circle.",
+    "Brush the flatbreads with turkish olive oil and bake in the oven for 12 minutes.",
+    "Remove the flatbreads from the oven and top each with a slice of bottarga.",
+    "Return the flatbreads to the oven and bake for an additional 2 minutes or until the bottarga is warm and slightly caramelized.",
+    "Remove from the oven and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 14,
+  "totalTimeMin": 24,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "snack",
+    "flatbread",
+    "bottarga"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-midnight-turkish-bottarga-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:41:34.986Z"
+}
