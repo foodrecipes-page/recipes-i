@@ -1,0 +1,73 @@
+{
+  "slug": "intricately-garlicky-turkish-tempeh-borek--keto",
+  "title": "Turkish-Style Tempeh Borek",
+  "description": "A keto take on the traditional Turkish pastry, filled with marinated tempeh and spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "1 block",
+      "notes": "marinated in 2 tbsp olive oil, 1 tsp garlic powder, 1 tsp paprika"
+    },
+    {
+      "name": "Borek dough",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Intricately shredded cheese",
+      "amount": "1 cup",
+      "notes": "such as feta or goat cheese"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Turkish red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the borek dough to a thickness of about 1/8 inch.",
+    "Cut the dough into squares of about 4 inches per side.",
+    "Place a tablespoon of the marinated tempeh in the center of each square.",
+    "Add a sprinkle of intricately shredded cheese, garlic, Turkish red pepper flakes, and salt on top of the tempeh.",
+    "Fold the dough over the filling to form a triangle or square shape, pressing the edges to seal.",
+    "Brush the tops of the borek with olive oil.",
+    "Bake the borek in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "turkish",
+    "tempeh",
+    "borek",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intricately-garlicky-turkish-tempeh-borek--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:03:58.615Z"
+}
