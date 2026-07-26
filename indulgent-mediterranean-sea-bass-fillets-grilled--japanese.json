@@ -1,0 +1,87 @@
+{
+  "slug": "indulgent-mediterranean-sea-bass-fillets-grilled--japanese",
+  "title": "Japanese-Style Grilled Bass Fillets",
+  "description": "A delicate and flavorful bass fillet dish inspired by Japanese cuisine, featuring a sweet and savory sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "fish-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bass fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together sesame oil, soy sauce, honey, and grated ginger.",
+    "Season the bass fillets with salt and black pepper.",
+    "Place the bass fillets on the grill and cook for 4-5 minutes per side, or until cooked through.",
+    "While the fish is cooking, toast the sesame seeds in a dry pan over medium heat until fragrant.",
+    "Once the fish is done, transfer it to a plate and brush with the sesame oil mixture.",
+    "Sprinkle the toasted sesame seeds and chopped green onions over the top of the fish.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fish",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-mediterranean-sea-bass-fillets-grilled--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:23:12.175Z"
+}
