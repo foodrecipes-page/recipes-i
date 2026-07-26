@@ -17689,14 +17689,16 @@
   },
   {
     "slug": "intensely-pungent-vietnamese-pilchards-ca-kho-to--vegan",
-    "title": "Vietnamese-Style Stuffed Pilchards",
+    "title": "Vietnamese Vegan Pilchard-Free Kho",
     "tags": [
-      "vegan",
       "vietnamese",
-      "fish-free"
+      "vegan",
+      "kho",
+      "chayote-squash",
+      "plant-based"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 40,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -18117,6 +18119,45 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-crunchy-kenyan-fish-stew--vegetarian",
+    "title": "Kenyan Stew Delight",
+    "tags": [
+      "kenyan",
+      "vegetarian",
+      "stew",
+      "dinner"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-gooey-venezuelan-dasima-kombu-stew--indian",
+    "title": "Kombu and Dasima Stew",
+    "tags": [
+      "indian",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-japanese-tofu-agedashi--thai",
+    "title": "Agedashi Tofu in Spicy Thai Broth",
+    "tags": [
+      "tofu",
+      "thai",
+      "agedashi",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "i"
   }
 ]
