@@ -6495,12 +6495,11 @@
   },
   {
     "slug": "intense-crunchy-french-sesame-salad",
-    "title": "Intense Crunchy French Sesame Salad",
+    "title": "French Crouton Salad",
     "tags": [
-      "crunchy",
+      "salad",
+      "croutons",
       "french",
-      "intense",
-      "macrobiotic",
       "sesame"
     ],
     "cuisine": "French",
@@ -17661,15 +17660,14 @@
   },
   {
     "slug": "innovative-nutty-chinese-pork-hot-pot--chinese",
-    "title": "Savory Pork Hot Pot",
+    "title": "Pork Pot Stickers",
     "tags": [
       "chinese",
-      "hot-pot",
       "pork",
-      "spicy"
+      "dumplings"
     ],
     "cuisine": "chinese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "i"
   },
   {
@@ -18101,6 +18099,20 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 20,
+    "shard": "i"
+  },
+  {
+    "slug": "intricately-garlicky-turkish-tempeh-borek--keto",
+    "title": "Turkish-Style Tempeh Borek",
+    "tags": [
+      "keto",
+      "turkish",
+      "tempeh",
+      "borek",
+      "pastry"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "i"
   }
 ]
