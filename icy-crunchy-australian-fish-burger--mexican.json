@@ -1,0 +1,78 @@
+{
+  "slug": "icy-crunchy-australian-fish-burger--mexican",
+  "title": "Grilled Fish Tacos",
+  "description": "A delicious and easy-to-make Mexican dish featuring grilled fish, crunchy slaw, and a zesty sauce.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Tilapia)",
+      "amount": "4 fillets (6 oz each)",
+      "notes": null
+    },
+    {
+      "name": "Australian Burger Buns",
+      "amount": "4 buns",
+      "notes": null
+    },
+    {
+      "name": "Crunchy Slaw (icy cabbage, crunchy carrots)",
+      "amount": "1 cup shredded cabbage, 1 cup shredded carrots",
+      "notes": "Add your favorite seasonings"
+    },
+    {
+      "name": "Mexican-Style Slaw Dressing",
+      "amount": "2 tbsp olive oil, 1 tbsp lime juice, 1 tsp cumin, 1 tsp chili powder, salt & pepper",
+      "notes": null
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4 wedges",
+      "notes": null
+    },
+    {
+      "name": "Mexican Crema (or sour cream)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Sliced Radishes",
+      "amount": "1 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season fish fillets with salt, pepper, and your favorite seasonings.",
+    "3. Grill fish for 4-5 minutes per side, or until cooked through.",
+    "4. Meanwhile, prepare the crunchy slaw by mixing together the shredded cabbage and carrots.",
+    "5. In a separate bowl, whisk together the slaw dressing ingredients.",
+    "6. Add the slaw dressing to the crunchy slaw and toss to combine.",
+    "7. Warm the burger buns on the grill or in the oven.",
+    "8. Assemble the tacos by placing a grilled fish fillet on each bun.",
+    "9. Top with crunchy slaw, a dollop of Mexican crema, and a slice of radish (if using).",
+    "10. Serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-tacos",
+    "mexican-food",
+    "grilled-fish",
+    "crunchy-slaw"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/icy-crunchy-australian-fish-burger--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:17:44.534Z"
+}
