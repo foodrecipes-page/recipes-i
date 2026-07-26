@@ -1,0 +1,66 @@
+{
+  "slug": "intense-crunchy-french-sesame-salad",
+  "title": "French Crouton Salad",
+  "description": "A simple yet flavorful salad made with crunchy croutons and topped with a variety of fresh ingredients.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "French bread",
+      "amount": "1 baguette",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for drizzling"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salad mix",
+      "amount": "4 cups",
+      "notes": "your favorite greens"
+    },
+    {
+      "name": "Crunchy ingredients",
+      "amount": "1 cup",
+      "notes": "such as chopped nuts or seeds"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (180°C).",
+    "2. Toss bread cubes with 1 tablespoon olive oil and season with salt. Spread on a baking sheet and toast in the oven for 10-12 minutes, or until golden brown.",
+    "3. In a large bowl, combine salad mix, toasted bread cubes, and crunchy ingredients.",
+    "4. Drizzle with remaining 1 tablespoon olive oil and sprinkle with sesame seeds.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "croutons",
+    "french",
+    "sesame"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-crunchy-french-sesame-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:53:27.923Z"
+}
