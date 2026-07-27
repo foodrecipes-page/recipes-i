@@ -18212,5 +18212,32 @@
     "cuisine": "japanese",
     "totalTimeMin": 30,
     "shard": "i"
+  },
+  {
+    "slug": "iced-galician-stilton-paella--italian",
+    "title": "Galician Paella Risotto",
+    "tags": [
+      "italian",
+      "risotto",
+      "galician",
+      "paella",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-smoky-irish-treacle-grill--vegan",
+    "title": "Smoky Irish Treacle BBQ Sauce Vegan Ribs",
+    "tags": [
+      "vegan",
+      "bbq",
+      "jackfruit",
+      "smoked-paprika"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 60,
+    "shard": "i"
   }
 ]
