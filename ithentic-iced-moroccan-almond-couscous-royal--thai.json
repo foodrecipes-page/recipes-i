@@ -1,0 +1,65 @@
+{
+  "slug": "ithentic-iced-moroccan-almond-couscous-royal--thai",
+  "title": "Iced Thai Couscous Salad",
+  "description": "A refreshing Thai-inspired salad made with iced couscous, crunchy vegetables, and a hint of moroccan spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mixed Vegetables (carrots, bell peppers, cucumber)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Iced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Moroccan Spice Blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Almond Slices",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Royal Icing (for garnish)",
+      "amount": "1 Tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the couscous according to package instructions.",
+    "In a separate pan, heat the moroccan spice blend over low heat for 1 minute.",
+    "Add the mixed vegetables to the pan and stir-fry for 2-3 minutes.",
+    "Combine the cooked couscous and vegetable mixture.",
+    "Stir in the iced and almond slices.",
+    "Transfer the salad to a serving dish.",
+    "Garnish with royal icing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "vegetarian",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ithentic-iced-moroccan-almond-couscous-royal--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:41:40.845Z"
+}
