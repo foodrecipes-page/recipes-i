@@ -1,0 +1,80 @@
+{
+  "slug": "intense-smoky-irish-treacle-grill--vegan",
+  "title": "Smoky Irish Treacle BBQ Sauce Vegan Ribs",
+  "description": "A vegan twist on traditional BBQ ribs, using intense smoky flavours and a sweet treacle glaze. Perfect for a summer evening.",
+  "cuisine": "irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jackfruit",
+      "amount": "1 cup (250g)"
+    },
+    {
+      "name": "treacle",
+      "amount": "1/4 cup (60g)"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoky BBQ sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grill seasonings",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "intense smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup (250ml)"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium heat.",
+    "In a large bowl, whisk together treacle, apple cider vinegar, smoky BBQ sauce, grill seasonings, smoked paprika and flaxseed meal.",
+    "Add the jackfruit to the bowl and toss to coat with the BBQ sauce mixture.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Add the jackfruit to the grill and cook for 20-25 minutes per side, or until tender and caramelized.",
+    "While the jackfruit is cooking, mix the water with the remaining BBQ sauce mixture and bring to a simmer in a saucepan.",
+    "Reduce the BBQ sauce mixture over medium heat until thickened and syrupy.",
+    "Once the jackfruit is cooked, brush with the BBQ sauce glaze and serve immediately.",
+    "Serve with additional BBQ sauce for dipping, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "bbq",
+    "jackfruit",
+    "smoked-paprika"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-smoky-irish-treacle-grill--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:39:45.874Z"
+}
