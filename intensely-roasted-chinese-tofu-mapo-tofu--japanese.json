@@ -1,0 +1,86 @@
+{
+  "slug": "intensely-roasted-chinese-tofu-mapo-tofu--japanese",
+  "title": "Japanese-Style Mapo Tofu Stir-Fry",
+  "description": "A Japanese adaptation of the classic Sichuan mapo tofu dish, with a focus on bold flavors and tender tofu.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "firm, drained, and cut into small cubes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "intensely roasted chili bean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mapo tofu seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chinese chives",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cubed tofu and cook until golden brown, about 5 minutes.",
+    "Add the intensely roasted chili bean paste, mapo tofu seasoning, soy sauce, sugar, and rice vinegar.",
+    "Stir-fry for 2-3 minutes, until the sauce has thickened.",
+    "Season with salt to taste.",
+    "Garnish with chopped chinese chives and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "tofu",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-roasted-chinese-tofu-mapo-tofu--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:33:19.049Z"
+}
