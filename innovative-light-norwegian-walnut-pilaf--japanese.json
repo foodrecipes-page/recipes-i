@@ -1,0 +1,58 @@
+{
+  "slug": "innovative-light-norwegian-walnut-pilaf--japanese",
+  "title": "Walnut Pilaf Bites",
+  "description": "A Japanese-inspired snack combining the crunch of walnuts with the simplicity of a pilaf, perfect for a quick pick-me-up.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "light norwegian brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "innovative Japanese-style sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together sesame oil and rice. Let sit for 5 minutes.",
+    "In a large bowl, combine pilaf, rice mixture, and chopped walnuts. Mix well.",
+    "Using a 1/4 cup measuring cup, scoop the mixture into balls. Flatten slightly into patties.",
+    "Place on a baking sheet lined with parchment paper. Bake for 15-20 minutes or until lightly browned.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "vegetarian",
+    "japanese",
+    "snacks",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-light-norwegian-walnut-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:25:35.916Z"
+}
