@@ -18171,5 +18171,20 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-tangy-australian-cherry-salad--chinese",
+    "title": "Australian Cherry Salad",
+    "tags": [
+      "cherry",
+      "salad",
+      "australian",
+      "chinese",
+      "snack",
+      "summer"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 10,
+    "shard": "i"
   }
 ]
