@@ -1,0 +1,73 @@
+{
+  "slug": "indulgent-syrian-sweet-potato-soup--keto",
+  "title": "Crispy Keto Sweet Potato Fritters",
+  "description": "Crispy fritters made with sweet potatoes and a hint of indulgence. A great keto alternative to traditional fritters.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "indulgent cheese",
+      "amount": "1/2 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "syrian spice blend",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Grate the sweet potatoes and squeeze out excess moisture.",
+    "In a bowl, mix together the grated sweet potatoes, indulgent cheese, syrian spice blend, egg, salt, and black pepper.",
+    "Using your hands, shape the mixture into small patties.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, flipping halfway through.",
+    "Increase the oven temperature to broil and cook for an additional 2-3 minutes, or until crispy and golden brown.",
+    "Serve hot and enjoy!",
+    "Note: You can also pan-fry the fritters in a skillet with a small amount of oil if you prefer a crisper exterior."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "snack",
+    "sweet-potato"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-syrian-sweet-potato-soup--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:04:54.691Z"
+}
