@@ -14956,16 +14956,17 @@
   },
   {
     "slug": "invigorating-springy-japanese-white-asparagus-tan-tan-udon",
-    "title": "Invigorating Springy Japanese White Asparagus Tan Tan Udon",
+    "title": "Springy Udon Noodle Stir Fry",
     "tags": [
       "japanese",
-      "one-pot",
-      "spring-inspired",
-      "vegetarian",
-      "weeknight"
+      "asparagus",
+      "udon",
+      "stir-fry",
+      "spring",
+      "vegetarian"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "i"
   },
   {
@@ -18302,6 +18303,20 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-winey-egyptian-dish-flaky-pastry--keto",
+    "title": "Winey Pastry Flan",
+    "tags": [
+      "keto",
+      "dessert",
+      "flaky",
+      "pastry",
+      "winey"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 70,
     "shard": "i"
   }
 ]
