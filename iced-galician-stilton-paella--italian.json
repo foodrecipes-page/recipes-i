@@ -1,0 +1,89 @@
+{
+  "slug": "iced-galician-stilton-paella--italian",
+  "title": "Galician Paella Risotto",
+  "description": "A twist on the classic Italian risotto, incorporating the flavors of Galician paella. This dish is a fusion of Italian and Spanish cuisine.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Galician",
+      "amount": "1 cup",
+      "notes": "Arborio rice"
+    },
+    {
+      "name": "stilton",
+      "amount": "1/2 cup, crumbled",
+      "notes": "blue cheese"
+    },
+    {
+      "name": "paella",
+      "amount": "2 tablespoons, smoked paprika",
+      "notes": "Spanish spice"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "warm"
+    },
+    {
+      "name": "Grated Parmesan",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable broth in a separate pot and keep warm.",
+    "In a large skillet, sauté the chopped onion and minced garlic until softened.",
+    "Add the smoked paprika and cook for 1 minute.",
+    "Add the white wine and cook until the liquid is almost completely reduced.",
+    "Add the Arborio rice and cook for 1-2 minutes, until coated in oil and slightly toasted.",
+    "Add 1 cup of warm vegetable broth to the rice and stir until absorbed. Repeat this process, adding the broth in 1-cup increments, and waiting for it to be absorbed before adding more.",
+    "After 20-25 minutes of cooking, the rice should be tender and creamy. Stir in the crumbled blue cheese and cook for an additional 2 minutes.",
+    "Season with salt and serve immediately, topped with grated Parmesan and chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "risotto",
+    "galician",
+    "paella",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/iced-galician-stilton-paella--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:35:42.465Z"
+}
