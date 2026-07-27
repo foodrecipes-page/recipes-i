@@ -3250,17 +3250,17 @@
   },
   {
     "slug": "indulgent-kenyan-caraway-seed-bake",
-    "title": "Indulgent Kenyan Caraway Seed Bake",
+    "title": "Kenyan Caraway Seed Biscuit",
     "tags": [
-      "breakfast",
       "kenyan",
-      "one-pan",
-      "sattvic",
-      "vegetarian",
-      "weeknight"
+      "biscuit",
+      "caraway",
+      "seed",
+      "bake",
+      "indulgent"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 65,
+    "totalTimeMin": 33,
     "shard": "i"
   },
   {
@@ -18238,6 +18238,19 @@
     ],
     "cuisine": "irish",
     "totalTimeMin": 60,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-smoky-polish-lentils-hash--french",
+    "title": "Smoky French Lentil Hash",
+    "tags": [
+      "french",
+      "lentil",
+      "smoke",
+      "breakfast"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
     "shard": "i"
   }
 ]
