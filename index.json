@@ -18159,5 +18159,17 @@
     "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "i"
+  },
+  {
+    "slug": "intense-japanese-tofu-agedashi--japanese",
+    "title": "Agedashi Tofu",
+    "tags": [
+      "japanese",
+      "tofu",
+      "agedashi"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "i"
   }
 ]
