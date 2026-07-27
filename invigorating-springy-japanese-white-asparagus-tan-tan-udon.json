@@ -1,0 +1,76 @@
+{
+  "slug": "invigorating-springy-japanese-white-asparagus-tan-tan-udon",
+  "title": "Springy Udon Noodle Stir Fry",
+  "description": "Quick and easy Japanese-style udon noodle stir fry with asparagus and springy sesame oil. A great springtime meal to invigorate your taste buds.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Udon noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "White sesame oil",
+      "amount": "2 tbsp",
+      "notes": "springy and invigorating oil"
+    },
+    {
+      "name": "Asparagus",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the udon noodles according to the package instructions.",
+    "Heat the sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the asparagus to the skillet and cook for 2-3 minutes, or until tender.",
+    "Add the soy sauce, grated ginger, and sesame seeds to the skillet and stir to combine.",
+    "Add the cooked udon noodles to the skillet and stir to combine with the sauce.",
+    "Cook for an additional 1-2 minutes, or until the noodles are well coated with the sauce.",
+    "Serve hot and enjoy!",
+    "Optional: garnish with additional sesame seeds and grated ginger if desired.",
+    "Note: You can also add protein such as cooked chicken or tofu to the stir fry if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "asparagus",
+    "udon",
+    "stir-fry",
+    "spring",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/invigorating-springy-japanese-white-asparagus-tan-tan-udon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:03:37.396Z"
+}
