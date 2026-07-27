@@ -18186,5 +18186,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 10,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-syrian-sweet-potato-soup--keto",
+    "title": "Crispy Keto Sweet Potato Fritters",
+    "tags": [
+      "keto",
+      "snack",
+      "sweet-potato"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "i"
   }
 ]
