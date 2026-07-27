@@ -1,0 +1,84 @@
+{
+  "slug": "intensely-fermented-russian-flour-casserole--french",
+  "title": "Russian Casserole with Intensely Fermented Flavor",
+  "description": "A French-inspired casserole dish featuring a blend of intensely fermented ingredients and classic Russian flavors.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russian Sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Intensely Fermented Sauerkraut",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Chopped Fresh Dill",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook Russian sausage in a skillet over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "In a separate pot, combine sauerkraut and enough water to cover it. Bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "In a large mixing bowl, whisk together flour, butter, milk, egg, salt, and pepper.",
+    "Add cooked sausage and sauerkraut to the mixing bowl and stir until well combined.",
+    "Pour mixture into a greased 9x13 inch baking dish.",
+    "Bake for 25-30 minutes, or until casserole is golden brown and set.",
+    "Garnish with chopped fresh dill, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "russian",
+    "casserole",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-fermented-russian-flour-casserole--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:01:15.535Z"
+}
