@@ -1,0 +1,65 @@
+{
+  "slug": "intensely-tangy-australian-cherry-salad--chinese",
+  "title": "Australian Cherry Salad",
+  "description": "A refreshing Chinese-inspired salad with a tangy twist, featuring sweet cherry tomatoes and a hint of Australian flair.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "intensely flavored balsamic vinegar",
+      "amount": "2 tablespoons",
+      "notes": "reduced"
+    },
+    {
+      "name": "australian olive oil",
+      "amount": "1 tablespoon",
+      "notes": "cold-pressed"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine cherry tomatoes and chopped cilantro (if using).",
+    "2. In a small bowl, whisk together balsamic vinegar and olive oil.",
+    "3. Pour the dressing over the salad and toss to coat.",
+    "4. Season with salt to taste.",
+    "5. Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cherry",
+    "salad",
+    "australian",
+    "chinese",
+    "snack",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-tangy-australian-cherry-salad--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:10:16.052Z"
+}
