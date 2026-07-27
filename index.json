@@ -18198,5 +18198,19 @@
     "cuisine": null,
     "totalTimeMin": 40,
     "shard": "i"
+  },
+  {
+    "slug": "innovative-light-norwegian-walnut-pilaf--japanese",
+    "title": "Walnut Pilaf Bites",
+    "tags": [
+      "norwegian",
+      "vegetarian",
+      "japanese",
+      "snacks",
+      "light"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "i"
   }
 ]
