@@ -1,0 +1,81 @@
+{
+  "slug": "indulgent-winey-egyptian-dish-flaky-pastry--keto",
+  "title": "Winey Pastry Flan",
+  "description": "A rich and creamy keto dessert with a hint of wine and a flaky pastry crust.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 sheet",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Winey Pastry Cream",
+      "amount": "2 cups",
+      "notes": "See below for recipe"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4",
+      "notes": "Fresh and room temperature"
+    },
+    {
+      "name": "Granulated Sweetener",
+      "amount": "1 cup",
+      "notes": "Keto-friendly"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": "Melted and cooled"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "Full-fat and chilled"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": "High-quality and pure"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the flaky pastry sheet to a thickness of about 1/8 inch. Transfer it to a 9-inch tart pan with a removable bottom.",
+    "In a separate bowl, whisk together the winey pastry cream, eggs, granulated sweetener, and melted butter until smooth.",
+    "Pour the cream mixture into the pastry-lined tart pan and smooth the top.",
+    "Dot the top with the heavy cream and sprinkle with vanilla extract.",
+    "Bake the flan for 35-40 minutes or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let it cool to room temperature.",
+    "Chill the flan in the refrigerator for at least 2 hours or overnight.",
+    "Serve the winey pastry flan chilled, garnished with a sprinkle of granulated sweetener and a drizzle of heavy cream if desired.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "keto",
+    "dessert",
+    "flaky",
+    "pastry",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-winey-egyptian-dish-flaky-pastry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:10:50.362Z"
+}
