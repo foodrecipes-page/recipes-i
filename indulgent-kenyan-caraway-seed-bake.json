@@ -1,0 +1,77 @@
+{
+  "slug": "indulgent-kenyan-caraway-seed-bake",
+  "title": "Kenyan Caraway Seed Biscuit",
+  "description": "A sweet and savory biscuit from Kenya, flavored with caraway seeds. Perfect as a snack or dessert.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack/dessert",
+  "ingredients": [
+    {
+      "name": "Butter, unsalted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bake, all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Sugar, granulated",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Indulgent, dark chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Milk, whole",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together flour, sugar, and caraway seeds.",
+    "Add in butter and use a pastry blender or your fingers to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "Stir in chocolate chips.",
+    "In a separate bowl, whisk together egg and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Turn the dough out onto a floured surface and knead a few times until it comes together.",
+    "Roll the dough out to about 1 inch thickness.",
+    "Cut into desired shapes using a biscuit cutter or the rim of a glass.",
+    "Place on a baking sheet lined with parchment paper.",
+    "Bake for 18-20 minutes, or until the biscuits are golden brown.",
+    "Remove from oven and let cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "biscuit",
+    "caraway",
+    "seed",
+    "bake",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-kenyan-caraway-seed-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:22:36.255Z"
+}
