@@ -1,0 +1,76 @@
+{
+  "slug": "i-roasted-wholesome-squash-tagine--italian",
+  "title": "Roasted Squash Tagine",
+  "description": "A hearty Italian-inspired dish featuring roasted squash and wholesome ingredients.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squash",
+      "amount": "1 large"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Canned tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "Basil",
+      "amount": "1 tsp dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Roasted red peppers",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and cube the squash, placing it on a baking sheet.",
+    "Drizzle with olive oil and season with salt, black pepper, and dried basil.",
+    "Roast in the oven for 20 minutes.",
+    "In a large skillet, heat 1 tbsp of olive oil over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the canned tomatoes, roasted red peppers, and roasted squash to the skillet.",
+    "Simmer for 10 minutes, until the flavors have melded together.",
+    "Serve hot, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "fall",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/i-roasted-wholesome-squash-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:11:05.669Z"
+}
