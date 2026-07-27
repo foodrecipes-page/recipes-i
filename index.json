@@ -18252,5 +18252,30 @@
     "cuisine": "french",
     "totalTimeMin": 40,
     "shard": "i"
+  },
+  {
+    "slug": "i-roasted-wholesome-squash-tagine--italian",
+    "title": "Roasted Squash Tagine",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "fall",
+      "winter"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "ithentic-iced-moroccan-almond-couscous-royal--thai",
+    "title": "Iced Thai Couscous Salad",
+    "tags": [
+      "thaifood",
+      "vegetarian",
+      "salad"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "i"
   }
 ]
