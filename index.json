@@ -18277,5 +18277,31 @@
     "cuisine": "Thai",
     "totalTimeMin": 25,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-roasted-chinese-tofu-mapo-tofu--japanese",
+    "title": "Japanese-Style Mapo Tofu Stir-Fry",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "tofu",
+      "spicy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-fermented-russian-flour-casserole--french",
+    "title": "Russian Casserole with Intensely Fermented Flavor",
+    "tags": [
+      "french",
+      "russian",
+      "casserole",
+      "fermented"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "i"
   }
 ]
