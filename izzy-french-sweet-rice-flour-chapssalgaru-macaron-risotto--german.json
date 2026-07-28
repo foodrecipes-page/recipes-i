@@ -1,0 +1,70 @@
+{
+  "slug": "izzy-french-sweet-rice-flour-chapssalgaru-macaron-risotto--german",
+  "title": "German Apple Strudel",
+  "description": "A classic German dessert made with sweet apples and a crispy pastry crust.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples (izzy)",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "French bread (flour)",
+      "amount": "1/2 cup",
+      "notes": "crumbs"
+    },
+    {
+      "name": "Sugar (sweet)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Macaron",
+      "amount": "1",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice the apples.",
+    "In a bowl, mix together sugar, rice flour, and a pinch of salt.",
+    "Add the sliced apples to the bowl and toss until coated.",
+    "Roll out the French bread crumbs and place the apple mixture in the center.",
+    "Fold the dough over the apples and press the edges to seal.",
+    "Place the strudel on a baking sheet and bake for 25-30 minutes.",
+    "While the strudel is baking, toast the macaron for topping.",
+    "Glaze the strudel with a sweet sauce (optional).",
+    "Serve warm with whipped cream or vanilla ice cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "apple",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/izzy-french-sweet-rice-flour-chapssalgaru-macaron-risotto--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:52:34.843Z"
+}
