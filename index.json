@@ -18380,5 +18380,32 @@
     "cuisine": "Mediterranean",
     "totalTimeMin": 22,
     "shard": "i"
+  },
+  {
+    "slug": "intense-midnight-thai-vegetables-tagine--japanese",
+    "title": "Midnight Vegetables Stir Fry",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "vegan",
+      "stir-fry"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-sweet-brazilian-banana-pudding--chinese",
+    "title": "Sweet Brazilian Banana Pudding",
+    "tags": [
+      "chinese",
+      "dessert",
+      "banana",
+      "pudding",
+      "sweet"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "i"
   }
 ]
