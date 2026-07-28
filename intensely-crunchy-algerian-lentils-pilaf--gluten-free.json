@@ -1,0 +1,89 @@
+{
+  "slug": "intensely-crunchy-algerian-lentils-pilaf--gluten-free",
+  "title": "Spicy Algerian-Style Lentil Pilaf",
+  "description": "A flavorful and nutritious gluten-free dish made with lentils and aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "algerian lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "pilaf oil",
+      "amount": "2 tablespoons",
+      "notes": "such as olive or avocado oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "or vegetable broth"
+    },
+    {
+      "name": "crunchy chopped almonds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the pilaf oil in a large saucepan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the ginger and cook for 1 minute.",
+    "Add the cumin and cayenne pepper and cook for 1 minute.",
+    "Add the lentils and water (or broth) to the saucepan.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, until the lentils are tender, about 20-25 minutes.",
+    "Fluff the pilaf with a fork and season with salt to taste.",
+    "If desired, top with crunchy chopped almonds.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "north-african",
+    "lentils",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-crunchy-algerian-lentils-pilaf--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:13:03.251Z"
+}
