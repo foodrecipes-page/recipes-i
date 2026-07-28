@@ -1,0 +1,63 @@
+{
+  "slug": "indulgent-roasted-uruguayan-bread-roast",
+  "title": "Uruguayan Roast Sandwich",
+  "description": "A hearty sandwich filled with tender roast beef and served with a side of roasted vegetables.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roast beef",
+      "amount": "1 pound",
+      "notes": "Rarely cooked to 145°F (63°C)"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Roasted vegetables",
+      "amount": "1 cup",
+      "notes": "Roasted at 425°F (220°C) for 20 minutes"
+    },
+    {
+      "name": "Roast garlic mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the roast beef with salt and pepper.",
+    "Roast the beef to 145°F (63°C) for medium-rare.",
+    "Let the beef rest for 10 minutes.",
+    "Slice the beef thinly against the grain.",
+    "Spread the roast garlic mayonnaise on the bread.",
+    "Assemble the sandwiches with the sliced beef and roasted vegetables.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "sandwich",
+    "beef",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-roasted-uruguayan-bread-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:40:00.772Z"
+}
