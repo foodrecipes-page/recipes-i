@@ -9942,18 +9942,14 @@
   },
   {
     "slug": "intensely-crispy-egyptian-flatbread",
-    "title": "Intensely Crispy Egyptian Flatbread",
+    "title": "Egyptian-Style Flatbread",
     "tags": [
-      "crispy",
-      "egyptian",
       "flatbread",
-      "lazy-sunday",
-      "low-calorie",
-      "one-pot",
-      "vegetarian"
+      "egyptian",
+      "snack"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 12,
     "shard": "i"
   },
   {
@@ -18489,6 +18485,33 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 45,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-gooey-venezuelan-dasima-kombu-stew--german",
+    "title": "German Venison Stew",
+    "tags": [
+      "german",
+      "venison",
+      "stew",
+      "hearty",
+      "comfort"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 110,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-greek-flour-revithia--indian",
+    "title": "Revithia Pakora",
+    "tags": [
+      "indian",
+      "snack",
+      "fried",
+      "revithia"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
     "shard": "i"
   }
 ]
