@@ -4195,16 +4195,15 @@
   },
   {
     "slug": "indulgent-roasted-uruguayan-bread-roast",
-    "title": "Indulgent Roasted Uruguayan Bread",
+    "title": "Uruguayan Roast Sandwich",
     "tags": [
-      "bread",
-      "diabetic-friendly",
-      "rich",
-      "roasted",
-      "uruguayan"
+      "uruguayan",
+      "sandwich",
+      "beef",
+      "roast"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 60,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
     "shard": "i"
   },
   {
@@ -18329,6 +18328,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 10,
+    "shard": "i"
+  },
+  {
+    "slug": "izzy-french-sweet-rice-flour-chapssalgaru-macaron-risotto--german",
+    "title": "German Apple Strudel",
+    "tags": [
+      "german",
+      "dessert",
+      "apple",
+      "pastry"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "i"
   }
 ]
