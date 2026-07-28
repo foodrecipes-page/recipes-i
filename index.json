@@ -18318,5 +18318,17 @@
     "cuisine": null,
     "totalTimeMin": 70,
     "shard": "i"
+  },
+  {
+    "slug": "intrepid-ukrainian-chickpeas-salad--french",
+    "title": "French Chickpea Salad",
+    "tags": [
+      "salad",
+      "lunch",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 10,
+    "shard": "i"
   }
 ]
