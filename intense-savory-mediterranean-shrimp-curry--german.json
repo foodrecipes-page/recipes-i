@@ -1,0 +1,84 @@
+{
+  "slug": "intense-savory-mediterranean-shrimp-curry--german",
+  "title": "Shrimp Currywurst",
+  "description": "A German twist on the classic Currywurst, featuring succulent shrimp and a flavorful curry ketchup.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "Peel and de-vein the shrimp"
+    },
+    {
+      "name": "Curry Ketchup",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bread Rolls",
+      "amount": "4",
+      "notes": "German-style bread rolls"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook until caramelized, about 5 minutes.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "In a small bowl, mix together the curry ketchup and paprika.",
+    "Brush the curry ketchup mixture onto the shrimp.",
+    "Slice the bread rolls in half and toast until lightly browned.",
+    "Assemble the Currywurst by placing a cooked shrimp on each bread roll half.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "currywurst",
+    "shrimp",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-savory-mediterranean-shrimp-curry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:37:23.419Z"
+}
