@@ -1,0 +1,89 @@
+{
+  "slug": "indulgent-salty-crumbly-australian-sausage-hash--thai",
+  "title": "Australian Sausage and Hash",
+  "description": "A twist on the classic breakfast dish with australian sausage and crispy hash.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Australian Sausage",
+      "amount": "4",
+      "notes": "Cooked and sliced"
+    },
+    {
+      "name": "Hash",
+      "amount": "2 cups",
+      "notes": "Crispy fried"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": "For added umami"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "For added depth"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "For added sweetness"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the sausage in a pan over medium-high heat until browned on both sides.",
+    "Remove the sausage from the pan and set aside.",
+    "Add the diced onion to the pan and cook until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the Thai red curry paste and cook for 1 minute.",
+    "Add the cooked sausage back into the pan and stir to combine with the curry paste.",
+    "Add the crispy hash to the pan and stir to combine with the sausage and curry paste.",
+    "Season with fish sauce, soy sauce, and brown sugar.",
+    "Garnish with chopped cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-sausage",
+    "hash",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 20,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-salty-crumbly-australian-sausage-hash--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:01:33.722Z"
+}
