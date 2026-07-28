@@ -1,0 +1,94 @@
+{
+  "slug": "indulgent-tunisian-toor-dal-tagine--italian",
+  "title": "Tunisian-Italian Tagine Chicken Pasta",
+  "description": "A North African-inspired pasta dish with Italian flair, featuring tender chicken, crunchy vegetables, and a rich tagine sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "pasta"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Toor Dal",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Tunisian tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Indulgent olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Pasta (penne or rigatoni)",
+      "amount": "1 pound",
+      "notes": "dried"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large Dutch oven or pot, heat the olive oil over medium-high heat. Add the chicken and cook until browned on all sides and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside. Reduce heat to medium and add the onion, garlic, and red bell pepper. Cook until the vegetables are softened, about 5 minutes.",
+    "Add the cooked toor dal, cherry tomatoes, and tagine spice blend to the pot. Stir to combine and cook for 1-2 minutes.",
+    "Add the reserved pasta water to the pot and stir to combine. Bring the sauce to a simmer and cook for 2-3 minutes or until heated through.",
+    "Return the chicken to the pot and stir to combine with the sauce.",
+    "Add the cooked pasta to the pot and toss to combine with the sauce and chicken.",
+    "Season with salt and pepper to taste. Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "chicken",
+    "italian",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-tunisian-toor-dal-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:43:49.358Z"
+}
