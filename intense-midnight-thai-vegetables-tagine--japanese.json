@@ -1,0 +1,83 @@
+{
+  "slug": "intense-midnight-thai-vegetables-tagine--japanese",
+  "title": "Midnight Vegetables Stir Fry",
+  "description": "A simple and flavorful Japanese dish featuring a variety of vegetables stir-fried in a savory sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetables (such as broccoli, carrots, bell peppers, and onions)",
+      "amount": "2 cups",
+      "notes": "Mixed vegetables"
+    },
+    {
+      "name": "Midnight oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Thai chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "For added spice"
+    },
+    {
+      "name": "Vegetarian oyster sauce (gluten-free)",
+      "amount": "2 tablespoons",
+      "notes": "For savory flavor"
+    },
+    {
+      "name": "Soy sauce (gluten-free)",
+      "amount": "1 tablespoon",
+      "notes": "For added depth"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "For balance"
+    },
+    {
+      "name": "Intense sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "For nutty flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of Midnight oil in a large skillet or wok over medium-high heat.",
+    "Add the mixed vegetables and stir-fry for 3-4 minutes, or until they start to tenderize.",
+    "Add the Thai chili flakes, vegetarian oyster sauce, soy sauce, and rice vinegar. Stir-fry for another 2-3 minutes, or until the vegetables are tender-crisp.",
+    "Add the remaining 1 tablespoon of Midnight oil and stir-fry for 1 minute, or until the sauce is well combined.",
+    "Season with salt to taste, and serve immediately over steamed rice or noodles.",
+    "Garnish with sesame seeds and sliced green onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "vegan",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-midnight-thai-vegetables-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:51:29.058Z"
+}
