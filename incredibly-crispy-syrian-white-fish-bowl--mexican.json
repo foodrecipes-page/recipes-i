@@ -1,0 +1,71 @@
+{
+  "slug": "incredibly-crispy-syrian-white-fish-bowl--mexican",
+  "title": "Crispy Fish Tacos",
+  "description": "A delicious Mexican dish featuring crispy fish, topped with fresh ingredients and served in a crispy bowl.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White Fish Fillets",
+      "amount": "4",
+      "notes": "Any white fish such as tilapia or cod works well"
+    },
+    {
+      "name": "Incredibly Crispy Tortilla Bowl",
+      "amount": "1",
+      "notes": "Use store-bought or make your own"
+    },
+    {
+      "name": "Syrian Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Crispy Lettuce",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season the fish fillets with salt and a pinch of Syrian garlic.",
+    "3. Place the fish in a baking dish and bake for 8-10 minutes, or until cooked through.",
+    "4. Meanwhile, heat a large skillet over medium-high heat.",
+    "5. Place the crispy tortilla bowl in the skillet and cook for 2-3 minutes on each side, or until crispy.",
+    "6. Fill the crispy bowl with the cooked fish, crispy lettuce, and fresh cilantro.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-tacos",
+    "mexican-food",
+    "crispy-bowl"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/incredibly-crispy-syrian-white-fish-bowl--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:28:47.462Z"
+}
