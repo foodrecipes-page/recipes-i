@@ -1,0 +1,87 @@
+{
+  "slug": "intensely-gooey-venezuelan-dasima-kombu-stew--german",
+  "title": "German Venison Stew",
+  "description": "A hearty and flavorful stew originating from the German countryside, featuring tender venison in a rich broth.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Venison Stew Meat",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Dasima (Kombu)",
+      "amount": "2 sheets",
+      "notes": "Reconstituted in water"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "Full-bodied"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": "Concentrated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the venison cubes until browned on all sides, about 5 minutes.",
+    "Remove the venison from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for an additional 5 minutes.",
+    "Add the reconstituted dasima, red wine, beef broth, and tomato paste to the pot.",
+    "Stir to combine and bring to a boil.",
+    "Return the venison to the pot and reduce heat to low.",
+    "Simmer, covered, for 1 1/2 hours, or until the venison is tender.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "venison",
+    "stew",
+    "hearty",
+    "comfort"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-gooey-venezuelan-dasima-kombu-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:40:55.495Z"
+}
