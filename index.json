@@ -18342,5 +18342,43 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-middle-eastern-mozzarella-bowl--mexican",
+    "title": "Bowl of Indulgent Mozzarella Enchiladas",
+    "tags": [
+      "mexican",
+      "enchiladas",
+      "cheese"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-crunchy-algerian-lentils-pilaf--gluten-free",
+    "title": "Spicy Algerian-Style Lentil Pilaf",
+    "tags": [
+      "gluten-free",
+      "north-african",
+      "lentils",
+      "pilaf"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-tunisian-tarragon-salad--keto",
+    "title": "Pan-Seared Tuna with Tunisian Salad",
+    "tags": [
+      "keto",
+      "tuna",
+      "salad",
+      "mediterranean"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 22,
+    "shard": "i"
   }
 ]
