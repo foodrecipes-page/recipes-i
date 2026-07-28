@@ -8748,17 +8748,15 @@
   },
   {
     "slug": "intense-spicy-italian-almonds-pasta",
-    "title": "intense spicy italian almonds pasta",
+    "title": "Spicy Italian Pasta with Almond Crust",
     "tags": [
-      "gluten-free",
-      "italian-cuisine",
-      "one-pan",
-      "plant-based",
+      "italian",
+      "pasta",
       "spicy",
-      "weeknight"
+      "almonds"
     ],
     "cuisine": "italian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -18441,6 +18439,32 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 150,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-salty-crumbly-australian-sausage-hash--thai",
+    "title": "Australian Sausage and Hash",
+    "tags": [
+      "australian-sausage",
+      "hash",
+      "thai-curry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-smoky-chinese-masarepa-bao--thai",
+    "title": "Thai-Style Smoked Pork Bao",
+    "tags": [
+      "thai",
+      "chinese",
+      "fusion",
+      "bacon",
+      "pork"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
     "shard": "i"
   }
 ]
