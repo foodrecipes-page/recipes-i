@@ -8706,18 +8706,15 @@
   },
   {
     "slug": "intense-spanish-mung-bean-empanadas",
-    "title": "Intense Spanish Mung Bean Empanadas",
+    "title": "Empanadas con Frijoles",
     "tags": [
-      "bamboo-steamer",
-      "empanada",
-      "kid-friendly",
-      "low-fat",
-      "mung-bean",
-      "spanish",
-      "vegetarian"
+      "latin-american",
+      "vegetarian",
+      "fry",
+      "snack"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 23,
     "shard": "i"
   },
   {
