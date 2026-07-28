@@ -1,0 +1,87 @@
+{
+  "slug": "intense-spicy-italian-almonds-pasta",
+  "title": "Spicy Italian Pasta with Almond Crust",
+  "description": "A spicy and savory pasta dish with a crunchy almond crust.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup",
+      "notes": "slivered"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions. Drain and set aside.",
+    "In a pan, heat olive oil over medium heat. Add garlic and cook for 1 minute.",
+    "Add red pepper flakes and cook for an additional minute.",
+    "Add tomato sauce and stir to combine. Bring to a simmer.",
+    "In a separate pan, toast slivered almonds over medium heat until fragrant.",
+    "In a small bowl, mix together Parmesan cheese and chopped basil.",
+    "In a large bowl, combine cooked pasta, tomato sauce mixture, and Parmesan cheese mixture. Toss to combine.",
+    "Transfer pasta mixture to a baking dish and top with toasted almonds.",
+    "Bake in preheated oven for 15-20 minutes, or until cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "spicy",
+    "almonds"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-spicy-italian-almonds-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:55:40.832Z"
+}
