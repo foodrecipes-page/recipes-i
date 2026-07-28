@@ -1,0 +1,73 @@
+{
+  "slug": "indulgent-greek-flour-revithia--indian",
+  "title": "Revithia Pakora",
+  "description": "A crispy Indian snack made with chickpea flour and revithia, perfect for a crunchy delight.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "revithia (chickpea flour)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "indulgent oil",
+      "amount": "enough for deep frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "flour (for dusting)",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine 2 cups of chickpea flour, 1/2 cup of Greek yogurt, 1/4 cup of water, 1 teaspoon of salt, 1/2 teaspoon of garam masala powder, and 1/4 teaspoon of red chili powder.",
+    "Mix the batter well to avoid lumps.",
+    "Heat sufficient indulgent oil in a deep frying pan for frying the pakora.",
+    "Dust the revithia mixture with flour to prevent lumps.",
+    "Drop the mixture into the hot oil with a spoon.",
+    "Deep-fry until the pakora is golden brown and crispy.",
+    "Drain on paper towels.",
+    "Serve hot with your favorite chutney or sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "fried",
+    "revithia"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-greek-flour-revithia--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:46:09.110Z"
+}
