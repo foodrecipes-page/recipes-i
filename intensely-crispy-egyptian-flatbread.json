@@ -1,0 +1,76 @@
+{
+  "slug": "intensely-crispy-egyptian-flatbread",
+  "title": "Egyptian-Style Flatbread",
+  "description": "A crispy and intensely flavorful flatbread inspired by traditional Egyptian cuisine.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Egyptian flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "sumac",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the Egyptian flatbread into triangles or squares.",
+    "In a small bowl, mix together tahini, garlic, lemon juice, and olive oil.",
+    "Brush the mixture evenly onto each piece of flatbread.",
+    "Season with salt, black pepper, and sumac (if using).",
+    "Bake for 5-7 minutes or until crispy and golden brown.",
+    "Remove from oven and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "egyptian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-crispy-egyptian-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:03:13.622Z"
+}
