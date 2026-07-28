@@ -18465,5 +18465,30 @@
     "cuisine": "thai",
     "totalTimeMin": 45,
     "shard": "i"
+  },
+  {
+    "slug": "incredibly-crispy-syrian-white-fish-bowl--mexican",
+    "title": "Crispy Fish Tacos",
+    "tags": [
+      "fish-tacos",
+      "mexican-food",
+      "crispy-bowl"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-tunisian-toor-dal-tagine--italian",
+    "title": "Tunisian-Italian Tagine Chicken Pasta",
+    "tags": [
+      "pasta",
+      "chicken",
+      "italian",
+      "north-african"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "i"
   }
 ]
