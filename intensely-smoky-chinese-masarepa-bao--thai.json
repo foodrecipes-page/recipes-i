@@ -1,0 +1,86 @@
+{
+  "slug": "intensely-smoky-chinese-masarepa-bao--thai",
+  "title": "Thai-Style Smoked Pork Bao",
+  "description": "A fusion of Thai and Chinese flavors in a crispy bao bun filled with smoked pork.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "intensely smoky pork",
+      "amount": "1 pound (450g)",
+      "notes": "Smoked pork shoulder, thinly sliced"
+    },
+    {
+      "name": "masarepa",
+      "amount": "2 cups (250g)",
+      "notes": "Colombian cornmeal dough for bao buns"
+    },
+    {
+      "name": "bao",
+      "amount": "4-6 pieces",
+      "notes": "Pre-made bao buns or homemade"
+    },
+    {
+      "name": "chinese cabbage",
+      "amount": "1 head",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "thai chili sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for added heat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "For added umami flavor"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": "Optional, for added sweetness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake the bao buns for 10-12 minutes or until crispy.",
+    "In a pan, heat 1 tablespoon of oil over medium heat.",
+    "Add the sliced smoky pork and cook until crispy.",
+    "In a separate pan, heat 1 tablespoon of oil over medium heat.",
+    "Add the thinly sliced Chinese cabbage and cook until softened.",
+    "To assemble the bao, place a spoonful of the pork and cabbage mixture onto a bao bun.",
+    "Drizzle with Thai chili sauce, fish sauce, and lime juice, and sprinkle with palm sugar if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chinese",
+    "fusion",
+    "bacon",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "25g",
+    "carbs": "25g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-smoky-chinese-masarepa-bao--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:04:31.926Z"
+}
