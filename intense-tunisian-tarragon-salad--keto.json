@@ -1,0 +1,64 @@
+{
+  "slug": "intense-tunisian-tarragon-salad--keto",
+  "title": "Pan-Seared Tuna with Tunisian Salad",
+  "description": "A keto-friendly dish featuring pan-seared tuna, topped with a refreshing Tunisian salad.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tuna steaks (6 oz each)",
+      "amount": "2 steaks",
+      "notes": "Fresh, sashimi-grade tuna"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin olive oil"
+    },
+    {
+      "name": "tarragon",
+      "amount": "2 sprigs",
+      "notes": "Fresh tarragon leaves"
+    },
+    {
+      "name": "tunisian salad mix",
+      "amount": "4 cups",
+      "notes": "Pre-mixed salad with olives, capers, garlic, and lemon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the tuna steaks with salt and pepper.",
+    "3. Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "4. Sear the tuna steaks for 2 minutes on each side.",
+    "5. Transfer the skillet to the oven and cook for 8-10 minutes, or until the tuna reaches 120°F (49°C) for medium-rare.",
+    "6. While the tuna cooks, mix the tunisian salad mix, chopped tarragon, and a squeeze of lemon juice in a bowl.",
+    "7. Once the tuna is done, let it rest for 2 minutes before slicing it thinly.",
+    "8. Serve the sliced tuna on top of the tunisian salad.",
+    "9. Garnish with additional tarragon leaves and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "tuna",
+    "salad",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 50,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-tunisian-tarragon-salad--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:33:45.693Z"
+}
