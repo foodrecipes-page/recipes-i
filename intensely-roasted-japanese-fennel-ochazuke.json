@@ -1,84 +1,80 @@
 {
   "slug": "intensely-roasted-japanese-fennel-ochazuke",
-  "title": "Japanese Ochazuke with Roasted Fennel",
-  "description": "A Japanese comfort food dish made with steaming hot rice, gently poached fish, and crunchy roasted fennel.",
+  "title": "Japanese Ochazuke Rice Bowl with Roasted Fennel",
+  "description": "A simple and comforting Japanese-inspired rice bowl recipe featuring roasted fennel and topped with intensely flavorful ochazuke.",
   "cuisine": "Japanese",
   "diet": [
     "vegetarian",
     "gluten-free"
   ],
-  "meal": "breakfast",
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "Japanese rice",
+      "name": "Japanese short-grain rice",
       "amount": "1 cup"
     },
     {
-      "name": "Salmon fillet",
-      "amount": "4 oz",
-      "notes": "cooked to an internal temperature of 145°F (63°C)"
+      "name": "fennel",
+      "amount": "1 large bulb",
+      "notes": "roasted"
     },
     {
-      "name": "Olive oil",
-      "amount": "2 tbsp"
+      "name": "ochazuke",
+      "amount": "2 tablespoons"
     },
     {
-      "name": "Fennel bulb",
-      "amount": "1 large",
-      "notes": "roasted in the oven"
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
     },
     {
-      "name": "Sesame oil",
-      "amount": "1 tsp"
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
     },
     {
-      "name": "Soy sauce",
-      "amount": "1 tsp"
+      "name": "salt",
+      "amount": "to taste"
     },
     {
-      "name": "Sake",
-      "amount": "1 tsp"
-    },
-    {
-      "name": "Furikake",
-      "amount": "1 tsp"
-    },
-    {
-      "name": "Green onions",
+      "name": "green onions",
       "amount": "1/4 cup",
-      "notes": "chopped for garnish"
+      "notes": "chopped"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "chopped"
     }
   ],
   "instructions": [
-    "1. Preheat the oven to 425°F (220°C).",
-    "2. Cut the fennel bulb in half and slice it thinly. Place on a baking sheet and drizzle with olive oil. Roast in the oven for 20-25 minutes, or until tender and caramelized.",
-    "3. Cook the Japanese rice according to the package instructions.",
-    "4. Season the salmon fillet with salt and pepper. Cook in a pan with a little bit of sesame oil until cooked through, about 4-6 minutes per side.",
-    "5. To assemble the dish, place a scoop of cooked rice in a bowl. Place the cooked salmon fillet on top of the rice.",
-    "6. Spoon the roasted fennel over the salmon. Drizzle with soy sauce, sake, and sesame oil.",
-    "7. Sprinkle furikake over the top of the dish and garnish with chopped green onions.",
-    "8. Serve immediately and enjoy!"
+    "Preheat oven to 400°F (200°C).",
+    "Cut the fennel bulb in half lengthwise and place on a baking sheet.",
+    "Drizzle with 1 tablespoon of sesame oil and season with salt. Roast in the oven for 20-25 minutes, or until tender.",
+    "Cook the Japanese short-grain rice according to package instructions.",
+    "In a small saucepan, heat the ochazuke over low heat.",
+    "In a large bowl, combine the cooked rice, roasted fennel, soy sauce, and sesame oil.",
+    "Pour the ochazuke over the rice mixture and toss to combine.",
+    "Garnish with chopped green onions and pickled ginger.",
+    "Serve immediately and enjoy."
   ],
-  "prepTimeMin": 20,
-  "cookTimeMin": 12,
-  "totalTimeMin": 32,
-  "servings": 1,
-  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
   "tags": [
     "japanese",
-    "breakfast",
-    "comfort-food",
-    "fennel",
-    "salmon"
+    "rice-bowl",
+    "veggie-forward",
+    "comfort-food"
   ],
   "nutrition": {
     "calories": 420,
-    "protein": 35,
-    "carbs": 40,
-    "fat": 20
+    "protein": "8g",
+    "carbs": "60g",
+    "fat": "20g"
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/intensely-roasted-japanese-fennel-ochazuke",
   "providerUsed": "groq",
-  "createdAt": "2026-07-19T23:48:05.349Z"
+  "createdAt": "2026-07-22T19:06:43.648Z"
 }
