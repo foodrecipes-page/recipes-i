@@ -1,0 +1,85 @@
+{
+  "slug": "intrepid-ukrainian-chickpeas-salad--french",
+  "title": "French Chickpea Salad",
+  "description": "A refreshing French-inspired salad made with chickpeas, mixed greens, and a hint of Ukrainian flair.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 15-ounce can",
+      "notes": ""
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "intrepid",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "ukrainian",
+      "amount": "2 tablespoons, chopped fresh dill",
+      "notes": ""
+    },
+    {
+      "name": "salad",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mixed greens, chickpeas, intrepid, Ukrainian, and salad.",
+    "In a small bowl, whisk together the lemon juice and olive oil.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "lunch",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intrepid-ukrainian-chickpeas-salad--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:04:37.632Z"
+}
