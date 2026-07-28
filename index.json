@@ -18404,5 +18404,43 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "i"
+  },
+  {
+    "slug": "indulgent-egyptian-chestnut-pilaf--vegan",
+    "title": "Egyptian Chestnut Pilaf",
+    "tags": [
+      "vegan",
+      "chestnut",
+      "pilaf",
+      "egyptian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-savory-mediterranean-shrimp-curry--german",
+    "title": "Shrimp Currywurst",
+    "tags": [
+      "german",
+      "currywurst",
+      "shrimp",
+      "snack"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-australian-lamb-tagine--german",
+    "title": "Lamb Tagine Australian Style",
+    "tags": [
+      "german",
+      "lamb",
+      "australian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 150,
+    "shard": "i"
   }
 ]
