@@ -1,0 +1,81 @@
+{
+  "slug": "innovative-light-norwegian-walnut-pilaf--keto",
+  "title": "Walnut Crusted Salmon with Pilaf",
+  "description": "A keto-friendly dish featuring pan-seared salmon with a crunchy walnut crust, served with a light and fluffy pilaf.",
+  "cuisine": "norwegian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon Fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "Fresh and sustainably sourced"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1 cup (chopped)",
+      "notes": "Toasted and finely ground"
+    },
+    {
+      "name": "Pilaf Rice",
+      "amount": "1 cup (rinsed and drained)",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup (chopped)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the salmon fillets with salt and pepper.",
+    "In a shallow dish, mix together the chopped walnuts and a pinch of salt.",
+    "Dip each salmon fillet into the walnut mixture, pressing gently to adhere.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the walnut-crusted salmon for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes or until cooked through.",
+    "While the salmon is cooking, prepare the pilaf according to package instructions.",
+    "To serve, place a salmon fillet on each plate and top with a spoonful of pilaf.",
+    "Garnish with chopped fresh dill and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "norwegian",
+    "salmon",
+    "walnuts",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/innovative-light-norwegian-walnut-pilaf--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:18:43.124Z"
+}
