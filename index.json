@@ -3968,15 +3968,15 @@
   },
   {
     "slug": "indulgent-polish-dijon-mustard-bisque",
-    "title": "Indulgent Polish Dijon Mustard Bisque",
+    "title": "Polish Dijon Chicken Soup",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "soups",
-      "weeknight"
+      "chicken",
+      "soup",
+      "lunch",
+      "polish"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "i"
   },
   {
@@ -18605,6 +18605,22 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intensely-resinous-russian-pasta--french",
+    "title": "Russian Pesto Pasta",
+    "tags": [
+      "french",
+      "pesto",
+      "pasta",
+      "russian",
+      "basil",
+      "garlic",
+      "pine-nuts"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
     "shard": "i"
   }
 ]
