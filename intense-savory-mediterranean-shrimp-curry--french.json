@@ -1,0 +1,89 @@
+{
+  "slug": "intense-savory-mediterranean-shrimp-curry--french",
+  "title": "Pan-Seared Shrimp with Mediterranean Curry Sauce",
+  "description": "A flavorful and aromatic French-inspired dish with succulent shrimp and a rich, spicy Mediterranean curry sauce. Perfect for a quick and elegant dinner.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "intense olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "mediterranean olives",
+      "amount": "1/4 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the lemon juice and cook for 1 minute, until the sauce thickens.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the olives and parsley to the skillet and stir to combine.",
+    "Return the shrimp to the skillet and toss to coat with the sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "seafood",
+    "curry",
+    "mediterranean",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intense-savory-mediterranean-shrimp-curry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:03:28.275Z"
+}
