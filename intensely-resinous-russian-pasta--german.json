@@ -1,0 +1,84 @@
+{
+  "slug": "intensely-resinous-russian-pasta--german",
+  "title": "German Resinous Pasta Bake",
+  "description": "A hearty German-inspired pasta dish featuring resinous Russian ingredients.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "wide egg noodles"
+    },
+    {
+      "name": "Russian black truffle oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "intensely flavored onion jam",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "resinous fir needles",
+      "amount": "1/4 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "grated Swiss cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente.",
+    "In a large skillet, melt butter over medium heat. Add garlic powder and cook for 1 minute.",
+    "Stir in onion jam and cook for 2-3 minutes until heated through.",
+    "Add fir needles and cook for an additional 1-2 minutes until fragrant.",
+    "Stir in black truffle oil and cook for 1 minute.",
+    "In a large bowl, combine cooked pasta, skillet mixture, and grated cheese.",
+    "Transfer the pasta mixture to a baking dish and top with additional grated cheese if desired.",
+    "Bake in the preheated oven for 20-25 minutes until golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "baked-pasta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-resinous-russian-pasta--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:29:08.280Z"
+}
