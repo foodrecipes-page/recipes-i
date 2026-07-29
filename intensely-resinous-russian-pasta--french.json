@@ -1,0 +1,85 @@
+{
+  "slug": "intensely-resinous-russian-pasta--french",
+  "title": "Russian Pesto Pasta",
+  "description": "A French-inspired pasta dish featuring intensely flavored Russian ingredients.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Russian Basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Russian Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Russian Pine Nuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Russian Parmesan",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Russian Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a food processor, combine Russian basil, garlic, pine nuts, and Russian parmesan.",
+    "Process until well combined and slightly chunky.",
+    "With the processor running, slowly pour in the Russian olive oil.",
+    "Season with salt and pepper to taste.",
+    "Drain the cooked pasta and return it to the pot.",
+    "Add the pesto sauce to the pasta and toss until well coated.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "pesto",
+    "pasta",
+    "russian",
+    "basil",
+    "garlic",
+    "pine-nuts"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-resinous-russian-pasta--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:35:12.077Z"
+}
