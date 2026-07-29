@@ -1,0 +1,83 @@
+{
+  "slug": "indulgent-polish-dijon-mustard-bisque",
+  "title": "Polish Dijon Chicken Soup",
+  "description": "A hearty and flavorful soup made with tender chicken, Polish sausage, and a hint of Dijon mustard.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1/2 pound",
+      "notes": "such as kielbasa"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": "spooned into the pot"
+    },
+    {
+      "name": "bisque",
+      "amount": "1 cup",
+      "notes": "chicken or vegetable broth"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "use as needed to achieve desired consistency"
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the chopped onion, carrot, and celery in a little bit of water until tender.",
+    "Add the Polish sausage to the pot and cook until browned.",
+    "Add the chicken breast to the pot and cook until browned on all sides.",
+    "Add the Dijon mustard to the pot and stir to combine.",
+    "Pour in the bisque and water, and bring the mixture to a boil.",
+    "Reduce heat and let simmer for 20 minutes, or until the chicken is cooked through.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "soup",
+    "lunch",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-polish-dijon-mustard-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:55:17.817Z"
+}
