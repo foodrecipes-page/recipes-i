@@ -1,0 +1,95 @@
+{
+  "slug": "intensely-flavored-slovakian-meat-stew--vegetarian",
+  "title": "Slovakian Mushroom Stew",
+  "description": "A hearty and flavorful stew from Slovakia, made with a variety of mushrooms and served with crusty bread.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mushrooms (mixed types)",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Vegan broth",
+      "amount": "2 cups",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat.",
+    "Add the onions and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the caraway seeds, tomato paste, broth, thyme, and bay leaves.",
+    "Stir to combine, then bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20-25 minutes, or until the stew has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Serve with crusty bread or over egg noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "mushroom",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-flavored-slovakian-meat-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:05:41.604Z"
+}
