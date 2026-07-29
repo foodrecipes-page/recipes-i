@@ -18567,5 +18567,32 @@
     "cuisine": "norwegian",
     "totalTimeMin": 22,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-savory-russian-beef-skewers--vegetarian",
+    "title": "Russian-Style Beet Skewers",
+    "tags": [
+      "russian",
+      "vegetarian",
+      "skewers",
+      "roasted"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "intense-savory-mediterranean-shrimp-curry--french",
+    "title": "Pan-Seared Shrimp with Mediterranean Curry Sauce",
+    "tags": [
+      "french",
+      "seafood",
+      "curry",
+      "mediterranean",
+      "shrimp"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "i"
   }
 ]
