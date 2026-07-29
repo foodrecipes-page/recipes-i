@@ -18594,5 +18594,17 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-resinous-russian-pasta--german",
+    "title": "German Resinous Pasta Bake",
+    "tags": [
+      "german",
+      "baked-pasta",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "i"
   }
 ]
