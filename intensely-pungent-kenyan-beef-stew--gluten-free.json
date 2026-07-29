@@ -1,0 +1,93 @@
+{
+  "slug": "intensely-pungent-kenyan-beef-stew--gluten-free",
+  "title": "Kenyan Beef Stew",
+  "description": "A hearty, gluten-free stew from Kenya made with tender beef and aromatic spices.",
+  "cuisine": "African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Kenyan Beef Spice Mix",
+      "amount": "2 tablespoons",
+      "notes": "Available at African markets or online"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Intensely Pungent Red Pepper",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes in batches until browned on all sides, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside.",
+    "Reduce heat to medium and add the chopped onion. Cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Kenyan Beef Spice Mix and cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Return the browned beef to the pot and add the sliced red pepper.",
+    "Cover the pot and transfer to the oven. Braise for 2 1/2 hours, or until the beef is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over gluten-free rice or with gluten-free naan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "kenyan",
+    "gluten-free",
+    "african"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/intensely-pungent-kenyan-beef-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:01:08.631Z"
+}
