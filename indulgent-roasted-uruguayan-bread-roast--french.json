@@ -1,0 +1,64 @@
+{
+  "slug": "indulgent-roasted-uruguayan-bread-roast--french",
+  "title": "Uruguayan Roast Beef with French Baguette",
+  "description": "A tender and flavorful roast beef served with a crusty French baguette, perfect for a special occasion.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan roast beef",
+      "amount": "1.2 kg",
+      "notes": "Boneless, preferably prime cut"
+    },
+    {
+      "name": "French baguette",
+      "amount": "1",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Roast",
+      "amount": "2 tbsp",
+      "notes": "beef drippings or olive oil"
+    },
+    {
+      "name": "Indulgent",
+      "amount": "1 tsp",
+      "notes": "optional, add to roast for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (450°F).",
+    "Season the roast beef with salt and pepper on both sides.",
+    "Heat the roast in a large oven-safe skillet over medium-high heat.",
+    "Sear the roast beef for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and roast for 20 minutes per kilogram, or until cooked to your desired level of doneness.",
+    "Remove the roast from the oven and let it rest for 10-15 minutes.",
+    "Slice the French baguette into 1-inch thick slices.",
+    "Serve the roasted beef with the baguette slices on the side.",
+    "Optional: drizzle with the indulgent sauce (see notes)"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "french",
+    "uruguayan",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/indulgent-roasted-uruguayan-bread-roast--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:07:50.280Z"
+}
