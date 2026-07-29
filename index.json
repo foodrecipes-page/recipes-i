@@ -18527,5 +18527,45 @@
     "cuisine": "African",
     "totalTimeMin": 170,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-flavored-slovakian-meat-stew--vegetarian",
+    "title": "Slovakian Mushroom Stew",
+    "tags": [
+      "slovakian",
+      "mushroom",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
+    "shard": "i"
+  },
+  {
+    "slug": "indulgent-roasted-uruguayan-bread-roast--french",
+    "title": "Uruguayan Roast Beef with French Baguette",
+    "tags": [
+      "beef",
+      "french",
+      "uruguayan",
+      "roast"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 135,
+    "shard": "i"
+  },
+  {
+    "slug": "innovative-light-norwegian-walnut-pilaf--keto",
+    "title": "Walnut Crusted Salmon with Pilaf",
+    "tags": [
+      "keto",
+      "norwegian",
+      "salmon",
+      "walnuts",
+      "pilaf"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 22,
+    "shard": "i"
   }
 ]
