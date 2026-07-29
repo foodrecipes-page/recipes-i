@@ -18513,5 +18513,19 @@
     "cuisine": "indian",
     "totalTimeMin": 22,
     "shard": "i"
+  },
+  {
+    "slug": "intensely-pungent-kenyan-beef-stew--gluten-free",
+    "title": "Kenyan Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "kenyan",
+      "gluten-free",
+      "african"
+    ],
+    "cuisine": "African",
+    "totalTimeMin": 170,
+    "shard": "i"
   }
 ]
